@@ -28,3 +28,33 @@ class Documento:
         if isinstance(other, Documento):
             return self.nombre == other.nombre
         return False
+
+
+@dataclass
+class Chunk:
+    """
+    Representa un fragmento de un Documento.
+    """
+
+    def __init__(self, texto: str, documento_origen: Documento, pagina: int | None = None, indice: int = 0):
+        self.texto = texto
+        self.documento_origen = documento_origen
+        self.pagina = pagina
+        self.indice = indice
+
+    def __repr__(self) -> str:
+        return (
+            f"Chunk(texto={self.texto!r}, documento_origen={self.documento_origen!r}, "
+            f"pagina={self.pagina}, indice={self.indice})"
+        )
+
+    def __eq__(self, other) -> bool:
+        if isinstance(other, Chunk):
+            return (
+                self.texto == other.texto
+                and self.documento_origen == other.documento_origen
+                and self.pagina == other.pagina
+                and self.indice == other.indice
+            )
+        return False
+    
