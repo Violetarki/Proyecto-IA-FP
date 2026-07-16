@@ -3,3 +3,6 @@ venv/
 
 # Caché de Python
 __pycache__/
+
+# PDFs y documentos de trabajo
+documents/
