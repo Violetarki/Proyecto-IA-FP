@@ -1,7 +1,17 @@
+"""Contiene las clases que representan los documentos y otros modelos de datos del proyecto.
+Define la clase Documento, utilizada para almacenar la información extraída de un PDF."""
+
 from dataclasses import dataclass
 
 @dataclass
 class Documento:
+    """
+    Representa un documento leído desde un archivo PDF.
+
+    Almacena la información básica del documento, incluyendo su nombre,
+    ruta, contenido textual y número de páginas.
+    """
+
     def __init__(self, nombre: str = "", texto: str = "", ruta: str = "", paginas: int = 0):
         self.nombre = nombre
         self.texto = texto
