@@ -12,19 +12,26 @@ def leer_documentos(carpeta: str) -> list[Documento]:
     """
 
     # Recibir la carpeta
+    ruta = Path(carpeta)
 
     # Comprobar que la carpeta existe
+    if not ruta.exists() or not ruta.is_dir():
+        raise FileNotFoundError(f"La carpeta no existe: {carpeta}")
 
     # Buscar todos los PDFs
     # Posibilidad de usar ruta.glob("*.pdf") --> "Búscame todos los archivos que cumplan un patrón."
+    pdf_paths = list(ruta.glob("*.pdf"))
 
     # Crear una lista vacía
     documentos = []
 
     # Para cada PDF:
+    for pdf_path in pdf_paths:
+        # 1. llamar a leer_pdf()
+        doc = leer_pdf(str(pdf_path))
 
-    # 1. llamar a leer_pdf()
-
-    # 2. guardar el Documento en la lista
+        # 2. guardar el Documento en la lista
+        documentos.append(doc)
 
     # Devolver la lista
+    return documentos
