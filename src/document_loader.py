@@ -17,6 +17,9 @@ def leer_documentos(carpeta: str) -> list[Documento]:
     # Comprobar que la carpeta existe
     if not ruta.exists() or not ruta.is_dir():
         raise FileNotFoundError(f"La carpeta no existe: {carpeta}")
+    
+    if not ruta.is_dir():
+        raise NotADirectoryError(f"La ruta no es una carpeta: {ruta}")
 
     # Buscar todos los PDFs
     # Posibilidad de usar ruta.glob("*.pdf") --> "Búscame todos los archivos que cumplan un patrón."
@@ -35,3 +38,7 @@ def leer_documentos(carpeta: str) -> list[Documento]:
 
     # Devolver la lista
     return documentos
+
+if __name__ == "__main__":
+    ruta_docs = "documents"
+    leer_documentos(ruta_docs)
