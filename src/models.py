@@ -18,4 +18,3 @@ class Documento:
         if isinstance(other, Documento):
             return self.nombre == other.nombre
         return False
-    

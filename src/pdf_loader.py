@@ -1,3 +1,7 @@
+"""Recibe la ruta de un PDF, lo abre con PyMuPDF,
+recorre todas las páginas, extrae el texto, cuenta el número de páginas
+y construye un objeto Documento."""
+
 from models import Documento
 
 doc = Documento(
@@ -8,4 +12,3 @@ doc = Documento(
 )
 
 print(doc)
-    
