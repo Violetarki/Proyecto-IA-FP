@@ -1,15 +1,19 @@
-"""Buscar documentos en una carpeta 
-y utilizar leer_pdf() para convertirlos en objetos Documento"""
+"""Recorre una carpeta, lee todos los archivos PDF utilizando pdf_loader --> leer_pdf()
+y devuelve una lista de objetos Documento."""
 
 from pathlib import Path
 from models import Documento
 from pdf_loader import leer_pdf
 
 def leer_documentos(carpeta: str) -> list[Documento]:
+    """
+    Lee todos los archivos PDF de una carpeta y devuelve una lista
+    de objetos Documento.
+    """
 
     # Recibir la carpeta
 
-    # Comprobar que existe
+    # Comprobar que la carpeta existe
 
     # Buscar todos los PDFs
     # Posibilidad de usar ruta.glob("*.pdf") --> "Búscame todos los archivos que cumplan un patrón."
@@ -17,10 +21,10 @@ def leer_documentos(carpeta: str) -> list[Documento]:
     # Crear una lista vacía
     documentos = []
 
-    # Para cada PDF
+    # Para cada PDF:
 
-        # llamar a leer_pdf()
+    # 1. llamar a leer_pdf()
 
-        # guardar el Documento en la lista
+    # 2. guardar el Documento en la lista
 
     # Devolver la lista
