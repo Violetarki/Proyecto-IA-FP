@@ -21,8 +21,7 @@ def leer_documentos(carpeta: str) -> list[Documento]:
     if not ruta.is_dir():
         raise NotADirectoryError(f"La ruta no es una carpeta: {ruta}")
 
-    # Buscar todos los PDFs
-    # Posibilidad de usar ruta.glob("*.pdf") --> "Búscame todos los archivos que cumplan un patrón."
+    # Buscar todos los PDFs que cumplan un patrón
     pdf_paths = list(ruta.glob("*.pdf"))
 
     # Crear una lista vacía
