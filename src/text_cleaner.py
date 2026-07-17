@@ -1,3 +1,5 @@
+"""Módulo de limpieza de los textos obtenidos de los manuales PDF"""
+
 import re
 
 def limpiar_texto(texto: str) -> str:
@@ -21,7 +23,7 @@ def limpiar_texto(texto: str) -> str:
     return texto
 
 
-PATRONES_RUIDO_PAGINA = {
+PATRONES_RUIDO_BOE = {
     "BOLETÍN OFICIAL DEL ESTADO",
     "Núm.",
     "Sec. I.",
@@ -84,7 +86,7 @@ def eliminar_elementos_boe(texto: str) -> str:
 
         es_elemento_pagina = False
 
-        for patron in PATRONES_RUIDO_PAGINA:
+        for patron in PATRONES_RUIDO_BOE:
             if patron in linea:
                 es_elemento_pagina = True
                 break
