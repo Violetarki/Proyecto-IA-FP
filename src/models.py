@@ -12,7 +12,8 @@ class Documento:
     ruta, contenido textual y número de páginas.
     """
 
-    def __init__(self, nombre: str = "", texto: str = "", ruta: str = "", paginas: int = 0):
+    def __init__(self, metodologia: Metodologia, nombre: str = "", texto: str = "", ruta: str = "", paginas: int = 0 ):
+        self.metodologia = metodologia
         self.nombre = nombre
         self.texto = texto
         self.ruta = ruta
@@ -22,6 +23,7 @@ class Documento:
         return (
             f"Documento(nombre={self.nombre!r}, texto={self.texto!r}, "
             f"ruta={self.ruta!r}, paginas={self.paginas})"
+            f"metodologia={self.metodologia!r}"
         )
 
     def __eq__(self, other):
@@ -58,4 +60,21 @@ class Chunk:
                 and self.documento_origen == other.documento_origen
                 and self.seccion == other.seccion
             )
+        return False
+    
+@dataclass
+class Metodologia:
+    """
+    Representa de qué carpeta viene un documento
+    """
+
+    def __init__(self, nombre: str = ""):
+        self.nombre = nombre
+
+    def __repr__(self) -> str:
+        return f"Metodologia(nombre={self.nombre!r})"
+
+    def __eq__(self, other) -> bool:
+        if isinstance(other, Metodologia):
+            return self.nombre == other.nombre
         return False
