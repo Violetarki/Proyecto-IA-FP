@@ -5,4 +5,12 @@ venv/
 __pycache__/
 
 # PDFs y documentos de trabajo
-documents/
+# Ignorar los archivos de las metodologías
+documents/lean_startup/*
+documents/simulacion_empresarial/*
+# documents/boe/*
+
+# Mantener las carpetas en Git
+!documents/lean_startup/.gitkeep
+!documents/simulacion_empresarial/.gitkeep
+# !documents/boe/.gitkeep
