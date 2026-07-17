@@ -1,1 +1,2 @@
-"""Se encarga de dividir documentos en chunks"""
+"""Se encarga de dividir un Documento en una lista de Chunk, 
+procurando que cada uno represente una unidad coherente de conocimiento."""
