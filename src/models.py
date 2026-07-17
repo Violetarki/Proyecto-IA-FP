@@ -36,16 +36,19 @@ class Chunk:
     Representa un fragmento de un Documento.
     """
 
-    def __init__(self, texto: str, documento_origen: Documento, pagina: int | None = None, indice: int = 0):
+    texto: str
+    documento_origen: str
+    seccion: str
+
+    def __init__(self, texto: str, documento_origen: str, seccion: str):
         self.texto = texto
         self.documento_origen = documento_origen
-        self.pagina = pagina
-        self.indice = indice
+        self.seccion = seccion
 
     def __repr__(self) -> str:
         return (
             f"Chunk(texto={self.texto!r}, documento_origen={self.documento_origen!r}, "
-            f"pagina={self.pagina}, indice={self.indice})"
+            f"seccion={self.seccion!r})"
         )
 
     def __eq__(self, other) -> bool:
@@ -53,8 +56,6 @@ class Chunk:
             return (
                 self.texto == other.texto
                 and self.documento_origen == other.documento_origen
-                and self.pagina == other.pagina
-                and self.indice == other.indice
+                and self.seccion == other.seccion
             )
         return False
-    
