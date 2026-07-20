@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+
+    <meta
+        name="viewport"
+        content="width=device-width, initial-scale=1.0"
+    >
+
+    <title>Gestión de documentos</title>
+
+    <link
+        rel="stylesheet"
+        href="{{ url_for('static', filename='styles.css') }}"
+    >
+</head>
+
+<body>
+    <main class="contenedor">
+
+        <h1>Gestión de documentos</h1>
+
+        <p class="introduccion">
+            Selecciona una metodología para gestionar sus documentos PDF.
+        </p>
+
+        {% with mensajes = get_flashed_messages(with_categories=true) %}
+
+            {% if mensajes %}
+
+                <section class="mensajes">
+
+                    {% for categoria, mensaje in mensajes %}
+
+                        <p class="mensaje mensaje-{{ categoria }}">
+                            {{ mensaje }}
+                        </p>
+
+                    {% endfor %}
+
+                </section>
+
+            {% endif %}
+
+        {% endwith %}
+
+        <section class="metodologias">
+
+            {% for clave, nombre in metodologias.items() %}
+
+                <a
+                    class="
+                        tarjeta-metodologia
+                        {% if metodologia_seleccionada == clave %}
+                            tarjeta-seleccionada
+                        {% endif %}
+                    "
+                    href="{{ url_for(
+                        'gestionar_documentos',
+                        metodologia=clave
+                    ) }}"
+                >
+                    <h2>{{ nombre }}</h2>
+
+                    <p>Gestionar documentos</p>
+                </a>
+
+            {% endfor %}
+
+        </section>
+
+        {% if metodologia_seleccionada %}
+
+            <section class="panel-documentos">
+
+                <h2>
+                    {{ metodologias[metodologia_seleccionada] }}
+                </h2>
+
+                <section class="seccion-subida">
+
+                    <h3>Subir un nuevo PDF</h3>
+
+                    <form
+                        class="formulario-subida"
+                        action="{{ url_for('subir_documento') }}"
+                        method="POST"
+                        enctype="multipart/form-data"
+                    >
+
+                        <input
+                            type="hidden"
+                            name="metodologia"
+                            value="{{ metodologia_seleccionada }}"
+                        >
+
+                        <input
+                            type="file"
+                            name="archivo"
+                            accept=".pdf,application/pdf"
+                            required
+                        >
+
+                        <button
+                            class="boton boton-principal"
+                            type="submit"
+                        >
+                            Subir documento
+                        </button>
+
+                    </form>
+
+                </section>
+
+                <section class="listado-documentos">
+
+                    <h3>Documentos disponibles</h3>
+
+                    {% if documentos %}
+
+                        <ul>
+
+                            {% for documento in documentos %}
+
+                                <li>
+
+                                    <div class="informacion-documento">
+
+                                        <span class="icono-pdf">
+                                            PDF
+                                        </span>
+
+                                        <span>
+                                            {{ documento }}
+                                        </span>
+
+                                    </div>
+
+                                    <form
+                                        action="{{ url_for(
+                                            'eliminar_documento'
+                                        ) }}"
+                                        method="POST"
+                                        onsubmit="
+                                            return confirm(
+                                                '¿Seguro que quieres eliminar este documento?'
+                                            );
+                                        "
+                                    >
+
+                                        <input
+                                            type="hidden"
+                                            name="metodologia"
+                                            value="{{ metodologia_seleccionada }}"
+                                        >
+
+                                        <input
+                                            type="hidden"
+                                            name="documento"
+                                            value="{{ documento }}"
+                                        >
+
+                                        <button
+                                            class="boton boton-eliminar"
+                                            type="submit"
+                                        >
+                                            Eliminar
+                                        </button>
+
+                                    </form>
+
+                                </li>
+
+                            {% endfor %}
+
+                        </ul>
+
+                    {% else %}
+
+                        <p class="sin-documentos">
+                            No hay documentos PDF en esta metodología.
+                        </p>
+
+                    {% endif %}
+
+                </section>
+
+                <section class="seccion-vectorial">
+
+                    <h3>Base de conocimiento</h3>
+
+                    <p>
+                        Esta función se conectará más adelante con el
+                        proceso de lectura, limpieza, chunking y
+                        vectorización de los documentos.
+                    </p>
+
+                    <form
+                        action="{{ url_for(
+                            'reconstruir_base_vectorial'
+                        ) }}"
+                        method="POST"
+                    >
+
+                        <input
+                            type="hidden"
+                            name="metodologia"
+                            value="{{ metodologia_seleccionada }}"
+                        >
+
+                        <button
+                            class="boton boton-secundario"
+                            type="submit"
+                        >
+                            Reconstruir base vectorial
+                        </button>
+
+                    </form>
+
+                </section>
+
+            </section>
+
+        {% endif %}
+
+    </main>
+</body>
+</html>
