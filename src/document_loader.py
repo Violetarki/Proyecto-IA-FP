@@ -2,8 +2,16 @@
 y devuelve una lista de objetos Documento."""
 
 from pathlib import Path
-from models import Documento
+from models import Documento, Metodologia
 from pdf_loader import leer_pdf
+
+
+METODOLOGIAS = {
+     "lean_startup": "Lean Startup",
+     "simulacion_empresarial": "Simulación Empresarial",
+ }
+
+
 
 def leer_documentos(carpeta: str) -> list[Documento]:
     """
@@ -21,19 +29,30 @@ def leer_documentos(carpeta: str) -> list[Documento]:
     if not ruta.is_dir():
         raise NotADirectoryError(f"La ruta no es una carpeta: {ruta}")
 
-    # Buscar todos los PDFs que cumplan un patrón
-    pdf_paths = list(ruta.glob("*.pdf"))
-
     # Crear una lista vacía
     documentos = []
 
-    # Para cada PDF:
-    for pdf_path in pdf_paths:
-        # 1. llamar a leer_pdf()
-        doc = leer_pdf(str(pdf_path))
+   # Recorrer cada subcarpeta (cada metodología)
+    for carpeta_metodologia in ruta.iterdir():
 
-        # 2. guardar el Documento en la lista
-        documentos.append(doc)
+        Metodologia(
+            nombre=METODOLOGIAS[carpeta_metodologia.name]
+        )
+
+        if not carpeta_metodologia.is_dir():
+            continue
+
+        metodologia = Metodologia(nombre=carpeta_metodologia.name)
+
+        # Buscar PDFs dentro de esa metodología
+        pdf_paths = carpeta_metodologia.glob("*.pdf")
+
+        for pdf_path in pdf_paths:
+
+            documento = leer_pdf(str(pdf_path), metodologia)
+
+            documentos.append(documento)
+
 
     # Devolver la lista
     return documentos
@@ -44,6 +63,8 @@ if __name__ == "__main__":
 
 
 # A IMPLEMENTAR DIA SIGUIENTE:
+
+# ESTO EN PRINCIPIO YA ESTÁ
 
 # pdf_paths = list(ruta.glob("*.pdf"))
 
