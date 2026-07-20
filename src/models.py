@@ -25,6 +25,7 @@ class Documento:
     texto: str
     ruta: str
     paginas: int
+    # Ver como queda esta clase despues de los cambios con Docling
     docling_document: object | None = None
 
 

@@ -1,61 +1,94 @@
-"""Recorre una carpeta, lee todos los archivos PDF utilizando pdf_loader --> leer_pdf()
+"""orquestador: Recorre una carpeta, lee todos los archivos PDF en formato .md
 y devuelve una lista de objetos Documento."""
 
 from pathlib import Path
 from models import Documento, Metodologia
-# from pdf_loader import leer_pdf
-from docling_loader import leer_pdf
 
-def leer_documentos(carpeta: str) -> list[Documento]:
+
+def leer_documentos(carpeta):
     """
-    Lee todos los archivos PDF de una carpeta y devuelve una lista
-    de objetos Documento.
+    Recorre todas las subcarpetas buscando archivos Markdown (.md)
+    y crea un Documento por cada uno.
     """
-
-    # Recibir la carpeta
-    ruta = Path(carpeta)
-
-    # Comprobar que la carpeta existe
-    if not ruta.exists() or not ruta.is_dir():
-        raise FileNotFoundError(f"La carpeta no existe: {carpeta}")
     
-    if not ruta.is_dir():
-        raise NotADirectoryError(f"La ruta no es una carpeta: {ruta}")
-
-    # Crear una lista vacía
+    # Tiene q poder hacer:
+        # Recorrer las metodologías.
+        # Buscar los PDFs.
+        # Asegurarse de que existe el .md.
+        # Leer los Markdown.
+        # Devolver list[Documento].
+        
+        
+    # Replantear codigo segun nuevo pipeline con Docling
     documentos = []
 
-   # Recorrer cada subcarpeta (cada metodología)
-    for carpeta_metodologia in ruta.iterdir():
+    carpeta = Path(carpeta)
 
+    for carpeta_metodologia in carpeta.iterdir():
 
         if not carpeta_metodologia.is_dir():
             continue
 
         metodologia = Metodologia(
-            nombre=carpeta_metodologia.name
+            nombre=carpeta_metodologia.name.replace("_", " ").title()
         )
 
-        # Buscar PDFs dentro de esa metodología
-        pdf_paths = carpeta_metodologia.glob("*.pdf")
+        for archivo_md in carpeta_metodologia.glob("*.md"):
 
-        for pdf_path in pdf_paths:
+            texto = archivo_md.read_text(encoding="utf-8")
 
-            documento = leer_pdf(str(pdf_path), metodologia)
+            documento = Documento(
+                metodologia=metodologia,
+                nombre=archivo_md.stem,
+                texto=texto,
+                ruta=str(archivo_md), #esto tmb cambia a otra cosa
+                paginas=0 # esta parte es inventada, ver como obtener nº paginas con el nuevo sistema
+            )
 
             documentos.append(documento)
 
-
-    # Devolver la lista
     return documentos
 
+
 if __name__ == "__main__":
+    pass
+# cuando hagamos la interfaz web para que los profesores suban documentos, probablemente solo hay que llamar a:
 
-    # Prueba
-    documentos = leer_documentos("documents")
+# documentos = leer_documentos("documents")
 
-    for documento in documentos:
-        print("-------------------------")
-        print(documento.metodologia.nombre)
-        print(documento.nombre)
-        print(documento.texto[:1000])
+# Pipeline actual con .md:
+# PDF
+#  │
+#  ▼
+# Docling
+#  │
+#  ▼
+# Markdown (.md)
+#  │
+#  ▼
+# text_cleaner
+#  │
+#  ▼
+# Documento ** Este paso va en este archivo
+#  │
+#  ▼
+# Chunker
+#  │
+#  ▼
+# Embeddings
+
+# **
+# leer_documentos()
+#     │
+#     ├── convertir_si_necesario()
+    def convertir_si_necesario(pdf_path):
+        pass
+
+    # Responsabilidad:
+
+    # Comprobar si existe el .md.
+    # Si no existe (o está desactualizado), llamar a docling_converter.
+#     │
+#     # └── leer_markdown()
+    def leer_markdown(md_path, metodologia):
+        pass
