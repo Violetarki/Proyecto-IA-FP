@@ -50,7 +50,7 @@ def leer_documentos(carpeta: str) -> list[Documento]:
     return documentos
 
 if __name__ == "__main__":
-    
+
     # Prueba
     documentos = leer_documentos("documents")
 
@@ -58,4 +58,4 @@ if __name__ == "__main__":
         print("-------------------------")
         print(documento.metodologia.nombre)
         print(documento.nombre)
-        print(documento.paginas)
+        print(documento.texto[:1000])
