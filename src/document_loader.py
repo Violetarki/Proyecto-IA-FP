@@ -6,7 +6,6 @@ from models import Documento, Metodologia
 from pdf_loader import leer_pdf
 
 
-
 def leer_documentos(carpeta: str) -> list[Documento]:
     """
     Lee todos los archivos PDF de una carpeta y devuelve una lista
@@ -51,63 +50,10 @@ def leer_documentos(carpeta: str) -> list[Documento]:
     return documentos
 
 if __name__ == "__main__":
-    ruta_docs = "documents"
-    leer_documentos(ruta_docs)
+    documentos = leer_documentos("documents")
 
-
-# A IMPLEMENTAR DIA SIGUIENTE:
-
-# ESTO EN PRINCIPIO YA ESTÁ
-
-# pdf_paths = list(ruta.glob("*.pdf"))
-
-# from pathlib import Path
-
-# from models import Documento, Metodologia
-# from pdf_loader import leer_pdf
-
-
-# def leer_documentos(carpeta: str) -> list[Documento]:
-
-#     ruta = Path(carpeta)
-
-#     if not ruta.exists():
-#         raise FileNotFoundError(f"La carpeta no existe: {carpeta}")
-
-#     if not ruta.is_dir():
-#         raise NotADirectoryError(f"La ruta no es una carpeta: {ruta}")
-
-#     documentos = []
-
-#     # Recorrer cada subcarpeta (cada metodología)
-#     for carpeta_metodologia in ruta.iterdir():
-
-#         if not carpeta_metodologia.is_dir():
-#             continue
-
-#         metodologia = Metodologia(nombre=carpeta_metodologia.name)
-
-#         # Buscar PDFs dentro de esa metodología
-#         pdf_paths = carpeta_metodologia.glob("*.pdf")
-
-#         for pdf_path in pdf_paths:
-
-#             documento = leer_pdf(str(pdf_path), metodologia)
-
-#             documentos.append(documento)
-
-#     return documentos
-
-
-# quizá convenga tener un pequeño mapeo PARA EL NOMBRE DE LA METODOLOGIA:
-
-# METODOLOGIAS = {
-#     "lean_startup": "Lean Startup",
-#     "simulacion_empresarial": "Simulación Empresarial",
-# }
-
-# y crear:
-
-# Metodologia(
-#     nombre=METODOLOGIAS[carpeta_metodologia.name]
-# )
+    for documento in documentos:
+        print("-------------------------")
+        print(documento.metodologia.nombre)
+        print(documento.nombre)
+        print(documento.paginas)
