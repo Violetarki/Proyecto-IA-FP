@@ -4,10 +4,49 @@ procurando que cada uno represente una unidad coherente de conocimiento."""
 from models import Document, Chunk
 
 # Entrada:
-# Documento
+# Documento - ok
 
 # Salida:
-# list[Chunk]
+# list[Chunk] - ok
+
+
+def crear_chunks():
+    pass
+
+def obtener_bloques():
+    """Recibir un Documento y devolver una lista de bloques de texto."""
+    
+#     # PSEUDOCODIGO DE FLUJO
+#     bloques = []
+
+# bloque_actual = []
+
+# Recorrer todas las líneas
+
+#     ¿La línea está vacía?
+
+#         Sí
+
+#             Si bloque_actual NO está vacío
+
+#                 Guardarlo
+
+#                 Empezar un bloque nuevo
+
+#         No
+
+#             Añadir la línea al bloque_actual
+
+# Al terminar
+
+#     Si queda un bloque sin guardar
+
+#         Guardarlo
+
+# Devolver bloques
+
+    pass
+
 
 # Ej.:
 # Documento
@@ -29,15 +68,15 @@ from models import Document, Chunk
 
 # Podemos tener una lista de patrones como:
 
-TITULOS = {
-    "Conceptos básicos",
-    "Simulación empresarial",
-    "Síntesis",
-    "Test de repaso",
-    "Comprueba tu aprendizaje",
-    "Resultados de aprendizaje",
-    "Contenidos básicos",
-}
+# TITULOS = {
+#     "Conceptos básicos",
+#     "Simulación empresarial",
+#     "Síntesis",
+#     "Test de repaso",
+#     "Comprueba tu aprendizaje",
+#     "Resultados de aprendizaje",
+#     "Contenidos básicos",
+# }
 # qué hace cuando encuentra uno,
 
 # cómo decide que un chunk es demasiado grande.
