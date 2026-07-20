@@ -1,0 +1,194 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 40px 20px;
+    font-family: Arial, sans-serif;
+    background-color: #f4f6f8;
+    color: #252525;
+}
+
+.contenedor {
+    max-width: 950px;
+    margin: 0 auto;
+}
+
+h1 {
+    margin-bottom: 10px;
+}
+
+h2,
+h3 {
+    margin-top: 0;
+}
+
+.introduccion {
+    margin-bottom: 30px;
+    color: #555555;
+}
+
+.metodologias {
+    display: grid;
+    grid-template-columns: repeat(
+        auto-fit,
+        minmax(250px, 1fr)
+    );
+    gap: 20px;
+}
+
+.tarjeta-metodologia {
+    display: block;
+    padding: 25px;
+    border: 2px solid transparent;
+    border-radius: 10px;
+    background-color: #ffffff;
+    color: #252525;
+    text-decoration: none;
+}
+
+.tarjeta-metodologia:hover {
+    border-color: #999999;
+}
+
+.tarjeta-seleccionada {
+    border-color: #333333;
+}
+
+.panel-documentos {
+    margin-top: 35px;
+}
+
+.seccion-subida,
+.listado-documentos,
+.seccion-vectorial {
+    margin-top: 20px;
+    padding: 25px;
+    border-radius: 10px;
+    background-color: #ffffff;
+}
+
+.formulario-subida {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 15px;
+}
+
+.listado-documentos ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.listado-documentos li {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 20px;
+    padding: 14px 0;
+    border-bottom: 1px solid #eeeeee;
+}
+
+.listado-documentos li:last-child {
+    border-bottom: none;
+}
+
+.informacion-documento {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    overflow-wrap: anywhere;
+}
+
+.icono-pdf {
+    flex-shrink: 0;
+    padding: 5px 8px;
+    border-radius: 4px;
+    background-color: #eeeeee;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.boton {
+    padding: 10px 16px;
+    border: none;
+    border-radius: 6px;
+    font-size: 14px;
+    cursor: pointer;
+}
+
+.boton-principal {
+    background-color: #252525;
+    color: #ffffff;
+}
+
+.boton-principal:hover {
+    background-color: #444444;
+}
+
+.boton-eliminar {
+    background-color: #eeeeee;
+    color: #252525;
+}
+
+.boton-eliminar:hover {
+    background-color: #dddddd;
+}
+
+.boton-secundario {
+    border: 1px solid #cccccc;
+    background-color: #ffffff;
+    color: #252525;
+}
+
+.boton-secundario:hover {
+    background-color: #f3f3f3;
+}
+
+.mensajes {
+    margin-bottom: 25px;
+}
+
+.mensaje {
+    padding: 14px 16px;
+    border-radius: 6px;
+}
+
+.mensaje-exito {
+    background-color: #e8f5e9;
+}
+
+.mensaje-error {
+    background-color: #ffebee;
+}
+
+.mensaje-informacion {
+    background-color: #e8f1fa;
+}
+
+.sin-documentos {
+    color: #666666;
+}
+
+.seccion-vectorial p {
+    color: #555555;
+    line-height: 1.5;
+}
+
+@media (max-width: 600px) {
+    body {
+        padding: 25px 15px;
+    }
+
+    .listado-documentos li {
+        align-items: flex-start;
+        flex-direction: column;
+    }
+
+    .formulario-subida {
+        align-items: stretch;
+        flex-direction: column;
+    }
+}
