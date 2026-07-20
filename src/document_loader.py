@@ -3,8 +3,8 @@ y devuelve una lista de objetos Documento."""
 
 from pathlib import Path
 from models import Documento, Metodologia
-from pdf_loader import leer_pdf
-
+# from pdf_loader import leer_pdf
+from docling_loader import leer_pdf
 
 def leer_documentos(carpeta: str) -> list[Documento]:
     """

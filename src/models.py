@@ -25,6 +25,7 @@ class Documento:
     texto: str
     ruta: str
     paginas: int
+    docling_document: object | None = None
 
 
 @dataclass

@@ -56,10 +56,10 @@ if __name__ == "__main__":
         print(f"Páginas: {documento_real.paginas}")
         print(f"Se han obtenido {len(bloques)} bloques:\n")
 
-        for i, bloque in enumerate(bloques, start=1):
-            print(f"--- Bloque {i} ---")
+        for i, bloque in enumerate(bloques[:30], start=1):
+            print(f"--- Bloque {i} ({len(bloque)} caracteres) ---")
             print(bloque)
-            print()
+            print("=" * 80)
 
 
 # Ej.:
