@@ -50,6 +50,8 @@ def leer_documentos(carpeta: str) -> list[Documento]:
     return documentos
 
 if __name__ == "__main__":
+    
+    # Prueba
     documentos = leer_documentos("documents")
 
     for documento in documentos:
