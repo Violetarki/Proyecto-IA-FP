@@ -46,34 +46,10 @@ def leer_pdf(ruta_pdf: str, metodologia: Metodologia) -> Documento:
     return documento
 
 if __name__ == "__main__":
-    ruta_pdf = "documents/boe.pdf"
-    documento = leer_pdf(ruta_pdf)
+    metodologia = Metodologia("lean_startup")
+
+    documento = leer_pdf("documents/lean_startup/lean_startup.pdf", metodologia)
+
     print(documento)
 
 
-# ESTO TAMBIÉN ESTÁ  
-    
-# A IMPLEMENTAR DIA SIGUIENTE:
-    # pdf_loader.py
-
-# Solo habría que hacer dos cambios.
-
-# Primero, importar Metodologia:
-
-# from models import Documento, Metodologia
-
-# Después, cambiar la firma de la función:
-
-# def leer_pdf(ruta_pdf: str, metodologia: Metodologia) -> Documento:
-
-# Y al crear el documento:
-
-# documento = Documento(
-#     metodologia=metodologia,
-#     nombre=nombre,
-#     ruta=ruta_pdf,
-#     texto=texto_completo,
-#     paginas=paginas
-# )
-
-# El resto del archivo quedaría exactamente igual.
