@@ -6,12 +6,6 @@ from models import Documento, Metodologia
 from pdf_loader import leer_pdf
 
 
-METODOLOGIAS = {
-     "lean_startup": "Lean Startup",
-     "simulacion_empresarial": "Simulación Empresarial",
- }
-
-
 
 def leer_documentos(carpeta: str) -> list[Documento]:
     """
@@ -35,14 +29,13 @@ def leer_documentos(carpeta: str) -> list[Documento]:
    # Recorrer cada subcarpeta (cada metodología)
     for carpeta_metodologia in ruta.iterdir():
 
-        Metodologia(
-            nombre=METODOLOGIAS[carpeta_metodologia.name]
-        )
 
         if not carpeta_metodologia.is_dir():
             continue
 
-        metodologia = Metodologia(nombre=carpeta_metodologia.name)
+        metodologia = Metodologia(
+            nombre=carpeta_metodologia.name
+        )
 
         # Buscar PDFs dentro de esa metodología
         pdf_paths = carpeta_metodologia.glob("*.pdf")
