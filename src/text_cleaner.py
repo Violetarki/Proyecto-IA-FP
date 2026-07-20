@@ -1,6 +1,7 @@
 """Módulo de limpieza de los textos obtenidos de los manuales PDF"""
 
 import re
+from models import Documento
 
 def limpiar_texto(texto: str) -> str:
     """
@@ -118,4 +119,19 @@ def normalizar_formato(texto: str) -> str:
     )
 
     return texto
+
+
+
+def limpiar_documentos(documentos: list[Documento]) -> list[Documento]:
+    """
+        Limpia el texto de una lista de documentos.
+
+        Modifica el atributo 'texto' de cada Documento utilizando
+        la función limpiar_texto() y devuelve la misma lista.
+    """
+
+    for documento in documentos:
+        documento.texto = limpiar_texto(documento.texto)
+
+    return documentos
 
