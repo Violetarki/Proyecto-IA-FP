@@ -1,7 +1,7 @@
 """Se encarga de dividir un Documento en una lista de Chunk, 
 procurando que cada uno represente una unidad coherente de conocimiento."""
 
-from models import Document, Chunk
+from models import Documento, Chunk, Metodologia
 
 # Entrada:
 # Documento - ok
@@ -13,39 +13,53 @@ from models import Document, Chunk
 def crear_chunks():
     pass
 
-def obtener_bloques():
-    """Recibir un Documento y devolver una lista de bloques de texto."""
-    
-#     # PSEUDOCODIGO DE FLUJO
-#     bloques = []
 
-# bloque_actual = []
+def obtener_bloques(documento: Documento) -> list[str]:
+    """Recibir un Documento y devolver una lista de bloques de texto.
 
-# Recorrer todas las líneas
+    Cada bloque agrupa líneas consecutivas no vacías. Separa los bloques
+    cuando encuentra una o más líneas vacías.
+    """
+    bloques: list[str] = []
+    bloque_actual: list[str] = []
 
-#     ¿La línea está vacía?
+    # Recorrer todas las líneas del texto del documento.
+    for linea in documento.texto.splitlines():
+        if linea.strip() == "":
+            # Línea vacía: terminar el bloque actual si hay algo acumulado.
+            if bloque_actual:
+                bloques.append("\n".join(bloque_actual).strip())
+                bloque_actual = []
+        else:
+            # Línea no vacía: añadirla al bloque actual.
+            bloque_actual.append(linea)
 
-#         Sí
+    # Al terminar, guardar el último bloque si existe.
+    if bloque_actual:
+        bloques.append("\n".join(bloque_actual).strip())
 
-#             Si bloque_actual NO está vacío
+    return bloques
 
-#                 Guardarlo
 
-#                 Empezar un bloque nuevo
+if __name__ == "__main__":
+    from document_loader import leer_documentos
 
-#         No
+    documentos = leer_documentos("documents")
+    if not documentos:
+        print("No se han encontrado documentos en la carpeta 'documents'.")
+    else:
+        documento_real = documentos[0]
+        bloques = obtener_bloques(documento_real)
 
-#             Añadir la línea al bloque_actual
+        print(f"Documento real: {documento_real.nombre}")
+        print(f"Metodología: {documento_real.metodologia.nombre}")
+        print(f"Páginas: {documento_real.paginas}")
+        print(f"Se han obtenido {len(bloques)} bloques:\n")
 
-# Al terminar
-
-#     Si queda un bloque sin guardar
-
-#         Guardarlo
-
-# Devolver bloques
-
-    pass
+        for i, bloque in enumerate(bloques, start=1):
+            print(f"--- Bloque {i} ---")
+            print(bloque)
+            print()
 
 
 # Ej.:
