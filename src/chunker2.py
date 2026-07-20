@@ -8,117 +8,123 @@ def chunk_document(document: Document) -> list[Chunk]:
     """
     Divide un Documento en una lista de Chunk procurando que cada uno
     represente una unidad coherente de conocimiento.
+
+    Es la función principal. Orquesta todo el proceso:
+
+    Obtiene el texto del documento.
+    Lo divide en párrafos.
+    Agrupa los párrafos.
+    Devuelve la lista de Chunk.
+
+    No debería contener lógica compleja, solo coordinar el resto de funciones.
+
     """
 
-    chunks = []
+def dividir_en_parrafos(texto):
+    """
+    Su única misión es transformar un texto grande en una lista de párrafos.
 
-    seccion_actual = None
-    texto_actual = []
-    pagina_inicio = None
-    pagina_fin = None
+    Entrada:
 
-    for elemento in document.content:
+    Párrafo 1
 
-        # Si encontramos un título, actualizamos la sección
-        if es_titulo(elemento):
-            seccion_actual = elemento.text
-            continue
+    Párrafo 2
 
-        # Si es el primer párrafo del chunk
-        if pagina_inicio is None:
-            pagina_inicio = elemento.page
+    Párrafo 3
 
-        texto_actual.append(elemento.text)
-        pagina_fin = elemento.page
+    Salida:
 
-        # Si el chunk ha alcanzado el tamaño máximo,
-        # lo cerramos y comenzamos uno nuevo.
-        if supera_tamano(texto_actual):
-
-            chunks.append(
-                crear_chunk(
-                    texto_actual,
-                    pagina_inicio,
-                    pagina_fin,
-                    seccion_actual,
-                )
-            )
-
-            texto_actual = []
-            pagina_inicio = None
-            pagina_fin = None
-
-    # Añadir el último chunk si queda texto pendiente
-    if texto_actual:
-        chunks.append(
-            crear_chunk(
-                texto_actual,
-                pagina_inicio,
-                pagina_fin,
-                seccion_actual,
-            )
-        )
-
-    return chunks
-
-
-def crear_chunk(
-    texto: list[str],
-    pagina_inicio: int,
-    pagina_fin: int,
-    seccion: str | None,
-) -> Chunk:
-
-    return Chunk(
-        text="\n".join(texto),
-        page_start=pagina_inicio,
-        page_end=pagina_fin,
-        section=seccion,
-    )
-
+    [
+        "Párrafo 1",
+        "Párrafo 2",
+        "Párrafo 3"
+    ]
+    
+    """
 def es_titulo(elemento) -> bool:
     """
-    Determina si un elemento corresponde a un título.
-    """
-    ...
+    Decide si un párrafo corresponde a un título.
 
+    Por ejemplo:
+
+        1. Introducción
+
+    → True
+
+    Mientras que
+
+        La inteligencia artificial permite...
+
+    → False
+    """
+    
+def agrupar_parrafos(parrafos):
+    """
+    Aquí está el verdadero algoritmo de chunking.
+
+    Va recorriendo los párrafos:
+
+    mantiene la sección actual;
+    añade párrafos al chunk;
+    cuando se alcanza el tamaño máximo, crea un nuevo Chunk.
+
+    Es la función más importante del módulo.
+    """
 
 def supera_tamano(texto: list[str]) -> bool:
     """
-    Comprueba si el texto acumulado supera el tamaño máximo.
+    Se limita a responder una pregunta:
+
+    ¿El texto acumulado ya es suficientemente grande?
+
+    Por ejemplo:
+
+    return len(texto) >= MAX_CHUNK_SIZE
+
+    Más adelante podréis cambiar el criterio (caracteres, palabras, tokens...) sin tocar el resto del código.
     """
-    return len("\n".join(texto)) >= MAX_CHUNK_SIZE
+
+
+
+
+def crear_chunk() -> Chunk:
+    """
+    Construye el objeto Chunk a partir del texto y los metadatos disponibles.
+
+    Así, si mañana añadís nuevos atributos al Chunk (por ejemplo, un identificador o la sección del documento), solo tendréis que modificar esta función.
+    """
+
+
+
+
+
 
 
 
 """
 
-seccion_actual = None
-
-↓
-
-Leo un elemento
-
-↓
-
-¿Es un título?
-
-Sí
-    seccion_actual = ese título
-    sigo leyendo
-
-No
-    lo añado al chunk actual
-
-↓
-
-¿El chunk ya es suficientemente grande?
-
-No
-    sigo leyendo
-
-Sí
-    creo el Chunk usando la sección_actual
-    empiezo otro
+                Documento
+                    │
+                    ▼
+          documento.texto
+                    │
+                    ▼
+      _dividir_en_parrafos()
+                    │
+                    ▼
+      ["p1", "p2", "p3", ...]
+                    │
+                    ▼
+      _agrupar_parrafos()
+                    │
+      ┌─────────────┴─────────────┐
+      │                           │
+¿es título?                  ¿supera tamaño?
+      │                           │
+actualizar sección          crear Chunk
+      │                           │
+      └─────────────┬─────────────┘
+                    ▼
+             list[Chunk]
 
 """
