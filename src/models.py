@@ -2,7 +2,7 @@
 del sistema de gestión documental."""
 
 from dataclasses import dataclass
-    
+
 @dataclass
 class Metodologia:
     """
@@ -15,18 +15,17 @@ class Metodologia:
 @dataclass
 class Documento:
     """
-    Representa un documento leído desde un archivo PDF.
+    Representa un documento educativo preparado para ser procesado
+    por el sistema RAG.
 
-    Almacena la información básica del documento, incluyendo su nombre,
-    ruta, contenido textual y número de páginas.
+    Su contenido procede de un archivo Markdown generado a partir
+    del documento original y posteriormente limpiado.
     """
+
     metodologia: Metodologia
     nombre: str
     texto: str
     ruta: str
-    paginas: int
-    # Ver como queda esta clase despues de los cambios con Docling
-    docling_document: object | None = None
 
 
 @dataclass
