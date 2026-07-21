@@ -15,10 +15,10 @@ def convertir_pdf_a_markdown(ruta_pdf: str) -> Path:
 
     ruta_pdf = Path(ruta_pdf)
     
-    # nombre de la metodología (nombre de la carpeta)
-    metodologia = ruta_pdf.parent.name
+    # usa el nombre de la carpeta para construir una ruta
+    carpeta_metodologia = ruta_pdf.parent.name
 
-    ruta_md = Path("data") / "markdown_docling" / metodologia / f"{ruta_pdf.stem}.md"
+    ruta_md = Path("data") / "markdown_docling" / carpeta_metodologia / f"{ruta_pdf.stem}.md"
 
     # Crear carpetas si no existen
     ruta_md.parent.mkdir(parents=True, exist_ok=True)

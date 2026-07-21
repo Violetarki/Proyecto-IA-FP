@@ -1,9 +1,7 @@
-"""
-Orquestador encargado de leer los archivos Markdown limpios.
+"""Carga los documentos Markdown limpios del proyecto.
 
-Recorre la carpeta data/markdown_clean, detecta la metodología
-mediante el nombre de cada subcarpeta y devuelve una lista
-de objetos Documento.
+Recorre la carpeta data/markdown_clean, detecta la metodología a partir del
+nombre de cada subcarpeta y devuelve una lista de objetos Documento.
 """
 
 from pathlib import Path
@@ -108,16 +106,19 @@ def leer_documentos(
 
     return documentos
 
-
 if __name__ == "__main__":
+
     documentos = leer_documentos()
 
-    print(
-        f"\nSe han cargado {len(documentos)} documentos:\n"
-    )
+    print(f"Se han cargado {len(documentos)} documentos.\n")
 
     for documento in documentos:
-        print(
-            f"- {documento.nombre} "
-            f"({documento.metodologia})"
-        )
+        print(f"Nombre: {documento.nombre}")
+        print(f"Metodología: {documento.metodologia.nombre}")
+        print(f"Ruta: {documento.ruta}")
+        print(f"Caracteres: {len(documento.texto)}")
+
+        print("\nPrimeros 500 caracteres:\n")
+        print(documento.texto[:500])
+
+        print("\n" + "-" * 80 + "\n")
