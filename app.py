@@ -12,33 +12,63 @@ from werkzeug.utils import secure_filename
 app = Flask(__name__)
 
 # Necesaria para mostrar mensajes con flash().
-# Más adelante se puede guardar en una variable de entorno.
 app.secret_key = "clave-provisional-desarrollo"
 
 
-# Carpeta principal donde se almacenan los documentos.
+# Carpeta principal donde se almacenan las metodologías y sus documentos.
 CARPETA_DOCUMENTOS = Path("documents")
 
 
-# Metodologías disponibles.
-# La clave coincide con el nombre de la carpeta.
-METODOLOGIAS = {
-    "lean_startup": "Lean Startup",
-    "simulacion_empresarial": "Simulación Empresarial",
-}
+def obtener_metodologias() -> list[str]:
+    """
+    Devuelve las metodologías disponibles a partir de las
+    subcarpetas existentes dentro de documents.
+    """
+
+    if not CARPETA_DOCUMENTOS.exists():
+        return []
+
+    metodologias = [
+        carpeta.name
+        for carpeta in CARPETA_DOCUMENTOS.iterdir()
+        if carpeta.is_dir()
+    ]
+
+    return sorted(metodologias)
+
+
+def mostrar_nombre_metodologia(metodologia: str) -> str:
+    """
+    Convierte el nombre de la carpeta en un nombre más legible
+    para mostrarlo en la web.
+
+    Ejemplo:
+        lean_startup -> Lean Startup
+    """
+
+    return metodologia.replace("_", " ").title()
 
 
 def obtener_carpeta_metodologia(metodologia: str) -> Path | None:
     """
-    Devuelve la carpeta asociada a una metodología válida.
+    Devuelve la carpeta asociada a una metodología si existe.
 
-    Si la metodología no existe, devuelve None.
+    Si la metodología no es válida o la carpeta no existe,
+    devuelve None.
     """
 
-    if metodologia not in METODOLOGIAS:
+    if not metodologia:
         return None
 
-    return CARPETA_DOCUMENTOS / metodologia
+    carpeta_metodologia = CARPETA_DOCUMENTOS / metodologia
+
+    if not carpeta_metodologia.exists():
+        return None
+
+    if not carpeta_metodologia.is_dir():
+        return None
+
+    return carpeta_metodologia
 
 
 def obtener_documentos(metodologia: str) -> list[str]:
@@ -49,9 +79,6 @@ def obtener_documentos(metodologia: str) -> list[str]:
     carpeta_metodologia = obtener_carpeta_metodologia(metodologia)
 
     if carpeta_metodologia is None:
-        return []
-
-    if not carpeta_metodologia.exists():
         return []
 
     documentos = [
@@ -87,18 +114,20 @@ def gestionar_documentos():
     de la metodología seleccionada.
     """
 
+    metodologias = obtener_metodologias()
     metodologia_seleccionada = request.args.get("metodologia")
 
     documentos = []
 
-    if metodologia_seleccionada in METODOLOGIAS:
+    if metodologia_seleccionada in metodologias:
         documentos = obtener_documentos(metodologia_seleccionada)
 
     return render_template(
         "gestion_documentos.html",
-        metodologias=METODOLOGIAS,
+        metodologias=metodologias,
         metodologia_seleccionada=metodologia_seleccionada,
         documentos=documentos,
+        mostrar_nombre_metodologia=mostrar_nombre_metodologia,
     )
 
 
@@ -145,8 +174,6 @@ def subir_documento():
                 metodologia=metodologia,
             )
         )
-
-    carpeta_metodologia.mkdir(parents=True, exist_ok=True)
 
     ruta_destino = carpeta_metodologia / nombre_seguro
 
@@ -198,7 +225,6 @@ def eliminar_documento():
             )
         )
 
-    # Evita que se puedan introducir rutas manuales.
     nombre_seguro = secure_filename(nombre_documento)
 
     if nombre_seguro != nombre_documento:
@@ -253,7 +279,9 @@ def reconstruir_base_vectorial():
 
     metodologia = request.form.get("metodologia")
 
-    if metodologia not in METODOLOGIAS:
+    carpeta_metodologia = obtener_carpeta_metodologia(metodologia)
+
+    if carpeta_metodologia is None:
         flash("La metodología seleccionada no es válida.", "error")
         return redirect(url_for("gestionar_documentos"))
 

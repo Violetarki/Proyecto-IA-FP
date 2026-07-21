@@ -14,3 +14,10 @@ documents/simulacion_empresarial/*
 !documents/lean_startup/.gitkeep
 !documents/simulacion_empresarial/.gitkeep
 # !documents/boe/.gitkeep
+# Markdown generados automáticamente
+data/markdown_clean/*
+!data/markdown_clean/.gitkeep
+!data/markdown_clean/lean_startup/
+!data/markdown_clean/lean_startup/.gitkeep
+!data/markdown_clean/simulacion_empresarial/
+!data/markdown_clean/simulacion_empresarial/.gitkeep
