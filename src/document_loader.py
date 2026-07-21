@@ -39,3 +39,20 @@ def leer_documentos():
             documentos.append(documento)
 
     return documentos
+
+if __name__ == "__main__":
+
+    documentos = leer_documentos()
+
+    print(f"Se han cargado {len(documentos)} documentos.\n")
+
+    for documento in documentos:
+        print(f"Nombre: {documento.nombre}")
+        print(f"Metodología: {documento.metodologia.nombre}")
+        print(f"Ruta: {documento.ruta}")
+        print(f"Caracteres: {len(documento.texto)}")
+
+        print("\nPrimeros 500 caracteres:\n")
+        print(documento.texto[:500])
+
+        print("\n" + "-" * 80 + "\n")
