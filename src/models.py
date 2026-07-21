@@ -34,9 +34,9 @@ class Chunk:
     """
     Representa un fragmento de un Documento.
     """
-    
+
     documento: Documento
     indice: int
+    texto: str
     titulo: str | None = None
     subtitulo: str | None = None
-    texto: str
