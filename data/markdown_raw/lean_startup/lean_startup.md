@@ -139,7 +139,7 @@ En tercer lugar, y derivado del párrafo anterior, es fundamental que la motivac
 
 ## Leans Educacion
 
-## "emprender no es una opcion"
+## "emprender no esuna opcion"
 
 www.pablopenalver.com
 
@@ -238,7 +238,7 @@ Interioriza el proceso Lean
 
 Mentalidad:en beta permanente
 
-Pasar a la accion Se recomienda no poner en marcha toda la propuesta al 100% el primer curso. Empezar primero con aquellas cuestiones con las que se trabaje con mas seguridad, e ir profundizando curso a curso La propuesta que presento refleja la experiencia de aula de 4 anos. En el manual se ofrecen aquellas dinamicas que ofrecen buenos resultados Creo que lo verdaderamente util del libro es el proceso llevado a cabo para su redaccion. Han sido muchos los docentes, y sobre todo, los mas innovadores, los que me han aportado su valioso punto de vista para redactar este manual. Te aconsejo seguir ese proceso con tu experiencia en aula Recomiendo llevar a la practica las actividades que mas te gusten. y probar. Al final, cada maestrillo tiene su librillo En el fondo, si lees este manual, te estoy invitando para pasar a la accion, para cambiar la metodologiay hacer del proceso educativo una experiencia memorablepara elalumnado Devbes tener claro lo que quieres conseguir. No hay que obsesionarse con las dinamicas, sino trabajar las que se consideren adecuadas para el objetivo final
+Pasar a la accion Se recomienda no poner en marcha toda la propuesta al 100% el primer curso. Empezar primero con aquellas cuestiones con las que se trabaje con mas seguridad, e ir profundizando curso a curso La propuesta que presento refleja la experiencia de aula de 4 anos. En el manual se ofrecen aquellas dinamicas que ofrecen buenos resultados Creo que lo verdaderamente util del libro es el proceso llevado a cabo para su redaccion. Han sido muchos los docentes, y sobre todo, los mas innovadores, los que me han aportado su valioso punto de vista para redactar este manual. Te aconsejo seguir ese proceso con tu experiencia en aula Recomiendo llevar a la practica las actividades que mas te gusten. y probar. Al final, cada maestrillo tiene su librillo En el fondo, si lees este manual, te estoy invitando para pasar a la accion, para cambiar la metodologia y hacer del proceso educativo una experiencia memorablepara elalumnado Devbes tener claro lo que quieres conseguir. No hay que obsesionarse con las dinamicas, sino trabajar las que se consideren adecuadas para el objetivo final
 
 <!-- image -->
 
@@ -300,7 +300,7 @@ MarioLopezdeAvilaretwitteo
 
 JavierMontaner@tumaku\_·2oct.2015
 
-Entrepreneurshipinschooleducation.@ppenalverashareshisexperience in Consuegra:Weneed anabsolutechangeinourmethodology #els2015
+Entrepreneurshipinschooleducation.@ppenalverashareshisexperiencein s
 
 4
 
@@ -314,7 +314,7 @@ LeanStartupenEducacion.Enormereto@ppenalveraMuyatentoaloque cuentas#ELS2015
 
 JoseManuelBeas@jmbeas·2oct.2015
 
-Meestagustando lacharlade@ppenalverahablandode educacionpara mejorarlacreatividad.LeanStartupenlaescuela.#ELS2015
+Meestagustandolacharlade@ppenalverahablandode educacionpara mejorarlacreatividad.LeanStartupenlaescuela.#ELS2015
 
 <!-- image -->
 
@@ -378,7 +378,7 @@ Amazingtolistento@ppenalveraexplaininghowheintroduceshispupilsto entrepreneurshi
 
 JoseEnriqueAlvarez@PointNem0·2oct.2015
 
-Muybuenapresentacionyunmontondereflexionessobre #educaciony #leanstartupen#ELS2015por @ppenalvera
+Muybuenapresentacionyunmontondereflexionessobre #educaciony #leanstartupen#ELs2015por @ppenalvera
 
 <!-- image -->
 
@@ -390,7 +390,7 @@ SeguidoporGarabateadoray36mas
 
 IsraAlcazar@ialcazar·2oct.2015
 
-#els2015Losalumnostrabajan la creatividad,comunicacion,liderazgoy energia"-@ppenalvera
+#els2015Losalumnostrabajanlacreatividad,comunicacion,liderazgoy energia"-@ppenalvera
 
 <!-- image -->
 
@@ -400,7 +400,7 @@ IsraAlcazar@ialcazar·2oct.2015
 
 DianaPottecner@apottecner·2oct.2u15
 
-#ELS2015@ppenalveranosexplica como lohacen:ni cv,niplan deempresa.. equipo,ideacin,testing,contextualizar,yvalidar
+#ELS2015@ppenalveranosexplica como lohacen:ni cv,niplandeempresa.. equipo,idacin,testing,contextualizar,yvalidar
 
 3
 
@@ -478,7 +478,7 @@ Puesta de manifiesto nuestra tesis, la metodología del Aprendizaje basado en Pr
 
 <!-- image -->
 
-## Startup en Educacion "emprender no es una opcion"
+## Startup en Educacion "emprender no esuna opcion"
 
 ## Leans
 
@@ -502,7 +502,7 @@ Nuestro sistema educativo,  como  he  citado  anteriormente, no  es  ajeno  al  
 
 ## Leans Startup en Educacion
 
-## porque "emprender no es una opcion"
+## porque "emprender no esuna opcion"
 
 www.pablopenalver.com
 
@@ -618,7 +618,7 @@ A continuación muestro una infografía sobre cómo quedaría el ajuste metodolo
 
 ## Lean Startup en Educacion
 
-porque e"emprender no es una opcion"
+porque e"emprender no esuna opcion"
 
 www.pablopenalver.com
 
@@ -719,7 +719,7 @@ A continuación se muestra una infografía donde se visualiza el trabajo a reali
 
 <!-- image -->
 
-## Historia visual I de
+## Historia visual ap1
 
 ## EMPRENDER
 
@@ -773,7 +773,7 @@ El primer reto de todo alumno emprendedor
 - -Competencias directivas
 2. SELFIE EMPRENDEDOR PRACTICA
 - -Emprendedor
-- -Aspectos +y-
+- -Aspectos+y-
 - -Empresa
 - -Consejo
 
@@ -799,15 +799,13 @@ El aula se convierte en una aceleradora de startups
 
 <!-- image -->
 
-Grupo-clase
+<!-- image -->
+
+<!-- image -->
 
 30
 
 Pablo Penalver Alonso www.pablopenalver.com Grupos de trabajo
-
-<!-- image -->
-
-<!-- image -->
 
 <!-- image -->
 
@@ -827,7 +825,7 @@ Formados los grupos o startups, y puestos a prueba comenzamos con el proceso emp
 
 ## Leans Startup en Educacion
 
-## porque "emprender no es una opcion"
+## porque "emprender no esuna opcion"
 
 www.pablopenalver.com
 
@@ -865,7 +863,7 @@ Ambas actuaciones las realizaremos en base al entorno de la idea de negocio, y l
 
 ## Leans Startup en Educacion
 
-## porque "emprender no es una opcion"
+## porque "emprender no esuna opcion"
 
 www.pablopenalver.com
 
@@ -900,7 +898,7 @@ Tras la fase anterior, pasamos a un nuevo reto, en el que damos forma a nuestro 
 
 ## Leans Startup en Educacion
 
-porque "emprender no es una opcion"
+porque "emprender no esuna opcion"
 
 www.pablopenalver.com
 
@@ -938,7 +936,7 @@ Para ello, seguimos un orden determinado, a saber:
 
 <!-- image -->
 
-## Startup en "emprender no es una opcion"
+## Startup en "emprender no esuna opcion"
 
 ## Leans Educacion
 
@@ -972,7 +970,7 @@ siguientes puntos:
 
 ## Leans Startup en Educacion
 
-## porque "emprender no es una opcion"
+## porque "emprender no esuna opcion"
 
 www.pablopenalver.com
 
@@ -1025,7 +1023,7 @@ MODULO 1. EMPRENDER
 
 <!-- image -->
 
-## Startup en "emprender no es una opcion"
+## Startup en "emprender no esuna opcion"
 
 ## Leans Educacion
 
@@ -1055,7 +1053,7 @@ Tras estas cuestiones procederemos a evaluarnos,  y  saber  realmente  cómo  so
 
 ## Leans Startup en Educacion
 
-porque "emprender no es una opcion"
+porque "emprender no esuna opcion"
 
 www.pablopenalver.com
 
@@ -1073,7 +1071,7 @@ Pasamos  a  definir  qué  entendemos  por  una  persona  emprendedora.  Y  qué
 
 ## Leans Startup en Educacion
 
-porque "emprender no es una opcion"
+porque "emprender no esuna opcion"
 
 www.pablopenalver.com
 
@@ -1105,7 +1103,7 @@ En definitiva, podemos hablar de que: pasión + ilusión  +  talento  =  éxito.
 
 ## Leans Startup en Educacion
 
-porque "emprender no es una opcion"
+porque "emprender no esuna opcion"
 
 www.pablopenalver.com
 
@@ -1144,7 +1142,7 @@ Las notas básicas de un emprendendedor social son:
 
 ## Leans Startup en Educacion
 
-## porque "emprender no es una opcion"
+## porque "emprender no esuna opcion"
 
 www.pablopenalver.com
 
@@ -1178,7 +1176,7 @@ Fuente: http://www.emprendedores.es/casos-de- exito/premios-emprendedores-social
 
 <!-- image -->
 
-## Startup en Educacion "emprender no es una opcion"
+## Startup en Educacion "emprender no esuna opcion"
 
 ## Leans
 
@@ -1214,7 +1212,7 @@ YouTube - EmprendeMOOC
 
 <!-- image -->
 
-## Startup en Educacion "emprender no es una opcion"
+## Startup en Educacion "emprender no esuna opcion"
 
 ## Leans
 
@@ -1353,7 +1351,7 @@ A continuación nos ofrece información sobre las características del perfil em
 
 <!-- image -->
 
-## Startup en Educacion "emprender no es una opcion"
+## Startup en Educacion "emprender no esuna opcion"
 
 ## Leans
 
@@ -1397,7 +1395,7 @@ EVALUACIÓN :  la  actividad  deberá  ser  incorporada  al  portfolio  personal
 
 <!-- image -->
 
-## Startup en Educacion "emprender no es una opcion"
+## Startup en Educacion "emprender no esuna opcion"
 
 ## Leans
 
@@ -1439,7 +1437,7 @@ La  idea  de  establecer  un  sistema  de  clasificación  de habilidades ,  com
 
 ## Leans Startup en Educacion
 
-## porque "emprender no es una opcion"
+## porque "emprender no esuna opcion"
 
 www.pablopenalver.com
 
@@ -1463,7 +1461,7 @@ DEFINICIÓN : con la información recogida de las actividades anteriores, proced
 
 <!-- image -->
 
-## Startup en Educacion "emprender no es una opcion"
+## Startup en Educacion "emprender no esuna opcion"
 
 ## Leans
 
@@ -1583,13 +1581,13 @@ Además de la anterior, hay otras herramientas que nos ayudan a conocer nuestro 
 
 ## Leans Startup en Educacion
 
-## porque "emprender no es una opcion"
+## porque "emprender no esuna opcion"
 
 www.pablopenalver.com
 
 <!-- image -->
 
-## Startup en Educacion "emprender no es una opcion"
+## Startup en Educacion "emprender no esuna opcion"
 
 ## Leans
 
@@ -1625,7 +1623,7 @@ Un tablero online nos puede ser muy útil en el aula, y sobre todo en nuestra ma
 
 ## Leans Startup en Educacion
 
-## porque "emprender no es una opcion"
+## porque "emprender no esuna opcion"
 
 www.pablopenalver.com
 
@@ -1691,7 +1689,7 @@ En materia de fotografía os sugiero tres apps, y os facilito la información qu
 
 <!-- image -->
 
-## Startup en "emprender no es una opcion"
+## Startup en "emprender no esuna opcion"
 
 ## Leans Educacion
 
@@ -1737,7 +1735,7 @@ En  materia  de  sonido  puede  resultar  muy  interesante  dejar  evidencia  de
 
 <!-- image -->
 
-## Startup en Educacion "emprender no es una opcion"
+## Startup en Educacion "emprender no esuna opcion"
 
 ## Leans
 
@@ -1781,7 +1779,7 @@ EVALUACIÓN :  en  esta  actividad  podemos  comprobar  en  qué  medida  maneja
 
 ## Leans Startup en Educacion
 
-porque "emprender no es una opcion"
+porque "emprender no esuna opcion"
 
 www.pablopenalver.com
 
@@ -1831,7 +1829,7 @@ EVALUACIÓN :  en  esta  actividad  podemos  comprobar  en  qué  medida  maneja
 
 <!-- image -->
 
-## Startup en Educacion "emprender no es una opcion"
+## Startup en Educacion "emprender no esuna opcion"
 
 ## Leans
 
@@ -1948,7 +1946,7 @@ A modo de ejemplo, se señalan a continuación algunas cuestiones sobre las que 
 
 <!-- image -->
 
-## Startup en Educacion "emprender no es una opcion"
+## Startup en Educacion "emprender no esuna opcion"
 
 ## Leans
 
@@ -1989,7 +1987,7 @@ Y,  ¿cómo surgen las ideas de negocio? Es decir, ¿por qué crear ESTA empresa
 
 ## Leans Startup en Educacion
 
-## porque "emprender no es una opcion"
+## porque "emprender no esuna opcion"
 
 www.pablopenalver.com
 
@@ -2014,7 +2012,7 @@ Otra clasificación de fuentes de ideas de negocio es la que nos da Peter Drucke
 
 <!-- image -->
 
-## Startup en Educacion "emprender no es una opcion"
+## Startup en Educacion "emprender no esuna opcion"
 
 ## Leans
 
@@ -2040,7 +2038,7 @@ La literatura empresarial nos ofrece una tabla síntesis donde se recogen las fu
 
 <!-- image -->
 
-## Startup en Educacion "emprender no es una opcion"
+## Startup en Educacion "emprender no esuna opcion"
 
 ## Leans
 
@@ -2077,7 +2075,7 @@ Fuente: Institute of Design at Stanford
 
 <!-- image -->
 
-## Startup en Educacion "emprender no es una opcion"
+## Startup en Educacion "emprender no esuna opcion"
 
 ## Leans
 
@@ -2122,7 +2120,7 @@ EVALUACIÓN : en esta actividad podemos comprobar ámbitos de interés para nues
 
 <!-- image -->
 
-## Startup en Educacion "emprender no es una opcion"
+## Startup en Educacion "emprender no esuna opcion"
 
 ## Leans
 
@@ -2154,7 +2152,7 @@ Fuente: Institute of Design at Stanford
 
 ## Leans Startup en Educacion
 
-porque "emprender no es una opcion"
+porque "emprender no esuna opcion"
 
 www.pablopenalver.com
 
@@ -2196,7 +2194,7 @@ Para ello se establecen, al menos, los siguientes aspectos  a  conocer  de  cada
 
 ## Leans Startup en Educacion
 
-## porque "emprender no es una opcion"
+## porque "emprender no esuna opcion"
 
 www.pablopenalver.com
 
@@ -2236,7 +2234,7 @@ Por  otra  parte,  la  obtención  de evidencias a  través  de  la observación
 
 ## Leans Startup en Educacion
 
-porque "emprender no es una opcion"
+porque "emprender no esuna opcion"
 
 www.pablopenalver.com
 
@@ -2318,11 +2316,13 @@ EVALUACIÓN : en esta actividad podemos comprobar el avance del grupo, y sobre t
 
 Una vez elegida la idea de negocio, vamos a llevar a cabo un proceso de validación , con el fin de  asegurarnos  si  la  citada  idea  es  lo  suficientemente  buena  para  abordar  el  proyecto.  Para
 
-<!-- image -->
+orovt
 
 <!-- image -->
 
-## Startup en Educacion "emprender no es una opcion"
+<!-- image -->
+
+## Startup en Educacion "emprender no esuna opcion"
 
 ## Leans
 
@@ -2348,7 +2348,7 @@ Esta  técnica  permite  analizar  las  evidencias  mediante  preguntas  que  in
 
 <!-- image -->
 
-## Startup en Educacion "emprender no es una opcion"
+## Startup en Educacion "emprender no esuna opcion"
 
 ## Leans
 
@@ -2376,7 +2376,7 @@ A  continuación,  debemos  haceros preguntas  sobre  la  idea/problema  elegida
 
 <!-- image -->
 
-## Startup en Educacion "emprender no es una opcion"
+## Startup en Educacion "emprender no esuna opcion"
 
 ## Leans
 
@@ -2408,7 +2408,7 @@ Es necesario tener en cuenta una serie de aspectos antes de crear tu historia, q
 
 ## Leans Startup en Educacion
 
-porque "emprender no es una opcion"
+porque "emprender no esuna opcion"
 
 www.pablopenalver.com
 
@@ -2446,7 +2446,7 @@ EVALUACIÓN :  en  esta  actividad  vamos  a  comprobar  cómo transmiten nuestr
 
 ## Leans Startup en Educacion
 
-## porque "emprender no es una opcion"
+## porque "emprender no esuna opcion"
 
 www.pablopenalver.com
 
@@ -2496,7 +2496,7 @@ EVALUACIÓN :  en  esta  actividad  vamos  a  comprobar  cómo  se inicia  el  p
 
 ## Leans Startup en Educacion
 
-porque "emprender no es una opcion"
+porque "emprender no esuna opcion"
 
 www.pablopenalver.com
 
@@ -2538,7 +2538,7 @@ EVALUACIÓN : en esta actividad vamos a comprobar no sólo cómo transmiten nues
 
 <!-- image -->
 
-## Startup en Educacion "emprender no es una opcion"
+## Startup en Educacion "emprender no esuna opcion"
 
 ## Leans
 
@@ -2602,7 +2602,7 @@ EVALUACIÓN :  en  esta  actividad  vamos  a  comprobar  cómo  van  encajando  
 
 ## Leans Startup en Educacion
 
-porque "emprender no es una opcion"
+porque "emprender no esuna opcion"
 
 www.pablopenalver.com
 
@@ -2670,7 +2670,7 @@ Murally tiene muchas aplicaciones educativas, si bien, a nosotros nos interesa p
 
 ## Leans Startup en Educacion
 
-## porque "emprender no es una opcion"
+## porque "emprender no esuna opcion"
 
 www.pablopenalver.com
 
@@ -2778,7 +2778,7 @@ Perfectamente definida, constituye un recurso totalmente imprescindible en el au
 
 ## Leans Startup en Educacion
 
-porque "emprender no es una opcion"
+porque "emprender no esuna opcion"
 
 www.pablopenalver.com
 
@@ -2809,7 +2809,7 @@ Es la herramienta estratégica por excelencia más utilizada para conocer la sit
 
 <!-- image -->
 
-## Startup en Educacion "emprender no es una opcion"
+## Startup en Educacion "emprender no esuna opcion"
 
 ## Leans
 
@@ -2927,7 +2927,7 @@ Algunas de las preguntas que se pueden realizar y que contribuyen en el desarrol
 
 ## Leans Startup en Educacion
 
-## porque "emprender no es una opcion"
+## porque "emprender no esuna opcion"
 
 www.pablopenalver.com
 
@@ -2988,7 +2988,7 @@ Mientras que los riesgos (combinación de fortalezas y amenazas) y los desafíos
 
 ## Leans Startup en Educacion
 
-porque "emprender no es una opcion"
+porque "emprender no esuna opcion"
 
 www.pablopenalver.com
 
@@ -3051,7 +3051,7 @@ Es preciso notar que pensamientos/creencias y sentimientos/emociones no se puede
 
 <!-- image -->
 
-## Startup en Educacion "emprender no es una opcion"
+## Startup en Educacion "emprender no esuna opcion"
 
 ## Leans
 
@@ -3081,7 +3081,7 @@ A continuación se eligen tres candidatos y comenzamos un ejercicio de definici�
 
 <!-- image -->
 
-## Startup en Educacion "emprender no es una opcion"
+## Startup en Educacion "emprender no esuna opcion"
 
 ## Leans
 
@@ -3111,7 +3111,7 @@ Después construimos su perfil contestando a las siguientes seis preguntas :
 
 ## Leans Startup en Educacion
 
-## porque "emprender no es una opcion"
+## porque "emprender no esuna opcion"
 
 www.pablopenalver.com
 
@@ -3256,7 +3256,7 @@ Por  ejemplo, Starbucks  complementó  la  venta  de  café  que  tenía  un  at
 
 ## Leans Startup en Educacion
 
-## porque "emprender no es una opcion"
+## porque "emprender no esuna opcion"
 
 www.pablopenalver.com
 
@@ -3277,7 +3277,7 @@ Los puntos 1, 2 y 3 suponen reflexionar y valorar la variables estratégicas de 
 
 ## Leans Startup en Educacion
 
-## porque "emprender no es una opcion"
+## porque "emprender no esuna opcion"
 
 www.pablopenalver.com
 
@@ -3295,7 +3295,7 @@ Así las cosas, cuando la curva de valor de una compañía carece de foco , la e
 
 ## Leans Startup en Educacion
 
-## porque "emprender no es una opcion"
+## porque "emprender no esuna opcion"
 
 www.pablopenalver.com
 
@@ -3318,7 +3318,7 @@ Terminamos  con  la  estrategia  de  los  océanos  azules,  con  la  que Juan  
 
 ## Leans Startup en Educacion
 
-porque "emprender no es una opcion"
+porque "emprender no esuna opcion"
 
 www.pablopenalver.com
 
@@ -3364,7 +3364,7 @@ EVALUACIÓN :  en  esta  actividad  insistimos  en  el  grado  de compromiso,  t
 
 ## Leans Startup en Educacion
 
-porque "emprender no es una opcion"
+porque "emprender no esuna opcion"
 
 www.pablopenalver.com
 
@@ -3404,7 +3404,7 @@ EVALUACIÓN : en esta actividad podemos comprobar cómo el grupo va consolidando
 
 ## Leans Startup en Educacion
 
-porque "emprender no es una opcion"
+porque "emprender no esuna opcion"
 
 www.pablopenalver.com
 
@@ -3440,7 +3440,7 @@ EVALUACIÓN : en esta actividad podemos comprobar cómo el grupo va consolidando
 
 ## Leans Startup en Educacion
 
-porque "emprender no es una opcion"
+porque "emprender no esuna opcion"
 
 www.pablopenalver.com
 
@@ -3612,7 +3612,7 @@ A  continuación  puedes  ver  un ejemplo del lienzo  de  la  propuesta  de  val
 
 ## Leans Startup en Educacion
 
-porque "emprender no es una opcion"
+porque "emprender no esuna opcion"
 
 www.pablopenalver.com
 
@@ -3646,7 +3646,7 @@ EVALUACIÓN :  en esta actividad podemos comprobar cómo el grupo va consolidand
 
 <!-- image -->
 
-## Startup en Educacion "emprender no es una opcion"
+## Startup en Educacion "emprender no esuna opcion"
 
 ## Leans
 
@@ -3779,7 +3779,7 @@ A continuación veremos las opciones de canales físicos:
 
 ## Leans Startup en Educacion
 
-## porque "emprender no es una opcion"
+## porque "emprender no esuna opcion"
 
 www.pablopenalver.com
 
@@ -3835,7 +3835,7 @@ En  un  mundo  donde  se  crea  demanda  (izquierda  del  embudo)  y  la  compra
 
 <!-- image -->
 
-## Startup en Educacion "emprender no es una opcion"
+## Startup en Educacion "emprender no esuna opcion"
 
 ## Leans
 
@@ -3881,7 +3881,7 @@ Y por último, finalizamos con el incremento del número de clientes. Hay varias
 
 ## Leans Startup en Educacion
 
-## porque "emprender no es una opcion"
+## porque "emprender no esuna opcion"
 
 www.pablopenalver.com
 
@@ -3914,7 +3914,7 @@ Hay una serie de errores cuando fijamos precios y fuentes de ingresos. A veces p
 
 <!-- image -->
 
-## Startup en Educacion "emprender no es una opcion"
+## Startup en Educacion "emprender no esuna opcion"
 
 ## Leans
 
@@ -4027,7 +4027,7 @@ Antes, los inversores nos pedían cuentas: contabilidad y estados contables. Per
 
 ## Leans Startup en Educacion
 
-## porque "emprender no es una opcion"
+## porque "emprender no esuna opcion"
 
 www.pablopenalver.com
 
@@ -4060,7 +4060,7 @@ Recomiendo su  realización  por  bloques,  analizando  y  detallando  la  probl
 
 ## Lean Startup en Educacion
 
-e"emprendernoesunaopcion" porque
+e"emprendernoesuna opcion" porque
 
 www.pablopenalver.com
 
@@ -4099,7 +4099,7 @@ Podemos establecer una serie de principios sobre prototipado, y lo haremos sigui
 
 ## Leans Startup en Educacion
 
-## porque "emprender no es una opcion"
+## porque "emprender no esuna opcion"
 
 www.pablopenalver.com
 
@@ -4187,7 +4187,7 @@ Fuente: http://www.mobincube.com/es/
 
 ## Leans Startup en Educacion
 
-## porque "emprender no es una opcion"
+## porque "emprender no esuna opcion"
 
 www.pablopenalver.com
 
@@ -4289,7 +4289,7 @@ O
 
 <!-- image -->
 
-## Startup en Educacion "emprender no es una opcion"
+## Startup en Educacion "emprender no esuna opcion"
 
 ## Leans
 
@@ -4328,7 +4328,7 @@ Para  terminar  esta  apartado,  tenemos  un  magnífico ejemplo que  ilustra  t
 
 <!-- image -->
 
-## Startup en Educacion "emprender no es una opcion"
+## Startup en Educacion "emprender no esuna opcion"
 
 ## Leans
 
@@ -4367,7 +4367,7 @@ Y todo esto, porque la gente sabe cosas que tú no sabes: podemos pensar en ocas
 
 <!-- image -->
 
-## Startup en Educacion "emprender no es una opcion"
+## Startup en Educacion "emprender no esuna opcion"
 
 ## Leans
 
@@ -4413,7 +4413,7 @@ Podríamos articular la entrevista de problema en las siguientes fases:
 
 ## Leans Startup en Educacion
 
-## porque "emprender no es una opcion"
+## porque "emprender no esuna opcion"
 
 www.pablopenalver.com
 
@@ -4431,7 +4431,7 @@ clientes con necesidades diferentes y perfiles más específicos que seguramente
 
 ## Leans Startup en Educacion
 
-## porque "emprender no es una opcion"
+## porque "emprender no esuna opcion"
 
 www.pablopenalver.com
 
@@ -4555,7 +4555,7 @@ importante crear una landing page que convierta de verdad.
 
 ## Leans Startup en Educacion
 
-## porque "emprender no es una opcion"
+## porque "emprender no esuna opcion"
 
 www.pablopenalver.com
 
@@ -4625,7 +4625,7 @@ La interfaz es intuitiva, sigue los pasos para crear tu tablero: estilo, privaci
 
 ## Leans Startup en Educacion
 
-porque "emprender no es una opcion"
+porque "emprender no esuna opcion"
 
 www.pablopenalver.com
 
@@ -4681,7 +4681,7 @@ Una  vez  tienes  tu  elevator  pitch  preparado,  toca  llevarlo  a  la  práct
 
 ## Leans Startup en Educacion
 
-porque "emprender no es una opcion"
+porque "emprender no esuna opcion"
 
 www.pablopenalver.com
 
@@ -4717,7 +4717,7 @@ EVALUACIÓN :  en  esta  actividad  comprobaremos  los  aspectos  clave  del  pr
 
 <!-- image -->
 
-## Startup en Educacion "emprender no es una opcion"
+## Startup en Educacion "emprender no esuna opcion"
 
 ## Leans
 
@@ -4935,7 +4935,7 @@ Proponemos  la  siguiente  temporalización  de  los  contenidos  organizados  a
 
 <!-- image -->
 
-## Startup en Educacion "emprender no es una opcion"
+## Startup en Educacion "emprender no esuna opcion"
 
 ## Leans
 
@@ -4980,7 +4980,7 @@ En materia de evaluación tenemos diferentes elementos. Comenzaremos señalando 
 
 ## Leans Startup en Educacion
 
-porque "emprender no es una opcion"
+porque "emprender no esuna opcion"
 
 www.pablopenalver.com
 
@@ -5019,7 +5019,7 @@ Tabla 3
 
 ## Leans Startup en Educacion
 
-## porque "emprender no es una opcion"
+## porque "emprender no esuna opcion"
 
 www.pablopenalver.com
 
@@ -5058,7 +5058,7 @@ Tabla 5
 
 ## Leans Startup en Educacion
 
-porque "emprender no es una opcion"
+porque "emprender no esuna opcion"
 
 www.pablopenalver.com
 
@@ -5125,7 +5125,7 @@ Como  sabemos,  el  referente  de  la  evaluación  son  los  resultados  de  ap
 
 ## Leans Startup en Educacion
 
-## porque "emprender no es una opcion"
+## porque "emprender no esuna opcion"
 
 www.pablopenalver.com
 
@@ -5161,7 +5161,7 @@ Tabla 9
 
 <!-- image -->
 
-## Startup en Educacion "emprender no es una opcion"
+## Startup en Educacion "emprender no esuna opcion"
 
 ## Leans
 
@@ -5278,7 +5278,7 @@ De forma más concreta, vamos a tener en cuenta dos aspectos:
 
 <!-- image -->
 
-## Startup en "emprender no es una opcion"
+## Startup en "emprender no esuna opcion"
 
 ## Leans Educacion
 
