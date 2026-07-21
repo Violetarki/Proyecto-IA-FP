@@ -37,5 +37,6 @@ class Chunk:
     
     documento: Documento
     indice: int
-    texto: str
     titulo: str | None = None
+    subtitulo: str | None = None
+    texto: str
