@@ -1,30 +1,40 @@
-"""Contiene las clases que representan los documentos y otros modelos de datos del proyecto.
-Define la clase Documento, utilizada para almacenar la información extraída de un PDF."""
+"""Contiene las clases que representan las entidades principales
+del sistema de gestión documental."""
 
 from dataclasses import dataclass
 
 @dataclass
+class Metodologia:
+    """
+    Representa una metodología educativa asociada a un conjunto de documentos.
+    Se obtiene a partir del nombre de la carpeta
+    """
+
+    nombre: str
+
+
+@dataclass
 class Documento:
     """
-    Representa un documento leído desde un archivo PDF.
+    Representa un documento educativo preparado para ser procesado
+    por el sistema RAG.
 
-    Almacena la información básica del documento, incluyendo su nombre,
-    ruta, contenido textual y número de páginas.
+    Su contenido procede de un archivo Markdown generado a partir
+    del documento original y posteriormente limpiado.
     """
 
-    def __init__(self, nombre: str = "", texto: str = "", ruta: str = "", paginas: int = 0):
-        self.nombre = nombre
-        self.texto = texto
-        self.ruta = ruta
-        self.paginas = paginas
+    metodologia: Metodologia
+    nombre: str
+    texto: str
+    ruta: str
 
-    def __repr__(self):
-        return (
-            f"Documento(nombre={self.nombre!r}, texto={self.texto!r}, "
-            f"ruta={self.ruta!r}, paginas={self.paginas})"
-        )
 
-    def __eq__(self, other):
-        if isinstance(other, Documento):
-            return self.nombre == other.nombre
-        return False
+@dataclass
+class Chunk:
+    """
+    Representa un fragmento de un Documento.
+    """
+
+    texto: str
+    documento_origen: Documento
+    seccion: str

@@ -3,10 +3,10 @@ recorre todas las páginas, extrae el texto, cuenta el número de páginas
 y construye un objeto Documento."""
 
 import fitz
-from models import Documento
+from models import Documento, Metodologia
 from pathlib import Path
 
-def leer_pdf(ruta_pdf: str) -> Documento:
+def leer_pdf(ruta_pdf: str, metodologia: Metodologia) -> Documento:
     """
     Lee un archivo PDF y devuelve un objeto Documento.
     """
@@ -35,6 +35,7 @@ def leer_pdf(ruta_pdf: str) -> Documento:
 
     # Crear Documento
     documento = Documento(
+        metodologia=metodologia,
         nombre=nombre, 
         ruta=ruta_pdf, 
         texto=texto_completo, 
@@ -45,6 +46,10 @@ def leer_pdf(ruta_pdf: str) -> Documento:
     return documento
 
 if __name__ == "__main__":
-    ruta_pdf = "documents/boe.pdf"
-    documento = leer_pdf(ruta_pdf)
+    metodologia = Metodologia("lean_startup")
+
+    documento = leer_pdf("documents/lean_startup/lean_startup.pdf", metodologia)
+
     print(documento)
+
+
