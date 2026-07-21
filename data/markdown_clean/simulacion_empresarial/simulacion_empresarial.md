@@ -728,7 +728,7 @@ Las actividades de simulación realizadas en esta unidad te han servido para sel
 - c) Comercializa el resultado obtenido.
 - d) Todas son correctas.
 
-## ^L'-^
+## Comprueba tu aprendizaje
 
 1. ¿Crees que la capacidad emprendedora es innata o se aprende?
 2. Piensa en tres ideas de negocio útiles e innovadoras que hayan tenido lugar como conse cuencia de la incorporación de la mujer al trabajo.
@@ -741,7 +741,7 @@ Las actividades de simulación realizadas en esta unidad te han servido para sel
 - c) Depilación de cejas con técnica oriental de hilo de seda.
 - d) Depilación eléctrica.
 
-6. Busca información sobre un emprendedor español y resume su trayectoria profesio nal (puedes consultar la siguiente página web: http://www.emprendedorestv.com/ emprendedorestv).
+6. Busca información sobre un emprendedor español y resume su trayectoria profesio nal (puedes consultar la siguiente página web: http://www.emprendedorestv.com/emprendedorestv).
 
 - a) Señala qué características de personalidad descubres en ese emprendedor.
 - h) intercambia tu respuesta con algún compañero de clase e identifica qué cualidades tiene ese emprendedor.
@@ -757,10 +757,6 @@ Las actividades de simulación realizadas en esta unidad te han servido para sel
 - c) ¿Cómo cree Alfonso Alcántara que se diferencia una idea buena de una idea mala?
 - d) ¿De qué depende el éxito de un emprendedor?
 - e) Y respecto a su última pregunta: «¿Por qué no has montado ya tu propia empresa?», qué responderías.
-
-....■..
-
----
 
 12. Entra en la página Fábrica de ideas e identifica una idea de negocio que te parezca origi nal: http://www.rtve.es/television/fabricadeideasdetve
 
@@ -778,7 +774,7 @@ Las actividades de simulación realizadas en esta unidad te han servido para sel
 - c) ¿Has considerado la utilidad e innovación de la página web al responder la pregunta anterior?
 - d) ¿Por qué se constituyen como una red social?
 
-15. Piensa en inventos españoles que hayan resultado muy útiles en la historia de la huma nidad o para facilitar la vida a las personas. Después, consulta esta página web: http:// blogs.20minutos.es/yaestaellistoquetodolosabe/grandes-y-pequenos-inventos&lt; españoles-1, y contrasta tu respuesta con lo leído.
+15. Piensa en inventos españoles que hayan resultado muy útiles en la historia de la huma nidad o para facilitar la vida a las personas. Después, consulta esta página web: http://blogs.20minutos.es/yaestaellistoquetodolosabe/grandes-y-pequenos-inventos-espanoles-1, y contrasta tu respuesta con lo leído.
 16. Escucha cómo piensa un emprendedor de éxito a través del discurso de Steve Jobs en la Universidad de Standford. Selecciona la idea que más te haya llamado la atención: http://www.youtubexom/watch?v=6zlHAiddNUY
 17. Piensa qué necesidades no están satisfechas en la sociedad actual e imagina un producto o servicio que pudiera satisfacerlas. Imagina cómo habría que producirlo y, en función de ello, qué precio establecerías. Después, pregunta a tres compañeros de clase si, en rela ción con ese producto o servicio que has imaginado, les parece:
 
@@ -794,9 +790,11 @@ Las actividades de simulación realizadas en esta unidad te han servido para sel
 - a) ¿Están mostrando la misma imagen corporativa o el cambio de logotipo implica también un cambio en la percepción de los clientes?
 - b) Los últimos logotipos de cada compañía, ¿son los que responden a una imagen de modernidad y de simplicidad?
 
-## Estudio de mercado
+# 2. Estudio de mercado
 
-«No puedes preguntarle a los consumidores qué quieren y luego pretender dárselo. En el tiempo que has estado fabricándolo, ellos querrán una cosa nueva.» Steve Jobs, cofundador de Apple.
+## Steve Jobs, cofundador de Apple.
+
+«No puedes preguntarle a los consumidores qué quieren y luego pretender dárselo. En el tiempo que has estado fabricándolo, ellos querrán una cosa nueva.»
 
 ## En esta unidad aprenderemos a:
 
@@ -820,6 +818,8 @@ Las actividades de simulación realizadas en esta unidad te han servido para sel
 - La organización funcional: el organigrama.
 - Responsabilidad social de la empresa: la ética en los negocios.
 - Análisis DAFO.
+
+## Emprendedores
 
 En este apartado vamos a analizar cómo la empresa Panrico ha tratado de adaptar su pro ducto estrella, Donuts, a los requerimientos del mercado: las acciones de la competencia y las nuevas necesidades de los consumidores.
 
@@ -858,7 +858,7 @@ Con este cambio, la marca había traicionado el atributo fundamental del Donut, 
 Fueran percepciones reales o no, los consumidores dejaron de confiar en Donuts y desplaza ron su consumo a otras marcas. Aquello que la empresa pretendía evitar, lo había amplificado. Aunque también es posible atribuir la pérdida de facturación a otros motivos:
 
 1. El inicio de la crisis económica actual, que ha supuesto una bajada generalizada del consumo.
-2. Las campañas por una alimentación saludable y contra la obesidad infantil han supuesto un rechazo de la bollería industrial. El Donuts, con su nuevo envase, deja de percibirse como un producto «sano» de panadería y, en su lugar, se compran productos sustitutivos: cmasanes, magdalenas, etc.
+2. Las campañas por una alimentación saludable y contra la obesidad infantil han supuesto un rechazo de la bollería industrial. El Donuts, con su nuevo envase, deja de percibirse como un producto «sano» de panadería y, en su lugar, se compran productos sustitutivos: cruasanes, magdalenas, etc.
 3. Las mejoras tecnológicas han posibilitado la venta de productos ultracongelados simila res en grandes supermercados. De modo que el precio se abarata.
 
 ## La reacción al rechazo: dar marcha atrás
@@ -877,9 +877,11 @@ Y continúan los esfuerzos. Panrico sigue luchando por cambiar la mala imagen ge
 2. Razona si, a priori, el cambio de envase parecía acertado y por qué.
 3. Si con el cambio de envase las ventas aumentaron un 30%, ¿cómo es posible que la empresa estuviera al borde de la quiebra al cabo de un año?
 
+## Conceptos básicos
+
 En este apartado vamos a recordar algunos conceptos que te serán útiles para realizar la Simulación, tales como:
 
-departamentos plan de producción ét¡Cd empresarial plan de marketing organigrama mercado DAFO competencia proveedores Clientes distribuidores entomo
+departamentos plan de producción ética empresarial plan de marketing organigrama mercado DAFO competencia proveedores Clientes distribuidores entorno
 
 ## A. La empresa es un sistema
 
@@ -919,6 +921,12 @@ El macroentorno o entorno general se refiere a aquellos factores que influyen en
 
 Los factores que definen el macroentorno son: económicos, socioculturales, político-legales, tecnológicos y medioambientales.
 
+- Económicos: La coyuntura económica laboral, como desempleo elevado.
+- Socioculturales: Las características de ía sociedad, como el nivel educativo.
+- Político-legales: La normativa laboral, fiscal mercantil, como los trámites para constituir una empresa.
+- Tecnológicos: Las técnicas innovaciones que mejoran la eficiencia de la empresa, como la automatización de procesos productivos.
+- Medioambientales: Las acciones de protección del medio ambiente, como la gestión de residuos.
+
 Fig. 2.1. Factores del entorno general.
 
 ## Microentorno o entorno específico
@@ -953,9 +961,23 @@ Los productos de la empresa LE O han estado tradicionalmente enfocados a un segm
 Los tres tipos de mercados (consumidores) que contempla la empresa en el marco de un estudio de mercado, son:
 
 1. El mercado potencial Se refiere a los posibles (potenciales) clientes de una empresa, es decir, aquellos que tienen interés en el producto y están además en disposición de adqui rirlo como, por ejemplo, aquellos que compran en la competencia. De entre todos ellos, la empresa se centra en los que más fácilmente pueden llegar a ser sus clientes, es decir, en su mercado objetivo.
+
 2. El mercado objetivo. Se refiere al público objetivo o targetgroup, que es el colectivo al que se dirige el producto. Especificar este colectivo hace más eficientes las acciones de marketing, a la vez que permite definir las características del producto que se va a ofrecer y detectar las necesidades que tiene que cubrir.
 
 Cuando el público objetivo compra su producto, dejan de ser mercado objetivo para con vertirse en mercado actual. A partir de ese momento, la empresa focalizará su atención en otro segmento de su mercado potencial. También puede dirigirse a otros colectivos porque la competencia aumenta y la compañía busca ampliar su mercado.
+
+3. El mercado actual está compuesto por quienes, efectivamente, compran el producto de
+   la empresa.
+
+## Ejemplo 3. Tipos de mercados
+
+El mercado potencial de una marca de secadores incluiría tanto los que compran secadores de otras marcas, como los que no los compran, tales como niños, personas calvas, etc. El mercado objetivo de la empresa LEGO actualmente es el público infantil femenino. Por ello, han lanzado recientemente una línea exclusiva de LEGOS para niñas, denominada LEGO Friends, que está adaptada los gustos intereses de este segmento del mercado. El mercado actual no siempre es fácil de mantener, como se percibe en el caso de LEGO, ya que los niños que hace 15 años compraban estas construcciones son ahora adultos. No obstante, la compañía trata de recuperarlos con el lanzamiento de unas construcciones más caras, ya que se trata de diseños complejos más cercanos su gusto, como son las inspiradas en la película la Guerra de las Galaxias.
+
+## Actividades
+
+3. La compañía Iberia ha decidido cerrar algunas de sus rutas habituales que ya está cubriendo el AVE, para ahorrar costes. ¿Cuál es el mercado potencial que espera conseguir Iberia con esta medida? Para responder la pregunta, puedes consultar el siguiente enlace: http://bitiy/SdykU9.
+
+Fuente: El Economista. Madrid, 31 de octubre de 2012 [en línea]
 
 ## Cuota de mercado
 
