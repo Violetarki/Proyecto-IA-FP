@@ -1,25 +1,17 @@
-"""orquestador: Recorre una carpeta, lee todos los archivos PDF en formato .md
-y devuelve una lista de objetos Documento."""
+"""Orquestador: Recorre la carpeta data/markdown_clean, lee todos los archivos .md
+, detectar la metodología por el nombre de la carpeta y devuelve una lista de objetos Documento.
+"""
 
 from pathlib import Path
 from models import Documento, Metodologia
 
 
-def leer_documentos(carpeta):
+def leer_documentos(carpeta="data/markdown_clean"):
     """
-    Recorre todas las subcarpetas buscando archivos Markdown (.md)
-    y crea un Documento por cada uno.
+    Recorre todos los archivos Markdown limpios y devuelve
+    una lista de objetos Documento.
     """
-    
-    # Tiene q poder hacer:
-        # Recorrer las metodologías.
-        # Buscar los PDFs.
-        # Asegurarse de que existe el .md.
-        # Leer los Markdown.
-        # Devolver list[Documento].
-        
-        
-    # Replantear codigo segun nuevo pipeline con Docling
+
     documentos = []
 
     carpeta = Path(carpeta)
@@ -29,9 +21,7 @@ def leer_documentos(carpeta):
         if not carpeta_metodologia.is_dir():
             continue
 
-        metodologia = Metodologia(
-            nombre=carpeta_metodologia.name.replace("_", " ").title()
-        )
+        metodologia = Metodologia(carpeta_metodologia.name)
 
         for archivo_md in carpeta_metodologia.glob("*.md"):
 
@@ -41,8 +31,7 @@ def leer_documentos(carpeta):
                 metodologia=metodologia,
                 nombre=archivo_md.stem,
                 texto=texto,
-                ruta=str(archivo_md), #esto tmb cambia a otra cosa
-                paginas=0 # esta parte es inventada, ver como obtener nº paginas con el nuevo sistema
+                ruta=str(archivo_md),
             )
 
             documentos.append(documento)

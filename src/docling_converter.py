@@ -8,21 +8,22 @@ converter = DocumentConverter()
 
 def convertir_pdf_a_markdown(ruta_pdf: str) -> Path:
     """
-    Convierte un PDF a Markdown y lo guarda junto al PDF.
+    Convierte un PDF a Markdown y lo guarda en data/markdown_docling.
 
-    Args:
-        ruta_pdf: Ruta del archivo PDF.
-
-    Returns:
-        Ruta del archivo Markdown generado.
+    Devuelve la ruta del archivo Markdown generado.
     """
 
     ruta_pdf = Path(ruta_pdf)
-    ruta_md = ruta_pdf.with_suffix(".md")
+    
+    # nombre de la metodología (nombre de la carpeta)
+    metodologia = ruta_pdf.parent.name
+
+    ruta_md = Path("data") / "markdown_docling" / metodologia / f"{ruta_pdf.stem}.md"
+
+    # Crear carpetas si no existen
+    ruta_md.parent.mkdir(parents=True, exist_ok=True)
 
     print(f"Convirtiendo: {ruta_pdf.name}")
-
-    print("Iniciando conversión...")
 
     # Convertir el PDF
     resultado = converter.convert(ruta_pdf)
