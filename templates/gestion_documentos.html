@@ -45,38 +45,59 @@
 
         {% endwith %}
 
-        <section class="metodologias">
+        {% if metodologias %}
 
-            {% for clave, nombre in metodologias.items() %}
+            <section class="metodologias">
 
-                <a
-                    class="
-                        tarjeta-metodologia
-                        {% if metodologia_seleccionada == clave %}
-                            tarjeta-seleccionada
-                        {% endif %}
-                    "
-                    href="{{ url_for(
-                        'gestionar_documentos',
-                        metodologia=clave
-                    ) }}"
-                >
-                    <h2>{{ nombre }}</h2>
+                {% for metodologia in metodologias %}
 
-                    <p>Gestionar documentos</p>
-                </a>
+                    <a
+                        class="
+                            tarjeta-metodologia
+                            {% if metodologia_seleccionada == metodologia %}
+                                tarjeta-seleccionada
+                            {% endif %}
+                        "
+                        href="{{ url_for(
+                            'gestionar_documentos',
+                            metodologia=metodologia
+                        ) }}"
+                    >
+                        <h2>
+                            {{ mostrar_nombre_metodologia(metodologia) }}
+                        </h2>
 
-            {% endfor %}
+                        <p>Gestionar documentos</p>
+                    </a>
 
-        </section>
+                {% endfor %}
+
+            </section>
+
+        {% else %}
+
+            <section class="sin-metodologias">
+                <p>
+                    No hay metodologías disponibles dentro de la carpeta
+                    documents.
+                </p>
+            </section>
+
+        {% endif %}
 
         {% if metodologia_seleccionada %}
 
             <section class="panel-documentos">
 
                 <h2>
-                    {{ metodologias[metodologia_seleccionada] }}
+                    {{ mostrar_nombre_metodologia(
+                        metodologia_seleccionada
+                    ) }}
                 </h2>
+
+                <p class="nombre-carpeta">
+                    Carpeta: {{ metodologia_seleccionada }}
+                </p>
 
                 <section class="seccion-subida">
 
