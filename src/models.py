@@ -7,6 +7,7 @@ from dataclasses import dataclass
 class Metodologia:
     """
     Representa una metodología educativa asociada a un conjunto de documentos.
+    Se obtiene a partir del nombre de la carpeta
     """
 
     nombre: str
