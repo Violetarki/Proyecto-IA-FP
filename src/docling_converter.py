@@ -40,13 +40,6 @@ def convertir_pdf_a_markdown(ruta_pdf: str | Path) -> Path:
     """
 
     ruta_pdf = Path(ruta_pdf)
-<<<<<<< HEAD
-    
-    # usa el nombre de la carpeta para construir una ruta
-    carpeta_metodologia = ruta_pdf.parent.name
-
-    ruta_md = Path("data") / "markdown_docling" / carpeta_metodologia / f"{ruta_pdf.stem}.md"
-=======
 
     if not ruta_pdf.exists():
         raise FileNotFoundError(
@@ -71,7 +64,6 @@ def convertir_pdf_a_markdown(ruta_pdf: str | Path) -> Path:
         / metodologia
         / f"{ruta_pdf.stem}.md"
     )
->>>>>>> b143019 (Implementar chunker y generación de embeddings)
 
     ruta_markdown.parent.mkdir(
         parents=True,
