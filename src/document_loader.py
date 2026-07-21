@@ -1,12 +1,14 @@
-"""Orquestador: Recorre la carpeta data/markdown_clean, lee todos los archivos .md
-, detectar la metodología por el nombre de la carpeta y devuelve una lista de objetos Documento.
+"""Carga los documentos Markdown limpios del proyecto.
+
+Recorre la carpeta data/markdown_clean, detecta la metodología a partir del
+nombre de cada subcarpeta y devuelve una lista de objetos Documento.
 """
 
 from pathlib import Path
 from models import Documento, Metodologia
 
 
-def leer_documentos(carpeta="data/markdown_clean"):
+def leer_documentos():
     """
     Recorre todos los archivos Markdown limpios y devuelve
     una lista de objetos Documento.
@@ -14,9 +16,9 @@ def leer_documentos(carpeta="data/markdown_clean"):
 
     documentos = []
 
-    carpeta = Path(carpeta)
+    ruta_carpeta = Path("data/markdown_clean")
 
-    for carpeta_metodologia in carpeta.iterdir():
+    for carpeta_metodologia in ruta_carpeta.iterdir():
 
         if not carpeta_metodologia.is_dir():
             continue
@@ -37,47 +39,3 @@ def leer_documentos(carpeta="data/markdown_clean"):
             documentos.append(documento)
 
     return documentos
-
-
-if __name__ == "__main__":
-    pass
-# cuando hagamos la interfaz web para que los profesores suban documentos, probablemente solo hay que llamar a:
-
-# documentos = leer_documentos("documents")
-
-# Pipeline actual con .md:
-# PDF
-#  │
-#  ▼
-# Docling
-#  │
-#  ▼
-# Markdown (.md)
-#  │
-#  ▼
-# text_cleaner
-#  │
-#  ▼
-# Documento ** Este paso va en este archivo
-#  │
-#  ▼
-# Chunker
-#  │
-#  ▼
-# Embeddings
-
-# **
-# leer_documentos()
-#     │
-#     ├── convertir_si_necesario()
-    def convertir_si_necesario(pdf_path):
-        pass
-
-    # Responsabilidad:
-
-    # Comprobar si existe el .md.
-    # Si no existe (o está desactualizado), llamar a docling_converter.
-#     │
-#     # └── leer_markdown()
-    def leer_markdown(md_path, metodologia):
-        pass
