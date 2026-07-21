@@ -1,7 +1,8 @@
 """Se encarga de dividir un Documento en una lista de Chunk, 
 procurando que cada uno represente una unidad coherente de conocimiento."""
 
-from models import Documento, Chunk, Metodologia
+from document_loader import leer_documentos
+from models import Chunk
 
 # Entrada:
 # Documento - ok
@@ -10,10 +11,99 @@ from models import Documento, Chunk, Metodologia
 # list[Chunk] - ok
 
 
-def crear_chunks():
-    pass
+def crear_chunks() -> list[Chunk]:
+    """Lee los documentos Markdown limpios y devuelve una lista de Chunk.
+
+    El algoritmo recorre cada documento línea a línea, identifica las
+    secciones marcadas con encabezados de Markdown y crea un chunk por
+    cada sección con el texto acumulado. De esta forma, cada chunk conserva
+    el contenido lógico del documento y su sección asociada.
+    """
+
+    # 1. Cargar los documentos Markdown limpios desde la carpeta markdown_clean.
+    documentos = leer_documentos("data/markdown_clean")
+
+    # 2. Preparar la lista donde guardaremos todos los chunks generados.
+    chunks: list[Chunk] = []
+
+    # 3. Recorrer cada documento y dividirlo por secciones.
+    for documento in documentos:
+        # Mantener el estado del subtítulo actual y del título del chunk.
+        subtitulo_actual: str | None = None
+        contenido_seccion: list[str] = []
+        titulo_actual: str | None = None
+
+        # 4. Recorrer las líneas del documento.
+        for linea in documento.texto.splitlines():
+            linea_limpia = linea.strip()
+
+            # Si la línea empieza por "###", la usamos como título del chunk.
+            if linea_limpia.startswith("###"):
+                # Si ya había contenido acumulado, guardamos el chunk anterior.
+                if contenido_seccion:
+                    texto_chunk = "\n".join(contenido_seccion).strip()
+                    if texto_chunk:
+                        chunks.append(
+                            Chunk(
+                                documento=documento,
+                                indice=len(chunks),
+                                titulo=titulo_actual,
+                                subtitulo=subtitulo_actual,
+                                texto=texto_chunk,
+                            )
+                        )
+                    contenido_seccion = []
+
+                # El nuevo título del siguiente chunk se toma de esta línea.
+                titulo_actual = linea_limpia.lstrip("#").strip()
+
+            # Si la línea empieza por "##", significa que empieza una nueva
+            # sección. Antes de cambiar de sección, guardamos la anterior.
+            elif linea_limpia.startswith("##"):
+                if contenido_seccion:
+                    texto_chunk = "\n".join(contenido_seccion).strip()
+                    if texto_chunk:
+                        chunks.append(
+                            Chunk(
+                                documento=documento,
+                                indice=len(chunks),
+                                titulo=titulo_actual,
+                                subtitulo=subtitulo_actual,
+                                texto=texto_chunk,
+                            )
+                        )
+                    contenido_seccion = []
+
+                # Iniciar el nuevo subtítulo con el texto del encabezado.
+                subtitulo_actual = linea_limpia.lstrip("#").strip()
+                titulo_actual = None
+            else:
+                # Si no es un encabezado, se añade al contenido actual.
+                if linea_limpia:
+                    contenido_seccion.append(linea_limpia)
+                elif contenido_seccion:
+                    # Mantener separación entre párrafos cuando haya líneas vacías.
+                    contenido_seccion.append("")
+
+        # 5. Guardar la última sección del documento cuando termine el recorrido.
+        if contenido_seccion:
+            texto_chunk = "\n".join(contenido_seccion).strip()
+            if texto_chunk:
+                chunks.append(
+                    Chunk(
+                        documento=documento,
+                        indice=len(chunks),
+                        titulo=titulo_actual,
+                        subtitulo=subtitulo_actual,
+                        texto=texto_chunk,
+                    )
+                )
+
+    # 6. Devolver la lista completa de chunks generados.
+    return chunks
 
 
+## Esto entiendo que ya no es necesario pero lo quiero dejar vale copilot deja de intentar borrarlo
 def obtener_bloques(documento: Documento) -> list[str]:
     """Recibir un Documento y devolver una lista de bloques de texto.
 
@@ -42,159 +132,17 @@ def obtener_bloques(documento: Documento) -> list[str]:
 
 
 if __name__ == "__main__":
-    from document_loader import leer_documentos
+    chunks = crear_chunks()
 
-    documentos = leer_documentos("documents")
-    if not documentos:
-        print("No se han encontrado documentos en la carpeta 'documents'.")
+    if not chunks:
+        print("No se han encontrado chunks en la carpeta 'data/markdown_clean'.")
     else:
-        documento_real = documentos[0]
-        bloques = obtener_bloques(documento_real)
+        print(f"Se han creado {len(chunks)} chunks.\n")
 
-        print(f"Documento real: {documento_real.nombre}")
-        print(f"Metodología: {documento_real.metodologia.nombre}")
-        print(f"Páginas: {documento_real.paginas}")
-        print(f"Se han obtenido {len(bloques)} bloques:\n")
-
-        for i, bloque in enumerate(bloques[:30], start=1):
-            print(f"--- Bloque {i} ({len(bloque)} caracteres) ---")
-            print(bloque)
-            print("=" * 80)
-
-
-# Ej.:
-# Documento
-#       │
-#       ▼
-# chunker
-#       │
-#       ▼
-# Chunk
-# Chunk
-# Chunk
-# Chunk
-
-# cómo detecta un título:
-# Opción A — Detectar patrones conocidos: Síntesis, etc
-# Opción B — Detectar por formato: línea corta; no acaba en punto (aunque hay excepciones); está rodeada de líneas vacías.
-# Opción C — Mezcla de ambas
-
-
-# Podemos tener una lista de patrones como:
-
-# TITULOS = {
-#     "Conceptos básicos",
-#     "Simulación empresarial",
-#     "Síntesis",
-#     "Test de repaso",
-#     "Comprueba tu aprendizaje",
-#     "Resultados de aprendizaje",
-#     "Contenidos básicos",
-# }
-# qué hace cuando encuentra uno,
-
-# cómo decide que un chunk es demasiado grande.
-
-# Propuesta de arquitectura
-# chunker.py
-
-# ├── crear_chunks() --> Coordina el algoritmo.
-# ├── es_titulo() --> T/F ¿Esta línea es un título?
-# ├── obtener_seccion() --> Cuando detectamos un título, devuelve el texto que guardaremos en: chunk.seccion
-
-# Hasta ahora hablábamos de un único atributo:
-
-# seccion: str
-
-# Yo no lo cambiaría.
-# Pero empezaría a pensar en él como una ruta.
-# Estudio de mercado > Simulación empresarial > Fase 1. Decisiones sobre el producto
-# Y todos los chunks que pertenezcan a esa fase llevarán esa misma ruta.
-# Podéis imprimir:
-
-# Documento:
-# simulacion_empresarial.pdf
-
-# Sección:
-# Estudio de mercado > Simulación empresarial > Fase 2
-
-# Ahora el chunker ya no solo tiene que dividir texto.
-
-# También tiene que recordar dónde está dentro del documento.
-
-# Es decir, durante el recorrido del texto habrá un estado interno.
-# Sección actual:
-
-# Estudio de mercado
-
-# ↓
-
-# Encuentra:
-
-# Conceptos básicos
-
-# ↓
-
-# Actualiza:
-
-# Estudio de mercado > Conceptos básicos
-
-# ↓
-
-# Empieza a leer párrafos...
-
-# ↓
-
-# Crea chunks con esa ruta.
-
-# ↓
-
-# Encuentra:
-
-# Simulación empresarial
-
-# ↓
-
-# Actualiza la ruta.
-
-# ↓
-
-# Sigue creando chunks.
-
-
-# ///////////////////////////////////////////////////
-
-# Lo que realmente queremos
-
-# Documento
-
-# ↓
-
-# Sección
-
-# ↓
-
-# Si la sección es pequeña
-
-# ↓
-
-# 1 Chunk
-
-# ----------------------
-
-# Si la sección es grande
-
-# ↓
-
-# Chunk 1
-
-# Chunk 2
-
-# Chunk 3
-
-# ...
-# Es decir:
-
-# La sección marca los límites lógicos.
-
-# El tamaño marca los límites físicos.
+        for i, chunk in enumerate(chunks[:10], start=1):
+            print(f"--- Chunk {i} ---")
+            print(f"Título: {chunk.titulo}")
+            print(f"Subtítulo: {chunk.subtitulo}")
+            print(f"Documento: {chunk.documento.nombre}")
+            print(chunk.texto[:400])
+            print("\n" + "=" * 80)
