@@ -76,7 +76,6 @@ def crear_chunks() -> list[Chunk]:
 
                 # Iniciar el nuevo subtítulo con el texto del encabezado.
                 subtitulo_actual = linea_limpia.lstrip("#").strip()
-                titulo_actual = None
             else:
                 # Si no es un encabezado, se añade al contenido actual.
                 if linea_limpia:
