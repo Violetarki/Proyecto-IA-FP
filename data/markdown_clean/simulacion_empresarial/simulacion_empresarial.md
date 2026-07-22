@@ -3619,27 +3619,55 @@ Micropago o micropayment son los sistemas creados para realizar pagos de pequeñ
 
 Aunque pueda parecer una opción desconocida, ya hay varios ejemplos de plataformas que posibilitan el acceso a esta fuente de financiación. Algunas de ellas son específicas de un determinado sector profesional, de manera que reúne a seguidores de un gusto concreto, como jugadores de videojuegos que quieren apoyar económicamente nuevas versiones de estos juegos.
 
-Tabla 4.10. Ventajas e inconvenientes del crowdfunding.
+## Tabla 4.10. Ventajas e inconvenientes del crowdfunding.
 
-| Permite la financiación de proyectos de aquellos emprendedores con escasez de recursos y que carecen de avalistas que respondan de la devolución del dinero recibido. Permite financiar aquellas ideas innovadoras que pueden no gozar de la credibilidad de las fuentes de financiación más tradicionales, al no poder garantizar la viabilidad del proyecto. | No es una opción tan masificada como parece. La divulgación requerida del proyecto expone al promotor a que su idea sea copiada por otras empresas. |
+VENTAJAS
+
+- Permite la financiación de proyectos de aquellos emprendedores con escasez de recursos y que carecen de avalistas que respondan de la devolución del dinero recibido.
+- Permite financiar aquellas ideas innovadoras que pueden no gozar de la credibilidad de las fuentes de financiación más tradicionales, al no poder garantizar la viabilidad del proyecto.
+- Permite financiar un producto coste cero, lo que abarata su comercialización posterior.
+- Permite acercar la oferta la demanda, creándose productos que son aceptados para un colectivo suficiente de personas capaz de sufragar su coste.
+- Permite ganar potenciales clientes gracias la difusión boca-boca.
+
+INCONVENIENTES
+
+- No es una opción tan masificada como parece.
+- La divulgación requerida del proyecto expone al promotor a que su idea sea copiada por otras empresas.
+
+## Tabla 4.11. Consejos para conseguir financiación a través del crowdfunding
 
 En la Tabla 4.11 se señalan algunos consejos para conseguir financiación a través de pequeñas aportaciones de particulares desinteresados.
 
-- ----------------------- | Indagar qué proyectos fueron financiados con anterioridad y analizar qué características les dieron más probabilidad de éxito. |
+- Analizar los puntos fuertes de proyectos financiados con crowdfunding: Indagar qué proyectos fueron financiados con anterioridad y analizar qué características les dieron más probabilidad de éxito.
 
-  --------------------------- ofrecen un plazo de tiempo limitado, otras imponen penalizaciones si no se reúne la cantidad aportada, y otras piden comisiones---------------------- | Una cantidad inflada puede ser descartada. En ocasiones, la financiación lograda supera la cantidad fijada. |
-  | | Ofrecer algo de interés para los mecenas e imputarlo como un gasto, para que las cuentas sigan cuadrando. |
-  | | Mostrar contenidos de calidad y una parte del proyecto. Es una manera de testar el interés que despierta el producto. |
+- Buscar varias plataformas y comparar sus condiciones: Algunas plataformas ofrecen un plazo de tiempo limitado, otras imponen penalizaciones si no se reúne la cantidad aportada, y otras piden comisiones(alrededor del 5%).
 
-Tabla 4.11. Consejos para conseguir financiación a través del crowdfunding (Continuación).
+- Ajustar el presupuesto: Una cantidad inflada puede ser descartada. En ocasiones, la financiación lograda supera la cantidad fijada.
+
+- Ofrecer intereses: Ofrecer algo de interés para los mecenas e imputarlo como un gasto, para que las cuentas sigan cuadrando.
+
+- Cuidar la exposición de la idea: Mostrar contenidos de calidad y una parte del proyecto. Es una manera de testar el interés que despierta el producto.
+
+- Promociones a través de las redes sociales: Cuanta más difusión se consiga, más probabilidades de captar fondos. Promocio￾narse a través de Internet ayuda tener una audiencia on-Une labrarse una reputación que genere confianza un futuro mecenas.
+
+- Mantener informado al inversor durante el proceso: Es aconsejable documentar el proceso para ser transparente, pero también para implicarle.
+
+- Realizar una campaña de promoción en la que se incluya un vídeo: El elemento visual incrementa las probabilidades de reunir fondos. No es necesario un gran equipo audiovisual pero sí cuidar la puesta en escena. Se aconseja contar una historia que emocione que provoque la risa, favoreciendo que sea
+  compartido por medios sociales.
+
+- Generar productos de calidad: Comprometerse en generar un producto de calidad recompensar los mecenas con propuestas interesantes creativas, cuanto más divertidas y originales mejor.
+
+Asistencia ensayos/rodajes, pases privados, etc.
+Degustaciones, productos gratis, objetos con autógrafos, etc.
+Sorteos de todo tipo (fin de semana en hotel, etc.).
 
 ## Ejemplo 18. Casos de nrsicromecenazgo---------------------
 
 Potlach es una plataforma de financiación colectiva, entre cuyos proyectos elegidos para ser difundidos en su plataforma se encuentra, por ejemplo, el portal barcelonapledevida que persigue reunir a todos los agentes implicados en el sistema sanitario: pacientes, colectivos en riesgo, profesores, personal sanitario, gestores de salud, personal con responsabilidad política, etc. con la finalidad de compartir conocimiento y mejorar la accesibilidad a la información sobre enfermedades a través de una oferta formativa eLearning y presencial.
 
-Otras plataformas de crowdfunding de aparición recientemente son, entre otras, Lánzanos, oteo, La Tahona, lnjoinet,Verkami,Volanda oThe Crowd Ángel.
+Otras plataformas de crowdfunding de aparición recientemente son, entre otras, Lánzanos, Goteo, La Tahona, lnjoinet,Verkami,Volanda o The Crowd Ángel.
 
-## D Crowdsourcing o colaboración abierta distribuida
+## Crowdsourcing o colaboración abierta distribuida
 
 Recientemente han surgido otras plataformas de crowdfunding que añaden además la opción del crowdsourcing.
 
@@ -3659,12 +3687,12 @@ Valora cuántos recursos económicos podéis conseguir como recursos propios, es
 
 Para finalizar, inventa una manera singular de publicitar vuestra empresa en una plataforma de crowdfunding; puede ser a través de un vídeo, un mensaje escrito, etc. Concreta la idea al máximo; por ejemplo, si se trata de una película, explica qué escenas se grabarían, con qué fondo, por quién, cuál sería el mensaje, etc. Piensa también qué medios de re compensa ofrecerías a las personas que os apoyaran con su dinero.
 
-## Ayuda práctica:
+Ayuda práctica:
 
 - a) Estudia cuánto dinero podréis aportar cada socio. Suma todas las cantidades y calcula qué porcentaje de participación tendréis cada uno en la empresa. La proporción se tendrá en cuenta para decidir los porcentajes en el reparto de beneficios y en el derecho al voto.
 - b) Busca información sobre cuentas ahorro-empresa y razona si es viable la apertura de una cuenta de este tipo, teniendo presentes las condiciones que ofrecen y el tiempo de ahorro disponible, que se iniciará en el momento de abrir la cuenta y finalizará el día de constitución legal de la empresa.
 
-## Aclaración importante
+Aclaración importante
 
 Puede suceder que las decisiones establecidas en esta unidad modifiquen algunos elementos de vuestro Plan de empresa ya redactados. Es un proceso normal que puede su ceder en cualquier fase de la Simulación, debido a que estáis actuando secuencialmente, adoptando decisiones fase a fase y redactando las conclusiones parciales al final de cada unidad.
 
@@ -3676,7 +3704,7 @@ Debido a ello es inevitable que surjan estas contradicciones en una simulación 
 
 ## Fase 3. Incorporación de nuevos socios
 
-Tras la aportación personal de los socios, es habitual pensar en el dinero que pueden prestar familiares o amigos. Es lo que en inglés denominan las «3 F&gt;&gt;: Family, Fríends and Fools («familia, amigos y locos»).
+Tras la aportación personal de los socios, es habitual pensar en el dinero que pueden prestar familiares o amigos. Es lo que en inglés denominan las «3 F: Family, Fríends and Fools («familia, amigos y locos»).
 
 La familia y amigos pueden apoyar el nacimiento de la empresa a través de un préstamo con unas condiciones más favorables que las establecidas por una entidad bancaria. Analizaremos todas ellas más adelante, cuando abordemos las fuentes externas de financiación.
 
@@ -3688,29 +3716,35 @@ Estos agentes desempeñan un papel decisivo en las empresas jóvenes ya que, ade
 
 Un empresario individual, como su nombre indica, no puede tener socios. En cambio, el resto de sociedades pueden aceptar la entrada de nuevos socios. Algunas formas jurídicas tienen limitaciones respecto a la inclusión de nuevos miembros (Tabla 4.12).
 
+- Sociedad limitada o sociedad anónima
+
 Cada socio es propietario de la empresa en la parte correspondiente al capital social aportado. Por medio de la compra de participaciones, en el caso de la S.L, o de acciones, en una SA, se fija esta proporcionalidad que condiciona el reparto proporcional de beneficios, por medio de los dividendos, y la participación proporcional en la toma de decisiones, a tra vés del voto en la Junta de socios o de accionistas.
 
 Si el socio además trabaja en la empresa, recibirá una remuneración económica por ello, bien a través de nómina, bien por medio de factura. Si se trata de una relación laboral fijada en un contrato de trabajo, en base a una jornada regular y con carácter fijo, el socio es un trabajador más que cobrará su nómina como el resto de los trabajadores y tendrá sus mismos derechos, sin perjuicio de los dividendos cobrados.
 
 Si, por el contrario, el socio es un profesional que realiza trabajos esporádicos en la empresa, no se somete a sus horarios, realiza acciones puntuales como colaborador externo o como proveedor de servicios, entonces se trata de una relación mercantil, por lo que emitirá una factura por los servicios prestados. Puede haber casos en los que se den ambas condiciones.
 
-## ----------------------------------
+- Sociedad laboral
 
 Hay dos tipos de socios: los denominados socios trabajadores y los socios no trabajadores (que solo aportan dinero a través de la compra de acciones o participaciones, según se trate de una SAL o una S.LL Los primeros tienen una relación laboral con la empresa establecida en un contrato indefinido y con jornada completa, en base a lo cual cobrarán un salario que será entregado en cada nómina. Además, participarán, junto con los socios no trabajadores, en el reparto de beneficios y en la toma de decisiones mediante el voto, de manera proporcional al capital social aportado.
+
+- Sociedad cooperativa
 
 Esta sociedad consta de los denominados socios (a secas, puesto que siempre incluye prestación laboral) y los socios colaboradores (que solo aportan dinero). Los socios están vinculados con un contrato indefinido y a tiempo total con la empresa, por lo que reciben un salario a cambio. De manera complementaria, tendrán acceso al retorno cooperativo, que se trata de un reparto de beneficios establecido de forma proporcional al trabajo desempeñado en la cooperativa, nunca en proporción a su participación en el capital social. Asimismo, el derecho al voto se establece con criterio equitativo, de modo que cada cooperativista tiene un voto, sin importar el capital aportado.
 
 Los socios colaboradores tienen derecho a un interés por el capital aportado a la cooperativa, que no será inferior al percibido por los socios ni superior en más de seis puntos al interés legal del dinero. Y tienen derecho a un número de votos que, entre todos los socios colaboradores, no superen el 30% de los órganos sociales de la cooperativa.
 
-\_\_\_
+Tabla 4.12. Ampliación de capital en distintos tipos de empresas.
 
-\_
+## Los dividendos
 
-Los dividendos constituyen el reparto anual de los beneficios entre los socios, proporcional al porcentaje de participación en la compañía, tras efectuarse todos los pagos (incluidos impuestos) y establecerse las reservas obligatorias y las voluntarias.
+constituyen el reparto anual de los beneficios entre los socios, proporcional al porcentaje de participación en la compañía, tras efectuarse todos los pagos (incluidos impuestos) y establecerse las reservas obligatorias y las voluntarias.
 
 Al final de cada ejercicio económico se establece la cantidad de dividendos a repartir. Si no ha habido beneficios o si es necesario reinvertir los obtenidos, no habrá reparto de dividendos.
 
-La entrada de nuevos socios tiene como consecuencia directa la necesidad de modificar las escrituras de la empresa, haciendo constar la nueva repartición del capital social, el reparto de beneficios y el derecho a voto.
+## La entrada de nuevos socios
+
+tiene como consecuencia directa la necesidad de modificar las escrituras de la empresa, haciendo constar la nueva repartición del capital social, el reparto de beneficios y el derecho a voto.
 
 En la sociedad anónima laboral, la sociedad limitada laboral y la sociedad cooperativa, la incorporación de nuevos socios plantea la dificultad de respetar el requisito legal de que la mayo ría del capital esté en manos de los socios trabajadores, es decir, de que estos posean, al menos, el 51 % de las participaciones o acciones. Además, ningún socio puede poseer más de la tercera parte de la compañía.
 
@@ -3722,7 +3756,7 @@ Decathlon incrementa la aportación vía nuevos socios a través de sus empleado
 
 Es una manera de incrementar los recursos económicos de la empresa, a la vez que vincular a los trabajadores con la buena marcha de la misma, incentivando su fidelidad e implicándoles en la mejora de la productividad, ya que en su condición de socio, la rentabilidad de sus acciones dependerá de la buena marcha del negocio.
 
-## I Business ángel
+## Business angel
 
 Actualmente, los business angels sitúan su interés en proyectos que se desarrollen en la red, por tanto fácilmente replicables a otros países, que exijan una inversión inicial limitada y que generen ingresos con rapidez. Algunos ejemplos exitosos de este tipo son BuyVip,Tuenti o Privalia.
 
@@ -3730,13 +3764,11 @@ Al margen de Internet, solo hay otros dos sectores que captan la atención de es
 
 Cada inversor analiza entre 100 y 500 proyectos al año, de los que selecciona dos o tres. Con la crisis, resulta evidente que están aumentando sus exigencias para financiar proyectos.
 
-## Ejemplo 20. El caso José Marín
+### Ejemplo 20. El caso José Marín
 
 José Marín es un reconocido business ángel que cuenta con 23 inversiones a nivel internacional, con una inyección media de entre 18000 y 360000 euros por negocio. Él asegura que siempre «permanece con los ojos abiertos», y que busca «proyectos con un mercado potencial grande y que el momento sea bueno», es decir, que no haya otras compañías compitiendo con la misma idea, y que el negocio sea eficiente en el uso de capital.
 
-V..i
-
-En España contamos con la Asociación Española de BussinesAngels (AEBAN), que engloba a diversas redes de businessangels (Madri+d, BCN Business Angels, CEEI-Alcoy, IESE, Impiva). A pesar de la crisis económica, España ocupa el primer puesto en Europa en número de redes de business angels dentro de AEBAN, sin embargo, aún generan pocas operaciones.
+En España contamos con la Asociación Española de Bussines Angels (AEBAN), que engloba a diversas redes de businessangels (Madri+d, BCN Business Angels, CEEI-Alcoy, IESE, Impiva). A pesar de la crisis económica, España ocupa el primer puesto en Europa en número de redes de business angels dentro de AEBAN, sin embargo, aún generan pocas operaciones.
 
 Desde AEBAN proponen la cofinanciación entre la Administración y los inversores privados, a través de los llamados préstamos participativos, como fórmula alternativa a la financiación tradicional Con la crisis, la tendencia está obligando al cambio, dada la falta de liquidez de las entidades financieras. Así, el año pasado el 90% de la financiación concedida por la empresa pública ENISA fue mediante préstamos participativos.
 
@@ -3754,14 +3786,14 @@ Uno de los participantes es Carlos Dexeus, inversor de Kelkoo, Tuenti y Alice. P
 
 Fuente: ABC. Madrid, 22 de abril de 2012 [en línea]
 
-## I Capital riesgo
+## Capital riesgo
 
 El capital riesgo puede provenir de:
 
 - Una sociedad de capital riesgo, que es una empresa especializada en detectar start-ups.
 - Un fondo de capital riesgo, un producto financiero que capta el ahorro de pequeños inversores y lo utiliza para apoyar el nacimiento y consolidación de una start-up de alta rentabilidad.
 
-generalmente, el capital riesgo se invierte en una fase temprana del desarrollo de la empresa, cuando sus necesidades de financiación son altas pero las entidades financieras no tienen garantías de la devolución del capital. Sin embargo, empieza a ser habitual que empresas con solidadas acudan también a recursos de capital riesgo cuando requieren una inversión fuerte para ganar competitividad.
+Generalmente, el capital riesgo se invierte en una fase temprana del desarrollo de la empresa, cuando sus necesidades de financiación son altas pero las entidades financieras no tienen garantías de la devolución del capital. Sin embargo, empieza a ser habitual que empresas con solidadas acudan también a recursos de capital riesgo cuando requieren una inversión fuerte para ganar competitividad.
 
 La mayoría del capital riesgo destina pequeñas cantidades en varias start-ups para compensar las pérdidas de unas con las ganancias en las otras.
 
@@ -3776,18 +3808,27 @@ Fuente: Diario de Burgos. Burgos, 26 de octubre de 2012 [en línea] (adaptación
 
 En la Tabla 4.13 se enumeran algunos consejos para evitar que el proyecto empresarial sea rechazado por una sociedad de capital riesgo.
 
-| Constituir la empresa, en lugar de esperar a tener capital para ejecutar la idea.                                                                                                                                                                                            |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Garantizar que los socios ofrecen una imagen de seriedad, profesionalidad y competencia.                                                                                                                                                                                     |
-| Construir una identidad de marca y, más en concreto, incrementar la presencia en redes sociales. Reservar aquellos dominios que pueden asociarse a la empresa.                                                                                                               |
-| Garantizar la ventaja competitiva de la empresa registrando la propiedad intelectual (o industrial), si la hay. En caso contrario, buscar fórmulas de diferenciación para que la idea no sea fácilmente replicable por la competencia e invadan nuestro hueco de mercado.    |
-| Aunque implica un gasto, siempre vende más un objeto físico que una idea, por muy buena que sea.                                                                                                                                                                             |
-| idea no suele sobrepasar dos páginas y una                                                                                                                                                                                                                                   |
-| Es preciso contar con un buen plan de empresa extenso para, en caso de captar su atención, justificar y exponer todos los aspectos del negocio. Esto ayudará a vencer la resistencia del inversor, contando con una respuesta estudiada a cada duda que surja. --- ■ _\_\_ _ |
-| Sin ella, no se tiene un fundamento claro de que hay potenciales clientes dispuestos a pagar por este bien o servicio.                                                                                                                                                       |
-| Siguen siendo fundamentales para prosperar.                                                                                                                                                                                                                                  |
+## Tabla 4.13. Consejos para captar la atención de una sociedad de capital riesgo.
 
-Tabla 4.13. Consejos para captar la atención de una sociedad de capital riesgo.
+- Constituir la empresa: Constituir la empresa, en lugar de esperar a tener capital para ejecutar la idea.
+
+- Dar buena imagen: Garantizar que los socios ofrecen una imagen de seriedad, profesionalidad y competencia.
+
+- Contar con presencia online clara, bien definida y de calidad: Construir una identidad de marca y, más en concreto, incrementar la presencia en redes sociales. Reservar aquellos dominios que pueden asociarse a la empresa.
+
+- Marcar diferencias con la competencia: Garantizar la ventaja competitiva de la empresa registrando la propiedad intelectual (o industrial), si la hay. En caso contrario, buscar fórmulas de diferenciación para que la idea no sea fácilmente replicable por la competencia e invadan nuestro hueco de mercado.
+
+- Presentar el prototipo del producto que se quiere comercializar: Aunque implica un gasto, siempre vende más un objeto físico que una idea, por muy buena que sea.
+
+- Brevedad en la presentación del proyecto: El tiempo que se otorga a los emprendedores para exponer su idea no suele sobrepasar los treinta minutaos. La recomendación es un resumen ejecutivo de de dos páginas y una presentación de diez diapositivas a lo sumo.
+
+- Tener el plan de empresa elaborado: Es preciso contar con un buen plan de empresa extenso para, en caso de captar su atención, justificar y exponer todos los aspectos del negocio. Esto ayudará a vencer la resistencia del inversor, contando con una respuesta estudiada a cada duda que surja.
+
+- Exponer el plan financiero: El plan financiero debe detallar expectativas de beneficios y previsión de gastos para los tres/cinco primeros años. Se aconseja proyectarlas en distintos escenarios económicos para incrementar nuestra credibilidad.
+
+- Aportar datos de la investigación de mercado realizada: Sin ella, no se tiene un fundamento claro de que hay potenciales clientes dispuestos a pagar por este bien o servicio.
+
+- Incrementar la red de contactos: Siguen siendo fundamentales para prosperar.
 
 ## Actividad de simulación 3
 
@@ -3795,7 +3836,7 @@ Analiza, junto con tus socios, si es viable que algún nuevo socio se incorpore 
 
 A continuación, busca información sobre business angels o sociedades o fondos de capital riesgo que puedan estar interesados en vuestro negocio. En caso positivo, anota cómo contactaríais con ellos, qué capital esperáis que os aporten y cuándo se produciría el encuentro. De no encontrar ninguno, anota tres de cada tipo que hayas consultado y expon los motivos por los que han sido descartados.
 
-## Ayuda práctica:
+Ayuda práctica:
 
 Tal vez algún amigo o familiar con el que no habías contado inicialmente quiera añadirse al proyecto si se lo propones. Valora el capital o bienes que podría aportar, pero también su formación y experiencia. Puede que encaje en algún área de vuestro proyecto. En tal caso, comprueba que respetáis las limitaciones legales establecidas al efecto.
 
@@ -3809,8 +3850,16 @@ Las ventajas e inconvenientes de recibir dinero de la familia o amigos se expone
 
 Tabla 4.14. Ventajas e inconvenientes de la financiación familiar o de amigos.
 
-| Facilidades de pago: tipos de interés menores o nulos, cuotas variables, plazos más largos, etc. Posibilidad de renegociar la deuda, en caso de que venza el plazo y la situación financiera de la compañía no sea estable. | La escasa disponibilidad de dinero que se puede con seguir de estas fuentes. La falta de libertad para tomar las propias decisiones o, al menos, para comentarlas libremente. La intromisión en el negocio a través de preguntas fiscalizadoras, aportando sugerencias, presionando hacia determinada línea de trabajo o tratando de participar activamente en la empresa. |
-|
+Ventajas:
+
+Facilidades de pago: tipos de interés menores o nulos, cuotas variables, plazos más largos, etc.
+Posibilidad de renegociar la deuda, en caso de que venza el plazo y la situación financiera de la compañía no sea estable.
+
+Inconvenientes:
+
+La escasa disponibilidad de dinero que se puede con seguir de estas fuentes.
+La falta de libertad para tomar las propias decisiones o, al menos, para comentarlas libremente.
+La intromisión en el negocio a través de preguntas fiscalizadoras, aportando sugerencias, presionando hacia determinada línea de trabajo o tratando de participar activamente en la empresa.
 
 ## Entidad financiera
 
@@ -3832,23 +3881,31 @@ Las comisiones son los cobros que establece el banco si se producen determinadas
 
 La amortización es el proceso financiero por el cual se reduce gradualmente una deuda debido al pago periódico de unas cuotas, que pueden ser invariables o diferentes.
 
+## Préstamo personal y el préstamo hipotecario.
+
 Se puede diferenciar varios tipos de préstamos, pero nos centraremos en la diferencia entre el préstamo personal y el préstamo hipotecario.
 
 - Préstamo personal. Se utiliza para financiar puntual. Suele ser de importes poco elevados necesidades específicas en un momento y se ofrece a un plazo de unos diez años.
+
 - La garantía de devolución del préstamo está basada en la solidez financiera de la persona o empresa, es decir, en los ingresos o beneficios regulares o en el patrimonio personal o mercantil de quien lo solicita.
+
 - Préstamo hipotecario. Ofrece, además de la garantía personal, el bien inmueble como garantía de pago, de tal manera que, en caso de impago, la entidad financiera pasaría a ser la propietaria de la vivienda. Suelen ser préstamos elevados y con un plazo de devolución también ele vado, de unos 35 años, ya que se utilizan para adquirir un inmueble, bien sea local, oficina, etc. Por ello, son los que presentan un tipo de interés más bajo.
 
 Novación. Posibilidad de renegociar las condiciones de un préstamo hipotecario.
 
 Subrogación. Derecho a cambiar de entidad bancaria, si ofrecen condiciones más favorables.
 
-Euribor (European ínter Bank Offered Rate). Es la media aritmética de los ti pos de interés que fijan los bancos de la zona euro para prestar interés al resto de las entidades bancadas. Los ban cos suelen escoger el Euribor a un año como el tipo de interés habitual para préstamos hipotecarios.
+Euribor (European Inter Bank Offered Rate). Es la media aritmética de los ti pos de interés que fijan los bancos de la zona euro para prestar interés al resto de las entidades bancadas. Los ban cos suelen escoger el Euribor a un año como el tipo de interés habitual para préstamos hipotecarios.
 
-## D Aspectos a tener en cuenta antes de solicitar un préstamo para inmueble
+## Aspectos a tener en cuenta antes de solicitar un préstamo para inmueble
+
+- Seguros
 
 Cuando se compra un inmueble, la ley obliga a contratar un seguro de daños que cubra el valor del inmueble tasado, al menos en caso de incendio, con el fin de asegurar la conservación de su valor. La entidad financiera a la que se solicite el préstamo hipotecario ofrecerá su seguro, pero no es necesario contratar la póliza con ella, sino que serviría cualquier otro seguro siempre y cuando la entidad financiera sea la beneficiaría de la póliza.
 
 Cuando el valor del inmueble es alto (por ejemplo, al comprar una vivienda) es aconsejable, además, contratar un seguro de vida que cubra el importe del préstamo en caso de fallecimiento o invalidez permanente de las personas que solicitaron el préstamo.
+
+- Tipo de interés
 
 Puede ser fijo, de manera que permanece invariable desde que se solicita el préstamo hasta que se reintegra en su totalidad. generalmente, estas hipotecas se ofrecen por plazos más cortos (quince años máximo) para reducir el riesgo de una variación muy grande en los tipos de interés oficial del dinero.
 
@@ -3856,15 +3913,23 @@ O puede ser variable (el más habitual), con lo que se fijaría un porcentaje ba
 
 Los tipos de interés también pueden ser mixtos, de manera que se pacta un tipo fijo los primeros cuatro o cinco años, para pasar a tipos variables a partir de entonces.
 
+- Tasación
+
 El inmueble debe ser tasado por un profesional para determinar su valor de mercado y, en base a ello, definir la cuantía máxima que el banco podrá prestar, ya que la entidad financiera quiere asegurarse de que, en caso de impago, el valor del inmueble cubra el préstamo pendiente de pago.
 
 Para fijar su valor se tienen en cuenta elementos objetivos, como superficie, situación, estado de conservación, precio del metro cuadrado en la zona, expectativas de aumento o disminución del precio, etc. Normalmente, los gastos de tasación corren por cuenta del cliente.
 
+- Gastos de notaría/gestoría
+
 El contrato de compra-venta del inmueble debe realizarse ante notario. En ocasiones, las empresas encargan a una gestoría que se encargue de todos los trámites, como liquidación de impuestos o inscripción en el Registro de la Propiedad. La intervención de una gestoría encarece el proceso, aunque resulta cómodo.
+
+- Impuestos
 
 Los inmuebles nuevos están obligados al pago del IVA (8%, actualmente), además del Impuesto de Actos Jurídicos Documentados, que asciende a un 1,5 %-Z % del importe del préstamo.
 
 En el caso de inmuebles de segunda mano, es prescriptivo el pago del Impuesto de Transmisiones Patrimoniales, que suele estar en un 6%-7% del valor del inmueble. Y del Impuesto de Actos Jurídicos Documentados, que será entre un 1,5% y un 2% del importe del préstamo.
+
+- Comisiones
 
 Se trata de cantidades adicionales que cada entidad bancaria establece entre las condiciones de su préstamo.
 
@@ -3874,6 +3939,8 @@ Comisión por amortización parcial. Compensa al banco por los intereses que dej
 
 Comisión de cancelación. Abona la pérdida de lucro cesante al amortizar el préstamo pendiente.
 
+- Tipo de interés
+
 El análisis de las comisiones puede hacer variar una decisión inicial sobre qué entidad bancaria ofrece un préstamo más interesante. Es decir, no solo hay que estudiar el tipo de interés a pagar y el plazo de tiempo máximo que nos otorga la entidad bancaria, sino también las cantidades adicionales a entregar en determinados supuestos. No siempre es fácil la comparación entre entidades bancarias, razón por la cual en España, al igual que en muchos otros países, existe la obligatoriedad de informar al cliente de la TAE.
 
 La TAE o Tasa Anual Equivalente es un porcentaje que sintetiza el coste total de un préstamo. Se calcula sumando al tipo de interés las comisiones a pagar, según una fórmula establecida por el Banco de España. Será una medida más exacta del interés real a pagar.
@@ -3882,7 +3949,7 @@ Así, algunas entidades financieras pueden anunciar un interés nominal al 0,00%
 
 Tabla 4.15. Aspectos a tener en cuenta antes de solicitar un préstamo para inmueble (Continuación).
 
-- [ ] D Consejos a considerar antes de solicitar un préstamo o crédito
+## Consejos a considerar antes de solicitar un préstamo o crédito
 
 1. Los requisitos para obtener financiación varían en cada banco, pero la mayoría requiere que la empresa lleve como mínimo un año de funcionamiento, que tenga las finanzas sanas y un índice de rentabilidad elevado.
 2. Comparar los préstamos que ofrecen las diferentes entidades financieras, basándose en el TAE.
@@ -3912,7 +3979,7 @@ Los elementos que analizará la entidad financiera para decidirse serán:
 
 Reúnete con tus socios. Estudiad cuánto dinero pensáis obtener a través de un préstamo y si será conveniente tener una línea de crédito abierto, para evitar problemas de liquidez. Identificad qué fuente de préstamos sería más idónea.
 
-## Ayuda práctica:
+Ayuda práctica:
 
 - a) Considera qué préstamos podríais obtener de vuestros allegados o amigos. Haced una estimación conjunta y anotad la cantidad, así como las condiciones que os impondrían, tales como plazo de tiempo para devolver el dinero, interés a pagar, derecho a participar en la toma de decisiones, etc.
 - b) Después, analiza si las empresas donde vais a adquirir los bienes necesarios, según decisiones adoptadas en la Actividad de simulación 1 de esta unidad, tienen servicios financieros propios. En tal caso, averigua si sería aplicable a vuestro caso alguna oferta. A modo de ejemplo, te indicamos que con la tarjeta de El Corte Inglés es posible realizar pagos hasta en doce meses sin intereses.
@@ -3935,7 +4002,9 @@ En el caso de los bienes inmuebles, como edificios, locales, despachos, oficinas
 
 En España, donde existe la Asociación Española de Leasing, este tipo de financiación está muy extendido, siendo el quinto país de Europa donde más se utiliza. En Estados Unidos, no obstante, el uso de esta fuente de financiación es muchísimo mayor debido a que nació en ese país a mediados de los sesenta.
 
-El valor residual es la diferencia entre el precio que abonó la compañía de leasing por el bien, al que se añade los gastos e intereses del contrato y lo que el usuario ha abonado durante la duración del contrato.
+## El valor residual
+
+es la diferencia entre el precio que abonó la compañía de leasing por el bien, al que se añade los gastos e intereses del contrato y lo que el usuario ha abonado durante la duración del contrato.
 
 ## Ejemplo 23. Leasing de vacas
 
@@ -3955,18 +4024,33 @@ El carsharing, también denominado carpooling, es una iniciativa entre particula
 
 El Ayuntamiento de Burriana, en Castellón, ha adjudicado a la empresa Alphabet un contrato de renting para el suministro de cinco vehículos patrulla para la policía local por un período de cuatro años. El importe anual por los cinco vehículos es de 58944 euros.
 
-## D Consideraciones antes de contratar un renting o un leasing
+## Consideraciones antes de contratar un renting o un leasing
 
 Tabla 4.16. Consideraciones antes de contratar un renting o un leasing.
 
+- SERVICIOS
+
 | Renting | El precio del renting suele incluir las tareas administrativas. Tomemos por ejemplo el caso de un coche: su matriculación, el transporte hasta el punto de entrega; los gastos de mantenimiento, como revisiones, cambios de neumáticos, etc.; la reparación del coche en caso de avería o asistencia en carretera; seguro completo a todo riesgo, incluyendo siniestros y robo; vehículo de sustitución, en caso de avería o accidente; y servicio de reclamación de multas. |
+
 | Leasing | Todas las operaciones relacionadas con los bienes (reparaciones, tareas administrativas, etc.) no están cubiertas por la compañía de leasing. |
+
+- CONTRATOS
+
 | Renting | La duración del contrato oscila dependiendo de la vida útil del bien, pero suele rondar entre el año (equipos informáticos) y los cinco años (vehículos). |
 | Leasing | La duración del contrato depende de la vida útil del producto, pero en el caso de los inmuebles puede llegar a ser más largo, suele rondar una media de diez años. |
+
+- BIENES
+
 | Renting | Una vez finalizado el contrato, se procederá a devolver el bien y, en caso deseado, a suscribir un nuevo contrato. |
 | Leasing | Una vez finalizado el contrato se puede optar por tres vías: devolver el bien, suscribir un nuevo con trato o tener opción de compra. |
+
+- SUBARRENDAMIENTO
+
 | Renting | Se prohíbe el subarrendamiento del bien y a que sea utilizado por personas diferentes de las mencionadas en el contrato. |
 | Leasing | Se prohíbe el subarrendamiento del bien y a que sea utilizado por personas diferentes de las mencionadas en el contrato. |
+
+- CUOTA
+
 | Renting | La cuota mensual suele mantenerse fija durante la duración del contrato. |
 | Leasing | La cuota mensual suele mantenerse fija durante la duración del contrato. |
 
@@ -3974,13 +4058,13 @@ Tabla 4.16. Consideraciones antes de contratar un renting o un leasing.
 
 Selecciona aquellos bienes muebles o inmuebles que podéis financiar a través de un contrato de leasing o de renting, y averigua el precio de la cuota de alquiler resultante.
 
-## Ayuda práctica:
+Ayuda práctica:
 
 Busca información en Internet sobre las empresas que ofrecen este tipo de financiación. En caso de bienes muy específicos, como aparatología para depilación láser en un centro de estética, muchas veces son los propios proveedores los que ofrecen esta posibilidad. Es una manera de asegurarse más facturación y volumen de negocio que si solo permitieran la opción de compra.
 
 ## Fase 6. Financiación a corto plazo
 
-## I Crédito comercial por proveedores
+## Crédito comercial por proveedores
 
 El aplazamiento en los pagos a proveedores puede ser una interesante fuente de financiación. Es lo que se conoce como crédito comercial y lo habitual es ofrecer aplazamientos en el pago a 30,60 o 90 días. Según datos aparecidos en prensa, el uso del crédito comercial entre empresas se extiende a un 98%, es decir, la práctica totalidad de las empresas encuestadas vende a crédito sus productos o servicios a otras empresas.
 
@@ -4019,7 +4103,7 @@ Las líneas de confirming están accesibles para grandes y medianas empresas que
 
 Hasta hace poco, el confirming no se aceptaba en operaciones de pago internacional, sin embargo, ya hay un ejemplo de banco nacional que busca ampliar su mercado, orientándose hacia aquellos países emergentes que están en crecimiento.
 
-## Ejemplo 26. CaixaBank pioneros en confirming internacional
+### Ejemplo 26. CaixaBank pioneros en confirming internacional
 
 CaixaBank ha sido la primera entidad financiera en desarrollar la actividad de confirming internacional con China. Además, ofrece todos sus servicios de banca electrónica en idioma chino.Y ello es debido a que, según datos de la propia entidad, el 54% de la comunidad china en España son clientes suyos.
 
@@ -4027,11 +4111,11 @@ CaixaBank ha sido la primera entidad financiera en desarrollar la actividad de c
 
 El factoring es una operación financiera por la cual se cede a una empresa de factoring o a una entidad financiera, aquellas facturas de clientes que están pendientes de cobro, a cam bio del pago de una comisión y de unos intereses. La comisión puede suponer el 3 % del valor del capital pendiente de cobro. Los intereses se fijarán en función del capital anticipado y del plazo de tiempo.
 
-## Ejemplo 27. CaixaBank, pioneros en factoring internacional
+Es una opción muy aconsejable para empresas que permiten pagar a plazos, de manera que venden productos pero los reponen antes de haberlos cobrado en su totalidad. El factoring es una operación habitual dentro de las grandes empresas, pero no aún en las pymes. Esto se debe a que las entidades bancarias solo aceptan pymes cuyos clientes sean grandes empresas solventes.
+
+### Ejemplo 27. CaixaBank, pioneros en factoring internacional
 
 Caixabank cuenta con la opción de factoring internacional. De esta manera, las empresas españolas exportadoras o del sector turístico pueden anticipar el cobro de las facturas de sus clientes extranjeros. Estos abonos se pueden realizar en la mayoría de las divisas. Como ventaja adicional, está la valoración de la empresa extranjera para conocer cuál es su nivel de riesgo.
-
-Es una opción muy aconsejable para empresas que permiten pagar a plazos, de manera que venden productos pero los reponen antes de haberlos cobrado en su totalidad. El factoring es una operación habitual dentro de las grandes empresas, pero no aún en las pymes. Esto se debe a que las entidades bancarias solo aceptan pymes cuyos clientes sean grandes empresas solventes.
 
 ## Según las condiciones que se pacten, se pueden conseguir otras ventajas:
 
@@ -4054,20 +4138,32 @@ El descuento comercial o descuento de efectos comparte similitudes con el factor
 
 A pesar de las semejanzas que el descuento comercial mantiene con el factoring, también existen diferencias, como se comentan seguidamente en la Tabla 4.17.
 
-Tabla 4.17. Diferencias entre descuento comercial y factoring.
+## Tabla 4.17. Diferencias entre descuento comercial y factoring.
 
-| Descuento comercial     | El banco nunca asume el riesgo de impago.                                                                                                                            |
-| ----------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Factoring               | El banco asume el riesgo de impago.                                                                                                                                  |
-| Descuento comercial     | Se admite cualquier efecto comercial no vencido y no solo facturas.                                                                                                  |
-|                         | Solo admite facturas.                                                                                                                                                |
-| Descuento comercial     | El capital anticipado es el total del capital pendiente de pago.                                                                                                     |
-|                         | Se puede pactar un porcentaje sobre el total.                                                                                                                        |
-|                         | Los deudores son tanto el cliente como la empresa que ha cedido la deuda, por lo que                                                                                 |
-| Descuento comercial     | el banco admite mayor riesgo de insolvencia.                                                                                                                         |
-| Factoring               | En el caso de un Factoring sin recurso solo hay un deudor, que es el cliente, por lo que el banco es más exigente a la hora de aceptar deudas con riesgo crediticio. |
-| mam Descuento comercial | No incluye servicios adicionales a la financiación.                                                                                                                  |
-| Factoring               | Puede incluir servicios adicionales, como el estudio de la solvencia del cliente, la gestión de la cartera pendiente de cobro o la cobertura del riesgo.             |
+- CONTRATOS
+
+Descuento comercial: El banco nunca asume el riesgo de impago.
+Factoring: El banco asume el riesgo de impago.
+
+- EFECTOS
+
+Descuento comercial: Se admite cualquier efecto comercial no vencido y no solo facturas.
+Factoring: Solo admite facturas.
+
+- CAPITAL
+
+Descuento comercial: El capital anticipado es el total del capital pendiente de pago.  
+Factoring: Se puede pactar un porcentaje sobre el total.
+
+- DEUDA
+
+Descuento comercial: Los deudores son tanto el cliente como la empresa que ha cedido la deuda, por lo que el banco admite mayor riesgo de insolvencia.
+Factoring: En el caso de un Factoring sin recurso solo hay un deudor, que es el cliente, por lo que el banco es más exigente a la hora de aceptar deudas con riesgo crediticio.
+
+- SERVICIOS ADICIONALES
+
+Descuento comercial: No incluye servicios adicionales a la financiación.
+Factoring: Puede incluir servicios adicionales, como el estudio de la solvencia del cliente, la gestión de la cartera pendiente de cobro o la cobertura del riesgo.
 
 ## Actividad de simulación 6
 
@@ -4075,7 +4171,7 @@ En esta fase se trata de valorar las fuentes de financiación a corto plazo estu
 
 Averigua si alguno de vuestros potenciales proveedores ofrece la opción de pagos aplaza dos y, por ello, de descuentos por pago inmediato. En tal caso, anota las condiciones que ofrece y valora justificadamente si es interesante acogerse a esta alternativa.
 
-## Ayuda práctica:
+Ayuda práctica:
 
 No es fácil encontrar información sobre los servicios de confirming, de Factoring o de descuento comercial online, ya que las condiciones que ofrece la entidad financiera de penderán de cada caso concreto, como la solvencia de la entidad, el montante total, etc. Trata de averiguar esta información acercándoos a una sucursal bancaria. En caso de no conseguir los datos económicos, realiza una valoración sobre las ventajas y los inconvenientes de utilizar estas fuentes de financiación y una conclusión final sobre si estaríais inclinados a contratar alguno de estos servicios.
 
@@ -4112,12 +4208,11 @@ Fuente: El Economista. Madrid, 21 de noviembre de 2012 [en línea]
 Hay buenas razones que sustentan la participación en este tipo de acciones, tales como:
 
 1. Mejorar el proyecto empresarial Al tratarse de premios competitivos, los emprende dores tratan de optimizar su idea, lo que redunda en una mayor elaboración del plan de negocio y, aunque no se ganara el concurso, después se estaría en mayor disposición para solicitar financiación ajena o para convencer a nuevos socios.
-
 2. El mejor atractivo ele los concursos es el premio en metálico. Sin embargo, no hay que desestimar el acceso a contactos interesantes, la crítica que los profesionales o inversores harán de nuestro negocio, la oportunidad de contagiarse con la ilusión de otros emprendedores, la posibilidad de conocer muchas otras ideas empresariales que pueden converger con nuestra línea de negocio o pueden darnos ideas para mejorarlo.
 3. Mejorar la profesionalidad de los emprendedores, al requerir una mayor entrega y compromiso, así como una ejercitación de destrezas organizativas, técnicas expositivas, habilidades sociales, etc.
 4. Darse a conocer en foros adecuados, acceder a información sobre otros cauces alternativos, mejorar nuestra competencia personal, etc. En definitiva, incrementar nuestra valía emprendedora.
 
-## I Viveros de empresas
+## Viveros de empresas
 
 También se los conoce como semilleros de empresa. Los primeros viveros que surgieron en nuestro país fue en los campus universitarios, imitando las medidas que Estados Unidos y otros países de Europa llevaban a cabo para apoyar a sus jóvenes estudiantes con perfil emprendedor.
 
@@ -4125,48 +4220,47 @@ En la actualidad, los viveros de empresa están promovidos por universidades, ay
 
 Estos servicios presentan algunas limitaciones, tales como las reflejadas en la Tabla 4.18.
 
-No es práctico en negocios que requieren almacenaje o estar a pie de calle para atraer clientes.
+## Tabla 4.18. Limitaciones de los viveros de empresas.
 
-Los transportes no siempre son convenientes. En ocasiones, porque están en zonas exteriores de las ciudades donde no llega el transporte público. En otras, por situarse muy céntricos y no poder acceder con transporte privado, que puede ser necesario si se reciben visitas con frecuencia.
+- No es práctico en negocios que requieren almacenaje o estar a pie de calle para atraer clientes.
 
-Estos entornos suelen estar muy solicitados, razón por la que se imponen ciertos requisitos de acceso.
+- Los transportes no siempre son convenientes. En ocasiones, porque están en zonas exteriores de las ciudades donde no llega el transporte público. En otras, por situarse muy céntricos y no poder acceder con transporte privado, que puede ser necesario si se reciben visitas con frecuencia.
 
-Tienen un precio similar a un coworking, pero el diseño de las oficinas suele ser más privado en este segundo caso, lo que es algo deseable en empresas muy innovadoras que pueden necesitar mayor aislamiento para evitar problemas de plagio.
+- Estos entornos suelen estar muy solicitados, razón por la que se imponen ciertos requisitos de acceso.
 
-La oferta no es muy numerosa, al contrario de lo que sucede con el coworking, puesto que este se basa en iniciativa privada. De manera que resultará más fácil encontrar una oficina de coworking cercana al domicilio del emprendedor que un vivero.
+- Tienen un precio similar a un coworking, pero el diseño de las oficinas suele ser más privado en este segundo caso, lo que es algo deseable en empresas muy innovadoras que pueden necesitar mayor aislamiento para evitar problemas de plagio.
 
-Tabla 4.18. Limitaciones de los viveros de empresas.
+- La oferta no es muy numerosa, al contrario de lo que sucede con el coworking, puesto que este se basa en iniciativa privada. De manera que resultará más fácil encontrar una oficina de coworking cercana al domicilio del emprendedor que un vivero.
 
-## I Incubadora de empresas
+## Incubadora de empresas
 
 A diferencia de los viveros de empresas, el apoyo técnico y económico ofrecido es mayor, ya que cuenta con mentores o expertos y con una red de contactos para facilitar la búsqueda de financiación. Transfieren una forma de pensar: la empresarial.
 
 Las incubadoras de empresas de origen privado persiguen un doble objetivo. En ocasiones, cuando están amparadas por fondos de inversión o de capital riesgo, esperan conseguir un alto rendimiento económico con esa inversión. De hecho, muchos fondos de capital riesgo, crearon también sus propias incubadoras a finales de los años 90, en pleno auge de las puntocom. La mayor parte desaparecieron tras la explosión de la burbuja. En otros casos, buscan el desarrollo tecnológico o de servicios que pueda serles de utilidad para sus áreas de negocio, de forma que las empresas podrían llegar a convertirse en proveedor-cliente.
 
-## Ejemplo 31. Bic Euronova
-
-Se están iniciando experiencias pioneras en el ámbito de la formación profesional. Así, la incubadora Bic Euronova de Málaga participa en un proyecto que permite a estudiantes de Formación Profesional diseñar un plan de negocio y simular su viabilidad, aportándoles asesoramiento y apoyo. Al finalizar, los alumnos estarán más capacitados para constituir su empresa.
-
 No todos los proyectos empresariales son aceptados en una incubadora. Los criterios para la selección se basan en la Tabla 4.19.
 
-Si no cumple alguno de los requisitos re queridos, la empresa entrará en un proceso de preincubación para Optimizar SU desarrollo.
+Si no cumple alguno de los requisitos requeridos, la empresa entrará en un proceso de preincubación para optimizar su desarrollo.
 
 Tabla 4.19. Criterios de elección de un proyecto empresarial.
 
-| El potencial de la idea                      | Las ventajas competitivas |
-| -------------------------------------------- | ------------------------- |
-| El hueco del mercado                         | La viabilidad             |
-| Los medios tecnológicos y humanos necesarios | El perfil de los socios   |
+| El potencial de la idea | Las ventajas competitivas |
+| El hueco del mercado | La viabilidad |
+| Los medios tecnológicos y humanos necesarios | El perfil de los socios |
+
+### Ejemplo 31. Bic Euronova
+
+Se están iniciando experiencias pioneras en el ámbito de la formación profesional. Así, la incubadora Bic Euronova de Málaga participa en un proyecto que permite a estudiantes de Formación Profesional diseñar un plan de negocio y simular su viabilidad, aportándoles asesoramiento y apoyo. Al finalizar, los alumnos estarán más capacitados para constituir su empresa.
 
 ## Proceso de desarrollo de un proyecto empresarial
 
 - Preincubación. Desarrollo del plan de negocio y la investigación de mercados.
-- 9 Incubación. Se profundiza en la idea de negocio, concretando las áreas de producción, mercadotecnia, financiación y recursos humanos, mientras se buscan.
-- @ Postincobación. Seguimiento del negocio durante unos seis meses para fortalecerlo.
+- Incubación. Se profundiza en la idea de negocio, concretando las áreas de producción, mercadotecnia, financiación y recursos humanos, mientras se buscan.
+- Postincobación. Seguimiento del negocio durante unos seis meses para fortalecerlo.
 
 En este sentido, Madrid ha creado la preincubadora Madrid Crece. La idea es ofrecer un lugar de trabajo similar al de una empresa, junto a un servicio de orientación y apoyo personalizado en la elaboración del plan de empresa, tales como información de ayudas y subvenciones, así como los trámites administrativos.
 
-Hay alguna diferencia entre coworking y los viveros de empresas o incubadoras empresariales:
+## Diferencia entre coworking y los viveros de empresas o incubadoras empresariales:
 
 Los viveros y las incubadoras están apoyados por organismos públicos, como cámaras de comercio, ayuntamientos e incluso universidades que establecen sus criterios de acceso. Por ejemplo, la actividad empresarial debe estar incluida en los sectores profesionales que el organismo concreto desea fomentar, o se puede exigir que los emprendedores asistan a una formación específica por parte de los organismos que promueven estos viveros.
 
@@ -4182,37 +4276,49 @@ El presidente de la Cámara de Comercio Hispano-lsraelí cree que la inversión 
 
 Fuente: Cinco Días. Madrid, 2 de noviembre de 2012 [en línea]
 
-- [ ] D Aceleradora de empresas
+## Aceleradora de empresas
 
 Una aceleradora de empresas o business accelerator es una entidad especializada en favorecer el rápido crecimiento de otra compañía. Para ello, puede intervenir como consultora, o bien, entrar en el accionariado de la compañía y, por tanto, en su gestión, aunque se admite también el esquema mixto, de asesoramiento y apoyo financiero.
-
-## Ejemplo 33. SeedRocket
-
-La aceleradora SeedRocket está fundada por dos emprendedores y un business angels con más de diez años de experiencia en el sector de las telecomunicaciones y de la financiación de startups. Entre los mentores de SeedRocket se encuentran los emprendedores de Trovit, Atrápalo, Toprural, Idealista y The Cocktail
 
 Se trata de programas para startups tecnológicas en una fase inicial La aceleradora propicia la creación y consolidación de este tipo de empresas que se conocen como Empresas Innovadoras de Base Tecnológica (EIBT).
 
 La aceleradora puede estar constituida por capital privado o público. En general, se trata de inversores privados que esperan conseguir un beneficio económico a cambio, pero también es posible encontrar, tras una incubadora, una asociación sin ánimo de lucro formada por mentores e inversores que pretenden desarrollar y apoyar un área de negocio con potencial para beneficio de la sociedad. Incluso pueden estar respaldadas por patrocinios de entidades o por entidades públicas.
 
-## Ejemplo 34. linkto rowUp
+## Ejemplo 33. SeedRocket
+
+La aceleradora SeedRocket está fundada por dos emprendedores y un business angels con más de diez años de experiencia en el sector de las telecomunicaciones y de la financiación de startups. Entre los mentores de SeedRocket se encuentran los emprendedores de Trovit, Atrápalo, Toprural, Idealista y The Cocktail
+
+## Ejemplo 34. linktoGrowUp
 
 Una experiencia interesante en este sentido, por cuanto se sale de los cauces habituales de funcionamiento de una aceleradora, es la web linkto rowUp. A través de su página, se ofrece visibilidad a los emprendedores para que busquen clientes en 90 días. La idea de base es que, si hay consumidores interesados, habrá inversores dispuestos a confiar su capital en la empresa.
 
-## I Ayudas públicas
+## Ayudas públicas
 
 Además de las acciones señaladas en el epígrafe anterior, las administraciones públicas tra tan de fomentar el emprendimiento con diferentes medidas, tales como las referidas en la Tabla 4.20:
 
+## Tabla 4.20. Tipos de ayudas públicas.
+
+- Ayudas a la contratación de trabajadores
+
 Actualización de nuevos tipos de contratos, flexibilidad de las condiciones de trabajo, modificación de las formas de despido, etc. La reforma laboral o la ley del emprendedor caminan en esta línea.
+
+- Bonificaciones de las cuotas a la Seguridad Social
 
 Determinados tipos de contratos o ciertos colectivos con dificultades de inserción en el mercado laboral son favorecidos para promover su contratación. Se trata de una reducción en las cuotas empresariales y cuotas obreras a la Seguridad Social.
 
 El desarrollo de los contratos de formación y aprendizaje o los contratos de apoyo a emprendedores, por ejemplo, permiten al empresario y al trabajador reducir el importe de las cuotas de cotización a la Seguridad Social.
 
+- Incentivos fiscales
+
 Se favorecen determinados tipos de contratos o ciertos colectivos, con una reducción de la carga impositiva de las empresas.
 
 Por ejemplo, el contrato de apoyo al emprendedor introduce la posibilidad de un descuento fiscal si el trabajador con tratado estaba cobrando la prestación por desempleo.
 
+- Ayudas financieras
+
 A través de las subvenciones, fondos de capital semilla, préstamos ICO, ayudas del BEI, de ENISA o de cualquier otro ente público, los emprendedores pueden acceder a unos recursos económicos más fácilmente y con menor coste.
+
+- Subvenciones
 
 Son ayudas económicas a fondo perdido, convocadas periódicamente y que exigen unos requisitos para ser concedidas. La subvención es un incentivo económico y, en ningún caso, puede considerarse como una fuente básica de financiación puesto que en caso de concederse no suele financiar la totalidad del proyecto.
 
@@ -4220,7 +4326,11 @@ Normalmente las subvenciones son concedidas al cabo de un año desde el inicio d
 
 Con ello también se pretende evitar la dependencia excesiva del emprendedor hacia el dinero público.
 
+- Fondos de capital semilla
+
 Es un fondo de capital riesgo que incorpora dinero público y dinero de iniciativa privada. Están impulsados por comunidades autónomas o locales para impulsar empresas en su fase inicial de crecimiento.
+
+- Líneas de préstamos
 
 Consisten en ayudas para financiar las inversiones, se realizan a través del Instituto de Crédito Oficial (ICO), el Banco Europeo de Inversiones (BEI) y de la Empresa Nacional de Innovación (ENISA).
 
@@ -4232,6 +4342,8 @@ El apoyo a las inversiones de las pymes del sector industria y servicios constit
 
 ENISA es una empresa de capital público adscrita al Ministerio de Industria, Turismo y Comercio, que facilita financiación a la pyme a través de distintas modalidades, entre las que se encuentra una Línea paraJóvenes Emprendedores.
 
+- Asesoramiento empresarial
+
 Se realiza por medio de los viveros de empresa y los organismos de apoyo al emprendimiento mencionados en el punto anterior. O también a través de los PAIT y la red de creación de empresas CIRCE, analizadas en la unidad anterior.
 
 ## Actividad de simulación 7
@@ -4242,7 +4354,7 @@ Al llegar a este punto, deberíais tener cubiertas todas vuestras necesidades de
 
 Es el momento de revisar todas las decisiones adoptadas para conseguirlo.
 
-## Ayuda práctica:
+Ayuda práctica:
 
 - a) Discutid si os interesaría más utilizar la opción de coworking, vivero de empresa, incubadora o aceleradora de negocios.
 
@@ -4264,13 +4376,21 @@ Ha llegado el momento de sintetizar las ideas obtenidas en estas fases de la Sim
 
 Las actividades de simulación realizadas en esta unidad te han servido para conocer las distintas fuentes de financiamiento, tanto del sector público como privado, para impulsar el arranque de tu empresa. Todo eso lo debes recoger en el apartado siguiente, que se añadirá a los que realizaste en las unidades anteriores.
 
-## Plan de financiación
+- Plan de financiación
 
 - a) Enumera el listado de inversiones a realizar, incluyendo las cantidades presupuesta das y los medios de adquisición. Indica también los recursos económicos necesarios para asegurar la liquidez de la empresa en los primeros meses.
 - b) Indica las fuentes de financiación que utilizarás, diferenciando entre fuentes propias y fuentes ajenas. Para cada apartado tienes que especificar las cantidades que se obtendrían y sintetizar los motivos por los que has recurrido a ellas, así como las ra zones por las que has descartado otras fuentes alternativas de obtención de recursos.
 - c) Al finalizar, comprueba que has incluido un extracto de todo lo que has anotado en cada una de las fases de simulación de esta unidad.
 
-## ----------
+## Síntesis
+
+FUENTES DE FINACIACIÓN:
+
+1. Recursos propios: Capital semilla(Capital social, Cuenta ahorro-empresa, Capital riesgo, Business ángel, Crowdfunding, Coworking) o Capital de arranque/de expansión(Reservas, Nuevos socios, Subvenciones).
+
+2. Recursos ajenos: A largo plazo(Familia y amigos, Préstamo y SGR, Crédito, Descubierto bancario, Servicios financieros de entidades comerciales,    Títulos de deuda, Entidades de financiación pública) o A corto plazo(Crédito comercial, Descuento por pronto pago, Leasing, Renting, Confirming,    Descuento comercial, Factoring).
+
+## Test
 
 1. El capital semilla puede proceder de:
 
