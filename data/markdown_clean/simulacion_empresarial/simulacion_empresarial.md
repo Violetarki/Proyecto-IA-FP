@@ -1,7 +1,3 @@
-r
-
-Educatíon H
-
 ## Simulación empresarial
 
 Cristina Hernando Polo
@@ -16,7 +12,7 @@ La formación para el emprendimiento, sin embargo, no puede quedarse en un plant
 
 Este pragmatismo se completa con multitud de ejemplos reales que ilustran cada contenido teórico, ¡lustrando la realidad empresarial actual donde la tecnología e Internet desempeñan un papel destacado. Junto a esto, el libro ofrece propuestas para trabajar contenidos o he rramientas digitales, ya que tenemos muy presente el gran apoyo que las tecnologías de la información representan para un emprendedor.
 
-Cada unidad didáctica se inicia con una sección llamada #Enrtprendedores (donde se ofrece el análisis de una empresa española de reconocido prestigio) que pretende introducir los con ceptos de la unidad, a la vez que servir de referente para el alumnado.
+Cada unidad didáctica se inicia con una sección llamada #Emprendedores (donde se ofrece el análisis de una empresa española de reconocido prestigio) que pretende introducir los con ceptos de la unidad, a la vez que servir de referente para el alumnado.
 
 A continuación, en la sección de Conceptos básicos, se repasan algunos conceptos de forma breve para afianzar las nociones necesarias, para dar paso, finalmente, a las actividades prác ticas de la sección de Simulación empresarial. En cada unidad didáctica se plantean tantas fases de Simulación como la temática a desarrollar requiere, de manera que al finalizar cada unidad los alumnos habrán visto moldeadas sus actitudes y sus aptitudes en relación con el tema.
 
@@ -30,30 +26,14 @@ Este libro te permite, dar forma a tu futuro. Te capacita para constituir tu pro
 
 Tu futuro profesional, a partir de este momento, tendrá solo los límites que tú quieras ponerte.
 
-| El emprendedor y el plan de empresa | El emprendedor y el plan de empresa | Trámites y documentación | Trámites y documentación |
-|---------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1 | Emprendedores 8 Conceptos básicos 10 Simulación empresarial 15 Fase 1. eneración de ideas 15 Fase 2. Selección de la mejor idea 17 Fase 3. Objeto social de la empresa 18 Fase 4. Elección de nombre y logotipo 19 Fase 5. Ubicación del negocio .22 Fase 6. Diseño del espacio físico 24 Fase 7. Motivos para emprender 25 Fase 8. Perfil de los socios 26 Síntesis 28 Test de repaso 29 Comprueba tu aprendizaje.... 31 | | Emprendedores 68 Conceptos básicos 70 Simulación empresarial 80 Fase 1. Elegirla forma jurídica 80 Fase 2. Decidirse por una franquicia 82 Fase 3. Certificación negativa de la denominación social 84 Fase 4. Elaboración de los estatutos y firma de la escritura 85 Fase 5. Inscripción en el Registro Mercantil 86 Fase 6. Trámites en Hacienda ..89 Fase 7. Trámites en la Seguridad Social 90 Fase 8. Otros trámites 93 Síntesis 97 Test de repaso 98 Comprueba tu aprendizaje ..100 |
-| Estudio de mercado | Estudio de mercado | Fuentes de financiación | Fuentes de financiación |
-| | Emprendedores 34 Conceptos básicos 36 Simulación empresarial 46 Fase 1. Decisiones sobre el producto 46 Fase 2. Determinación de los servicios 48 Fase 3. Fijación del precio 50 Fase 4. Elección del mercado objetivo 51 Fase 5. Análisis de la competencia 53 Fase 6. Estudio de mercado 54 Fase 7. Análisis del entorno general 56 Fase 8. Elaboración del organigrama 58 Fase 9. Responsabilidad Social Corporativa 59 Fase 10. Análisis DAFO 60 Síntesis 62 Test de repaso 63 | | Emprendedores 102 Conceptos básicos 104 Simulación empresarial 119 Fase 1. Necesidades de inversión 119 Fase 2. Financiación por los socios fundadores 120 Fase 3. incorporación de nuevos socios 126 Fase 4. Préstamos y créditos.. 130 Fase 5. Leasing y renting 134 Fase 6. Financiación a corto plazo 137 Fase 7. Apoyo en las fases iniciales 141 Síntesis 148 Test de repaso 149 Comprueba tu aprendizaje.. 151 |
-
-## Viabilidad empresarial
-
-## índice
-
-## estión del marketing y de los recursos humanos
-
-| Emprendedores | y de los recursos humanos |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| de tesorería Fase 3. Elaboración de la Cuenta de resultados o Cuenta de pérdidas y ganancias Fase 4. Elaboración del Balance de situación.. Fase 5. Análisis de la viabilidad de la empresa Síntesis Test de repaso Comprueba tu aprendizaje estión de la actividad comercial y financiera | de marketing 237 Fase 2. Marketing y medios de promoción 238 Fase 3. Creación de página web y compra de dominios 257 Fase 4. estión de RR.HH 259 Síntesis 264 Test de repaso 265 Comprueba tu aprendizaje ..267 Intemacionalización y globalización 8 Emprendedores 270 Conceptos básicos 272 Simulación empresarial. 283 Fase 1. Estrategias de |
-
-## Cómo se utiliza este libro
+# 1. El emprendedor y el plan de empresa
 
 ## En esta unidad aprenderemos a:
 
 - Evaluar las implicaciones que conlleva la elección de una idea de negocio.
 - Diferenciar entre lo que puede ser una simple idea de una idea de negocio factible.
 - Señalar las ventajas e inconvenientes de las propuestas de negocio.
-- Determinar el producto o servicio que se quiere proporcionar con la ¡dea de negocio.
+- Determinar el producto o servicio que se quiere proporcionar con la idea de negocio.
 - Concretar las necesidades que satisface y el valor añadido de la idea de negocio propuesta.
 - Relacionar la innovación y la iniciativa emprendedora con las implicaciones que tiene para la competitividad empresarial.
 - Valorar la asunción de riesgo empresarial como motor económico y social
@@ -73,21 +53,21 @@ Tu futuro profesional, a partir de este momento, tendrá solo los límites que t
 - Factores de riesgo en la innovación empresarial: las facetas del emprendedor.
 - La tecnología como clave de la innovación empresarial.
 
+## Antoine de Saint-Exupery, autor de El Principito.
+
 «Un montón de piedras dejan de ser un montón de piedras, desde que un solo hombre las contempla, dibujando dentro de sí la imagen de una catedral.»
 
-Antoine de Saint-Exupery, autor de El Principito.
+## Emprendedores
 
-En este apartado vamos a analizar cómo distintos emprendedores de éxito fueron desarro llando una idea de negocio y los problemas a los que se enfrentaron para llevarla a cabo.
+En este apartado vamos a analizar cómo distintos emprendedores de éxito fueron desarrollando una idea de negocio y los problemas a los que se enfrentaron para llevarla a cabo.
 
 ## El Chupa Chups
 
-Chupa Chups es una compañía dedicada a la fabricación y venta de caramelos con palo. La historia se remonta a 1958, cuando Enric Bernat, propietario de una tienda de caramelos en Asturias, tuvo la ¡dea de añadirle un palo. La iniciativa surgió tras observar que los niños se sacaban los caramelos de la boca cada cierto tiempo, al notar un excesivo dulzor, pringándose las manos.
+Chupa Chups es una compañía dedicada a la fabricación y venta de caramelos con palo. La historia se remonta a 1958, cuando Enric Bernat, propietario de una tienda de caramelos en Asturias, tuvo la idea de añadirle un palo. La iniciativa surgió tras observar que los niños se sacaban los caramelos de la boca cada cierto tiempo, al notar un excesivo dulzor, pringándose las manos.
 
 Enric pensó que las familias estarían más predispuestas a com prar caramelos a sus hijos si estos podían comerlos sin manchar se. Y así nació el Chupa Chups.
 
-Se lanzaron siete sabores diferentes y se vendieron a una peseta, un precio alto para la época que perseguía crear una imagen de
-
-calidad en el producto. Por cierto, el nombre del nuevo producto era Chups, sin embargo, el eslogan de la publicidad decía: «Es redondo y dura mucho, chupa Chups». El público entendió que el caramelo con palo se llamaba Chupa Chups y así ha permanecido en nuestros días.
+Se lanzaron siete sabores diferentes y se vendieron a una peseta, un precio alto para la época que perseguía crear una imagen de calidad en el producto. Por cierto, el nombre del nuevo producto era Chups, sin embargo, el eslogan de la publicidad decía: «Es redondo y dura mucho, chupa Chups». El público entendió que el caramelo con palo se llamaba Chupa Chups y así ha permanecido en nuestros días.
 
 El Chupa Chups fue un éxito y se plantearon comercializarlo en el extranjero. Para ello, encar garon el diseño de un nuevo logotipo a Salvador Dalí. Él incorporó la silueta de una margarita, que sigue siendo la imagen de la marca hoy en día.
 
@@ -101,9 +81,9 @@ No siempre las ideas creativas y originales han sido un éxito. Tal fue el caso 
 
 Hasta entonces, los suelos se habían fregado de rodillas. Esto, además de ser una incomodidad, generaba bastantes proble mas de salud, como artritris, artrosis, bursitis en rodillas, pro blemas de espalda y huesos, infecciones en manos, hongos en uñas, etc.
 
-Manuel Jalón, ingeniero aragonés, concibió la ¡dea de la fregona
+Manuel Jalón, ingeniero aragonés, concibió la idea de la fregona
 
-por casualidad, mientras conversaba con un amigo tomando un café en un bar. Manuel le estaba exponiendo sus ¡deas para mejorar el diseño de los aviones y su amigo le retó a que hiciera algo más útil, «cómo mejorar la vida de las mujeres», le sugirió al fijarse en cómo la dueña del bar estaba limpiando el suelo.
+por casualidad, mientras conversaba con un amigo tomando un café en un bar. Manuel le estaba exponiendo sus ideas para mejorar el diseño de los aviones y su amigo le retó a que hiciera algo más útil, «cómo mejorar la vida de las mujeres», le sugirió al fijarse en cómo la dueña del bar estaba limpiando el suelo.
 
 Basándose en la idea de las enormes fregonas de rodillos que había visto utilizar en los han gares de Estados Unidos, Manuel Jalón construyó un modelo más pequeño para ser usado en el hogar. Surge así la primera fregona: la fregona de rodillos.
 
@@ -135,6 +115,8 @@ Como dijo el mismo Edison en otra ocasión: «Muchos fracasos de la vida han sid
 2. ¿Qué rasgos de personalidad comunes podemos atribuir a estos dos emprende dores?
 3. Piensa alguna idea original con la que mejorarías algún producto que conozcas y debate en clase en qué medida dichas ideas son innovadoras.
 
+## Conceptos básicos
+
 En este apartado vamos a recordar algunos conceptos que te serán útiles para realizar la Simulación, tales como:
 
 iniciativa creatividad emprendedor innovación frustración logotipo idea hueco de mercado plan ele empresa necesidades riesgo utilidad ubicación tecnología
@@ -157,31 +139,33 @@ Los emprendedores por cuenta ajena son muy valorados en las empresas, ya que vue
 
 ## Cualidades del emprendedor
 
-Ser emprendedor es una cualidad esencial en un empresario, junto con la innovación y la capacidad de organización y gestión. Pero, ¿cuáles son las cualidades deseables en un em prendedor? (Fig. 1.1).
+Ser emprendedor es una cualidad esencial en un empresario, junto con la innovación y la capacidad de organización y gestión. Pero, ¿cuáles son las cualidades deseables en un emprendedor? (Fig. 1.1).
+
+Con inquietudes Observador Tolera la frustración Previsor Auto-motivado Acepta riesgo incertidumbre Organizado, planificador Con iniciativa Resolutivo Confía en él y en su idea Constante, tenaz Atento a la competencia
 
 Fig. 1.1. Cualidades del emprendedor.
 
-## Ejemplo 2. Juventud y emprendeduría: Pep ómez
+## Ejemplo 2. Juventud y emprendeduría: Pep Gómez
 
-Entre las cualidades del emprendedor, aún no hemos mencionado la formación específica en su sector profesional, ni conocimientos de gestión, contabilidad, dirección de personal o las dificultades de la constitución de una empresa. Nada de eso es imprescindible, ya que se puede aprender a medida que la complejidad del negocio lo requiere. Así lo ilustra el caso de Pep ómez, empresario español que se inició con tan solo 14 años creando una especie de Twitter para empresas. Con 18 años, oogle le contrató y recientemente acaba de consti tuir su cuarta empresa, todas ellas vinculadas a Internet Puedes leer más información acerca de este empresario en estos artículos de prensa:
+Entre las cualidades del emprendedor, aún no hemos mencionado la formación específica en su sector profesional, ni conocimientos de gestión, contabilidad, dirección de personal o las dificultades de la constitución de una empresa. Nada de eso es imprescindible, ya que se puede aprender a medida que la complejidad del negocio lo requiere. Así lo ilustra el caso de Pep Gómez, empresario español que se inició con tan solo 14 años creando una especie de Twitter para empresas. Con 18 años, Google le contrató y recientemente acaba de constituir su cuarta empresa, todas ellas vinculadas a Internet. Puedes leer más información acerca de este empresario en estos artículos de prensa:
 
 http://www.lavanguardia.com/vida/20120311/54267094897/joven-prodigio-ilustracomo-barcelona-seduce-emprendedores.html
 
-http://www.cincodias.com/articulo/empresas/tiene-anos-ha-fundado-empresas/ 20120319cdscdsemp\_11/
+http://www.cincodias.com/articulo/empresas/tiene-anos-ha-fundado-empresas/ 20120319cdscdsemp_11/
 
-El caso de Pep ómez no es un caso frecuente en nuestro país, pero tampoco es un caso aislado. Otros jóvenes españoles han sido los creadores de: Softonic (web de descarga de software), de Panoramio (web de fotos para geolocalización), de EyeOs (web de almace namiento online de documentos y archivos), de Social Point (empresa de videojuegos de Facebook), de Panda, Idealista, Anboto o de Odigeo. Puedes leer más sobre estos jóvenes emprendedores en esta dirección:
+El caso de Pep Gómez no es un caso frecuente en nuestro país, pero tampoco es un caso aislado. Otros jóvenes españoles han sido los creadores de: Softonic (web de descarga de software), de Panoramio (web de fotos para geolocalización), de EyeOs (web de almace namiento online de documentos y archivos), de Social Point (empresa de videojuegos de Facebook), de Panda, Idealista, Anboto o de Odigeo. Puedes leer más sobre estos jóvenes emprendedores en esta dirección:
 
 http://economia.elpais.com/economia/2012/09/21/actualidad/1348238953\_210022.html
 
 ## B. Idea de negocio
 
-Una idea es el punto de partida de todo proyecto empresarial. Ahora bien, ¿cómo saber qué es una buena idea? Es difícil de decir, aunque hay cualidades de la idea o del emprendedor que pueden aumentar las posibilidades de éxito de la misma. Así, un emprendedor que ob serva las necesidades insatisfechas de la sociedad o que prevé los cambios en el entorno o que intuye las tendencias del mercado, tiene más posibilidades de detectar oportunidades de negocio. De la misma manera, una ¡dea original, si además resulta útil, tiene más posibilidades de prosperar.
+Una idea es el punto de partida de todo proyecto empresarial. Ahora bien, ¿cómo saber qué es una buena idea? Es difícil de decir, aunque hay cualidades de la idea o del emprendedor que pueden aumentar las posibilidades de éxito de la misma. Así, un emprendedor que observa las necesidades insatisfechas de la sociedad o que prevé los cambios en el entorno o que intuye las tendencias del mercado, tiene más posibilidades de detectar oportunidades de negocio. De la misma manera, una idea original, si además resulta útil, tiene más posibilidades de prosperar.
 
-Hay dos características que favorecen el éxito de una ¡dea empresarial: que la idea sea útil y que sea innovadora.
+Hay dos características que favorecen el éxito de una idea empresarial: que la idea sea útil y que sea innovadora.
 
-## I Idea útil
+## Idea útil
 
-Una ¡dea útil es aquella que satisface necesidades en el consumidor. De esta manera, los clientes estarán dispuestos a comprar nuestro producto frente a otras opciones de la competencia. La observación o el estudio de mercado es, por tanto, un paso importante en la selección de una buena idea de negocio.
+Una idea útil es aquella que satisface necesidades en el consumidor. De esta manera, los clientes estarán dispuestos a comprar nuestro producto frente a otras opciones de la competencia. La observación o el estudio de mercado es, por tanto, un paso importante en la selección de una buena idea de negocio.
 
 Estas necesidades no tienen por qué ser reales; basta con que sean sentidas o percibidas como necesarias por el cliente. Incluso, en caso de no serlo, es la compañía quien creará esa nece sidad subjetiva en el cliente. Así, sintetizaba Steve Jobs, uno de los creadores de Apple, este principio básico del marketing: «La gente no sabe lo que necesita hasta que se le muestra».
 
@@ -205,9 +189,9 @@ Puedes leer más al respecto en el blog de Mc raw-Hill: http://www.fpemprendedor
 
 En unos mercados saturados de productos, es decir, con mucha competencia, la necesidad de diferenciarse es esencial para ganar terreno frente a la competencia. Por ejemplo, una cafe tería puede ofrecer un bombón con cada café, tener un gran surtido de prensa diaria o una extensa carta de tés.
 
-Una ¡dea innovadora es aquella que introduce un elemento diferente;es decir, que intro duce un elemento diferencial en lo que hasta ahora existe en el mercado.
+Una idea innovadora es aquella que introduce un elemento diferente; es decir, que introduce un elemento diferencial en lo que hasta ahora existe en el mercado.
 
-La innovación tiene tanta trascendencia que las empresas tratan de contar con un departa mento dedicado a ello. Es el departamento de ¡-s-D+i (Investigación, Desarrollo e Innova ción). Una idea puede resultar innovadora por motivos diferentes, de ahí que podamos hablar de distintos tipos de innovaciones, tales como las indicadas en la Figura 1.2.
+La innovación tiene tanta trascendencia que las empresas tratan de contar con un departa mento dedicado a ello. Es el departamento de I+D+i (Investigación, Desarrollo e Innovación). Una idea puede resultar innovadora por motivos diferentes, de ahí que podamos hablar de distintos tipos de innovaciones, tales como las indicadas en la Figura 1.2.
 
 Fig. 1.2. Tipos de innovación.
 
@@ -218,75 +202,100 @@ Un inhalador de alimentos calóricos de la marca Vaportrim para personas que qui
 ## Actividades
 
 3. Realiza una tabla con las ventajas e inconvenientes de lanzar un producto nuevo o modificar uno ya existente en el mercado.
-4. El método Justin time supuso una revolución en la producción de automóviles. Este innovador sistema de proceso se puso en marcha por primera vez en la fábrica japo nesa de Toyota, relevando así el modelo clásico de producción en serie que se había implantado por primera vez en la empresa Ford y que había supuesto una verdadera revolución en el proceso de fabricación de un coche.
+4. El método Just in time supuso una revolución en la producción de automóviles. Este innovador sistema de proceso se puso en marcha por primera vez en la fábrica japo nesa de Toyota, relevando así el modelo clásico de producción en serie que se había implantado por primera vez en la empresa Ford y que había supuesto una verdadera revolución en el proceso de fabricación de un coche.
 
-Lee la siguiente información e identifica cinco características de este sistema pro ductivo: es.w¡kipedfa.org/w¡ki/MétodoJusto\_a\_tiempo
+Lee la siguiente información e identifica cinco características de este sistema productivo: es.wikipedia.org/wiki/Método_justo_a_tiempo
 
-También puedes leer la biografía de Henry Ford para conocer más sobre el sistema de producción en serie: http://www.biografiasyvidas.com/monografia/ford/ford\_t. htm
+También puedes leer la biografía de Henry Ford para conocer más sobre el sistema de producción en serie: http://www.biografiasyvidas.com/monografia/ford/ford_t.htm
 
-## Recuerda
+### Recuerda
 
 La originalidad y creatividad de una idea no garantizan su éxito. Tiene que ser útil, necesaria. Y si no lo es, hay que crear esa necesidad en el consumidor.
 
 ## C Plan de empresa
 
-Un plan de empresa es el documento donde se desarrolla de forma sintética pero ex haustiva toda idea de negocio. Este plan incluye a su vez, otros documentos adicionales, como: el estudio de mercado, el plan de producción, el plan de marketing o el plan fi nanciero.
+Un plan de empresa es el documento donde se desarrolla de forma sintética pero exhaustiva toda idea de negocio. Este plan incluye a su vez, otros documentos adicionales, como: el estudio de mercado, el plan de producción, el plan de marketing o el plan financiero.
 
-A través de todos estos documentos se da forma al negocio que se pretende iniciar, concre tando aspectos prácticos (como productos y precios ofertados), potenciales clientes, canales de promoción, medios de distribución, estimaciones de compra, estimaciones de gastos e inversiones, fuentes de financiación, previsión de puestos de trabajo y organigrama, etc.
+A través de todos estos documentos se da forma al negocio que se pretende iniciar, concretando aspectos prácticos (como productos y precios ofertados), potenciales clientes, canales de promoción, medios de distribución, estimaciones de compra, estimaciones de gastos e inversiones, fuentes de financiación, previsión de puestos de trabajo y organigrama, etc.
 
-Además, es fundamental la búsqueda de fuentes de financiación externa, ya que las insti tuciones financieras (bancos, cooperativas de crédito, etc.) o los posibles inversores privados («inversores ángel» -business angels- o empresas de capital riesgo, que estudiaremos en la Unidad 4) valorarán su viabilidad y, en función de ello, confiarán, o no, sus recursos moneta rios a nuestro proyecto empresarial.
+Además, es fundamental la búsqueda de fuentes de financiación externa, ya que las instituciones financieras (bancos, cooperativas de crédito, etc.) o los posibles inversores privados («inversores ángel» -business angels- o empresas de capital riesgo, que estudiaremos en la Unidad 4) valorarán su viabilidad y, en función de ello, confiarán, o no, sus recursos moneta rios a nuestro proyecto empresarial.
 
 A través de las diferentes unidades te iremos guiando para que puedas dar forma a tu plan de empresa del modo que se muestra en la Figura 1.3.
 
+- Unidad 1
+  Resumen de la idea de negocio
+  Promotores breve trayectoria profesional
+
+- Unidad 2
+  Estudio de mercado: entorno, clientes y competencia
+  Descripción del producto plan de producción
+
+- Unidad 3
+  Trámites de constitución
+
+- Unidades 4 y 5
+  Plan financiero
+
+- Unidad 6
+  Plan de aprovisionamiento
+  Obligaciones fiscales
+
+- Unidad 7
+  Plan de marketing
+  Plan de recursos humanos
+
+- Plan de empresa
+
+- Unidad 8
+  Acciones para la internacionalización
+
 Fig. 1.3. Elementos del plan de empresa y su distribución por unidades en el libro.
 
-Ahora comenzaremos a realizar la simulación propiamente dicha, en la que te proponemos constituir una empresa junto a otros compañe ros de clase (entre 2 y 4). Este equipo de trabajo se mantendrá estable todo el curso y nos referi remos a ellos como a los socios de la empresa.
+## Simulación empresarial
 
-Iremos elaborando la empresa a través del traba jo con fases secuenciales de dificultad progresi va, apoyadas por ejemplos, que culminarán con la propuesta de unas actividades de simulación.
+Ahora comenzaremos a realizar la simulación propiamente dicha, en la que te proponemos constituir una empresa junto a otros compañeros de clase (entre 2 y 4). Este equipo de trabajo se mantendrá estable todo el curso y nos referiremos a ellos como a los socios de la empresa.
 
-En esta primera unidad vamos a comenzar por pensar una ¡dea y darle forma hasta concretar la en un proyecto de negocio. El objetivo final será guiaros para que redactéis los dos primeros apartados de vuestro plan de empresa:
+Iremos elaborando la empresa a través del trabajo con fases secuenciales de dificultad progresiva, apoyadas por ejemplos, que culminarán con la propuesta de unas actividades de simulación.
+
+En esta primera unidad vamos a comenzar por pensar una idea y darle forma hasta concretarla en un proyecto de negocio. El objetivo final será guiaros para que redactéis los dos primeros apartados de vuestro plan de empresa:
 
 1. Elaboración de la idea de negocio.
 2. Socios y trayectoria profesional.
 
-## Fase 1. eneración de ideas
-
-Dar con una idea de negocio es la primera fase de trabajo en el desarrollo de un plan de em presa y una de las cuestiones más difíciles, en la que hay que poner en juego altas dosis de creatividad.
-
-Hay diferentes métodos que nos ayudan en el proceso de desarrollo de ¡deas. Uno de los más utilizados para el trabajo en grupo es el hrainstorming.
-
-El htamstorming o lluvia de ideas es una técnica originariamente utilizada en publicidad creativa para generar multitud de ideas originales en un entorno relajado. Consiste en de cir y anotar todas las ideas que surjan, sin descartarlas bajo ningún motivo. Como decía el químico norteamericano Linus Pauling: «La mejor forma de tener una buena idea es tener muchas ideas».
-
-## El hrainstorming se basa en los siguientes principios:
-
-1. Las ideas exitosas pueden parecer ¡nicialmente absurdas o extravagantes (tal como suce dió en el caso de Enric Bernat con su Chupa Chups). Si solo mencionamos las ideas que consideremos «buenas» estaremos eliminando otras que podrían serlo si se meditaran más despacio.
-2. La creatividad se contagia. Nos surgirán más ideas a medida que escuchemos las pro puestas de otros.
-3. La creatividad se dispara con la asociación de ideas. Una buena ¡dea puede surgir después de escuchar otras parecidas.
-4. La creatividad se bloquea cuando los demás critican las ideas que aportamos. De modo que, en esta primera fase, hay que dar rienda suelta a la imaginación.
-
-"
-
 ## Fases de la Simulación empresarial
 
-Fase 1. eneración de ideas
+- Fase 1. Generación de ideas
 
-Fase 2. Selección de la mejor idea
+- Fase 2. Selección de la mejor idea
 
-Fase 3. Objeto social de la empresa
+- Fase 3. Objeto social de la empresa
 
-Fase 4. Elección de nombre y logotipo
+- Fase 4. Elección de nombre y logotipo
 
-Fase 5. Ubicación del negocio
+- Fase 5. Ubicación del negocio
 
-Fase 6. Diseño del espacio físico
+- Fase 6. Diseño del espacio físico
 
-Fase 7. Motivos para emprender
+- Fase 7. Motivos para emprender
 
-Fase 8. Perfil de los socios
+- Fase 8. Perfil de los socios
 
-"
+## Fase 1. Generación de ideas
 
-8a---8B»»raB-ra«-«a™- La idea de negocio puede consistir en la prestación de un servicio o en la comercialización de un producto. Se puede partir de una necesidad insatisfecha o de la implementación de una idea que funciona con éxito en otro país, aunque en este segundo caso hay que tener en cuenta las diferencias sociales y culturales.
+Dar con una idea de negocio es la primera fase de trabajo en el desarrollo de un plan de empresa y una de las cuestiones más difíciles, en la que hay que poner en juego altas dosis de creatividad.
+
+Hay diferentes métodos que nos ayudan en el proceso de desarrollo de ideas. Uno de los más utilizados para el trabajo en grupo es el brainstorming.
+
+El brainstorming o lluvia de ideas es una técnica originariamente utilizada en publicidad creativa para generar multitud de ideas originales en un entorno relajado. Consiste en decir y anotar todas las ideas que surjan, sin descartarlas bajo ningún motivo. Como decía el químico norteamericano Linus Pauling: «La mejor forma de tener una buena idea es tener muchas ideas».
+
+## El brainstorming se basa en los siguientes principios:
+
+1. Las ideas exitosas pueden parecer inicialmente absurdas o extravagantes (tal como sucedió en el caso de Enric Bernat con su Chupa Chups). Si solo mencionamos las ideas que consideremos «buenas» estaremos eliminando otras que podrían serlo si se meditaran más despacio.
+2. La creatividad se contagia. Nos surgirán más ideas a medida que escuchemos las propuestas de otros.
+3. La creatividad se dispara con la asociación de ideas. Una buena idea puede surgir después de escuchar otras parecidas.
+4. La creatividad se bloquea cuando los demás critican las ideas que aportamos. De modo que, en esta primera fase, hay que dar rienda suelta a la imaginación.
+
+La idea de negocio puede consistir en la prestación de un servicio o en la comercialización de un producto. Se puede partir de una necesidad insatisfecha o de la implementación de una idea que funciona con éxito en otro país, aunque en este segundo caso hay que tener en cuenta las diferencias sociales y culturales.
 
 ## Ejemplo 6. Empresas innovadoras en prestación de servicios
 
@@ -306,19 +315,20 @@ Reúnete con tus socios y lanzad conjuntamente todas las propuestas de negocio q
 
 Anotad cada uno de vosotros todas las ideas que surjan. De lo contrario, el que se encar gara de anotar estaría tan ocupado que no podría sugerir ideas.
 
-## Ayuda práctica:
+### Ayuda práctica:
 
 Podéis consultar las siguientes páginas web, si necesitáis inspiración:
 
 - www.emprendedores.es: sección Ideas, apartados Oportunidades de Negocio y Las últimas tendencias. Análisis de empresas de reciente aparición que aprovechan nichos del mercado en el área de la formación de idiomas, desarrollo de aplicaciones para móviles, etc.
-- http://www.rtve.es/television/fabricadeideasdetve: programa de televisión donde un emprendedor es entrevistado por potenciales inversores para que exponga y desa rrolle las fortalezas de su idea de negocio.
+- http://www.rtve.es/television/fabricadeideasdetve: programa de televisión donde un emprendedor es entrevistado por potenciales inversores para que exponga y desarrolle las fortalezas de su idea de negocio.
 
 ## Fase 2. Selección de la mejor idea
 
 A continuación, hay que elegir la idea que se considera con más probabilidades de éxito. Para ello, habrá que valorarlas una a una en función de unos criterios previamente establecidos, según lo que prioricen los socios, como por ejemplo, alta rentabilidad o escasa competencia. A continuación, te presentamos una tabla que puede servir de muestra de cómo realizar este proceso.
 
+Idea 1 Idea 2 Idea 3 Idea 4 ...
+
 | Idea útil: satisface necesidades |
-|----------------------------------------------------------------------------------------------|
 | Idea innovadora: novedosa en el mercado |
 | Hueco de mercado: posibilidad de competir |
 | Expectativas de alta rentabilidad: buenas perspectivas económicas |
@@ -329,7 +339,7 @@ A continuación, hay que elegir la idea que se considera con más probabilidades
 | Complejidad de la legislación aplicable: poca norma tiva que limite la actividad económica |
 | Puntuación total |
 
-## ¿Cómo sé que mi Idea de negocio es buena?
+## ¿Cómo sé que mi idea de negocio es buena?
 
 1. Piensa si tienes claro el producto o servicio que vas a poner en el mercado.
 2. Piensa en tus clientes, a quién le puede resultar útil tu producto o servicio.
@@ -337,28 +347,28 @@ A continuación, hay que elegir la idea que se considera con más probabilidades
 4. Piensa en los aspectos positivos que tienen tus productos o servicios y que no ofre cen los demás.
 5. Piensa en tus capacidades para poner en marcha tu idea.
 
-Fuente: Instituto Municipal de Empleo del Ayuntamiento de Vaüadolid.
+Fuente: Instituto Municipal de Empleo del Ayuntamiento de Valladolid.
 
 ## Actividad de simulación 2
 
-Reúnete con tus socios y cread una tabla similar, en la que anotéis todas las ideas surgi das en la fase anterior y los criterios que consideréis más importantes. Valoradlas, una a una, en base a cada criterio, otorgándoles una puntuación de 0 a 10.
+Reúnete con tus socios y cread una tabla similar, en la que anotéis todas las ideas surgidas en la fase anterior y los criterios que consideréis más importantes. Valoradlas, una a una, en base a cada criterio, otorgándoles una puntuación de 0 a 10.
 
-La ¡dea que tenga una mayor puntuación total será vuestra ¡dea de negocio, que desarro llaréis a lo largo del resto de las unidades del libro.
+La idea que tenga una mayor puntuación total será vuestra idea de negocio, que desarrollaréis a lo largo del resto de las unidades del libro.
 
 ## Fase 3. Objeto social de la empresa
 
-El propósito de esta fase es concretar la ¡dea empresarial determinando a qué se va a dedicar la empresa. En la Unidad 2 habrá que enumerar todos los productos y servicios que ofrece, cuando se redacte el plan de producción. De momento, basta con una exposición razonada de la idea empresarial; es decir: las necesidades que satisface, las innovaciones que se aportarán y la situación que justifica este hueco del mercado.
+El propósito de esta fase es concretar la idea empresarial determinando a qué se va a dedicar la empresa. En la Unidad 2 habrá que enumerar todos los productos y servicios que ofrece, cuando se redacte el plan de producción. De momento, basta con una exposición razonada de la idea empresarial; es decir: las necesidades que satisface, las innovaciones que se aportarán y la situación que justifica este hueco del mercado.
 
 ## Ejemplo 8. «Customización»
 
-Una idea de negocio en auge reciente es la personalización o «customización» de los pro ductos. Es una idea que se aplica con éxito a los automóviles, el llamado tuneado, aunque también a otros objetos de consumo habitual. Es el caso de la empresa Nikeid, especializada en «customizar» las playeras Nike, o de Carmen Romero, que crea murales personalizados para las paredes de las casas de sus clientes.
+Una idea de negocio en auge reciente es la personalización o «customización» de los productos. Es una idea que se aplica con éxito a los automóviles, el llamado tuneado, aunque también a otros objetos de consumo habitual. Es el caso de la empresa Nikeid, especializada en «customizar» las playeras Nike, o de Carmen Romero, que crea murales personalizados para las paredes de las casas de sus clientes.
 
-Estas empresas podrían exponer su ¡dea de negocio y justificarla con estos argumentos:
+Estas empresas podrían exponer su idea de negocio y justificarla con estos argumentos:
 
 - a) La personalización de productos es un sector en pleno crecimiento que puede aplicarse a cualquier objeto que se comercialice en el mercado.
 - b) Responde a la demanda de un público cada vez más exigente, informado y que valora por encima de todo la individualización.
 
-Esta ¡dea se aplica ya desde hace tiempo en el marketing, que deja de estar centrado en el producto para focalizarse en el cliente. De la misma manera, el ámbito productivo ha entendi do que hay un hueco en el mercado para personalizar los productos. Entendemos que es una nueva opción del mercado que implica mantener una comunicación estrecha con el consumi dor, adaptarse a sus necesidades, estar atento a las tendencias del mercado, saber reaccionar con rapidez, no tener miedo a los cambios y utilizar todos los avances tecnológicos.
+Esta idea se aplica ya desde hace tiempo en el marketing, que deja de estar centrado en el producto para focalizarse en el cliente. De la misma manera, el ámbito productivo ha entendi do que hay un hueco en el mercado para personalizar los productos. Entendemos que es una nueva opción del mercado que implica mantener una comunicación estrecha con el consumi dor, adaptarse a sus necesidades, estar atento a las tendencias del mercado, saber reaccionar con rapidez, no tener miedo a los cambios y utilizar todos los avances tecnológicos.
 
 Además, es conveniente añadir las razones que llevaron a los socios a crear ese negocio. Esto ayuda a las personas que leerán el plan de empresa (es decir, a tus futuros inversores) a dar más credibilidad a la idea.
 
@@ -368,7 +378,7 @@ Un matrimonio se dedicaba a ofrecer productos originales en tiendas tradicionale
 
 ## Actividad de simulación 3
 
-Concreta el objeto social de vuestra empresa: qué bienes o servicios vais a comercializar, necesidades que se satisfacen, innovaciones que os diferenciarán de la competencia, si tuación que justifica este hueco del mercado y todo lo que se os ocurra que haga la ¡dea más vendible de cara a futuros inversores.
+Concreta el objeto social de vuestra empresa: qué bienes o servicios vais a comercializar, necesidades que se satisfacen, innovaciones que os diferenciarán de la competencia, si tuación que justifica este hueco del mercado y todo lo que se os ocurra que haga la idea más vendible de cara a futuros inversores.
 
 ## Fase 4. Elección de nombre y logotipo
 
@@ -385,33 +395,33 @@ El nombre debería seguir las siguientes reglas para ser eficaz:
 - c) La tipografía y los colores de la fuente deben estar acordes con la imagen corporativa.
 - d) Debe captar la atención.
 
-## Ejemplo 10o Modos de elección de nombres
+## Ejemplo 10. Modos de elección de nombres
 
-## Acrónimos
+### Acrónimos
 
 En ocasiones, las empresas eligen un acrónimo para su nombre, como Microsoft (Microcomputer Software), Repsol (Refinería de Petróleo de Escombreras Oil) o Marco Aldany, que constituye las iniciales de sus tres fundadores: Marcos, Alejandro y Daniel.
 
-## Juego de palabras
+### Juego de palabras
 
 Algunas compañías discurren para encontrar un nombre divertido, como la Webera o Pand eo (pan-rico), que además constituye el acrónimo de Panificio Rivera Costafreda. O Danone, diminutivo de Daniel y One, dado que así se llamaba el primogénito del fundador.
 
-## Definición del negocio
+### Definición del negocio
 
-Hay nombres que reflejan la característica determinante del negocio, como Desigual o Fla menco. O Hotmail, que incluye las letras HTML, o oogle, que es una deformación del término oogol que representa un 1 seguido de 100 ceros.
+Hay nombres que reflejan la característica determinante del negocio, como Desigual o Fla menco. O Hotmail, que incluye las letras HTML, o Google, que es una deformación del término Googol que representa un 1 seguido de 100 ceros.
 
-## Cultismos
+### Cultismos
 
 Otras marcas utilizan términos cultos, como Nike, que es el nombre de la diosa griega de la victoria, lo que se refleja en la V de su logotipo; Ñero, el nombre inglés del emperador Nerón, que incendió Roma. Canon viene de Kwanon, una palabra japonesa que designa a una deidad budista de la misericordia. Muchas compañías españolas se decantan por un an glicismo, para dar prestigio a la marca o para facilitar su intemacionalización; tal es el caso de Softonic.
 
-## Estilo rompedor
+### Estilo rompedor
 
 Hay quien prefiere contravenir las normas establecidas para llamar la atención. Fue el caso de Kukuxumusu, nombre en euskera que significa «el beso de la pulga», con el que pretendían reflejar su estilo desenfadado y divertido.
 
-## Otros motivos
+### Otros motivos
 
 A veces, el nombre es azaroso, como Apple, que surgió mientras Steve Jobs se comía una manzana, de ahí que el logotipo incluya hasta el mordisco. O Carrefour (término francés para encrucijada), ya que la primera tienda estaba en un cruce de caminos. O Lotus, inspirado en el loto, puesto que el fundador era profesor de meditación.
 
-## I Criterios para el diseño del logotipo
+## Criterios para el diseño del logotipo
 
 El logotipo debería seguir las siguientes reglas para ser eficaz:
 
@@ -422,7 +432,7 @@ El logotipo debería seguir las siguientes reglas para ser eficaz:
 - e) Simplicidad, para evitar su encarecimiento o dificultad de reproducir en diferentes medios.
 - f) Debe captar la atención e impresionar.
 
-Fig. 1.4. A veces, el nombre, logotipo y eslogan de la empresa están perfectamente coordinados, como en el caso de L .
+Fig. 1.4. A veces, el nombre, logotipo y eslogan de la empresa están perfectamente coordinados, como en el caso de LG
 
 ## Ejemplo 11. Modos de elección de logotipos
 
@@ -438,21 +448,19 @@ No es frecuente, sin embargo, el cambio de logotipo, ya que es la imagen de la m
 
 Fig. 1.6. Evolución del logotipo de Danone.
 
-## ::sBtackBerry Carrefour
-
 ## Blackberry®
-
-## Carrefour
 
 El significado de «cereza ne gra» queda reflejado en el lo gotipo, que también simboliza el teclado de un móvil.
 
-Donde la gente ve flechas, hay en realidad una C. Las flechas contribuyen a dar dinamismo e idea de rapidez. La C representa la inicial de la empresa.
+## Carrefour
 
-Fig. 1.7. Algunos logotipos y su significado.
+Donde la gente ve flechas, hay en realidad una C. Las flechas contribuyen a dar dinamismo e idea de rapidez. La C representa la inicial de la empresa.
 
 ## Horror Films
 
 Esta productora eligió como logotipo un carrete de 35 mm. También expresa la sensación que producen sus películas.
+
+Fig. 1.7. Algunos logotipos y su significado.
 
 ## Actividad de simulación 4
 
@@ -475,7 +483,7 @@ Otras opciones para crear logos más sencillos son:
 - http://creatr.ee/creatr/
 - http://www.logoease.com/
 
-## Ayuda práctica:
+### Ayuda práctica:
 
 En Logoestslo, una compañía dedicada al diseño de la imagen corporativa de una empre sa, tienen ejemplos de diseños variados de logotipos realizados para una misma empresa. Analiza dos de ellos para comprobar cómo puede variar la imagen corporativa con tan solo modificar los colores, el motivo gráfico o la fuente de letra.
 
@@ -506,7 +514,7 @@ Estos son algunos de los factores que se deben tener en cuenta en la elección d
 
 Debes decidir dónde ubicar la empresa, especificando la calle, el número y la localidad. Al final de las actividades de simulación de esta unidad didáctica, en el apartado Plan de empresa tendrás que añadir una foto de oogle Maps con vuestra localización.
 
-## Ayuda práctica:
+### Ayuda práctica:
 
 Decide primero quiénes son vuestros clientes objetivo y, en función de ello, dónde lo calizarás tu negocio. Es importante que la elección resulte justificada. Así, si se trata de una tienda de ropa puede ser adecuado situarlo en una zona urbana, céntrica y peatonal, con transporte público cercano o facilidad para el aparcamiento. En cambio, si se trata de una empresa de bricolaje, puede ser aconsejable situarla en las afueras de una ciudad, por el menor coste del solar y, por tanto, las posibilidades de tener un almacén grande sin gran desembolso económico. En este caso, habrá que considerar la accesibilidad de los camiones de reparto.
 
@@ -540,11 +548,11 @@ La elección de la música se hará acorde al gusto del cliente, lo que está ba
 
 Dibuja el plano de vuestro negocio, teniendo en cuenta que debe ser proporcional a las dimensiones del local que hayáis decidido en la fase anterior. Realiza un boceto inicial en papel y después trata de hacerlo con alguna herramienta informática.
 
-## Ayuda práctica:
+### Ayuda práctica:
 
 Si no tienes un programa específico, puedes recurrir a esta página web gratuita para ge nerar un plano de un espacio físico:
 
-## http://www.floorplanner.com/
+http://www.floorplanner.com/
 
 Después, busca fotos en Internet que se asemejen a la apariencia que queréis dar a vues tro local. Cuidad la elección de ambientes, de colores, mobiliario, iluminación, etc.
 
@@ -594,7 +602,7 @@ Tabla 1.2. Consejos para elaborar un curriculum vítae como socio de un negocio.
 
 Elabora tu curriculum vitae y realízalo en la misma plantilla que tus socios, para dar cohe rencia al plan de empresa. Recuerda que no es un CV para una entrevista de selección, sino para que posibles inversores confíen en vuestra capacidad de dirigir un negocio.
 
-## Ayuda práctica:
+### Ayuda práctica:
 
 Aunque la juventud e inexperiencia puede ser una objeción, no es menos cierto que cada vez son más las empresas constituidas por gente joven, dada su creatividad, su gran ca pacidad de trabajo e implicación personal, su conocimiento de idiomas y de las nuevas tecnologías y su flexibilidad horaria, al carecer de cargas familiares.
 
@@ -604,146 +612,189 @@ Ha llegado el momento de sintetizar las ideas extraídas en estas primeras fases
 
 Las actividades de simulación realizadas en esta unidad te han servido para seleccionar y concretar los primeros pasos de un proyecto, así como para valorar tu candidatura y la de tus socios. Esto tendrá su reflejo en los dos primeros apartados del plan de empresa.
 
-## 1. Idea de negocio
+### 1. Idea de negocio
 
 - a) Expon vuestra idea de negocio, justificando el porqué de esta elección, la innova ción que pensáis aportar, los motivos para emprender, la ubicación, el diseño y la apariencia del local y los elementos diferenciales con respecto a la competencia.
 - b) Adjunta el nombre y logotipo, así como la justificación de ambas decisiones; el mapa de oogle y las fotos de otros negocios que se asemejan a tu idea.
 - c) Ten en cuenta que el desarrollo posterior que realicéis en las unidades siguientes pueden hacer variar este primer contenido, por lo que deberás revisar conti nuamente que todas las decisiones que adoptéis se vayan incorporando a este epígrafe.
 
-## 2. Socios
+### 2. Socios
 
 - a) Adjunta tu curriculum vítae y el de tus socios. Menciona los puntos fuertes y todas las áreas que cubriríais cada uno de vosotros.
 - b) Recuerda que este documento lo analizarán otros posibles socios, el banco al que solicitéis el préstamo, potenciales inversores privados, etc. Por ello, cuida la presentación y el estilo de redacción.
 
+## Síntesis
+
+(ver esquema libro página 28)
+
+## Test de repaso
+
 1. Trabajar por cuenta propia significa:
+
 - a) No tener jefe ni trabajadores a cargo.
 - b) Ser autónomo o socio de una empresa.
 - c) Ser asalariado de una empresa.
 - d) Ninguna es correcta.
+
 2. ¿A quién se atribuye la palabra intraemprendedor?
+
 - a) A trabajadores de una empresa que demuestran características propias de un em prendedor.
 - b) A empresarios cuya empresa no se internacionaliza nunca.
 - c) A emprendedores que constituyen su empresa dentro de su país de nacimiento.
 - d) A trabajadores que dejan su empresa para constituir su propio negocio.
-3. Una ¡dea tiene más posibilidad de éxito si cumple estas dos características:
+
+3. Una idea tiene más posibilidad de éxito si cumple estas dos características:
+
 - a) Satisface necesidades y es diferente a lo que ya existe en el mercado.
 - b) Es útil, innovadora y barata.
 - c) Es innovadora y barata, aunque resulte poco útil.
 - d) Es innovadora, original y creativa.
+
 4. ¿Cuáles de estos conocimientos es indispensable en un empresario?
+
 - a) Conocimientos técnicos del sector.
 - b) Conocimientos de gestión contable.
 - c) Conocimientos financieros.
 - d) Ninguno, aunque sería conveniente que los tuviera.
+
 5. La innovación puede presentarse en:
+
 - a) El producto, proceso y marketing.
 - b) El producto, organización, proceso y tecnología.
 - c) El proceso, organización, marketing y producto.
 - d) El proceso, organización, marketing y gestión del personal
+
 6. ¿Qué elemento no se incluye en el documento que constituye el plan de empresa?
+
 - a) El plan financiero.
 - b) El plan de marketing.
 - c) El plan de producción.
 - d) El plan de constitución de la empresa.
-7. Una ¡dea útil es aquella que:
+
+7. Una idea útil es aquella que:
+
 - a) Satisface necesidades vitales de los consumidores.
 - b) Satisface necesidades reales, aunque no sean vitales.
 
 - c) Satisface necesidades reales o percibidas por los clientes.
 - d) Satisface la necesidad de que el usuario se sienta útil.
-8. Una empresa tendrá más posibilidades de éxito si su ¡dea de negocio:
+
+8. Una empresa tendrá más posibilidades de éxito si su idea de negocio:
+
 - a) Satisface necesidades insatisfechas de los consumidores.
 - b) introduce algún elemento diferente con respecto a lo que se oferta en el mercado.
 - c) Representa una reducción de precio en los productos que ya existen en el mercado.
 - d) Las dos primeras respuestas son correctas.
+
 9. ¿Qué es una innovación de proceso?
+
 - a) Aquella que incorpora métodos de producción diferentes.
 - h) Aquella que mejora métodos de producción convencionales.
 - c) Aquella que mejora la eficiencia en la producción de productos existentes.
 - d) Todas son correctas.
+
 10. Innovación de producto es aquella que:
+
 - a) Crea un producto nuevo o mejora uno que ya se comercializa.
 - b) Mejora el precio de un producto que ya existe en el mercado.
 - c) Modifica la apariencia externa del producto.
 - d) Todas son correctas.
+
 11. Una innovación de marketing es aquella en la que:
+
 - a) Se introducen mejoras en los métodos de comercialización.
 - b) Se incrementan las ventas del producto.
 - c) Se mejora la productividad de los comerciales.
 - d) Se intensifican las campañas de promoción.
+
 12. Una innovación de organización es aquella que:
+
 - a) Introduce cambios en la gestión de la compañía.
 - b) Modifica la gestión y administración del personal de la empresa.
 - c) Mejora las estructuras organizativas y jerárquicas de la empresa.
 - d) Todas son ciertas.
+
 13. ¿Qué significan las siglas l+D+i?
+
 - a) Innovación, Desarrollo e Investigación.
 - b) Inteligencia, Desarrollo e Investigación.
 - c) Iniciativa, Desarrollo e Innovación.
 - d) Innovación, Desarrollo e Interés comercial.
+
 14. Un emprendedor es aquel que:
+
 - a) Identifica oportunidades.
 - b) Organiza recursos para aprovechar esas oportunidades.
 - c) Comercializa el resultado obtenido.
 - d) Todas son correctas.
 
-## ^L'-^
+## Comprueba tu aprendizaje
 
 1. ¿Crees que la capacidad emprendedora es innata o se aprende?
-2. Piensa en tres ¡deas de negocio útiles e innovadoras que hayan tenido lugar como conse cuencia de la incorporación de la mujer al trabajo.
+2. Piensa en tres ideas de negocio útiles e innovadoras que hayan tenido lugar como conse cuencia de la incorporación de la mujer al trabajo.
 3. Pon dos ejemplos de innovación de producto, dos de proceso, dos de marketing y dos de organización.
 4. Identifica dos innovaciones que haya tenido el sector profesional al que te gustaría dedi carte en los últimos años.
 5. Señala qué tipo de innovación se presenta en estos ejemplos:
+
 - a) Depilación con láser.
 - b) Depilación con pasta resultante de mezclar azúcar y miel.
 - c) Depilación de cejas con técnica oriental de hilo de seda.
 - d) Depilación eléctrica.
-6. Busca información sobre un emprendedor español y resume su trayectoria profesio nal (puedes consultar la siguiente página web: http://www.emprendedorestv.com/ emprendedorestv).
+
+6. Busca información sobre un emprendedor español y resume su trayectoria profesio nal (puedes consultar la siguiente página web: http://www.emprendedorestv.com/emprendedorestv).
+
 - a) Señala qué características de personalidad descubres en ese emprendedor.
 - h) intercambia tu respuesta con algún compañero de clase e identifica qué cualidades tiene ese emprendedor.
+
 7. Hace años se introdujo la existencia de «puntos limpios» en España, donde los consumi dores podían depositar los residuos en diferentes contenedores para facilitar su reciclaje. Deduce si se trata de una innovación de producto, de proceso, de organización o de mar keting.
 8. En algunas empresas se permite el teletrabajo, es decir, el realizar parte o todas las fun ciones laborales desde el hogar. Indica de qué tipo de innovación se trata.
 9. Averigua qué es el Hackaton de Facebook, los concursos Idealab y Óptima de Telefónica y qué utilidad tienen en la empresa.
 10. Busca información sobre otras empresas que desarrollen acciones para identificar intraemprendedores o, al menos, para descubrir y aprovechar la iniciativa y creatividad de sus trabajadores.
 11. Leeesteartículo,http://yoriento.com/2010/03/si-no-ganas-lo-que-vales-emprende688.html y contesta a estas preguntas:
+
 - a) ¿Qué obstáculos ve el autor para el emprendimiento?
 - h) ¿Cuál es el objetivo laboral de la mayoría de jóvenes y por qué?
-- c) ¿Cómo cree Alfonso Alcántara que se diferencia una ¡dea buena de una idea mala?
+- c) ¿Cómo cree Alfonso Alcántara que se diferencia una idea buena de una idea mala?
 - d) ¿De qué depende el éxito de un emprendedor?
 - e) Y respecto a su última pregunta: «¿Por qué no has montado ya tu propia empresa?», qué responderías.
 
-....■..
-
--------
-
 12. Entra en la página Fábrica de ideas e identifica una idea de negocio que te parezca origi nal: http://www.rtve.es/television/fabricadeideasdetve
+
 - a) ¿Por qué te parece original?
 - b) ¿Otros compañeros de clase también lo perciben como un negocio original?
 - c) ¿Te parece útil?
 - d) ¿A otros compañeros de clase también?
-- e) ¿Crees entonces que funcionará esta ¡dea, es decir, que tendrá hueco en el mercado?
+- e) ¿Crees entonces que funcionará esta idea, es decir, que tendrá hueco en el mercado?
+
 13. Selecciona dos anuncios de la televisión y trata de identificar elementos innovadores en los productos o en la manera de anunciarse, lo que sería una innovación de marketing.
 14. Busca en Internet la página web http://wwwjdeas4all.com y responde a las siguientes preguntas:
+
 - a) ¿Cuál es su objetivo?
 - b) ¿Crees que una página así puede tener éxito? Razona tu respuesta.
 - c) ¿Has considerado la utilidad e innovación de la página web al responder la pregunta anterior?
 - d) ¿Por qué se constituyen como una red social?
-15. Piensa en inventos españoles que hayan resultado muy útiles en la historia de la huma nidad o para facilitar la vida a las personas. Después, consulta esta página web: http:// blogs.20minutos.es/yaestaellistoquetodolosabe/grandes-y-pequenos-inventos&lt; españoles-1, y contrasta tu respuesta con lo leído.
-16. Escucha cómo piensa un emprendedor de éxito a través del discurso de Steve Jobs en la Universidad de Standford. Selecciona la ¡dea que más te haya llamado la atención: http://www.youtubexom/watch?v=6zlHAiddNUY
+
+15. Piensa en inventos españoles que hayan resultado muy útiles en la historia de la huma nidad o para facilitar la vida a las personas. Después, consulta esta página web: http://blogs.20minutos.es/yaestaellistoquetodolosabe/grandes-y-pequenos-inventos-espanoles-1, y contrasta tu respuesta con lo leído.
+16. Escucha cómo piensa un emprendedor de éxito a través del discurso de Steve Jobs en la Universidad de Standford. Selecciona la idea que más te haya llamado la atención: http://www.youtubexom/watch?v=6zlHAiddNUY
 17. Piensa qué necesidades no están satisfechas en la sociedad actual e imagina un producto o servicio que pudiera satisfacerlas. Imagina cómo habría que producirlo y, en función de ello, qué precio establecerías. Después, pregunta a tres compañeros de clase si, en rela ción con ese producto o servicio que has imaginado, les parece:
+
 - a) Una idea útil.
 - b) Una idea original.
 - c) Una idea con hueco de mercado.
 - d) Una idea con buena relación calidad-precio.
+
 18. Selecciona un logotipo de cualquier empresa que te resulte atractivo. Indica qué carac terísticas han despertado tu interés en ese logotipo. Compara tu elección con la que ha realizado el compañero de al lado.
 19. Identifica una empresa cuyo logotipo haya cambiado a través del tiempo. Selecciona el que más te guste de todos ellos y explica el motivo. Deduce por qué la compañía ha optado por el logotipo actual.
 20. Poned en común vuestras respuestas al ejercicio 19 y, entre todos, responded a las si guientes cuestiones:
+
 - a) ¿Están mostrando la misma imagen corporativa o el cambio de logotipo implica también un cambio en la percepción de los clientes?
 - b) Los últimos logotipos de cada compañía, ¿son los que responden a una imagen de modernidad y de simplicidad?
 
-## Estudio de mercado
+# 2. Estudio de mercado
 
-«No puedes preguntarle a los consumidores qué quieren y luego pretender dárselo. En el tiempo que has estado fabricándolo, ellos querrán una cosa nueva.» Steve Jobs, cofundador de Apple.
+## Steve Jobs, cofundador de Apple.
+
+«No puedes preguntarle a los consumidores qué quieren y luego pretender dárselo. En el tiempo que has estado fabricándolo, ellos querrán una cosa nueva.»
 
 ## En esta unidad aprenderemos a:
 
@@ -767,6 +818,8 @@ Las actividades de simulación realizadas en esta unidad te han servido para sel
 - La organización funcional: el organigrama.
 - Responsabilidad social de la empresa: la ética en los negocios.
 - Análisis DAFO.
+
+## Emprendedores
 
 En este apartado vamos a analizar cómo la empresa Panrico ha tratado de adaptar su pro ducto estrella, Donuts, a los requerimientos del mercado: las acciones de la competencia y las nuevas necesidades de los consumidores.
 
@@ -805,7 +858,7 @@ Con este cambio, la marca había traicionado el atributo fundamental del Donut, 
 Fueran percepciones reales o no, los consumidores dejaron de confiar en Donuts y desplaza ron su consumo a otras marcas. Aquello que la empresa pretendía evitar, lo había amplificado. Aunque también es posible atribuir la pérdida de facturación a otros motivos:
 
 1. El inicio de la crisis económica actual, que ha supuesto una bajada generalizada del consumo.
-2. Las campañas por una alimentación saludable y contra la obesidad infantil han supuesto un rechazo de la bollería industrial. El Donuts, con su nuevo envase, deja de percibirse como un producto «sano» de panadería y, en su lugar, se compran productos sustitutivos: cmasanes, magdalenas, etc.
+2. Las campañas por una alimentación saludable y contra la obesidad infantil han supuesto un rechazo de la bollería industrial. El Donuts, con su nuevo envase, deja de percibirse como un producto «sano» de panadería y, en su lugar, se compran productos sustitutivos: cruasanes, magdalenas, etc.
 3. Las mejoras tecnológicas han posibilitado la venta de productos ultracongelados simila res en grandes supermercados. De modo que el precio se abarata.
 
 ## La reacción al rechazo: dar marcha atrás
@@ -824,9 +877,11 @@ Y continúan los esfuerzos. Panrico sigue luchando por cambiar la mala imagen ge
 2. Razona si, a priori, el cambio de envase parecía acertado y por qué.
 3. Si con el cambio de envase las ventas aumentaron un 30%, ¿cómo es posible que la empresa estuviera al borde de la quiebra al cabo de un año?
 
+## Conceptos básicos
+
 En este apartado vamos a recordar algunos conceptos que te serán útiles para realizar la Simulación, tales como:
 
-departamentos plan de producción ét¡Cd empresarial plan de marketing organigrama mercado DAFO competencia proveedores Clientes distribuidores entomo
+departamentos plan de producción ética empresarial plan de marketing organigrama mercado DAFO competencia proveedores Clientes distribuidores entorno
 
 ## A. La empresa es un sistema
 
@@ -849,6 +904,7 @@ En el caso analizado de Donuts en el apartado de Emprendedores, hemos visto cóm
 ## Actividades
 
 1. En muchos supermercados se está implantando el sistema de autopago, de modo que son los clientes los que escanean su compra y luego pagan con tarjeta.
+
 - a) Considera todas las modificaciones que tuvieron lugar en los distintos departa mentos de la empresa y razona si estas tuvieron un impacto positivo o negativo, a corto y largo plazo.
 - h) Señala los aspectos generales del contexto socio-económico y político que pudie ron tener en cuenta para valorar la conveniencia del cambio.
 - c) Indica las reacciones más probables de los proveedores, competencia, clientes y distribuidores.
@@ -864,6 +920,12 @@ Con entorno hacemos referencia a todo aquello que rodea a la empresa (en el ámb
 El macroentorno o entorno general se refiere a aquellos factores que influyen en la empresa y que esta no puede controlar, y que afecta por igual a todas las empresas de una misma área geográfica. Su influencia en los resultados empresariales no suele ser tan importante como la del entorno específico o microentorno, pero aun así hay que tener en cuenta estos factores. Recordemos que, a su vez, las empresas también influyen en el entorno general, por ejemplo, generando un cambio legal o modificando los hábitos de la sociedad.
 
 Los factores que definen el macroentorno son: económicos, socioculturales, político-legales, tecnológicos y medioambientales.
+
+- Económicos: La coyuntura económica laboral, como desempleo elevado.
+- Socioculturales: Las características de ía sociedad, como el nivel educativo.
+- Político-legales: La normativa laboral, fiscal mercantil, como los trámites para constituir una empresa.
+- Tecnológicos: Las técnicas innovaciones que mejoran la eficiencia de la empresa, como la automatización de procesos productivos.
+- Medioambientales: Las acciones de protección del medio ambiente, como la gestión de residuos.
 
 Fig. 2.1. Factores del entorno general.
 
@@ -899,9 +961,23 @@ Los productos de la empresa LE O han estado tradicionalmente enfocados a un segm
 Los tres tipos de mercados (consumidores) que contempla la empresa en el marco de un estudio de mercado, son:
 
 1. El mercado potencial Se refiere a los posibles (potenciales) clientes de una empresa, es decir, aquellos que tienen interés en el producto y están además en disposición de adqui rirlo como, por ejemplo, aquellos que compran en la competencia. De entre todos ellos, la empresa se centra en los que más fácilmente pueden llegar a ser sus clientes, es decir, en su mercado objetivo.
+
 2. El mercado objetivo. Se refiere al público objetivo o targetgroup, que es el colectivo al que se dirige el producto. Especificar este colectivo hace más eficientes las acciones de marketing, a la vez que permite definir las características del producto que se va a ofrecer y detectar las necesidades que tiene que cubrir.
 
 Cuando el público objetivo compra su producto, dejan de ser mercado objetivo para con vertirse en mercado actual. A partir de ese momento, la empresa focalizará su atención en otro segmento de su mercado potencial. También puede dirigirse a otros colectivos porque la competencia aumenta y la compañía busca ampliar su mercado.
+
+3. El mercado actual está compuesto por quienes, efectivamente, compran el producto de
+   la empresa.
+
+## Ejemplo 3. Tipos de mercados
+
+El mercado potencial de una marca de secadores incluiría tanto los que compran secadores de otras marcas, como los que no los compran, tales como niños, personas calvas, etc. El mercado objetivo de la empresa LEGO actualmente es el público infantil femenino. Por ello, han lanzado recientemente una línea exclusiva de LEGOS para niñas, denominada LEGO Friends, que está adaptada los gustos intereses de este segmento del mercado. El mercado actual no siempre es fácil de mantener, como se percibe en el caso de LEGO, ya que los niños que hace 15 años compraban estas construcciones son ahora adultos. No obstante, la compañía trata de recuperarlos con el lanzamiento de unas construcciones más caras, ya que se trata de diseños complejos más cercanos su gusto, como son las inspiradas en la película la Guerra de las Galaxias.
+
+## Actividades
+
+3. La compañía Iberia ha decidido cerrar algunas de sus rutas habituales que ya está cubriendo el AVE, para ahorrar costes. ¿Cuál es el mercado potencial que espera conseguir Iberia con esta medida? Para responder la pregunta, puedes consultar el siguiente enlace: http://bitiy/SdykU9.
+
+Fuente: El Economista. Madrid, 31 de octubre de 2012 [en línea]
 
 ## Cuota de mercado
 
@@ -934,7 +1010,7 @@ Fuente: El Economista. Madrid, 31 de octubre de 2012 [en línea]
 ## Actividades
 
 4. La filial española de Mercedes-Benz tiene la previsión a medio plazo de alcanzar una cuota de mercado del 10% en el segmento de los vehículos comerciales ligeros con el lanzamiento del nuevo Citan, del que prevé comercializar unas 8000 unidades anuales. Para más información puedes consultar este enlace: http://bit.ly/11bz543.
-2. ¿Te parece una cuota de mercado alta para el sector del automóvil? ¿Por qué?
+5. ¿Te parece una cuota de mercado alta para el sector del automóvil? ¿Por qué?
 
 Fuente: El Economista. Madrid, 29 de octubre de 2012 [en línea].
 
@@ -1000,11 +1076,11 @@ Sirve como herramienta de diagnóstico pero también de cambio, al posibilitar l
 
 ## Ejemplo 6. Análisis DAFO ele la cafetería de un ÍES
 
-| Debilidades • Dificultad de incrementar su clientela: no es habi tual el acceso de personal ajeno al centro. • Mucha demanda en poco tiempo (media hora del recreo), que dificulta la calidad en el trato. | Amenazas • Negocios similares cercanos: bares, panaderías, etc. • Crisis económica: las familias prefieren ahorrar dinero y preparar un bocadillo casero. | Amenazas • Negocios similares cercanos: bares, panaderías, etc. • Crisis económica: las familias prefieren ahorrar dinero y preparar un bocadillo casero. | Amenazas • Negocios similares cercanos: bares, panaderías, etc. • Crisis económica: las familias prefieren ahorrar dinero y preparar un bocadillo casero. | Amenazas • Negocios similares cercanos: bares, panaderías, etc. • Crisis económica: las familias prefieren ahorrar dinero y preparar un bocadillo casero. | Amenazas • Negocios similares cercanos: bares, panaderías, etc. • Crisis económica: las familias prefieren ahorrar dinero y preparar un bocadillo casero. | Amenazas • Negocios similares cercanos: bares, panaderías, etc. • Crisis económica: las familias prefieren ahorrar dinero y preparar un bocadillo casero. | Amenazas • Negocios similares cercanos: bares, panaderías, etc. • Crisis económica: las familias prefieren ahorrar dinero y preparar un bocadillo casero. | Amenazas • Negocios similares cercanos: bares, panaderías, etc. • Crisis económica: las familias prefieren ahorrar dinero y preparar un bocadillo casero. |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Debilidades • Dificultad de incrementar su clientela: no es habi tual el acceso de personal ajeno al centro. • Mucha demanda en poco tiempo (media hora del recreo), que dificulta la calidad en el trato.                                                                           | Amenazas • Negocios similares cercanos: bares, panaderías, etc. • Crisis económica: las familias prefieren ahorrar dinero y preparar un bocadillo casero.                                                                                                                                          | Amenazas • Negocios similares cercanos: bares, panaderías, etc. • Crisis económica: las familias prefieren ahorrar dinero y preparar un bocadillo casero.                                                                                                                                          | Amenazas • Negocios similares cercanos: bares, panaderías, etc. • Crisis económica: las familias prefieren ahorrar dinero y preparar un bocadillo casero.                                                                                                                                          | Amenazas • Negocios similares cercanos: bares, panaderías, etc. • Crisis económica: las familias prefieren ahorrar dinero y preparar un bocadillo casero.                                                                                                                                          | Amenazas • Negocios similares cercanos: bares, panaderías, etc. • Crisis económica: las familias prefieren ahorrar dinero y preparar un bocadillo casero.                                                                                                                                          | Amenazas • Negocios similares cercanos: bares, panaderías, etc. • Crisis económica: las familias prefieren ahorrar dinero y preparar un bocadillo casero.                                                                                                                                          | Amenazas • Negocios similares cercanos: bares, panaderías, etc. • Crisis económica: las familias prefieren ahorrar dinero y preparar un bocadillo casero.                                                                                                                                          | Amenazas • Negocios similares cercanos: bares, panaderías, etc. • Crisis económica: las familias prefieren ahorrar dinero y preparar un bocadillo casero.                                                                                                                                          |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Fortalezas • Oferta variada: bocadillos, productos industriales, snacks, bebidas, etc. Oferta de productos que los alumnos no pueden traer de casa, como café caliente o refresco frío. Oferta de comida casera. astos de mantenimiento (luz, agua, calefacción, etc.) a bajo coste. | Oportunidades • Clientes asegurados: al no poder salir del instituto los alumnos de la ESO y tener poco tiempo los profesores para ir a un bar. • Comodidad para las familias: dar dinero a los hijos es más cómodo que prepararles un bocadillo. • Comodidad para los profesores: si van a un bar | Oportunidades • Clientes asegurados: al no poder salir del instituto los alumnos de la ESO y tener poco tiempo los profesores para ir a un bar. • Comodidad para las familias: dar dinero a los hijos es más cómodo que prepararles un bocadillo. • Comodidad para los profesores: si van a un bar | Oportunidades • Clientes asegurados: al no poder salir del instituto los alumnos de la ESO y tener poco tiempo los profesores para ir a un bar. • Comodidad para las familias: dar dinero a los hijos es más cómodo que prepararles un bocadillo. • Comodidad para los profesores: si van a un bar | Oportunidades • Clientes asegurados: al no poder salir del instituto los alumnos de la ESO y tener poco tiempo los profesores para ir a un bar. • Comodidad para las familias: dar dinero a los hijos es más cómodo que prepararles un bocadillo. • Comodidad para los profesores: si van a un bar | Oportunidades • Clientes asegurados: al no poder salir del instituto los alumnos de la ESO y tener poco tiempo los profesores para ir a un bar. • Comodidad para las familias: dar dinero a los hijos es más cómodo que prepararles un bocadillo. • Comodidad para los profesores: si van a un bar | Oportunidades • Clientes asegurados: al no poder salir del instituto los alumnos de la ESO y tener poco tiempo los profesores para ir a un bar. • Comodidad para las familias: dar dinero a los hijos es más cómodo que prepararles un bocadillo. • Comodidad para los profesores: si van a un bar | Oportunidades • Clientes asegurados: al no poder salir del instituto los alumnos de la ESO y tener poco tiempo los profesores para ir a un bar. • Comodidad para las familias: dar dinero a los hijos es más cómodo que prepararles un bocadillo. • Comodidad para los profesores: si van a un bar | Oportunidades • Clientes asegurados: al no poder salir del instituto los alumnos de la ESO y tener poco tiempo los profesores para ir a un bar. • Comodidad para las familias: dar dinero a los hijos es más cómodo que prepararles un bocadillo. • Comodidad para los profesores: si van a un bar |
-| | exterior hace frío, llueve, pierden más tiempo, | exterior hace frío, llueve, pierden más tiempo, | exterior hace frío, llueve, pierden más tiempo, | exterior hace frío, llueve, pierden más tiempo, | exterior hace frío, llueve, pierden más tiempo, | exterior hace frío, llueve, pierden más tiempo, | exterior hace frío, llueve, pierden más tiempo, | exterior hace frío, llueve, pierden más tiempo, |
-| | etc. | etc. | etc. | etc. | etc. | etc. | etc. | etc. |
+|                                                                                                                                                                                                                                                                                      | exterior hace frío, llueve, pierden más tiempo,                                                                                                                                                                                                                                                    | exterior hace frío, llueve, pierden más tiempo,                                                                                                                                                                                                                                                    | exterior hace frío, llueve, pierden más tiempo,                                                                                                                                                                                                                                                    | exterior hace frío, llueve, pierden más tiempo,                                                                                                                                                                                                                                                    | exterior hace frío, llueve, pierden más tiempo,                                                                                                                                                                                                                                                    | exterior hace frío, llueve, pierden más tiempo,                                                                                                                                                                                                                                                    | exterior hace frío, llueve, pierden más tiempo,                                                                                                                                                                                                                                                    | exterior hace frío, llueve, pierden más tiempo,                                                                                                                                                                                                                                                    |
+|                                                                                                                                                                                                                                                                                      | etc.                                                                                                                                                                                                                                                                                               | etc.                                                                                                                                                                                                                                                                                               | etc.                                                                                                                                                                                                                                                                                               | etc.                                                                                                                                                                                                                                                                                               | etc.                                                                                                                                                                                                                                                                                               | etc.                                                                                                                                                                                                                                                                                               | etc.                                                                                                                                                                                                                                                                                               | etc.                                                                                                                                                                                                                                                                                               |
 
 ## Actividades
 
@@ -1109,7 +1185,7 @@ Fase 7. Análisis del entorno general
 - Fase 9. Responsabilidad Social Corpo rativa
 - Fase 10. Análisis DAFO
 
-*-----------------*
+_-----------------_
 
 otras según se comercialice un producto que se elabora o bien según se ofrezca un servicio. En ocasiones, las empresas ofrecen tanto productos como servicios.
 
@@ -1223,6 +1299,7 @@ Es el momento de tomar decisiones sobre el servicio o servicios que ofrecéis en
 - b) Identificación de las necesidades que satisfacen, los elementos que os diferencian de la competencia y las innovaciones incorporadas. No se trata de repetir las mismas ideas que elaborasteis en la Unidad 1, sino de añadir algunas nuevas si han ido sur giendo desde entonces.
 - c) Descripción del servicio que ofrecéis, tales como variedades, estilo, etc.
 - d) Nombre del servicio, en caso de tener una denominación concreta.
+
 5. ej Concreción de los aspectos básicos de la actividad ofrecida: consideraciones generales a tener en cuenta antes de poner en marcha el negocio. Igual que en la Fase 1, dejare mos para unidades posteriores la estimación de las necesidades materiales y humanas.
 
 ## Fase 3. Fijación del precio
@@ -1245,7 +1322,7 @@ El paso de un enfoque basado en el producto a otro basado en el cliente, no solo
 
 ## Ejemplo
 
-Un ejemplo reciente nos lo proporciona la compañía Nintendo con el lanzamiento de la Wi¡. Antes de desarrollar el producto, se focalizaron en el precio que consideraron que los potenciales compradores estarían dispuestos a pagar. Al predeterminarse el precio de venta en unos 211 dólares, los diseñadores del producto rápidamente abandonaron la ¡dea inicial de incorporar gráficos de alta definición. Como resultado, Nintendo puede vender la Wii a un precio menor que sus competidores: Sony (Playstation) o Microsoft (Xbox) y tener un margen de benéficos mayor. La estrategia de estos otros dos grandes fabricantes es vender la máquina con beneficios escasos o nulos, a cambio de generar ingresos por los videojuegos vendidos. Nintendo, por el contrario, ha logrado ganar dinero con uno y otro.
+Un ejemplo reciente nos lo proporciona la compañía Nintendo con el lanzamiento de la Wi¡. Antes de desarrollar el producto, se focalizaron en el precio que consideraron que los potenciales compradores estarían dispuestos a pagar. Al predeterminarse el precio de venta en unos 211 dólares, los diseñadores del producto rápidamente abandonaron la idea inicial de incorporar gráficos de alta definición. Como resultado, Nintendo puede vender la Wii a un precio menor que sus competidores: Sony (Playstation) o Microsoft (Xbox) y tener un margen de benéficos mayor. La estrategia de estos otros dos grandes fabricantes es vender la máquina con beneficios escasos o nulos, a cambio de generar ingresos por los videojuegos vendidos. Nintendo, por el contrario, ha logrado ganar dinero con uno y otro.
 
 ## Actividad de simulación 3
 
@@ -1290,7 +1367,7 @@ En esta fase deberás especificar cuál será tu mercado o público objetivo. Pa
 
 ## Ayuda práctica:
 
-- a) Puede ser buena ¡dea comenzar decidiendo si os dirigís mayoritariamente a hombres, a mujeres o a ambos sexos por igual. Después, elige otros segmentos, como tramo de edad, nivel adquisitivo, ámbito geográfico, ocupación laboral, estilo de vida, etc.
+- a) Puede ser buena idea comenzar decidiendo si os dirigís mayoritariamente a hombres, a mujeres o a ambos sexos por igual. Después, elige otros segmentos, como tramo de edad, nivel adquisitivo, ámbito geográfico, ocupación laboral, estilo de vida, etc.
 - b) Trata de describir, con el mayor nivel de concreción posible, a los clientes potenciales. Cuanto más lo concretes para cada segmento, más fácil te resultará tomar decisiones.
 - c) Revisa las decisiones adoptadas en las tres fases anteriores y comprueba que el plan teamiento de vuestro negocio es coherente. Es posible que al concretar el mercado objetivo haya que introducir modificaciones respecto al precio o respecto a las carac terísticas de los productos o servicios. Realiza estos cambios antes de continuar.
 
@@ -1324,7 +1401,7 @@ Las gafas oogle con conexión a Internet, que permiten navegar a través de sus 
 
 ## Diseñar un producto que muestre la preocupación por el cliente
 
-Las marcas de coches están focalizadas en la apariencia o en las prestaciones de los coches. Nissan está focalizando su atención en el cliente. Así, trabaja en la ¡dea de automóviles con trolados por nuestros pensamientos. El vehículo sería capaz de entender lo que el conductor piensa y hacerlo por él, lo que elevaría la seguridad de sus coches.
+Las marcas de coches están focalizadas en la apariencia o en las prestaciones de los coches. Nissan está focalizando su atención en el cliente. Así, trabaja en la idea de automóviles con trolados por nuestros pensamientos. El vehículo sería capaz de entender lo que el conductor piensa y hacerlo por él, lo que elevaría la seguridad de sus coches.
 
 ## Actividad de simulación 5
 
@@ -1333,9 +1410,11 @@ En esta fase deberás realizar un estudio para conocer a tus competidores más c
 ## Ayuda práctica
 
 - a) Si realizas tu búsqueda por Internet podrás:
+
 1. Utilizar un buscador cualquiera. Por ejemplo, si vuestro negocio fuera de venta de ropa de segunda mano online, puedes buscar «comprar ropa segunda mano». Si la búsqueda no es exitosa prueba a precisar más el criterio de búsqueda, como «comprar ropa segunda mano online». Si resultara excesiva, prueba a limitar la zona geográfica «(...) en España».
 2. Utilizar la herramienta oogle Maps, que permite realizar una búsqueda específi ca introduciendo en el buscador las palabras «negocios de (...)» y la localidad de referencia.
 3. Usar la herramienta oogle Places for Business, que permite ver el interior de los negocios, lo que mejorará tu percepción del estilo y apariencia de tu competencia.
+
 - b) Anota toda la información que encuentres de los competidores, limitado a un número manejable que situaremos entre cinco y diez empresas.
 - c) A continuación tendrás que profundizar en el conocimiento de la competencia, todo lo que averigües ahora te ahorrará trabajo posterior. Al menos, deberías conseguir identificar sus puntos fuertes y, por tanto, en qué os vais a diferenciar.
 - d) Trata de averiguar cuál es la cuota de mercado de la compañía líder, realizando bús quedas concretas como «cuota de mercado de (...)». Junto a ese dato suele aparecer la cantidad de ventas en unidades que realizan para tener esa cuota. Anotad toda esa información.
@@ -1463,7 +1542,9 @@ En esta fase deberás identificar qué puestos de trabajo consideras necesarios 
 - h) Haz la distribución de funciones pensando en los departamentos de la empresa. Al principio, es habitual que varios departamentos estén unidos para simplificar la es tructura organizativa, por ejemplo, el departamento de compra-venta podría ser uno solo, o el departamento administrativo y el de personal.
 - c) Completado el proceso, si hay áreas que quedan sin cubrir, puedes tomar dos de cisiones: formarte y especializarte para cubrir las lagunas que existen o contratar o subcontratar personal especializado que realice esas funciones.
 - Si contratas trabajadores, por ejemplo, un contable, él formará parte de tu com pañía, con lo que contraes obligaciones de cara a la Segundad Social, Servicio de Empleo y Hacienda.
+
 5. 8 Si subcontratas una empresa, por ejemplo, una gestoría, esta se compromete a reali zar el servicio que le encomiendas a cambio de una cantidad pactada. Tus obligacio nes con Hacienda siguen existiendo, pero nada más. Por el contrarío, suele ser una opción más cara y que te deja menos margen de maniobra.
+
 - d) Por último, decide junto a tus socios la estructura jerárquica de la empresa y elaborad el organigrama.
 
 ## Fase 9. Responsabilidad Social Corporativa
@@ -1519,76 +1600,102 @@ Las actividades de simulación efectuadas en esta unidad te han servido para rea
 ## 2. Plan de producción
 
 - a) Incorpora todas las decisiones adoptadas sobre los productos y/o los servicios que ofrece vuestra empresa, incluido el listado con los precios de cada uno de ellos.
-- h) Describe la organización de la empresa a través de sus distintos departamentos: las funciones de cada uno, la jerarquía, los puestos de trabajo asociados. Incor pora la ¡dea de una posible necesidad de contratar personal o de subcontratar empresas especializadas.
+- h) Describe la organización de la empresa a través de sus distintos departamentos: las funciones de cada uno, la jerarquía, los puestos de trabajo asociados. Incor pora la idea de una posible necesidad de contratar personal o de subcontratar empresas especializadas.
 - c) Incorpora el organigrama realizado.
 
 1. La afirmación de que la empresa es un sistema implica que:
+
 - a) Está formada por departamentos que comparten el mismo objetivo.
 - b) Está influida por el entorno.
 - c) Influye en el medio que la rodea.
 - d) Todas son correctas.
+
 2. El entorno general está constituido por:
+
 - a) Factores económicos, estéticos, prácticos y tecnológicos.
 - h) Clientes, competencia, proveedores y distribuidores.
 - c) Factores económicos, político-legales y medioambientales, entre otros.
 - d) Ninguna es correcta.
+
 3. El entorno específico está integrado por:
+
 - a) Clientes, competencia, proveedores y distribuidores.
 - b) Los elementos más cercanos a la actividad de la empresa.
 - c) Aquellos elementos sobre los que la empresa puede influir más directamente.
 - d) Todas son ciertas.
+
 4. El análisis DAFO analiza:
+
 - a) Amenazas, Debilidades, Fortalezas y Ocasiones.
 - b) Actividades, Debilidades, Fortalezas y Oportunidades.
 - c) Amenazas, Decisiones, Fortalezas y Oportunidades.
 - d) Amenazas, Debilidades, Fortalezas y Oportunidades.
+
 5. Segmentar el mercado consiste en:
+
 - a) Dividirlo en función de la localidad de residencia, por ejemplo.
 - b) Establecer grupos diferenciados según su capacidad de compra.
 - c) Establecer grupos de consumidores de intereses similares.
 - d) Todas son correctas.
+
 6. ¿Qué significan las siglas RSC?
+
 - a) Responsabilidad Social Colaborativa.
 - b) Reclamo Social Corporativo.
 - c) Responsabilidad Social Cooperativa.
 - d) Responsabilidad Social Corporativa.
+
 7. El balance social es un documento que:
+
 - a) Permite a las empresas planificar el coste de las inversiones materiales.
 - b) Posibilita la toma de decisiones relativas a la gestión del personal.
 - c) Resume las acciones de la empresa relativas a la Responsabilidad Social Corporativa.
 - d) Es obligatorio realizar antes de la finalización del año en curso.
 
 8. Un producto sustitutivo del aceite de oliva sería, por ejemplo:
+
 - a) El aceite de girasol
 - b) La mantequilla.
 - c) La grasa del tocino.
 - d) Todas son correctas.
+
 9. ¿Qué es la cuota de mercado?
+
 - a) El porcentaje de clientes de una empresa en relación con los que tiene el líder del mercado.
 - b) El porcentaje de clientes de una empresa en relación con los que tiene la competencia.
 - c) El porcentaje de clientes de una empresa en relación con los clientes totales del pro ducto en el mercado.
 - d) Todas son correctas.
+
 10. El mercado actual de una empresa constituye el:
+
 - a) Mercado potencial de otra empresa.
 - b) Mercado actual de otra empresa.
 - c) Cuota de mercado de otra empresa.
 - d) Ninguna es correcta.
+
 11. Nuestro mercado actual se refiere a:
+
 - a) El mercado potencial que tratamos de convertir en mercado meta.
 - b) El mercado objetivo que tratamos de convertir en mercado potencial.
 - c) Los clientes que ya consumen nuestros productos.
 - d) Los clientes de la competencia que intentamos ganarnos.
+
 12. El líder del mercado es aquella compañía que tiene:
+
 - a) Mayor mercado potencial.
 - b) Mayor mercado meta.
 - c) Mayor cuota de mercado.
 - d) Ninguna es correcta.
+
 13. Modificar la apariencia del local sería diferenciarse de la competencia tomando como base el factor:
+
 - a) Práctico.
 - b) Económico.
 - c) Estético.
 - d) Tecnológico.
+
 14. El marketing mix toma decisiones sobre producto, precio, distribución y...
+
 - a) Proveedores.
 - b) Publicidad.
 - c) Propaganda.
@@ -1603,35 +1710,43 @@ Las actividades de simulación efectuadas en esta unidad te han servido para rea
 7. Piensa en los últimos eslóganes de Donuts. ¿Qué transmiten? ¿Qué relación guardan con dos de las imágenes habituales en su envase: un sol radiante amarillo y un rostro femeni no sonriendo, donde la sonrisa estaba formada por un Donut partido por la mitad?
 8. Razona si es positivo o negativo que haya competencia en el mercado, tanto desde el punto de vista del consumidor como desde la perspectiva de las empresas.
 9. Explica por qué razón los locales de restauración o las tiendas de ropa se concentran en una misma calle o centro comercial.
-10. Busca dos maneras diferentes por las que una empresa podría anticipar la reacción del consumidor ante un cambio en su producto. Trata de pensar ¡deas originales.
+10. Busca dos maneras diferentes por las que una empresa podría anticipar la reacción del consumidor ante un cambio en su producto. Trata de pensar ideas originales.
 11. Explica cómo se calcula una cuota de mercado. Para ello, puedes consultar el artícu lo «Cómo calcular una cuota de mercado», de la web de InnovarECorp (http://www. innovare-corp.com).
 12. Razona si aumentar la cuota de mercado implica aumentar la rentabilidad, es decir, incre mentar el beneficio (como ayuda, puedes leer el artículo «El mito de la cuota de merca do», en el blog de Marketísimo: http://marketisimo.blogspotxo.uk).
-14. Razona la utilidad de un análisis DAFO.
-15. Realiza un análisis DAFO de una empresa cualquiera de transporte por carretera.
-16. Reflexiona sobre las acciones de Responsabilidad Social Corporativa que llevan a cabo las empresas y responde:
+13. Razona la utilidad de un análisis DAFO.
+14. Realiza un análisis DAFO de una empresa cualquiera de transporte por carretera.
+15. Reflexiona sobre las acciones de Responsabilidad Social Corporativa que llevan a cabo las empresas y responde:
+
 - a) ¿Crees que los consumidores valoran estas prácticas?
 - h) ¿Crees que son necesarias o prescindibles para las empresas?
 - c) ¿Crees que es una práctica habitual o que solo las realizan las empresas que tienen una imagen corporativa negativa en la sociedad?
 - d) ¿Crees que son más valoradas entre los consumidores las relativas a la protección del medio ambiente, las de índole social o las que afectan al personal de la empresa?
 
 17. La imagen corporativa de una empresa se refiere a lo que se percibe de ella.
+
 - a) Identifica qué imagen corporativa tienes de El Corte Inglés y contrástala con la que tienen tus compañeros de clase.
 - b) ¿Es un acto intencional de la empresa comunicar su imagen corporativa? En caso de contestar afirmativamente, reflexiona sobre estas cuestiones: ¿quién crees que se encarga de ello? y ¿qué medios utiliza para crear y difundir esta imagen corporativa entre los consumidores?
 - c) ¿Coincidirá la imagen corporativa que los clientes de una empresa tengan de ella con la que tengan las personas que no sean clientes de ella?
+
 18. Busca ejemplos de responsabilidad social corporativa recientes. ¿Es fácil localizar estas medidas en Internet? ¿A qué crees que se debe?
 19. Busca el significado de balance social.
+
 - a) ¿En qué se diferencia de la Responsabilidad Social Corporativa?
 - b) Prueba a buscar el balance social de alguna empresa y razona si es más fácil localizar esta información o la relativa a la Responsabilidad Social Corporativa.
 - c) ¿Crees que los consumidores valoran este tipo de información?
 - d) ¿Crees que las empresas están sensibilizadas sobre la importancia de realizar accio nes de este tipo para mejorar la rentabilidad del negocio?
+
 20. Razona cómo podría una compañía valorar el impacto obtenido de una acción de Respon sabilidad Social Corporativa realizada. ¿Se te ocurre alguna forma de cuantificar en tér minos económicos las consecuencias de estas acciones para las empresas? Ten en cuen ta que tienes que introducir los gastos y las ganancias.
 21. Indica qué tipo de acciones realizan las empresas para averiguar cuál es su cuota de mer cado. Razona cómo pueden conocer cuál es el mercado actual de las otras compañías y si existe un margen de error al respecto.
 22. Selecciona un restaurante de comida rápida cualquiera.
+
 - a) Analiza cuál es su mercado actual y cuál es su mercado potencial. Para ello, tienes que realizar una segmentación de mercado, de manera que identifiques el mercado actual y el potencial mediante segmentos.
 - b) Razona cuál podría ser su mercado meta.
 - c) Inventa una acción empresarial que podrían realizar para atraer a parte de ese mer cado potencial y convertirlo en mercado actual
+
 23. Averigua qué instituciones, tanto públicas como privadas, valoran las acciones éticas que llevan a cabo las empresas y lo expresan mediante un reconocimiento público. Como ejemplo, te proponemos que busques información sobre el «Sello Q» de establecimien tos turísticos.
 24. Analiza qué factores económicos definen la realidad empresarial actual en España.
+
 - a) ¿Hay algún país de la Unión Europea donde el entorno sea diferente?
 - b) ¿Crees que esa realidad afecta por igual a todas las compañías o que depende del sector de actividad? Razona tu respuesta.
 
@@ -1722,47 +1837,48 @@ hacienda forma jurídica seguridad social licencias capital social permisos regi
 Las empresas se clasifican en función de la titularidad de quien la ostenta y la responsabilidad legal de sus propietarios. Según este criterio jurídico las empresas se dividen en:
 
 - Empresa pública. Son aquellas empresas que están bajo control del gobierno, ya sea cen tral, autonómico o local La administración será, por tanto, titular de la compañía o de parte de ella.
+
 * Empresa privada. Son entidades creadas por individuos particulares para desarrollar una actividad económica a fin de conseguir beneficios. Según el número de personas que la constituyan, el capital social mínimo necesario y la responsabilidad de los socios, adquieren una denominación u otra.
 
 En la Tabla 3.1 se exponen las principales formas jurídicas que una empresa puede adoptaren el momento de constituirse.
 
 Tabla 3.1. Principales formas jurídicas de una empresa.
 
-| Empresario individual | | | | | No hay | | |
-|-----------------------------------------------|----------------------|---------------------|------------------|----------|-------------------------------|---------------------------|-------------------------------------------------------|
-| Sociedad Limitada Incluye S.L | A partir de 1 socio | Desde 3000€ | No límite | existe | Limitada y/o | Capitalistas trabajadores | Junta general de socios Administrador/es |
-| Sociedad Limitada Nueva Incluye S.LN.E. | Del a 5 socios | Entre 3000 y 120000 | € | | | | Junta general de socios Administrador/es |
-| Sociedad Anónima (S.A.) Incluye S.A. | A partir de 1 socio | Desde 60 000 € | No existe límite | Limitada | Capitalistas y/o trabajadores | | Junta general de accionistas Administradores Auditor |
-| Sociedad Cooperativa (SXoop.) Incluye S.Coop. | A partir de 3 socios | Según los estatutos | 1/3 | Limitada | Trabajadores | | Asamblea general Consejo rector Interventores |
-| Sociedad Limitada Laboral Incluye S.LL | A partir de 3 socios | Desde 3000€ | 1/3 | | Limitada 51% | trabajadores | Junta general de socios Administrador/es |
-| Sociedad Anónima Laboral (SAL) Incluye S.A.L. | A partir de 3 socios | Desde 60 000 € | | 1/3 | Limitada 51% | trabajadores | Junta general de accionistas Administrador/es Auditor |
+| Empresario individual                         |                      |                     |                  |          | No hay                        |                           |                                                       |
+| --------------------------------------------- | -------------------- | ------------------- | ---------------- | -------- | ----------------------------- | ------------------------- | ----------------------------------------------------- |
+| Sociedad Limitada Incluye S.L                 | A partir de 1 socio  | Desde 3000€         | No límite        | existe   | Limitada y/o                  | Capitalistas trabajadores | Junta general de socios Administrador/es              |
+| Sociedad Limitada Nueva Incluye S.LN.E.       | Del a 5 socios       | Entre 3000 y 120000 | €                |          |                               |                           | Junta general de socios Administrador/es              |
+| Sociedad Anónima (S.A.) Incluye S.A.          | A partir de 1 socio  | Desde 60 000 €      | No existe límite | Limitada | Capitalistas y/o trabajadores |                           | Junta general de accionistas Administradores Auditor  |
+| Sociedad Cooperativa (SXoop.) Incluye S.Coop. | A partir de 3 socios | Según los estatutos | 1/3              | Limitada | Trabajadores                  |                           | Asamblea general Consejo rector Interventores         |
+| Sociedad Limitada Laboral Incluye S.LL        | A partir de 3 socios | Desde 3000€         | 1/3              |          | Limitada 51%                  | trabajadores              | Junta general de socios Administrador/es              |
+| Sociedad Anónima Laboral (SAL) Incluye S.A.L. | A partir de 3 socios | Desde 60 000 €      |                  | 1/3      | Limitada 51%                  | trabajadores              | Junta general de accionistas Administrador/es Auditor |
 
 En la Tabla 3.2 se muestra el número de empresas fundadas entre los años 2009-2011 en cada comunidad autónoma, organizadas según su forma jurídica.
 
 Tabla 3.2. Estadística sobre creación de empresas en España para el periodo 2009-2011 (datos elaborados a partir del Registro Mercantil Central).
 
-| | S.A. | S.A. | S.A. | S.L | S.L | S.L | Otras formas | Otras formas | Otras formas |
-|----------------------|--------|--------|--------|-------|-------|-------|----------------|----------------|----------------|
-| | 2009 | 2010 | 2011 | 2009 | 2010 | 2011 | 2009 | 2010 | 2011 |
-| Andalucía | 96 | 80 | 52 | 12074 | 12260 | 13975 | 789 | 737 | 635 |
-| Aragón | 24 | 18 | 31 | 1780 | 1733 | 1686 | 128 | 125 | 116 |
-| Asturias | 13 | 13 | 7 | 1080 | 1145 | 1185 | 83 | 98 | 106 |
-| Cantabria | 10 | 5 | 4 | 640 | 718 | 695 | 33 | 27 | 24 |
-| Castilla-La Mancha | 26 | 15 | 15 | 2 791 | 2 546 | 2 707 | 150 | 138 | 94 |
-| Castilla y León | 27 | 23 | 14 | 2 725 | 2993 | 2808 | 162 | 137 | 120 |
-| Cataluña | 127 | 131 | 90 | 12148 | 14825 | 13823 | 1113 | 576 | 567 |
-| Ceuta | 0 | 0 | 0 | 68 | 83 | 62 | 1 | 1 | 0 |
-| Comunidad de Madrid | 218 | 248 | 260 | 15160 | 16445 | 17072 | 772 | 787 | 629 |
-| Comunidad Valenciana | 75 | 74 | 63 | 8417 | 8974 | 9390 | 439 | 373 | 328 |
-| Extremadura | 14 | 6 | 4 | 1047 | 1094 | 1069 | 50 | 67 | 37 |
-| alicia | 22 | 45 | 32 | 3610 | 3857 | 3869 | 251 | 197 | 185 |
-| Islas Baleares | 10 | 10 | 7 | 2034 | 2 227 | 1962 | 87 | 49 | 32 |
-| Islas Canarias | 18 | 11 | 24 | 2657 | 2635 | 3060 | 222 | 147 | 119 |
-| Logroño | 5 | 2 | 0 | 376 | 380 | 370 | 18 | 18 | 15 |
-| Melilla | 0 | 0 | 0 | 74 | 60 | 70 | 3 | 5 | 6 |
-| Murcia | 21 | 11 | 10 | 2185 | 2115 | 2441 | 167 | 159 | 153 |
-| Navarra | 8 | 5 | 8 | 902 | 892 | 866 | 46 | 49 | 35 |
-| PaísVasco | 42 | 42 | 34 | 1256 | 2975 | 2985 | 117 | 143 | 114 |
+|                      | S.A. | S.A. | S.A. | S.L   | S.L   | S.L   | Otras formas | Otras formas | Otras formas |
+| -------------------- | ---- | ---- | ---- | ----- | ----- | ----- | ------------ | ------------ | ------------ |
+|                      | 2009 | 2010 | 2011 | 2009  | 2010  | 2011  | 2009         | 2010         | 2011         |
+| Andalucía            | 96   | 80   | 52   | 12074 | 12260 | 13975 | 789          | 737          | 635          |
+| Aragón               | 24   | 18   | 31   | 1780  | 1733  | 1686  | 128          | 125          | 116          |
+| Asturias             | 13   | 13   | 7    | 1080  | 1145  | 1185  | 83           | 98           | 106          |
+| Cantabria            | 10   | 5    | 4    | 640   | 718   | 695   | 33           | 27           | 24           |
+| Castilla-La Mancha   | 26   | 15   | 15   | 2 791 | 2 546 | 2 707 | 150          | 138          | 94           |
+| Castilla y León      | 27   | 23   | 14   | 2 725 | 2993  | 2808  | 162          | 137          | 120          |
+| Cataluña             | 127  | 131  | 90   | 12148 | 14825 | 13823 | 1113         | 576          | 567          |
+| Ceuta                | 0    | 0    | 0    | 68    | 83    | 62    | 1            | 1            | 0            |
+| Comunidad de Madrid  | 218  | 248  | 260  | 15160 | 16445 | 17072 | 772          | 787          | 629          |
+| Comunidad Valenciana | 75   | 74   | 63   | 8417  | 8974  | 9390  | 439          | 373          | 328          |
+| Extremadura          | 14   | 6    | 4    | 1047  | 1094  | 1069  | 50           | 67           | 37           |
+| alicia               | 22   | 45   | 32   | 3610  | 3857  | 3869  | 251          | 197          | 185          |
+| Islas Baleares       | 10   | 10   | 7    | 2034  | 2 227 | 1962  | 87           | 49           | 32           |
+| Islas Canarias       | 18   | 11   | 24   | 2657  | 2635  | 3060  | 222          | 147          | 119          |
+| Logroño              | 5    | 2    | 0    | 376   | 380   | 370   | 18           | 18           | 15           |
+| Melilla              | 0    | 0    | 0    | 74    | 60    | 70    | 3            | 5            | 6            |
+| Murcia               | 21   | 11   | 10   | 2185  | 2115  | 2441  | 167          | 159          | 153          |
+| Navarra              | 8    | 5    | 8    | 902   | 892   | 866   | 46           | 49           | 35           |
+| PaísVasco            | 42   | 42   | 34   | 1256  | 2975  | 2985  | 117          | 143          | 114          |
 
 ## Franquicias
 
@@ -1775,9 +1891,11 @@ El franquiciado puede adoptar cualquier forma jurídica, salvo que el franquicia
 ## Actividades
 
 1. Visita la web http://www.guiaespana.com.es, escoge un sector profesional y rea liza las siguientes actividades:
+
 - a) Selecciona, del listado de empresas resultante, dos ejemplos de cada forma jurídica.
 - b) Observa si hay alguna forma jurídica que no aparece relacionada y razónalo.
 - c) Indica qué forma jurídica es más habitual y razona a qué se puede deber.
+
 2. Explica por qué es más fácil constituir una empresa como empresario individual que con cualquier otro tipo de modalidad jurídica.
 
 ## B. Trámites para la creación de la empresa
@@ -1810,10 +1928,10 @@ En esta unidad se analizarán todos los trámites necesarios para el inicio de u
 
 Tabla 3.3. Trámites para el inicio de una actividad empresarial.
 
-| ÜBfliHi | | iiisiiiiiiiifiS^^B^a |
-|-----------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Empresario individual | ' No requiere ningún trámite específico. | • AltaenellAE. • Alta en el IVA. • Declaración previa de inicio de actividad. • Elección régimen IRPF. • Alta en el RETA. • Inscripción de la empresa en la Seguridad Social (si contrata trabajadores). • Afiliación y alta de los trabajadores. • Legalización de libros oficiales. |
-| Sociedades | • Certificación negativa de la denominación social. • Apertura de cuenta bancaria. • Redacción de los estatutos. • Firma de la escritura. • Liquidación del ITP/AJD. • Solicitud del CIF. • Inscripción en el Registro Mercantil. | • Obtención del CIF. • Legalización de los libros. • Alta en el IAE. • Alta en el IVA. • Declaración previa de inicio de actividad. • Alta en el RETA de los socios. • Inscripción de la empresa en la Seguridad Social (si contrata trabajadores). • Afiliación y alta de los trabajadores en el Régimen eneral. • Comunicación de apertura. • Sellado del libro de visitas. • Solicitud de licencias municipales. • Inscripción en el Registro de la Propiedad o Industrial. |
+| ÜBfliHi               |                                                                                                                                                                                                                                   | iiisiiiiiiiifiS^^B^a                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| --------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Empresario individual | ' No requiere ningún trámite específico.                                                                                                                                                                                          | • AltaenellAE. • Alta en el IVA. • Declaración previa de inicio de actividad. • Elección régimen IRPF. • Alta en el RETA. • Inscripción de la empresa en la Seguridad Social (si contrata trabajadores). • Afiliación y alta de los trabajadores. • Legalización de libros oficiales.                                                                                                                                                                                          |
+| Sociedades            | • Certificación negativa de la denominación social. • Apertura de cuenta bancaria. • Redacción de los estatutos. • Firma de la escritura. • Liquidación del ITP/AJD. • Solicitud del CIF. • Inscripción en el Registro Mercantil. | • Obtención del CIF. • Legalización de los libros. • Alta en el IAE. • Alta en el IVA. • Declaración previa de inicio de actividad. • Alta en el RETA de los socios. • Inscripción de la empresa en la Seguridad Social (si contrata trabajadores). • Afiliación y alta de los trabajadores en el Régimen eneral. • Comunicación de apertura. • Sellado del libro de visitas. • Solicitud de licencias municipales. • Inscripción en el Registro de la Propiedad o Industrial. |
 
 ## I Trámites de constitución
 
@@ -1821,10 +1939,11 @@ Los trámites de constitución son los que hacen que la empresa tenga personalid
 
 Estos trámites varían según la forma jurídica elegida:
 
-* El empresario individual no requiere ningún trámite específico para su constitución al tratarse de una persona individual.
-- Las sociedades deben cumplir varios requisitos que se detallan a continuación.
+- El empresario individual no requiere ningún trámite específico para su constitución al tratarse de una persona individual.
 
-- [ ] D Certificación negativa de la denominación social
+* Las sociedades deben cumplir varios requisitos que se detallan a continuación.
+
+* [ ] D Certificación negativa de la denominación social
 
 Documento expedido por el Registro Mercantil Central (RMC) donde se indica que el nombre elegido para nuestra sociedad no lo utiliza otra empresa. Una vez confirmado, el RMC reserva durante un tiempo el nombre mientras se cumplen el resto de los trámites. A este nombre se le añadirán obligatoriamente las siglas que indican la forma jurídica de la sociedad.
 
@@ -1834,9 +1953,10 @@ El Registro Mercantil (RM) es una oficina pública donde todas las empresas tien
 
 5. Indica por qué es necesario añadir las siglas a la denominación de la empresa.
 6. Resuelve las siguientes cuestiones relacionadas con el Registro Mercantil Central (RMC):
+
 - a) Averigua cuánto tiempo se mantiene reservado el nombre elegido para la sociedad.
 - h) Averigua qué coste tiene solicitar la Certificación negativa de la denominación so cial, para ello consulta la web http://www.rmc.es/Deno\_solicitud.aspx?lang=es.
-- c) Lee los consejos que propone el RMC para elegir una denominación social e indi ca cuál es el que más te ha sorprendido y por qué motivo http://www.rmc.es/ denominaci©nesSocialeslnfo/Deno\_informacion.aspx.
+- c) Lee los consejos que propone el RMC para elegir una denominación social e indi ca cuál es el que más te ha sorprendido y por qué motivo http://www.rmc.es/ denominaci©nesSocialeslnfo/Deno_informacion.aspx.
 
 - [ ] D Apertura de cuenta bancaria
 
@@ -1873,8 +1993,10 @@ La sociedad adquiere plena capacidad jurídica cuando se inscribe en el Registro
 ## Actividades
 
 8. Averigua qué documentos hay que presentar en las siguientes situaciones:
+
 - a) Para solicitar la calificación previa necesaria para las cooperativas y sociedades.
 - h) Cuando se acude al notario para firmar la escritura pública de constitución.
+
 9. Averigua dónde se procede al pago del ITP/AJD, qué documentación es necesaria y de qué plazo se dispone.
 10. Averigua el lugar donde debe solicitarse el CIF, la documentación necesaria para presentar la solicitud y el plazo de entrega.
 11. Averigua el plazo y la documentación necesaria a presentar para inscribir a la empre sa en el Registro Mercantil.
@@ -1953,17 +2075,20 @@ VS
 
 Algunas actividades que deben inscribirse en el Registro Industrial son:
 
-* Las actividades dirigidas a la recuperación y eliminación de residuos.
-- Las actividades de generación, distribución y suministro de la energía y productos energéticos.
-* Las instalaciones nucleares y radiactivas.
-- Las industrias de fabricación de armas y explosivos y aquellas que se declaren de interés para la defensa nacional.
-- 9 Las industrias alimentarias, agrarias, pecuarias, forestales y pesqueras.
+- Las actividades dirigidas a la recuperación y eliminación de residuos.
+
+* Las actividades de generación, distribución y suministro de la energía y productos energéticos.
+
+- Las instalaciones nucleares y radiactivas.
+
+* Las industrias de fabricación de armas y explosivos y aquellas que se declaren de interés para la defensa nacional.
+* 9 Las industrias alimentarias, agrarias, pecuarias, forestales y pesqueras.
 
 ## Actividades
 
 12. El invento de la fregona no estuvo exento de polémica. La autoría del invento se atribuye a Manuel Jalón desde que la Audiencia Provincial de Zaragoza lo ratificara en abril de 2009, en virtud de la patente número 298240. No obstante, la autoría estuvo disputada por otra persona. Averigua con quién y por qué.
-2. Para ello, puedes consultar esta página web: http://queinventenellos.com/quieninvento-la-fregona.
-13. Entra en la web de la Oficina de Patentes y Marcas Españolas (www.oepm.es) y averigua: si una empresa puede registrar una marca, un nombre comercial, un diseño, un cambio estético de un producto, un eslogan o un logotipo, y las tasas a abonar.
+13. Para ello, puedes consultar esta página web: http://queinventenellos.com/quieninvento-la-fregona.
+14. Entra en la web de la Oficina de Patentes y Marcas Españolas (www.oepm.es) y averigua: si una empresa puede registrar una marca, un nombre comercial, un diseño, un cambio estético de un producto, un eslogan o un logotipo, y las tasas a abonar.
 
 ## CTrámites específicos según la actividad
 
@@ -1977,10 +2102,12 @@ Algunas actividades profesionales están reguladas por reglamentos de seguridad 
 
 Será necesario disponer de un carné profesional para realizar las siguientes actividades:
 
-* Instalaciones térmicas en los edificios: instalador frigorista, de calderas, de gas, de fonta nería, etc.
-- Operador de grúas torre.
-- Operador de grúas móviles autopropulsadas.
-* Maquinista y palista minero.
+- Instalaciones térmicas en los edificios: instalador frigorista, de calderas, de gas, de fonta nería, etc.
+
+* Operador de grúas torre.
+* Operador de grúas móviles autopropulsadas.
+
+- Maquinista y palista minero.
 
 ## Carnés y certificados de empresa: Documento de Calificación Empresarial
 
@@ -1989,6 +2116,7 @@ Las empresas que realizan actividades de instalación, mantenimiento o revisión
 ## Actividades
 
 14. Resuelve las siguientes cuestiones relacionadas con los carnés profesionales:
+
 - a) Razona qué sentido tiene prescribir la tenencia de un carné profesional para unas actividades concretas.
 - b) Averigua qué requisitos son necesarios para conseguir un carné profesional de instalador de fontanería.
 
@@ -2020,42 +2148,42 @@ La elección de la forma jurídica es un aspecto fundamental ya que determina la
 
 La libertad de elección de la personalidad jurídica está solo condicionada por el objeto
 
-| Fases de la Simulación empresarial | Fases de la Simulación empresarial |
-|--------------------------------------|---------------------------------------------------|
-| Fase 1. | Elegir la forma jurídica |
-| Fase 2. | Decidirse por una franquicia |
-| Fase 3. | Certificación negativa de la de nominación social |
-| Fase 4. | Elaboración de estatutos y fir ma de la escritura |
-| Fase 5. | Inscripción en el Registro Mer cantil |
-| Fase 6. | Trámites en Hacienda |
-| Fase 7. | Trámites en la Seguridad Social |
-| Fase 8. | Otros trámites |
+| Fases de la Simulación empresarial | Fases de la Simulación empresarial                |
+| ---------------------------------- | ------------------------------------------------- |
+| Fase 1.                            | Elegir la forma jurídica                          |
+| Fase 2.                            | Decidirse por una franquicia                      |
+| Fase 3.                            | Certificación negativa de la de nominación social |
+| Fase 4.                            | Elaboración de estatutos y fir ma de la escritura |
+| Fase 5.                            | Inscripción en el Registro Mer cantil             |
+| Fase 6.                            | Trámites en Hacienda                              |
+| Fase 7.                            | Trámites en la Seguridad Social                   |
+| Fase 8.                            | Otros trámites                                    |
 
-*-----------------*
+_-----------------_
 
 social del negocio, ya que algunas actividades económicas están obligadas a constituirse en una forma jurídica concreta. Se trata de excepciones muy concretas y escasas a la regla general de libertad de elección.
 
 En la Tabla 3.4 se analizan los diferentes criterios de elección y sus implicaciones prácticas.
 
-| Autónomo | Es la única forma jurídica que solo puede ser unipersonal. Se pueden contratar trabajadores pero no se pueden tener socios. |
-|------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Autónomo   | Es la única forma jurídica que solo puede ser unipersonal. Se pueden contratar trabajadores pero no se pueden tener socios.                                                                                                                                                                                                                                                                                                        |
+| ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Sociedades | Pueden estar constituidas por varios socios: • Las sociedades anónimas y limitadas pueden tener uno o más socios. • La sociedad limitada de nueva empresa debe estar integrada entre uno y cinco socios. • Las sociedades laborales y las cooperativas necesitan un mínimo de tres socios puesto que no está permitido que ningún socio que, además, sea trabajador en la empresa, posea más de un tercio del capital de la misma. |
-| Autónomo | No requiere capital inicial puesto que no tiene que inscribirse en el Registro Mercantil ni constituirse ante notario. |
-| Sociedades | Se exige la aportación de un capital mínimo para empezar la actividad. En función de la personalidad jurídica de la empresa la cantidad a desembolsar es distinta. |
-| Autónomo | La responsabilidad es ilimitada, afectando al patrimonio personal del empresario cuando los bienes de la empresa no cubren el importe de las deudas. |
-| Sociedades | La responsabilidad por las deudas contraídas está limitada exclusivamente al patrimonio social de los socios. |
+| Autónomo   | No requiere capital inicial puesto que no tiene que inscribirse en el Registro Mercantil ni constituirse ante notario.                                                                                                                                                                                                                                                                                                             |
+| Sociedades | Se exige la aportación de un capital mínimo para empezar la actividad. En función de la personalidad jurídica de la empresa la cantidad a desembolsar es distinta.                                                                                                                                                                                                                                                                 |
+| Autónomo   | La responsabilidad es ilimitada, afectando al patrimonio personal del empresario cuando los bienes de la empresa no cubren el importe de las deudas.                                                                                                                                                                                                                                                                               |
+| Sociedades | La responsabilidad por las deudas contraídas está limitada exclusivamente al patrimonio social de los socios.                                                                                                                                                                                                                                                                                                                      |
 
 Tabla 3.4. Características de los distintos tipos de formas jurídicas de las empresas.
 
-| Autónomo | Tiene la obligación de tributar el IRPF. El tipo impositivo varía en función de los beneficios obte nidos. |
-|------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Sociedades | Tiene la obligación de tributar el IRPF o el Impuesto sobre Sociedades en función de la forma jurí dica de la empresa. En el caso del IRPF, el tipo impositivo varía en función de los beneficios obtenidos hasta un máximo del 52 %. En el caso del Impuesto sobre Sociedades el tipo impositivo es siempre el mismo porcentaje (30% o 25% para las empresas de reducida dimensión que son aquellas cuya facturación es inferior a los diez millones de euros). |
-| Autónomo | Requiere menos requisitos para iniciar la actividad económica. |
-| Sociedades | Deben cumplir varios requisitos para iniciar la actividad económica. |
-| Autónomo | Al ser el único socio no tiene limitaciones al respecto. |
+| Autónomo   | Tiene la obligación de tributar el IRPF. El tipo impositivo varía en función de los beneficios obte nidos.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Sociedades | Tiene la obligación de tributar el IRPF o el Impuesto sobre Sociedades en función de la forma jurí dica de la empresa. En el caso del IRPF, el tipo impositivo varía en función de los beneficios obtenidos hasta un máximo del 52 %. En el caso del Impuesto sobre Sociedades el tipo impositivo es siempre el mismo porcentaje (30% o 25% para las empresas de reducida dimensión que son aquellas cuya facturación es inferior a los diez millones de euros).                                                                                                                          |
+| Autónomo   | Requiere menos requisitos para iniciar la actividad económica.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| Sociedades | Deben cumplir varios requisitos para iniciar la actividad económica.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| Autónomo   | Al ser el único socio no tiene limitaciones al respecto.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 | Sociedades | Está sujeto a unas normas: • Sociedad limitada. Los socios pueden transmitir sus participaciones solo a otros socios de la empresa o a familiares directos (padres, hijos y/o cónyuge). La razón es evitar cambios sustanciales en la empresa. No obstante, los estatutos de la sociedad pueden recoger otros acuerdos diferentes adaptados por los socios flexibilizando así esta limitación. • Sociedad anónima. Los socios pueden vender libremente sus acciones. En este caso, más que garantizar la identidad del nuevo socio, lo que interesa es afianzar la aportación de capital. |
-| Autónomo | Tiene más dificultad para acceder a clientes y proveedores por la sensación de impermanencia que transmite el hecho de trabajar solo. |
-| Sociedades | Dan mayor sensación de permanencia y, consiguientemente, de fiabilidad. |
+| Autónomo   | Tiene más dificultad para acceder a clientes y proveedores por la sensación de impermanencia que transmite el hecho de trabajar solo.                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| Sociedades | Dan mayor sensación de permanencia y, consiguientemente, de fiabilidad.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 
 ## Actividad de simulación 1
 
@@ -2102,15 +2230,15 @@ Para ello es aconsejable tener presente las recomendaciones que se exponen a con
 
 Tabla 3.6. Recomendaciones para elegir franquicia.
 
-| Conocimientos previos del sector | No es necesario tener conocimientos previos del negocio pero, aunque no sea un requisito imprescindible, es aconsejable elegir un sector del que se tenga conocimientos porque ayuda al despegue de la empresa. |
-|---------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Visitar locales de la franquicia | Visitar los locales de los franquiciados y observar el tráfico de clientes, la disposición de los productos, etc. ayudará a visualizar la apariencia de nuestro negocio. Además, podría ser de gran ayuda mantener una conver sación con el franquiciador y conocer su punto de vista. |
-| Evitar franquicias con productos únicos | Evitar aquellas franquicias que están construidas en base a productos o servicios únicos y que han generado muchos imitadores en poco tiempo. |
-| Realizar una investigación online | Buscar información de la franquicia a través de un buscador de Internet. Para ello se aconseja utilizar palabras clave como «estafa» o «queja». |
-| Analizar la opinión de los usuarios | Acceder a foros o comunidades en Internet que sean susceptibles de con sumir el producto y analizar los comentarios que realizan, las preferencias que muestran, si recomiendan a la competencia, etc. |
-| Asociarse con franquicias consolidadas en el mercado | Asociarse a una franquicia nueva puede ser arriesgado.Todo riesgo implica más posibilidades de ganancias o de pérdidas, ya que la previsión es más incierta. La recomendación de los expertos es decidirse por una franquicia que, al menos, lleve cinco años en el mercado. |
+| Conocimientos previos del sector                        | No es necesario tener conocimientos previos del negocio pero, aunque no sea un requisito imprescindible, es aconsejable elegir un sector del que se tenga conocimientos porque ayuda al despegue de la empresa.                                                                                                                                          |
+| ------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Visitar locales de la franquicia                        | Visitar los locales de los franquiciados y observar el tráfico de clientes, la disposición de los productos, etc. ayudará a visualizar la apariencia de nuestro negocio. Además, podría ser de gran ayuda mantener una conver sación con el franquiciador y conocer su punto de vista.                                                                   |
+| Evitar franquicias con productos únicos                 | Evitar aquellas franquicias que están construidas en base a productos o servicios únicos y que han generado muchos imitadores en poco tiempo.                                                                                                                                                                                                            |
+| Realizar una investigación online                       | Buscar información de la franquicia a través de un buscador de Internet. Para ello se aconseja utilizar palabras clave como «estafa» o «queja».                                                                                                                                                                                                          |
+| Analizar la opinión de los usuarios                     | Acceder a foros o comunidades en Internet que sean susceptibles de con sumir el producto y analizar los comentarios que realizan, las preferencias que muestran, si recomiendan a la competencia, etc.                                                                                                                                                   |
+| Asociarse con franquicias consolidadas en el mercado    | Asociarse a una franquicia nueva puede ser arriesgado.Todo riesgo implica más posibilidades de ganancias o de pérdidas, ya que la previsión es más incierta. La recomendación de los expertos es decidirse por una franquicia que, al menos, lleve cinco años en el mercado.                                                                             |
 | Analizardetalladamente las condiciones de la franquicia | La Circular oferta de franquicia es un informe que recoge toda la infor mación técnica, económica y financiera de la franquicia, para dar a cono cer el negocio a todos aquellos que estén interesados en participar. El franquiciador tiene la obligación de entregarla con una antelación mínima de treinta días antes de la celebración del contrato. |
-| Verificar los datos de facturación | Sopesar la veracidad de los datos que facilita el franquiciador sobre el volumen de facturación esperado. |
+| Verificar los datos de facturación                      | Sopesar la veracidad de los datos que facilita el franquiciador sobre el volumen de facturación esperado.                                                                                                                                                                                                                                                |
 
 ## Actividad de simulación 2
 
@@ -2328,6 +2456,7 @@ La solicitud ha de ir acompañada de los docu mentos siguientes:
 
 - Declaración censal en Hacienda: Modelo 036.
 - Justificante de haber abonado el Impuesto so bre Actividades Económicas, si fuese necesario.
+
 * Copia de las licencias, permisos o autorizaciones administrativas que sean necesarios para el ejercicio de la actividad de que se trate.
 
 ## Solicitud del número de patronal
@@ -2497,16 +2626,21 @@ Es una fase menos creativa que las anteriores pero, sin duda, es muy importante,
 Para facilitar la planificación en el desarrollo de todos estos trámites, podéis elaborar un sencillo calendario en el que señaléis qué trámites vais a llevar a cabo y en qué fechas. Será un dato aproximativo y servirá como herramienta de gestión empresarial.
 
 1. Las siglas PAIT significan:
+
 - a) Punto de Asesoramiento e Información Telemática.
 - b) Proceso de Asistencia e Información de Trámites.
 - c) Punto de Asistencia e Información Telemática.
 - d) Ninguna de las anteriores es correcta.
+
 2. La responsabilidad ilimitada significa que:
+
 - a) El empresario responde con todos sus bienes ante las deudas de la empresa.
 - b) Si el patrimonio empresarial no es suficiente para cubrir las deudas se usaría el patri monio personal de los socios.
 - c) Los socios responderían con su patrimonio empresarial si no fuera suficiente con el personal.
 - d) Todas son ciertas.
+
 3. ¿Qué significa know-how en el contexto de la franquicia?
+
 - a) Es el saber hacer del franquiciado.
 - b) Es el saber hacer del franquiciador.
 - c) Es la incertidumbre del franquiciador.
@@ -2518,12 +2652,16 @@ Para facilitar la planificación en el desarrollo de todos estos trámites, pod�
 - b) Un centro de tramitación y asesoramiento a empresarios.
 - c) Un órgano administrativo para facilitar la creación de empresas.
 - d) Ninguna es correcta.
+
 5. La personalidad jurídica de una empresa se adquiere cuando:
+
 - a) Está consolidada en el mercado por un alto volumen de facturación.
 - b) Se da de alta en el Censo Obligatorio Tributario.
 - c) Se registra en el Registro Mercantil.
 - d) Se han llevado a cabo los trámites de constitución y los de puesta en marcha.
+
 6. Para abrir una cuenta bancaria a nombre de la empresa es preciso:
+
 - a) Tener una denominación social elegida y susceptible de ser usada.
 - b) Que cada socio aporte la cantidad del capital social acordado.
 - c) Que se presenten todos los socios.
@@ -2549,7 +2687,9 @@ Para facilitar la planificación en el desarrollo de todos estos trámites, pod�
 - b) Las sociedades que facturen más de un millón de euros.
 - c) Las empresas de nueva creación.
 - d) Todas son correctas.
+
 10. Es obligatorio que dispongan de un CIF:
+
 - a) Todos los empresarios individuales.
 - b) Todas las sociedades.
 - c) Los empresarios individuales y las sociedades.
@@ -2568,7 +2708,9 @@ Para facilitar la planificación en el desarrollo de todos estos trámites, pod�
 - b) Se realiza una vez en toda la vida laboral del trabajador.
 - c) Es responsabilidad del trabajador, aunque suele realizar este trámite el empresario.
 - d) Todas son correctas.
+
 5. 13» Las licencias municipales deben solicitarse al ayuntamiento correspondiente en caso de que:
+
 - a) Se vayan a efectuar obras.
 - b) Se abra un local o se reabra tras haber realizado modificaciones.
 - c) Haya habido un cambio de titularidad en el negocio.
@@ -2677,6 +2819,7 @@ inicios de esta marca de lujo, Natura Bissé, no distan mucho de la coyuntura ac
 2. ¿Crees que hay más opciones hoy en día de las que había antes para conseguir finan ciación?
 3. ¿Piensas que un emprendedor debería buscar el dinero que necesita para comenzar o, por el contrario, tratar de ajustar su plan de negocios a los recursos de que dis pone?
 4. ¿Cuál de estas dos cuestiones consideras más importante?
+
 - a) Tener una buena idea de negocio.
 - h) Disponer de los medios materiales para desarrollarla.
 
@@ -2953,7 +3096,7 @@ La razón de ser del apoyo privado es, lógicamente, obtener un beneficio econó
 
 ## I Espacios de coworking o cotrabajo
 
-Consisten en centros de trabajo compartidos, de forma que diferentes empresas ocupan una misma oficina. El precio suele estar fijado según el tiempo que se ocupa el espacio: todas las tardes, tres días a la semana, etc. Por buscar una similitud, se trata de la misma ¡dea que la de compartir piso con compañeros y compartir gastos. En un centro de coworking también se comparten salas de reuniones, servicios de telefonía e internet, despachos para videoconferencias y hasta la misma oficina si solo se usa unas horas al día. Es accesible a cualquiera, pero suele ser utilizado solo por jóvenes emprendedores hasta que pueden instalarse en su propia sede. A la ventaja del ahorro económico se suma que el emprendedor puede contagiarse del ambiente estimulante que le rodea, e incluso realizar proyectos comunes o colaborar con otros emprendedores, como cliente o proveedor.
+Consisten en centros de trabajo compartidos, de forma que diferentes empresas ocupan una misma oficina. El precio suele estar fijado según el tiempo que se ocupa el espacio: todas las tardes, tres días a la semana, etc. Por buscar una similitud, se trata de la misma idea que la de compartir piso con compañeros y compartir gastos. En un centro de coworking también se comparten salas de reuniones, servicios de telefonía e internet, despachos para videoconferencias y hasta la misma oficina si solo se usa unas horas al día. Es accesible a cualquiera, pero suele ser utilizado solo por jóvenes emprendedores hasta que pueden instalarse en su propia sede. A la ventaja del ahorro económico se suma que el emprendedor puede contagiarse del ambiente estimulante que le rodea, e incluso realizar proyectos comunes o colaborar con otros emprendedores, como cliente o proveedor.
 
 ## Ejemplo 9. Plataforma coworking
 
@@ -2983,9 +3126,9 @@ Están convocados tanto por organismos públicos como por iniciativa privada. El
 
 La Fundación Banesto desarrolla desde hace años el programa YUZZ, un concurso de talento joven de ideas empresariales con base tecnológica.
 
-Se lleva a cabo en colaboración con más de 60 socios locales y el apoyo de Intel, Secot, la Revista Emprendedores, Adigital, Tuenti, la Fundación Príncipe de irona e Sndra, que pro mueven el concurso para jóvenes de edades comprendidas entre los 18 y los 30 años que residan en las provincias donde exista un centro Yuzz y que presenten las mejores ¡deas de base tecnológica.
+Se lleva a cabo en colaboración con más de 60 socios locales y el apoyo de Intel, Secot, la Revista Emprendedores, Adigital, Tuenti, la Fundación Príncipe de irona e Sndra, que pro mueven el concurso para jóvenes de edades comprendidas entre los 18 y los 30 años que residan en las provincias donde exista un centro Yuzz y que presenten las mejores ideas de base tecnológica.
 
-Las personas seleccionadas dispondrán del soporte y apoyo necesario, así como del espacio y material adecuado durante un curso para el desarrollo de sus ¡deas o proyectos empresariales.
+Las personas seleccionadas dispondrán del soporte y apoyo necesario, así como del espacio y material adecuado durante un curso para el desarrollo de sus ideas o proyectos empresariales.
 
 La Fundación Banesto está ampliando la red de centros Yuzz para poder apoyar a jóvenes talentos en nuevas localidades.
 
@@ -3114,7 +3257,7 @@ Las inversiones y gastos más frecuentes pa ra la puesta en marcha de un negocio
 - Fase 6. Financiación a corto plazo
 - Fase 7. Apoyo en las fases iniciales
 
-*-----------------*
+_-----------------_
 
 - Compra de vehículos y gastos asociados: seguro, gasolina, etc.
 - Adquisición de inmovilizado material, esto es, elementos materiales que se espera utilizar durante un año o más en la empresa, como maquinaria, equipos informáticos, impresoras, fotocopiadoras, etc.
@@ -3201,9 +3344,9 @@ Para poder deducir las cantidades de la cuenta ahorro-empresa en la declaración
 Tabla 4.9. Requisitos para deducir en la Declaración de la Renta.
 
 | En el plazo máximo de un año habrá que destinar los fondos de esta cuenta a: • Adquisición de inmovilizado material e inmaterial. • astos de constitución. • Compra o alquiler de un establecimiento. • Contratación de, al menos, un trabajador. Es decir, no puede ser autónomo ni estar subcon tratado, sino que se exige la relación laboral a través de un contrato laboral. |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Compromiso • El objeto social consignado. • El local y el empleado a jornada completa. |
-| Condición El contribuyente solo podrá mantener una cuenta ahorro-empresa y únicamente tendrá dere cho a la deducción por la primera sociedad Nueva Empresa que se constituya. |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Compromiso • El objeto social consignado. • El local y el empleado a jornada completa.                                                                                                                                                                                                                                                                                            |
+| Condición El contribuyente solo podrá mantener una cuenta ahorro-empresa y únicamente tendrá dere cho a la deducción por la primera sociedad Nueva Empresa que se constituya.                                                                                                                                                                                                     |
 
 Normalmente, el emprendedor no suele optar por abrir una cuenta ahorro empresa, porque cuando decide montar un negocio no lo hace con miras de tres años, sino con intención de empezar a trabajar en su negocio lo más pronto posible para poder mantenerse. En caso con trario, deberá trabajar para otra empresa, lo que conlleva retrasar la puesta en marcha de su proyecto empresarial
 
@@ -3219,17 +3362,17 @@ Aunque pueda parecer una opción desconocida, ya hay varios ejemplos de platafor
 
 Tabla 4.10. Ventajas e inconvenientes del crowdfunding.
 
-| Permite la financiación de proyectos de aquellos emprendedores con escasez de recursos y que carecen de avalistas que respondan de la devolución del dinero recibido. Permite financiar aquellas ¡deas innovadoras que pueden no gozar de la credibilidad de las fuentes de financiación más tradicionales, al no poder garantizar la viabilidad del proyecto. | No es una opción tan masificada como parece. La divulgación requerida del pro yecto expone al promotor a que su idea sea copiada por otras empresas. |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Permite la financiación de proyectos de aquellos emprendedores con escasez de recursos y que carecen de avalistas que respondan de la devolución del dinero recibido. Permite financiar aquellas ideas innovadoras que pueden no gozar de la credibilidad de las fuentes de financiación más tradicionales, al no poder garantizar la viabilidad del proyecto. | No es una opción tan masificada como parece. La divulgación requerida del pro yecto expone al promotor a que su idea sea copiada por otras empresas. |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 En la Tabla 4.11 se señalan algunos consejos para conseguir financiación a través de pequeñas aportaciones de particulares desinteresados.
 
-| jpg^". \j ¿í¿¿>3 * i | Indagar qué proyectos fueron financiados con anterioridad y analizar qué características les dieron más probabilidad de éxito. |
-|----------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| mmm$vjmmmmMM _vu ^^^^^¿z. - , iTMseDáfiiftieiaee $ ¿J-^.lú. iL^^ 'ui | A[ZU™S P^taformas ofrecen un plazo de tiempo limitado, otras imponen penalizaciones si no se reúne la cantidad aportada, y otras piden comisiones ^dordeisro). - |
-| ,..'. -^ | Una cantidad inflada puede ser descartada. En ocasiones, la financiación lograda supera la cantidad fijada. |
-| | Ofrecer algo de interés para los mecenas e imputarlo como un gasto, para que las cuentas sigan cuadrando. |
-| | Mostrar contenidos de calidad y una parte del proyecto. Es una manera de testar el interés que despierta el producto. |
+| jpg^". \j ¿í¿¿>3 \* i                                                 | Indagar qué proyectos fueron financiados con anterioridad y analizar qué características les dieron más probabilidad de éxito.                                   |
+| --------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| mmm$vjmmmmMM \_vu ^^^^^¿z. - , iTMseDáfiiftieiaee $ ¿J-^.lú. iL^^ 'ui | A[ZU™S P^taformas ofrecen un plazo de tiempo limitado, otras imponen penalizaciones si no se reúne la cantidad aportada, y otras piden comisiones ^dordeisro). - |
+| ,..'. -^                                                              | Una cantidad inflada puede ser descartada. En ocasiones, la financiación lograda supera la cantidad fijada.                                                      |
+|                                                                       | Ofrecer algo de interés para los mecenas e imputarlo como un gasto, para que las cuentas sigan cuadrando.                                                        |
+|                                                                       | Mostrar contenidos de calidad y una parte del proyecto. Es una manera de testar el interés que despierta el producto.                                            |
 
 Tabla 4.11. Consejos para conseguir financiación a través del crowdfunding (Continuación).
 
@@ -3251,7 +3394,7 @@ Wikipedla es el ejemplo más sobresaliente de colaboración abierta distribuida 
 
 Bien comunal o procomún son aquellos bienes cuyos beneficios o derechos de explota ción pertenecen a una comunidad de personas bajo licencia copyleft, que permite la libre distribución de copias y versiones modificadas de dicho bien.
 
-Esta misma ¡dea de la colaboración abierta está en la base del lanzamiento de los programas o aplicaciones informáticas en beta, es decir, en una fase de prueba para que los usuarios comenten y mejoren las formas de optimizar el producto. Se trata de un diseño basado en la comunidad o diseño partidpativo distribuido. También ha servido de sostén al desarrollo científico y tecnológico, al ayudar a capturar, sistematizar o analizar grandes cantidades de datos.
+Esta misma idea de la colaboración abierta está en la base del lanzamiento de los programas o aplicaciones informáticas en beta, es decir, en una fase de prueba para que los usuarios comenten y mejoren las formas de optimizar el producto. Se trata de un diseño basado en la comunidad o diseño partidpativo distribuido. También ha servido de sostén al desarrollo científico y tecnológico, al ayudar a capturar, sistematizar o analizar grandes cantidades de datos.
 
 ## Actividad de simulación 2
 
@@ -3280,7 +3423,7 @@ Tras la aportación personal de los socios, es habitual pensar en el dinero que 
 
 La familia y amigos pueden apoyar el nacimiento de la empresa a través de un préstamo con unas condiciones más favorables que las establecidas por una entidad bancaria. Analizaremos todas ellas más adelante, cuando abordemos las fuentes externas de financiación.
 
-La tercera F, los Fools («locos») es una manera jocosa de resumir la creencia de que nadie invertiría sus ahorros en las ¡deas de un emprendedor desconocido. Sin embargo, esto es cada vez menos cierto. Ya hay particulares e incluso organizaciones que apoyan y confían en las ¡deas de emprendedores anónimos, siempre y cuando cuenten con un proyecto de empresa con gran potencial y demuestren su competencia personal para llevarlo a cabo. Son los business angels y las sociedades de capital riesgo.
+La tercera F, los Fools («locos») es una manera jocosa de resumir la creencia de que nadie invertiría sus ahorros en las ideas de un emprendedor desconocido. Sin embargo, esto es cada vez menos cierto. Ya hay particulares e incluso organizaciones que apoyan y confían en las ideas de emprendedores anónimos, siempre y cuando cuenten con un proyecto de empresa con gran potencial y demuestren su competencia personal para llevarlo a cabo. Son los business angels y las sociedades de capital riesgo.
 
 Estos agentes desempeñan un papel decisivo en las empresas jóvenes ya que, además de la aportación financiera, implican procesos de acompañamiento de alto valor añadido para los emprendedores.
 
@@ -3376,16 +3519,16 @@ Fuente: Diarlo de Burgos. Burgos, 26 de octubre de 2012 [en línea] (adaptación
 
 En la Tabla 4.13 se enumeran algunos consejos para evitar que el proyecto empresarial sea rechazado por una sociedad de capital riesgo.
 
-| Constituir la empresa, en lugar de esperar a tener capital para ejecutar la idea. |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| arantizar que los socios ofrecen una imagen de seriedad, profesionalidad y competencia. |
-| Construir una identidad de marca y, más en concreto, incrementar la presencia en redes sociales. Reservar aquellos dominios que pueden asociarse a la empresa. |
-| arantizar la ventaja competitiva de la empresa registrando la propiedad intelectual (o industrial), si la hay. En caso contrario, buscar fórmulas de diferenciación para que la idea no sea fácilmente replicable por la competencia e invadan nuestro hueco de mercado. |
-| Aunque implica un gasto, siempre vende más un objeto físico que una idea, por muy buena que sea. |
-| idea no suele sobrepasar dos páginas y una |
-| Es preciso contar con un buen plan de empresa extenso para, en caso de captar su aten- ción, justificar y exponer todos los aspectos del negocio. Esto ayudará a vencer la resis- tencia del inversor, contando con una respuesta estudiada a cada duda que surja. --- ■ ___ _ |
-| Sin ella, no se tiene un fundamento claro de que hay potenciales clientes dispuestos a pagar por este bien o servicio. |
-| Siguen siendo fundamentales para prosperar. |
+| Constituir la empresa, en lugar de esperar a tener capital para ejecutar la idea.                                                                                                                                                                                                |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| arantizar que los socios ofrecen una imagen de seriedad, profesionalidad y competencia.                                                                                                                                                                                          |
+| Construir una identidad de marca y, más en concreto, incrementar la presencia en redes sociales. Reservar aquellos dominios que pueden asociarse a la empresa.                                                                                                                   |
+| arantizar la ventaja competitiva de la empresa registrando la propiedad intelectual (o industrial), si la hay. En caso contrario, buscar fórmulas de diferenciación para que la idea no sea fácilmente replicable por la competencia e invadan nuestro hueco de mercado.         |
+| Aunque implica un gasto, siempre vende más un objeto físico que una idea, por muy buena que sea.                                                                                                                                                                                 |
+| idea no suele sobrepasar dos páginas y una                                                                                                                                                                                                                                       |
+| Es preciso contar con un buen plan de empresa extenso para, en caso de captar su aten- ción, justificar y exponer todos los aspectos del negocio. Esto ayudará a vencer la resis- tencia del inversor, contando con una respuesta estudiada a cada duda que surja. --- ■ _\_\_ _ |
+| Sin ella, no se tiene un fundamento claro de que hay potenciales clientes dispuestos a pagar por este bien o servicio.                                                                                                                                                           |
+| Siguen siendo fundamentales para prosperar.                                                                                                                                                                                                                                      |
 
 Tabla 4.13. Consejos para captar la atención de una sociedad de capital riesgo.
 
@@ -3410,7 +3553,7 @@ Las ventajas e inconvenientes de recibir dinero de la familia o amigos se expone
 Tabla 4.14. Ventajas e inconvenientes de la financiación familiar o de amigos.
 
 | Facilidades de pago: tipos de interés menores o nulos, cuotas variables, plazos más largos, etc. Posibilidad de renegociar la deuda, en caso de que venza el plazo y la situación financiera de la compañía no sea estable. | La escasa disponibilidad de dinero que se puede con seguir de estas fuentes. La falta de libertad para tomar las propias decisiones o, al menos, para comentarlas libremente. La intromisión en el negocio a través de preguntas fis- calizadoras, aportando sugerencias, presionando hacia determinada línea de trabajo o tratando de participar activamente en la empresa. |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 ## Entidad financiera
 
@@ -3496,7 +3639,7 @@ Hay que revisar con cuidado las cláusulas, puesto que el banco siempre quiere p
 
 5. Conocer qué productos adicionales deben ser contratados.
 6. Aclarar todas las dudas, como número de cuotas, plazos ofrecidos, intereses, comisiones, impuestos, gastos notariales, etc.
-3. 7o Antes de firmar el contrato, leerlo atentamente y, de nuevo, preguntar las dudas si las hay.
+7. 7o Antes de firmar el contrato, leerlo atentamente y, de nuevo, preguntar las dudas si las hay.
 8. Aportar todos los datos de la empresa, que debe estar legalmente constituida para apor tar más fiabilidad al proyecto.
 9. Justificar el proyecto de inversión, es decir, la necesidad de esos gastos.
 10. Convencer al banco sobre la solvencia del negocio. Para ello, habrá que transmitir con entusiasmo y seriedad los estudios de viabilidad realizados (se explicarán en la Unidad 5).
@@ -3560,16 +3703,16 @@ El Ayuntamiento de Burriana, en Castellón, ha adju dicado a la empresa Alphabet
 Tabla 4.16. Consideraciones antes de contratar un renting o un leasing.
 
 | Renting | El precio del renting suele incluir las tareas administrativas. Tomemos por ejemplo el caso de un coche: su matriculación, el transporte hasta el punto de entrega; los gastos de mantenimiento, como revisiones, cambios de neumáticos, etc.; la reparación del coche en caso de avería o asistencia en carretera; seguro completo a todo riesgo, incluyendo siniestros y robo; vehículo de sustitución, en caso de avería o accidente; y servicio de reclamación de multas. |
-|-----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Leasing | Todas las operaciones relacionadas con los bienes (reparaciones, tareas administrativas, etc.) no están cubiertas por la compañía de leasing. |
-| Renting | La duración del contrato oscila dependiendo de la vida útil del bien, pero suele rondar entre el año (equipos informáticos) y los cinco años (vehículos). |
-| Leasing | La duración del contrato depende de la vida útil del producto, pero en el caso de los inmuebles puede llegar a ser más largo, suele rondar una media de diez años. |
-| Renting | Una vez finalizado el contrato, se procederá a devolver el bien y, en caso deseado, a suscribir un nuevo contrato. |
-| Leasing | Una vez finalizado el contrato se puede optar por tres vías: devolver el bien, suscribir un nuevo con trato o tener opción de compra. |
-| Renting | Se prohibe el subarrendamiento del bien y a que sea utilizado por personas diferentes de las mencio nadas en el contrato. |
-| Leasing | Se prohibe el subarrendamiento del bien y a que sea utilizado por personas diferentes de las mencio nadas en el contrato. |
-| Renting | La cuota mensual suele mantenerse fija durante la duración del contrato. |
-| Leasing | La cuota mensual suele mantenerse fija durante la duración del contrato. |
+| ------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Leasing | Todas las operaciones relacionadas con los bienes (reparaciones, tareas administrativas, etc.) no están cubiertas por la compañía de leasing.                                                                                                                                                                                                                                                                                                                                 |
+| Renting | La duración del contrato oscila dependiendo de la vida útil del bien, pero suele rondar entre el año (equipos informáticos) y los cinco años (vehículos).                                                                                                                                                                                                                                                                                                                     |
+| Leasing | La duración del contrato depende de la vida útil del producto, pero en el caso de los inmuebles puede llegar a ser más largo, suele rondar una media de diez años.                                                                                                                                                                                                                                                                                                            |
+| Renting | Una vez finalizado el contrato, se procederá a devolver el bien y, en caso deseado, a suscribir un nuevo contrato.                                                                                                                                                                                                                                                                                                                                                            |
+| Leasing | Una vez finalizado el contrato se puede optar por tres vías: devolver el bien, suscribir un nuevo con trato o tener opción de compra.                                                                                                                                                                                                                                                                                                                                         |
+| Renting | Se prohibe el subarrendamiento del bien y a que sea utilizado por personas diferentes de las mencio nadas en el contrato.                                                                                                                                                                                                                                                                                                                                                     |
+| Leasing | Se prohibe el subarrendamiento del bien y a que sea utilizado por personas diferentes de las mencio nadas en el contrato.                                                                                                                                                                                                                                                                                                                                                     |
+| Renting | La cuota mensual suele mantenerse fija durante la duración del contrato.                                                                                                                                                                                                                                                                                                                                                                                                      |
+| Leasing | La cuota mensual suele mantenerse fija durante la duración del contrato.                                                                                                                                                                                                                                                                                                                                                                                                      |
 
 ## Actividad de simulación 5
 
@@ -3657,18 +3800,18 @@ A pesar de las semejanzas que el descuento comercial mantiene con el factoring, 
 
 Tabla 4.17. Diferencias entre descuento comercial y factoríng.
 
-| Descuento comercial | El banco nunca asume el riesgo de impago. |
-|-------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Factoríng | El banco asume el riesgo de impago. |
-| Descuento comercial | Se admite cualquier efecto comercial no vencido y no solo facturas. |
-| | Solo admite facturas. |
-| Descuento comercial | El capital anticipado es el total del capital pendiente de pago. |
-| | Se puede pactar un porcentaje sobre el total. |
-| | Los deudores son tanto el cliente como la empresa que ha cedido la deuda, por lo que |
-| Descuento comercial | el banco admite mayor riesgo de insolvencia. |
-| Factoríng | En el caso de un factoríng sin recurso solo hay un deudor, que es el cliente, por lo que el banco es más exigente a la hora de aceptar deudas con riesgo crediticio. |
-| mam Descuento comercial | No incluye servicios adicionales a la financiación. |
-| Factoríng | Puede incluir servicios adicionales, como el estudio de la solvencia del cliente, la gestión de la cartera pendiente de cobro o la cobertura del riesgo. |
+| Descuento comercial     | El banco nunca asume el riesgo de impago.                                                                                                                            |
+| ----------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Factoríng               | El banco asume el riesgo de impago.                                                                                                                                  |
+| Descuento comercial     | Se admite cualquier efecto comercial no vencido y no solo facturas.                                                                                                  |
+|                         | Solo admite facturas.                                                                                                                                                |
+| Descuento comercial     | El capital anticipado es el total del capital pendiente de pago.                                                                                                     |
+|                         | Se puede pactar un porcentaje sobre el total.                                                                                                                        |
+|                         | Los deudores son tanto el cliente como la empresa que ha cedido la deuda, por lo que                                                                                 |
+| Descuento comercial     | el banco admite mayor riesgo de insolvencia.                                                                                                                         |
+| Factoríng               | En el caso de un factoríng sin recurso solo hay un deudor, que es el cliente, por lo que el banco es más exigente a la hora de aceptar deudas con riesgo crediticio. |
+| mam Descuento comercial | No incluye servicios adicionales a la financiación.                                                                                                                  |
+| Factoríng               | Puede incluir servicios adicionales, como el estudio de la solvencia del cliente, la gestión de la cartera pendiente de cobro o la cobertura del riesgo.             |
 
 ## Actividad de simulación 6
 
@@ -3690,7 +3833,7 @@ En principio, está más orientada a trabajadores/ree/ance o autónomos que no r
 
 Vivero Vivesoy es un espacio de coworking y apoyo a emprendedores de la marca Pascual, con un matiz diferencial. Los usuarios no abonan alquiler, sino que trabajan en el desarrollo de su idea empresarial que luego presentan en una web. Aquella iniciativa con más votos ganará recibiendo una aportación económica proporcional a los votos recibidos, de manera que se financiará medio euro por cada voto obtenido.
 
-En el año 2012 la ¡dea ganadora fue el proyecto «Dislexia», una aplicación móvil para que los niños que sufren este trastorno eviten el sentimiento de fracaso.
+En el año 2012 la idea ganadora fue el proyecto «Dislexia», una aplicación móvil para que los niños que sufren este trastorno eviten el sentimiento de fracaso.
 
 De esta manera, la marca Pascual realiza acciones de Responsabilidad Social Corporativa, enfocadas al desarrollo empresarial.
 
@@ -3712,7 +3855,7 @@ Fuente: El Economista. Madrid, 21 de noviembre de 2012 [en línea]
 
 Hay buenas razones que sustentan la participación en este tipo de acciones, tales como:
 
-1. Mejorar el proyecto empresarial Al tratarse de premios competitivos, los emprende dores tratan de optimizar su ¡dea, lo que redunda en una mayor elaboración del plan de negocio y, aunque no se ganara el concurso, después se estaría en mayor disposición para solicitar financiación ajena o para convencer a nuevos socios.
+1. Mejorar el proyecto empresarial Al tratarse de premios competitivos, los emprende dores tratan de optimizar su idea, lo que redunda en una mayor elaboración del plan de negocio y, aunque no se ganara el concurso, después se estaría en mayor disposición para solicitar financiación ajena o para convencer a nuevos socios.
 
 2. El mejor atractivo ele los concursos es el premio en metálico. Sin embargo, no hay que desestimar el acceso a contactos interesantes, la crítica que los profesionales o in versores harán de nuestro negocio, la oportunidad de contagiarse con la ilusión de otros emprendedores, la posibilidad de conocer muchas otras ideas empresariales que pueden converger con nuestra línea de negocio o pueden darnos ideas para mejorarlo.
 3. Mejorar la profesionalidad de los emprendedores, al requerir una mayor entrega y compromiso, así como una ejercitación de destrezas organizativas, técnicas expositivas, habilidades sociales, etc.
@@ -3754,10 +3897,10 @@ Si no cumple alguno de los requisitos re queridos, la empresa entrará en un pro
 
 Tabla 4.19. Criterios de elección de un proyecto empresarial.
 
-| El potencial de la idea | Las ventajas competitivas |
-|----------------------------------------------|-----------------------------|
-| El hueco del mercado | La viabilidad |
-| Los medios tecnológicos y humanos necesarios | El perfil de los socios |
+| El potencial de la idea                      | Las ventajas competitivas |
+| -------------------------------------------- | ------------------------- |
+| El hueco del mercado                         | La viabilidad             |
+| Los medios tecnológicos y humanos necesarios | El perfil de los socios   |
 
 ## Proceso de desarrollo de un proyecto empresarial
 
@@ -3861,7 +4004,7 @@ En caso de que no encontréis información al respecto, enumerad cinco webs dond
 
 ## Plan de empresa
 
-Ha llegado el momento de sintetizar las ¡deas obtenidas en estas fases de la Simulación empresarial e incorporarlas a vuestro plan de empresa.
+Ha llegado el momento de sintetizar las ideas obtenidas en estas fases de la Simulación empresarial e incorporarlas a vuestro plan de empresa.
 
 Las actividades de simulación realizadas en esta unidad te han servido para conocer las distintas fuentes de financiamiento, tanto del sector público como privado, para impul sar el arranque de tu empresa. Todo eso lo debes recoger en el apartado siguiente, que se añadirá a los que realizaste en las unidades anteriores.
 
@@ -3874,36 +4017,49 @@ Las actividades de simulación realizadas en esta unidad te han servido para con
 lili
 
 1. El capital semilla puede proceder de:
+
 - a) Entidades públicas.
 - b) Business angels y capital riesgo.
 - c) Familia y amigos.
 - d) Todas son ciertas.
+
 2. Se denominan reservas a:
+
 - a) Los activos adquiridos y no utilizados.
 - b) Los trabajadores con contrato fijo discontinuo.
 - c) Una parte de los beneficios no repartidos.
 - d) Todas son ciertas.
+
 3. El descubierto bancario consiste en:
+
 - a) El banco adelanta el importe de los recibos pendientes de cobro.
 - b) El banco permite estar en números rojos hasta cierto límite.
 - c) El banco permite pagar a crédito.
 - d) Todas son correctas.
+
 4. Capital riesgo es dinero que:
+
 - a) Es invertido en empresas con potencial de crecimiento.
 - b) Se usa para invertir con carácter temporal en otra empresa.
 - c) Se puede usar para financiar empresas consolidadas que requieren un gran desem bolso de dinero a cambio de un beneficio rentable.
 - d) Todas son correctas.
+
 5. En el contrato de cualquier préstamo siempre aparecerá especificado:
+
 - a) Interés y plazo de amortización.
 - b) Interés, plazo de amortización, avales.
 - c) Interés, plazo de amortización, comisión por cancelación.
 - d) Interés, plazo de amortización y seguro de vida.
+
 6. Se incluye como recursos propios:
+
 - a) El capital que aportan los socios.
 - b) Los beneficios no repartidos.
 - c) Las reservas.
 - d) Todas son correctas.
+
 7. Los títulos de deuda privada son:
+
 - a) Préstamos, bonos y obligaciones.
 - b) Títulos para lograr financiación de los particulares.
 - c) Emisiones de deuda garantizada.
@@ -4034,6 +4190,7 @@ lili
 - Previsión de compras y gastos, de ventas e ingresos.
 - El punto de equilibrio.
 - Elaboración de balances y cuenta de pérdidas y ganancias.
+
 2. Durante un tiempo, todas las etiquetas de las tiendas de Mercadona indicaban el precio de sus productos en color amarillo, ¿a qué crees que se debía esto?
 3. Expresa tu opinión sobre la cita contenida en la última frase del texto.
 
@@ -4221,35 +4378,35 @@ Un asiento contable es una anotación realizada en el libro Diario de contabilid
 ## Ratios para el análisis de la rentabilidad de la empresa
 
 | Rentabilidad económica (RE) | RE = (BAI [Beneficio Antes de Impuestos] / activo total) x 100 Pretende conocer la rentabilidad general de la ennpresa, es decir, el beneficio obtenido en función de los recursos monetarios puestos a su disposición, ya sean propios o ajenos. El cálculo se efectúa teniendo en cuenta el be neficio bruto obtenido en relación con el ac tivo total de la empresa. Se expresa en térmi nos porcentuales, por lo que el resultado se multiplica por 100. El resultado ofrece una medida del porcentaje de beneficios adquiridos en relación con el capital total invertido por la empresa. | La RE ofrece una medida del porcentaje de bene ficios adquiridos en relación con el capital total invertido por la empresa. Cuanto mayor sea el valor, mayor productividad de los activos y más eficiencia de la empresa. Tan importante es su valor absoluto como su ten dencia a lo largo del tiempo (creciente o decre ciente), y su análisis en comparación con los datos de otras empresas del sector y de la competencia. La rentabilidad económica mejora si aumentan las ventas, si se incrementa el margen de benefi cios sobre ventas (vender más caro o producir más barato) o si se reduce el activo o, mejor aún, com binando estas tres variables a la vez. |
-|-------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| --------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 Tabla 5.2. Ratios para analizar la rentabilidad de una empresa (Continuación).
 
 | Rentabilidad financiera (RF) | RF = (BDI [Beneficios Después de Impuestos] / recursos propios) x 100 Evalúa el beneficio que los propietarios o accionistas de la empresa están teniendo. Si se compara con la rentabilidad de otros produc tos financieros, los socios tendrán una valora ción del coste de oportunidad de invertir sus recursos en la empresa, en lugar de emplear los en otras acciones más ventajosas desde un punto de vista económico. Sin embargo, como ya señalamos en la Unidad 4, el coste de oportunidad no siempre es cuan- tificable, pues hay elementos subjetivos que no pueden valorarse con dinero, como la satis facción de desarrollar una actividad por cuenta propia o la experiencia adquirida que incre mentará posibilidades futuras. Los emprende dores de éxito siempre se han sobrepuesto a un fracaso o a situaciones adversas, y son pre cisamente estas circunstancias desfavorables las que les han hecho mejorar su competencia profesional y ser más resolutivos. La rentabilidadfinanciera se calcula dividiendo los beneficios netos entre los recursos propios de la empresa y se multiplica el resultado por cien para obtener un porcentaje. | Es fundamental el valor de este ratio de cara a con seguir nuevos inversores. Cuanto mayor sea, más atractiva será la empresa para ellos. La rentabilidad financiera puede mejorarse como el rendimiento económico, incrementando ventas o reduciendo activo o aumentando el margen sobre ventas, pero también incide un efecto llamado apalancamientofinanciero. El apalancamiento financiero consiste en usar endeudamiento para financiar una operación, es decir, pedir prestado para poder realizar alguna acción, como comprar un inmueble, activo fijo o materias primas. De esta manera, se puede gastar por un importe superior al capital que se posee, lo que incrementa la rentabilidad de la acción y eso constituye su principal ventaja. El inconveniente es el riesgo implícito a la solicitud de fondos aje nos, es decir, que la inversión no produzca el efecto deseado y no haya entonces un ingreso que ase gure la devolución del préstamo. Por ejemplo, si las materias primas compradas no se han podido vender, la empresa no consigue beneficio y com promete su solvencia. |
-|--------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 ## Ratios para el análisis de la liquidez y la solvencia de la empresa
 
 | Ratio de liquidez (RL) o solvencia a corto plazo | RL = activo circulante / pasivo circulante = = (disponible + realizable + existencias) / exi gíble a corto plazo Este cociente analiza la capacidad de hacer frente al pago de las deudas que vencen antes de un año. La diferencia con el ratio de tesorería radica en que una empresa puede no tener cash, aunque puede conseguirlo de forma casi inmediata, por ejemplo, realizando unas ofertas o des cuentos para incrementar las ventas. Por este motivo, en el cálculo de este ratio se tiene en cuenta las existencias o stock que puede materializarse en dinero líquido: • El activo circulante incluye el activo dispo nible, el activo realizable y las existencias. • El pasivo circulante se compone de la financiación a corto plazo. | El valor óptimo se sitúa entre 1,5 y 2. Un dato menor alertaría sobre dificultades finan cieras; podría haber problemas de liquidez, con el riesgo de caer en una situación de suspensión de pagos. Si es muy elevado indicaría que tenemos recursos improductivos que disminuyen nuestra rentabilidad. El cociente informa, por tanto, del valor de los bie nes a los que la firma puede recurrir para hacer frente a sus deudas a corto plazo. En empresas dedicadas a actividades comerciales o industriales habrá una diferencia significativa entre el ratio de liquidez y el de tesorería. En cambio, será mínima en empresas de servicios por la falta de stock. |
-|----------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-| Ratio de tesorería (RT)o cociente ácido | RT = (disponible + realizable) / pasivo circu lante Este dato mide las posibilidades de respon der a las obligaciones de pago a corto plazo. Es un indicador de la distancia a la suspensión de pagos. Pone en relación el activo disponible y el activo realizable con el pasivo circulante. • El activo disponible incluye la tesorería y las inversiones financieras temporales. • El activo realizable señala los deudores que satisfarán su deuda en menos de un año. • El pasivo circulante se refiere al exigible a corto plazo, como los acreedores por deu das que vencen antes de un año. | Su valor óptimo debe estar cerca de la unidad o en torno al 0,75, lo que vendría a significar que la empresa puede cubrir los gastos venideros. Un valor por debajo de 1 alertaría sobre la falta de cash-flow o flujo de caja para atender los pagos inmediatos. Mientras que un valor muy superior a la unidad avisa de que la empresa tiene un exceso de recursos ociosos que deben ser reducidos o invertidos en un producto que ofrezca rentabi lidad. Este análisis dependerá del momento económico, ya que en una situación de crisis generalizada y de gran incertidumbre, donde las empresas acusan la interrupción de los créditos, será mejor contar con un exceso de tesorería que tener el límite de recur sos disponibles bajo. Es un ratio de situación financiera a muy corto plazo, al incluir entre los elementos activos solo aquellos que ya son disponibles o que precisan úni camente la última fase del ciclo de explotación (el cobro) para transformarse en efectivo. Los sectores que presentan mayores ratios de teso rería son los servicios financieros, los seguros y los servicios a las empresas. En los tramos inferiores del RT se encuentran la hostelería y restauración, los servicios inmobiliarios y la energía. |
-|----------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Ratio de disponibi lidad (RD) | RD = disponible / exigible a corto plazo Muestra los recursos disponibles de la em presa, para conocer si están siendo infrautili- zados. | El valor debe rondar el 0,1 o 0,3 ya que se espera que los fondos líquidos supongan el 10% del total de las deudas que mantiene la empresa con un vencimiento inferior a un año. Este ratio puede tener grandes oscilaciones a lo largo del año. No obstante, la valoración del dato depende del tipo de empresa, ya que en aquellas donde se cobra de manera permanente, debido a ingresos conti nuos por ventas, el valor puede ser un poco más bajo. |
-| Ratio de garantía estructural (R E), o de solvencia total, o de distancia a la quiebra | R E = activo real / exigible total Este valor analiza la garantía que tienen los acreedores de cobrar sus deudas, puesto que pone en relación los activos totales de la empresa con las obligaciones contraídas. El activo real se calcula restando a los acti vos los gastos de constitución y de puesta en marcha. | Este ratio mide la solvencia de una manera más real, eliminando del cálculo el activo ficticio (gas tos de constitución, etc.), parte intangible y no embargable del activo total. Así, el activo real es aquel que en caso de liquidación de la empresa puede convertirse en dinero líquido para hacer frente a las posibles deudas. El resultado recomendable debe estar situado entre el 1,5-2. Por debajo de este valor, la compa ñía estaría en riesgo de quiebra, por tanto, de no poder responder a las deudas pendientes de pago. Por este motivo, también se denomina a este valor como distancia a la quiebra. Cuanto mayor es el ratio, mayor garantía ofrece la empresa del pago de todas sus deudas contraídas. |
+| Ratio de tesorería (RT)o cociente ácido                                                | RT = (disponible + realizable) / pasivo circu lante Este dato mide las posibilidades de respon der a las obligaciones de pago a corto plazo. Es un indicador de la distancia a la suspensión de pagos. Pone en relación el activo disponible y el activo realizable con el pasivo circulante. • El activo disponible incluye la tesorería y las inversiones financieras temporales. • El activo realizable señala los deudores que satisfarán su deuda en menos de un año. • El pasivo circulante se refiere al exigible a corto plazo, como los acreedores por deu das que vencen antes de un año. | Su valor óptimo debe estar cerca de la unidad o en torno al 0,75, lo que vendría a significar que la empresa puede cubrir los gastos venideros. Un valor por debajo de 1 alertaría sobre la falta de cash-flow o flujo de caja para atender los pagos inmediatos. Mientras que un valor muy superior a la unidad avisa de que la empresa tiene un exceso de recursos ociosos que deben ser reducidos o invertidos en un producto que ofrezca rentabi lidad. Este análisis dependerá del momento económico, ya que en una situación de crisis generalizada y de gran incertidumbre, donde las empresas acusan la interrupción de los créditos, será mejor contar con un exceso de tesorería que tener el límite de recur sos disponibles bajo. Es un ratio de situación financiera a muy corto plazo, al incluir entre los elementos activos solo aquellos que ya son disponibles o que precisan úni camente la última fase del ciclo de explotación (el cobro) para transformarse en efectivo. Los sectores que presentan mayores ratios de teso rería son los servicios financieros, los seguros y los servicios a las empresas. En los tramos inferiores del RT se encuentran la hostelería y restauración, los servicios inmobiliarios y la energía. |
+| -------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Ratio de disponibi lidad (RD)                                                          | RD = disponible / exigible a corto plazo Muestra los recursos disponibles de la em presa, para conocer si están siendo infrautili- zados.                                                                                                                                                                                                                                                                                                                                                                                                                                                           | El valor debe rondar el 0,1 o 0,3 ya que se espera que los fondos líquidos supongan el 10% del total de las deudas que mantiene la empresa con un vencimiento inferior a un año. Este ratio puede tener grandes oscilaciones a lo largo del año. No obstante, la valoración del dato depende del tipo de empresa, ya que en aquellas donde se cobra de manera permanente, debido a ingresos conti nuos por ventas, el valor puede ser un poco más bajo.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| Ratio de garantía estructural (R E), o de solvencia total, o de distancia a la quiebra | R E = activo real / exigible total Este valor analiza la garantía que tienen los acreedores de cobrar sus deudas, puesto que pone en relación los activos totales de la empresa con las obligaciones contraídas. El activo real se calcula restando a los acti vos los gastos de constitución y de puesta en marcha.                                                                                                                                                                                                                                                                                | Este ratio mide la solvencia de una manera más real, eliminando del cálculo el activo ficticio (gas tos de constitución, etc.), parte intangible y no embargable del activo total. Así, el activo real es aquel que en caso de liquidación de la empresa puede convertirse en dinero líquido para hacer frente a las posibles deudas. El resultado recomendable debe estar situado entre el 1,5-2. Por debajo de este valor, la compa ñía estaría en riesgo de quiebra, por tanto, de no poder responder a las deudas pendientes de pago. Por este motivo, también se denomina a este valor como distancia a la quiebra. Cuanto mayor es el ratio, mayor garantía ofrece la empresa del pago de todas sus deudas contraídas.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 
 r
 
 Tabla 5.3. Ratios para analizar la liquidez y solvencia de una empresa (Continuación).
 
-| Ratlo de endeuda miento financiero (REF) | REF = exigible total / pasivo total Este cociente analiza el peso de las deudas respecto al pasivo total de la empresa. Por tanto, tendrá un valor alto en aquellas empresas que carecen de recursos propios para financiarse y deben acudir, por ello, a fuentes exter nas de financiación. El REF mide el riesgo financiero de la empresa e indica su capacidad de en deudamiento. | Dado que la fuente principal de financiación de la empresa deben ser los fondos propios, un valor ideal de este ratio es alrededor de 0,5, lo que indicaría un equilibrio entre la deuda a corto plazo y el capital permanente de la empresa; en otras palabras, que la empresa se financia tanto con recursos propios como con medios ajenos. Cuanto mayor sea el pasivo corriente, más peligro de insolvencia y de falta de liquidez para nuestra empresa y a la inversa, una deuda a largo plazo ofrecerá más margen a la empresa para responder de sus deudas. Un valor superior a 0,5 alertaría sobre el exceso de endeu damiento de la empresa o, lo que es lo mismo, sobre su descapitalización. La descapitalización supone el empobrecimiento o pér dida de riqueza de la empresa. Tiene lugar cuando los ele | Dado que la fuente principal de financiación de la empresa deben ser los fondos propios, un valor ideal de este ratio es alrededor de 0,5, lo que indicaría un equilibrio entre la deuda a corto plazo y el capital permanente de la empresa; en otras palabras, que la empresa se financia tanto con recursos propios como con medios ajenos. Cuanto mayor sea el pasivo corriente, más peligro de insolvencia y de falta de liquidez para nuestra empresa y a la inversa, una deuda a largo plazo ofrecerá más margen a la empresa para responder de sus deudas. Un valor superior a 0,5 alertaría sobre el exceso de endeu damiento de la empresa o, lo que es lo mismo, sobre su descapitalización. La descapitalización supone el empobrecimiento o pér dida de riqueza de la empresa. Tiene lugar cuando los ele | Dado que la fuente principal de financiación de la empresa deben ser los fondos propios, un valor ideal de este ratio es alrededor de 0,5, lo que indicaría un equilibrio entre la deuda a corto plazo y el capital permanente de la empresa; en otras palabras, que la empresa se financia tanto con recursos propios como con medios ajenos. Cuanto mayor sea el pasivo corriente, más peligro de insolvencia y de falta de liquidez para nuestra empresa y a la inversa, una deuda a largo plazo ofrecerá más margen a la empresa para responder de sus deudas. Un valor superior a 0,5 alertaría sobre el exceso de endeu damiento de la empresa o, lo que es lo mismo, sobre su descapitalización. La descapitalización supone el empobrecimiento o pér dida de riqueza de la empresa. Tiene lugar cuando los ele |
-|--------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Ratio de autonomía financiera (RAF) | RAF = recursos propios / exigible total Este valor señala la independencia de la empresa con respecto a recursos aje nos. Por esta razón, con este dato se pretende conocer el nivel óptimo de endeudamiento de una empresa. | Su valor normal debería ser superior a 1, lo que indicaría una situación de independencia de fondos ajenos. Cuanto mayor sea esta relación, menos dependerá de la compañía de acreedores. La interpretación de este dato depende del sector de acti vidad de la empresa, ya que hay actividades que requie ren un uso constante de fuentes externas de financiación, como la investigación, enseñanza o las instituciones sin fines de lucro. La independencia financiera está íntimamente ligada a la solvencia, entendida esta en sentido amplio, es decir, como la garantía aportada por los activos y por la pro ducción de flujos de tesorería para atender al coste de los recursos propios y ajenos, y al reintegro de estos últimos. Este ratio es el inverso al de endeudamiento. Como es lógico suponer, ya que miden aspectos contrapuestos, las compañías con un RAF alto tienen, en cambio, un bajo resultado en el ratio REF y viceversa. | Su valor normal debería ser superior a 1, lo que indicaría una situación de independencia de fondos ajenos. Cuanto mayor sea esta relación, menos dependerá de la compañía de acreedores. La interpretación de este dato depende del sector de acti vidad de la empresa, ya que hay actividades que requie ren un uso constante de fuentes externas de financiación, como la investigación, enseñanza o las instituciones sin fines de lucro. La independencia financiera está íntimamente ligada a la solvencia, entendida esta en sentido amplio, es decir, como la garantía aportada por los activos y por la pro ducción de flujos de tesorería para atender al coste de los recursos propios y ajenos, y al reintegro de estos últimos. Este ratio es el inverso al de endeudamiento. Como es lógico suponer, ya que miden aspectos contrapuestos, las compañías con un RAF alto tienen, en cambio, un bajo resultado en el ratio REF y viceversa. | Su valor normal debería ser superior a 1, lo que indicaría una situación de independencia de fondos ajenos. Cuanto mayor sea esta relación, menos dependerá de la compañía de acreedores. La interpretación de este dato depende del sector de acti vidad de la empresa, ya que hay actividades que requie ren un uso constante de fuentes externas de financiación, como la investigación, enseñanza o las instituciones sin fines de lucro. La independencia financiera está íntimamente ligada a la solvencia, entendida esta en sentido amplio, es decir, como la garantía aportada por los activos y por la pro ducción de flujos de tesorería para atender al coste de los recursos propios y ajenos, y al reintegro de estos últimos. Este ratio es el inverso al de endeudamiento. Como es lógico suponer, ya que miden aspectos contrapuestos, las compañías con un RAF alto tienen, en cambio, un bajo resultado en el ratio REF y viceversa. |
-| Fondo de maniobra (FM) | FM = activo corriente - pasivo corriente FM = activo no corriente - patrimonio neto - pasivo no corriente Es una medida de seguridad con que la empresa puede hacer frente al poten cial descuadre entre la corriente de cobros y la de pagos. Con el fin de evi tar problemas financieros, es preciso que lo que se cobre antes de un año sea superior a los pagos pendientes del mismo periodo de tiempo. Este ratio se calcula de dos maneras diferentes: o bien, como el activo cir culante menos el pasivo circulante, o bien, como el activo fijo menos el pasivo fijo. | Un valor negativo genera desconfianza hacia la viabili dad de la empresa, ya que parte del activo inmovilizado se financia con los recursos ajenos a corto plazo, es decir, con las deudas pendientes de cobro en un plazo inferior a un año. En esta figura se puede observar la representación gráfi ca del fondo de maniobra. Hay que destacar que los nom bres con los que se designan los diferentes elementos varían, sin embargo, ambas figuras representan lo mismo (Fig. 5.2). | Un valor negativo genera desconfianza hacia la viabili dad de la empresa, ya que parte del activo inmovilizado se financia con los recursos ajenos a corto plazo, es decir, con las deudas pendientes de cobro en un plazo inferior a un año. En esta figura se puede observar la representación gráfi ca del fondo de maniobra. Hay que destacar que los nom bres con los que se designan los diferentes elementos varían, sin embargo, ambas figuras representan lo mismo (Fig. 5.2). | Un valor negativo genera desconfianza hacia la viabili dad de la empresa, ya que parte del activo inmovilizado se financia con los recursos ajenos a corto plazo, es decir, con las deudas pendientes de cobro en un plazo inferior a un año. En esta figura se puede observar la representación gráfi ca del fondo de maniobra. Hay que destacar que los nom bres con los que se designan los diferentes elementos varían, sin embargo, ambas figuras representan lo mismo (Fig. 5.2). |
-| Fondo de maniobra (FM) | FM = activo corriente - pasivo corriente FM = activo no corriente - patrimonio neto - pasivo no corriente Es una medida de seguridad con que la empresa puede hacer frente al poten cial descuadre entre la corriente de cobros y la de pagos. Con el fin de evi tar problemas financieros, es preciso que lo que se cobre antes de un año sea superior a los pagos pendientes del mismo periodo de tiempo. Este ratio se calcula de dos maneras diferentes: o bien, como el activo cir culante menos el pasivo circulante, o bien, como el activo fijo menos el pasivo fijo. | Activo | | Pasivo |
-| Fondo de maniobra (FM) | FM = activo corriente - pasivo corriente FM = activo no corriente - patrimonio neto - pasivo no corriente Es una medida de seguridad con que la empresa puede hacer frente al poten cial descuadre entre la corriente de cobros y la de pagos. Con el fin de evi tar problemas financieros, es preciso que lo que se cobre antes de un año sea superior a los pagos pendientes del mismo periodo de tiempo. Este ratio se calcula de dos maneras diferentes: o bien, como el activo cir culante menos el pasivo circulante, o bien, como el activo fijo menos el pasivo fijo. | Activo inmovilizado | | Recursos propios |
-| Fondo de maniobra (FM) | FM = activo corriente - pasivo corriente FM = activo no corriente - patrimonio neto - pasivo no corriente Es una medida de seguridad con que la empresa puede hacer frente al poten cial descuadre entre la corriente de cobros y la de pagos. Con el fin de evi tar problemas financieros, es preciso que lo que se cobre antes de un año sea superior a los pagos pendientes del mismo periodo de tiempo. Este ratio se calcula de dos maneras diferentes: o bien, como el activo cir culante menos el pasivo circulante, o bien, como el activo fijo menos el pasivo fijo. | Activo circulante | Fondo de maniobra | Recursos ajenos LP Recursos ajenos CP |
-| Fondo de maniobra (FM) | Fig. 5.2. Fondo de maniobra. | Fig. 5.2. Fondo de maniobra. | Fig. 5.2. Fondo de maniobra. | Fig. 5.2. Fondo de maniobra. |
+| Ratlo de endeuda miento financiero (REF) | REF = exigible total / pasivo total Este cociente analiza el peso de las deudas respecto al pasivo total de la empresa. Por tanto, tendrá un valor alto en aquellas empresas que carecen de recursos propios para financiarse y deben acudir, por ello, a fuentes exter nas de financiación. El REF mide el riesgo financiero de la empresa e indica su capacidad de en deudamiento.                                                                                                                                                                                          | Dado que la fuente principal de financiación de la empresa deben ser los fondos propios, un valor ideal de este ratio es alrededor de 0,5, lo que indicaría un equilibrio entre la deuda a corto plazo y el capital permanente de la empresa; en otras palabras, que la empresa se financia tanto con recursos propios como con medios ajenos. Cuanto mayor sea el pasivo corriente, más peligro de insolvencia y de falta de liquidez para nuestra empresa y a la inversa, una deuda a largo plazo ofrecerá más margen a la empresa para responder de sus deudas. Un valor superior a 0,5 alertaría sobre el exceso de endeu damiento de la empresa o, lo que es lo mismo, sobre su descapitalización. La descapitalización supone el empobrecimiento o pér dida de riqueza de la empresa. Tiene lugar cuando los ele                                                                                                                                  | Dado que la fuente principal de financiación de la empresa deben ser los fondos propios, un valor ideal de este ratio es alrededor de 0,5, lo que indicaría un equilibrio entre la deuda a corto plazo y el capital permanente de la empresa; en otras palabras, que la empresa se financia tanto con recursos propios como con medios ajenos. Cuanto mayor sea el pasivo corriente, más peligro de insolvencia y de falta de liquidez para nuestra empresa y a la inversa, una deuda a largo plazo ofrecerá más margen a la empresa para responder de sus deudas. Un valor superior a 0,5 alertaría sobre el exceso de endeu damiento de la empresa o, lo que es lo mismo, sobre su descapitalización. La descapitalización supone el empobrecimiento o pér dida de riqueza de la empresa. Tiene lugar cuando los ele                                                                                                                                  | Dado que la fuente principal de financiación de la empresa deben ser los fondos propios, un valor ideal de este ratio es alrededor de 0,5, lo que indicaría un equilibrio entre la deuda a corto plazo y el capital permanente de la empresa; en otras palabras, que la empresa se financia tanto con recursos propios como con medios ajenos. Cuanto mayor sea el pasivo corriente, más peligro de insolvencia y de falta de liquidez para nuestra empresa y a la inversa, una deuda a largo plazo ofrecerá más margen a la empresa para responder de sus deudas. Un valor superior a 0,5 alertaría sobre el exceso de endeu damiento de la empresa o, lo que es lo mismo, sobre su descapitalización. La descapitalización supone el empobrecimiento o pér dida de riqueza de la empresa. Tiene lugar cuando los ele                                                                                                                                  |
+| ---------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Ratio de autonomía financiera (RAF)      | RAF = recursos propios / exigible total Este valor señala la independencia de la empresa con respecto a recursos aje nos. Por esta razón, con este dato se pretende conocer el nivel óptimo de endeudamiento de una empresa.                                                                                                                                                                                                                                                                                                                                                  | Su valor normal debería ser superior a 1, lo que indicaría una situación de independencia de fondos ajenos. Cuanto mayor sea esta relación, menos dependerá de la compañía de acreedores. La interpretación de este dato depende del sector de acti vidad de la empresa, ya que hay actividades que requie ren un uso constante de fuentes externas de financiación, como la investigación, enseñanza o las instituciones sin fines de lucro. La independencia financiera está íntimamente ligada a la solvencia, entendida esta en sentido amplio, es decir, como la garantía aportada por los activos y por la pro ducción de flujos de tesorería para atender al coste de los recursos propios y ajenos, y al reintegro de estos últimos. Este ratio es el inverso al de endeudamiento. Como es lógico suponer, ya que miden aspectos contrapuestos, las compañías con un RAF alto tienen, en cambio, un bajo resultado en el ratio REF y viceversa. | Su valor normal debería ser superior a 1, lo que indicaría una situación de independencia de fondos ajenos. Cuanto mayor sea esta relación, menos dependerá de la compañía de acreedores. La interpretación de este dato depende del sector de acti vidad de la empresa, ya que hay actividades que requie ren un uso constante de fuentes externas de financiación, como la investigación, enseñanza o las instituciones sin fines de lucro. La independencia financiera está íntimamente ligada a la solvencia, entendida esta en sentido amplio, es decir, como la garantía aportada por los activos y por la pro ducción de flujos de tesorería para atender al coste de los recursos propios y ajenos, y al reintegro de estos últimos. Este ratio es el inverso al de endeudamiento. Como es lógico suponer, ya que miden aspectos contrapuestos, las compañías con un RAF alto tienen, en cambio, un bajo resultado en el ratio REF y viceversa. | Su valor normal debería ser superior a 1, lo que indicaría una situación de independencia de fondos ajenos. Cuanto mayor sea esta relación, menos dependerá de la compañía de acreedores. La interpretación de este dato depende del sector de acti vidad de la empresa, ya que hay actividades que requie ren un uso constante de fuentes externas de financiación, como la investigación, enseñanza o las instituciones sin fines de lucro. La independencia financiera está íntimamente ligada a la solvencia, entendida esta en sentido amplio, es decir, como la garantía aportada por los activos y por la pro ducción de flujos de tesorería para atender al coste de los recursos propios y ajenos, y al reintegro de estos últimos. Este ratio es el inverso al de endeudamiento. Como es lógico suponer, ya que miden aspectos contrapuestos, las compañías con un RAF alto tienen, en cambio, un bajo resultado en el ratio REF y viceversa. |
+| Fondo de maniobra (FM)                   | FM = activo corriente - pasivo corriente FM = activo no corriente - patrimonio neto - pasivo no corriente Es una medida de seguridad con que la empresa puede hacer frente al poten cial descuadre entre la corriente de cobros y la de pagos. Con el fin de evi tar problemas financieros, es preciso que lo que se cobre antes de un año sea superior a los pagos pendientes del mismo periodo de tiempo. Este ratio se calcula de dos maneras diferentes: o bien, como el activo cir culante menos el pasivo circulante, o bien, como el activo fijo menos el pasivo fijo. | Un valor negativo genera desconfianza hacia la viabili dad de la empresa, ya que parte del activo inmovilizado se financia con los recursos ajenos a corto plazo, es decir, con las deudas pendientes de cobro en un plazo inferior a un año. En esta figura se puede observar la representación gráfi ca del fondo de maniobra. Hay que destacar que los nom bres con los que se designan los diferentes elementos varían, sin embargo, ambas figuras representan lo mismo (Fig. 5.2).                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Un valor negativo genera desconfianza hacia la viabili dad de la empresa, ya que parte del activo inmovilizado se financia con los recursos ajenos a corto plazo, es decir, con las deudas pendientes de cobro en un plazo inferior a un año. En esta figura se puede observar la representación gráfi ca del fondo de maniobra. Hay que destacar que los nom bres con los que se designan los diferentes elementos varían, sin embargo, ambas figuras representan lo mismo (Fig. 5.2).                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Un valor negativo genera desconfianza hacia la viabili dad de la empresa, ya que parte del activo inmovilizado se financia con los recursos ajenos a corto plazo, es decir, con las deudas pendientes de cobro en un plazo inferior a un año. En esta figura se puede observar la representación gráfi ca del fondo de maniobra. Hay que destacar que los nom bres con los que se designan los diferentes elementos varían, sin embargo, ambas figuras representan lo mismo (Fig. 5.2).                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| Fondo de maniobra (FM)                   | FM = activo corriente - pasivo corriente FM = activo no corriente - patrimonio neto - pasivo no corriente Es una medida de seguridad con que la empresa puede hacer frente al poten cial descuadre entre la corriente de cobros y la de pagos. Con el fin de evi tar problemas financieros, es preciso que lo que se cobre antes de un año sea superior a los pagos pendientes del mismo periodo de tiempo. Este ratio se calcula de dos maneras diferentes: o bien, como el activo cir culante menos el pasivo circulante, o bien, como el activo fijo menos el pasivo fijo. | Activo                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Pasivo                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| Fondo de maniobra (FM)                   | FM = activo corriente - pasivo corriente FM = activo no corriente - patrimonio neto - pasivo no corriente Es una medida de seguridad con que la empresa puede hacer frente al poten cial descuadre entre la corriente de cobros y la de pagos. Con el fin de evi tar problemas financieros, es preciso que lo que se cobre antes de un año sea superior a los pagos pendientes del mismo periodo de tiempo. Este ratio se calcula de dos maneras diferentes: o bien, como el activo cir culante menos el pasivo circulante, o bien, como el activo fijo menos el pasivo fijo. | Activo inmovilizado                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Recursos propios                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| Fondo de maniobra (FM)                   | FM = activo corriente - pasivo corriente FM = activo no corriente - patrimonio neto - pasivo no corriente Es una medida de seguridad con que la empresa puede hacer frente al poten cial descuadre entre la corriente de cobros y la de pagos. Con el fin de evi tar problemas financieros, es preciso que lo que se cobre antes de un año sea superior a los pagos pendientes del mismo periodo de tiempo. Este ratio se calcula de dos maneras diferentes: o bien, como el activo cir culante menos el pasivo circulante, o bien, como el activo fijo menos el pasivo fijo. | Activo circulante                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | Fondo de maniobra                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | Recursos ajenos LP Recursos ajenos CP                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Fondo de maniobra (FM)                   | Fig. 5.2. Fondo de maniobra.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Fig. 5.2. Fondo de maniobra.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | Fig. 5.2. Fondo de maniobra.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | Fig. 5.2. Fondo de maniobra.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 
 El cashflowoflujo de caja es la cantidad de dinero generada por una empresa. Se calcula restando los gastos de los ingresos, es decir, es el importe del dinero líquido disponible.
 
@@ -4277,30 +4434,30 @@ El juez, en tal caso, deberá analizar los datos que aporte la empresa relativos
 
 En la Tabla 5.4 se comparan los resultados de varios años consecutivos con el rango ideal que debería tener. En este caso, vemos que el análisis de esta información arroja conclusiones favorables y positivas para la empresa.
 
-| Ratio liquidez | 0,92 | 0,87 | 0,87 | 0,84 | 0,78 | 1,5 - 2 |
-|---------------------------------|---------|---------|---------|----------|---------|----------------|
-| Hallo tesorería | 0,39 | 0,37 | 0,37 | 0,317 | 0,27 | 1 |
-| Apalancamiento | 0,48 | 0,48 | 0,47 | 0,44 | 0,44 | 0,4 - 0,6 |
-| RAF | 1,07 | 1,07 | 1,14 | 1,24 | 1,25 | 0,7-1,5 |
-| ROE | 2,07 | 2,75 | 2,14 | 2,24 | 2,25 | > 1 |
-| Ratio de disponibilidad | 0,72 | 0,73 | 0,74 | 0,74 | 0,77 | 0,2 - 0,4 |
-| REF | 0,48 | 0,48 | 0,47 | 0,44 | 0,44 | 0,4 - 0,5 |
-| Rotación | 1,39 | 1,37 | 1,35 | 1,37 | 1,36 | Alto |
-| Periodo medio de almacenamiento | 70 | 67 | 68 | 67 | 68 | Bajo |
-| Periodo medio de cobro | 31 | 30 | 27 | 19 | 19 | Bajo |
-| Periodo medio de pago | 91 | 89 | 91 | 90 | 86 | Bajo |
-| Capital circulante | -209287 | -429488 | -464397 | -574071 | -889906 | >0 |
-| Necesidad de capital circulante | -86595 | -350382 | -340325 | -486 564 | -700259 | Bajo |
-| Déficit de capital circulante | -122692 | -79106 | -124072 | -87507 | -189647 | Negativo |
-| Incremento de ventas | - | 1,09 | 1,08 | 1,07 | 1,08 | Alto |
-| incremento del beneficio neto | - | 1,10 | 1,08 | 1,06 | 1,07 | Alto |
-| Beneficio marginal | 5,38 | 5,15 | 5,3 | 5,18 | 5,14 | Alto |
-| ROE | 14,53 | 13,65 | 13,54 | 12,86 | 12,66 | Se espera alto |
-| ROÍ | 7,52 | 7,08 | 7,2 | 7,13 | 7,03 | Alto |
-| Efectivo | 0,05 | 0,039 | 0,07 | 0,09 | 0,06 | 0,3 |
-| Intereses sobre ventas | 0,007 | 0,006 | 0,003 | 0,008 | 0,005 | < 0,004 |
-| Coste medio de la deuda | 0,022 | 0,018 | 0,009 | 0,015 | 0,01 | <0,4 |
-| Rotación de cobros | 11,6 | 11,86 | 13,28 | 18,66 | 19,19 | Alto |
+| Ratio liquidez                  | 0,92    | 0,87    | 0,87    | 0,84     | 0,78    | 1,5 - 2        |
+| ------------------------------- | ------- | ------- | ------- | -------- | ------- | -------------- |
+| Hallo tesorería                 | 0,39    | 0,37    | 0,37    | 0,317    | 0,27    | 1              |
+| Apalancamiento                  | 0,48    | 0,48    | 0,47    | 0,44     | 0,44    | 0,4 - 0,6      |
+| RAF                             | 1,07    | 1,07    | 1,14    | 1,24     | 1,25    | 0,7-1,5        |
+| ROE                             | 2,07    | 2,75    | 2,14    | 2,24     | 2,25    | > 1            |
+| Ratio de disponibilidad         | 0,72    | 0,73    | 0,74    | 0,74     | 0,77    | 0,2 - 0,4      |
+| REF                             | 0,48    | 0,48    | 0,47    | 0,44     | 0,44    | 0,4 - 0,5      |
+| Rotación                        | 1,39    | 1,37    | 1,35    | 1,37     | 1,36    | Alto           |
+| Periodo medio de almacenamiento | 70      | 67      | 68      | 67       | 68      | Bajo           |
+| Periodo medio de cobro          | 31      | 30      | 27      | 19       | 19      | Bajo           |
+| Periodo medio de pago           | 91      | 89      | 91      | 90       | 86      | Bajo           |
+| Capital circulante              | -209287 | -429488 | -464397 | -574071  | -889906 | >0             |
+| Necesidad de capital circulante | -86595  | -350382 | -340325 | -486 564 | -700259 | Bajo           |
+| Déficit de capital circulante   | -122692 | -79106  | -124072 | -87507   | -189647 | Negativo       |
+| Incremento de ventas            | -       | 1,09    | 1,08    | 1,07     | 1,08    | Alto           |
+| incremento del beneficio neto   | -       | 1,10    | 1,08    | 1,06     | 1,07    | Alto           |
+| Beneficio marginal              | 5,38    | 5,15    | 5,3     | 5,18     | 5,14    | Alto           |
+| ROE                             | 14,53   | 13,65   | 13,54   | 12,86    | 12,66   | Se espera alto |
+| ROÍ                             | 7,52    | 7,08    | 7,2     | 7,13     | 7,03    | Alto           |
+| Efectivo                        | 0,05    | 0,039   | 0,07    | 0,09     | 0,06    | 0,3            |
+| Intereses sobre ventas          | 0,007   | 0,006   | 0,003   | 0,008    | 0,005   | < 0,004        |
+| Coste medio de la deuda         | 0,022   | 0,018   | 0,009   | 0,015    | 0,01    | <0,4           |
+| Rotación de cobros              | 11,6    | 11,86   | 13,28   | 18,66    | 19,19   | Alto           |
 
 Tabla 5.4. Ratios de El Corte Inglés desde 2002 hasta 2006.
 
@@ -4336,7 +4493,7 @@ Una vez que tengas definidos los clientes por mes, traduce esas ventas a dinero,
 
 La previsión de clientes es un dato vital no solo para calcular las ventas, sino también los gastos, ya que la empresa trata de ser lo más eficiente posible; en función de ello, realiza las compras paulatinamente a medida que se requieren. Habrá sectores donde será necesario contar con un stock alto, como en una tienda de ropa, pero habrá otros donde se fabricará cuando sea demandado, como en una tienda de muebles.
 
-■ ■--..;*-.-?, Realiza una estimación de la compra de materias primas teniendo en cuenta lo dicho en el párrafo anterior y tradúcela en gasto, considerando el precio al que adquirís vuestras provisiones. La Simulación realizada en la Unidad 2 te resultará de gran utilidad, ya que en ese momento fijaste el precio de vuestros productos o servicios según el criterio que os pare ció más conveniente, pero siempre con la certeza de que se cubrirían gastos y se obtendrían un beneficio.
+■ ■--..;\*-.-?, Realiza una estimación de la compra de materias primas teniendo en cuenta lo dicho en el párrafo anterior y tradúcela en gasto, considerando el precio al que adquirís vuestras provisiones. La Simulación realizada en la Unidad 2 te resultará de gran utilidad, ya que en ese momento fijaste el precio de vuestros productos o servicios según el criterio que os pare ció más conveniente, pero siempre con la certeza de que se cubrirían gastos y se obtendrían un beneficio.
 
 Añade a estos cálculos las previsiones de gastos realizados en la Unidad 4, cuando definiste vuestras necesidades de inversión. Comprueba que los datos resultan coherentes y, en caso contrario, modifica el que no se ajuste.
 
@@ -4401,19 +4558,19 @@ Con el fin de conocer cuál es la cuota mensual a pagar, se han creado las tabla
 
 Te proponemos como ejemplo, consultar el simulador de Bankimia, una web especializada en la comparativa de produc tos financieros, http://www.bankimia.com/simulador-de-hipotecas. Obtendrás una tabla como la que se muestra más abajo. Realiza tantas simulaciones como quieras, sin olvidarte de seleccionar en cada caso la opción Mostrar cuadro de amortización. El resultado será parecido a este que se muestra. Anota la cuota a devolver cada mes para incorporarla en el Plan de tesorería y el resto de documentos.
 
-| 1 | 1 | 143,74 € | 13,69€ | 130,05 € | 8069,95 € | - |
-|-----|-----|------------|----------|------------|-------------|-----|
-| 2 | 1 | 143,74 € | 13,48€ | 130,26 € | 7939,69 € | - |
-| 3 | 1 | 143,74 € | 13,26 € | 130,48 € | 7809,20 € | - |
-| 4 | 1 | 143,74 € | 13,04€ | 130,70 € | 7678,50 € | - |
-| 5 | 1 | 143,74 € | 12,82 € | 130,92 € | 7 547,58 € | - |
-| 6 | 1 | 143,74 € | 12,60€ | 131,14€ | 7416,45 € | - |
-| 7 | 1 | 143,74 € | 12,38€ | 131,36€ | 7 285,09 € | - |
-| 8 | 1 | 143,74 € | 12,17€ | 131,58€ | 7153,51 € | - |
-| 9 | 1 | 143,74 € | 11,95€ | 131,80€ | 7021,72 € | - |
-| 10 | 1 | 143,74 € | 11,73€ | 132,02 € | 6889,70 € | - |
-| 11 | 1 | 143,74 € | 11,51 € | 132,24 € | 6 757,47 € | - |
-| 12 | 1 | 143,74 € | 11,29€ | 132,46 € | 6625,01 € | - |
+| 1   | 1   | 143,74 € | 13,69€  | 130,05 € | 8069,95 €  | -   |
+| --- | --- | -------- | ------- | -------- | ---------- | --- |
+| 2   | 1   | 143,74 € | 13,48€  | 130,26 € | 7939,69 €  | -   |
+| 3   | 1   | 143,74 € | 13,26 € | 130,48 € | 7809,20 €  | -   |
+| 4   | 1   | 143,74 € | 13,04€  | 130,70 € | 7678,50 €  | -   |
+| 5   | 1   | 143,74 € | 12,82 € | 130,92 € | 7 547,58 € | -   |
+| 6   | 1   | 143,74 € | 12,60€  | 131,14€  | 7416,45 €  | -   |
+| 7   | 1   | 143,74 € | 12,38€  | 131,36€  | 7 285,09 € | -   |
+| 8   | 1   | 143,74 € | 12,17€  | 131,58€  | 7153,51 €  | -   |
+| 9   | 1   | 143,74 € | 11,95€  | 131,80€  | 7021,72 €  | -   |
+| 10  | 1   | 143,74 € | 11,73€  | 132,02 € | 6889,70 €  | -   |
+| 11  | 1   | 143,74 € | 11,51 € | 132,24 € | 6 757,47 € | -   |
+| 12  | 1   | 143,74 € | 11,29€  | 132,46 € | 6625,01 €  | -   |
 
 ## Consideraciones a tener en cuenta al utilizar un simulador de hipotecas
 
@@ -4421,6 +4578,7 @@ Te proponemos como ejemplo, consultar el simulador de Bankimia, una web especial
 - b) A los gastos mensuales hay que añadir los gastos iniciales de constitución del préstamo, relativos a notaría, pago de impuestos, etc. En general, se suele prever un 10% del importe del préstamo.
 - c) Estos simuladores no incluyen condiciones particulares que se pueden pactar con un banco, como las comisiones.
 - d) Si el tipo de interés es variable, la cuota cambiará cada vez que se revise el préstamo (una vez al año suele ser lo habitual). Por ello, hay que realizar una provisión de fondos mayor de la estimada para los primeros meses que se actualice la cuota. Si es inferior, ese dinero previsto se podrá emplear en otro gasto, pero es preferible inmovilizar un capital por un tiempo antes que tener que renegociar la deuda. Nuestra fiabilidad como acreedores quedará en entredicho y puede comprometer otros préstamos, créditos o servicios de confirming ofactoring que quera mos contratar con la entidad bancaria.
+
 5. ej El coste del préstamo será más próximo a la TAE (Tasa Anual Equivalente), que al TIN (Tipo de Interés Nominal). Es frecuente que las entidades financieras anuncien e informen, en un primer momento, del TIN a pagar por el préstamo solicitado. Sin embargo, cada préstamo incluye unas condiciones particulares en concepto de comisio nes y gastos. La comparación entre una entidad financiera y otra es difícil, razón por la cual es prescriptivo que se informe también sobre la TAE, que sería un porcentaje mayor que el TIN porque incluye estos otros costes.
 
 Los bancos y cajas están obligados por ley a publicar la TAE de los préstamos, aunque en el caso de tipos de inte rés variables esta cifra variará a medida que el criterio para fijar el interés (que suele ser el Euribor) aumente o descienda. Puedes ampliar esta información en este enlace:
@@ -4523,57 +4681,57 @@ Con estos datos elabora el Plan de tesorería.
 
 ## Solución:
 
-| Aportaciones de la empresaria | | 100000 | | | | | | | | | | |
-|----------------------------------------------|----|----------|--------|--------|--------|--------|-------|-------|-------|-------|-------|--------|
-| Préstamos solicitados | | 40000 | | | | | | | | | | |
-| Ventas | | 2000 | 2000 | 2000 | 2000 | 5000 | 5000 | 5000 | 5000 | 5000 | 5000 | 50000 |
-| Intereses de la cuenta bancaria | | | | | | | | | | | | |
-| Otros ingresos | | | | | | | | | | | | |
-| Total entradas | 0 | 142000 | 2000 | 2000 | 2000 | 5000 | 5000 | 5000 | 5000 | 5000 | 5000 | 50000 |
-| Compra activo fijo (maquinaria, ordenadores) | | | | | | | | | | | | 15000 |
-| Compra proveedores (materia prima) | | 3000 | 3000 | 3000 | 3000 | 3000 | 3000 | 3000 | 3000 | 3000 | 3000 | 100000 |
-| Fianza | | | | | | | | | | | | |
-| Alquiler | | | | | | | | | | | | |
-| Seguros | | | | | | | | | | | | |
-| Devolución de préstamo | | | | | | 5000 | | | | | | |
-| Devolución de interés | | 200 | 200 | 200 | 200 | 200 | 200 | 200 | 200 | 200 | 200 | 200 |
-| Sueldos | | | 2000 | 2000 | 2000 | 4000 | 2000 | 2000 | 2000 | 2000 | 2000 | 4000 |
-| Cotización a la Seg. Soc. | | 250 | 250 | 250 | 250 | 500 | 250 | 250 | 250 | 250 | 250 | 500 |
-| Suministros: agua, luz, teléfono, etc. | | 800 | 800 | 800 | 800 | 800 | 800 | 800 | 800 | 800 | 800 | 3.200 |
-| Publicidad | | 3000 | | | | | | | | | 1500 | |
-| Tributos (impuestos) | | | 500 | | | 500 | | | 500 | | | 500 |
-| Obras | | 7000 | | | | 7000 | | | | | | |
-| Total salidas | O | 16250 | 6750 | 6250 | 6250 | 21000 | 6250 | 6250 | 6750 | 6250 | 7750 | 123400 |
-| Entradas-salidas | 0 | 125750 | -4750 | -4250 | -4250 | -16000 | -1250 | -1250 | -1750 | -1750 | -2750 | -73400 |
-| Saldo acumulado | 0 | 125750 | 121000 | 116750 | 112500 | 96500 | 95250 | 94000 | 92250 | 91000 | 88250 | 14850 |
+| Aportaciones de la empresaria                |     | 100000 |        |        |        |        |       |       |       |       |       |        |
+| -------------------------------------------- | --- | ------ | ------ | ------ | ------ | ------ | ----- | ----- | ----- | ----- | ----- | ------ |
+| Préstamos solicitados                        |     | 40000  |        |        |        |        |       |       |       |       |       |        |
+| Ventas                                       |     | 2000   | 2000   | 2000   | 2000   | 5000   | 5000  | 5000  | 5000  | 5000  | 5000  | 50000  |
+| Intereses de la cuenta bancaria              |     |        |        |        |        |        |       |       |       |       |       |        |
+| Otros ingresos                               |     |        |        |        |        |        |       |       |       |       |       |        |
+| Total entradas                               | 0   | 142000 | 2000   | 2000   | 2000   | 5000   | 5000  | 5000  | 5000  | 5000  | 5000  | 50000  |
+| Compra activo fijo (maquinaria, ordenadores) |     |        |        |        |        |        |       |       |       |       |       | 15000  |
+| Compra proveedores (materia prima)           |     | 3000   | 3000   | 3000   | 3000   | 3000   | 3000  | 3000  | 3000  | 3000  | 3000  | 100000 |
+| Fianza                                       |     |        |        |        |        |        |       |       |       |       |       |        |
+| Alquiler                                     |     |        |        |        |        |        |       |       |       |       |       |        |
+| Seguros                                      |     |        |        |        |        |        |       |       |       |       |       |        |
+| Devolución de préstamo                       |     |        |        |        |        | 5000   |       |       |       |       |       |        |
+| Devolución de interés                        |     | 200    | 200    | 200    | 200    | 200    | 200   | 200   | 200   | 200   | 200   | 200    |
+| Sueldos                                      |     |        | 2000   | 2000   | 2000   | 4000   | 2000  | 2000  | 2000  | 2000  | 2000  | 4000   |
+| Cotización a la Seg. Soc.                    |     | 250    | 250    | 250    | 250    | 500    | 250   | 250   | 250   | 250   | 250   | 500    |
+| Suministros: agua, luz, teléfono, etc.       |     | 800    | 800    | 800    | 800    | 800    | 800   | 800   | 800   | 800   | 800   | 3.200  |
+| Publicidad                                   |     | 3000   |        |        |        |        |       |       |       |       | 1500  |        |
+| Tributos (impuestos)                         |     |        | 500    |        |        | 500    |       |       | 500   |       |       | 500    |
+| Obras                                        |     | 7000   |        |        |        | 7000   |       |       |       |       |       |        |
+| Total salidas                                | O   | 16250  | 6750   | 6250   | 6250   | 21000  | 6250  | 6250  | 6750  | 6250  | 7750  | 123400 |
+| Entradas-salidas                             | 0   | 125750 | -4750  | -4250  | -4250  | -16000 | -1250 | -1250 | -1750 | -1750 | -2750 | -73400 |
+| Saldo acumulado                              | 0   | 125750 | 121000 | 116750 | 112500 | 96500  | 95250 | 94000 | 92250 | 91000 | 88250 | 14850  |
 
 ## Caso práctico 2. Julio y Miguel Martínez, S.L (Parte 1: Plan de tesorería)
 
 Julio y Miguel Martínez han decidido montar su propio negocio. En el planteamiento de este Caso práctico vamos a hacer un doble proceso. Anotaremos los ingresos y gastos que han ido teniendo a partir de los datos contenidos en su Plan de tesorería. Después, aprovecharemos esos datos para confeccionar su Plan de tesorería sin mirar los resultados.
 
-| Aportaciones de los empresarios | 60000 | | | | | | | | | | | |
-|----------------------------------------------|---------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|---------|
-| Préstamos solicitados | 90000 | | | | | | | | | | | |
-| Ventas ^ | 10000 | 20000 | 14000 | 19000 | 10000 | 12000 | 14000 | 8000 | 10000 | 12000 | 23000 | 13000 |
-| Intereses de la cuenta bancada | 4 | 4 | 4 | | | | | | 4 | 4 | 4 | 4 |
-| Otros ingresos | | | | | | | | | | | | |
-| Total entradas | 160004 | 20004 | 14004 | 19004 | 10004 | 12004 | 14004 | 8004 | 10004 | 12004 | 23004 | 13004 |
-| Compra activo fijo (maquinaria, ordenadores) | 12000 | | | | | | | | | | | |
-| Compra proveedores (materia prima) | 5000 | 5000 | 5000 | 5000 | 5000 | 5000 | 5000 | 5000 | 5000 | 5000 | 5000 | 5000 |
-| Fianza | 2000 | | | | | | | | | | | |
-| Alquiler | 1000 | 1000 | 1000 | 1000 | 1000 | 1000 | 1000 | 1000 | 1000 | 1000 | 1000 | 1000 |
-| Seguros | 950 | | | | | | | | | | | |
-| Devolución de préstamo | | | 3000 | | | 3000 | | | 3000 | | | 3000 |
-| Devolución de intereses | | | 150 | | | 150 | | | 150 | | | 150 |
-| Sueldos | 2600 | 2600 | 2600 | 2600 | 2600 | 5200 | 2600 | 2600 | 2600 | 2600 | 2600 | 5200 |
-| Cotización a la Seg. Soc. | 300 | 300 | 300 | 300 | 300 | 600 | 300 | 300 | 300 | 300 | 300 | 600 |
-| Suministros: agua, luz, teléfono, etc. | 630 | 630 | 630 | 630 | 630 | 630 | 630 | 630 | 630 | 630 | 630 | 630 |
-| Publicidad | 2400 | | | | | | | | | | | 7600 |
-| Tributos (impuestos) | 1000 | 0 | 0 | 0 | 0 | 0 | 1000 | 0 | 0 | 0 | 0 | 0 |
-| Obras | | | | | | | | | | | | |
-| Total salidas | 27880 | $530 | 12680 | 9530 | 9530 | 15580 | 10530 | 9530 | 12680 | 9530 | 9530 | 23180 |
-| Entradas-salidas(2) | 132124 | 10474 | 1324 | 9474 | 474 | -3S76 | 3474 | -1526 | -2676 | 2474 | 13474 | -10176 |
-| Saldo en el banco'3' | 132124 | 142598 | 143922 | 153396 | 153870 | 150294 | 153768 | 152242 | 149566 | 152040 | 165514 | 155338W |
+| Aportaciones de los empresarios              | 60000  |        |        |        |        |        |        |        |        |        |        |         |
+| -------------------------------------------- | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------- |
+| Préstamos solicitados                        | 90000  |        |        |        |        |        |        |        |        |        |        |         |
+| Ventas ^                                     | 10000  | 20000  | 14000  | 19000  | 10000  | 12000  | 14000  | 8000   | 10000  | 12000  | 23000  | 13000   |
+| Intereses de la cuenta bancada               | 4      | 4      | 4      |        |        |        |        |        | 4      | 4      | 4      | 4       |
+| Otros ingresos                               |        |        |        |        |        |        |        |        |        |        |        |         |
+| Total entradas                               | 160004 | 20004  | 14004  | 19004  | 10004  | 12004  | 14004  | 8004   | 10004  | 12004  | 23004  | 13004   |
+| Compra activo fijo (maquinaria, ordenadores) | 12000  |        |        |        |        |        |        |        |        |        |        |         |
+| Compra proveedores (materia prima)           | 5000   | 5000   | 5000   | 5000   | 5000   | 5000   | 5000   | 5000   | 5000   | 5000   | 5000   | 5000    |
+| Fianza                                       | 2000   |        |        |        |        |        |        |        |        |        |        |         |
+| Alquiler                                     | 1000   | 1000   | 1000   | 1000   | 1000   | 1000   | 1000   | 1000   | 1000   | 1000   | 1000   | 1000    |
+| Seguros                                      | 950    |        |        |        |        |        |        |        |        |        |        |         |
+| Devolución de préstamo                       |        |        | 3000   |        |        | 3000   |        |        | 3000   |        |        | 3000    |
+| Devolución de intereses                      |        |        | 150    |        |        | 150    |        |        | 150    |        |        | 150     |
+| Sueldos                                      | 2600   | 2600   | 2600   | 2600   | 2600   | 5200   | 2600   | 2600   | 2600   | 2600   | 2600   | 5200    |
+| Cotización a la Seg. Soc.                    | 300    | 300    | 300    | 300    | 300    | 600    | 300    | 300    | 300    | 300    | 300    | 600     |
+| Suministros: agua, luz, teléfono, etc.       | 630    | 630    | 630    | 630    | 630    | 630    | 630    | 630    | 630    | 630    | 630    | 630     |
+| Publicidad                                   | 2400   |        |        |        |        |        |        |        |        |        |        | 7600    |
+| Tributos (impuestos)                         | 1000   | 0      | 0      | 0      | 0      | 0      | 1000   | 0      | 0      | 0      | 0      | 0       |
+| Obras                                        |        |        |        |        |        |        |        |        |        |        |        |         |
+| Total salidas                                | 27880  | $530   | 12680  | 9530   | 9530   | 15580  | 10530  | 9530   | 12680  | 9530   | 9530   | 23180   |
+| Entradas-salidas(2)                          | 132124 | 10474  | 1324   | 9474   | 474    | -3S76  | 3474   | -1526  | -2676  | 2474   | 13474  | -10176  |
+| Saldo en el banco'3'                         | 132124 | 142598 | 143922 | 153396 | 153870 | 150294 | 153768 | 152242 | 149566 | 152040 | 165514 | 155338W |
 
 (1) datos de interpretación
 
@@ -4589,10 +4747,10 @@ Julio y Miguel Martínez han decidido montar su propio negocio. En el planteamie
 
 1. Las cifras de ventas han ¡do creciendo, salvo en los meses finales del año. Habrá que analizar la razón de este descenso y, en función de ello, establecer medidas correctoras.
 2. En este caso, los socios creen que se debe al aumento de las compras navideñas, ya que conlleva una disminución del gasto en otros aspectos menos necesarios, como es el tu neado. Se proponen lanzar algún tipo de oferta para el año como descuentos o acumula ción de puntos y canjearlo por un regalo de Reyes Magos.
-2. La fila de Entradas-Salidas muestra que todos los meses los ingresos han ¡do cubriendo los gastos, salvo el mes de junio, en que los gastos superaron los ingresos. Esto se debe a la carga que supone la amortización de una parte del préstamo de forma anual y al incre mento de los costes salariales, debido a que en estos meses se abonan las pagas extras. No se puede establecer ninguna medida correctiva para ahorrar costes en este caso.
+3. La fila de Entradas-Salidas muestra que todos los meses los ingresos han ¡do cubriendo los gastos, salvo el mes de junio, en que los gastos superaron los ingresos. Esto se debe a la carga que supone la amortización de una parte del préstamo de forma anual y al incre mento de los costes salariales, debido a que en estos meses se abonan las pagas extras. No se puede establecer ninguna medida correctiva para ahorrar costes en este caso.
 
-3. El dato final de Saldo en el banco informa de que ningún mes ha habido problemas de liquidez, por lo que no ha sido necesario acudir a fuentes de financiación externa. Sin embargo, tienen abierta una línea de crédito con su entidad bancaria, ya que la apertura y el mantenimiento no tiene ningún coste financiero y será de ayuda para cubrir posibles imprevistos o una reducción drástica e inesperada de la facturación.
-4. A pesar de finalizar con un saldo positivo de 155 338 euros, hay que tener en cuenta que, entre el capital social y el importe del préstamo, la empresa se inició con 60000 euros, además de que hay una deuda pendiente de devolución por valor de 78000 (= 90000 - 12000), por tanto, hay que ser prudentes a la hora de dar uso a este exceso de liquidez.
+4. El dato final de Saldo en el banco informa de que ningún mes ha habido problemas de liquidez, por lo que no ha sido necesario acudir a fuentes de financiación externa. Sin embargo, tienen abierta una línea de crédito con su entidad bancaria, ya que la apertura y el mantenimiento no tiene ningún coste financiero y será de ayuda para cubrir posibles imprevistos o una reducción drástica e inesperada de la facturación.
+5. A pesar de finalizar con un saldo positivo de 155 338 euros, hay que tener en cuenta que, entre el capital social y el importe del préstamo, la empresa se inició con 60000 euros, además de que hay una deuda pendiente de devolución por valor de 78000 (= 90000 - 12000), por tanto, hay que ser prudentes a la hora de dar uso a este exceso de liquidez.
 
 ## Fase 3. Elaboración de la cuenta de resultados o cuenta de pérdidas y ganancias
 
@@ -4621,15 +4779,15 @@ La cuenta de resultados tiene como finalidad fundamental conocer con anticipaci�
 
 Tabla 5.5. Información adicional que ofrece la cuenta de resultados.
 
-| ¿Se gana o se pierde cuota de mercado? | Respuesta deducible según la evolución de las ventas. |
-|-----------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
-| ¿Es rentable la empresa? | Analizable según la evolución de los beneficios año a año en el resultado ordinario. |
-| ¿Somos cada vez más eficientes? | Según muestren los gastos una tendencia a aumentar o a decrecer. |
-| ¿De dónde proceden los beneficios? | Se analiza si los buenos resultados son fruto de la actividad empresarial o de la buena gestión financiera. |
-| ¿Las deudas ahogan o permiten el crecimiento? | Se sabe comparando el resultado ordinario con el financiero. |
-| ¿Se pueden incrementar los beneficios? | Estudiando cómo incrementar los ingresos. |
-| ¿Se pueden reducir las pérdidas? | Analizando cómo disminuir los gastos. |
-| ¿Es viable la empresa, desde un punto de vista económico? | Según la evolución de los datos en tres años. |
+| ¿Se gana o se pierde cuota de mercado?                    | Respuesta deducible según la evolución de las ventas.                                                       |
+| --------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
+| ¿Es rentable la empresa?                                  | Analizable según la evolución de los beneficios año a año en el resultado ordinario.                        |
+| ¿Somos cada vez más eficientes?                           | Según muestren los gastos una tendencia a aumentar o a decrecer.                                            |
+| ¿De dónde proceden los beneficios?                        | Se analiza si los buenos resultados son fruto de la actividad empresarial o de la buena gestión financiera. |
+| ¿Las deudas ahogan o permiten el crecimiento?             | Se sabe comparando el resultado ordinario con el financiero.                                                |
+| ¿Se pueden incrementar los beneficios?                    | Estudiando cómo incrementar los ingresos.                                                                   |
+| ¿Se pueden reducir las pérdidas?                          | Analizando cómo disminuir los gastos.                                                                       |
+| ¿Es viable la empresa, desde un punto de vista económico? | Según la evolución de los datos en tres años.                                                               |
 
 Para elaborar una cuenta de resultados prevlsional se tienen en cuenta los datos obtenidos en el plan de tesorería, si bien, no todos se incluirán. Solo se registran los datos que producen un incremento o decremento de patrimonio en la empresa, por ejemplo, si mi familia me presta 100000 euros, no anotaré nada ya que no se trata de una ganancia, sino de una canti dad que será devuelta. Es por este motivo que no todos los datos que aparecen en el plan de tesorería tienen su correlato en la cuenta de resultados.
 
@@ -4664,49 +4822,49 @@ A continuación se propone la resolución de las cuentas de resultados de los do
 
 ## Caso práctico 1. Aurora Moreno, S.LU. (Parte 2: Cuenta de resultados previsional)
 
-| Ingresos de explotación | 88000 |
-|---------------------------------|---------|
-| Intereses de la cuenta bancaria | |
-| Ingresos financieros | 0 |
-| astos | |
-| Compras de materias primas | 130000 |
-| Alquiler | 0 |
-| Seguros | 0 |
-| Publicidad | 4500 |
-| Suministros | 11200 |
-| Tributos (impuestos) | 2000 |
-| Sueldos de personal | 26000 |
-| astos de Seguridad Social | 3250 |
-| Amortizaciones | 1500 |
-| astos de explotación | 178450 |
-| Intereses de préstamos | 2200 |
-| astos financieros | 2200 |
-| Resultado de explotación | -90450 |
-| Resultado financiero | -2200 |
-| Resultado final | «92650 |
+| Ingresos de explotación         | 88000  |
+| ------------------------------- | ------ |
+| Intereses de la cuenta bancaria |        |
+| Ingresos financieros            | 0      |
+| astos                           |        |
+| Compras de materias primas      | 130000 |
+| Alquiler                        | 0      |
+| Seguros                         | 0      |
+| Publicidad                      | 4500   |
+| Suministros                     | 11200  |
+| Tributos (impuestos)            | 2000   |
+| Sueldos de personal             | 26000  |
+| astos de Seguridad Social       | 3250   |
+| Amortizaciones                  | 1500   |
+| astos de explotación            | 178450 |
+| Intereses de préstamos          | 2200   |
+| astos financieros               | 2200   |
+| Resultado de explotación        | -90450 |
+| Resultado financiero            | -2200  |
+| Resultado final                 | «92650 |
 
 ## Caso práctico 2. Julio y Miguel Martínez, S.L (Parte 2: Cuenta de resultados previsional)
 
-| Ingresos de explotación | 165000 |
-|---------------------------------|-----------|
-| Intereses de la cuenta bancaria | |
-| Ingresos financieros | 48 |
-| astos | |
-| Compras de materias primas | 60000 |
-| Alquiler | 12000 |
-| Seguros | 950 |
-| Publicidad | 10000 |
-| Suministros | 7560 |
-| Tributos (impuestos) | 2000 |
-| Sueldos de personal | 36400 |
-| astos de Seguridad Social | 4200 |
-| Amortizaciones | 1200 |
-| astos de explotación | 134310 |
-| Intereses de préstamos | 600 |
-| astos financieros | 600 |
-| Resultado de explotación | 30690 <1> |
-| Resultado financiero | - 552 & |
-| Resultado final | 30138 (3> |
+| Ingresos de explotación         | 165000    |
+| ------------------------------- | --------- |
+| Intereses de la cuenta bancaria |           |
+| Ingresos financieros            | 48        |
+| astos                           |           |
+| Compras de materias primas      | 60000     |
+| Alquiler                        | 12000     |
+| Seguros                         | 950       |
+| Publicidad                      | 10000     |
+| Suministros                     | 7560      |
+| Tributos (impuestos)            | 2000      |
+| Sueldos de personal             | 36400     |
+| astos de Seguridad Social       | 4200      |
+| Amortizaciones                  | 1200      |
+| astos de explotación            | 134310    |
+| Intereses de préstamos          | 600       |
+| astos financieros               | 600       |
+| Resultado de explotación        | 30690 <1> |
+| Resultado financiero            | - 552 &   |
+| Resultado final                 | 30138 (3> |
 
 (2) datos de interpretación 2,
 
@@ -4715,9 +4873,11 @@ A continuación se propone la resolución de las cuentas de resultados de los do
 ## Interpretación de los datos obtenidos en la cuenta de resultados de Julio y Miguel Mar tínez, SI.
 
 1. Como puede observarse, el resultado final es positivo, lo que significa que la empresa está obteniendo beneficios.
+
 - a) Este dato debería contrastarse con el de años anteriores, para comprobar si la ten dencia es alcista o si, por el contrario, a pesar de haber obtenido ganancias estas han disminuido.
 - h) También debe compararse con el contexto, ya que no es lo mismo este resultado en una época de crisis generalizada, como la actual, que en un momento de expansión económica.
 - c) El valor de esta cifra debe analizarse bajo el prisma de la situación propia de la em presa, ya que una empresa de reciente creación podría tener un resultado deficitario el primer año y estar dentro de lo esperable.
+
 2. El resultado de explotación es positivo, lo que significa que los buenos resultados se deben a la actividad de la empresa en sí misma.
 3. El resultado financiero es negativo, lo que entra dentro de lo esperable, puesto que la mayoría de las empresas utilizan financiación ajena que hay que devolver. Sin embargo, el valor del resultado financiero es insignificante en comparación con el resultado de explotación, lo que significa que la empresa puede cubrir sin dificultades esta deuda. Un resultado positivo implicaría dos posibilidades: una, que la empresa no tiene pendiente de pago ninguna deuda y además tiene saldo positivo en el banco; dos, que los intereses por el dinero invertido son mayores a los que se pagan por el dinero prestado, por lo que la gestión financiera de la empresa está siendo excelente.
 
@@ -4747,15 +4907,15 @@ El balance es muy útil para tener una fotografía sencilla del estado patrimoni
 
 Tabla 5.6. Balance de situación de Zinkia antes de su salida a bolsa en julio de 2009.
 
-| Activo no corriente | 13206825 € | 12048414€ |
-|-----------------------|--------------|-------------|
-| Activo corriente | 6549401 € | 5972202 € |
-| TotalActivo | 19756226 € | 18020616€ |
-| Patrimonio neto | 6534609 € | 11843891 € |
-| Pasivo no corriente | 2763212€ | 2 751 842 € |
-| Pasivo corriente | 10458 404 € | 3 424884 € |
-| total recursos ajenos | 13221616C | 6176J26€ |
-| Fondo de maniobra | -3 903 003 € | 2547318€ |
+| Activo no corriente   | 13206825 €   | 12048414€   |
+| --------------------- | ------------ | ----------- |
+| Activo corriente      | 6549401 €    | 5972202 €   |
+| TotalActivo           | 19756226 €   | 18020616€   |
+| Patrimonio neto       | 6534609 €    | 11843891 €  |
+| Pasivo no corriente   | 2763212€     | 2 751 842 € |
+| Pasivo corriente      | 10458 404 €  | 3 424884 €  |
+| total recursos ajenos | 13221616C    | 6176J26€    |
+| Fondo de maniobra     | -3 903 003 € | 2547318€    |
 
 Fuente: http://www.rankia.com/blog/mab/etiquetas/zinkia-znk
 
@@ -4795,15 +4955,15 @@ A continuación se propone la resolución de los balances de los dos Casos prác
 
 ## Caso práctico 1. Aurora Moreno, S.LU. (Parte 3: Balance de situación)
 
-| Patrimonio neto | 100000 |
-|-------------------------------------|---------------------|
-| Capital socios | 100000 |
-| Reservas (beneficios no invertidos) | -92650 |
-| Pasivo no corriente | Pasivo no corriente |
-| Préstamo | 35000 |
-| Crédito | 73400 |
-| Pasivo corriente | Pasivo corriente |
-| Total | 115750 |
+| Patrimonio neto                     | 100000              |
+| ----------------------------------- | ------------------- |
+| Capital socios                      | 100000              |
+| Reservas (beneficios no invertidos) | -92650              |
+| Pasivo no corriente                 | Pasivo no corriente |
+| Préstamo                            | 35000               |
+| Crédito                             | 73400               |
+| Pasivo corriente                    | Pasivo corriente    |
+| Total                               | 115750              |
 
 ## Caso práctico Z.Julio y Miguel Martínez, S.L (Parte 3: Balance de situación)
 
@@ -4849,24 +5009,24 @@ Las conclusiones que podemos obtener de esta empresa, teniendo en cuenta que, co
 
 Como colofón a esta unidad ofrecemos los datos contables de Mercadona y una interpreta ción de los mismos. Verás que la complejidad de estas cifras es mayor, pero que el esquema a seguir para analizarlas e interpretarlas es el mismo.
 
-| Consumo de mercaderías | -76,1 | -76,1 | -75,6 | -75,1 | -75,7 | -76,1 | -74,9 | -75,1 |
-|-------------------------------------------------------------------|---------|---------|---------|---------|---------|---------|---------|---------|
-| Otros ingresos de explotación | 0,1 | 0,1 | 0,1 | 0,1 | 0,1 | 0,1 | 0,2 | 0,2 |
-| Margen | 24,0 | 24,0 | 24,5 | 25,1 | 24,4 | 24,1 | 25,3 | 25,0 |
-| astos de personal | -12,2 | -12,4 | -12,5 | -12,2 | -12,2 | -12,6 | -12,3 | -12,4 |
-| Otros gastos de explotación | -6,4 | -6,2 | -6,2 | -6,3 | -6,4 | -6,5 | -6,6 | -6,4 |
-| Amortización del inmovilizado | -2,8 | -2,9 | -2,9 | -3,0 | -2,7 | -2,4 | -2,7 | -2,3 |
-| Imputación de subvenciones no financieras | 0,1 | 0,1 | 0,0 | 0,0 | 0,0 | 0,1 | 0,0 | 0,0 |
-| Deterioro y resultado por enajenación del inmovilizado | 0,0 | 0,0 | 0,0 | 0,0 | 0,0 | 0,0 | 0,0 | 0,0 |
-| | | | filis | itilii | lili»! | | KI^ | m |
-| Ingresos financieros | 0,2 | 0,2 | 0,3 | 0,3 | 0,4 | 0,2 | 0,3 | 0,4 |
-| astos financieros | -0,2 | -0,2 | -0,2 | -0,2 | -0,2 | -0,2 | -0,2 | -0,2 |
-| Deterioro y resultado por enajenación de instrumentos financieros | 0,0 | 0,0 | 0,0 | 0,0 | -0,1 | 0,0 | -0,1 | -0,1 |
-| | | ülSi | lili | lili! | ilifit | | failP | >;K:%2; |
-| | Km® | | | siif | lili | iiüi | ilif;; | Kí*t: |
-| Impuesto sobre beneficio | -0,7 | -0,7 | -0,9 | -1,0 | -0,9 | -0,6 | -1,1 | -1,2 |
-| | | | | gfii§ | flus | | | |
-| lililí | | | | lili. | | ¿lili. | | |
+| Consumo de mercaderías                                            | -76,1 | -76,1 | -75,6 | -75,1  | -75,7  | -76,1  | -74,9  | -75,1   |
+| ----------------------------------------------------------------- | ----- | ----- | ----- | ------ | ------ | ------ | ------ | ------- |
+| Otros ingresos de explotación                                     | 0,1   | 0,1   | 0,1   | 0,1    | 0,1    | 0,1    | 0,2    | 0,2     |
+| Margen                                                            | 24,0  | 24,0  | 24,5  | 25,1   | 24,4   | 24,1   | 25,3   | 25,0    |
+| astos de personal                                                 | -12,2 | -12,4 | -12,5 | -12,2  | -12,2  | -12,6  | -12,3  | -12,4   |
+| Otros gastos de explotación                                       | -6,4  | -6,2  | -6,2  | -6,3   | -6,4   | -6,5   | -6,6   | -6,4    |
+| Amortización del inmovilizado                                     | -2,8  | -2,9  | -2,9  | -3,0   | -2,7   | -2,4   | -2,7   | -2,3    |
+| Imputación de subvenciones no financieras                         | 0,1   | 0,1   | 0,0   | 0,0    | 0,0    | 0,1    | 0,0    | 0,0     |
+| Deterioro y resultado por enajenación del inmovilizado            | 0,0   | 0,0   | 0,0   | 0,0    | 0,0    | 0,0    | 0,0    | 0,0     |
+|                                                                   |       |       | filis | itilii | lili»! |        | KI^    | m       |
+| Ingresos financieros                                              | 0,2   | 0,2   | 0,3   | 0,3    | 0,4    | 0,2    | 0,3    | 0,4     |
+| astos financieros                                                 | -0,2  | -0,2  | -0,2  | -0,2   | -0,2   | -0,2   | -0,2   | -0,2    |
+| Deterioro y resultado por enajenación de instrumentos financieros | 0,0   | 0,0   | 0,0   | 0,0    | -0,1   | 0,0    | -0,1   | -0,1    |
+|                                                                   |       | ülSi  | lili  | lili!  | ilifit |        | failP  | >;K:%2; |
+|                                                                   | Km®   |       |       | siif   | lili   | iiüi   | ilif;; | Kí\*t:  |
+| Impuesto sobre beneficio                                          | -0,7  | -0,7  | -0,9  | -1,0   | -0,9   | -0,6   | -1,1   | -1,2    |
+|                                                                   |       |       |       | gfii§  | flus   |        |        |         |
+| lililí                                                            |       |       |       | lili.  |        | ¿lili. |        |         |
 
 (continúa)
 
@@ -4874,130 +5034,130 @@ Tabla 5.7. Cuenta de resultados de Mercadona de los últimos años.
 
 Fuente: http://vynAnv.4upress.com/index.php/economia/item/1628-mercadona-ventajas-competitivas-duraderasque-emanan-de-la-cuenta-de-p-y-g#.ULMyT4eWa7N
 
-| astos de personal | -12,2 | -12,4 | -12,5 | -12,2 | -12,2 | -12,6 | -12,3 | -12,4 |
-|--------------------------------------------------------|---------|---------|---------|-----------|---------|-----------|---------|---------|
-| Otros gastos de explotación | -6,4 | -6,2 | -6,2 | -6,3 | -6,4 | -6,5 | -6,6 | -6,4 |
-| Amortización del inmovilizado | -2,8 | -2,9 | -2,9 | -3,0 | -2,7 | -2,4 | -2,7 | -2,3 |
-| Imputación de subvenciones no financieras | 0,1 | 0,1 | 0,0 | 0,0 | 0,0 | 0,1 | 0,0 | 0,0 |
-| Deterioro y resultado por enajenación del inmovilizado | 0,0 | 0,0 | 0,0 | 0,0 | -0,1 | 0,0 | 0,0 | 0,0 |
-| Impuesto sobre beneficios | -0,7 | -0,7 | -0,9 | -1.0 | -0,9 | -0,6 | -1,1 | -1,2 |
-| Financieros | -0,02 | | | | | -0,06 | | |
-| rMTotaíi^ ■; ■■'{'■;■. | -22,1 | -22,2 | -22,4 | -22,6 | | §§ii | | |
-| Margen | 24,0 | 24,0 | 24,5 | 25,1 | 24,4 | 24,1 | 25,3 | 25,0 |
-| Financieros | | 0,05 | 0,07 | 0,10 | 0,10 | | 0,02 | 0,17 |
-| %Total ingresos sobre ventas I | 24,0 | 24,1 | 24,6 | 25,1 | ■mm | s§&#124;é | mm | |
-| Resultado delejercicio' .- <• -mS0^'^ | 1,9 | 1,9 | 2,1 | :::-: 2,6 | liil | iifitil | iii» | mm |
-| .iw^^,,,,^,,,,^£,.. ,.;,,,,, MMA^y | 5,4 | 5,4 | 5,8 | 6,6 | | wsm | | |
+| astos de personal                                      | -12,2 | -12,4 | -12,5 | -12,2     | -12,2 | -12,6     | -12,3 | -12,4 |
+| ------------------------------------------------------ | ----- | ----- | ----- | --------- | ----- | --------- | ----- | ----- |
+| Otros gastos de explotación                            | -6,4  | -6,2  | -6,2  | -6,3      | -6,4  | -6,5      | -6,6  | -6,4  |
+| Amortización del inmovilizado                          | -2,8  | -2,9  | -2,9  | -3,0      | -2,7  | -2,4      | -2,7  | -2,3  |
+| Imputación de subvenciones no financieras              | 0,1   | 0,1   | 0,0   | 0,0       | 0,0   | 0,1       | 0,0   | 0,0   |
+| Deterioro y resultado por enajenación del inmovilizado | 0,0   | 0,0   | 0,0   | 0,0       | -0,1  | 0,0       | 0,0   | 0,0   |
+| Impuesto sobre beneficios                              | -0,7  | -0,7  | -0,9  | -1.0      | -0,9  | -0,6      | -1,1  | -1,2  |
+| Financieros                                            | -0,02 |       |       |           |       | -0,06     |       |       |
+| rMTotaíi^ ■; ■■'{'■;■.                                 | -22,1 | -22,2 | -22,4 | -22,6     |       | §§ii      |       |       |
+| Margen                                                 | 24,0  | 24,0  | 24,5  | 25,1      | 24,4  | 24,1      | 25,3  | 25,0  |
+| Financieros                                            |       | 0,05  | 0,07  | 0,10      | 0,10  |           | 0,02  | 0,17  |
+| %Total ingresos sobre ventas I                         | 24,0  | 24,1  | 24,6  | 25,1      | ■mm   | s§&#124;é | mm    |       |
+| Resultado delejercicio' .- <• -mS0^'^                  | 1,9   | 1,9   | 2,1   | :::-: 2,6 | liil  | iifitil   | iii»  | mm    |
+| .iw^^,,,,^,,,,^£,.. ,.;,,,,, MMA^y                     | 5,4   | 5,4   | 5,8   | 6,6       |       | wsm       |       |       |
 
 Tabla 5.7. Cuenta de resultados de Mercadona de los últimos años (Continuación).
 
-| I. Inmovilizado intangible | 62518 |
-|---------------------------------------------------------------|-------------------|
-| 1. Concesiones | 50903 |
-| 2. Aplicaciones informáticas | 6840 |
-| 3. Otro inmovilizado intangible | 4 775 |
-| II. Inmovilizado material | 2372204 |
-| 1. Terrenos y construcciones 2. Instalaciones técnicas y otro | 1 540 480 |
-| inmovilizado material | 750769 |
-| 3. Inmovilizado en curso y anticipos | 71 955 |
-| III. Inversiones en empresas del grupo aL/P | 33200 |
-| IV. Inversiones financieras a L/P | 67064 |
-| 1. Instrumentos de patrimonio | 1 577 |
-| 2. Valores representativos de deuda | 52 464 |
-| 3. Créditos y otros activos financieros | 13 003 |
-| V. Activos por impuesto diferido | 27154 |
-| 1. Existencias | 558503 |
-| II. Deudores comerciales y otras cuentas a cobrar | 78470 |
-| III. Inversiones financieras a C/P | 8884 |
-| IV. Periodificaciones a C/P | 4245 |
-| V. Efectivo y otros activos líquidos equivalentes | 2576051 |
-| 1. Tesorería 2. Otros activos líquidos equivalentes | 1501051 1 075 000 |
+| I. Inmovilizado intangible                                    | 62518             |
+| ------------------------------------------------------------- | ----------------- |
+| 1. Concesiones                                                | 50903             |
+| 2. Aplicaciones informáticas                                  | 6840              |
+| 3. Otro inmovilizado intangible                               | 4 775             |
+| II. Inmovilizado material                                     | 2372204           |
+| 1. Terrenos y construcciones 2. Instalaciones técnicas y otro | 1 540 480         |
+| inmovilizado material                                         | 750769            |
+| 3. Inmovilizado en curso y anticipos                          | 71 955            |
+| III. Inversiones en empresas del grupo aL/P                   | 33200             |
+| IV. Inversiones financieras a L/P                             | 67064             |
+| 1. Instrumentos de patrimonio                                 | 1 577             |
+| 2. Valores representativos de deuda                           | 52 464            |
+| 3. Créditos y otros activos financieros                       | 13 003            |
+| V. Activos por impuesto diferido                              | 27154             |
+| 1. Existencias                                                | 558503            |
+| II. Deudores comerciales y otras cuentas a cobrar             | 78470             |
+| III. Inversiones financieras a C/P                            | 8884              |
+| IV. Periodificaciones a C/P                                   | 4245              |
+| V. Efectivo y otros activos líquidos equivalentes             | 2576051           |
+| 1. Tesorería 2. Otros activos líquidos equivalentes           | 1501051 1 075 000 |
 
-| A.1) Fondos propios | 2186237 |
-|----------------------------------------------------|---------------|
-| 1. Capital escriturado | 15921 |
-| II. Prima de emisión | 1735 |
-| III. Reservas | 2183053 |
-| 1. Legal y estatutarios 2. Otras reservas | 3 184 2183053 |
-| IV. Acciones en patrimonio propias | (6958) |
-| V. Resultado del ejercicio | 474192 |
-| A.2) Subvenciones, donaciones y legados recibidos | 1768 |
-| B) Pasivo no corriente | 253263 |
-| I. Provisiones a L/P | 13824 |
-| II. Deudas a L/P | 18044 |
-| 1. Deudas con entidades de crédito | 5 621 |
-| 2. Otros pasivos financieros | 12 423 |
-| III. Pasivos por impuesto diferido | 221 395 |
-| I. Deudas a C/P con entidades de crédito | 2852144 |
-| II. Acreedores comerciales y otras cuentas a pagar | 2412 |
-| 1. Proveedores | 2 091 246 |
-| 2. Acreedores varios | 365 459 |
-| 3. Personal | 178062 |
-| 4. Pasivos por impuesto corriente | 23 131 |
-| 5. Otras deudas con las Admin. Públ. | 201 834 |
+| A.1) Fondos propios                                | 2186237       |
+| -------------------------------------------------- | ------------- |
+| 1. Capital escriturado                             | 15921         |
+| II. Prima de emisión                               | 1735          |
+| III. Reservas                                      | 2183053       |
+| 1. Legal y estatutarios 2. Otras reservas          | 3 184 2183053 |
+| IV. Acciones en patrimonio propias                 | (6958)        |
+| V. Resultado del ejercicio                         | 474192        |
+| A.2) Subvenciones, donaciones y legados recibidos  | 1768          |
+| B) Pasivo no corriente                             | 253263        |
+| I. Provisiones a L/P                               | 13824         |
+| II. Deudas a L/P                                   | 18044         |
+| 1. Deudas con entidades de crédito                 | 5 621         |
+| 2. Otros pasivos financieros                       | 12 423        |
+| III. Pasivos por impuesto diferido                 | 221 395       |
+| I. Deudas a C/P con entidades de crédito           | 2852144       |
+| II. Acreedores comerciales y otras cuentas a pagar | 2412          |
+| 1. Proveedores                                     | 2 091 246     |
+| 2. Acreedores varios                               | 365 459       |
+| 3. Personal                                        | 178062        |
+| 4. Pasivos por impuesto corriente                  | 23 131        |
+| 5. Otras deudas con las Admin. Públ.               | 201 834       |
 
 (continúa)
 
 Tabla 5.8. Balance de Mercadona, obtenido de su Memoria Anual 2011 (Continuación).
 
-| $&. :C&#124;i>eiá:É^ | $&. :C&#124;i>eiá:É^ |
-|---------------------------------------------------------------------------------------------------|------------------------|
-| 1. Importe neto de la cifra de negocios Ventas | 16448101 16448101 |
-| 2. Aprovisionamientos | (12358854) |
-| Consumo de mercaderías | (12 358854) |
-| 3. Otros ingresos de explotación | 28232 |
-| Ingresos accesorios y otros de gestión corriente Subvenciones de explotación incorp. al resultado | 20 962 |
-| del ejercicio | 7270 |
-| 4. astos de personal | (2042672) |
-| Sueldos y salarios | (1588401) |
-| Cargas sociales | (454271) |
-| 5. Otros gastos de explotación Servicios exteriores | (1048349) (1016013) |
-| Tributos | (24921) |
-| Otros gastos de gestión corriente | (7382) |
-| 6.Amortización del inmovilizado | (380342) |
-| 7. Imputación de subvenciones de inmovilizado no financiero y otras | 629 |
-| 8. Deterioro y resultado por enajenaciones del inmovilizado | (5974) |
-| Deterioros y pérdidas | (6 799) |
-| Resultados por enajenaciones y otros | 825 |
+| $&. :C&#124;i>eiá:É^                                                                              | $&. :C&#124;i>eiá:É^ |
+| ------------------------------------------------------------------------------------------------- | -------------------- |
+| 1. Importe neto de la cifra de negocios Ventas                                                    | 16448101 16448101    |
+| 2. Aprovisionamientos                                                                             | (12358854)           |
+| Consumo de mercaderías                                                                            | (12 358854)          |
+| 3. Otros ingresos de explotación                                                                  | 28232                |
+| Ingresos accesorios y otros de gestión corriente Subvenciones de explotación incorp. al resultado | 20 962               |
+| del ejercicio                                                                                     | 7270                 |
+| 4. astos de personal                                                                              | (2042672)            |
+| Sueldos y salarios                                                                                | (1588401)            |
+| Cargas sociales                                                                                   | (454271)             |
+| 5. Otros gastos de explotación Servicios exteriores                                               | (1048349) (1016013)  |
+| Tributos                                                                                          | (24921)              |
+| Otros gastos de gestión corriente                                                                 | (7382)               |
+| 6.Amortización del inmovilizado                                                                   | (380342)             |
+| 7. Imputación de subvenciones de inmovilizado no financiero y otras                               | 629                  |
+| 8. Deterioro y resultado por enajenaciones del inmovilizado                                       | (5974)               |
+| Deterioros y pérdidas                                                                             | (6 799)              |
+| Resultados por enajenaciones y otros                                                              | 825                  |
 
-| 9. Ingresos financieros | 73379 |
-|--------------------------------------------------------------------------|-----------------|
-| De participaciones en instrumentos de patrimonio de terceros | 448 |
-| De valores negociables y otros instrumen tos financieros de terceros | 72931 |
+| 9. Ingresos financieros                                                  | 73379           |
+| ------------------------------------------------------------------------ | --------------- |
+| De participaciones en instrumentos de patrimonio de terceros             | 448             |
+| De valores negociables y otros instrumen tos financieros de terceros     | 72931           |
 | 10. astos financieros Por deudas con terceros y otros gastos financieros | (26311) (26311) |
-| 11. Deterioro y resultado por enajena ciones de instrumentos financieros | |
-| Deterioros y pérdidas | (19102) |
-| | (18859) |
-| Resultados por enajenaciones y otras | (243) |
-| A.2) Resultado financiero | 27966 |
-| A.3) Resultado antes de impuestos 12. Impuesto sobre beneficios | 668737 (194545) |
-| A.4) Resultado del ejercicio | 474192 |
+| 11. Deterioro y resultado por enajena ciones de instrumentos financieros |                 |
+| Deterioros y pérdidas                                                    | (19102)         |
+|                                                                          | (18859)         |
+| Resultados por enajenaciones y otras                                     | (243)           |
+| A.2) Resultado financiero                                                | 27966           |
+| A.3) Resultado antes de impuestos 12. Impuesto sobre beneficios          | 668737 (194545) |
+| A.4) Resultado del ejercicio                                             | 474192          |
 
 Tabla 5.9. Comparación de diferentes balances de Mercadona.
 
-| Activo no corriente | 2242713 | 58,54% | 1999723 | 55,86% | 1770138 | 59,17% |
-|-------------------------------------|-----------|----------|-----------|----------|-----------|----------|
-| Inmovilizado intangible | 66247 | 2,95 % | 34807 | 1,74% | 23714 | 1,34% |
-| Inmovilizado tangible | 2144863 | 95,64 % | 1933640 | 86,22 % | 1717172 | 97,01 % |
-| Inmovilizado financiero | 31603 | 1,41 % | 31276 | 1,39% | 29252 | 1,65% |
-| Activo corriente | 1588424 | 41,46% | 1580012 | 44,14% | 1221630 | 40,83% |
-| Existencias | 485022 | 30,53 % | 469476 | 29,71 % | 391917 | 32,08 % |
-| Clientes | 60651 | 3,82 % | 82646 | 5,23 % | 87793 | 7,19% |
-| Otros activos líquidos | 1042 751 | 65,65 % | 1027890 | 65,06 % | 741 920 | 60,73 % |
-| Tesorería | 951459 | 59,90 % | 1020495 | 64,59 % | 730467 | 59,79 % |
-| TotalActivo | 3831137 | | 3579735 | | 2991768 | |
-| Fondos propios | 1343225 | 35,06% | 1035098 | 28,92% | 811249 | 27,12% |
-| Capital suscrito | 15921 | 1,19% | 15921 | 1,54% | 15921 | 1,96% |
-| Reservas | 996336 | 74,17% | 775636 | 74,93 % | 610789 | 75,29 % |
-| Ingresos y gastos imputados en P.N. | 330968 | 24,64 % | 243 541 | 23,53 % | 184539 | 22,75 % |
-| Pasivo nocorriente | 39224 | 1,02% | 42702 | 1,19% | 35473 | 1,19% |
-| Deudas finacieras a L/P | 23 558 | 60,06 % | 29162 | 68,29 % | 29474 | 83,09 % |
-| Otros pasivos no corrientes | 15666 | 39,94 % | 13 540 | 31,71 % | 5999 | 16,91 % |
-| Pasivo corriente | 2448608 | 63,92% | 2501935 | 68,89% | 2145046 | 71,70% |
-| Deudas finacieras a C/P | 2149 | 0,09 %_j | 2124 | 0,08 % | 2129 | 0,10% |
-| Proveedores | 2163273 | 88,34 % | 1906627 | 76,21 % | 1659122 | 77,35 % |
-| Otros pasivos corrientes | 283266 | 11,57% | 593184 | 23,71 % | 483 795 | 22,55 % |
-| Total Pasivo y capital propio | 3831137 | | 3579735 | | 2991768 | |
+| Activo no corriente                 | 2242713  | 58,54%    | 1999723 | 55,86%  | 1770138 | 59,17%  |
+| ----------------------------------- | -------- | --------- | ------- | ------- | ------- | ------- |
+| Inmovilizado intangible             | 66247    | 2,95 %    | 34807   | 1,74%   | 23714   | 1,34%   |
+| Inmovilizado tangible               | 2144863  | 95,64 %   | 1933640 | 86,22 % | 1717172 | 97,01 % |
+| Inmovilizado financiero             | 31603    | 1,41 %    | 31276   | 1,39%   | 29252   | 1,65%   |
+| Activo corriente                    | 1588424  | 41,46%    | 1580012 | 44,14%  | 1221630 | 40,83%  |
+| Existencias                         | 485022   | 30,53 %   | 469476  | 29,71 % | 391917  | 32,08 % |
+| Clientes                            | 60651    | 3,82 %    | 82646   | 5,23 %  | 87793   | 7,19%   |
+| Otros activos líquidos              | 1042 751 | 65,65 %   | 1027890 | 65,06 % | 741 920 | 60,73 % |
+| Tesorería                           | 951459   | 59,90 %   | 1020495 | 64,59 % | 730467  | 59,79 % |
+| TotalActivo                         | 3831137  |           | 3579735 |         | 2991768 |         |
+| Fondos propios                      | 1343225  | 35,06%    | 1035098 | 28,92%  | 811249  | 27,12%  |
+| Capital suscrito                    | 15921    | 1,19%     | 15921   | 1,54%   | 15921   | 1,96%   |
+| Reservas                            | 996336   | 74,17%    | 775636  | 74,93 % | 610789  | 75,29 % |
+| Ingresos y gastos imputados en P.N. | 330968   | 24,64 %   | 243 541 | 23,53 % | 184539  | 22,75 % |
+| Pasivo nocorriente                  | 39224    | 1,02%     | 42702   | 1,19%   | 35473   | 1,19%   |
+| Deudas finacieras a L/P             | 23 558   | 60,06 %   | 29162   | 68,29 % | 29474   | 83,09 % |
+| Otros pasivos no corrientes         | 15666    | 39,94 %   | 13 540  | 31,71 % | 5999    | 16,91 % |
+| Pasivo corriente                    | 2448608  | 63,92%    | 2501935 | 68,89%  | 2145046 | 71,70%  |
+| Deudas finacieras a C/P             | 2149     | 0,09 %\_j | 2124    | 0,08 %  | 2129    | 0,10%   |
+| Proveedores                         | 2163273  | 88,34 %   | 1906627 | 76,21 % | 1659122 | 77,35 % |
+| Otros pasivos corrientes            | 283266   | 11,57%    | 593184  | 23,71 % | 483 795 | 22,55 % |
+| Total Pasivo y capital propio       | 3831137  |           | 3579735 |         | 2991768 |         |
 
 Fuente: http://analisisbalances.wordpress.com/2011/11/17/analisis-economico-financiero-mercadona-2/
 
@@ -5005,21 +5165,21 @@ Algunas de las conclusiones que se pueden extraer de sus cuentas son las siguien
 
 Tabla 5.9. Conclusiones extraídas de las cuentas de resultados de Mercadona.
 
-| Jj &#124; :1 | Mercadona vende más que otros gigantes empresariales españoles: 16448 millones de euros en 2010 frente a los 16413 del rupo El Corte Inglés y los 12 526 millones de Inditex. |
-|------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| <\ <j0 ^ '¿j | Juan Roig es una persona meticulosa en lo referente al control del inventario y de su rotación. Este elemento es fundamental en un negocio que cuenta con tan poco margen de beneficio sobre el precio de venta. Las existencias representan el 6 % del beneficio, lo que contrasta con el 23,5 % de Inditex en 2010. Vj- |
-| ■y í-!Í | Las deudas a corto plazo no son altas, un 0,47 % sobre las ventas totales. El Fondo de Maniobra es, por tanto, positivo. |
-| íáj S&#124;Ml:?^ | Mantiene en caja, es decir en dinero en efectivo o en productos de alta liquidez, una cantidad importante, lo que significa que su solvencia a corto plazo está garantizada. |
-| U^k^MSl | lnsign¡ficante Para las cifras que se manejan. La empresa mantiene un alto nivel de auto nomía financiera. |
-| ^-ACi^' ^í~K"v?;¡ | Los beneficios obtenidos han sido siempre positivos, incluso durante la época de crisis, lo 9ue constata que es una empresa capaz de adaptarse a las circunstancias del mercado y a los elementos macroeconómicos. |
-| _ot&$Mj_É(§_^^ | La mayoría de los beneficios pasan a ser reservas voluntarias, es decir, que se reinvierten |
-| IIÉS^Í^ ffífftfa-í :vm | El Patrimonio inmobiliario del grupo asciende a 2 372 millones de euros, lejos de los 10622 millones de El Corte Inglés, pero aun así una cifra nada desdeñable. |
+| Jj &#124; :1           | Mercadona vende más que otros gigantes empresariales españoles: 16448 millones de euros en 2010 frente a los 16413 del rupo El Corte Inglés y los 12 526 millones de Inditex.                                                                                                                                             |
+| ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <\ <j0 ^ '¿j           | Juan Roig es una persona meticulosa en lo referente al control del inventario y de su rotación. Este elemento es fundamental en un negocio que cuenta con tan poco margen de beneficio sobre el precio de venta. Las existencias representan el 6 % del beneficio, lo que contrasta con el 23,5 % de Inditex en 2010. Vj- |
+| ■y í-!Í                | Las deudas a corto plazo no son altas, un 0,47 % sobre las ventas totales. El Fondo de Maniobra es, por tanto, positivo.                                                                                                                                                                                                  |
+| íáj S&#124;Ml:?^       | Mantiene en caja, es decir en dinero en efectivo o en productos de alta liquidez, una cantidad importante, lo que significa que su solvencia a corto plazo está garantizada.                                                                                                                                              |
+| U^k^MSl                | lnsign¡ficante Para las cifras que se manejan. La empresa mantiene un alto nivel de auto nomía financiera.                                                                                                                                                                                                                |
+| ^-ACi^' ^í~K"v?;¡      | Los beneficios obtenidos han sido siempre positivos, incluso durante la época de crisis, lo 9ue constata que es una empresa capaz de adaptarse a las circunstancias del mercado y a los elementos macroeconómicos.                                                                                                        |
+| *ot&$Mj*É(§\_^^        | La mayoría de los beneficios pasan a ser reservas voluntarias, es decir, que se reinvierten                                                                                                                                                                                                                               |
+| IIÉS^Í^ ffífftfa-í :vm | El Patrimonio inmobiliario del grupo asciende a 2 372 millones de euros, lejos de los 10622 millones de El Corte Inglés, pero aun así una cifra nada desdeñable.                                                                                                                                                          |
 
 Fuente: http://wwwxotizalia.com/opinion/valor-anadido/2012/03/08/impresionante-diez-datos-brutales-enlas-cuentas-de-mercadona-6745
 
 ## Plan de empresa
 
-Ha llegado el momento de sintetizar las ¡deas obtenidas en estas fases de la Simulación empresarial e incorporarlas a vuestro plan de empresa.
+Ha llegado el momento de sintetizar las ideas obtenidas en estas fases de la Simulación empresarial e incorporarlas a vuestro plan de empresa.
 
 Las actividades de simulación efectuadas en esta unidad te han servido para realizar un estudio económico financiero de la empresa, de manera que vuestro plan de empresa incluirá un apartado denominado plan financiero en el que se adjuntarán todos los datos tratados en esta unidad.
 
@@ -5030,98 +5190,133 @@ Las actividades de simulación efectuadas en esta unidad te han servido para rea
 - c) Finaliza con un apartado que especifique los resultados del análisis de la viabilidad de vuestra empresa.
 
 1. El plan de tesorería sirve para conocer:
+
 - a) La viabilidad de la empresa.
 - b) La liquidez de la empresa mes a mes.
 - c) La solvencia de la empresa.
 - d) Todas son correctas.
+
 2. En un plan de tesorería se anotan:
+
 - a) Las ganancias y las pérdidas de dinero.
 - h) Los bienes patrimoniales y las deudas.
 - c) Las entradas y salidas de dinero.
 - d) Todas son ciertas.
+
 3. En un plan de tesorería, si el saldo final acumulado es negativo:
+
 - a) Se habla de un déficit temporal de tesorería.
 - h) Se plantea la posibilidad de solicitar un crédito.
 - c) Pueden estar comprometidos los pagos a corto plazo.
 - d) Todas son correctas.
+
 4. La cuenta de resultados sirve para conocer:
+
 - a) Los elementos patrimoniales y las deudas de un año.
 - h) Los ingresos y gastos durante un año contable.
 - c) Las pérdidas y ganancias obtenidas durante el ejercicio contable.
 - d) Todas son correctas.
+
 5. En la cuenta de resultados se anotarán:
+
 - a) Los ingresos y gastos de dinero.
 - h) Los ingresos y gastos que supongan una variación patrimonial.
 - c) Los ingresos y gastos que no generen deudas en la empresa.
 - d) Todas son correctas.
+
 26. 6o Si el dato final de la cuenta de resultados es negativo, significa que:
+
 - a) La empresa arroja pérdidas.
 - b) Hay que analizar si este dato se debe a la propia actividad de la empresa o a cuestio nes financieras.
 - c) La empresa puede ver comprometida su supervivencia.
 - d) Todas son correctas.
+
 7. El balance de una empresa sirve para conocer:
+
 - a) La solvencia de una empresa.
 - b) La rentabilidad de una empresa.
 - c) Los elementos patrimoniales y el estado de su deuda.
 - d) Todas son correctas.
 
 8. En el balance de una empresa se anotarán:
+
 - a) El resultado de la cuenta de pérdidas y ganancias.
 - h) El dato final del plan de tesorería.
 - c) Los activos y los pasivos.
 - d) Todas son correctas.
+
 9. El balance de una empresa expresa una igualdad en cifras en el total del activo y el del pasivo:
+
 - a) Si la empresa está en una situación económica óptima.
 - b) Cuando la empresa está en situación de crecimiento.
 - c) Siempre, en cualquier situación.
 - d) Cuando los fondos propios no superan la financiación ajena.
+
 10. Si se adquiere un activo fijo, con una vida útil de diez años, por valor de 120000 € en el plan de tesorería se anotará:
+
 - a) 120000 €.
 - b) 12 000 €, por ser el valor de la amortización.
 - c) 1 000 €, ya que el valor se reparte entre todos los meses del año.
 - d) No se anota porque no se ha pagado en metálico.
+
 11. Si se adquiere un activo fijo, con una vida útil de diez años, por valor de 120000 € en la cuenta de resultados se anotará:
+
 - a) 120000 €.
 - b) 12 000 €, por ser el valor de la amortización.
 - c) Habrá que esperar a obtener un beneficio con ese activo para registrarlo.
 - d) No se anota nada porque no supone un incremento patrimonial.
+
 12. Al alquilar un inmueble y abonar una fianza en la primera mensualidad, se anotará en el plan de tesorería:
+
 - a) El valor del alquiler y de la fianza, puesto que ambos casos han producido una salida de dinero.
 - b) El valor del alquiler pero no de la fianza, porque se recuperará ese dinero al finalizar el contrato.
 - c) El valor de la fianza, puesto que el alquiler es un gasto necesario.
 - d) No se anotará nada, ya que no es un elemento a registrar en ese documento.
+
 13. Al alquilar un inmueble y abonar una fianza en la primera mensualidad, se anotará en la cuenta de resultados:
+
 - a) El valor del alquiler y de la fianza, puesto que ambos casos han producido una salida de dinero.
 - b) El valor del alquiler pero no de la fianza, porque se recuperará ese dinero al finalizar el contrato y, por tanto, no ha supuesto una pérdida para la empresa.
 - c) El valor de la fianza, puesto que el alquiler es un gasto necesario.
 - d) No se anotará nada, ya que no es un elemento a registrar en ese documento.
 
 14. El capital aportado por los socios se registrará en:
+
 - a) El plan de tesorería, por ser un ingreso de dinero.
 - h) El balance, por ser un pasivo a largo plazo.
 - c) En la cuenta de resultados no, ya que es un capital que habrá que reintegrar a los socios el día que, por ejemplo, quieran dejar la empresa.
 - d) Todas son correctas.
+
 15. Si se compran materias primas por valor de 50000 €, pero solo se abonan 20000 €, en el plan de tesorería se anotará:
+
 - a) 50000 €, por ser el importe total.
 - b) 20000 €, por ser el capital abonado.
 - c) 30000 €, por ser la deuda pendiente de pago a proveedores,
 - d) Ninguna es correcta.
+
 16. Si se compran materias primas por valor de 50000 €, pero solo se abonan 20000 €, en la cuenta de resultados se anotará:
+
 - a) 50000 €, ya que la empresa está utilizando todas esas materias primas.
 - h) 50000 €, porque los beneficios o pérdidas están sujetos a la totalidad del uso de esos elementos.
 - c) 20000 €, por ser lo único que ha producido un decremento patrimonial.
 - d) Las respuestas a) y h) son correctas.
+
 17. Si vendemos productos por valor de 80000 € y nos dejan a deber 30000, en el plan de tesorería se anotará:
+
 - a) 30000 €, porque es la deuda pendiente de pago.
 - b) 80000 €, porque el cliente está disfrutando de todos esos productos.
 - c) 50000 €, por ser la entrada de capital realizada.
 - d) Ninguna es correcta.
+
 18. El préstamo de un banco se anotará:
+
 - a) En el plan de tesorería, por ser una entrada de dinero.
 - b) En el balance, por ser un pasivo.
 - c) En la cuenta de resultados no, porque solo se anota el importe del interés.
 - d) Todas son correctas.
+
 19. Si una sociedad de capital riesgo compra acciones/participaciones de una empresa por valor de 500000 €, este capital se anotará en:
+
 - a) El plan de tesorería y la cuenta de resultados.
 - b) El plan de tesorería y el balance.
 - c) El balance y la cuenta de resultados.
@@ -5145,7 +5340,8 @@ Las actividades de simulación efectuadas en esta unidad te han servido para rea
 2. En el plan de tesorería se anotará el millón de euros porque son ventas realizadas, aun que aún no se hayan cobrado, puesto que el cliente se ha comprometido a pagarlas.
 3. En la cuenta de resultados se anotarán las cantidades vendidas ya que han supuesto una merma patrimonial, aunque aún no se hayan cobrado.
 4. En la cuenta de resultados se anotarán las cantidades cobradas, ya que se impone el criterio de prudencia contable, por el que un beneficio no se anota hasta que no sea fehaciente.
-12. Una empresa solicita un crédito por valor de 30000 € en julio para hacer frente a un posible déficit de tesorería en los meses de verano, ya que la previsión es de un bajo nivel de facturación. Finalmente, el verano transcurre con más ventas de las esperadas y no es necesario utilizar este capital, por lo que se cancela esta línea de crédito abierta en sep tiembre. Señala qué respuesta es la adecuada en cada apartado, para cada uno de estos documentos.
+5. Una empresa solicita un crédito por valor de 30000 € en julio para hacer frente a un posible déficit de tesorería en los meses de verano, ya que la previsión es de un bajo nivel de facturación. Finalmente, el verano transcurre con más ventas de las esperadas y no es necesario utilizar este capital, por lo que se cancela esta línea de crédito abierta en sep tiembre. Señala qué respuesta es la adecuada en cada apartado, para cada uno de estos documentos.
+
 - a) ¿Qué se anotará en el Plan de tesorería?
 - h) ¿Qué se incluirá en la Cuenta de resultados?
 - c) ¿Qué dato/s se incorporará/n al Balance?
@@ -5577,11 +5773,11 @@ Los gastos de almacenamiento son más importantes de lo que pudiera pensarse a p
 
 Para la gestión adecuada del stock es importante delimitar algunos conceptos:
 
-| §2\S Es la cantidad máxima de existencias que se van a almacenar. |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| *'I 1 Es el límite de stock por debajo del cual se encargará un nuevo pedido. |
+| §2\S Es la cantidad máxima de existencias que se van a almacenar.                                                                                                                                               |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| \*'I 1 Es el límite de stock por debajo del cual se encargará un nuevo pedido.                                                                                                                                  |
 | Es la cantidad de existencias innecesarias para un ciclo productivo pero que se acumulan intencionalmente para evitar problemas posteriores de abastecimiento, que generarían unos costes de ruptura de stocks. |
-| Son los gastos que se generan al detener la producción por carecer de materias primas necesarias. |
+| Son los gastos que se generan al detener la producción por carecer de materias primas necesarias.                                                                                                               |
 
 ## estión de compras
 
@@ -5887,10 +6083,11 @@ Tan solo durante el año 2008, un total de 10302 incidentes deskimming se regist
 
 Desde los primeros intentos de fraude que copiaban la banda magnética de las tarjetas, hasta la actual infección de los terminales con virus, los métodos de prevención han evolucionado hasta rozar el límite de la ciencia ficción.
 
-* Biometría en cajeros automáticos. A través de la forma de la mano, el iris o las huellas dactilares, la máquina detecta si es el propio usuario o un suplantador quien está acce diendo a los servicios. En un procedimiento más complejo, se analiza el sistema vascular. Aunque parezca extraño, el examen de las venas permite desvelar la identidad del individuo. En España, su grado de implantación es mínimo.
-* Sistemas anticopia de la banda magnética de las tarjetas. Los estafadores sitúan, para lograr su objetivo, una pequeña cámara sobre el terminal o superponen un falso teclado y un falso lector en el cajero. Para evitarlo, muchos cajeros cuentan con dispositivos que de tectan estos elementos extraños y los inutilizan. Es frecuente que el propio cajero aconseje al usuario tapar su mano con la otra, mientras teclea el número secreto.
-- Extensión del chip. La mayoría de las tarjetas cuentan ya con un chip de seguridad, que pretende evitar la copia de la banda magnética de la tarjeta. Europay, Mastercard y Visa han diseñado el sistema EMV, que detecta si la tarjeta introducida en el cajero es la auténtica o no. Este sistema también obliga al usuario a teclear la clave en las tiendas donde utilice la tarjeta, en lugar de la firma del recibo, lo que incrementa la seguridad en caso de robo.
-- Antivirus. Los cajeros automáticos son, como los ordenadores, vulnerables ante la intro ducción en su sistema operativo de un programa malicioso, con el que pueden acceder a las claves y los datos personales de los clientes. Para evitarlo, algunos programas mejoran su sistema defensivo.
+- Biometría en cajeros automáticos. A través de la forma de la mano, el iris o las huellas dactilares, la máquina detecta si es el propio usuario o un suplantador quien está acce diendo a los servicios. En un procedimiento más complejo, se analiza el sistema vascular. Aunque parezca extraño, el examen de las venas permite desvelar la identidad del individuo. En España, su grado de implantación es mínimo.
+- Sistemas anticopia de la banda magnética de las tarjetas. Los estafadores sitúan, para lograr su objetivo, una pequeña cámara sobre el terminal o superponen un falso teclado y un falso lector en el cajero. Para evitarlo, muchos cajeros cuentan con dispositivos que de tectan estos elementos extraños y los inutilizan. Es frecuente que el propio cajero aconseje al usuario tapar su mano con la otra, mientras teclea el número secreto.
+
+* Extensión del chip. La mayoría de las tarjetas cuentan ya con un chip de seguridad, que pretende evitar la copia de la banda magnética de la tarjeta. Europay, Mastercard y Visa han diseñado el sistema EMV, que detecta si la tarjeta introducida en el cajero es la auténtica o no. Este sistema también obliga al usuario a teclear la clave en las tiendas donde utilice la tarjeta, en lugar de la firma del recibo, lo que incrementa la seguridad en caso de robo.
+* Antivirus. Los cajeros automáticos son, como los ordenadores, vulnerables ante la intro ducción en su sistema operativo de un programa malicioso, con el que pueden acceder a las claves y los datos personales de los clientes. Para evitarlo, algunos programas mejoran su sistema defensivo.
 
 Fuente: Eroski Consumen Elorrio, 19 de enero de 2012 [en línea]
 
@@ -5932,7 +6129,7 @@ Pagos fraccionados en abril, julio y octubre del Impuesto sobre el Valor Añadid
 
 Concierne a aquellas operaciones efectuadas por importe superior a 3000 euros. Se realiza durante el mes de febrero.
 
-ifóffifeV*:.^ -^-^^S&amp;&amp;i
+ifóffifeV\*:.^ -^-^^S&amp;&amp;i
 
 Se abona una vez al año siempre que la empresa no esté exenta.
 
@@ -5970,7 +6167,7 @@ Si tienes alguna duda, puedes entrar en la página web de la Agencia Tributaria,
 
 ## Plan de empresa
 
-Ha llegado el momento de sintetizar las ¡deas obtenidas en estas fases de la Simulación empresarial e incorporarlas a vuestro plan de empresa.
+Ha llegado el momento de sintetizar las ideas obtenidas en estas fases de la Simulación empresarial e incorporarlas a vuestro plan de empresa.
 
 Las actividades de simulación realizadas en esta unidad te han servido para hacer un plan de aprovisionamiento, así como la supervisión de su gestión contable y la obligación tributaria de la misma. Así pues, vuestro plan de empresa incluirá dos apartados denomi nados plan de aprovisionamiento y obligacionesfiscales.
 
@@ -5989,39 +6186,53 @@ Realiza el calendario fiscal en el que se contemplen los plazos en los cuales vu
 - b) Los bienes tangibles adquiridos, susceptibles de transportarse y de ser almacenados.
 - c) Un elemento del proceso productivo.
 - d) Todas son correctas.
+
 2. ¿Qué se entiende por financiación?
+
 - a) La inversión de unos excedentes monetarios en productos de alta rentabilidad.
 - b) La consecución de recursos económicos para costear determinadas acciones.
 - c) El registro de los datos económicos de una empresa y los cálculos necesarios para obtener determinados índices.
 - d) Ninguna es cierta.
+
 3. Para mejorar la eficiencia de una empresa, no siempre es necesario seguir una de estas medidas:
+
 - a) Ajustar los gastos fijos.
 - b) Adaptar el nivel de stock a las ventas.
 - c) Reducir plantilla.
 - d) Realizar el pago puntualmente de las cantidades que tengamos pendientes.
+
 4. A la hora de valorar la conveniencia o no de la inversión se tendrá en cuenta el binomio:
+
 - a) Liquidez - disponibilidad.
 - b) Riesgo - seguridad.
 - c) Rentabilidad - liquidez.
 - d) Riesgo - segundad.
+
 5. Las empresas deben mantener un equilibrio entre:
+
 - a) El capital destinado al ahorro y el utilizado para inversiones.
 - b) El dinero que se invierte y el necesario para financiarse.
 - c) El capital que se incluye en la contabilidad interna y el que se encuadra en la externa.
 - d) Las dos primeras son correctas.
+
 6. La deuda privada de una empresa:
+
 - a) Se emite en forma de títulos de deuda.
 - b) Se denomina letras, bonos u obligaciones, según el plazo temporal.
 - c) arantiza al final del contrato la devolución del dinero junto con una rentabilidad, solo si la empresa obtuvo beneficios.
 - d) Todas son correctas.
 
 22. Busca una noticia de actualidad relacionada con una auditoría realizada a una empresa u organización social. Responde luego a estas cuestiones:
+
 - a) Resume qué objetivo pretendía la auditoría.
 - h) ¿Era obligatoria la realización de la auditoría o había sido solicitada por la empresa voluntariamente?
 - c) ¿ uarda alguna relación empresarial la auditoría con la empresa auditada o, por el contrario, se trata de compañías independientes?
 - d) ¿Recuerdas qué tipo de sociedad, de los estudiados en otra unidad didáctica previa, tenía como obligatoriedad la realización de una auditoría de cuentas?
+
 6. ej ¿Qué impacto crees que tiene en los consumidores el conocimiento de que una compañía ha sido auditada?
+
 - f) Averigua si también los partidos políticos, las asociaciones empresariales o los sin dicatos pueden o deben someterse a una auditoría de cuentas de forma periódica. Justifica tu respuesta.
+
 23. Encuentra una relación de empresas de auditorías. ¿Has encontrado alguna compañía de este tipo que sea española?
 24. Localiza en Wikipedia información sobre la auditoría informática, pero antes de hacerlo trata de deducir qué tipo de actuaciones y de profesionales pueden estar a cargo de este tipo de acciones.
 25. Repasa qué tres elementos se tienen en cuenta para valorar las inversiones realizadas por las empresas. ¿Crees que estos mismos criterios pueden ser tenidos en cuenta por las economías domésticas para valorar la idoneidad de las inversiones a realizar con el excedente de recursos monetarios?
@@ -6169,13 +6380,13 @@ El cambio experimentado se puede sintetizar en un cambio del marco conceptual, d
 
 Tabla 7.1. Focos de atención del nuevo marketing.
 
-| El contenido generado tiene que ser enriquecedor y relevante para los potenciales clientes, que ahora son activos protagonistas y están mejor informados. |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| El contenido debe conectar con los intereses del público objetivo. |
-| El contenido debe transmitirse por los medios más convenientes, bien sea una página web, un blog, una red social, etc. |
-| Los medios de transmisión deben utilizar un contexto multicanal, con contenidos multimedia. |
+| El contenido generado tiene que ser enriquecedor y relevante para los potenciales clientes, que ahora son activos protagonistas y están mejor informados.                                                                                                                                                                   |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| El contenido debe conectar con los intereses del público objetivo.                                                                                                                                                                                                                                                          |
+| El contenido debe transmitirse por los medios más convenientes, bien sea una página web, un blog, una red social, etc.                                                                                                                                                                                                      |
+| Los medios de transmisión deben utilizar un contexto multicanal, con contenidos multimedia.                                                                                                                                                                                                                                 |
 | El mensaje debe transmitir también el coste del producto, lo que incluye informar a la audiencia de aquellos costes menos tangibles que incrementan el precio pero también el valor añadido del producto, como unos mayores controles de calidad, gestión responsable de residuos, garantía de los derechos laborales, etc. |
-| Como resultado de la información del coste, la audiencia conectará con la marca puesto que se generará una esfera de credibilidad y de confianza, dando paso a una comunidad online vinculada por intereses comunes e intercambios enriquecedores, creando una lealtad hacia la marca. |
+| Como resultado de la información del coste, la audiencia conectará con la marca puesto que se generará una esfera de credibilidad y de confianza, dando paso a una comunidad online vinculada por intereses comunes e intercambios enriquecedores, creando una lealtad hacia la marca.                                      |
 
 ## Ejemplo 3. Un pequeño gesto, para conseguir algo muy grande
 
@@ -6212,11 +6423,13 @@ A su vez, la compañía ha tenido que desmentir un bulo que circula por Internet
 ## Actividades
 
 5. Señala si estos ejemplos son casos de publicidad ¡lícita. Justifica tu respuesta.
+
 - a) Un anuncio que muestra a una mujer como si fuera un objeto sexual.
 - b) Un actor en una película de televisión desayuna unas galletas determinadas, mientras se muestra la marca.
 - c) Unos aviones de juguete para niños se muestran aparentemente volando por el aire, cuando en realidad son unas manos invisibles las que las están dando movimiento a esos juguetes.
 - d) Oferta de «2 x 1» que añade un minúsculo asterisco que anuncia que solo hasta agotar existencias.
 - e) Un producto se anuncia como el «número uno en ventas».
+
 6. Busca información sobre qué se entiende por publicidad verde engañosa.
 7. Averigua qué requisitos deben cumplir los productos agrícolas o ganaderos para po der llevar la etiqueta «producto ecológico».
 
@@ -6291,7 +6504,7 @@ Wg PP
 
 b"^;
 
-ef- r"Ti wr- r*z?m r^¿
+ef- r"Ti wr- r\*z?m r^¿
 
 nr, c?;
 
@@ -6304,7 +6517,7 @@ f^b rra,
 - Fase 3. Creación de página web y com pra de dominios
 - Fase 4. estión de RRJHH.
 
-*-----------------*
+_-----------------_
 
 m
 
@@ -6416,7 +6629,7 @@ El motile marketing utiliza el móvil o smartphone del usuario como vehículo de
 
 En Valencia, unos jóvenes publicistas, desarrolladores y consultores, han ideado una aplica ción de móvil gratuita llamada qlikBar, que permite consultar el menú de un bar o restau rante, hacer pedidos sin necesidad de esperar al camarero y dejar comentarios. De manera adicional, se puede interactuar con el resto de clientes y utilizar la aplicación como guía para consultar los locales de la zona. El sistema se completa con un juego en el que los usuarios acumulan puntos por visitas a locales de la zona.
 
-La aplicación funciona gracias a la tecnología de geolocalización y los códigos QR. La idea muestra que la sinergia creada por pequeños hosteleros con inquietud y jóvenes desarro lladores de ¡deas con dominio de las nuevas tecnologías, puede dar lugar a un producto de gran potencial. En estos momentos la aplicación se encuentra en fase de prueba, lo que los entendidos llaman fase beta, mientras se están acometiendo las rondas de financiación. De momento, han contado con el apoyo de la aceleradora de ¡deas StartNewTech.
+La aplicación funciona gracias a la tecnología de geolocalización y los códigos QR. La idea muestra que la sinergia creada por pequeños hosteleros con inquietud y jóvenes desarro lladores de ideas con dominio de las nuevas tecnologías, puede dar lugar a un producto de gran potencial. En estos momentos la aplicación se encuentra en fase de prueba, lo que los entendidos llaman fase beta, mientras se están acometiendo las rondas de financiación. De momento, han contado con el apoyo de la aceleradora de ideas StartNewTech.
 
 ## D Marketing viral
 
@@ -6560,26 +6773,26 @@ Un ejemplo clásico de este tipo de posibilidad es la distribución de tickets d
 
 ## D Marketing de guerrilla
 
-Esta estrategia comercial aplica al mundo del marketing los conocimientos militares de Sun Tzu, un general, estratega y filósofo chino, de alrededor del año 500 a.C. Sus ¡deas están re cogidas en el libro El arte de la guerra, se trata de tácticas sencillas pero eficaces que han sido reinterpretadas para adaptarse al mundo empresarial.
+Esta estrategia comercial aplica al mundo del marketing los conocimientos militares de Sun Tzu, un general, estratega y filósofo chino, de alrededor del año 500 a.C. Sus ideas están re cogidas en el libro El arte de la guerra, se trata de tácticas sencillas pero eficaces que han sido reinterpretadas para adaptarse al mundo empresarial.
 
-La ¡dea de base no es belicosa, no se trata de aplastar al enemigo, n¡ de ganar clientes con estrategias agresivas. Para Sun Tzu, lo importante es «lograr la victoria sin combatir». Conse cuentemente, era vital conocer el campo de batalla, las fuerzas del enemigo, su disposición sobre el terreno y realizar una planificación estratégica.
+La idea de base no es belicosa, no se trata de aplastar al enemigo, n¡ de ganar clientes con estrategias agresivas. Para Sun Tzu, lo importante es «lograr la victoria sin combatir». Conse cuentemente, era vital conocer el campo de batalla, las fuerzas del enemigo, su disposición sobre el terreno y realizar una planificación estratégica.
 
 Aplicado al campo de los negocios, se trataría de:
 
 Tabla 7.3. Marketing de guerrilla en la empresa.
 
-| Tomar posiciones en el mercado según las intenciones de la competencia, cono cer sus debilidades y nuestras fortalezas. Sun Tzu afirma: «Si quieres ganar, ataca un lugar que tu enemigo no defienda». |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Conocer bien el terreno y el clima donde se librará la batalla, es decir, conocer el mercado y los factores del entorno que lo influyen. |
+| Tomar posiciones en el mercado según las intenciones de la competencia, cono cer sus debilidades y nuestras fortalezas. Sun Tzu afirma: «Si quieres ganar, ataca un lugar que tu enemigo no defienda».                                                                                                                                                                                      |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Conocer bien el terreno y el clima donde se librará la batalla, es decir, conocer el mercado y los factores del entorno que lo influyen.                                                                                                                                                                                                                                                    |
 | Anticiparse a la reacción de la competencia, actuar con iniciativa atacando a sus puntos vulnerables, por ejemplo, segmentos desatendidos, mala distribución, ser vicio posventa insatisfactorio, escasa calidad de los productos, etc. Se trata de concentrar fuerzas para mostrar superioridad, siempre es posible ya que siempre puede detectarse un aspecto donde el otro es más débil. |
-| Meditar cada paso y sus consecuencias, funcionar como un todo coordinado. No se trata de emplear demasiadas estrategias, sino una estrategia con una alterna tiva y, a ser posible, la más sencilla. |
-| Sun Tzu afirma: «La mejor política en la guerra es tomar un estado intacto; arrui narlo es inferior». Así pues, esta máxima indica que la esencia del marketing de guerrillas no debe basarse en la publicidad desleal para desbancar a la compe tencia. |
+| Meditar cada paso y sus consecuencias, funcionar como un todo coordinado. No se trata de emplear demasiadas estrategias, sino una estrategia con una alterna tiva y, a ser posible, la más sencilla.                                                                                                                                                                                        |
+| Sun Tzu afirma: «La mejor política en la guerra es tomar un estado intacto; arrui narlo es inferior». Así pues, esta máxima indica que la esencia del marketing de guerrillas no debe basarse en la publicidad desleal para desbancar a la compe tencia.                                                                                                                                    |
 
 ## Ejemplo 19. Caso: Banco Santander y su marketing de guerrilla
 
 Emilio Botín, presidente del Banco Santander, asegura «admirar las estrategias militares des critas por Sun Tzu en £/ arte de la guerra, uno de mis libros de cabecera». La historia de su grupo ha seguido las máximas que se destacan en ese libro.
 
-Así, destacó tres ¡deas clave que han dado al banco el liderazgo mundial que tiene en el mo mento presente:
+Así, destacó tres ideas clave que han dado al banco el liderazgo mundial que tiene en el mo mento presente:
 
 - Estrategia planificada. En el año 1986, cuando España ingresó en la Unión Europea, se fijaron como objetivo ser el primer banco comercial del mundo. Entonces ocupaban el sép timo lugar en España. Para escalar posiciones analizaron los puntos fuertes de la compañía y diseñaron una estrategia. Así, se acordó la estrategia en tres fases: ser fuerte en España, después convertirse en el primer banco de Iberoamérica y, por último, ser el mejor banco de Europa. Sus fortalezas eran dos: el mejor ejército, en clara alusión a los empleados, y un modelo de negocio que prestaba especial atención a la prudencia en riesgos.
 - Cumplir los objetivos fijados. Estas líneas estratégicas se fueron desarrollando con pe queños pasos, como la apertura de la Supercuenta, que remuneraba las cuentas corrientes con un interés del 11%, frente al 1 % de la competencia. Para minimizar los riesgos de este producto, se revisó la intendencia y la retaguardia, es decir, se aseguraron altos niveles de capital para garantizar la rentabilidad ofrecida y se sopesaron las posibles respuestas de los adversarios. Los resultados fueron mejor de lo previsto: la competencia tardó seis meses en reaccionar, lo que permitió al Banco Santander duplicar su cuota de mercado.
@@ -6644,6 +6857,7 @@ Un banneres un anuncio normalmente rectangular colocado arriba, abajo o en los l
 Ejemplos de este tipo de marketing son los ofrecidos por oogle a través de sus servicios de pago oogle AdWords y oogle AdSense.
 
 - oogle AdWords. Es el programa de oogle para incluir enlaces patrocinados en los re sultados de búsquedas. Pueden estar situados en la columna derecha o entre los primeros puestos de los resultados mostrados, aparecen sombreados para diferenciarlos del resto de enlaces que no pagan a oogle para salir en la búsqueda de resultados que realiza.
+
 * oogle AdSense. Es el programa de publicidad de oogle que permite insertar banners de publicidad en páginas web, blogs, plataformas de vídeo, etc., y pueden incluir texto, imágenes o vídeos.
 
 ## Sobre oogle AdWords
@@ -6712,14 +6926,14 @@ El patrocinio o esponsorización es el apoyo económico que brinda una empresa a
 
 Por ello, es habitual la esponsorización de eventos deportivos o culturales:
 
-* Eventos deportivos. La forma más habitual de manifestarse el patrocinio es con la impre sión del nombre de la marca y del logotipo en los artículos deportivos; sería el caso, por ejemplo, del patrocinio de la escudería Ferrari por parte del Banco Santander.
-* Eventos culturales. La esponsorización se estampa en carteles, vallas de señalización, im presión de entradas y hasta se incluye en el nombre del acontecimiento, como es el caso, por ejemplo, del concierto Coca-Cola Music Experience, donde además solo se venden re frescos de esta compañía.
+- Eventos deportivos. La forma más habitual de manifestarse el patrocinio es con la impre sión del nombre de la marca y del logotipo en los artículos deportivos; sería el caso, por ejemplo, del patrocinio de la escudería Ferrari por parte del Banco Santander.
+- Eventos culturales. La esponsorización se estampa en carteles, vallas de señalización, im presión de entradas y hasta se incluye en el nombre del acontecimiento, como es el caso, por ejemplo, del concierto Coca-Cola Music Experience, donde además solo se venden re frescos de esta compañía.
 
 El patrocinio persigue también un beneficio intangible para la empresa, que consiste en que se la relacione con los valores del evento que patrocina.
 
 ## Ejemplo 22. Ejemplos de asociaciones entre valores y patrocinio
 
-- Los últimos spots del Banco Santander están protagonizados por Fernando Alonso y giran en torno a la ¡dea del equipo de trabajo, de esforzarse por ganar y de superarse a uno mis mo, con lo que se quiere reforzar la imagen corporativa del Banco Santander. Es interesante constatar que el rojo corporativo del Banco Santander es fácilmente asociable al rojo de la escudería Ferrari.
+- Los últimos spots del Banco Santander están protagonizados por Fernando Alonso y giran en torno a la idea del equipo de trabajo, de esforzarse por ganar y de superarse a uno mis mo, con lo que se quiere reforzar la imagen corporativa del Banco Santander. Es interesante constatar que el rojo corporativo del Banco Santander es fácilmente asociable al rojo de la escudería Ferrari.
 - El concierto Coca-Cola Music Experience asocia su bebida con la felicidad, el ocio, la mú sica, la juventud, la amistad, etc., valores que la empresa está reforzando siempre a través de sus campañas publicitarias. De hecho, la compañía Coca-Cola ha creado una fundación para la felicidad, a través de la cual apoya los trabajos y las investigaciones relacionados con el tema que llevan a cabo reconocidos científicos.
 - No es casualidad que fuera la marca Red Bull la que patrocinara el salto estratosférico pro tagonizado por Félix Baumgartner, que consiguió romper la barrera del sonido en una caída libre desde 39 kilómetros de altura.
 
@@ -6779,6 +6993,7 @@ Otros criterios que pueden usarse, aunque no son aconsejables son:
 
 1. Centrarse en el producto. El mejor de los productos puede ser un fracaso si no se tienen en cuenta las necesidades de los clientes o lo que están dispuestos a pagar por él. Analizamos un ejemplo práctico sobre esto en la Unidad 1, al hablar de la fregona.
 2. Dirigirse a todo el mercado. Hay que definir un segmento de mercado y focalizar en él las campañas de marketing y todo el planteamiento empresarial. Esto no ex cluye a cualquier comprador, sino que concentra los esfuerzos en atraer y mantener a un público objetivo concreto. Para determinar la importancia de esta afirmación, procede a realizar el siguiente ejercicio: responde a estas preguntas y luego compara tus respuestas con las de tus compañeros.
+
 - a) ¿Utilizas el mismo móvil que tus padres?
 - b) ¿Compras ropa en las mismas tiendas que ellos?
 - c) ¿Crees que ellos se sentirían cómodos en los comercios o lugares de ocio que fre cuentas?
@@ -6872,7 +7087,7 @@ Los RR.HH. de las empresas se organizan en equipos fractales, es decir, en estru
 
 Esta forma de organización es causa y consecuencia de un alto nivel de implicación y com promiso de los trabajadores con la organización.
 
-Sobre esa base ha surgido una nueva ¡dea de gestión empresarial basada en la búsqueda de la calidad total y de la creación de un ambiente estimulante de trabajo, el llamado diverworking.
+Sobre esa base ha surgido una nueva idea de gestión empresarial basada en la búsqueda de la calidad total y de la creación de un ambiente estimulante de trabajo, el llamado diverworking.
 
 El diverworking o empresa orientada a la diversión acentúa que los trabajadores deben disfrutar con lo que hacen, tanto por su bienestar personal como por la repercusión positiva que tendrá en la empresa.
 
@@ -6908,10 +7123,10 @@ En otras ocasiones, es preferible contar con personal asalariado para la realiza
 
 Con la intención de facilitaros la realización de esta actividad de simulación, os propo nemos un ejemplo inventado de la previsión de empleados que realiza una empresa que promociona cursos de formación online y que, además, actúa como plataforma para que otras empresas anuncien y difundan sus ofertas de cursos.
 
-| Desarrollador web y community manager | Su función es crear y mantener la página web, así como posicionar nuestro portal en los primeros pues tos de los motores de búsqueda más utilizados y mejorar la imagen cor porativa que se encuentra en Inter net. | 30000 € brutos | Técnico superior infor mático con experien cia en posicionamiento web y en la gestión de un blog personal. |
-|-----------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|
-| Director de formación | Su cometido es coordinar todos los cursos que ofertamos y diferen ciarlos de los de la competencia. Así como integrar otra formación de otras empresas en nuestra web. Lleva también la parte administra tiva de la empresa. | 21 000 € brutos | Técnico superior infor mático o superior con experiencia en coordi nación de equipos de trabajo. |
-| Director comercial | Se encarga de buscar clientes, bien sean alumnos, bien sean empresas que se van a promocionar desde nuestro dominio. | Salario mixto: 17000 € brutos, como parte fija e incentivos variables según clientes conseguidos. | rado superior o grado medio con experiencia en comercio online y con conocimiento de idiomas. |
+| Desarrollador web y community manager | Su función es crear y mantener la página web, así como posicionar nuestro portal en los primeros pues tos de los motores de búsqueda más utilizados y mejorar la imagen cor porativa que se encuentra en Inter net.          | 30000 € brutos                                                                                    | Técnico superior infor mático con experien cia en posicionamiento web y en la gestión de un blog personal. |
+| ------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
+| Director de formación                 | Su cometido es coordinar todos los cursos que ofertamos y diferen ciarlos de los de la competencia. Así como integrar otra formación de otras empresas en nuestra web. Lleva también la parte administra tiva de la empresa. | 21 000 € brutos                                                                                   | Técnico superior infor mático o superior con experiencia en coordi nación de equipos de trabajo.           |
+| Director comercial                    | Se encarga de buscar clientes, bien sean alumnos, bien sean empresas que se van a promocionar desde nuestro dominio.                                                                                                         | Salario mixto: 17000 € brutos, como parte fija e incentivos variables según clientes conseguidos. | rado superior o grado medio con experiencia en comercio online y con conocimiento de idiomas.              |
 
 ## Plan de empresa
 
@@ -6936,36 +7151,49 @@ v^..-&gt;;
 ·'.
 
 1. El marketing persigue como objetivos:
+
 - a) Optimizar los objetivos corporativos.
 - b) Satisfacer las necesidades de los clientes mejor que lo hace la competencia.
 - c) Identificar las necesidades del público objetivo.
 - d) Todas son correctas.
+
 2. El nuevo marketing mix se enfoca a 4 Cs. Señala la C que no está incluida en este concepto:
+
 - a) Competencia.
 - h) Clientes.
 - c) Conveniencia.
 - d) Contexto.
+
 3. Señala cuáles de estos casos de publicidad pueden ser etiquetados como publicidad ilícita:
+
 - a) Subliminal.
 - b) Discriminatoria.
 - c) Desleal con la competencia.
 - d) Todas son correctas.
+
 4. Las funciones del departamento de Recursos humanos incluyen, entre otras:
+
 - a) Formación y motivación de los trabajadores.
 - b) Contratación.
 - c) Evaluación de puestos de trabajo.
 - d) Todas son correctas.
+
 5. La publicidad engañosa es aquella que:
+
 - a) Miente.
 - b) Oculta datos.
 - c) Induce a error al consumidor.
 - d) Todas son correctas.
+
 6. El marketing viral es aquel que:
+
 - a) Infecta el ordenador.
 - b) Transmite la información rápidamente.
 - c) Se lleva a cabo de forma involuntaria.
 - d) Todas son correctas.
+
 7. El marketing alternativo es el que:
+
 - a) Utiliza medios de comunicación masivos.
 - b) Dirige acciones a un segmento de mercado determinado.
 - c) Las opciones a) y b) son correctas.
@@ -6977,32 +7205,44 @@ v^..-&gt;;
 - b) Acciones promocionales realizadas en época navideña en las grandes superficies co merciales.
 - c) Máquinas expendedoras de bebidas y/o alimentos.
 - d) Ninguna es correcta.
+
 9. El marketing social es aquella modalidad de marketing que:
+
 - a) Se lleva a cabo por las redes sociales.
 - b) Contribuye a mejorar el bienestar personal y social.
 - c) Persigue la fidelización del cliente.
 - d) Todas son correctas.
+
 10. El marketing de contenidos tiene como propósito:
+
 - a) Ofrecer información relevante.
 - b) Atraer a clientes.
 - c) Estrechar vínculos con clientes y crear una relación permanente.
 - d) Todas son correctas.
+
 11. El merchandising se refiere a (señala la definición más precisa):
+
 - a) Objetos promocionales que se venden o regalan.
 - b) Venta de productos corporativos en eventos deportivos o musicales.
 - c) Acciones realizadas para animar la compra en el punto de venta.
 - d) Las acciones comerciales que se llevan a cabo en mercadillos locales.
+
 12. oogle AdWords es:
+
 - a) Programa de oogle que permite insertar publicidad en forma de enlace patrocinado.
 - b) Programa de oogle que capacita para insertar banners publicitarios en páginas web y blogs.
 - c) Criterios que utiliza oogle para establecer el ranking de posicionamiento en su bus cador.
 - d) Palabras clave por las que oogle fija el posicionamiento en su motor de búsqueda.
+
 13. Marketing B2B son aquellas acciones comerciales que se enfocan a:
+
 - a) Conseguir la intermediación de otras empresas para captar mercado.
 - b) Captar la atención de los clientes a través de la publicidad que realiza otra empresa.
 - c) Campañas de marketing compartidas con otras empresas.
 - d) Convertir en clientes a otras empresas.
+
 14. El comercio electrónico se refiere a la realización de acciones de (elige la opción más precisa):
+
 - a) Venta de aparatos electrónicos en tiendas físicas.
 - b) Publicidad por medios electrónicos.
 - c) Compra-venta por medios electrónicos.
@@ -7039,10 +7279,12 @@ v^..-&gt;;
 28. Busca información sobre la empresa ganadora del Premio de Oro en el festival Inspirational en la categoría de Marketing Viral. Comentad en clase si esta campaña os resulta conocida y si habéis participado en la difusión de la misma.
 29. Busca información sobre alguna acción de neuromarketing reciente (puedes usar el bus cador de Noticias de oogle).
 30. Visita este enlace http://www.expansion.com/2013/02/08/emprendedores-empleo/ mercado-laboral/1360352766.html y lee la información que aparece en él. Analiza la intencionalidad del protagonista de esta noticia y responde a estas preguntas.
+
 - a) De todos los tipos de marketing que hemos analizado en esta unidad didáctica, ¿en cuál la incluirías?
 - h) ¿Qué objetivo persigue? ¿Crees que lo ha alcanzado?
 - c) ¿Por qué crees que ha tenido tantas visitas en tan poco tiempo?
 - d) ¿Qué es Amazon y qué utilidad tiene?
+
 31. Busca información sobre Amazon y escribe un resumen de cuándo se constituyó y cómo surgió la idea.
 
 ## I nternacionalización y globalización
@@ -7184,6 +7426,7 @@ En este tipo de fusión, una empresa domina el proceso y absorbe a la otra, que 
 ## Actividades
 
 1. Identifica en estas noticias de prensa si se trata de una fusión pura o de una fusión por absorción.
+
 - a) La empresa de maquinaria agrícola CNH lobal ha aceptado la oferta mejorada de fusión con Fiat Industrial presentada por la compañía.
 - b) Aena Aeropuertos ha hecho efectiva su fusión con su filial de carga aérea, Centros Logísticos Aeroportuarios (CLASA). De esta forma, la filial de carga aérea de Aena Aeropuertos se extingue y comienza a operar Aena Aeropuertos subrogada en la posición contractual de CLASA, respecto de todos los contratos suscritos por esta última.
 - c) El Banco Santander, primer grupo bancario de la zona euro por capitalización, llevó a cabo en diciembre de 2012 una fusión con sus filiales Banesto y Banif. A partir de ese momento, mantuvo «Santander» como única marca comercial en España.
@@ -7198,12 +7441,12 @@ Una filial goza de personalidad jurídica propia, por lo que su organización y 
 
 La empresa matriz puede tener diversos motivos para decidirse por una filial:
 
-| Adquirir un negocio rentable que no está relacionado con su actividad principal. |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Comprar una empresa para asegurarse la provisión de ciertas mercaderías o materias primas. |
-| Contar con presencia en otro mercado, pero limitando su riesgo en caso de que la filial obtenga resultados negativos. |
+| Adquirir un negocio rentable que no está relacionado con su actividad principal.                                                                                                                       |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Comprar una empresa para asegurarse la provisión de ciertas mercaderías o materias primas.                                                                                                             |
+| Contar con presencia en otro mercado, pero limitando su riesgo en caso de que la filial obtenga resultados negativos.                                                                                  |
 | Desarrollar negocios en otro país pero que por cuestiones legales, económicas o por desconocimiento del mercado, es conveniente adquirir una filial más que fijar una presencia permanente en el país. |
-| Ofrecer una mayor imagen de confianza para los proveedores o clientes locales. |
+| Ofrecer una mayor imagen de confianza para los proveedores o clientes locales.                                                                                                                         |
 
 Tabla 8.1. Motivos para adquirir una filial por parte de una empresa matriz.
 
@@ -7270,7 +7513,7 @@ En función de su coste, puede tratarse de un informe simple sobre la competenci
 ## Actividades
 
 3. Selecciona una franquicia que te parezca atractiva para iniciar un negocio y averigua cuáles son sus condiciones y qué obligación temporal mínima es exigida.
-4. Accede al siguiente enlace y lee el artículo que hay en él. Señala qué ventajas tiene formar parte de una AIE: http://www.cincodias.com/artRcuSo/emprencSedores/ agrupacion-interes-economico-red empresas/20110415cdsepdepd\_14/
+4. Accede al siguiente enlace y lee el artículo que hay en él. Señala qué ventajas tiene formar parte de una AIE: http://www.cincodias.com/artRcuSo/emprencSedores/ agrupacion-interes-economico-red empresas/20110415cdsepdepd_14/
 
 El propósito de unajointventure puede ser el de llevar a cabo la producción de manera con junta o la búsqueda de nuevos mercados o cualquier otro objetivo estratégico. Asimismo, la aportación de cada empresa admite múltiples variantes como el intercambio de materia prima o de productos semiacabados, la cesión de tecnología, la intervención en los canales de distribución, la contribución con financiación, la colaboración con el know-how específico o el conocimiento del mercado, la cesión de personal, etc.
 
@@ -7464,36 +7707,49 @@ Te animamos a consultar el blog: www.fpemprendedores.es, donde encontrarás noti
 !
 
 1. La globalización es un proceso que conduce a la:
+
 - a) Interconexión e interdependencia entre los países.
 - b) Transformación de los países.
 - c) Eliminación de barreras comerciales.
 - d) Todas son correctas.
+
 2. Una sucursal es:
+
 - a) Una oficina que una empresa abre en otro país.
 - b) Una empresa extranjera adquirida por otra.
 - c) Una empresa franquiciada en otro país.
 - d) Todas son ciertas.
+
 3. La comercialización indirecta es aquella en la que una empresa:
+
 - a) No cuenta con presencia física en el país donde se quiere extender.
 - b) Asume más riesgos para expandirse internacionalmente.
 - c) Requiere grandes esfuerzos de inversión.
 - d) Todas son correctas.
+
 4. Algunos medios de llevar a cabo la comercialización indirecta son:
+
 - a) Agente y sucursal.
 - b) Distribuidor y franquicia.
 - c) Consorcio de exportación y distribuidor.
 - d) Todas son correctas.
+
 5. La comercialización directa:
+
 - a) Requiere de presencia directa en el país donde se expande.
 - b) Es más seguro que la comercialización indirecta.
 - c) Requiere de más esfuerzos económicos.
 - d) Todas son correctas.
+
 6. Una adquisición consiste en un proceso por el cual una empresa:
+
 - a) Se une a otra para formar una empresa nueva.
 - b) Compra acciones de otra empresa.
 - c) Firma un acuerdo de colaboración con otra empresa.
 - d) Todas son posibles.
+
 7. Una fusión pura consiste en un proceso por el cual una empresa:
+
 - a) Se une a otra para formar una empresa nueva.
 - b) Compra acciones de otra empresa.
 - c) Firma un acuerdo de colaboración con otra empresa.
@@ -7511,7 +7767,9 @@ Te animamos a consultar el blog: www.fpemprendedores.es, donde encontrarás noti
 - b) Compra acciones de otra empresa.
 - c) Firma un acuerdo de colaboración con otra empresa.
 - d) Integra una empresa en otra, de manera que esta última desaparece.
+
 9. Unajointventure es un proceso por el cual una empresa:
+
 - a) Se une a otra para formar una empresa nueva.
 - h) Compra acciones de otra empresa.
 - c) Firma un acuerdo de colaboración con otra empresa.
@@ -7530,7 +7788,9 @@ Te animamos a consultar el blog: www.fpemprendedores.es, donde encontrarás noti
 - b) Con gestión y organización independiente.
 - c) Que depende de una empresa matriz.
 - d) Todas son correctas.
+
 12. Se habla de integración vertical cuando:
+
 - a) Varias empresas del mismo sector se unen.
 - b) Se aumenta la cuota de mercado.
 - c) Varias empresas dedicadas a actividades diferentes se unen.
@@ -7542,7 +7802,9 @@ Te animamos a consultar el blog: www.fpemprendedores.es, donde encontrarás noti
 - b) Mejora el resultado cuantas más unidades se produzcan.
 - c) Se impone de manera creciente a medida que avanza la internacionalización de em presas y la globalización.
 - d) Todas son correctas.
+
 14. Una UTE o Unión Temporal de Empresas es un sinónimo de:
+
 - a) Un conglomerado de dos o más empresas.
 - b) Un consorcio de empresas.
 - c) Un acuerdo de colaboración entre dos empresas diferentes.
