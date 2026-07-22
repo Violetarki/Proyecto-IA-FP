@@ -1,5 +1,5 @@
 import chromadb
-from models import Chunk, Documento
+from models import Chunk, Documento, Metodologia
 
 
 print(chromadb.__version__)
@@ -80,34 +80,62 @@ class VectorStore:
         )
 
 
+
     def buscar(
+            self,
             embedding: list[float],
             k: int = 5
         ) -> list[Chunk]:
 
         """
+        Busca los chunks más similares en la colección ChromaDB.
 
-        Embedding de la pregunta
-                │
-                ▼
-        Consultar ChromaDB
-                │
-                ▼
-        Obtener los k resultados más similares
-                │
-                ▼
-        Convertir cada resultado en un Chunk
-                │
-                ▼
-        Devolver list[Chunk]
+        Args:
+            embedding: Embedding de la consulta.
+            k: Número de resultados a devolver.
 
-        
-        k es el número de chunks que queremos devolver, así es dinámico, se puede cambiar
+        Returns:
+            Lista de chunks ordenada por similitud.
         """
 
+        if not embedding:
+            return []
+
+        resultado = self.collection.query(
+            query_embeddings=[embedding],
+            n_results=k,
+            include=["documents", "metadatas"],
+        )
+
+        documentos = resultado.get("documents", [[]])[0]
+        metadatas = resultado.get("metadatas", [[]])[0]
+
+        chunks: list[Chunk] = []
+
+        for texto, metadata in zip(documentos, metadatas):
+            metodologia_nombre = metadata.get("metodologia", "")
+            documento = Documento(
+                metodologia=Metodologia(nombre=metodologia_nombre),
+                nombre=metadata.get("documento", ""),
+                texto=texto,
+                ruta=metadata.get("ruta", ""),
+            )
+
+            chunks.append(
+                Chunk(
+                    documento=documento,
+                    indice=int(metadata.get("indice", 0)),
+                    texto=texto,
+                    titulo=metadata.get("titulo"),
+                    subtitulo=metadata.get("subtitulo"),
+                )
+            )
+
+        return chunks
 
 
-    def eliminar_documento(documento: Documento) -> None:        
+
+    def eliminar_documento(self, documento: Documento) -> None:        
         """
         eliminar_documento(nombre_documento)
                 │
@@ -123,6 +151,7 @@ class VectorStore:
                 ▼
          Documento eliminado
          """
+
 
 
     def vaciar(self):
