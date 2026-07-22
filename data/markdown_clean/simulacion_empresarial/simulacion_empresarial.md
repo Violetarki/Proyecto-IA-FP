@@ -2057,7 +2057,6 @@ Tabla 3.3. Trámites para el inicio de una actividad empresarial. (ver mejor en 
 - Trámites de constitución: Certificación negativa de la denominación social. • Apertura de cuenta bancaria. • Redacción de los estatutos. • Firma de la escritura. • Liquidación del ITP/AJD. • Solicitud del CIF. • Inscripción en el Registro Mercantil.
 - Trámites de puesta en marcha: • Obtención del CIF. • Legalización de los libros. • Alta en el IAE. • Alta en el IVA. • Declaración previa de inicio de actividad. • Alta en el RETA de los socios. • Inscripción de la empresa en la Seguridad Social (si contrata trabajadores). • Afiliación y alta de los trabajadores en el Régimen general. • Comunicación de apertura. • Sellado del libro de visitas. • Solicitud de licencias municipales. • Inscripción en el Registro de la Propiedad o Industrial.
 
-
 ## Trámites de constitución
 
 Los trámites de constitución son los que hacen que la empresa tenga personalidad jurídica. La personalidad jurídica alude a la capacidad de obrar como empresa y de estar sujeta a unos derechos, pero también a unas obligaciones.
@@ -2299,36 +2298,57 @@ La libertad de elección de la personalidad jurídica está solo condicionada po
 | Fase 7.                            | Trámites en la Seguridad Social                   |
 | Fase 8.                            | Otros trámites                                    |
 
-
 En la Tabla 3.4 se analizan los diferentes criterios de elección y sus implicaciones prácticas.
 
-| Autónomo   | Es la única forma jurídica que solo puede ser unipersonal. Se pueden contratar trabajadores pero no se pueden tener socios.                                                                                                                                                                                                                                                                                                        |
-| ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Sociedades | Pueden estar constituidas por varios socios: • Las sociedades anónimas y limitadas pueden tener uno o más socios. • La sociedad limitada de nueva empresa debe estar integrada entre uno y cinco socios. • Las sociedades laborales y las cooperativas necesitan un mínimo de tres socios puesto que no está permitido que ningún socio que, además, sea trabajador en la empresa, posea más de un tercio del capital de la misma. |
-| Autónomo   | No requiere capital inicial puesto que no tiene que inscribirse en el Registro Mercantil ni constituirse ante notario.                                                                                                                                                                                                                                                                                                             |
-| Sociedades | Se exige la aportación de un capital mínimo para empezar la actividad. En función de la personalidad jurídica de la empresa la cantidad a desembolsar es distinta.                                                                                                                                                                                                                                                                 |
-| Autónomo   | La responsabilidad es ilimitada, afectando al patrimonio personal del empresario cuando los bienes de la empresa no cubren el importe de las deudas.                                                                                                                                                                                                                                                                               |
-| Sociedades | La responsabilidad por las deudas contraídas está limitada exclusivamente al patrimonio social de los socios.                                                                                                                                                                                                                                                                                                                      |
+- Número de socios
 
-Tabla 3.4. Características de los distintos tipos de formas jurídicas de las empresas.
+Autónomo: Es la única forma jurídica que solo puede ser unipersonal. Se pueden contratar trabajadores pero no se pueden tener socios.
 
-| Autónomo | Tiene la obligación de tributar el IRPF. El tipo impositivo varía en función de los beneficios obtenidos.  
-| Sociedades | Tiene la obligación de tributar el IRPF o el Impuesto sobre Sociedades en función de la forma jurídica de la empresa. En el caso del IRPF, el tipo impositivo varía en función de los beneficios obtenidos hasta un máximo del 52 %. En el caso del Impuesto sobre Sociedades el tipo impositivo es siempre el mismo porcentaje (30% o 25% para las empresas de reducida dimensión que son aquellas cuya facturación es inferior a los diez millones de euros).
+Sociedades: Pueden estar constituidas por varios socios: • Las sociedades anónimas y limitadas pueden tener uno o más socios. • La sociedad limitada de nueva empresa debe estar integrada entre uno y cinco socios. • Las sociedades laborales y las cooperativas necesitan un mínimo de tres socios puesto que no está permitido que ningún socio que, además, sea trabajador en la empresa, posea más de un tercio del capital de la misma.
 
-| Autónomo | Requiere menos requisitos para iniciar la actividad económica. |
-| Sociedades | Deben cumplir varios requisitos para iniciar la actividad económica. |
-| Autónomo | Al ser el único socio no tiene limitaciones al respecto.
+- Capital inicial
 
-| Sociedades | Está sujeto a unas normas: • Sociedad limitada. Los socios pueden transmitir sus participaciones solo a otros socios de la empresa o a familiares directos (padres, hijos y/o cónyuge). La razón es evitar cambios sustanciales en la empresa. No obstante, los estatutos de la sociedad pueden recoger otros acuerdos diferentes adaptados por los socios flexibilizando así esta limitación. • Sociedad anónima. Los socios pueden vender libremente sus acciones. En este caso, más que garantizar la identidad del nuevo socio, lo que interesa es afianzar la aportación de capital. |
-| Autónomo | Tiene más dificultad para acceder a clientes y proveedores por la sensación de impermanencia que transmite el hecho de trabajar solo.
+Autónomo: No requiere capital inicial puesto que no tiene que inscribirse en el Registro Mercantil ni constituirse ante notario.
 
-| Sociedades | Dan mayor sensación de permanencia y, consiguientemente, de fiabilidad.
+Sociedades: Se exige la aportación de un capital mínimo para empezar la actividad. En función de la personalidad jurídica de la empresa la cantidad a desembolsar es distinta.
+
+- Responsabilidad legal de los socios
+
+Autónomo: La responsabilidad es ilimitada, afectando al patrimonio personal del empresario cuando los bienes de la empresa no cubren el importe de las deudas.
+
+Sociedades: La responsabilidad por las deudas contraídas está limitada exclusivamente al patrimonio social de los socios.
+
+- Cuestiones fiscales
+
+Autónomo: Tiene la obligación de tributar el IRPF. El tipo impositivo varía en función de los beneficios obtenidos.
+
+Sociedades: Tiene la obligación de tributar el IRPF o el Impuesto sobre Sociedades en función de la forma jurídica de la empresa. En el caso del IRPF, el tipo impositivo varía en función de los beneficios obtenidos hasta un máximo del 52 %. En el caso del Impuesto sobre Sociedades el tipo impositivo es siempre el mismo porcentaje (30% o 25% para las empresas de reducida dimensión que son aquellas cuya facturación es inferior a los diez millones de euros).
+
+- Trámites a realizar
+
+Autónomo: Requiere menos requisitos para iniciar la actividad económica.
+
+Sociedades: Deben cumplir varios requisitos para iniciar la actividad económica.
+
+- Transmisión de porcentaje en la empresa
+
+Autónomo: Al ser el único socio no tiene limitaciones al respecto.
+
+Sociedades: Está sujeto a unas normas: • Sociedad limitada. Los socios pueden transmitir sus participaciones solo a otros socios de la empresa o a familiares directos (padres, hijos y/o cónyuge). La razón es evitar cambios sustanciales en la empresa. No obstante, los estatutos de la sociedad pueden recoger otros acuerdos diferentes adaptados por los socios flexibilizando así esta limitación. • Sociedad anónima. Los socios pueden vender libremente sus acciones. En este caso, más que garantizar la identidad del nuevo socio, lo que interesa es afianzar la aportación de capital.
+
+-Imagen ante los clientes
+
+Autónomo: Tiene más dificultad para acceder a clientes y proveedores por la sensación de impermanencia que transmite el hecho de trabajar solo.
+
+Sociedades: Dan mayor sensación de permanencia y, consiguientemente, de fiabilidad.
+
+Tabla 3.4. Características de los distintos tipos de formas jurídicas de las empresas.(ver en libro pp.80-81)
 
 ## Actividad de simulación 1
 
 Reúnete con tus socios para tomar una decisión respecto a la forma jurídica que adoptará la empresa. Si vais a optar por una personalidad jurídica que permita la constitución telemática, debes anotar los pasos a seguir y ponerlos por escrito, indicando los motivos que os han llevado a ello.
 
-## Ayuda práctica:
+Ayuda práctica:
 
 - a) Puedes encontrar información adicional en la web siguiente: http://wwwxirce.es/ Circe.Publico.Web/Articulo.aspx?titulo=Como+realizar+un+tramite
 - b) Siempre es posible modificar la personalidad jurídica elegida, pero este trámite con lleva un coste de tiempo, dinero y papeleo que se puede evitar si escoges la elección más adecuada a vuestra empresa.
@@ -2352,7 +2372,7 @@ Optar por una franquicia reduce los riesgos y la incertidumbre de constituir un 
 
 Tabla 3.5. Consejos antes de decidirse por un negocio de franquicia.
 
-## Ejemplo 7. Muestra de franquicia
+### Ejemplo 7. Muestra de franquicia
 
 El taller Repara tu vehículo basa su negocio en alquilar coches por horas para que sus clientes puedan revisar y reparar ellos mismos sus vehículos. Pone a disposición de los usuarios todas las herramientas necesarias así como una tienda de recambios y un experto que les asesora.
 
@@ -2367,23 +2387,31 @@ Si finalmente optamos por constituir nuestro negocio a través de una franquicia
 
 Para ello es aconsejable tener presente las recomendaciones que se exponen a continuación en la Tabla 3.6.
 
+## Recomendaciones para elegir franquicia.
+
+- Conocimientos previos del sector: No es necesario tener conocimientos previos del negocio pero, aunque no sea un requisito imprescindible, es aconsejable elegir un sector del que se tenga conocimientos porque ayuda al despegue de la empresa.
+
+- Visitar locales de la franquicia: Visitar los locales de los franquiciados y observar el tráfico de clientes, la disposición de los productos, etc. ayudará a visualizar la apariencia de nuestro negocio. Además, podría ser de gran ayuda mantener una conversación con el franquiciador y conocer su punto de vista.
+
+- Evitar franquicias con productos únicos: Evitar aquellas franquicias que están construidas en base a productos o servicios únicos y que han generado muchos imitadores en poco tiempo.
+
+- Realizar una investigación online: Buscar información de la franquicia a través de un buscador de Internet. Para ello se aconseja utilizar palabras clave como «estafa» o «queja».
+
+- Analizar la opinión de los usuarios: Acceder a foros o comunidades en Internet que sean susceptibles de con sumir el producto y analizar los comentarios que realizan, las preferencias que muestran, si recomiendan a la competencia, etc.
+
+- Asociarse con franquicias consolidadas en el mercado: Asociarse a una franquicia nueva puede ser arriesgado.Todo riesgo implica más posibilidades de ganancias o de pérdidas, ya que la previsión es más incierta. La recomendación de los expertos es decidirse por una franquicia que, al menos, lleve cinco años en el mercado.
+
+- Analizar detalladamente las condiciones de la franquicia: La Circular oferta de franquicia es un informe que recoge toda la información técnica, económica y financiera de la franquicia, para dar a cono cer el negocio a todos aquellos que estén interesados en participar. El franquiciador tiene la obligación de entregarla con una antelación mínima de treinta días antes de la celebración del contrato.
+
+- Verificar los datos de facturación: Sopesar la veracidad de los datos que facilita el franquiciador sobre el volumen de facturación esperado.
+
 Tabla 3.6. Recomendaciones para elegir franquicia.
-
-| Conocimientos previos del sector | No es necesario tener conocimientos previos del negocio pero, aunque no sea un requisito imprescindible, es aconsejable elegir un sector del que se tenga conocimientos porque ayuda al despegue de la empresa. |
-
-| Visitar locales de la franquicia | Visitar los locales de los franquiciados y observar el tráfico de clientes, la disposición de los productos, etc. ayudará a visualizar la apariencia de nuestro negocio. Además, podría ser de gran ayuda mantener una conversación con el franquiciador y conocer su punto de vista. |
-| Evitar franquicias con productos únicos | Evitar aquellas franquicias que están construidas en base a productos o servicios únicos y que han generado muchos imitadores en poco tiempo. |
-| Realizar una investigación online | Buscar información de la franquicia a través de un buscador de Internet. Para ello se aconseja utilizar palabras clave como «estafa» o «queja». |
-| Analizar la opinión de los usuarios | Acceder a foros o comunidades en Internet que sean susceptibles de con sumir el producto y analizar los comentarios que realizan, las preferencias que muestran, si recomiendan a la competencia, etc. |
-| Asociarse con franquicias consolidadas en el mercado | Asociarse a una franquicia nueva puede ser arriesgado.Todo riesgo implica más posibilidades de ganancias o de pérdidas, ya que la previsión es más incierta. La recomendación de los expertos es decidirse por una franquicia que, al menos, lleve cinco años en el mercado. |
-| Analizar detalladamente las condiciones de la franquicia | La Circular oferta de franquicia es un informe que recoge toda la información técnica, económica y financiera de la franquicia, para dar a cono cer el negocio a todos aquellos que estén interesados en participar. El franquiciador tiene la obligación de entregarla con una antelación mínima de treinta días antes de la celebración del contrato. |
-| Verificar los datos de facturación | Sopesar la veracidad de los datos que facilita el franquiciador sobre el volumen de facturación esperado. |
 
 ## Actividad de simulación 2
 
 Selecciona una franquicia relacionada con vuestro negocio y anota qué desembolso inicial es necesario, qué requisitos marcan y qué previsiones de ingresos anticipan.
 
-## Ayuda práctica:
+Ayuda práctica:
 
 Compáralo con los cálculos y las expectativas que has hecho en tu plan de empresa y si consideras que podéis cumplir los requisitos exigidos por la franquicia.
 
@@ -2413,19 +2441,16 @@ Antes de solicitar la denominación social es aconsejable leer atentamente las n
 8. No se permite usar el nombre de una entidad existente en otro país que sea notoriamente conocida, incluso aunque ese nombre esté libre en el Registro Mercantil.
 9. Se denegará el nombre que haya modificado otro existente en el orden de las palabras, el género o el número o haya añadido artículos, preposiciones, acentos, guiones, nú meros etc., o tenga una clara semejanza fonética. Por ejemplo, si está registrada la de nominación «Chiquitines», no servirían las siguientes propuestas: «Mis chiquitines», «Chiquitínas», «Mi chiquitín», «Chi-qui-tín», «Chiquitines», «3 chiquitines», etc.
 10. Tampoco es viable utilizar el nombre de una marca comercial, como Danonino.
-
-B
-
 11. Está prohibido incluir el anagrama de la denominación solicitada.
 12. Proponer varias palabras: es probable que una única palabra esté ya registrada.
 13. No usar palabras genéricas, como empresa o construcciones o administradores, porque carecen de posibilidad de diferenciación con respecto a negocios del mismo sector.
-14. No se pueden incluir las abreviaturas que indican dominios de Internet, como: .es, xom, .net, etc.
+14. No se pueden incluir las abreviaturas que indican dominios de Internet, como: .es, com, .net, etc.
 
 ## Actividad de simulación 3
 
 Reúnete con tus socios. Tenéis que decidir el nombre que le queréis poner a vuestra em presa, así como el modo de hacer la solicitud: en persona, por correo ordinario o de forma telemática. A continuación, rellena el formulario para solicitar la Certificación negativa de denominación social que puedes descargarte en la siguiente web, http://www.rmc.es/solicitudcertificados/CertDenominaciones.aspx y que incluye la información so bre la documentación a entregar.
 
-## Ayuda práctica:
+Ayuda práctica:
 
 Averigua dónde está ubicado el Registro Mercantil Central y el coste que supone solicitar la certificación según el modo como se realice (una gestoría cobra aproximadamente 40 euros por realizar este servicio). Es importante tener en cuenta el coste de este trámite, ya que en la siguiente unidad tendrás que presupuestar los gastos iniciales.
 
@@ -2452,7 +2477,7 @@ Las escrituras las puede realizar el propio notario puesto que dispone de modelo
 
 Reúnete con tus socios y redacta los estatutos de vuestra sociedad cumplimentando el formulario correspondiente a la forma jurídica de vuestra empresa, que encontrarás en el enlace de la web Crear-Empresas.com: http://www.crear-empresas.com/formolarios.htm. A fin de evitar errores, rellena los datos sin prisa.
 
-## Ayuda práctica:
+Ayuda práctica:
 
 En algunos casos, cuando la aportación de todos los socios no es similar, o su implicación en la marcha de la empresa no es equitativa, será necesario dialogar con detenimiento antes de redactar los estatutos para tener claras las normas de funcionamiento, el reparto de beneficios, etc.
 
@@ -2460,7 +2485,7 @@ En algunos casos, cuando la aportación de todos los socios no es similar, o su 
 
 Las empresas están obligadas a inscribirse en el Registro Mercantil, mientras que las cooperativas están obligadas a hacerlo en el registro que existe para ellas. Sin embargo, antes de proceder a este trámite hay que solicitar el Código de Identificación Fiscal (CIF).
 
-## I Solicitud del Código de Identificación Fiscal provisional
+## Solicitud del Código de Identificación Fiscal provisional
 
 El Código de Identificación Fiscal (CIF) sirve para identificar la sociedad ante la agencia tributaria. En el caso del empresario individual este se identifica con su NIF.
 
@@ -2513,7 +2538,7 @@ Hay que tener en cuenta que esto solo es aplicable a los bienes comunes. Los bie
 
 Algunas empresas requieren de manera adicional estar inscritas en un registro especial. Entre ellas se encuentran: empresas de venta a distancia, franquiciadores, empresas editoriales, empresas cinematográficas, industrias y establecimientos alimentarios, centros de animales de compañía, embotelladores y envasadores de vinos y bebidas alcohólicas, e industrias electrónicas, de telecomunicación, informáticas o automovilísticas.
 
-## I Legalización de los libros obligatorios
+## Legalización de los libros obligatorios
 
 De manera adicional, hay que legalizar los libros obligatorios en el Registro Mercantil correspondiente al domicilio social de la empresa. Estos libros son diferentes según la forma jurídica elegida, pero el trámite de su sellado y legalización deben realizarlo tanto los empresarios individuales como las sociedades.
 
@@ -2527,7 +2552,7 @@ Tienes que cumplimentar el formulario Modelo 600 para realizar el pago del impue
 
 Por último, consulta si vuestra empresa tiene que incluirse en algún registro especial; en el caso de que así sea, relaciona los trámites adicionales a seguir.
 
-## Ayuda práctica:
+Ayuda práctica:
 
 - a) Consulta la web del Registro Mercantil para saber cuál está más cerca del domicilio social de vuestro negocio: http://www.rmc.es/DireccionesMercantileSoaspx.
 - b) Para saber si vuestra empresa pertenece a un registro especial y los consiguientes pasos a realizar, consulta la web: http://www.crear-empresasxonn/tramitesgrales.htm.
@@ -2555,8 +2580,6 @@ Con carácter general se presentará en la Delegación de la AEAT correspondient
 
 Para darse de alta, las sociedades deben utilizar el modelo 036 indicando como motivo de presentación: «Solicitud de NIF y alta» y marcando las casillas 110 y 111. Los empresarios individuales, en cambio, pueden optar por utilizar el modelo 037, un modelo simplificado, indicando como motivo «alta» y seleccionando la casilla 111.
 
-15?
-
 ## Alta en el Impuesto sobre Actividades Económicas (IAE)
 
 El Impuesto sobre Actividades Económicas (IAE) es un tributo directo que grava el ejercicio de actividades empresariales, profesionales o artísticas, se ejerzan o no en un local determinado.
@@ -2567,21 +2590,27 @@ Están exentos del pago los empresarios individuales y las sociedades que tengan
 
 Cumplimenta el Modelo 036 para proceder a la declaración censal de vuestra actividad empresarial y, al mismo tiempo, cumplir el requisito del alta en el IAE.
 
-## Ayuda práctica:
+Ayuda práctica:
 
 Puedes acceder al modelo a través del enlace:
 
 http://www.agenciatributaria.es/AEAT.internet/Modelos\_formularios/modelo\_ O36.shtml
 
-## Fase /.Trámites en la Seguridad Social
+## Fase 7. Trámites en la Seguridad Social
 
-## I Alta de los trabajadores en el RETA
+## Alta de los trabajadores en el RETA
 
 Todos los trabajadores están obligados a darse de alta en la Seguridad Social. A través de este acto adquieren la obligación de cotizar mensualmente, es decir, de entregar un porcentaje de su salario a este organismo con el fin de estar cubiertos ante futuras situaciones que necesiten de asistencia médica o que les impidan trabajar, como incapacidad temporal, maternidad, desempleo, jubilación, etc. La cantidad a pagar se denomina cuota y se calcula aplicando un porcentaje (el tipo de cotización) a la base de cotización, que es la cantidad resultante de sumar los pagos recibidos por el trabajador, tanto en especie como en moneda, añadiendo la parte proporcional de las pagas extraordinarias y los demás pagos con vencimiento superior al mensual.
 
 Los trabajadores por cuenta ajena se encuadran en el Régimen General de la Seguridad Social y el tipo de cotización a pagar es siempre el mismo (en torno al 7%), salvo una pequeña variación en función de si el contrato es temporal o indefinido. En estos casos, el empresario también está obligado al pago de una cuota mensual a la Segundad Social por cada trabaja dor contratado (entre el 25% y 30% de la base de cotización del trabajador), que se denomina cuota empresarial, para diferenciarla de la que abona el trabajador, la cuota obrera.
 
 El RETA es el Régimen Especial de los Trabajadores Autónomos que no están encuadrados en el régimen general, sino en uno específico. Darse de alta en el RETA es obligatorio para los empresarios individuales y para los socios, aunque algunos tipos de sociedades admiten la posibilidad deque los socios estén encuadrados en el Régimen general si a la vez son socios y trabajadores de la compañía. La cuota a pagar oscila entre un mínimo y un máximo, siendo cada trabajador el que elige la cantidad a abonar. Esta decisión tiene su importancia pues, en función de eso, se establece posteriormente la cuantía de la prestación económica a recibir en caso de tener una situación de necesidad de las que están cubiertas por la Seguridad Social. El trabajador autónomo también decide si quiere estar cubierto en caso de incapacidad temporal o no.
+
+-Base mínima euros/mes: 850,20€
+-Base máxima euros/mes: 3262,50€
+-Tipo con I.T.: 29,80% y 29,30% con cese de actividad.
+-Tipo sin I.T.: 26,50%
+-Tipo AT (con I.T.): Tarifa de primas en la Disposición adicional cuarta de la Ley 42/2006, de 28 de diciembre, en redacción dada por la disposición final octava de la Ley 26/2009, de 23 de diciembre, de Presupuestos Generales del Estado para el año 2010, sobre la misma base de cotización elegida por los interesados por contingencias comunes.
 
 Tabla 3.7. Bases y tipos de cotización mínimas y máximas del régimen RETA de la Seguridad Social.
 
@@ -2595,8 +2624,7 @@ La solicitud ha de ir acompañada de los documentos siguientes:
 
 - Declaración censal en Hacienda: Modelo 036.
 - Justificante de haber abonado el Impuesto so bre Actividades Económicas, si fuese necesario.
-
-* Copia de las licencias, permisos o autorizaciones administrativas que sean necesarios para el ejercicio de la actividad de que se trate.
+- Copia de las licencias, permisos o autorizaciones administrativas que sean necesarios para el ejercicio de la actividad de que se trate.
 
 ## Solicitud del número de patronal
 
@@ -2604,13 +2632,13 @@ Para poder contratar a un trabajador, los socios deben solicitar en la Tesorerí
 
 Una vez concertado el contrato o bien la prórroga del mismo, debe ser comunicado al Servicio Público de Empleo en un plazo de diez días.
 
-## ■ Inscripción de la empresa
+## Inscripción de la empresa
 
 La inscripción de la empresa es el acto administrativo por el que la Tesorería general de la Seguridad Social le asigna a la empresa un número para su identificación y control de sus obligaciones con la Seguridad Social, denominado Código de Cuenta de Cotización Principal La solicitud se realizará con el Modelo TA.6.
 
 El empresario debe solicitar un Código de Cuenta de Cotización distinto en cada provincia donde ejerza la actividad, a través del Modelo TA.7.
 
-- [ ] D Afiliación y alta del trabajador
+## Afiliación y alta del trabajador
 
 La afiliación a la Segundad Social es un acto administrativo mediante el cual la Tesorería general de la Seguridad Social reconoce al trabajador la inclusión en el Sistema de Seguridad Social.
 
@@ -2630,7 +2658,7 @@ La Seguridad Social permite realizar varios trámites de forma telemática por m
 - Afiliación: altas, bajas, variaciones de datos de trabajadores, así como consultas.
 - Tramitación de los partes de alta y baja médica de Accidentes de Trabajo y Enfermedades Profesionales.
 
-## D Comunicación de las contrataciones al Servicio de Empleo
+## Comunicación de las contrataciones al Servicio de Empleo
 
 Una copia del contrato, firmado por el empresario y el trabajador, debe ser entregada al Servicio Público de Empleo en un plazo de diez días desde su firma. Asimismo, cuando dicha relación laboral finalice deberá comunicarse a la Seguridad Social. La comunicación puede realizarse por medios telemáticos, a través del sistema contrat@ que ha puesto en marcha el SEPE (Servicio Público de Empleo Estatal).
 
@@ -2638,17 +2666,17 @@ Una copia del contrato, firmado por el empresario y el trabajador, debe ser entr
 
 Rellena el formulario del Modelo TA.6 para proceder a la inscripción de la empresa en la Seguridad Social Accede al siguiente enlace para descargarte el documento:
 
-## http://www.seg-social.es/prdi00/groups/public/documents/bsnario/48533.pdf
+http://www.seg-social.es/prdi00/groups/public/documents/bsnario/48533.pdf
 
 A continuación, rellena el formulario de la Seguridad Social requerido para solicitar la afiliación de los trabajadores, si es la primera vez que trabajan. Se debe cumplimentar uno por cada trabajador que se contrata. En esta simulación solo vas a completar un formulario a partir de los datos de un empleado imaginario. Accede al siguiente enlace para descargarte el documento:
 
-## http://www.seg-sociales/prdi00/groups/public/documents/binario/365.pdf
+http://www.seg-sociales/prdi00/groups/public/documents/binario/365.pdf
 
 Realizado este trámite, procede a la solicitud de alta del trabajador conforme al Modelo TA.2S. Cumpliméntalo de manera que guarde coherencia con los datos utilizados en el impreso de la afiliación. Descárgate el documento en el siguiente enlace y rellénalo:
 
 http://www.seg-social.es/prdl00/groups/public/documents/bsnario/39379.pdf
 
-## Ayuda práctica:
+Ayuda práctica:
 
 En la Unidad 2 has hecho una estimación sobre la necesidad de incorporar personal o no. Ahora toca proceder a la contratación de los empleados. En caso de que hayas decidido no contratar a nadie, este trámite no sería necesario llevarlo a cabo, pero como estamos trabajando en una simulación puedes realizarla a modo de ejemplo.
 
@@ -2677,7 +2705,7 @@ El libro de Visitas debe ser sellado por el Jefe de la Inspección de la provinc
 
 En caso de pérdida o destrucción del libro anterior, se justificará con las pruebas disponibles y a través de una declaración escrita del representante legal de la empresa. Actualmente se puede utilizar el libro de Visitas electrónico.
 
-## I Solicitud de licencias municipales
+## Solicitud de licencias municipales
 
 El Inicio de una nueva actividad en un local conlleva la obligación de solicitar algunas licencias ante el ayuntamiento correspondiente: licencia de apertura, licencia de obras o licencia por cambio de titularidad o de actividad.
 
@@ -2690,7 +2718,7 @@ El 27 de mayo de 2012 entró en vigor la llamada «auto licencia exprés» que r
 
 Los requisitos exigidos en la licencia de apertura varían según la actividad sea «ino cua», es decir, que no produce molestias ni daños, en cuyo caso la licencia es fácil de conseguir y más barata que para las actividades «calificadas», que son aquellas potencialmente molestas, insalubres, nocivas o peligrosas. El procedimiento para lograr la licencia es más complejo y resulta más caro.
 
-## I Registro de patentes, marcas y nombres comerciales
+## Registro de patentes, marcas y nombres comerciales
 
 Se puede registrar una patente de invención, un modelo de utilidad, un diseño industrial, una marca o un nombre comercial.
 
@@ -2698,15 +2726,7 @@ Una patente de invención es un título que reconoce a su titular el derecho de 
 
 La patente siempre implica una actividad inventiva novedosa a nivel mundial. Su registro da derecho a una protección durante veinte años improrrogables y obliga al pago de unas tasas anuales y a su explotación antes de que transcurran tres años desde su concesión.
 
-i
-
-i
-
 Las invenciones realizadas por el trabajador a raíz de una actividad de investigación contenida en su contrato pertenecen al empresario.
-
-(
-
-i
 
 Un modelo de utilidad protege invenciones menores, es decir, novedades que modifiquen la configuración, estructura o constitución de un producto y que le confieren alguna ventaja de uso o fabricación. El grado de protección es similar al de la patente. La duración de la protección de los modelos de utilidad es de diez años improrrogables.
 
@@ -2750,7 +2770,7 @@ El proceso de registro es lento, aunque la ley establece un tiempo máximo de do
 
 Analiza qué elementos de vuestra empresa vais a registrar. A continuación, rellena los datos del formulario correspondiente, puedes descargártelo de la web de la Oficina de Patentes:
 
-## http://www.oepm.es/es/propiedadJndustrial/fonriulariQS
+http://www.oepm.es/es/propiedadJndustrial/fonriulariQS
 
 Averigua cuánto cuestan las tasas para el registro de vuestra propiedad intelectual, consulta la web: http://www.oepm.es/es/propiedadjndustrial/tasas
 
@@ -2763,6 +2783,21 @@ Esta unidad didáctica no tiene un reflejo directo en el plan de empresa. Por el
 Es una fase menos creativa que las anteriores pero, sin duda, es muy importante, ya que la tramitación correcta y a tiempo os posibilitará el inicio de vuestro negocio.
 
 Para facilitar la planificación en el desarrollo de todos estos trámites, podéis elaborar un sencillo calendario en el que señaléis qué trámites vais a llevar a cabo y en qué fechas. Será un dato aproximativo y servirá como herramienta de gestión empresarial.
+
+## Síntesis
+
+- Formas jurídicas: Empresario individual y Sociedades (Sociedad Limitada, Sociedad Limitada Nueva Empresa, Sociedad Anónima, Sociedad Cooperativa, Sociedad Limitada Laboral, Sociedad Anónima Laboral)
+
+- Franquicias: Franquiciador(Know-how, Marca y Productos) y Franquiciado (Canon de entrada, Canon de publicidad, Royalties)
+
+- Trámites:
+
+1. De Constitución: Certificación negativa de denominación social, Apertura cuenta bancaria, Estatutos firma de escritura, Liquidación ITP/AJD, Solicitud del CIF provisional, Inscripción en el Registro Mercantil
+2. De puesta en marcha: Trámites con Hacienda y Trámites con la Seguridad Social
+3. Otros trámites: Comunicación de apertura, Sellado del libro de Visitas, Licencias municipales, Registro Propiedad Intelectual
+4. Trámites específicos: Registro Industrial, Carnés profesionales, Carnés certificados de empresa, Autorizaciones de apertura, instalación y constitución
+
+## Test de repaso
 
 1. Las siglas PAIT significan:
 
@@ -2855,6 +2890,8 @@ Para facilitar la planificación en el desarrollo de todos estos trámites, pod�
 - c) Haya habido un cambio de titularidad en el negocio.
 - d) Todas son correctas.
 
+## Comprueba tu aprendizaje
+
 1. Explica la diferencia entre una sociedad y un empresario individual.
 2. Analiza si es más ventajoso tributar por el IRPF o hacerlo por el Impuesto de Sociedades.
 3. Compara la Sociedad laboral y la Sociedad cooperativa. Expon en qué elementos guardan similitud y qué aspectos las diferencian.
@@ -2880,9 +2917,11 @@ Para facilitar la planificación en el desarrollo de todos estos trámites, pod�
 23. Razona si te parece útil la existencia de un Registro de la Propiedad Intelectual y qué sucedería si no lo hubiera.
 24. Busca información sobre el ranking que ocupa España en cuanto a la facilidad para iniciar negocios. Explica después si crees que los medios telemáticos garantizan una agilidad en la tramitación.
 
-## Fuentes de financiación
+# 4. Fuentes de financiación
 
-«La experiencia me ha enseñado unas cuantas cosas. Una es escuchar mi intuición, no importa cómo suenen tas cosas en un papel. La segunda es que, por lo general, eres mejor haciendo lo que sabes. Y la tercera es que tu mejor inversión puede ser aquella que no haces.» DonaldTrump, multimillonario, ejecutivo y empresario.
+## DonaldTrump, multimillonario, ejecutivo y empresario.
+
+«La experiencia me ha enseñado unas cuantas cosas. Una es escuchar mi intuición, no importa cómo suenen tas cosas en un papel. La segunda es que, por lo general, eres mejor haciendo lo que sabes. Y la tercera es que tu mejor inversión puede ser aquella que no haces.»
 
 ## En esta unidad aprenderemos a:
 
@@ -2902,6 +2941,8 @@ Para facilitar la planificación en el desarrollo de todos estos trámites, pod�
 - Ayudas, subvenciones y recursos de asesoramiento disponibles en la comunidad y en el ámbito estatal
 - El coste de la financiación.
 
+## Emprendedores
+
 En este apartado vamos a analizar, a través del ejemplo de la empresa Natura Bissé, cómo conseguir la financiación necesaria para arrancar y consolidar nuestra actividad empresarial.
 
 ## Natura Bissé
@@ -2920,15 +2961,15 @@ La firma comenzó con una inversión de 800000 pesetas (4800 € en la actualida
 
 La financiación inicial fue propia, basándose en las aportaciones de los dos socios, Ricardo Fisas y su mujer, Gloria Vergés. Los beneficios obtenidos se reinvertían en investigación, para mantener el referente creado como marca de calidad. Precisamente fue esa apuesta por la innovación la que situó a Natura Bissé, quince años después de su creación, como una de las grandes firmas cosméticas a nivel internacional, aunque en España apenas se la conoce.
 
----
+Años después, se buscó la reducción de costes, al eliminar el número de intermediarios en la cadena de producción. La firma cuenta con una planta de producción propia, que hoy se ubica en el Parque Tecnológico de Cerdanyola del Valles.
+
+## Parque tecnológico vs científico
 
 Un parque tecnológico es un espacio con infraestructuras diseñadas para la constitución o el crecimiento de em presas basadas en el conocimiento.
 
 Un organismo de gestión impulsa la transferencia tecnológica y la innovación entre las empresas del parque. Es tos recursos se complementan con la existencia de otras organizaciones que aportan valor añadido al entorno, como incubadoras de empresas, universidades, centros de investigación o acceso al capital semilla.
 
 En cambio, el parque científico está vinculado a una universidad.
-
-Años después, se buscó la reducción de costes, al eliminar el número de intermediarios en la cadena de producción. La firma cuenta con una planta de producción propia, que hoy se ubica en el Parque Tecnológico de Cerdanyola del Valles.
 
 ## La internacionalización
 
@@ -2942,11 +2983,15 @@ La fundación que constituyeron trabaja para ayudar a crear pequeños negocios e
 
 En 2012, Ricardo Fisas murió a consecuencia de un accidente de tráfico.
 
-Las circunstancias macroeconómicas de los
-
-inicios de esta marca de lujo, Natura Bissé, no distan mucho de la coyuntura actual. En su libro autobiográfico, Pinceladas de una vida, Ricardo Fisas deja escritas unas palabras que hoy adquieren pleno sentido:
+Las circunstancias macroeconómicas de los inicios de esta marca de lujo, Natura Bissé, no distan mucho de la coyuntura actual. En su libro autobiográfico, Pinceladas de una vida, Ricardo Fisas deja escritas unas palabras que hoy adquieren pleno sentido:
 
 «En 1979 se cernía una gran crisis en España. Proliferaban las suspensiones de pagos, se cerraban empresas, se despedía personal y el paro aumentaba de forma espectacular. Las perspectivas eran aterradoras. Encontrar trabajo a los 50 años en estas circunstancias se me hacía imposible. ¿Cómo salir adelante? Con esposa, cuatro hijos de 7, 10,11 y 15 años y sin saber adonde ir ni qué hacer».
+
+## Microcréditos
+
+Los microcréditos son préstamos de pequeña cuantía concedidos a personas con pocos recursos económicos, que no pueden acceder a los préstamos de los bancos tradicionales.
+
+Los microcréditos posibilitan, especial mente en países en vías de desarrollo, que muchas personas puedan empren der su negocio y salir de la espiral de la pobreza.
 
 ## Reflexiona
 
@@ -2958,9 +3003,7 @@ inicios de esta marca de lujo, Natura Bissé, no distan mucho de la coyuntura ac
 - a) Tener una buena idea de negocio.
 - b) Disponer de los medios materiales para desarrollarla.
 
-Los microcréditos son préstamos de pequeña cuantía concedidos a personas con pocos recursos económicos, que no pueden acceder a los préstamos de los bancos tradicionales.
-
-Los microcréditos posibilitan, especial mente en países en vías de desarrollo, que muchas personas puedan empren der su negocio y salir de la espiral de la pobreza.
+## Conceptos básicos
 
 En este apartado vamos a recordar algunos conceptos que te serán útiles para realizar la Simulación, tales como:
 
@@ -2991,21 +3034,31 @@ En función de la procedencia del capital podemos hablar de recursos propios o d
 
 1. Enumera tres fuentes de financiación ajena para una empresa de tu elección.
 
-## ■ Financiación por recursos propios
+## Financiación por recursos propios
 
 Se trata de los recursos que son propiedad de la empresa y están, por tanto, de manera permanente invertidos en ella. Algunos son susceptibles de utilizar en el momento de constituir un negocio, mientras que otros requieren un tiempo de funcionamiento de la empresa.
 
 La empresa no solo necesita recursos económicos para su creación (capital semilla), sino también para mantener su funcionamiento (capital arranque) o para potenciar su crecimiento (capital de expansión). En ambos casos, también la empresa puede disponer de recursos propios para financiar estas necesidades.
 
-- [ ] D Capital semilla
+## Capital semilla
+
+- Capital social
 
 Se trata del dinero aportado por los socios, constituye el inicio de la financiación de la empresa. Su desembolso siempre es necesario, pues cualquier inversor o entidad financiera facilitará sus recursos en la medida en que los socios estén arriesgando también su propio dinero.
 
+- Cuenta ahorro empresa
+
 Antes de constituir la empresa, los socios pueden depositar fondos en una cuenta bancaria siempre que se trate de una sociedad limitada nueva empresa.
+
+- Capital riesgo o venture capital
 
 Es el dinero procedente de una empresa que invierte en la financiación temporal de otras compañías con altas expectativas de crecimiento.Toma forma a través de la compra de participaciones/acciones de dicha empresa, razón por la cual se considera una forma de financiación propia. La firma de capital riesgo se convierte, por tanto, en socio temporal de la compañía que está impulsando. Una vez que esta despega, que se espera que suceda en poco tiempo, venderá sus participaciones o acciones a un precio mayor del que las adquirió, resultando de ello un beneficio.
 
+- Business angel
+
 Es un inversor particular, generalmente un empresario, que invierte en proyectos empresariales con alto potencial de crecimiento para conseguir un beneficio. Debido a su experiencia profesional, asesora gratuitamente a las empresas en las que participa y les facilita su red de contactos.
+
+- Crowdfunding o micromecenazgo
 
 Consiste en la cooperación colectiva para financiar alguna actividad ya sea empresarial, política, artística, etc. Es una opción que ha prosperado mucho con el uso de Internet, ya que la red permite localizar multitud de personas con unos intereses comunes y dispuestos a realizar una pequeña aportación económica. A este tipo de financiación también se la denomina financiación colectiva.
 
@@ -3026,19 +3079,43 @@ La plataforma Universo Crowdfunding (http://www.universocrowdfunding.com) centra
 2. Analiza las semejanzas entre una sociedad de capital riesgo y un business ángel. Luego, enumera sus diferencias.
 3. Accede al siguiente enlace y anota las características y el precio que oferta la empre sa Colabora Coworking: http://www.colabora-coworkingxorn
 
-## D Capital arranque y capital de expansión
+## Capital arranque y capital de expansión
+
+- Beneficios no repartidos o reservas
 
 Los beneficios empresariales son los ingresos netos que obtiene la empresa después de descontar todos los pagos, incluidos los impuestos. Habitualmente, un porcentaje de estos beneficios se reparte entre los socios y el otro se man tiene en la empresa como fondo para cubrir riesgos o para realizar nuevas inversiones, son las llamadas reservas.
 
 Si no se utilizan todas las reservas, los excedentes monetarios se pueden depositar en algún producto bancario que ofrezca una mejor rentabilidad que una cuenta corriente. Algunas entidades bancarias denominan a este tipo de productos «Cuenta Negocios» como reclamo.
 
-Casbega, la embotelladora de Coca-Cola para el centro de España, apuesta por la inversión continua en innovación. En el último año, esta suma ascendió a 13 millones de euros, lo que supone casi el 20% de los beneficios de la firma.
-
-Esta partida se dedica, en parte, a mejorar su huella ecológica. «Buscamos conseguir envases más sostenibles, que minimicen el impacto ambiental», explica el director industrial. La vocación de la compañía por la innovación le ha permitido ser pionera dentro de su sector, lo que le ha servido para conseguir el sello de calidad de Madrid Excelente.
+Ejemplo: Casbega, la embotelladora de Coca-Cola para el centro de España, apuesta por la inversión continua en innovación. En el último año, esta suma ascendió a 13 millones de euros, lo que supone casi el 20% de los beneficios de la firma. Esta partida se dedica, en parte, a mejorar su huella ecológica. «Buscamos conseguir envases más sostenibles, que minimicen el impacto ambiental», explica el director industrial. La vocación de la compañía por la innovación le ha permitido ser pionera dentro de su sector, lo que le ha servido para conseguir el sello de calidad de Madrid Excelente.
 
 Fuente: Cinco Días. Madrid, 20 de diciembre de 2011 [en línea]
 
-Tabla 4.2. Modos de financiación por capital arranque y capital de expansión (recursos propios) (Continuación).
+- Incorporación de nuevos socios o ampliación de capital
+
+Vender una parte de la empresa para permitir la entrada de nuevos socios puede resultar de utilidad. En tal caso, la sociedad continúa siendo la misma, no hay cambio en la entidad sino en sus propietarios.
+
+Sociedad limitada laboral limitada: las participaciones solo se pueden transmitir otros socios, al cónyuge los hijos.
+
+Sociedad anónima laboral anónima: la transmisión de acciones es libre.
+
+Las sociedades anónimas de grandes dimensiones ponen sus acciones en circulación través de los mercados de valores: la bolsa el Mercado Alternativo Bursátil (MAB).
+
+Cotización en bolsa. Las sociedades anónimas que cumplen ciertos requisitos pueden vender sus acciones libremente en este mercado de valores. Es una opción para grandes empresas, puesto que se exige un capital mínimo superior 200000 euros. La entrada en bolsa puede suponer una importante vía de obtención de recursos, ya que los inversores están comprando una parte del accionariado de la empresa, con lo que se incrementa el capital de la compañía, si bien también genera una presión la gerencia de la empresa para tomar decisiones que sean bien acogidas por los accionis
+tas para evitar acciones que puedan dañar su imagen.
+
+Mercado Alternativo Bursátil (MAB). Las compañías de menor tamaño facturación pueden cotizar sus acciones en
+el MAB de manera similar como cotizan las grandes empresas en la bolsa.
+
+Ejemplo: En bolsa cotizan empresas tan conocidas como Iberia, Campofrío, Zeltia, Antena 3, NH Hoteles, Repsol, Cepsa, Abertis, Ferrovial, Telefónica, Banco Santander, BBVA Corporación Mapfre. Imaginarium es una empresa que cotiza en el MAB, al igual que Zinkia (la empresa propietaria de los derechos de Pocoyó), Gowex (experta en servicios de red inalámbrica ciudades) Bodaclick (portal web dedicado la organización de bodas).
+
+-Subvenciones
+
+Las ayudas económicas que ofrece la Administración los organismos públicos tienen la ventaja de ser fondo perdido, es decir, que no tienen que ser devueltas, razón por la que se incluyen como un recurso propio.
+
+Ejemplo: La Junta de Castilla León concedió en 2012,304560 euros en subvenciones ayuntamientos del medio rural con el fin de financiar las obras necesarias en centros educativos para poder impartir el primer ciclo de Educación Infantil. La Junta de Castilla y León financió el 90% del coste de la inversión, mientras que el 10 restante corrió cargo de cada ayuntamiento.
+
+Tabla 4.2. Modos de financiación por capital arranque y capital de expansión (recursos propios).
 
 ## Clasificación de las reservas
 
@@ -3054,15 +3131,15 @@ Aunque resulta más caro financiarse con recursos ajenos, dado que hay que pagar
 
 El apalancamiento se refiere al efecto positivo generado, en términos de rentabilidad económica, al utilizar dinero ajeno para una inversión o para generar más negocio.
 
-- [ ] D Financiación a largo plazo
+## Financiación a largo plazo
 
 La primera fuente de financiación que nos surge son los familiares y los amigos. Sin embargo, las mayores cantidades de dinero provienen de los bancos y de las entidades financieras.
 
+- Aportaciones de familiares y amigos
+
 Permite acceso rápido y con condiciones privilegiadas a recursos económicos. Sin embargo, las cantidades disponible no suelen ser elevadas y la presión psicológica puede ser fuerte.
 
-^§i§1
-
-fc#&lt;#¥Wi
+- Préstamos bancarios
 
 Es una cantidad de dinero que la empresa recibe de una entidad de crédito (banco, caja de ahorro o cooperativa de crédito) a cambio de reintegrarlo transcurrido un plazo de tiempo, con unos intereses determinados, por medio de unas cuotas mensuales.
 
@@ -3070,11 +3147,15 @@ Si el banco tiene dudas sobre la viabilidad de la empresa, por ejemplo, por trat
 
 Un aval es el compromiso adquirido por una tercera persona (avalista), que responde con sus bienes personales de la devolución del préstamo en caso de impago.
 
-## -------------------------
+- Financiación a través de entidades financieras no bancarias
 
 Algunas grandes cadenas de supermercados cuentan con sus propios servicios financieros para ofrecer facilidades de pago a sus clientes como, por ejemplo, los Servicios Financieros Carrefour E.F.C. Sus tipos de interés suelen ser superiores a los de los bancos, si bien a cambio son menos restrictivos en sus requisitos de acceso a la financiación, garantías exigidas y plazos temporales. Además, permiten la personalización de las condiciones según la situación de cada empresa.
 
+- Emisión de títulos de deuda
+
 Los títulos de deuda son un instrumento financiero que sirve para obtener fondos de particulares, de otras empresas o de entidades financieras. De esta manera, un gran préstamo se divide en pequeñas fracciones para permitir la entrada de varios prestamistas que conseguirán, a cambio, una rentabilidad. Los títulos que se emiten pueden ser obligaciones, bonos o pagarés. La diferencia entre unos y otros se basa en el plazo fijado para la devolución del dinero recibido a un interés ofertado, que puede ser fijo o variable, según el caso.
+
+- Entidades financieras públicas
 
 La Administración desarrolla medidas de apoyo financiero a pymes basadas en líneas de préstamo preferente y de ayuda en el pago de tipos de interés para acometer inversiones productivas. La puesta en marcha se efectúa a través del Instituto de Crédito Oficial (ICO) o el Banco Europeo de Inversiones (BEI).
 
@@ -3082,27 +3163,29 @@ Tabla 4.3. Modos de financiación a largo plazo (recursos ajenos).
 
 ## Ejemplo 3. Tipos de préstamos
 
-## Préstamo bancario
+- Préstamo bancario
 
 El convenio suscrito en 2012 entre el Ayuntamiento de Falencia y la Sociedad de Garantía Recíproca Iberaval ha permitido realizar 27 operaciones de crédito destinadas a jóvenes empresarios.
 
-## Préstamo de una entidad financiera no bancada
+- Préstamo de una entidad financiera no bancada
 
 En el año 2012, El Corte Inglés acudió al rescate de su filial de confección, Induyco, con la concesión de un préstamo participativo de 150 millones de euros para solventar los problemas de tesorería que acarreaba.
 
-## Préstamo de una entidad financiera pública
+- Préstamo de una entidad financiera pública
 
 El ICO es una entidad financiera pública que ofrece financiación a empresas que cuenten con un aval de una S R, para disponer de liquidez o bien para la inversión en maquinaria, equipo informático, mobiliario, inmuebles, vehículos, etc. La tramitación de las operaciones se realiza directamente a través de las entidades de crédito y las Sociedades de Garantía Recíproca.
 
-Un préstamo participativo es un préstamo entre empresas por un plazo temporal bre ve (de uno a cuatro años), de manera que, al fin del contrato, la deuda se salda con participaciones o acciones. La entidad prestamista participa en la gestión mientras tanto.
+## Un préstamo participativo
+
+es un préstamo entre empresas por un plazo temporal breve (de uno a cuatro años), de manera que, al fin del contrato, la deuda se salda con participaciones o acciones. La entidad prestamista participa en la gestión mientras tanto.
 
 ## Actividades
 
-4. Analiza las ventajas e inconvenientes de recibir un préstamo concedido por familia res o amigos.
-5. Entra en la web de CERSA http://www.reafianzamiento.es/cersa.php?zona=sgrs y averigua cómo se llama la S R que opera en tu comunidad autónoma.
+4. Analiza las ventajas e inconvenientes de recibir un préstamo concedido por familiares o amigos.
+5. Entra en la web de CERSA http://www.reafianzamiento.es/cersa.php?zona=sgrs y averigua cómo se llama la SGR que opera en tu comunidad autónoma.
 6. Lee la siguiente noticia aparecida en un periódico económico y explica con tus pala bras la información que ofrece.
 
-## «Los inversores van a lo seguro»
+- «Los inversores van a lo seguro»
 
 «Los mercados siguen inmersos en un ambiente de incertidumbre, razón por la que los inversores buscan refugio en el corto plazo, especialmente en productos tradicionales como imposiciones a plazo fijo, y pagarés, dada la alta rentabilidad que ofrecen (a veces superan el 4%). Se trata de rendimientos casi imposibles de alcanzar en bonos corporativos con los mismos vencimientos.
 
@@ -3112,13 +3195,19 @@ Fuente: El Economista. Madrid, 12 de noviembre de 2012 [en línea]
 
 7. Entra en la web del ICO (http://www.ico.es/web/contenidos/home/home.html) y averigua qué líneas de actuación tienen y cuál es la finalidad de cada una de ellas.
 
-- [ ] D Financiación a corto plazo
+## Financiación a corto plazo
 
 También se puede acudir a otras fuentes de financiación ajenas, como las líneas de crédito o los descubiertos en cuenta.
 
+- Línea de crédito o cuenta de crédito
+
 El crédito es una operación financiera en la que se pone a disposición del cliente una cantidad de dinero hasta un límite especificado. Los intereses se pagarán en caso de hacer uso del dinero y se abonarán teniendo en cuenta las cantidades utilizadas y el tiempo que se ha dispuesto de ellas. Un tipo especial de crédito son los microcréditos, que se ha analizado al inicio de la unidad.
 
+- Descubierto en cuenta o numéros rojos
+
 Estar al descubierto consiste en gastar un importe superior al saldo disponible en la cuenta corriente, o bien, en pagar con un cheque sin contar con fondos suficientes. En tal caso, si estaba pactado con el banco, este adelantará el importe, si bien la empresa pagará unos intereses por ello que suelen ser más altos que en otros tipos de préstamos.
+
+Tabla 4.4. Modos de financiación corto plazo (recursos ajenos).
 
 ## Ejemplo 4. Empresa al descubierto
 
@@ -3128,13 +3217,17 @@ Una empresa tiene en su cuenta bancaria un descubierto puntual de 5000 euros. El
 
 8. Señala las diferencias entre un préstamo y un crédito.
 
-- [ ] D Otras formas de financiación
+## Otras formas de financiación
 
-## Leasing y renting
+- Leasing y renting
 
 Otras formas de financiación se basan en la idea de abaratar el gasto inicial en la adquisición de bienes inmuebles o muebles mediante el alquiler o la compra. Muchas veces, las empresas no utilizan un leasing o un renting como una fuente de financiación, sino como un instrumento para disfrutar de un activo inmovilizado en régimen de arrendamiento.
 
+- Leasing
+
 Es un alquiler con opción a compra. Permite a la empresa utilizar bienes sin haberlos adquirido. Es frecuente en los inicios de la actividad empresarial como una forma de abaratar el gasto, al poder disfrutar de dichos bienes sin realizar un desembolso ni solicitar un préstamo. Puede utilizarse para vehículos, inmuebles, maquinaria, ordenadores, etc. Además, existe la posibilidad de compra al finalizar el tiempo de contrato, la cual resulta bastante interesante.
+
+- Renting
 
 Es un alquiler que incluye los gastos de mantenimiento. Se usa en vehículos, ordenadores, fotocopiadoras, aparatología, etc. Al finalizar el contrato, se tiene la opción de sustituir los equipos o bien renovar el contrato de los bienes utilizados.
 
@@ -3154,13 +3247,15 @@ Cobega, la distribuidora de bebidas de la marca Coca-cola en España, usa vehíc
 
 En otras ocasiones, las necesidades de financiación están influidas por la necesidad de liquidez para el día a día de la actividad empresarial, de manera que la empresa esté abastecida por los proveedores y, además, cobre puntualmente de sus clientes.
 
-## ---------------- pago a proveedores
+- Aplazamiento en el pago a proveedores
 
 Las empresas cuentan, en ocasiones, con facilidades de pago a los proveedores. Lo más habitual es la posibilidad de aplazar el pago a 30,60 o 90 días. Este retraso equivale a una anticipación de dinero, razón por la que se denomina también crédito comercial por ser realizado del proveedor a la empresa cliente. Es una opción muy ventajosa, puesto que se invierte el orden natural del funcionamiento de una empresa (compro-pago-vendo-cobro) por otro más rentable (compro-vendo-cobro-pago).
 
-## ---------------------- por pronto pago
+- Descuento por pronto pago
 
 En ocasiones, los proveedores no están interesados en ofrecer facilidades de pago a sus clientes. Sin embargo, no hacerlo implicaría perder mercado, bien porque es una práctica habitual en algunos sectores, o bien porque las grandes empresas a las que sirven imponen estas condiciones de pago. Por ello, suelen realizar descuentos a sus clientes por pronto pago, que consiste en reducir el precio si se produce el pago inmediato. Desde el año 2010, hay un tiempo máximo legal permitido para el retraso en el pago, de 60 días, salvo en el sector de la alimentación y de los productos perecederos, que es de 30 días. Este último plazo de tiempo es el máximo que puede emplear la Administración Pública en resolver las deudas con sus acreedores. Está prohibido negociar plazos superiores a estos.
+
+- Confirming
 
 Es un servicio que garantiza el pago a los proveedores mediante un acuerdo con la entidad bancaria. Este acuerdo permite transformar la deuda con proveedores en deuda bancaria, de esta manera un déficit temporal de tesorería no impedirá recibir el pedido, asegurando el mantenimiento de la línea de producción. Con ello, la empresa gozará de credibilidad ante los proveedores.
 
@@ -3186,7 +3281,21 @@ Esta opción, habitual en empresas que venden bienes de alto precio, como electr
 
 Por ello, la compañía requerirá compensar esta carencia de liquidez e, incluso, el riesgo de impago, con fórmulas de financiación alternativas.
 
-Crédito comercial: la empresa financia la compra de su cliente ofreciéndole la posibilidad de pagar a plazos en cómodas cuotas a 30,60 o 90 días. Es una manera de asegurar e incrementar las ventas, si bien conlleva riesgo de impago y falta de liquidez.
+### Crédito comercial: 
+
+la empresa financia la compra de su cliente ofreciéndole la posibilidad de pagar a plazos en cómodas cuotas a 30,60 o 90 días. Es una manera de asegurar e incrementar las ventas, si bien conlleva riesgo de impago y falta de liquidez.
+
+### Tabla 4.7. Facilidades de pago.
+- Descuento comercial o descuento de efectos
+
+La empresa entrega una entidad financiera los efectos pendientes de cobro de sus clientes. El banco anticipa el dinero, cambio de una comisión por la tramitación de un interés por el anticipo recibido. Los efectos son de rechos de cobro de una empresa (facturas, letras de cambio, pagarés, cheques...), debido que los clientes no han abonado aún el precio de los bienes adquiridos. El riesgo de impago lo asume siempre la empresa que cede estos efectos.
+
+- Factoring
+
+Se trata de la cesión, una empresa óefactoríng, de aquellas facturas de clientes que están pendientes de cobro. La empresa conseguirá los fondos que necesita cambio de pagar una comisión por los servicios administrativos unos intereses por la anticipación del dinero. Es similar al descuento comercial, aunque referido solo facturas, si bien en el factoring se puede negociar quién asume el riesgo de impago. Así, están aceptadas dos variantes posibles:
+
+- a) El factoríng con recurso, en el que la empresa vendedora asuma el riesgo.
+- b) El factoríng sin recurso, donde el riesgo lo asume la empresa óefactoríng, en cuyo caso el coste financiero será mayor.
 
 Tabla 4.7. Facilidades de pago.
 
@@ -3194,7 +3303,7 @@ Tabla 4.7. Facilidades de pago.
 
 Hay empresas que no parecen sentir en sus cuentas los efectos de la crisis, tal como se co menta en esta noticia.
 
-## «Las ganancias del grupo Security suben casi 80% durante el tercer trimestre»
+«Las ganancias del grupo Security suben casi 80% durante el tercer trimestre»
 
 «El aumento de los ingresos comerciales estuvo impulsado principalmente por el crecimiento en Banco Security, Vida Security, Factoring Security y Travel Security. En concreto, Factoring Security reportó un aumento de 15,4% en colocaciones, totalizando $162 689 millones, lo que representó un incremento de un 60,2% respecto del mismo periodo del año 2011.»
 
@@ -3229,7 +3338,7 @@ Los viveros empresariales, las incubadoras de negocios y las aceleradoras de emp
 
 La razón de ser del apoyo privado es, lógicamente, obtener un beneficio económico. En el caso de la intervención pública, o privada sin ánimo de lucro, se persiguen objetivos sociales y económicos, como favorecer el tejido empresarial local, impulsar la innovación e incrementar la contratación de trabajadores.
 
-## I Espacios de coworking o cotrabajo
+## Espacios de coworking o cotrabajo
 
 Consisten en centros de trabajo compartidos, de forma que diferentes empresas ocupan una misma oficina. El precio suele estar fijado según el tiempo que se ocupa el espacio: todas las tardes, tres días a la semana, etc. Por buscar una similitud, se trata de la misma idea que la de compartir piso con compañeros y compartir gastos. En un centro de coworking también se comparten salas de reuniones, servicios de telefonía e internet, despachos para videoconferencias y hasta la misma oficina si solo se usa unas horas al día. Es accesible a cualquiera, pero suele ser utilizado solo por jóvenes emprendedores hasta que pueden instalarse en su propia sede. A la ventaja del ahorro económico se suma que el emprendedor puede contagiarse del ambiente estimulante que le rodea, e incluso realizar proyectos comunes o colaborar con otros emprendedores, como cliente o proveedor.
 
@@ -3241,19 +3350,21 @@ Además, se ofrecen otros servicios como gestoría, alquiler de coches o descuen
 
 ## Actividades
 
-- 14, Entra en este enlace http://www.panoramaaudlovisual.com/2012/11/13/nacela-industrial-un-espacio-que-ofrece-zona-de-coworking-eventos-talleresaula-y-formadon-avanzada y averigua qué servicios ofrece la empresa La Indus trial y con qué finalidad.
+14. Entra en este enlace http://www.panoramaaudlovisual.com/2012/11/13/nacela-industrial-un-espacio-que-ofrece-zona-de-coworking-eventos-talleresaula-y-formadon-avanzada 
 
-## D Cluster
+y averigua qué servicios ofrece la empresa La Industrial y con qué finalidad.
+
+## Cluster
 
 Un cluster es una agrupación física de empresas, junto a instituciones y universidades con intereses similares o convergentes.
 
-## Ejemplo 10. El fenómeno cluster
+### Ejemplo 10. El fenómeno cluster
 
 «"Cooperar o sufrir". Con esta idea han proliferado en los últimos años en España los cluster, agrupaciones entre pequeñas y medianas empresas para elevar la competitividad. Una herramienta que en plena crisis está demostrando ser eficaz para abaratar costes, impulsar la innovación y potenciar la internacionalización. El fenómeno ha cuajado en Aragón, una de las comunidades con más cluster en activo y, lo que es más importante, donde más frutos está dando esta fórmula de colaboración.»
 
 fuente: El Periódico de Aragón. Zaragoza, 7 de noviembre de 2012 [en línea]
 
-- [ ] □ Concursos o premios para emprendedores
+## Concursos o premios para emprendedores
 
 Están convocados tanto por organismos públicos como por iniciativa privada. El fin que se persigue es el mismo: impulsar el emprendimiento.
 
@@ -3269,7 +3380,7 @@ La Fundación Banesto está ampliando la red de centros Yuzz para poder apoyar a
 
 Para más información, puedes consultar la siguiente página: http://www.yuzz.org
 
-## I Viveros de empresa
+## Viveros de empresa
 
 Son espacios similares a los centros de coworking, pero generalmente enfocados a jóvenes emprendedores que están iniciando un negocio, puesto que no suelen admitirse compañías con más de dos años de actividad.
 
@@ -3284,41 +3395,43 @@ A pesar de la situación de crisis económica y del déficit público, o quizá 
 - e El Ministerio de Industria, Energía y Turismo ha concedido al Ayuntamiento de Caravaca de la Cruz una subvención de 150000 euros para la ejecución del proyecto «Vivero de Empresas».
 - Sabadell contará con un nuevo vivero de emprendimiento tecnológico en L'Estruch.
 
-## D Incubadoras de empresas
+## Incubadoras de empresas
 
 El concepto es similar al de los viveros de empresa, pero suelen instalarse en parques científicos o tecnológicos para concentrar en una misma área negocios innovadores relacionados con las nuevas tecnologías. Por esa misma razón, es frecuente que algunos fondos de capital riesgo visiten estos parques tecnológicos en busca de start-up$ (empresas de nueva creación) en las que invertir.
 
 Su origen tuvo lugar en las universidades norteamericanas y su éxito más conocido es Silicon Valley, nacido gracias al impulso de dos profesores de la Universidad de Stanford. Las universidades buscaban crear áreas cercanas al campus que sirvieran para impulsar el nacimiento de empresas basadas en las innovaciones que los alumnos creaban en las aulas. La plataforma que ha supuesto Silicon Valley para el surgimiento de nuevas empresas de gran impacto ha contagiado la expansión de este modelo a muchos otros países. Países como Rusia o China están gestionando la creación de espacios similares en sus fronteras.
 
-## D Aceleradoras de empresas
+## Aceleradoras de empresas
 
-Está basada en una idea similar a la incuba dora, pero persigue el lanzamiento de un negocio naciente en el menor tiempo posible. Mientras que en las incubadoras se espera que los proyectos crezcan de forma natural, siguiendo los plazos marcados en sus planes de negocio, en las aceleradoras, en cambio, el propósito es lograr un crecimiento rápido Un mentor es aquel que ejerce la función de guiar y orientar a otro porque su experiencia y/o sus conocimientos lo autorizan para ejercer ese papel.
+Está basada en una idea similar a la incuba dora, pero persigue el lanzamiento de un negocio naciente en el menor tiempo posible. Mientras que en las incubadoras se espera que los proyectos crezcan de forma natural, siguiendo los plazos marcados en sus planes de negocio, en las aceleradoras, en cambio, el propósito es lograr un crecimiento rápido en un breve plazo de tiempo. Para ello suelen ofrecer instalaciones económicas, un mentor y un capital semilla para iniciar el negocio o, al menos, el contacto con inversores pri vados y fondos de capital riesgo donde conseguir financiación. La rapidez en el nacimiento de estas empresas es posible porque, en términos generales, las aceleradoras apoyan proyectos que tienen como objeto social la fabricación de un producto económico con gran penetración de mercado. La alta demanda esperada se conseguiría gracias a la promoción y distribución online, que posibilita una difusión masificada a bajo coste y ofertar un precio de venta asequible, lo que favorece la compra impulsiva.
 
-en un breve plazo de tiempo. Para ello suelen ofrecer instalaciones económicas, un men tor y un capital semilla para iniciar el negocio o, al menos, el contacto con inversores pri vados y fondos de capital riesgo donde conseguir financiación. La rapidez en el nacimiento de estas empresas es posible porque, en términos generales, las aceleradoras apoyan proyectos que tienen como objeto social la fabricación de un producto económico con gran penetración de mercado. La alta demanda esperada se conseguiría gracias a la promoción y distribución online, que posibilita una difusión masificada a bajo coste y ofertar un precio de venta asequible, lo que favorece la compra impulsiva.
+## Un mentor 
+
+es aquel que ejerce la función de guiar y orientar a otro porque su experiencia y/o sus conocimientos lo autorizan para ejercer ese papel.
 
 ## Ejemplo 13. Proyectos innovadores
 
-## «La empresa riojana raffter seleccionada en la convocatoria 2012 de Wayra»
+- «La empresa riojana raffter seleccionada en la convocatoria 2012 de Wayra»
 
-« raffter es un proyecto empresarial que combina el arte urbano, elementos multimedia y realidad aumentada. Es un espacio virtual en el que cualquiera puede hacer grafitis y compartirlos a través de una comunidad online. Wayra es la incubadora internacional de proyectos TIC de telefónica digital, una iniciativa de l+D+i.
+«Graffter es un proyecto empresarial que combina el arte urbano, elementos multimedia y realidad aumentada. Es un espacio virtual en el que cualquiera puede hacer grafitis y compartirlos a través de una comunidad online. Wayra es la incubadora internacional de proyectos TIC de telefónica digital, una iniciativa de l+D+i.
 
 El Gobierno de La Rioja cuenta con un vivero de empresas de base tecnológica, un espacio coworking donde los emprendedores pueden interactuar o generar sinergias muy positivas para el desarrollo de su proyecto. También tiene el Plan Emprende Rioja, que auna todos los servicios y ayudas de esta comunidad para los emprendedores.»
 
 Fuente: Europa Press, 17 de diciembre de 2012 [en línea]
 
-## I Ayudas públicas y subvenciones
+## Ayudas públicas y subvenciones
 
 Además de las acciones señaladas en el epígrafe anterior, las administraciones públicas tratan de fomentar el emprendimiento con diferentes medidas, tales como ayudas a la contratación de trabajadores, bonificaciones de las cuotas a la Seguridad Social, incentivos fiscales, ayudas financieras, subvenciones y asesoramiento empresarial, que son ayudas económicas a fondo perdido convocadas periódicamente y que exigen unos requisitos para ser concedidas.
 
 ## Ejemplo 14. Ayudas a la exportación
 
-## «CAVEX reclama ayudas fiscales que premien el éxito exportador»
+- «CAVEX reclama ayudas fiscales que premien el éxito exportador»
 
 «La Agrupación de Exportadores de Calzado de la Comunidad Valenciana (CAVEX) trasladará al gobierno central y a la generalitat Valenciana un decálogo de propuestas para favorecer la internacionalización y mejorar la competividad de las empresas del sector.
 
 En el contexto actual de recortes presupuestarios, CAVEX afirma que es necesario "buscar nuevas fórmulas de apoyo a la internacionalización, vías alternativas a las subvenciones, medidas fiscales para agilizar las devoluciones del IVA, así como una mejor definición de la Marca España y más apoyo de las instituciones en los países de destino".»
 
-Fuente: información.es. Elche, 7 de noviembre de 2012 [en línea]
+Fuente: Información.es. Elche, 7 de noviembre de 2012 [en línea]
 
 ## Actividades
 
@@ -3348,9 +3461,11 @@ En este caso, la decisión de mantener abierto el local conlleva la renuncia de 
 
 ## Actividades
 
-- 16, Lee la información recogida en el siguiente enlace y enumera las cuestiones más importantes que trata sobre el coste de oportunidad:
+16. Lee la información recogida en el siguiente enlace y enumera las cuestiones más importantes que trata sobre el coste de oportunidad:
 
 http://www.ennaranjaxom/economia-facil/la-importancia-de-saber-elegirel-coste-de-oportunidad
+
+## Recursos ajenos
 
 En cuanto a los recursos ajenos, hablamos de coste financiero.
 
@@ -3362,7 +3477,7 @@ El cálculo del coste total de un proceso productivo contribuirá a precisar los
 
 ## Ejemplo 16. Coste financiero
 
-## «Uralita pierde millones por mayores costes financieros»
+- «Uralita pierde millones por mayores costes financieros»
 
 «Uralita registró unas pérdidas de 18,8 millones de euros frente a un beneficio de 600000 euros del año anterior, debido a la reducción del resultado de explotación por mayores costes financieros y por la aplicación de una política más conservadora en el registro de créditos fiscales.
 
@@ -3372,7 +3487,7 @@ El aumento de los costes financieros se debe al incremento en los intereses por 
 
 Fuente: Qué! Madrid, 15 de noviembre de 2012 [en línea]
 
-## 3ítVJj^^
+## Simulación empresarial
 
 El objetivo en esta unidad es que definas las fuentes de financiación que te ayudarán a poner en marcha tu actividad empresarial. Al finalizar la unidad recogerás toda esa información para el plan de empresa en el apartado. Plan financiero.
 
@@ -3381,6 +3496,15 @@ El objetivo en esta unidad es que definas las fuentes de financiación que te ay
 Las inversiones y gastos más frecuentes pa ra la puesta en marcha de un negocio suelen realizarse en los siguientes conceptos:
 
 - Adquisición o alquiler de inmueble, como local, garaje, nave, establecimiento, oficina, etc., y gastos asociados, como impuestos, suministros, seguros, etc.
+- Compra de vehículos y gastos asociados: seguro, gasolina, etc.
+- Adquisición de inmovilizado material, esto es, elementos materiales que se espera utilizar durante un año o más en la empresa, como maquinaria, equipos informáticos, impresoras, fotocopiadoras, etc.
+- Mobiliario y equipamiento de oficina o de local comercial, como mesas, sillas, lámparas, estanterías, ficheros, etc.
+- Herramientas y utillaje preciso.
+- Derechos duraderos o inversiones inmateriales, como patentes y marcas, licencias para el uso de programas de ordenador, depósitos o fianzas, canon de entrada en una franquicia, etc.
+- Gastos de constitución y puesta en marcha de la sociedad.
+- Stock inicial de materias primas necesario para realizar la actividad económica, junto con sus envases, embalajes, bolsas, etc.
+- Gastos en promoción y publicidad: folletos, decoración escaparates, luces de neón, etc.
+- Cash-flow, esto es, dinero en efectivo disponible para los primeros meses de funcionamiento, hasta que la actividad empresarial genere ingresos.
 
 ## Fases de la Simulación empresarial
 
@@ -3392,18 +3516,6 @@ Las inversiones y gastos más frecuentes pa ra la puesta en marcha de un negocio
 - Fase 6. Financiación a corto plazo
 - Fase 7. Apoyo en las fases iniciales
 
-_-----------------_
-
-- Compra de vehículos y gastos asociados: seguro, gasolina, etc.
-- Adquisición de inmovilizado material, esto es, elementos materiales que se espera utilizar durante un año o más en la empresa, como maquinaria, equipos informáticos, impresoras, fotocopiadoras, etc.
-- Mobiliario y equipamiento de oficina o de local comercial, como mesas, sillas, lámparas, estanterías, ficheros, etc.
-- Herramientas y utillaje preciso.
-- Derechos duraderos o inversiones inmateriales, como patentes y marcas, licencias para el uso de programas de ordenador, depósitos o fianzas, canon de entrada en una franquicia, etc.
-- Gastos de constitución y puesta en marcha de la sociedad.
-- Stock inicial de materias primas necesario para realizar la actividad económica, junto con sus envases, embalajes, bolsas, etc.
-- Gastos en promoción y publicidad: folletos, decoración escaparates, luces de neón, etc.
-- Cash-flow, esto es, dinero en efectivo disponible para los primeros meses de funcionamiento, hasta que la actividad empresarial genere ingresos.
-
 ## Actividad de simulación 1
 
 Realiza las siguientes tareas:
@@ -3411,7 +3523,7 @@ Realiza las siguientes tareas:
 - a) Elabora un listado de todas las inversiones a realizar para ejecutar vuestro proyecto de empresa, es decir, de todos los elementos que necesitéis para llevar a cabo la actividad empresarial.
 - b) Después, deberás presupuestarlos. En función del montante total, deberéis decidir el dinero necesario. El capital social aportado por los socios será el primer recurso a utilizar, pero si no se cubren todos los gastos (lo que suele ser habitual), habrá que buscar otras fuentes de financiación.
 
-## Ayuda práctica:
+Ayuda práctica:
 
 - a) Ten en cuenta que la financiación debe cubrir las necesidades señaladas y arrojar un excedente que sirva para garantizar los pagos de los primeros meses de funciona miento de la empresa, tales como salarios, cuotas de la Seguridad Social, luz, agua, calefacción, impuestos, etc. Esta cantidad será mayor cuanto más tiempo genere la empresa en conseguir ingresos, no es lo mismo vender ropa que coches.
 - b) Busca información precisa sobre el coste de los elementos a adquirir. Cuanto más navegues por Internet buscando precios y comparando ofertas, más fácil te resultará encontrar precios económicos.
