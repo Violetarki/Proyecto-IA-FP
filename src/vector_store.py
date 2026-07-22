@@ -154,6 +154,20 @@ class VectorStore:
 
     def vaciar(self):
         """
-        Eliminar todos los registros
-        de la colección. útil durante el desarrollo y las pruebas
+        Elimina todos los registros de la colección.
         """
+
+        total = self.collection.count()
+        if total == 0:
+            return
+
+        resultado = self.collection.get(
+            limit=total,
+            include=["metadatas"],
+        )
+
+        ids = resultado.get("ids", [])
+        if not ids:
+            return
+
+        self.collection.delete(ids=ids)
