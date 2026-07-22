@@ -21,3 +21,4 @@ data/markdown_clean/*
 !data/markdown_clean/lean_startup/.gitkeep
 !data/markdown_clean/simulacion_empresarial/
 !data/markdown_clean/simulacion_empresarial/.gitkeep
+.vscode/settings.json
