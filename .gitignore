@@ -21,3 +21,10 @@ data/markdown_clean/*
 !data/markdown_clean/lean_startup/.gitkeep
 !data/markdown_clean/simulacion_empresarial/
 !data/markdown_clean/simulacion_empresarial/.gitkeep
+.vscode/settings.json
+
+# Ignorar todo el contenido de la base vectorial
+data/vector_store/*
+
+# Excepto el archivo que mantiene la carpeta
+!data/vector_store/.gitkeep
