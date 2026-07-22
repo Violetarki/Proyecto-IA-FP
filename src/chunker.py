@@ -103,34 +103,6 @@ def crear_chunks() -> list[Chunk]:
     return chunks
 
 
-## Esto entiendo que ya no es necesario pero lo quiero dejar vale copilot deja de intentar borrarlo
-def obtener_bloques(documento: Documento) -> list[str]:
-    """Recibir un Documento y devolver una lista de bloques de texto.
-
-    Cada bloque agrupa líneas consecutivas no vacías. Separa los bloques
-    cuando encuentra una o más líneas vacías.
-    """
-    bloques: list[str] = []
-    bloque_actual: list[str] = []
-
-    # Recorrer todas las líneas del texto del documento.
-    for linea in documento.texto.splitlines():
-        if linea.strip() == "":
-            # Línea vacía: terminar el bloque actual si hay algo acumulado.
-            if bloque_actual:
-                bloques.append("\n".join(bloque_actual).strip())
-                bloque_actual = []
-        else:
-            # Línea no vacía: añadirla al bloque actual.
-            bloque_actual.append(linea)
-
-    # Al terminar, guardar el último bloque si existe.
-    if bloque_actual:
-        bloques.append("\n".join(bloque_actual).strip())
-
-    return bloques
-
-
 if __name__ == "__main__":
     chunks = crear_chunks()
 
