@@ -1360,8 +1360,7 @@ comercializa en Japón. Llevan incorporados unos ventiladores que extraen el air
 
 ## Demográficos
 
-Se segmenta por edad, estado civil, sexo, estatus socioeconómico, religión, nivel de ingre
-sos, tipo de familia, profesión, nivel educativo, orientación sexual...
+Se segmenta por edad, estado civil, sexo, estatus socioeconómico, religión, nivel de ingresos, tipo de familia, profesión, nivel educativo, orientación sexual...
 
 Ejemplo
 El Trekstor USB es un abrebotellas que está incorporado un USB con una capacidad de 8 GB. Este invento está más
@@ -1377,23 +1376,15 @@ Se segmenta según el estilo de la vida, la personalidad, los valores, las actit
 tos.
 
 Ejemplo
-El sensor de muñeca desarrollado por Microsoft permite al usuario controlar cualquier dispositivo electrónico que
-esté cerca, tales como móvil. Este producto está dirigido los adictos las novedades tecnológicas que poseen portátil,
-Smartphone.Tablet, eBook y Ultrabook. el perfume Masclet n.° 5, con formato olor pólvora, que se ha presentado
-en Valencia con motivo de las Fallas. El producto busca llamar la atención, sin duda, pero también cautivar los aficio
-nados esta fiesta tradicional, para rememorar los buenos momentos, ya que el olfato es uno de los sentidos que más
-rápidamente conecta con los recuerdos.
+El sensor de muñeca desarrollado por Microsoft permite al usuario controlar cualquier dispositivo electrónico que esté cerca, tales como móvil. Este producto está dirigido los adictos las novedades tecnológicas que poseen portátil, Smartphone.Tablet, eBook y Ultrabook. el perfume Masclet n.° 5, con formato olor pólvora, que se ha presentado en Valencia con motivo de las Fallas. El producto busca llamar la atención, sin duda, pero también cautivar los aficionados esta fiesta tradicional, para rememorar los buenos momentos, ya que el olfato es uno de los sentidos que más rápidamente conecta con los recuerdos.
 
 ## Conductuales
 
-Se segmenta según los hábitos de compra: frecuencia, fidelidad la marca, búsqueda de
-beneficio, capacidad de toma de decisiones.
+Se segmenta según los hábitos de compra: frecuencia, fidelidad la marca, búsqueda de beneficio, capacidad de toma de decisiones.
 
 Ejemplo
-El chaleco Like-a-hug (juego de palabras, que puede traducirse «como un abrazo» «me gusta un abrazo»). Este cha
-leco se infla cuando un amigo del usuario clickea en el «Me gusta» del muro del usuario de Facebook. El abrazo simula
-un ligero abrazo está pensado para clientes habituales de esta red social, que necesitan sentir físicamente las demos
-traciones de cariño pasar un rato divertido.
+
+El chaleco Like-a-hug (juego de palabras, que puede traducirse «como un abrazo» «me gusta un abrazo»). Este chaleco se infla cuando un amigo del usuario clickea en el «Me gusta» del muro del usuario de Facebook. El abrazo simula un ligero abrazo está pensado para clientes habituales de esta red social, que necesitan sentir físicamente las demostraciones de cariño pasar un rato divertido.
 
 Cada empresa trata de conocer a su población objetivo a partir de los distintos criterios seña lados. No siempre es fácil identificar todas las características de los potenciales usuarios. Sin embargo, cuanto más se acerquen las empresas, más beneficios pueden conseguir.
 
@@ -1482,7 +1473,7 @@ En esta fase tendrás que analizar la aceptación de tus productos o servicios e
 
 Persigue entender el comportamiento de los consumidores para detectar necesidades insatisfechas, hábitos de compra (lugares, momentos, preferencias, cantidades, motivos, etc.). En la Fase 4 has seleccionado tu mercado objetivo. Ahora es preciso averiguar más datos sobre él: qué compra, cuándo compra, por qué compra, cada cuánto tiempo, quién más influye en la decisión de compra, etc.
 
-## Analisis de la competencia
+## Análisis de la competencia
 
 A partir de esta evaluación (realizada ya en la Fase 5) se valorará si es factible convivir con la competencia o si hay que neutralizarla captando parte de su mercado o bien convirtiéndonos en socios, a través de una fusión o una alianza estratégica.
 
@@ -1673,7 +1664,7 @@ Las actividades de simulación efectuadas en esta unidad te han servido para rea
 - b) Describe la organización de la empresa a través de sus distintos departamentos: las funciones de cada uno, la jerarquía, los puestos de trabajo asociados. Incorpora la idea de una posible necesidad de contratar personal o de subcontratar empresas especializadas.
 - c) Incorpora el organigrama realizado.
 
-## Sintesis
+## Síntesis
 
 (Ver manual página 62)
 
@@ -3605,20 +3596,20 @@ Cristina Garmendia fue ministra de Ciencia e Innovación. Fundó el grupo biotec
 - «(...) Uno de los frenos de la innovación en España ha sido la ausencia de un entorno financiero propicio. Durante décadas, la obtención de recursos se valía de subsidios y ayudas públicas o de préstamos bancarios.Aunque han aparecido nuevas fórmulas, aún es necesario desarrollar un buen sistema de fondos semilla, a través de fondos públicos, pero también con fondos de capital riesgo público-privados, es decir, fondos de capital riesgo privados incentivados por el sistema público. No obstante, no todas las pymes se ajustan a este esquema de financiación con capital riesgo, sino solo aquellas que en el corto plazo sean capaces de incrementar su valor por varias veces.
 - (...) el capital riesgo es muy útil en empresas tecnológicas porque durante muchos años no generan ingresos y, por tanto, necesitan instrumentos que las financien sin pedirles a cambio una garantía o una rentabilidad. Hay proyectos muy competitivos en España, a los que se debe apoyar para que se mantengan. El sector de la biotecnología se ha desarrollado mucho en nuestro país hasta el punto de constituir un 6 % del PIB y de posicionarnos como la novena potencia científica a nivel mundial por el impacto que tienen nuestras publicaciones.»
 
-Fuente: Diarlo de Burgos. Burgos, 26 de octubre de 2012 [en línea] (adaptación)
+Fuente: Diario de Burgos. Burgos, 26 de octubre de 2012 [en línea] (adaptación)
 
 En la Tabla 4.13 se enumeran algunos consejos para evitar que el proyecto empresarial sea rechazado por una sociedad de capital riesgo.
 
-| Constituir la empresa, en lugar de esperar a tener capital para ejecutar la idea.                                                                                                                                                                                              |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Garantizar que los socios ofrecen una imagen de seriedad, profesionalidad y competencia.                                                                                                                                                                                       |
-| Construir una identidad de marca y, más en concreto, incrementar la presencia en redes sociales. Reservar aquellos dominios que pueden asociarse a la empresa.                                                                                                                 |
-| Garantizar la ventaja competitiva de la empresa registrando la propiedad intelectual (o industrial), si la hay. En caso contrario, buscar fórmulas de diferenciación para que la idea no sea fácilmente replicable por la competencia e invadan nuestro hueco de mercado.      |
-| Aunque implica un gasto, siempre vende más un objeto físico que una idea, por muy buena que sea.                                                                                                                                                                               |
-| idea no suele sobrepasar dos páginas y una                                                                                                                                                                                                                                     |
-| Es preciso contar con un buen plan de empresa extenso para, en caso de captar su aten- ción, justificar y exponer todos los aspectos del negocio. Esto ayudará a vencer la resistencia del inversor, contando con una respuesta estudiada a cada duda que surja. --- ■ _\_\_ _ |
-| Sin ella, no se tiene un fundamento claro de que hay potenciales clientes dispuestos a pagar por este bien o servicio.                                                                                                                                                         |
-| Siguen siendo fundamentales para prosperar.                                                                                                                                                                                                                                    |
+| Constituir la empresa, en lugar de esperar a tener capital para ejecutar la idea.                                                                                                                                                                                            |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Garantizar que los socios ofrecen una imagen de seriedad, profesionalidad y competencia.                                                                                                                                                                                     |
+| Construir una identidad de marca y, más en concreto, incrementar la presencia en redes sociales. Reservar aquellos dominios que pueden asociarse a la empresa.                                                                                                               |
+| Garantizar la ventaja competitiva de la empresa registrando la propiedad intelectual (o industrial), si la hay. En caso contrario, buscar fórmulas de diferenciación para que la idea no sea fácilmente replicable por la competencia e invadan nuestro hueco de mercado.    |
+| Aunque implica un gasto, siempre vende más un objeto físico que una idea, por muy buena que sea.                                                                                                                                                                             |
+| idea no suele sobrepasar dos páginas y una                                                                                                                                                                                                                                   |
+| Es preciso contar con un buen plan de empresa extenso para, en caso de captar su atención, justificar y exponer todos los aspectos del negocio. Esto ayudará a vencer la resistencia del inversor, contando con una respuesta estudiada a cada duda que surja. --- ■ _\_\_ _ |
+| Sin ella, no se tiene un fundamento claro de que hay potenciales clientes dispuestos a pagar por este bien o servicio.                                                                                                                                                       |
+| Siguen siendo fundamentales para prosperar.                                                                                                                                                                                                                                  |
 
 Tabla 4.13. Consejos para captar la atención de una sociedad de capital riesgo.
 
@@ -3626,7 +3617,7 @@ Tabla 4.13. Consejos para captar la atención de una sociedad de capital riesgo.
 
 Analiza, junto con tus socios, si es viable que algún nuevo socio se incorpore a vuestra empresa. En tal caso, discutid las condiciones en las que lo hará y cómo eso modificará vuestros estatutos.
 
-A continuación, busca información sobre business angels o sociedades o fondos de ca pital riesgo que puedan estar interesados en vuestro negocio. En caso positivo, anota cómo contactaríais con ellos, qué capital esperáis que os aporten y cuándo se produciría el encuentro. De no encontrar ninguno, anota tres de cada tipo que hayas consultado y expon los motivos por los que han sido descartados.
+A continuación, busca información sobre business angels o sociedades o fondos de capital riesgo que puedan estar interesados en vuestro negocio. En caso positivo, anota cómo contactaríais con ellos, qué capital esperáis que os aporten y cuándo se produciría el encuentro. De no encontrar ninguno, anota tres de cada tipo que hayas consultado y expon los motivos por los que han sido descartados.
 
 ## Ayuda práctica:
 
@@ -3634,7 +3625,7 @@ Tal vez algún amigo o familiar con el que no habías contado inicialmente quier
 
 ## Fase 4. Préstamos y créditos
 
-El préstamo de capital puede venir de [a familia, de amigos o de una entidadfinanciera.
+El préstamo de capital puede venir de la familia, de amigos o de una entidad financiera.
 
 ## Familia y amigos
 
@@ -3642,14 +3633,14 @@ Las ventajas e inconvenientes de recibir dinero de la familia o amigos se expone
 
 Tabla 4.14. Ventajas e inconvenientes de la financiación familiar o de amigos.
 
-| Facilidades de pago: tipos de interés menores o nulos, cuotas variables, plazos más largos, etc. Posibilidad de renegociar la deuda, en caso de que venza el plazo y la situación financiera de la compañía no sea estable. | La escasa disponibilidad de dinero que se puede con seguir de estas fuentes. La falta de libertad para tomar las propias decisiones o, al menos, para comentarlas libremente. La intromisión en el negocio a través de preguntas fis- calizadoras, aportando sugerencias, presionando hacia determinada línea de trabajo o tratando de participar activamente en la empresa. |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Facilidades de pago: tipos de interés menores o nulos, cuotas variables, plazos más largos, etc. Posibilidad de renegociar la deuda, en caso de que venza el plazo y la situación financiera de la compañía no sea estable. | La escasa disponibilidad de dinero que se puede con seguir de estas fuentes. La falta de libertad para tomar las propias decisiones o, al menos, para comentarlas libremente. La intromisión en el negocio a través de preguntas fiscalizadoras, aportando sugerencias, presionando hacia determinada línea de trabajo o tratando de participar activamente en la empresa. |
+|
 
 ## Entidad financiera
 
 El préstamo firmado con una entidad bancaria genera más obligaciones que el recibido de la familia o amigos. Por ese motivo, es preciso aclarar unos conceptos previos, que también se dan en un crédito.
 
-Un crédito consiste en una operación financiera en la que se pone a disposición del clien te una cantidad de dinero hasta un límite especificado y durante un periodo de tiempo determinado. Los intereses se abonarán en caso de hacer uso del dinero y se abonarán teniendo en cuenta las cantidades utilizadas y el tiempo que se ha dispuesto de ellas.
+Un crédito consiste en una operación financiera en la que se pone a disposición del cliente una cantidad de dinero hasta un límite especificado y durante un periodo de tiempo determinado. Los intereses se abonarán en caso de hacer uso del dinero y se abonarán teniendo en cuenta las cantidades utilizadas y el tiempo que se ha dispuesto de ellas.
 
 La línea de crédito o cuenta de crédito integra la idea del crédito en una cuenta bancaria, de manera que el cliente puede disponer de una cantidad determinada previamente. Se abonará únicamente el interés del dinero que se retira de ella y durante el tiempo que se utilice.
 
@@ -3659,7 +3650,7 @@ El tipo de interés es el porcentaje a pagar sobre la cantidad total prestada. P
 
 El plazo es el periodo de tiempo acordado con la entidad que nos concede el préstamo para devolverlo.
 
-La cuota es la cantidad a pagar de manera periódica (generalmente, mensual). Está integrada por la parte del préstamo que devolvemos y por los intereses correspon dientes.
+La cuota es la cantidad a pagar de manera periódica (generalmente, mensual). Está integrada por la parte del préstamo que devolvemos y por los intereses correspondientes.
 
 Las comisiones son los cobros que establece el banco si se producen determinadas situaciones. En el caso de un préstamo, la entidad bancaria puede fijar una comisión de apertura, de cancelación, etc.
 
@@ -3668,10 +3659,10 @@ La amortización es el proceso financiero por el cual se reduce gradualmente una
 Se puede diferenciar varios tipos de préstamos, pero nos centraremos en la diferencia entre el préstamo personal y el préstamo hipotecario.
 
 - Préstamo personal. Se utiliza para financiar puntual. Suele ser de importes poco elevados necesidades específicas en un momento y se ofrece a un plazo de unos diez años.
-- La garantía de devolución del préstamo está basada en la solidez financiera de la persona o empresa, es decir, en los ingre sos o beneficios regulares o en el patri monio personal o mercantil de quien lo solicita.
-- Préstamo hipotecario. Ofrece, además de la garantía personal, el bien inmueble como garantía de pago, de tal manera que, en caso de impago, la entidad finan ciera pasaría a ser la propietaria de la vi vienda. Suelen ser préstamos elevados y con un plazo de devolución también ele vado, de unos 35 años, ya que se utilizan para adquirir un inmueble, bien sea local, oficina, etc. Por ello, son los que presen tan un tipo de interés más bajo.
+- La garantía de devolución del préstamo está basada en la solidez financiera de la persona o empresa, es decir, en los ingresos o beneficios regulares o en el patrimonio personal o mercantil de quien lo solicita.
+- Préstamo hipotecario. Ofrece, además de la garantía personal, el bien inmueble como garantía de pago, de tal manera que, en caso de impago, la entidad financiera pasaría a ser la propietaria de la vivienda. Suelen ser préstamos elevados y con un plazo de devolución también ele vado, de unos 35 años, ya que se utilizan para adquirir un inmueble, bien sea local, oficina, etc. Por ello, son los que presentan un tipo de interés más bajo.
 
-Novación. Posibilidad de renegociar las condiciones de un préstamo hipote cario.
+Novación. Posibilidad de renegociar las condiciones de un préstamo hipotecario.
 
 Subrogación. Derecho a cambiar de entidad bancaria, si ofrecen condiciones más favorables.
 
@@ -3679,11 +3670,11 @@ Euribor (European ínter Bank Offered Rate). Es la media aritmética de los ti p
 
 ## D Aspectos a tener en cuenta antes de solicitar un préstamo para inmueble
 
-Cuando se compra un inmueble, la ley obliga a contratar un seguro de daños que cubra el valor del inmueble tasado, al menos en caso de incendio, con el fin de asegurar la conservación de su valor. La entidad financiera a la que se solicite el préstamo hipotecario ofrecerá su seguro, pero no es necesario contratar la póliza con ella, sino que serviría cualquier otro seguro siempre y cuando la enditad financiera sea la beneficiaría de la póliza.
+Cuando se compra un inmueble, la ley obliga a contratar un seguro de daños que cubra el valor del inmueble tasado, al menos en caso de incendio, con el fin de asegurar la conservación de su valor. La entidad financiera a la que se solicite el préstamo hipotecario ofrecerá su seguro, pero no es necesario contratar la póliza con ella, sino que serviría cualquier otro seguro siempre y cuando la entidad financiera sea la beneficiaría de la póliza.
 
 Cuando el valor del inmueble es alto (por ejemplo, al comprar una vivienda) es aconsejable, además, contratar un seguro de vida que cubra el importe del préstamo en caso de fallecimiento o invalidez permanente de las personas que solicitaron el préstamo.
 
-Puede ser fijo, de manera que permanece invariable desde que se solicita el préstamo hasta que se reintegra en su tota lidad. generalmente, estas hipotecas se ofrecen por plazos más cortos (quince años máximo) para reducir el riesgo de una variación muy grande en los tipos de interés oficial del dinero.
+Puede ser fijo, de manera que permanece invariable desde que se solicita el préstamo hasta que se reintegra en su totalidad. generalmente, estas hipotecas se ofrecen por plazos más cortos (quince años máximo) para reducir el riesgo de una variación muy grande en los tipos de interés oficial del dinero.
 
 O puede ser variable (el más habitual), con lo que se fijaría un porcentaje basado en un índice como el Euribor. Al momento de la firma, el tipo de interés quedaría establecido en una cantidad determinada y una vez al año se revisaría, para actualizarlo al valor del índice preestablecido. La nueva cuota puede ser más alta o más baja que la anterior. Este tipo de cuotas admiten mayores plazos (hasta 35 años), con lo que la cuota a pagar se ve reducida y las comisiones por amortización anticipada son más bajas. En algunos casos se pueden pactar cuotas fijas, de manera que el banco alarga o reduce el plazo de tiempo restante para mantener invariable la cuota mensual a pagar. La persona tiene la tranquilidad de pagar siempre la misma cantidad, a costa de no saber cuándo acabará su hipoteca.
 
@@ -3693,15 +3684,15 @@ El inmueble debe ser tasado por un profesional para determinar su valor de merca
 
 Para fijar su valor se tienen en cuenta elementos objetivos, como superficie, situación, estado de conservación, precio del metro cuadrado en la zona, expectativas de aumento o disminución del precio, etc. Normalmente, los gastos de tasación corren por cuenta del cliente.
 
-El contrato de compra-venta del inmueble debe realizarse ante notario. En ocasiones, las empresas encargan a una ges toría que se encargue de todos los trámites, como liquidación de impuestos o inscripción en el Registro de la Propiedad. La intervención de una gestoría encarece el proceso, aunque resulta cómodo.
+El contrato de compra-venta del inmueble debe realizarse ante notario. En ocasiones, las empresas encargan a una gestoría que se encargue de todos los trámites, como liquidación de impuestos o inscripción en el Registro de la Propiedad. La intervención de una gestoría encarece el proceso, aunque resulta cómodo.
 
-Los inmuebles nuevos están obligados al pago del IVA (8%, actualmente), además del Impuesto de Actos Jurídicos Docu mentados, que asciende a un 1,5 %-Z % del importe del préstamo.
+Los inmuebles nuevos están obligados al pago del IVA (8%, actualmente), además del Impuesto de Actos Jurídicos Documentados, que asciende a un 1,5 %-Z % del importe del préstamo.
 
 En el caso de inmuebles de segunda mano, es prescriptivo el pago del Impuesto de Transmisiones Patrimoniales, que suele estar en un 6%-7% del valor del inmueble. Y del Impuesto de Actos Jurídicos Documentados, que será entre un 1,5% y un 2% del importe del préstamo.
 
 Se trata de cantidades adicionales que cada entidad bancaria establece entre las condiciones de su préstamo.
 
-Comisión de estudio. Cantidades que cubren las gestiones realizadas por el banco para estudiar la solvencia del prestatario. Comisión de apertura. astos originados por la tramitación del préstamo. Habitualmente, la cuantía de esta comisión se cobra de una sola vez, cuando se firma el contrato, sin embargo, es posible pactar pagarla a lo largo de la vida del préstamo.
+Comisión de estudio. Cantidades que cubren las gestiones realizadas por el banco para estudiar la solvencia del prestatario. Comisión de apertura. Gastos originados por la tramitación del préstamo. Habitualmente, la cuantía de esta comisión se cobra de una sola vez, cuando se firma el contrato, sin embargo, es posible pactar pagarla a lo largo de la vida del préstamo.
 
 Comisión por amortización parcial. Compensa al banco por los intereses que dejará de ganar (lucro cesante) por devolver parte del capital de manera anticipada.
 
@@ -3711,7 +3702,7 @@ El análisis de las comisiones puede hacer variar una decisión inicial sobre qu
 
 La TAE o Tasa Anual Equivalente es un porcentaje que sintetiza el coste total de un préstamo. Se calcula sumando al tipo de interés las comisiones a pagar, según una fórmula establecida por el Banco de España. Será una medida más exacta del interés real a pagar.
 
-Así, algunas entidades financieras pueden anunciar un interés nominal al 0,00% como reclamo y encarecer las comi siones a pagar. Nunca hay que fijarse exclusivamente en el TIN o Tipo de Interés Nominal.
+Así, algunas entidades financieras pueden anunciar un interés nominal al 0,00% como reclamo y encarecer las comisiones a pagar. Nunca hay que fijarse exclusivamente en el TIN o Tipo de Interés Nominal.
 
 Tabla 4.15. Aspectos a tener en cuenta antes de solicitar un préstamo para inmueble (Continuación).
 
@@ -3721,7 +3712,7 @@ Tabla 4.15. Aspectos a tener en cuenta antes de solicitar un préstamo para inmu
 2. Comparar los préstamos que ofrecen las diferentes entidades financieras, basándose en el TAE.
 3. Calcular la cuota mensual a pagar. En Internet hay aplicaciones que permiten realizar este cálculo. Las entidades bancarias también suelen ofrecer este servicio, entregando un cuadro de amortización.
 
-De esta manera es posible analizar los pagos periódicos que hay que realizar hasta que se devuelva todo el importe. Es aconsejable no endeudarse más allá de un 40% de los ingre sos, para poder hacer frente a imprevistos o a una reducción del volumen de facturación.
+De esta manera es posible analizar los pagos periódicos que hay que realizar hasta que se devuelva todo el importe. Es aconsejable no endeudarse más allá de un 40% de los ingresos, para poder hacer frente a imprevistos o a una reducción del volumen de facturación.
 
 4. Analizar las comisiones con detenimiento, pues en caso de beneficios empresariales óp timos podría decidirse la cancelación total del préstamo o la amortización parcial.
 
@@ -3730,31 +3721,31 @@ Hay que revisar con cuidado las cláusulas, puesto que el banco siempre quiere p
 5. Conocer qué productos adicionales deben ser contratados.
 6. Aclarar todas las dudas, como número de cuotas, plazos ofrecidos, intereses, comisiones, impuestos, gastos notariales, etc.
 7. 7o Antes de firmar el contrato, leerlo atentamente y, de nuevo, preguntar las dudas si las hay.
-8. Aportar todos los datos de la empresa, que debe estar legalmente constituida para apor tar más fiabilidad al proyecto.
+8. Aportar todos los datos de la empresa, que debe estar legalmente constituida para aportar más fiabilidad al proyecto.
 9. Justificar el proyecto de inversión, es decir, la necesidad de esos gastos.
 10. Convencer al banco sobre la solvencia del negocio. Para ello, habrá que transmitir con entusiasmo y seriedad los estudios de viabilidad realizados (se explicarán en la Unidad 5).
 
 Los elementos que analizará la entidad financiera para decidirse serán:
 
 - a) El historial crediticio de los socios; las relaciones previas con la entidad.
-- h) Los ingresos y clientes estimados.
+- b) Los ingresos y clientes estimados.
 - c) La solidez de los proveedores.
 - d) El equipo humano que constituye la empresa, es decir, los socios.
 
 ## Actividad de simulación 4
 
-Reúnete con tus socios. Estudiad cuánto dinero pensáis obtener a través de un préstamo y si será conveniente tener una línea de crédito abierto, para evitar problemas de liqui dez. Identificad qué fuente de préstamos sería más idónea.
+Reúnete con tus socios. Estudiad cuánto dinero pensáis obtener a través de un préstamo y si será conveniente tener una línea de crédito abierto, para evitar problemas de liquidez. Identificad qué fuente de préstamos sería más idónea.
 
 ## Ayuda práctica:
 
-- a) Considera qué préstamos podríais obtener de vuestros allegados o amigos. Haced una estimación conjunta y anotad la cantidad, así como las condiciones que os impon drían, tales como plazo de tiempo para devolver el dinero, interés a pagar, derecho a participar en la toma de decisiones, etc.
-- b) Después, analiza si las empresas donde vais a adquirir los bienes necesarios, según decisiones adoptadas en la Actividad de simulación 1 de esta unidad, tienen servicios financieros propios. En tal caso, averigua si sería aplicable a vuestro caso alguna ofer ta. A modo de ejemplo, te indicamos que con la tarjeta de El Corte Inglés es posible realizar pagos hasta en doce meses sin intereses.
-- c) Por último, señala qué cantidad solicitaríais a una entidad financiera y busca informa ción en Internet de diferentes entidades bancarias (al menos, tres), anota las condicio nes de cada una y, finalmente, valora la oferta que más os interese.
-- d) Busca información sobre la Sociedad de arantía Recíproca de la comunidad autóno ma correspondiente al domicilio social de vuestro negocio y anota qué condiciones establecen para actuar como avalistas. Indica si sería viable que actuaran como avalis tas de vuestro proyecto, en caso de que necesitéis solicitar una suma importante de dinero en un préstamo bancario.
+- a) Considera qué préstamos podríais obtener de vuestros allegados o amigos. Haced una estimación conjunta y anotad la cantidad, así como las condiciones que os impondrían, tales como plazo de tiempo para devolver el dinero, interés a pagar, derecho a participar en la toma de decisiones, etc.
+- b) Después, analiza si las empresas donde vais a adquirir los bienes necesarios, según decisiones adoptadas en la Actividad de simulación 1 de esta unidad, tienen servicios financieros propios. En tal caso, averigua si sería aplicable a vuestro caso alguna oferta. A modo de ejemplo, te indicamos que con la tarjeta de El Corte Inglés es posible realizar pagos hasta en doce meses sin intereses.
+- c) Por último, señala qué cantidad solicitaríais a una entidad financiera y busca información en Internet de diferentes entidades bancarias (al menos, tres), anota las condicio nes de cada una y, finalmente, valora la oferta que más os interese.
+- d) Busca información sobre la Sociedad de Garantía Recíproca de la comunidad autónoma correspondiente al domicilio social de vuestro negocio y anota qué condiciones establecen para actuar como avalistas. Indica si sería viable que actuaran como avalistas de vuestro proyecto, en caso de que necesitéis solicitar una suma importante de dinero en un préstamo bancario.
 
 ## Fase 5. Leasing y renting
 
-La adquisición o renovación de los instrumentos de trabajo incrementa los recursos eco nómicos necesarios. Cuando la empresa goza de beneficios económicos suficientes, puede destinar una parte de los mismos a futuras compras. Sin embargo, el ahorro implica un coste de oportunidad, puesto que ese capital podría estar siendo utilizado en otras actividades más rentables, bien sean actividades propias de la empresa, bien sea contratando un producto financiero que ofrezca una rentabilidad más alta que una cuenta corriente remunerada en una entidad bancaria.
+La adquisición o renovación de los instrumentos de trabajo incrementa los recursos económicos necesarios. Cuando la empresa goza de beneficios económicos suficientes, puede destinar una parte de los mismos a futuras compras. Sin embargo, el ahorro implica un coste de oportunidad, puesto que ese capital podría estar siendo utilizado en otras actividades más rentables, bien sean actividades propias de la empresa, bien sea contratando un producto financiero que ofrezca una rentabilidad más alta que una cuenta corriente remunerada en una entidad bancaria.
 
 Por este motivo, las opciones de leasing y renting son muy atractivas, tanto si la empresa dispone de recursos económicos para la compra, como en caso contrario. Además, esta alter nativa permite no quedarse obsoletos en aquellos negocios que quieren ser punteros.
 
