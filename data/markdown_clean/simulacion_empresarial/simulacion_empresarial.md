@@ -81,9 +81,7 @@ No siempre las ideas creativas y originales han sido un éxito. Tal fue el caso 
 
 Hasta entonces, los suelos se habían fregado de rodillas. Esto, además de ser una incomodidad, generaba bastantes problemas de salud, como artritis, artrosis, bursitis en rodillas, problemas de espalda y huesos, infecciones en manos, hongos en uñas, etc.
 
-Manuel Jalón, ingeniero aragonés, concibió la idea de la fregona
-
-por casualidad, mientras conversaba con un amigo tomando un café en un bar. Manuel le estaba exponiendo sus ideas para mejorar el diseño de los aviones y su amigo le retó a que hiciera algo más útil, «cómo mejorar la vida de las mujeres», le sugirió al fijarse en cómo la dueña del bar estaba limpiando el suelo.
+Manuel Jalón, ingeniero aragonés, concibió la idea de la fregona por casualidad, mientras conversaba con un amigo tomando un café en un bar. Manuel le estaba exponiendo sus ideas para mejorar el diseño de los aviones y su amigo le retó a que hiciera algo más útil, «cómo mejorar la vida de las mujeres», le sugirió al fijarse en cómo la dueña del bar estaba limpiando el suelo.
 
 Basándose en la idea de las enormes fregonas de rodillos que había visto utilizar en los hangares de Estados Unidos, Manuel Jalón construyó un modelo más pequeño para ser usado en el hogar. Surge así la primera fregona: la fregona de rodillos.
 
@@ -193,6 +191,11 @@ Una idea innovadora es aquella que introduce un elemento diferente; es decir, qu
 
 La innovación tiene tanta trascendencia que las empresas tratan de contar con un departa dedicado a ello. Es el departamento de I+D+i (Investigación, Desarrollo e Innovación). Una idea puede resultar innovadora por motivos diferentes, de ahí que podamos hablar de distintos tipos de innovaciones, tales como las indicadas en la Figura 1.2.
 
+- Innovación de producto: A través de un producto nuevo modificando uno existente. Es la más habitual. Es importante registrar nuestra invención para evitar el plagio.
+- Innovación de proceso: En la manera de producir el producto, como el método de producción en cadena el método Just in time.
+- Innovación en el marketing de la empresa: En las acciones que se desarrollan para incrementar las ventas la satisfacción de ios cuentes con eí producto. Lo desarrollaremos ampliamente en la Unidad 3.
+- Innovación en la organización: En la organización gestión de los recursos humanos, fomentando el trabajo en equipo, jerarquía horizontal, horarios flexibles, etc. Hablaremos sobre ello en ia Unidad 7.
+
 Fig. 1.2. Tipos de innovación.
 
 ## Ejemplo 5. Idea innovadora que se comercializa en EE.UU.
@@ -208,11 +211,11 @@ Lee la siguiente información e identifica cinco características de este sistem
 
 También puedes leer la biografía de Henry Ford para conocer más sobre el sistema de producción en serie: http://www.biografiasyvidas.com/monografia/ford/ford_t.htm
 
-### Recuerda
+## Recuerda
 
 La originalidad y creatividad de una idea no garantizan su éxito. Tiene que ser útil, necesaria. Y si no lo es, hay que crear esa necesidad en el consumidor.
 
-## C Plan de empresa
+## C. Plan de empresa
 
 Un plan de empresa es el documento donde se desarrolla de forma sintética pero exhaustiva toda idea de negocio. Este plan incluye a su vez, otros documentos adicionales, como: el estudio de mercado, el plan de producción, el plan de marketing o el plan financiero.
 
@@ -288,7 +291,7 @@ Hay diferentes métodos que nos ayudan en el proceso de desarrollo de ideas. Uno
 
 El brainstorming o lluvia de ideas es una técnica originariamente utilizada en publicidad creativa para generar multitud de ideas originales en un entorno relajado. Consiste en decir y anotar todas las ideas que surjan, sin descartarlas bajo ningún motivo. Como decía el químico norteamericano Linus Pauling: «La mejor forma de tener una buena idea es tener muchas ideas».
 
-## El brainstorming se basa en los siguientes principios:
+El brainstorming se basa en los siguientes principios:
 
 1. Las ideas exitosas pueden parecer inicialmente absurdas o extravagantes (tal como sucedió en el caso de Enric Bernat con su Chupa Chups). Si solo mencionamos las ideas que consideremos «buenas» estaremos eliminando otras que podrían serlo si se meditaran más despacio.
 2. La creatividad se contagia. Nos surgirán más ideas a medida que escuchemos las propuestas de otros.
@@ -315,7 +318,7 @@ Reúnete con tus socios y lanzad conjuntamente todas las propuestas de negocio q
 
 Anotad cada uno de vosotros todas las ideas que surjan. De lo contrario, el que se encargara de anotar estaría tan ocupado que no podría sugerir ideas.
 
-### Ayuda práctica:
+Ayuda práctica:
 
 Podéis consultar las siguientes páginas web, si necesitáis inspiración:
 
@@ -326,8 +329,7 @@ Podéis consultar las siguientes páginas web, si necesitáis inspiración:
 
 A continuación, hay que elegir la idea que se considera con más probabilidades de éxito. Para ello, habrá que valorarlas una a una en función de unos criterios previamente establecidos, según lo que prioricen los socios, como por ejemplo, alta rentabilidad o escasa competencia. A continuación, te presentamos una tabla que puede servir de muestra de cómo realizar este proceso.
 
-Idea 1 Idea 2 Idea 3 Idea 4 ...
-
+| Ideas | Idea 1 | Idea 2 | Idea 3 | Idea 4 | ... |
 | Idea útil: satisface necesidades |
 | Idea innovadora: novedosa en el mercado |
 | Hueco de mercado: posibilidad de competir |
@@ -391,33 +393,33 @@ El eslogan o lema publicitario es una frase identificativa de un producto o marc
 El nombre debería seguir las siguientes reglas para ser eficaz:
 
 - a) Es aconsejable que guarde relación con el producto que se va a comercializar.
-- h) Debe ser fácil de pronunciar, de escribir y de recordar.
+- b) Debe ser fácil de pronunciar, de escribir y de recordar.
 - c) La tipografía y los colores de la fuente deben estar acordes con la imagen corporativa.
 - d) Debe captar la atención.
 
 ## Ejemplo 10. Modos de elección de nombres
 
-### Acrónimos
+- Acrónimos
 
 En ocasiones, las empresas eligen un acrónimo para su nombre, como Microsoft (Microcomputer Software), Repsol (Refinería de Petróleo de Escombreras Oil) o Marco Aldany, que constituye las iniciales de sus tres fundadores: Marcos, Alejandro y Daniel.
 
-### Juego de palabras
+- Juego de palabras
 
 Algunas compañías discurren para encontrar un nombre divertido, como la Webera o Pandeo (pan-rico), que además constituye el acrónimo de Panificio Rivera Costafreda. O Danone, diminutivo de Daniel y One, dado que así se llamaba el primogénito del fundador.
 
-### Definición del negocio
+- Definición del negocio
 
 Hay nombres que reflejan la característica determinante del negocio, como Desigual o Flamenco. O Hotmail, que incluye las letras HTML, o Google, que es una deformación del término Googol que representa un 1 seguido de 100 ceros.
 
-### Cultismos
+- Cultismos
 
 Otras marcas utilizan términos cultos, como Nike, que es el nombre de la diosa griega de la victoria, lo que se refleja en la V de su logotipo; Nero, el nombre inglés del emperador Nerón, que incendió Roma. Canon viene de Kwanon, una palabra japonesa que designa a una deidad budista de la misericordia. Muchas compañías españolas se decantan por un anglicismo, para dar prestigio a la marca o para facilitar su internacionalización; tal es el caso de Softonic.
 
-### Estilo rompedor
+- Estilo rompedor
 
 Hay quien prefiere contravenir las normas establecidas para llamar la atención. Fue el caso de Kukuxumusu, nombre en euskera que significa «el beso de la pulga», con el que pretendían reflejar su estilo desenfadado y divertido.
 
-### Otros motivos
+- Otros motivos
 
 A veces, el nombre es azaroso, como Apple, que surgió mientras Steve Jobs se comía una manzana, de ahí que el logotipo incluya hasta el mordisco. O Carrefour (término francés para encrucijada), ya que la primera tienda estaba en un cruce de caminos. O Lotus, inspirado en el loto, puesto que el fundador era profesor de meditación.
 
@@ -436,31 +438,31 @@ Fig. 1.4. A veces, el nombre, logotipo y eslogan de la empresa están perfectame
 
 ## Ejemplo 11. Modos de elección de logotipos
 
-Los ejemplos siguientes ilustran estas características. Observa cómo representan la idea de la empresa en blanco y negro y con asombrosa simplicidad y escasez de colores.
+Los ejemplos siguientes ilustran estas características. Observa cómo representan la idea de la empresa en blanco y negro y con asombrosa simplicidad y escasez de colores. (ver imágenes libro p.20)
 
 ## Evolución de los logotipos
 
 La mayoría de las marcas han ido reduciendo la longitud de sus nombres, así como simplificando sus logotipos. Así, Hewlett Packard ahora es HP o Kentucky Fried Chicken prefiere ser KFC. Sus logotipos han evolucionado igualmente hacia formas más simples, de menor colorido y con un tipo de letra menos elaborada, lo que abarata los costes de reproducción y simplifica la imagen que se quiere que retenga el cliente.
 
-Fig. 1.5. Evolución del logotipo de Apple desde su creación hasta la actualidad.
+Fig. 1.5. Evolución del logotipo de Apple desde su creación hasta la actualidad.(ver libro p. 21)
 
 No es frecuente, sin embargo, el cambio de logotipo, ya que es la imagen de la marca y pier de identidad en cada transformación. Pero sí es habitual que se renueve, de manera que se mantienen los rasgos esenciales a la vez que se modernizan los colores, se suaviza la forma o, incluso, se alegra el resultado final, como vemos en la sonrisa del actual logotipo de Danone.
 
-Fig. 1.6. Evolución del logotipo de Danone.
+Fig. 1.6. Evolución del logotipo de Danone.(ver libro p. 21)
 
-## Blackberry®
+- Blackberry®
 
 El significado de «cereza ne gra» queda reflejado en el logotipo, que también simboliza el teclado de un móvil.
 
-## Carrefour
+- Carrefour
 
 Donde la gente ve flechas, hay en realidad una C. Las flechas contribuyen a dar dinamismo e idea de rapidez. La C representa la inicial de la empresa.
 
-## Horror Films
+- Horror Films
 
 Esta productora eligió como logotipo un carrete de 35 mm. También expresa la sensación que producen sus películas.
 
-Fig. 1.7. Algunos logotipos y su significado.
+Fig. 1.7. Algunos logotipos y su significado. (ver libro p. 21)
 
 ## Actividad de simulación 4
 
@@ -483,7 +485,7 @@ Otras opciones para crear logos más sencillos son:
 - http://creatr.ee/creatr/
 - http://www.logoease.com/
 
-### Ayuda práctica:
+Ayuda práctica:
 
 En Logoestslo, una compañía dedicada al diseño de la imagen corporativa de una empre sa, tienen ejemplos de diseños variados de logotipos realizados para una misma empresa. Analiza dos de ellos para comprobar cómo puede variar la imagen corporativa con tan solo modificar los colores, el motivo gráfico o la fuente de letra.
 
@@ -494,7 +496,7 @@ En Logoestslo, una compañía dedicada al diseño de la imagen corporativa de un
 
 La localización de la empresa es un elemento a tener en cuenta. A veces, la ubicación es esencial; otras veces, sin embargo, puede ser intrascendente (como en los negocios on-line). Cuando elegimos qué producto vamos a comercializar, también estamos decidiendo a quién se lo vamos a vender. Conocer a nuestro cliente es fundamental para decidir dónde le con vendría más adquirir nuestro producto. La ubicación de la empresa puede representar el éxito o fracaso de un negocio, ya que acerca o aleja al cliente.
 
-## Ejemplo 12. La importancia de la ubicación
+### Ejemplo 12. La importancia de la ubicación
 
 Ray Kroc, el fundador de McDonald's, comentaba que los tres factores más importantes para el éxito de un negocio son: «ubicación, ubicación y ubicación». Un producto estrella, una marca reconocida o precios competitivos no servirían de nada si el producto es difícil de adquirir o el comprador tiene que realizar un esfuerzo en conseguirlo. Ello puede suponer, por ejemplo, tiempo en llegar al lugar, en aparcar, en localizar el negocio, etc.
 
@@ -514,7 +516,7 @@ Estos son algunos de los factores que se deben tener en cuenta en la elección d
 
 Debes decidir dónde ubicar la empresa, especificando la calle, el número y la localidad. Al final de las actividades de simulación de esta unidad didáctica, en el apartado Plan de empresa tendrás que añadir una foto de Google Maps con vuestra localización.
 
-### Ayuda práctica:
+Ayuda práctica:
 
 Decide primero quiénes son vuestros clientes objetivo y, en función de ello, dónde localizarás tu negocio. Es importante que la elección resulte justificada. Así, si se trata de una tienda de ropa puede ser adecuado situarlo en una zona urbana, céntrica y peatonal, con transporte público cercano o facilidad para el aparcamiento. En cambio, si se trata de una empresa de bricolaje, puede ser aconsejable situarla en las afueras de una ciudad, por el menor coste del solar y, por tanto, las posibilidades de tener un almacén grande sin gran desembolso económico. En este caso, habrá que considerar la accesibilidad de los camiones de reparto.
 
@@ -548,7 +550,7 @@ La elección de la música se hará acorde al gusto del cliente, lo que está ba
 
 Dibuja el plano de vuestro negocio, teniendo en cuenta que debe ser proporcional a las dimensiones del local que hayáis decidido en la fase anterior. Realiza un boceto inicial en papel y después trata de hacerlo con alguna herramienta informática.
 
-### Ayuda práctica:
+Ayuda práctica:
 
 Si no tienes un programa específico, puedes recurrir a esta página web gratuita para generar un plano de un espacio físico:
 
@@ -590,11 +592,11 @@ Por ejemplo, si queremos solicitar un préstamo al banco tendremos que presentar
 La diferenciación y creatividad es una parte importante de la actividad empresarial que debe estar reflejada en todo el plan de empresa, por ello, hay que cuidar la presentación atractiva del curriculum. Se puede utilizar una plantilla predefinida que todo programa de tratamiento de texto incorpora, o bien, seleccionar cualquiera de las que se ofrecen de manera gratuita en Internet. Igualmente, se puede utilizar el modelo del curriculum europeo, aunque resulta extenso (Tabla 1.2).
 
 1. Resalta tus puntos fuertes.
-2. 2 Incluye fotografía actual y donde, a ser posible, reflejes dinamismo, energía, etc.
+2. Incluye fotografía actual y donde, a ser posible, reflejes dinamismo, energía, etc.
 3. Enumera tu formación y tu experiencia en orden cronológico inverso, es decir, comienza por lo más reciente.
-4. 4 Describe las funciones realizadas o los contenidos aprendidos en tu formación, si no resulta evidente.
+4. Describe las funciones realizadas o los contenidos aprendidos en tu formación, si no resulta evidente.
 5. Trata de impresionar con un diseño atractivo. Recuerda que todo el plan de empresa está pensado para cautivar a inversores.
-6. 6 Cuida la redacción en positivo.
+6. Cuida la redacción en positivo.
 
 Tabla 1.2. Consejos para elaborar un curriculum vítae como socio de un negocio.
 
@@ -602,7 +604,7 @@ Tabla 1.2. Consejos para elaborar un curriculum vítae como socio de un negocio.
 
 Elabora tu curriculum vitae y realízalo en la misma plantilla que tus socios, para dar coherencia al plan de empresa. Recuerda que no es un CV para una entrevista de selección, sino para que posibles inversores confíen en vuestra capacidad de dirigir un negocio.
 
-### Ayuda práctica:
+Ayuda práctica:
 
 Aunque la juventud e inexperiencia puede ser una objeción, no es menos cierto que cada vez son más las empresas constituidas por gente joven, dada su creatividad, su gran capacidad de trabajo e implicación personal, su conocimiento de idiomas y de las nuevas tecnologías y su flexibilidad horaria, al carecer de cargas familiares.
 
@@ -612,20 +614,33 @@ Ha llegado el momento de sintetizar las ideas extraídas en estas primeras fases
 
 Las actividades de simulación realizadas en esta unidad te han servido para seleccionar y concretar los primeros pasos de un proyecto, así como para valorar tu candidatura y la de tus socios. Esto tendrá su reflejo en los dos primeros apartados del plan de empresa.
 
-### 1. Idea de negocio
+1. Idea de negocio
 
 - a) Expon vuestra idea de negocio, justificando el porqué de esta elección, la innovación que pensáis aportar, los motivos para emprender, la ubicación, el diseño y la apariencia del local y los elementos diferenciales con respecto a la competencia.
 - b) Adjunta el nombre y logotipo, así como la justificación de ambas decisiones; el mapa de Google y las fotos de otros negocios que se asemejan a tu idea.
 - c) Ten en cuenta que el desarrollo posterior que realicéis en las unidades siguientes pueden hacer variar este primer contenido, por lo que deberás revisar continuamente que todas las decisiones que adoptéis se vayan incorporando a este epígrafe.
 
-### 2. Socios
+2. Socios
 
 - a) Adjunta tu curriculum vítae y el de tus socios. Menciona los puntos fuertes y todas las áreas que cubriríais cada uno de vosotros.
 - b) Recuerda que este documento lo analizarán otros posibles socios, el banco al que solicitéis el préstamo, potenciales inversores privados, etc. Por ello, cuida la presentación y el estilo de redacción.
 
 ## Síntesis
 
-(ver esquema libro página 28)
+- Emprendedor: indetifica oportunidades, organiza recursos, cualidades específicas y trabaja (por cuenta propia o por cuenta ajena)
+- Idea: Util(satisface necesidades reales, percibidas por el cliente o creadas por la empresa) o Innovadora(original y diferente en: Producto, Proceso, Marketing y Organización)
+- Plan de empresa:
+  a) Idea de negocio
+  b) Socios y trayectoria profesional
+  c) Estudio de mercado
+  d) Plan de producción
+  e) Pian financiero
+  f) Plan de aprovisionamiento
+  g) Obligaciones fiscales
+  h) Plan de marketing
+  i) Plan de RR.HH.
+  j) Acciones para la internacionalización
+  (ver esquema libro página 28)
 
 ## Test de repaso
 
@@ -675,7 +690,6 @@ Las actividades de simulación realizadas en esta unidad te han servido para sel
 
 - a) Satisface necesidades vitales de los consumidores.
 - b) Satisface necesidades reales, aunque no sean vitales.
-
 - c) Satisface necesidades reales o percibidas por los clientes.
 - d) Satisface la necesidad de que el usuario se sienta útil.
 
@@ -689,7 +703,7 @@ Las actividades de simulación realizadas en esta unidad te han servido para sel
 9. ¿Qué es una innovación de proceso?
 
 - a) Aquella que incorpora métodos de producción diferentes.
-- h) Aquella que mejora métodos de producción convencionales.
+- b) Aquella que mejora métodos de producción convencionales.
 - c) Aquella que mejora la eficiencia en la producción de productos existentes.
 - d) Todas son correctas.
 
@@ -744,7 +758,7 @@ Las actividades de simulación realizadas en esta unidad te han servido para sel
 6. Busca información sobre un emprendedor español y resume su trayectoria profesional (puedes consultar la siguiente página web: http://www.emprendedorestv.com/emprendedorestv).
 
 - a) Señala qué características de personalidad descubres en ese emprendedor.
-- h) intercambia tu respuesta con algún compañero de clase e identifica qué cualidades tiene ese emprendedor.
+- b) intercambia tu respuesta con algún compañero de clase e identifica qué cualidades tiene ese emprendedor.
 
 7. Hace años se introdujo la existencia de «puntos limpios» en España, donde los consumidores podían depositar los residuos en diferentes contenedores para facilitar su reciclaje. Deduce si se trata de una innovación de producto, de proceso, de organización o de marketing.
 8. En algunas empresas se permite el teletrabajo, es decir, el realizar parte o todas las funciones laborales desde el hogar. Indica de qué tipo de innovación se trata.
@@ -753,7 +767,7 @@ Las actividades de simulación realizadas en esta unidad te han servido para sel
 11. Lee este artículo: http://yoriento.com/2010/03/si-no-ganas-lo-que-vales-emprende688.html y contesta a estas preguntas:
 
 - a) ¿Qué obstáculos ve el autor para el emprendimiento?
-- h) ¿Cuál es el objetivo laboral de la mayoría de jóvenes y por qué?
+- b) ¿Cuál es el objetivo laboral de la mayoría de jóvenes y por qué?
 - c) ¿Cómo cree Alfonso Alcántara que se diferencia una idea buena de una idea mala?
 - d) ¿De qué depende el éxito de un emprendedor?
 - e) Y respecto a su última pregunta: «¿Por qué no has montado ya tu propia empresa?», qué responderías.
@@ -792,10 +806,6 @@ Las actividades de simulación realizadas en esta unidad te han servido para sel
 
 # 2. Estudio de mercado
 
-## Steve Jobs, cofundador de Apple.
-
-«No puedes preguntarle a los consumidores qué quieren y luego pretender dárselo. En el tiempo que has estado fabricándolo, ellos querrán una cosa nueva.»
-
 ## En esta unidad aprenderemos a:
 
 - Identificar las principales características del sector empresarial en el que se desenvuelve la idea de negocio.
@@ -818,6 +828,10 @@ Las actividades de simulación realizadas en esta unidad te han servido para sel
 - La organización funcional: el organigrama.
 - Responsabilidad social de la empresa: la ética en los negocios.
 - Análisis DAFO.
+
+## Steve Jobs, cofundador de Apple.
+
+«No puedes preguntarle a los consumidores qué quieren y luego pretender dárselo. En el tiempo que has estado fabricándolo, ellos querrán una cosa nueva.»
 
 ## Emprendedores
 
@@ -863,7 +877,7 @@ Fueran percepciones reales o no, los consumidores dejaron de confiar en Donuts y
 
 ## La reacción al rechazo: dar marcha atrás
 
-En 2012 y aprovechando el 50 aniversario de la marca se inició una potente campaña mediática basada en la idea: «Donuts vuelve a hacerlo. Vuelve el original. Con todo su sabor. Do nuts: 50 años, y tan frescos». El eslogan que resume su acción comunicativa es: vuelve el Donuts tradicional.
+En 2012 y aprovechando el 50 aniversario de la marca se inició una potente campaña mediática basada en la idea: «Donuts vuelve a hacerlo. Vuelve el original. Con todo su sabor. Donuts: 50 años, y tan frescos». El eslogan que resume su acción comunicativa es: vuelve el Donuts tradicional.
 
 De esta manera, regresa el envase tradicional de cartón, aunque se mantiene el formato de envase individual de plástico. El objetivo es satisfacer a todos los consumidores.
 
@@ -881,7 +895,7 @@ Y continúan los esfuerzos. Panrico sigue luchando por cambiar la mala imagen ge
 
 En este apartado vamos a recordar algunos conceptos que te serán útiles para realizar la Simulación, tales como:
 
-departamentos plan de producción ética empresarial plan de marketing organigrama mercado DAFO competencia proveedores Clientes distribuidores entorno
+departamentos plan de producción ética empresarial plan de marketing organigrama mercado DAFO competencia proveedores clientes distribuidores entorno
 
 ## A. La empresa es un sistema
 
@@ -897,7 +911,7 @@ Concebir a la empresa como un sistema implica aceptar tres principios fundamenta
 
 Esta perspectiva de la empresa como sistema es importante, ya que antes de tomar cualquier decisión, las empresas tendrán que analizar si el contexto es favorable, o no, a ese cambio, qué efecto va a tener a nivel interno y cuál va a ser la reacción del entorno cercano: dientes, competencia y proveedores.
 
-## Ejemplo 1. El caso de Donuts
+### Ejemplo 1. El caso de Donuts
 
 En el caso analizado de Donuts en el apartado de Emprendedores, hemos visto cómo los resultados económicos fueron negativos, debido a que no se anticipó la reacción adversa de algunos clientes y a que no previo la crisis y la contracción económica que tuvo lugar.
 
@@ -906,7 +920,7 @@ En el caso analizado de Donuts en el apartado de Emprendedores, hemos visto cóm
 1. En muchos supermercados se está implantando el sistema de autopago, de modo que son los clientes los que escanean su compra y luego pagan con tarjeta.
 
 - a) Considera todas las modificaciones que tuvieron lugar en los distintos departamentos de la empresa y razona si estas tuvieron un impacto positivo o negativo, a corto y largo plazo.
-- h) Señala los aspectos generales del contexto socio-económico y político que pudieron tener en cuenta para valorar la conveniencia del cambio.
+- b) Señala los aspectos generales del contexto socio-económico y político que pudieron tener en cuenta para valorar la conveniencia del cambio.
 - c) Indica las reacciones más probables de los proveedores, competencia, clientes y distribuidores.
 
 ## B. Entorno
@@ -947,9 +961,9 @@ La empresa analiza a sus consumidores con el fin de poder acercar la oferta a la
 
 Segmentar es una forma de dividir a los consumidores potenciales en grupos con características en común y que comparten necesidades similares.
 
-## Ejemplo 2e La segmentación de mercado de LE O
+## Ejemplo 2. La segmentación de mercado de LEGO
 
-Los productos de la empresa LE O han estado tradicionalmente enfocados a un segmento de población muy concreto: niños de edades comprendidas entre los 6 y los 16 años. De forma que los segmentos establecidos por esta empresa serían:
+Los productos de la empresa LEGO han estado tradicionalmente enfocados a un segmento de población muy concreto: niños de edades comprendidas entre los 6 y los 16 años. De forma que los segmentos establecidos por esta empresa serían:
 
 - Edad: de 6 a 16 años
 - Sexo: masculino
@@ -960,18 +974,19 @@ Los productos de la empresa LE O han estado tradicionalmente enfocados a un segm
 
 Los tres tipos de mercados (consumidores) que contempla la empresa en el marco de un estudio de mercado, son:
 
-1. El mercado potencial Se refiere a los posibles (potenciales) clientes de una empresa, es decir, aquellos que tienen interés en el producto y están además en disposición de adquirirlo como, por ejemplo, aquellos que compran en la competencia. De entre todos ellos, la empresa se centra en los que más fácilmente pueden llegar a ser sus clientes, es decir, en su mercado objetivo.
+1. El mercado potencial. Se refiere a los posibles (potenciales) clientes de una empresa, es decir, aquellos que tienen interés en el producto y están además en disposición de adquirirlo como, por ejemplo, aquellos que compran en la competencia. De entre todos ellos, la empresa se centra en los que más fácilmente pueden llegar a ser sus clientes, es decir, en su mercado objetivo.
 
 2. El mercado objetivo. Se refiere al público objetivo o targetgroup, que es el colectivo al que se dirige el producto. Especificar este colectivo hace más eficientes las acciones de marketing, a la vez que permite definir las características del producto que se va a ofrecer y detectar las necesidades que tiene que cubrir.
 
 Cuando el público objetivo compra su producto, dejan de ser mercado objetivo para convertirse en mercado actual. A partir de ese momento, la empresa focalizará su atención en otro segmento de su mercado potencial. También puede dirigirse a otros colectivos porque la competencia aumenta y la compañía busca ampliar su mercado.
 
-3. El mercado actual está compuesto por quienes, efectivamente, compran el producto de
-   la empresa.
+3. El mercado actual está compuesto por quienes, efectivamente, compran el producto de la empresa.
 
 ## Ejemplo 3. Tipos de mercados
 
-El mercado potencial de una marca de secadores incluiría tanto los que compran secadores de otras marcas, como los que no los compran, tales como niños, personas calvas, etc. El mercado objetivo de la empresa LEGO actualmente es el público infantil femenino. Por ello, han lanzado recientemente una línea exclusiva de LEGOS para niñas, denominada LEGO Friends, que está adaptada los gustos intereses de este segmento del mercado. El mercado actual no siempre es fácil de mantener, como se percibe en el caso de LEGO, ya que los niños que hace 15 años compraban estas construcciones son ahora adultos. No obstante, la compañía trata de recuperarlos con el lanzamiento de unas construcciones más caras, ya que se trata de diseños complejos más cercanos su gusto, como son las inspiradas en la película la Guerra de las Galaxias.
+- El mercado potencial de una marca de secadores incluiría tanto los que compran secadores de otras marcas, como los que no los compran, tales como niños, personas calvas, etc.
+- El mercado objetivo de la empresa LEGO actualmente es el público infantil femenino. Por ello, han lanzado recientemente una línea exclusiva de LEGOS para niñas, denominada LEGO Friends, que está adaptada los gustos intereses de este segmento del mercado.
+- El mercado actual no siempre es fácil de mantener, como se percibe en el caso de LEGO, ya que los niños que hace 15 años compraban estas construcciones son ahora adultos. No obstante, la compañía trata de recuperarlos con el lanzamiento de unas construcciones más caras, ya que se trata de diseños complejos más cercanos su gusto, como son las inspiradas en la película la Guerra de las Galaxias.
 
 ## Actividades
 
@@ -983,34 +998,17 @@ Fuente: El Economista. Madrid, 31 de octubre de 2012 [en línea]
 
 Dentro del mercado potencial, la empresa priorizará a los clientes de la competencia, puesto que ellos ya sienten la necesidad de adquirir el producto o servicio. Cuando la empresa gana parte de estos clientes aumenta su cuota de mercado.
 
-Cuota de mercado =
+Cuota de mercado = Mercado objetivo x 100 / Mercado total
 
-Mercado objetivo x 100 Mercado total
-
-## Ejemplo 4, Cálculo de la cuota de mercado en Movistar
+## Ejemplo 4. Cálculo de la cuota de mercado en Movistar
 
 La cuota de mercado de Movistar se obtiene dividiendo el número de clientes de Movistar entre el número de clientes de cualquier operadora de móviles (incluyendo Movistar). El mercado actual son los clientes que utilizan Movistar. El mercado potencial, todos los que no utilizan Movistar e incluso aquellos que no tienen móvil pero podrían adquirirlo. El mercado objetivo es el segmento del mercado potencial al que Movistar dirigirá su estrategia comercial para intentar captarlos como clientes.
-
-3. El mercado actual está compuesto por quienes, efectivamente, compran el producto de la empresa.
-
-## Ejemplo 3. Tipos de mercados
-
-El mercado potencial de una marca de secadores incluiría tanto a los que compran secado res de otras marcas, como a los que no los compran, tales como niños, personas calvas, etc.
-
-El mercado objetivo de la empresa LE O actualmente es el público infantil femenino. Por ello, han lanzado recientemente una línea exclusiva de LE OS para niñas, denominada LE O Friends, que está adaptada a los gustos e intereses de este segmento del mercado.
-
-El mercado actual no siempre es fácil de mantener, como se percibe en el caso de LE O, ya que los niños que hace 15 años compraban estas construcciones son ahora adultos. No obstante, la compañía trata de recuperarlos con el lanzamiento de unas construcciones más caras, ya que se trata de diseños complejos y más cercanos a su gusto, como son las inspiradas en la película la Guerra de las Galaxias.
-
-## Actividades
-
-3. La compañía Iberia ha decidido cerrar algunas de sus rutas habituales que ya está cubriendo el AVE, para ahorrar costes. ¿Cuál es el mercado potencial que espera conseguir Iberia con esta medida? Para responder la pregunta, puedes consultar el siguiente enlace: http://bitiy/SdykU9.
-
-Fuente: El Economista. Madrid, 31 de octubre de 2012 [en línea]
 
 ## Actividades
 
 4. La filial española de Mercedes-Benz tiene la previsión a medio plazo de alcanzar una cuota de mercado del 10% en el segmento de los vehículos comerciales ligeros con el lanzamiento del nuevo Citan, del que prevé comercializar unas 8000 unidades anuales. Para más información puedes consultar este enlace: http://bit.ly/11bz543.
-5. ¿Te parece una cuota de mercado alta para el sector del automóvil? ¿Por qué?
+
+¿Te parece una cuota de mercado alta para el sector del automóvil? ¿Por qué?
 
 Fuente: El Economista. Madrid, 29 de octubre de 2012 [en línea].
 
@@ -1028,6 +1026,11 @@ Este concepto implica la necesidad de diferenciar entre competencia directa e in
 Por ejemplo, McDonald's y Burger King son competencia directa, mientras que son competencia indirecta de un restaurante de lujo o de un asiático.
 
 Para diferenciarse de la competencia las compañías tratan de añadir ventajas competitivas basadas en uno de estos factores: económico, estético, práctico o tecnológico.
+
+- Factores económicos: Diferencias basadas en el precio de los productos, tanto si se reduce como si se incrementa, para ofrecer mayor calidad.
+- Factores estéticos: Diferencias enfocadas facilitar Sa vida del consumidor.
+- Factores prácticos: Diferencias basadas en la apariencia del negocio del producto.
+- Factores tecnológicos: Diferencias en el uso de nuevos aparatos medios informáticos.
 
 Fig. 2.2. Factores diferenciales de las empresas.
 
@@ -1065,7 +1068,7 @@ El objetivo, explicó, no es dar el mismo producto al menor precio, sino dar un 
 Fuente: Periodista digital. Madrid, 27 de mayo de 2010 [en línea].
 
 - a) ¿En qué lugar situarías a El Corte Inglés: distribuidor o fabricante?
-- h) Explica qué cambio propone Caballero para los distribuidores y justifica si es acertado su planteamiento.
+- b) Explica qué cambio propone Caballero para los distribuidores y justifica si es acertado su planteamiento.
 - c) Busca quién es el principal proveedor de El Corte Inglés y razona por qué ha sido incorporado dentro de la propia estructura de El Corte Inglés.
 
 ## Análisis DAFO
@@ -1076,11 +1079,36 @@ Sirve como herramienta de diagnóstico pero también de cambio, al posibilitar l
 
 ## Ejemplo 6. Análisis DAFO ele la cafetería de un ÍES
 
-| Debilidades • Dificultad de incrementar su clientela: no es habitual el acceso de personal ajeno al centro. • Mucha demanda en poco tiempo (media hora del recreo), que dificulta la calidad en el trato. | Amenazas • Negocios similares cercanos: bares, panaderías, etc. • Crisis económica: las familias prefieren ahorrar dinero y preparar un bocadillo casero. | Amenazas • Negocios similares cercanos: bares, panaderías, etc. • Crisis económica: las familias prefieren ahorrar dinero y preparar un bocadillo casero. | Amenazas • Negocios similares cercanos: bares, panaderías, etc. • Crisis económica: las familias prefieren ahorrar dinero y preparar un bocadillo casero. | Amenazas • Negocios similares cercanos: bares, panaderías, etc. • Crisis económica: las familias prefieren ahorrar dinero y preparar un bocadillo casero. | Amenazas • Negocios similares cercanos: bares, panaderías, etc. • Crisis económica: las familias prefieren ahorrar dinero y preparar un bocadillo casero. | Amenazas • Negocios similares cercanos: bares, panaderías, etc. • Crisis económica: las familias prefieren ahorrar dinero y preparar un bocadillo casero. | Amenazas • Negocios similares cercanos: bares, panaderías, etc. • Crisis económica: las familias prefieren ahorrar dinero y preparar un bocadillo casero. | Amenazas • Negocios similares cercanos: bares, panaderías, etc. • Crisis económica: las familias prefieren ahorrar dinero y preparar un bocadillo casero. |
+NEGATIVO:
 
-| Fortalezas • Oferta variada: bocadillos, productos industriales, snacks, bebidas, etc. Oferta de productos que los alumnos no pueden traer de casa, como café caliente o refresco frío. Oferta de comida casera. Gastos de mantenimiento (luz, agua, calefacción, etc.) a bajo coste. | Oportunidades • Clientes asegurados: al no poder salir del instituto los alumnos de la ESO y tener poco tiempo los profesores para ir a un bar. • Comodidad para las familias: dar dinero a los hijos es más cómodo que prepararles un bocadillo. • Comodidad para los profesores: si van a un bar | Oportunidades • Clientes asegurados: al no poder salir del instituto los alumnos de la ESO y tener poco tiempo los profesores para ir a un bar. • Comodidad para las familias: dar dinero a los hijos es más cómodo que prepararles un bocadillo. • Comodidad para los profesores: si van a un bar | Oportunidades • Clientes asegurados: al no poder salir del instituto los alumnos de la ESO y tener poco tiempo los profesores para ir a un bar. • Comodidad para las familias: dar dinero a los hijos es más cómodo que prepararles un bocadillo. • Comodidad para los profesores: si van a un bar | Oportunidades • Clientes asegurados: al no poder salir del instituto los alumnos de la ESO y tener poco tiempo los profesores para ir a un bar. • Comodidad para las familias: dar dinero a los hijos es más cómodo que prepararles un bocadillo. • Comodidad para los profesores: si van a un bar | Oportunidades • Clientes asegurados: al no poder salir del instituto los alumnos de la ESO y tener poco tiempo los profesores para ir a un bar. • Comodidad para las familias: dar dinero a los hijos es más cómodo que prepararles un bocadillo. • Comodidad para los profesores: si van a un bar | Oportunidades • Clientes asegurados: al no poder salir del instituto los alumnos de la ESO y tener poco tiempo los profesores para ir a un bar. • Comodidad para las familias: dar dinero a los hijos es más cómodo que prepararles un bocadillo. • Comodidad para los profesores: si van a un bar | Oportunidades • Clientes asegurados: al no poder salir del instituto los alumnos de la ESO y tener poco tiempo los profesores para ir a un bar. • Comodidad para las familias: dar dinero a los hijos es más cómodo que prepararles un bocadillo. • Comodidad para los profesores: si van a un bar | Oportunidades • Clientes asegurados: al no poder salir del instituto los alumnos de la ESO y tener poco tiempo los profesores para ir a un bar. • Comodidad para las familias: dar dinero a los hijos es más cómodo que prepararles un bocadillo. • Comodidad para los profesores: si van a un bar |
-| | exterior hace frío, llueve, pierden más tiempo, | exterior hace frío, llueve, pierden más tiempo, | exterior hace frío, llueve, pierden más tiempo, | exterior hace frío, llueve, pierden más tiempo, | exterior hace frío, llueve, pierden más tiempo, | exterior hace frío, llueve, pierden más tiempo, | exterior hace frío, llueve, pierden más tiempo, | exterior hace frío, llueve, pierden más tiempo, |
-| | etc. | etc. | etc. | etc. | etc. | etc. | etc. | etc. |
+1. Idea 1
+   a) Debilidades:
+
+- Dificultad de incrementar su clientela: no es habitual el acceso de personal ajeno al centro.
+- Mucha demanda en poco tiempo (media hora del recreo), que dificulta la calidad en el trato.
+
+2. Idea 2
+   b) Amenazas:
+
+- Negocios similares cercanos: bares, panaderías, etc.
+- Crisis económica: las familias prefieren ahorrar dinero y preparar un bocadillo casero.
+
+POSITIVO
+
+1. Idea 1
+   a) Fortalezas:
+
+- Oferta variada: bocadillos, productos industriales, snacks, bebidas, etc.
+- Oferta de productos que los alumnos no pueden traer de casa, como café caliente o refresco frío.
+- Oferta de comida casera.
+- Gastos de mantenimiento (luz, agua, calefacción, etc.) a bajo coste.
+
+2. Idea 2
+   b) Oportunidades:
+
+- Clientes asegurados: al no poder salir del instituto los alumnos de la ESO y tener poco tiempo los profesores para ir a un bar.
+- Comodidad para las familias: dar dinero a los hijos es más cómodo que prepararles un bocadillo.
+- Comodidad para los profesores: si van a un bar exterior hace frío, llueve, pierden más tiempo, etc.
 
 ## Actividades
 
@@ -1090,14 +1118,14 @@ Sirve como herramienta de diagnóstico pero también de cambio, al posibilitar l
 
 Como consecuencia de todo el análisis suscitado en el estudio del mercado, la empresa debe orientar su línea de negocio. Estas decisiones afectarán fundamentalmente a dos elementos: producción y marketing.
 
-## I Plan de producción
+## Plan de producción
 
 El plan de producción persigue concretar todos los aspectos técnicos y organizativos que conciernen a la elaboración de los productos o a la prestación de los servicios recogidos en el plan de empresa. La compañía establecerá sus productos según las necesidades detectadas y según la diferenciación que quiera marcar con su competencia.
 
 ## Elementos del plan de producción
 
 - a) La descripción técnica incluirá todo lo necesario para el desarrollo y la producción del producto, o los procedimientos y las necesidades técnicas, si se tratara de un servicio, tales como: locales y equipos necesarios, descripción de puestos de trabajo, fases del proceso productivo, necesidades de personal, etc.
-- h) La descripción organizativa concreta las estrategias del proceso productivo, tales como costes laborales, volumen de producción, gestión de existencias, control de calidad, inventariado, etc.
+- b) La descripción organizativa concreta las estrategias del proceso productivo, tales como costes laborales, volumen de producción, gestión de existencias, control de calidad, inventariado, etc.
 
 ## Plan de marketing
 
@@ -1116,11 +1144,15 @@ El propósito de un organigrama es doble.
 
 Las formas de representación gráfica han evolucionado con el tiempo, desde modelos más verticales, hasta los horizontales o circulares (Fig. 2.3).
 
-Fig. 2.3. Modelos de representaciones gráficas de organigramas.
+- Organigrama vertical: Muestra las jerarquías según una pirámide, de arriba abajo.
+- Organigrama horizontal: Muestra las jerarquías de izquierda a derecha.
+- Organigrama circular: El cargo principal está en el centro y, partir de ahí, se constituyen círculos concéntricos por orden de importancia.
 
-## Ejemplo 7. Un organigrama de un !ES
+Fig. 2.3. Modelos de representaciones gráficas de organigramas.(ver libro p.43)
 
-Te proponemos como ejemplo distintas formas de representar el organigrama de un instituto.
+## Ejemplo 7. Un organigrama de un IES
+
+Te proponemos como ejemplo distintas formas de representar el organigrama de un instituto.(ver libro p.44)
 
 ## F. Responsabilidad Social Corporativa
 
@@ -1135,59 +1167,56 @@ Las empresas satisfacen necesidades, crean riqueza, a través de los impuestos q
 3. Colabora con la ON ChildBright en acciones solidarias. En 2009, por ejemplo, abrió una nueva escuela en Nepal.
 4. Lidera el proyecto «Operación Patuco», para apoyar a jóvenes embarazadas, sin recursos y en riesgo de exclusión social, violencia o abuso.
 
-Los costes sociales harían referencia a los gastos directos o indirectos soportados por la población a consecuencia de la actividad empresarial. Esta es la razón por la cual hoy en día las empresas demuestran una mayor sensibilidad en la protección al medio ambiente, el respeto a los derechos laborales, la promoción de la seguridad en el trabajo, el trato al cliente, etc. El documento en el que se recoge toda esa información es el balance social.
+### Los costes sociales
 
-El balance social es el documento voluntario que realiza una empresa para recoger los datos que resumen su quehacer social tales como prestaciones sociales complementarias, condiciones de higiene y seguridad en el trabajo, establecimiento de economatos o guarderías, instalación de dispositivos anticontaminantes, uso de energías alternativas, promoción educativa y cultural, etc. Se incluyen cifras para poder valorarlos tanto cualitativa como cuantitativamente.
+Harían referencia a los gastos directos o indirectos soportados por la población a consecuencia de la actividad empresarial. Esta es la razón por la cual hoy en día las empresas demuestran una mayor sensibilidad en la protección al medio ambiente, el respeto a los derechos laborales, la promoción de la seguridad en el trabajo, el trato al cliente, etc. El documento en el que se recoge toda esa información es el balance social.
+
+### El balance social
+
+Es el documento voluntario que realiza una empresa para recoger los datos que resumen su quehacer social tales como prestaciones sociales complementarias, condiciones de higiene y seguridad en el trabajo, establecimiento de economatos o guarderías, instalación de dispositivos anticontaminantes, uso de energías alternativas, promoción educativa y cultural, etc. Se incluyen cifras para poder valorarlos tanto cualitativa como cuantitativamente.
 
 Ahora bien, realizar estas acciones de ética empresarial tiene un coste económico para la em presa. Y con ello plantea un problema fundamental: si las empresas tienen que minimizar sus costes para ser competitivas, el gasto en acciones de RSC reducirá su margen de beneficios y puede hacerles perder peso o sacarlas del mercado. Por tanto, ¿por qué una empresa va a implicarse en estas buenas prácticas?
 
 Las empresas estarán convencidas de la conveniencia de gastar dinero en realizar acciones de responsabilidad social corporativa si con ello va a mejorar su posición en el mercado, es decir, si convierte ese gasto en una inversión, o dicho de otra manera, si aporta un valor añadido frente a su competencia, incrementa la clientela potencial, refuerza su imagen corporativa o supone una publicidad positiva.
+
+Los consumidores cada vez son más conscientes del poder de influencia que tienen para obligar a las empresas a modificar aquellas políticas que sean contrarias a códigos éticos universales. Es el Social Confirming. El Social Confirming se define como el sistema de valoración ciudadana del cumplimiento de la responsabilidad social de las empresas. Actualmente, es un proceso más fácil gracias a las herramientas de la web.
 
 ## Actividades
 
 8. Busca dos ejemplos de acciones de RSC de diferentes empresas. Puedes introducir esas palabras de búsqueda en tu navegador y proponer una empresa concreta.
 9. Piensa qué acciones pueden llevar a cabo las instituciones públicas y los consumido res para fomentar estas buenas prácticas corporativas.
 
-Los consumidores cada vez son más conscientes del poder de influencia que tienen para obligar a las empresas a modificar aquellas políticas que sean contrarias a códigos éticos universales. Es el Social Confirming. El Social Confirming se define como el sistema de valoración ciudadana del cumplimiento de la responsabilidad social de las empresas. Actualmente, es un proceso más fácil gracias a las herramientas de la web.
-
-## Ejemplo 9. La eficacia del Social Confirming
+### Ejemplo 9. La eficacia del Social Confirming
 
 En 1983, Nestlé inició una campaña para fomentar el uso de leche artificial en países en vías de desarrollo, promocionándola como de mejor calidad que la leche materna. La publicidad fue tan eficaz que se abandonó la lactancia materna por los biberones. Como consecuencia de ello, muchos niños murieron. El problema estuvo en que el agua utilizada para preparar los biberones era agua corriente, sin hervir, y se administraba en biberones no esterilizados. Muchos niños murieron, paradójicamente, deshidratados o desnutridos. Según UNICEF, cada año mueren un millón y medio de bebés por ser alimentados con leche en polvo.
 
 Todavía hoy en día se celebra la semana internacional de boicot a productos Nestlé. Puedes leer más sobre esto en este enlace:
 
-http://www.amormaternaLcom/2010/10/semana-internacional-boicot-nestle.html El objetivo en esta unidad es que realices un estudio del mercado: las características de tu público objetivo, la posición de la competen cia y la influencia del entorno en tu actividad empresarial Después, tomarás las decisiones relativas al plan de producción y a las acciones de Responsabilidad Social Corporativa. Por último, concluirás con la elaboración de un análisis DAFO que reúna toda esta información a través de una tabla sintética.
+http://www.amormaternaLcom/2010/10/semana-internacional-boicot-nestle.html
+
+## Simulación empresarial
+
+El objetivo en esta unidad es que realices un estudio del mercado: las características de tu público objetivo, la posición de la competen cia y la influencia del entorno en tu actividad empresarial Después, tomarás las decisiones relativas al plan de producción y a las acciones de Responsabilidad Social Corporativa. Por último, concluirás con la elaboración de un análisis DAFO que reúna toda esta información a través de una tabla sintética.
 
 Al finalizar la unidad, recogerás toda esa in formación para el plan de empresa en dos apartados, denominados:
 
 1. Estudio de mercado.
 2. Plan de producción.
 
-El plan de producción que elaboraréis al final de esta unidad incluirá unas decisiones u
+El plan de producción que elaboraréis al final de esta unidad incluirá unas decisiones u otras según se comercialice un producto que se elabora o bien según se ofrezca un servicio. En ocasiones, las empresas ofrecen tanto productos como servicios.
 
 ## Fases de la Simulación empresarial
 
-Fase 1. Decisiones sobre el producto
-
-Fase 2. Determinación de los servicios
-
-Fase 3. Fijación del precio
-
-Fase 4. Elección del mercado objetivo
-
-Fase 5. Análisis de la competencia
-
-Fase 6. Estudio de mercado
-
-Fase 7. Análisis del entorno general
-
+- Fase 1. Decisiones sobre el producto
+- Fase 2. Determinación de los servicios
+- Fase 3. Fijación del precio
+- Fase 4. Elección del mercado objetivo
+- Fase 5. Análisis de la competencia
+- Fase 6. Estudio de mercado
+- Fase 7. Análisis del entorno general
 - Fase 8. Elaboración del organigrama
 - Fase 9. Responsabilidad Social Corporativa
 - Fase 10. Análisis DAFO
-
-_-----------------_
-
-otras según se comercialice un producto que se elabora o bien según se ofrezca un servicio. En ocasiones, las empresas ofrecen tanto productos como servicios.
 
 ## Ejemplo 10. El caso de Mundopán
 
@@ -1203,25 +1232,27 @@ Las diferencias entre unas marcas y otras en cuanto al producto son mínimas. Po
 
 No obstante, hay marcas de agua mineral que buscan marcar una distinción en el producto en sí. Te mostramos algunos ejemplos.
 
-## Diferenciación práctica
+- Diferenciación práctica
 
 Cada botella de Cloud Juice encierra 9 750 gotas de agua pura de lluvia de Tasmania (Australia).
 
-## Diferenciación económica
+- Diferenciación económica
 
 La marca Bling incorpora cristales de Swarosky para formar su nombre en el envase. Hace años comercializaron una edición de lujo, con un número limitado de unidades que estaba forrada totalmente de estos cristales. El precio de cada botella fue superior a los dos millones de dólares.
 
-## Diferenciación estética
+- Diferenciación estética
 
 El agua Enselham se encierra en una botella elegante fabricada por la misma industria que produce los frascos de los perfumes Channel.
 
-## Diferenciación técnica
+- Diferenciación técnica
 
-El agua O O tiene 35 veces más oxígeno que otras aguas minerales. Podríamos decir que se acerca al concepto de bebida energética.
+El agua OGO tiene 35 veces más oxígeno que otras aguas minerales. Podríamos decir que se acerca al concepto de bebida energética.
+
+## Decisiones relativas del plan de producción
 
 Sea cual sea el objeto de fabricación, el plan de producción recogerá las decisiones relativas al bien producido y al proceso de fabricación en sí, tales como:
 
-- Descripción del bien a fabrican forma, denominación, características físicas, color, ta maño, material, funcionalidad, estética, peso, volumen, envase, necesidad que satisface, elemento diferenciado^ etc.
+- Descripción del bien a fabrican forma, denominación, características físicas, color, ta maño, material, funcionalidad, estética, peso, volumen, envase, necesidad que satisface, elemento diferenciado, etc.
 - Proceso de producción: adquisición y almacenaje de materias primas, recursos materiales necesarios, contratación de personal, asignación de funciones, pasos y tiempos de cada fase del proceso, volumen de producción, costes, control de calidad, gestión de existencias, etc.
 
 ## Ejemplo 12. La autoencuadernación de Bindo!
@@ -1239,8 +1270,6 @@ Su plan de producción tendrá que considerar las siguientes cuestiones:
 7. Necesidad que satisface: la posibilidad de autoencuadernación inmediata por el usuario.
 8. Elemento diferencial: barato, inmediato, disponibilidad constante, novedad.
 
-,
-
 ## Denominación del producto
 
 Algunas compañías deciden dar un nombre específico a sus productos. El propósito puede ser variado, te mostramos algunos:
@@ -1252,7 +1281,7 @@ Algunas compañías deciden dar un nombre específico a sus productos. El propó
 
 Es el momento de tomar decisiones sobre el producto o productos que ofreces en vuestra empresa. Se tratará de elaborar un documento sencillo en el que solo se incluirán aquellos aspectos más relevantes de un plan de producción. En caso de que tu actividad empresarial esté relacionada con la prestación de un servicio, deberás completar la Actividad de simulación 2.
 
-## Ayuda práctica:
+Ayuda práctica:
 
 Deberás elaborar los siguientes apartados:
 
@@ -1271,9 +1300,9 @@ En este caso, el plan de empresa incluirá la descripción detallada de los serv
 - Características de la actividad: estilo, variedades, denominación, necesidad que satisface, elemento diferenciados etc.
 - Procedimiento para llevarlo a cabo: adquisición y almacenaje de mercancía, recursos materiales necesarios, contratación de personal, asignación de funciones, pasos y tiempos para cada tipo de servicio, ventas esperadas, costes, etc.
 
-## Ejemplo 13. Alquileres de iPací 3
+## Ejemplo 13. Alquileres de iPad 3G
 
-Pad io the city es una empresa española dedicada al alquiler de iPad 3 con conexión a Inter net y de determinadas aplicaciones preinstaladas relacionadas con el turismo, como Metro de Madrid, Audio-guía del Museo del Prado, Google Earth, Weather+, Angry Birds HD, RMNews y Hertz, entre muchas otras, para disfrutar al máximo de una breve estancia turística en la capital.
+Pad in the city es una empresa española dedicada al alquiler de iPad 3G con conexión a Internet y de determinadas aplicaciones preinstaladas relacionadas con el turismo, como Metro de Madrid, Audio-guía del Museo del Prado, Google Earth, Weather+, Angry Birds HD, RMNews y Hertz, entre muchas otras, para disfrutar al máximo de una breve estancia turística en la capital.
 
 Su plan de producción incluirá estas decisiones:
 
@@ -1293,51 +1322,46 @@ Algunas compañías deciden dar un nombre específico a sus servicios. El propó
 
 Es el momento de tomar decisiones sobre el servicio o servicios que ofrecéis en vuestra empresa. Se tratará de elaborar un documento sencillo en el que solo se incluirán aquellos aspectos más relevantes de un plan de producción. En caso de que tu actividad empresarial esté relacionada con la elaboración de un producto, deberás completar la Actividad de simulación 1.
 
-## Ayuda práctica:
+Ayuda práctica:
 
 - a) Listado completo de servicios que ofrecéis.
 - b) Identificación de las necesidades que satisfacen, los elementos que os diferencian de la competencia y las innovaciones incorporadas. No se trata de repetir las mismas ideas que elaborasteis en la Unidad 1, sino de añadir algunas nuevas si han ido surgiendo desde entonces.
 - c) Descripción del servicio que ofrecéis, tales como variedades, estilo, etc.
 - d) Nombre del servicio, en caso de tener una denominación concreta.
-
-5. ej Concreción de los aspectos básicos de la actividad ofrecida: consideraciones generales a tener en cuenta antes de poner en marcha el negocio. Igual que en la Fase 1, dejare mos para unidades posteriores la estimación de las necesidades materiales y humanas.
+- e) Concreción de los aspectos básicos de la actividad ofrecida: consideraciones generales a tener en cuenta antes de poner en marcha el negocio. Igual que en la Fase 1, dejare mos para unidades posteriores la estimación de las necesidades materiales y humanas.
 
 ## Fase 3. Fijación del precio
 
 La siguiente fase consiste en determinar el precio del producto o servicio que ofrecemos. Las empresas se sirven de criterios diferentes a la hora de determinar el precio de sus productos, pero todos ellos pueden agruparse en una de las siguientes categorías.
 
-## Imitar el precio de la competencia
+- Imitar el precio de la competencia
 
 Aunque es una idea muy tentadora, ya que reduce el esfuerzo de realizar un cálculo complicado es, sin embargo, arriesgado, ya que que los gastos de las empresas no son iguales: no todas tienen el mismo margen de negociación con los proveedores, ni esperan conseguir el mismo porcentaje de beneficios, etc.
 
-## Método tradicional
+- Método tradicional
 
 Consiste en calcular el coste unitario del producto y sumarle la rentabilidad deseada. El resultado final será el precio fijado.
 
 No obstante, ese método tiene un fallo importante: en la mayoría de los casos es imposible determinar el coste de un producto antes de determinar su precio. La razón es que los costes varían según la cantidad producida: a mayor volumen de producción, menor precio. Esto sucede porque los costes fijos se abaratan, ya que al comprar mayor cantidad de materia prima se puede negociar un precio más bajo con el proveedor.
 
-### Ejemplo
+Ejemplo: Ese error fue cometido por la compañía Wang, creadora del primer procesador de texto. Cuando introdujeron el producto en 1974 fue un éxito instantáneo. En poco tiempo, el proceso de fabricación permitió abaratar los costes y con ello, la entrada de competidores al mercado. Las ventas de Wang comenzaron a frenarse y el coste por unidad se incrementó. Para compensar este encarecimiento en el precio de producción, la compañía actualizó el precio de venta que, lógicamente, aumentó. Esto propició una reducción aún mayor de las ventas. La compra se desplazó hacia otros productos más baratos precipitando a la empresa hacia la bancarrota.
 
-Ese error fue cometido por la compañía Wang, creadora del primer procesador de texto. Cuando introdujeron el producto en 1974 fue un éxito instantáneo. En poco tiempo, el proceso de fabricación permitió abaratar los costes y con ello, la entrada de competidores al mercado. Las ventas de Wang comenzaron a frenarse y el coste por unidad se incrementó. Para compensar este encarecimiento en el precio de producción, la compañía actualizó el precio de venta que, lógicamente, aumentó. Esto propició una reducción aún mayor de las ventas. La compra se desplazó hacia otros productos más baratos precipitando a la empresa hacia la bancarrota.
-
-## Determinar el precio según el valor, en lugar del coste
+- Determinar el precio según el valor, en lugar del coste
 
 Esto es, según lo que el cliente esté dispuesto a pagar. El proceso para estimar el precio comienza en el consumidor: pri mero se analiza qué segmento del mercado puede estar interesado en el producto y luego se estima qué precio pueden llegar a pagar los consumidores por ese producto. Se tiene muy en cuenta la necesidad que satisface y el nivel adquisitivo de la gente. Entonces, el departamento de producción diseña el producto para ajustarse a ese precio, descontando la rentabilidad que la empresa espera conseguir.
 
 El paso de un enfoque basado en el producto a otro basado en el cliente, no solo ha afectado al proceso de fabricación, sino que también ha dado un giro en las políticas de marketing, como veremos en unidades posteriores.
 
-### Ejemplo
-
-Un ejemplo reciente nos lo proporciona la compañía Nintendo con el lanzamiento de la Wii. Antes de desarrollar el producto, se focalizaron en el precio que consideraron que los potenciales compradores estarían dispuestos a pagar. Al predeterminarse el precio de venta en unos 211 dólares, los diseñadores del producto rápidamente abandonaron la idea inicial de incorporar gráficos de alta definición. Como resultado, Nintendo puede vender la Wii a un precio menor que sus competidores: Sony (Playstation) o Microsoft (Xbox) y tener un margen de benéficos mayor. La estrategia de estos otros dos grandes fabricantes es vender la máquina con beneficios escasos o nulos, a cambio de generar ingresos por los videojuegos vendidos. Nintendo, por el contrario, ha logrado ganar dinero con uno y otro.
+Ejemplo: Un ejemplo reciente nos lo proporciona la compañía Nintendo con el lanzamiento de la Wii. Antes de desarrollar el producto, se focalizaron en el precio que consideraron que los potenciales compradores estarían dispuestos a pagar. Al predeterminarse el precio de venta en unos 211 dólares, los diseñadores del producto rápidamente abandonaron la idea inicial de incorporar gráficos de alta definición. Como resultado, Nintendo puede vender la Wii a un precio menor que sus competidores: Sony (Playstation) o Microsoft (Xbox) y tener un margen de benéficos mayor. La estrategia de estos otros dos grandes fabricantes es vender la máquina con beneficios escasos o nulos, a cambio de generar ingresos por los videojuegos vendidos. Nintendo, por el contrario, ha logrado ganar dinero con uno y otro.
 
 ## Actividad de simulación 3
 
 Es el momento de fijar el precio de venta al público para cada uno de los productos o servicios que ofrezca tu empresa.
 
-### Ayuda práctica:
+Ayuda práctica:
 
 - a) Seleccionar uno de los tres criterios que suelen utilizarse y que acabamos de exponer, razonando el motivo de esta elección.
-- h) Una vez decidido, enumera el precio de cada uno de vuestros productos o servicios.
+- b) Una vez decidido, enumera el precio de cada uno de vuestros productos o servicios.
 
 ## Fase 4. Elección del mercado objetivo
 
@@ -1347,44 +1371,33 @@ Por ello, en lugar de planificar una estrategia global, tratan de ganar ventaja 
 
 De este modo, se divide a la población global o mercado potencial según distintos criterios, como se refleja a continuación.
 
-## Geográficos
+### Geográficos
 
 Se segmenta por países, regiones, ciudades barrios, ya que las necesidades pueden ser
 diferentes según el área en la que resida el cliente.
 
-Ejemplo
-El guante Skuuzi sirve para tomar una cerveza fría sin que la mano sufra. Este producto se comercializa en los países
-escandinavos se ofrece como la solución cuando se desea tomar una cerveza por la calle en invierno. Este producto
-no tendría gran acogida en España; en cambio, sí gozaría de gran aceptación la ropa con aire acondicionado que se
-comercializa en Japón. Llevan incorporados unos ventiladores que extraen el aire caliente del cuerpo evitan el sudor.
+Ejemplo: El guante Skuuzi sirve para tomar una cerveza fría sin que la mano sufra. Este producto se comercializa en los países escandinavos se ofrece como la solución cuando se desea tomar una cerveza por la calle en invierno. Este producto no tendría gran acogida en España; en cambio, sí gozaría de gran aceptación la ropa con aire acondicionado que se comercializa en Japón. Llevan incorporados unos ventiladores que extraen el aire caliente del cuerpo evitan el sudor.
 
-## Demográficos
+### Demográficos
 
 Se segmenta por edad, estado civil, sexo, estatus socioeconómico, religión, nivel de ingresos, tipo de familia, profesión, nivel educativo, orientación sexual...
 
-Ejemplo
-El Trekstor USB es un abrebotellas que está incorporado un USB con una capacidad de 8 GB. Este invento está más
-enfocado una población joven, masculina, que utiliza el ordenador de manera habitual, por tanto, con nivel educativo
-medio-alto, que consume cerveza en casa que está estudiando empleada en trabajos poco absorbentes. En cambio,
-el salón de belleza-bar que se ha abierto en Texas (EE.UU.) se dirige personas de mediana edad, preferiblemente
-mujeres, desempleadas con nivel económico medio-alto, que están desocupadas pueden, por ello, estar buena parte
-de su tiempo libre en actividades de ocio.
+Ejemplo: El Trekstor USB es un abrebotellas que está incorporado un USB con una capacidad de 8 GB. Este invento está más enfocado una población joven, masculina, que utiliza el ordenador de manera habitual, por tanto, con nivel educativo medio-alto, que consume cerveza en casa que está estudiando empleada en trabajos poco absorbentes. En cambio, el salón de belleza-bar que se ha abierto en Texas (EE.UU.) se dirige personas de mediana edad, preferiblemente mujeres, desempleadas con nivel económico medio-alto, que están desocupadas pueden, por ello, estar buena parte de su tiempo libre en actividades de ocio.
 
-## Psicográficos
+### Psicográficos
 
 Se segmenta según el estilo de la vida, la personalidad, los valores, las actitudes, los gus
 tos.
 
-Ejemplo
-El sensor de muñeca desarrollado por Microsoft permite al usuario controlar cualquier dispositivo electrónico que esté cerca, tales como móvil. Este producto está dirigido los adictos las novedades tecnológicas que poseen portátil, Smartphone.Tablet, eBook y Ultrabook. el perfume Masclet n.° 5, con formato olor pólvora, que se ha presentado en Valencia con motivo de las Fallas. El producto busca llamar la atención, sin duda, pero también cautivar los aficionados esta fiesta tradicional, para rememorar los buenos momentos, ya que el olfato es uno de los sentidos que más rápidamente conecta con los recuerdos.
+Ejemplo: El sensor de muñeca desarrollado por Microsoft permite al usuario controlar cualquier dispositivo electrónico que esté cerca, tales como móvil. Este producto está dirigido los adictos las novedades tecnológicas que poseen portátil, Smartphone.Tablet, eBook y Ultrabook. el perfume Masclet n.° 5, con formato olor pólvora, que se ha presentado en Valencia con motivo de las Fallas. El producto busca llamar la atención, sin duda, pero también cautivar los aficionados esta fiesta tradicional, para rememorar los buenos momentos, ya que el olfato es uno de los sentidos que más rápidamente conecta con los recuerdos.
 
-## Conductuales
+### Conductuales
 
 Se segmenta según los hábitos de compra: frecuencia, fidelidad la marca, búsqueda de beneficio, capacidad de toma de decisiones.
 
-Ejemplo
+Ejemplo: El chaleco Like-a-hug (juego de palabras, que puede traducirse «como un abrazo» «me gusta un abrazo»). Este chaleco se infla cuando un amigo del usuario clickea en el «Me gusta» del muro del usuario de Facebook. El abrazo simula un ligero abrazo está pensado para clientes habituales de esta red social, que necesitan sentir físicamente las demostraciones de cariño pasar un rato divertido.
 
-El chaleco Like-a-hug (juego de palabras, que puede traducirse «como un abrazo» «me gusta un abrazo»). Este chaleco se infla cuando un amigo del usuario clickea en el «Me gusta» del muro del usuario de Facebook. El abrazo simula un ligero abrazo está pensado para clientes habituales de esta red social, que necesitan sentir físicamente las demostraciones de cariño pasar un rato divertido.
+## Población objetivo
 
 Cada empresa trata de conocer a su población objetivo a partir de los distintos criterios seña lados. No siempre es fácil identificar todas las características de los potenciales usuarios. Sin embargo, cuanto más se acerquen las empresas, más beneficios pueden conseguir.
 
@@ -1410,7 +1423,7 @@ Por ejemplo, EmotivSystem son unos revolucionarios auriculares que permiten util
 
 En esta fase deberás especificar cuál será tu mercado o público objetivo. Para ello, tus socios y tú debéis segmentar el mercado tomando como base los criterios estudiados y después elegir aquellos que os parezcan idóneos para vuestra línea de negocio.
 
-### Ayuda práctica:
+Ayuda práctica:
 
 - a) Puede ser buena idea comenzar decidiendo si os dirigís mayoritariamente a hombres, a mujeres o a ambos sexos por igual. Después, elige otros segmentos, como tramo de edad, nivel adquisitivo, ámbito geográfico, ocupación laboral, estilo de vida, etc.
 - b) Trata de describir, con el mayor nivel de concreción posible, a los clientes potenciales. Cuanto más lo concretes para cada segmento, más fácil te resultará tomar decisiones.
@@ -1428,23 +1441,23 @@ Las estrategias que pueden seguir las empresas para diferenciarse de la competen
 
 ## Ejemplo 15. Diferenciación en base a un producto diferente
 
-### Diseñar un producto complementario a los que está desarrollando la competencia
+- Diseñar un producto complementario a los que está desarrollando la competencia
 
 ¿Para qué lanzarse en una carrera competitiva por mejorar un producto, si la competencia ya tiene una alta cuota de mercado? Es el caso de Philips, que ha renunciado a competir con Apple y Samsung en el ámbito de los Smartphones, tabletas y Ultrabooks. A cambio, ha apostado por crear un gadget compatible con todos ellos. Se trata del InRange, un pequeño aparato que se sincroniza con los aparatos (móviles, portátiles, etc.) u objetos cotidianos (llaves, cartera, etc.) que solemos extraviar para que este dispositivo los localice. Igualmente, sirve como alarma antirrobo, de manera que sonará si el objeto se separa de vosotros.
 
-### Fabricar un producto exclusivo para un público minoritario
+- Fabricar un producto exclusivo para un público minoritario
 
 Es el caso de Adizero F50, un producto de Adidas. Se trata de unas botas de fútbol inteligen tes que se comunican con el ordenador del deportista. El sensor instalado en las zapatillas guarda información diversa, como la velocidad media, la distancia recorrida, longitud de la zancada, frecuencia de los sprints, para registrar y realizar un seguimiento del juego del futbolista durante siete horas.
 
-### Incorporar innovaciones tecnológicas que den como resultado un producto distinto
+- Incorporar innovaciones tecnológicas que den como resultado un producto distinto
 
 Guinness se caracteriza por utilizar nitrógeno, en lugar de CO2, para crear la espuma de la cerveza. Esa es la razón por la que todas las latas de esta marca de cerveza incluyan una bolita en su interior, que vuelve más densa y oscura la espuma.
 
-### Crear productos novedosos que además refuercen las otras líneas de negocio
+- Crear productos novedosos que además refuercen las otras líneas de negocio
 
 Las gafas Google con conexión a Internet, que permiten navegar a través de sus cristales gracias a un sistema conocido como realidad aumentada. Funcionan solo con sistema Android, el sistema operativo de Google. O su sistema Google Wallet, para pagar con el móvil en establecimientos, introduciendo el código PIN y acercando el teléfono a un lector. Es posible gracias a la tecnología inalámbrica de corto alcance Near Field Communication (NFC).
 
-### Diseñar un producto que muestre la preocupación por el cliente
+- Diseñar un producto que muestre la preocupación por el cliente
 
 Las marcas de coches están focalizadas en la apariencia o en las prestaciones de los coches. Nissan está focalizando su atención en el cliente. Así, trabaja en la idea de automóviles controlados por nuestros pensamientos. El vehículo sería capaz de entender lo que el conductor piensa y hacerlo por él, lo que elevaría la seguridad de sus coches.
 
@@ -1452,7 +1465,7 @@ Las marcas de coches están focalizadas en la apariencia o en las prestaciones d
 
 En esta fase deberás realizar un estudio para conocer a tus competidores más cercanos. Encontrar información sobre ellos puede ser simple si realizas una búsqueda a través de Internet, o más complejo y descriptivo, si te desplazas personalmente hasta la zona don de piensas situar la empresa.
 
-### Ayuda práctica
+Ayuda práctica
 
 - a) Si realizas tu búsqueda por Internet podrás:
 
@@ -1469,15 +1482,15 @@ En esta fase deberás realizar un estudio para conocer a tus competidores más c
 
 En esta fase tendrás que analizar la aceptación de tus productos o servicios entre el público al que va dirigido, averiguando las intenciones consumistas de los clientes, la oferta de la competencia y, por tanto, la posibilidad de hacerse un hueco en el mercado. Básicamente, consta de tres grandes focos de análisis:
 
-## Análisis del consumidor
+### Análisis del consumidor
 
 Persigue entender el comportamiento de los consumidores para detectar necesidades insatisfechas, hábitos de compra (lugares, momentos, preferencias, cantidades, motivos, etc.). En la Fase 4 has seleccionado tu mercado objetivo. Ahora es preciso averiguar más datos sobre él: qué compra, cuándo compra, por qué compra, cada cuánto tiempo, quién más influye en la decisión de compra, etc.
 
-## Análisis de la competencia
+### Análisis de la competencia
 
 A partir de esta evaluación (realizada ya en la Fase 5) se valorará si es factible convivir con la competencia o si hay que neutralizarla captando parte de su mercado o bien convirtiéndonos en socios, a través de una fusión o una alianza estratégica.
 
-## Estrategia empresarial
+### Estrategia empresarial
 
 Busca fijar el rumbo de la empresa. Puede implicar introducir cambios en nuestro producto para diferenciarlo más de los que ya están en el mercado, dirigirnos a otros consumidores no captados por la competencia, abandonar la idea de ofertar ese producto o servicio, etc.
 
@@ -1588,7 +1601,7 @@ Finalmente, reflexiona qué cambios en los hábitos de vida o en las pautas de c
 ### Ayuda práctica:
 
 - a) Haz uso de tus conocimientos para deducir qué factores del entorno general pueden afectar al negocio. Leer prensa con cierta asiduidad te ayudará: un emprendedor no puede estar desinformado, ni desconocer la evolución de la sociedad, la economía o las políticas medioambientales, por ejemplo.
-- h) Completa tus deducciones con información obtenida de Internet, utilizando varios criterios de búsqueda diferentes, tales como: «evolución del sector (...)», «características del sector (...)» o «situación del sector (...)». Prueba a acotar la búsqueda añadiendo «en España» para tener información del entorno cercano. Utiliza la información ex traída de la búsqueda más general para conocer qué tendencias se siguen en el sector en otras partes del mundo. Eso puede orientarte sobre ideas que pueden ser aplica bles en España.
+- b) Completa tus deducciones con información obtenida de Internet, utilizando varios criterios de búsqueda diferentes, tales como: «evolución del sector (...)», «características del sector (...)» o «situación del sector (...)». Prueba a acotar la búsqueda añadiendo «en España» para tener información del entorno cercano. Utiliza la información ex traída de la búsqueda más general para conocer qué tendencias se siguen en el sector en otras partes del mundo. Eso puede orientarte sobre ideas que pueden ser aplica bles en España.
 - c) En ocasiones, las asociaciones o federaciones del sector realizan informes, muchos de los cuales se publican en Internet. También puedes encontrar más información en las páginas web de las siguientes instituciones: INE (Instituto Nacional de Estadística), Ministerio de Economía, Ministerio de Industria, Cámaras de Comercio o en CEPYME. Cuantas más búsquedas realices, más información relevante encontrarás que te permitirá tomar decisiones de una manera más realista.
 
 ## Fase 8. Elaboración del organigrama
@@ -2215,7 +2228,7 @@ El certificado de empresa o de instalador es solicitado por aquellas empresas qu
 
 ## Autorizaciones de apertura, instalación o constitución
 
-## Ejemplo 6. Actividades que requieren autorización inicial
+### Ejemplo 6. Actividades que requieren autorización inicial
 
 Algunas de las actividades empresariales que requieren autorización inicial son:
 
@@ -2281,7 +2294,7 @@ Reúnete con tus socios para tomar una decisión respecto a la forma jurídica q
 ## Ayuda práctica:
 
 - a) Puedes encontrar información adicional en la web siguiente: http://wwwxirce.es/ Circe.Publico.Web/Articulo.aspx?titulo=Como+realizar+un+tramite
-- h) Siempre es posible modificar la personalidad jurídica elegida, pero este trámite con lleva un coste de tiempo, dinero y papeleo que se puede evitar si escoges la elección más adecuada a vuestra empresa.
+- b) Siempre es posible modificar la personalidad jurídica elegida, pero este trámite con lleva un coste de tiempo, dinero y papeleo que se puede evitar si escoges la elección más adecuada a vuestra empresa.
 
 ## Fase 2. Decidirse por una franquicia
 
@@ -2480,7 +2493,7 @@ Por último, consulta si vuestra empresa tiene que incluirse en algún registro 
 ## Ayuda práctica:
 
 - a) Consulta la web del Registro Mercantil para saber cuál está más cerca del domicilio social de vuestro negocio: http://www.rmc.es/DireccionesMercantileSoaspx.
-- h) Para saber si vuestra empresa pertenece a un registro especial y los consiguientes pasos a realizar, consulta la web: http://www.crear-empresasxonn/tramitesgrales.htm.
+- b) Para saber si vuestra empresa pertenece a un registro especial y los consiguientes pasos a realizar, consulta la web: http://www.crear-empresasxonn/tramitesgrales.htm.
 
 ## Fase 6. Trámites en Hacienda
 
@@ -2906,7 +2919,7 @@ inicios de esta marca de lujo, Natura Bissé, no distan mucho de la coyuntura ac
 4. ¿Cuál de estas dos cuestiones consideras más importante?
 
 - a) Tener una buena idea de negocio.
-- h) Disponer de los medios materiales para desarrollarla.
+- b) Disponer de los medios materiales para desarrollarla.
 
 Los microcréditos son préstamos de pequeña cuantía concedidos a personas con pocos recursos económicos, que no pueden acceder a los préstamos de los bancos tradicionales.
 
@@ -3359,7 +3372,7 @@ _-----------------_
 Realiza las siguientes tareas:
 
 - a) Elabora un listado de todas las inversiones a realizar para ejecutar vuestro proyecto de empresa, es decir, de todos los elementos que necesitéis para llevar a cabo la actividad empresarial.
-- h) Después, deberás presupuestarlos. En función del montante total, deberéis decidir el dinero necesario. El capital social aportado por los socios será el primer recurso a utilizar, pero si no se cubren todos los gastos (lo que suele ser habitual), habrá que buscar otras fuentes de financiación.
+- b) Después, deberás presupuestarlos. En función del montante total, deberéis decidir el dinero necesario. El capital social aportado por los socios será el primer recurso a utilizar, pero si no se cubren todos los gastos (lo que suele ser habitual), habrá que buscar otras fuentes de financiación.
 
 ## Ayuda práctica:
 
@@ -3751,7 +3764,7 @@ Por este motivo, las opciones de leasing y renting son muy atractivas, tanto si 
 
 ## El leasing
 
-Presenta como ventajas, además de la financiación total sin requerir desembolsos iniciales, la opción de compra y una deducción fiscal del total de cuotas abonadas a la empresa arren dadora.
+Presenta como ventajas, además de la financiación total sin requerir desembolsos iniciales, la opción de compra y una deducción fiscal del total de cuotas abonadas a la empresa arrendadora.
 
 El leasing está extendido en el disfrute de bienes muebles, como maquinaria en general, herramientas, vehículos industriales y comerciales, equipos técnicos, de oficina, etc. En estos casos, la duración mínima es de dos años.
 
@@ -3765,7 +3778,7 @@ El valor residual es la diferencia entre el precio que abonó la compañía de l
 
 Aunque no es habitual, hay empresarios que aplican con ingenio las posibilidades que ofrece esta opción.
 
-Es el caso de un tratante (nombre con el que se conoce a los vendedores de reses) especia lizado en ganado de alta genética y óptimo rendimiento, que tras comprobar las dificultades de los ganaderos para adquirir este tipo de reses, le surgió la idea del leasing de vacas. Esto ocurrió en el año 1988, pero todavía hoy permite a los ganaderos disponer de estas reses mediante un leasing de entre 1,60 y 2,50 euros al día.
+Es el caso de un tratante (nombre con el que se conoce a los vendedores de reses) especializado en ganado de alta genética y óptimo rendimiento, que tras comprobar las dificultades de los ganaderos para adquirir este tipo de reses, le surgió la idea del leasing de vacas. Esto ocurrió en el año 1988, pero todavía hoy permite a los ganaderos disponer de estas reses mediante un leasing de entre 1,60 y 2,50 euros al día.
 
 ## El renting
 
@@ -3777,23 +3790,22 @@ El carsharing, también denominado carpooling, es una iniciativa entre particula
 
 ## Ejemplo 24. Renting al servicio público
 
-El Ayuntamiento de Burriana, en Castellón, ha adju dicado a la empresa Alphabet un contrato de renting para el suministro de cinco vehículos patrulla para la policía local por un período de cuatro años. El importe anual por los cinco vehículos es de 58944 euros.
+El Ayuntamiento de Burriana, en Castellón, ha adjudicado a la empresa Alphabet un contrato de renting para el suministro de cinco vehículos patrulla para la policía local por un período de cuatro años. El importe anual por los cinco vehículos es de 58944 euros.
 
 ## D Consideraciones antes de contratar un renting o un leasing
 
 Tabla 4.16. Consideraciones antes de contratar un renting o un leasing.
 
 | Renting | El precio del renting suele incluir las tareas administrativas. Tomemos por ejemplo el caso de un coche: su matriculación, el transporte hasta el punto de entrega; los gastos de mantenimiento, como revisiones, cambios de neumáticos, etc.; la reparación del coche en caso de avería o asistencia en carretera; seguro completo a todo riesgo, incluyendo siniestros y robo; vehículo de sustitución, en caso de avería o accidente; y servicio de reclamación de multas. |
-| ------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Leasing | Todas las operaciones relacionadas con los bienes (reparaciones, tareas administrativas, etc.) no están cubiertas por la compañía de leasing.                                                                                                                                                                                                                                                                                                                                 |
-| Renting | La duración del contrato oscila dependiendo de la vida útil del bien, pero suele rondar entre el año (equipos informáticos) y los cinco años (vehículos).                                                                                                                                                                                                                                                                                                                     |
-| Leasing | La duración del contrato depende de la vida útil del producto, pero en el caso de los inmuebles puede llegar a ser más largo, suele rondar una media de diez años.                                                                                                                                                                                                                                                                                                            |
-| Renting | Una vez finalizado el contrato, se procederá a devolver el bien y, en caso deseado, a suscribir un nuevo contrato.                                                                                                                                                                                                                                                                                                                                                            |
-| Leasing | Una vez finalizado el contrato se puede optar por tres vías: devolver el bien, suscribir un nuevo con trato o tener opción de compra.                                                                                                                                                                                                                                                                                                                                         |
-| Renting | Se prohibe el subarrendamiento del bien y a que sea utilizado por personas diferentes de las mencio nadas en el contrato.                                                                                                                                                                                                                                                                                                                                                     |
-| Leasing | Se prohibe el subarrendamiento del bien y a que sea utilizado por personas diferentes de las mencio nadas en el contrato.                                                                                                                                                                                                                                                                                                                                                     |
-| Renting | La cuota mensual suele mantenerse fija durante la duración del contrato.                                                                                                                                                                                                                                                                                                                                                                                                      |
-| Leasing | La cuota mensual suele mantenerse fija durante la duración del contrato.                                                                                                                                                                                                                                                                                                                                                                                                      |
+| Leasing | Todas las operaciones relacionadas con los bienes (reparaciones, tareas administrativas, etc.) no están cubiertas por la compañía de leasing. |
+| Renting | La duración del contrato oscila dependiendo de la vida útil del bien, pero suele rondar entre el año (equipos informáticos) y los cinco años (vehículos). |
+| Leasing | La duración del contrato depende de la vida útil del producto, pero en el caso de los inmuebles puede llegar a ser más largo, suele rondar una media de diez años. |
+| Renting | Una vez finalizado el contrato, se procederá a devolver el bien y, en caso deseado, a suscribir un nuevo contrato. |
+| Leasing | Una vez finalizado el contrato se puede optar por tres vías: devolver el bien, suscribir un nuevo con trato o tener opción de compra. |
+| Renting | Se prohíbe el subarrendamiento del bien y a que sea utilizado por personas diferentes de las mencionadas en el contrato. |
+| Leasing | Se prohíbe el subarrendamiento del bien y a que sea utilizado por personas diferentes de las mencionadas en el contrato. |
+| Renting | La cuota mensual suele mantenerse fija durante la duración del contrato. |
+| Leasing | La cuota mensual suele mantenerse fija durante la duración del contrato. |
 
 ## Actividad de simulación 5
 
@@ -3801,7 +3813,7 @@ Selecciona aquellos bienes muebles o inmuebles que podéis financiar a través d
 
 ## Ayuda práctica:
 
-Busca información en Internet sobre las empresas que ofrecen este tipo de financiación. En caso de bienes muy específicos, como aparatología para depilación láser en un centro de estética, muchas veces son los propios proveedores los que ofrecen esta posibilidad. Es una manera de asegurarse más facturación y volumen de negocio que si solo permi tieran la opción de compra.
+Busca información en Internet sobre las empresas que ofrecen este tipo de financiación. En caso de bienes muy específicos, como aparatología para depilación láser en un centro de estética, muchas veces son los propios proveedores los que ofrecen esta posibilidad. Es una manera de asegurarse más facturación y volumen de negocio que si solo permitieran la opción de compra.
 
 ## Fase 6. Financiación a corto plazo
 
@@ -3811,22 +3823,22 @@ El aplazamiento en los pagos a proveedores puede ser una interesante fuente de f
 
 En otras ocasiones, los proveedores pueden ofrecer descuentos u ofertas. Tal es el caso de Serviata, una plataforma de la Asociación de Trabajadores Autónomos (ATA) que ofrece ser vicios para profesionales por cuenta propia, como descuentos de hasta un 32 % en furgonetas nuevas.
 
-De manera general, negociar un aplazamiento con los proveedores supone una opción in teresante ya que permite pagar a los proveedores después de cobrar a los clientes, en otras palabras, acorta el período medio de maduración económico.
+De manera general, negociar un aplazamiento con los proveedores supone una opción interesante ya que permite pagar a los proveedores después de cobrar a los clientes, en otras palabras, acorta el período medio de maduración económico.
 
 - Periodo Medio de Maduración Económico (PMME). Representa el tiempo medio que tarda una empresa en recuperar la liquidez desde la compra de materias primas hasta el cobro por las ventas realizadas.
-- Periodo Medio de Maduración Financiero (PMMF). Es el PMME al que se le resta el perio do medio de pago de proveedores, constituyendo los días para los que la empresa deberá buscar financiación para garantizar su ciclo económico.
+- Periodo Medio de Maduración Financiero (PMMF). Es el PMME al que se le resta el periodo medio de pago de proveedores, constituyendo los días para los que la empresa deberá buscar financiación para garantizar su ciclo económico.
 
 ## Descuento por pronto pago
 
 Los problemas financieros de las pymes se reducen, principalmente, a dos: dificultad de ac ceder a crédito y problemas para cobrar a tiempo la mercancía servida. El retraso habitual en el pago a proveedores hace recaer el coste de la financiación en el proveedor llegando a una situación de impago comercial o morosidad comercial Es una tendencia generalizada entre la Administración pública y las grandes empresas.
 
-Es por ello que la UE ha regulado la obligación de que tanto las empresas como la Adminis tración pública paguen a sus proveedores en un máximo de 30 días, ampliable a 60 cuando así se acuerda entre las partes. En caso de morosidad, el importe se incrementará en el tipo de referencia más un 8%.
+Es por ello que la UE ha regulado la obligación de que tanto las empresas como la Administración pública paguen a sus proveedores en un máximo de 30 días, ampliable a 60 cuando así se acuerda entre las partes. En caso de morosidad, el importe se incrementará en el tipo de referencia más un 8%.
 
 Con esta normativa se espera acabar con la morosidad que genera un efecto cadena que repercute negativamente en la buena marcha de la economía y oculta la realidad del déficit público, ya que estos pagos pendientes no entran en tal consideración porque son difíciles de cuantificar.
 
 Los datos estadísticos de finales de 2012 mostraron el descenso en la morosidad. Este dato positivo puede estar causado por la necesidad de la empresa de asegurarse la provisión de productos necesaria.
 
-Hay ayuntamientos, sin embargo, que ya están desarrollando acciones para pagar a tiempo a los proveedores, como la iniciativa del obierno de Navarra de iniciar un Re gistro de Facturas, para que los propios acreedores registren las facturas y se eviten así retrasos innecesarios por razones administrativas o burocráticas.
+Hay ayuntamientos, sin embargo, que ya están desarrollando acciones para pagar a tiempo a los proveedores, como la iniciativa del Gobierno de Navarra de iniciar un Registro de Facturas, para que los propios acreedores registren las facturas y se eviten así retrasos innecesarios por razones administrativas o burocráticas.
 
 ## Ejemplo 25. El «Buen Fin» de Walmart
 
@@ -3838,7 +3850,7 @@ Fuente: El Economista, 17 de diciembre de 2012 [en línea]
 
 El Banco Santander fue el pionero de esta iniciativa y, a pesar de que tiene la marca registrada, permite utilizar este nombre al resto de las entidades bancarias.
 
-En ocasiones, el confirming no se usa como fuente de financiación sino como un servicio cen tralizado de tesorería para gestionar el pago a proveedores o acreedores. Además, la entidad bancaria ofrece avanzar el cobro de la factura antes del plazo convenido entre proveedor y cliente, a cambio de unos intereses, lo que vendría a ser un servicio adicional de descuento comercial.
+En ocasiones, el confirming no se usa como fuente de financiación sino como un servicio centralizado de tesorería para gestionar el pago a proveedores o acreedores. Además, la entidad bancaria ofrece avanzar el cobro de la factura antes del plazo convenido entre proveedor y cliente, a cambio de unos intereses, lo que vendría a ser un servicio adicional de descuento comercial.
 
 Las líneas de confirming están accesibles para grandes y medianas empresas que, además, se pueden beneficiar de mejores condiciones en otros productos financieros contratados. En el caso de las pymes deben haber mostrado un historial excelente de pagos y cobros.
 
@@ -3863,7 +3875,7 @@ Es una opción muy aconsejable para empresas que permiten pagar a plazos, de man
 - Adelanto total o parcial del importe pendiente de cobro. Cuanto más dinero se adelante, más liquidez gozará la empresa pero más comisión e interés deberá abonar.
 - Valoración de la solvencia del cliente. Elemento fundamental pues lo importante no es el volumen de facturación, sino que se cobre todo lo que se venda.
 - Realizar la gestión del cobro pendiente. Estas labores administrativas simplifican trabajo y, si bien hay que pagar por ellas, la empresa debe valorar si le compensa esta reducción de tareas.
-- Asumir el riesgo de impago, se denomina factoring sin recurso. Si la entidad de fac toring solo anticipa el capital y no se hace cargo del riesgo crediticio, hablamos de factoring con recurso, que es el más habitual.
+- Asumir el riesgo de impago, se denomina factoring sin recurso. Si la entidad de factoring solo anticipa el capital y no se hace cargo del riesgo crediticio, hablamos de factoring con recurso, que es el más habitual.
 - Asumir el cambio de moneda, si la factura está fijada en moneda extranjera, la entidad suele cobrar un seguro de tipo de cambio, para cubrir el riesgo de fluctuación del mismo y, consecuentemente, el coste de esta modalidad será mayor.
 - Asesoramiento financiero y comercial hacia los deudores.
 
@@ -3879,36 +3891,36 @@ El descuento comercial o descuento de efectos comparte similitudes con el factor
 
 A pesar de las semejanzas que el descuento comercial mantiene con el factoring, también existen diferencias, como se comentan seguidamente en la Tabla 4.17.
 
-Tabla 4.17. Diferencias entre descuento comercial y factoríng.
+Tabla 4.17. Diferencias entre descuento comercial y factoring.
 
 | Descuento comercial     | El banco nunca asume el riesgo de impago.                                                                                                                            |
 | ----------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Factoríng               | El banco asume el riesgo de impago.                                                                                                                                  |
+| Factoring               | El banco asume el riesgo de impago.                                                                                                                                  |
 | Descuento comercial     | Se admite cualquier efecto comercial no vencido y no solo facturas.                                                                                                  |
 |                         | Solo admite facturas.                                                                                                                                                |
 | Descuento comercial     | El capital anticipado es el total del capital pendiente de pago.                                                                                                     |
 |                         | Se puede pactar un porcentaje sobre el total.                                                                                                                        |
 |                         | Los deudores son tanto el cliente como la empresa que ha cedido la deuda, por lo que                                                                                 |
 | Descuento comercial     | el banco admite mayor riesgo de insolvencia.                                                                                                                         |
-| Factoríng               | En el caso de un factoríng sin recurso solo hay un deudor, que es el cliente, por lo que el banco es más exigente a la hora de aceptar deudas con riesgo crediticio. |
+| Factoring               | En el caso de un Factoring sin recurso solo hay un deudor, que es el cliente, por lo que el banco es más exigente a la hora de aceptar deudas con riesgo crediticio. |
 | mam Descuento comercial | No incluye servicios adicionales a la financiación.                                                                                                                  |
-| Factoríng               | Puede incluir servicios adicionales, como el estudio de la solvencia del cliente, la gestión de la cartera pendiente de cobro o la cobertura del riesgo.             |
+| Factoring               | Puede incluir servicios adicionales, como el estudio de la solvencia del cliente, la gestión de la cartera pendiente de cobro o la cobertura del riesgo.             |
 
 ## Actividad de simulación 6
 
-En esta fase se trata de valorar las fuentes de financiación a corto plazo estudiadas, bien sea por aplazamiento del pago a proveedores, descuentos por pronto pago, servicios de factoríng, confirming o de descuento de efectos.
+En esta fase se trata de valorar las fuentes de financiación a corto plazo estudiadas, bien sea por aplazamiento del pago a proveedores, descuentos por pronto pago, servicios de Factoring, confirming o de descuento de efectos.
 
 Averigua si alguno de vuestros potenciales proveedores ofrece la opción de pagos aplaza dos y, por ello, de descuentos por pago inmediato. En tal caso, anota las condiciones que ofrece y valora justificadamente si es interesante acogerse a esta alternativa.
 
 ## Ayuda práctica:
 
-No es fácil encontrar información sobre los servicios de confirming, de factoríng o de descuento comercial online, ya que las condiciones que ofrece la entidad financiera de penderán de cada caso concreto, como la solvencia de la entidad, el montante total, etc. Trata de averiguar esta información acercándoos a una sucursal bancaria. En caso de no conseguir los datos económicos, realiza una valoración sobre las ventajas y los inconve nientes de utilizar estas fuentes de financiación y una conclusión final sobre si estaríais inclinados a contratar alguno de estos servicios.
+No es fácil encontrar información sobre los servicios de confirming, de Factoring o de descuento comercial online, ya que las condiciones que ofrece la entidad financiera de penderán de cada caso concreto, como la solvencia de la entidad, el montante total, etc. Trata de averiguar esta información acercándoos a una sucursal bancaria. En caso de no conseguir los datos económicos, realiza una valoración sobre las ventajas y los inconvenientes de utilizar estas fuentes de financiación y una conclusión final sobre si estaríais inclinados a contratar alguno de estos servicios.
 
 ## Fase 7. Apoyo en las fases iniciales
 
 ## Coworking
 
-En principio, está más orientada a trabajadores/ree/ance o autónomos que no requieren de un gran establecimiento. Por este motivo, se ha convertido en una solución interesante para diseñadores, programadores, periodistas, escritores, etc.
+En principio, está más orientada a trabajadores freelance o autónomos que no requieren de un gran establecimiento. Por este motivo, se ha convertido en una solución interesante para diseñadores, programadores, periodistas, escritores, etc.
 
 ## Ejemplo 29. Vivero Vivesoy
 
@@ -3938,15 +3950,15 @@ Hay buenas razones que sustentan la participación en este tipo de acciones, tal
 
 1. Mejorar el proyecto empresarial Al tratarse de premios competitivos, los emprende dores tratan de optimizar su idea, lo que redunda en una mayor elaboración del plan de negocio y, aunque no se ganara el concurso, después se estaría en mayor disposición para solicitar financiación ajena o para convencer a nuevos socios.
 
-2. El mejor atractivo ele los concursos es el premio en metálico. Sin embargo, no hay que desestimar el acceso a contactos interesantes, la crítica que los profesionales o in versores harán de nuestro negocio, la oportunidad de contagiarse con la ilusión de otros emprendedores, la posibilidad de conocer muchas otras ideas empresariales que pueden converger con nuestra línea de negocio o pueden darnos ideas para mejorarlo.
+2. El mejor atractivo ele los concursos es el premio en metálico. Sin embargo, no hay que desestimar el acceso a contactos interesantes, la crítica que los profesionales o inversores harán de nuestro negocio, la oportunidad de contagiarse con la ilusión de otros emprendedores, la posibilidad de conocer muchas otras ideas empresariales que pueden converger con nuestra línea de negocio o pueden darnos ideas para mejorarlo.
 3. Mejorar la profesionalidad de los emprendedores, al requerir una mayor entrega y compromiso, así como una ejercitación de destrezas organizativas, técnicas expositivas, habilidades sociales, etc.
-4. Darse a conocer en foros adecuados, acceder a información sobre otros cauces alterna tivos, mejorar nuestra competencia personal, etc. En definitiva, incrementar nuestra valía emprendedora.
+4. Darse a conocer en foros adecuados, acceder a información sobre otros cauces alternativos, mejorar nuestra competencia personal, etc. En definitiva, incrementar nuestra valía emprendedora.
 
 ## I Viveros de empresas
 
 También se los conoce como semilleros de empresa. Los primeros viveros que surgieron en nuestro país fue en los campus universitarios, imitando las medidas que Estados Unidos y otros países de Europa llevaban a cabo para apoyar a sus jóvenes estudiantes con perfil emprendedor.
 
-En la actualidad, los viveros de empresa están promovidos por universidades, ayuntamientos, cámaras de comercio, comunidades autónomas y otras instituciones sostenidas con dinero pú blico. Las grandes ciudades cuentan con varios viveros, razón por la que suelen organizarse por temáticas, como es el caso de Madrid donde cada uno de ellos responde a una temática concreta.
+En la actualidad, los viveros de empresa están promovidos por universidades, ayuntamientos, cámaras de comercio, comunidades autónomas y otras instituciones sostenidas con dinero público. Las grandes ciudades cuentan con varios viveros, razón por la que suelen organizarse por temáticas, como es el caso de Madrid donde cada uno de ellos responde a una temática concreta.
 
 Estos servicios presentan algunas limitaciones, tales como las reflejadas en la Tabla 4.18.
 
@@ -3970,11 +3982,11 @@ Las incubadoras de empresas de origen privado persiguen un doble objetivo. En oc
 
 ## Ejemplo 31. Bic Euronova
 
-Se están iniciando experiencias pioneras en el ámbito de la formación profesional. Así, la in cubadora Bic Euronova de Málaga participa en un proyecto que permite a estudiantes de For mación Profesional diseñar un plan de negocio y simular su viabilidad, aportándoles asesoramiento y apoyo. Al finalizar, los alumnos estarán más capacitados para constituir su empresa.
+Se están iniciando experiencias pioneras en el ámbito de la formación profesional. Así, la incubadora Bic Euronova de Málaga participa en un proyecto que permite a estudiantes de Formación Profesional diseñar un plan de negocio y simular su viabilidad, aportándoles asesoramiento y apoyo. Al finalizar, los alumnos estarán más capacitados para constituir su empresa.
 
 No todos los proyectos empresariales son aceptados en una incubadora. Los criterios para la selección se basan en la Tabla 4.19.
 
-Si no cumple alguno de los requisitos re queridos, la empresa entrará en un pro ceso de preincubadón para Optimizar SU desarrollo.
+Si no cumple alguno de los requisitos re queridos, la empresa entrará en un proceso de preincubación para Optimizar SU desarrollo.
 
 Tabla 4.19. Criterios de elección de un proyecto empresarial.
 
@@ -3991,7 +4003,7 @@ Tabla 4.19. Criterios de elección de un proyecto empresarial.
 
 En este sentido, Madrid ha creado la preincubadora Madrid Crece. La idea es ofrecer un lugar de trabajo similar al de una empresa, junto a un servicio de orientación y apoyo personalizado en la elaboración del plan de empresa, tales como información de ayudas y subvenciones, así como los trámites administrativos.
 
-Hay alguna diferencia entre coworking y los viveros de empresas o incubadoras empresa riales:
+Hay alguna diferencia entre coworking y los viveros de empresas o incubadoras empresariales:
 
 Los viveros y las incubadoras están apoyados por organismos públicos, como cámaras de comercio, ayuntamientos e incluso universidades que establecen sus criterios de acceso. Por ejemplo, la actividad empresarial debe estar incluida en los sectores profesionales que el organismo concreto desea fomentar, o se puede exigir que los emprendedores asistan a una formación específica por parte de los organismos que promueven estos viveros.
 
@@ -4003,25 +4015,25 @@ El plazo de permanencia en un coworking es ilimitado, mientras que viveros e inc
 
 España ocupa el puesto 39 en esa clasificación mundial. De toda la Unión Europea, solo re cia e Italia están peor situados que nuestro país.
 
-El presidente de la Cámara de Comercio Hispano-lsraelí cree que la inversión en I+D+i en Es paña podría recuperarse dando mayor cabida al capital riesgo e inyectando el dinero público en incubadoras de negocios.»
+El presidente de la Cámara de Comercio Hispano-lsraelí cree que la inversión en I+D+i en España podría recuperarse dando mayor cabida al capital riesgo e inyectando el dinero público en incubadoras de negocios.»
 
 Fuente: Cinco Días. Madrid, 2 de noviembre de 2012 [en línea]
 
 - [ ] D Aceleradora de empresas
 
-Una aceleradora de empresas o business accelerator es una entidad especializada en favo recer el rápido crecimiento de otra compañía. Para ello, puede intervenir como consultora, o bien, entrar en el accionariado de la compañía y, por tanto, en su gestión, aunque se admite también el esquema mixto, de asesoramiento y apoyo financiero.
+Una aceleradora de empresas o business accelerator es una entidad especializada en favorecer el rápido crecimiento de otra compañía. Para ello, puede intervenir como consultora, o bien, entrar en el accionariado de la compañía y, por tanto, en su gestión, aunque se admite también el esquema mixto, de asesoramiento y apoyo financiero.
 
 ## Ejemplo 33. SeedRocket
 
 La aceleradora SeedRocket está fundada por dos emprendedores y un business angels con más de diez años de experiencia en el sector de las telecomunicaciones y de la financiación de startups. Entre los mentores de SeedRocket se encuentran los emprendedores de Trovit, Atrápalo, Toprural, Idealista y The Cocktail
 
-Se trata de programas para startups tecnológicas en una fase inicial La aceleradora propicia la creación y consolidación de este tipo de empresas que se conocen como Empresas Inno vadoras de Base Tecnológica (EIBT).
+Se trata de programas para startups tecnológicas en una fase inicial La aceleradora propicia la creación y consolidación de este tipo de empresas que se conocen como Empresas Innovadoras de Base Tecnológica (EIBT).
 
 La aceleradora puede estar constituida por capital privado o público. En general, se trata de inversores privados que esperan conseguir un beneficio económico a cambio, pero también es posible encontrar, tras una incubadora, una asociación sin ánimo de lucro formada por mentores e inversores que pretenden desarrollar y apoyar un área de negocio con potencial para beneficio de la sociedad. Incluso pueden estar respaldadas por patrocinios de entidades o por entidades públicas.
 
 ## Ejemplo 34. linkto rowUp
 
-Una experiencia interesante en este sentido, por cuanto se sale de los cauces habituales de funcionamiento de una aceleradora, es la web linkto rowUp. A través de su página, se ofre ce visibilidad a los emprendedores para que busquen clientes en 90 días. La idea de base es que, si hay consumidores interesados, habrá inversores dispuestos a confiar su capital en la empresa.
+Una experiencia interesante en este sentido, por cuanto se sale de los cauces habituales de funcionamiento de una aceleradora, es la web linkto rowUp. A través de su página, se ofrece visibilidad a los emprendedores para que busquen clientes en 90 días. La idea de base es que, si hay consumidores interesados, habrá inversores dispuestos a confiar su capital en la empresa.
 
 ## I Ayudas públicas
 
@@ -4031,7 +4043,7 @@ Actualización de nuevos tipos de contratos, flexibilidad de las condiciones de 
 
 Determinados tipos de contratos o ciertos colectivos con dificultades de inserción en el mercado laboral son favorecidos para promover su contratación. Se trata de una reducción en las cuotas empresariales y cuotas obreras a la Seguridad Social.
 
-El desarrollo de los contratos de formación y aprendizaje o los contratos de apoyo a emprendedores, por ejemplo, per miten al empresario y al trabajador reducir el importe de las cuotas de cotización a la Seguridad Social.
+El desarrollo de los contratos de formación y aprendizaje o los contratos de apoyo a emprendedores, por ejemplo, permiten al empresario y al trabajador reducir el importe de las cuotas de cotización a la Seguridad Social.
 
 Se favorecen determinados tipos de contratos o ciertos colectivos, con una reducción de la carga impositiva de las empresas.
 
@@ -4045,17 +4057,17 @@ Normalmente las subvenciones son concedidas al cabo de un año desde el inicio d
 
 Con ello también se pretende evitar la dependencia excesiva del emprendedor hacia el dinero público.
 
-Es un fondo de capital riesgo que incorpora dinero público y dinero de iniciativa privada. Están impulsados por comuni dades autónomas o locales para impulsar empresas en su fase inicial de crecimiento.
+Es un fondo de capital riesgo que incorpora dinero público y dinero de iniciativa privada. Están impulsados por comunidades autónomas o locales para impulsar empresas en su fase inicial de crecimiento.
 
 Consisten en ayudas para financiar las inversiones, se realizan a través del Instituto de Crédito Oficial (ICO), el Banco Europeo de Inversiones (BEI) y de la Empresa Nacional de Innovación (ENISA).
 
 El ICO pretende impulsar y apoyar las inversiones de las empresas españolas (emprendedores, autónomos y pymes). Sus ayudas se solicitan en las entidades bancarias, que son las encargadas de analizar el proyecto y aprobar la concesión de los préstamos.
 
-El BEI es la entidad financiera de la Unión Europea (UE) desde 1958. Se trata de un banco sin ánimo de lucro. A diferen cia de los bancos comerciales, no abre cuentas corrientes, ni realiza operaciones en mostrador. En su lugar, efectúa prés tamos a largo plazo para proyectos de inversión de capital (principalmente activos fijos), pero no concede subvenciones.
+El BEI es la entidad financiera de la Unión Europea (UE) desde 1958. Se trata de un banco sin ánimo de lucro. A diferencia de los bancos comerciales, no abre cuentas corrientes, ni realiza operaciones en mostrador. En su lugar, efectúa préstamos a largo plazo para proyectos de inversión de capital (principalmente activos fijos), pero no concede subvenciones.
 
 El apoyo a las inversiones de las pymes del sector industria y servicios constituye un objetivo clave del Banco. Este apoyo se realiza de manera descentralizada gracias al sistema de los préstamos globales concedidos a través de más de 130 bancos.
 
-ENISA es una empresa de capital público adscrita al Ministerio de Industria, Turismo y Comercio, que facilita financia ción a la pyme a través de distintas modalidades, entre las que se encuentra una Línea paraJóvenes Emprendedores.
+ENISA es una empresa de capital público adscrita al Ministerio de Industria, Turismo y Comercio, que facilita financiación a la pyme a través de distintas modalidades, entre las que se encuentra una Línea paraJóvenes Emprendedores.
 
 Se realiza por medio de los viveros de empresa y los organismos de apoyo al emprendimiento mencionados en el punto anterior. O también a través de los PAIT y la red de creación de empresas CIRCE, analizadas en la unidad anterior.
 
@@ -4063,21 +4075,21 @@ Se realiza por medio de los viveros de empresa y los organismos de apoyo al empr
 
 Analiza qué facilidades o ayudas, de iniciativa privada o financiadas con dinero público, están disponibles en el área donde habéis decidido implantar vuestro negocio y valora cuáles son aplicables a vuestro proyecto.
 
-Al llegar a este punto, deberíais tener cubiertas todas vuestras necesidades de financia ción según lo que presupuestasteis en la Actividad de simulación 1 y contar, además, con un excedente monetario que os sirva para el funcionamiento de los primeros meses, tales como el abono de los salarios de los trabajadores y de unos beneficios para remu nerar la actividad de los socios, el pago a proveedores, alquiler, suministros de luz, agua, calefacción, etc.
+Al llegar a este punto, deberíais tener cubiertas todas vuestras necesidades de financiación según lo que presupuestasteis en la Actividad de simulación 1 y contar, además, con un excedente monetario que os sirva para el funcionamiento de los primeros meses, tales como el abono de los salarios de los trabajadores y de unos beneficios para remunerar la actividad de los socios, el pago a proveedores, alquiler, suministros de luz, agua, calefacción, etc.
 
 Es el momento de revisar todas las decisiones adoptadas para conseguirlo.
 
 ## Ayuda práctica:
 
-- a) Discutid si os interesaría más utilizar la opción de coworking, vivero de empresa, incu badora o aceleradora de negocios.
+- a) Discutid si os interesaría más utilizar la opción de coworking, vivero de empresa, incubadora o aceleradora de negocios.
 
 En función de ello, localizad una empresa que ofrezca ese servicio y que esté próxima al emplazamiento de vuestra actividad empresarial. Tratad de averiguar las condicio nes y precios. Valorad, de manera justificada, la conveniencia de utilizar este tipo de servicio frente al resto.
 
-- b) Localizad los clusters de vuestra comunidad autónoma, a través del enlace que os ofrecimos más arriba, y analizad si alguno encaja con vuestro sector de actividad pro fesional. En caso contrario, razonad los motivos para ello.
+- b) Localizad los clusters de vuestra comunidad autónoma, a través del enlace que os ofrecimos más arriba, y analizad si alguno encaja con vuestro sector de actividad profesional. En caso contrario, razonad los motivos para ello.
 - c) Indagad sobre concursos, premios o convocatorias fomentados tanto desde el ámbito privado como desde el público, enfocados a la creación de empresas.
-- d) Buscad una subvención que pudiera aplicarse a vuestro tipo de empresa. Algunas es tán dirigidas a gente joven, otras pretenden favorecer a la mujer para contar con más presencia de este colectivo en el tejido empresarial, algunas impulsan las nuevas tec nologías, otras el uso de energías eficientes, etc.
+- d) Buscad una subvención que pudiera aplicarse a vuestro tipo de empresa. Algunas es tán dirigidas a gente joven, otras pretenden favorecer a la mujer para contar con más presencia de este colectivo en el tejido empresarial, algunas impulsan las nuevas tecnologías, otras el uso de energías eficientes, etc.
 
-Por tanto, la búsqueda será tanto con un criterio general, como con un criterio restric tivo según vuestra línea de negocio.
+Por tanto, la búsqueda será tanto con un criterio general, como con un criterio restrictivo según vuestra línea de negocio.
 
 Anotad los requisitos que solicitan y si consideráis posible la obtención de la misma.
 
@@ -4087,7 +4099,7 @@ En caso de que no encontréis información al respecto, enumerad cinco webs dond
 
 Ha llegado el momento de sintetizar las ideas obtenidas en estas fases de la Simulación empresarial e incorporarlas a vuestro plan de empresa.
 
-Las actividades de simulación realizadas en esta unidad te han servido para conocer las distintas fuentes de financiamiento, tanto del sector público como privado, para impul sar el arranque de tu empresa. Todo eso lo debes recoger en el apartado siguiente, que se añadirá a los que realizaste en las unidades anteriores.
+Las actividades de simulación realizadas en esta unidad te han servido para conocer las distintas fuentes de financiamiento, tanto del sector público como privado, para impulsar el arranque de tu empresa. Todo eso lo debes recoger en el apartado siguiente, que se añadirá a los que realizaste en las unidades anteriores.
 
 ## Plan de financiación
 
@@ -4095,7 +4107,7 @@ Las actividades de simulación realizadas en esta unidad te han servido para con
 - b) Indica las fuentes de financiación que utilizarás, diferenciando entre fuentes propias y fuentes ajenas. Para cada apartado tienes que especificar las cantidades que se obtendrían y sintetizar los motivos por los que has recurrido a ellas, así como las ra zones por las que has descartado otras fuentes alternativas de obtención de recursos.
 - c) Al finalizar, comprueba que has incluido un extracto de todo lo que has anotado en cada una de las fases de simulación de esta unidad.
 
-lili
+## ----------
 
 1. El capital semilla puede proceder de:
 
@@ -4122,7 +4134,7 @@ lili
 
 - a) Es invertido en empresas con potencial de crecimiento.
 - b) Se usa para invertir con carácter temporal en otra empresa.
-- c) Se puede usar para financiar empresas consolidadas que requieren un gran desem bolso de dinero a cambio de un beneficio rentable.
+- c) Se puede usar para financiar empresas consolidadas que requieren un gran desembolso de dinero a cambio de un beneficio rentable.
 - d) Todas son correctas.
 
 5. En el contrato de cualquier préstamo siempre aparecerá especificado:
@@ -4182,11 +4194,11 @@ lili
 
 - b) Descubierto bancario.
 
-- c) Confírming.
+- c) Confirming.
 
-- d) Factoríng.
+- d) Factoring.
 
-12. El factoríng guarda mucha similitud con otro producto financiero:
+12. El Factoring guarda mucha similitud con otro producto financiero:
 
 - a) Descuento comercial.
 
@@ -4204,7 +4216,7 @@ lili
 
 - c) Crédito comercial.
 
-- d) Factoríng.
+- d) Factoring.
 
 14. La diferencia entre crédito y préstamo es:
 
@@ -4216,16 +4228,16 @@ lili
 
 - d) Todas son correctas.
 
-\_
+## -------------
 
 1. ¿Qué se entiende por capital semilla?
 2. ¿Qué motivaciones crees que tiene el capital riesgo para invertir su dinero en empresas con alto potencial de crecimiento?
-3. ¿Cómo compensan los husiness angels las pérdidas si un negocio no consigue la rentabi lidad esperada?
-4. ¿Crees que es necesaria la existencia de capital riesgo y de business angels? ¿Qué suce dería si no los hubiera?
+3. ¿Cómo compensan los business angels las pérdidas si un negocio no consigue la rentabilidad esperada?
+4. ¿Crees que es necesaria la existencia de capital riesgo y de business angels? ¿Qué sucedería si no los hubiera?
 5. Razona si la idea del crowdfunding es interesante para los emprendedores. ¿Estarías dis puesto a realizar una aportación económica en algún proyecto? En caso afirmativo, ex plica qué tipo de empresa o de actividad emprendedora podrías apoyar y los motivos por los que lo harías.
-6. ¿Estarías dispuesto a arriesgar tu dinero (si tuvieras un excedente que no fueras a nece sitar) en un fondo de capital riesgo? ¿Habría alguna condición o límite que impondrías si llegaras a participar en una idea así, tal como una preferencia por determinados sectores o una limitación a determinadas actividades productivas?
+6. ¿Estarías dispuesto a arriesgar tu dinero (si tuvieras un excedente que no fueras a necesitar) en un fondo de capital riesgo? ¿Habría alguna condición o límite que impondrías si llegaras a participar en una idea así, tal como una preferencia por determinados sectores o una limitación a determinadas actividades productivas?
 7. ¿Por qué crees que todas las comunidades autónomas han constituido una sociedad de garantía recíproca?
-8. Busca información en Internet sobre proyectos empresariales que hayan funcionado gra cias al aval aportado por una sociedad de garantía recíproca.
+8. Busca información en Internet sobre proyectos empresariales que hayan funcionado gracias al aval aportado por una sociedad de garantía recíproca.
 9. Analiza qué sucede si una empresa avalada por una sociedad de garantía recíproca no pudiera devolver el préstamo solicitado. ¿Cómo se compensan esas pérdidas?
 10. Explica en qué consiste un crédito comercial y pon un ejemplo reciente en el que tú te hayas beneficiado de ello.
 11. Estudia qué opción es preferible, si pagar al contado o en un plazo de 90 días, si el pro veedor ofrece un descuento del 3% por pagar al contado y si el banco cobra un 7% de interés anual por un crédito de 100000 euros, que es el valor de la factura a abonar al proveedor.
@@ -4233,9 +4245,6 @@ lili
 13. Los TPV (Terminal de Punto de Venta) son los aparatos electrónicos que permiten leer los datos de la tarjeta de débito o de crédito del cliente en las tiendas. Averigua qué porcentaje del importe total de la compra deben pagar las tiendas por tener acceso a esta tecnología. Busca en Internet si hay alternativas a esta opción utilizando algún otro medio de pago electrónico.
 14. Acércate a una sucursal bancaria y pide información sobre una cuenta ahorro-empresa. Anota el tipo de interés al que remuneran esa cuenta y las condiciones que se pactan. Pide información adicional sobre otro tipo de cuenta corriente remunerada y realiza una comparación entre ambos productos.
 15. Busca en Internet información sobre un fondo de capital riesgo y analiza qué tipo de interés suelen estimar que se puede conseguir.
-
-\_.
-
 16. Razona si las organizaciones sin fines de lucro (ON ) están en disposición de acceder a las mismas fuentes de financiación que una empresa que espera lograr un beneficio.
 17. Explica las diferencias entre la bolsa de valores y el Mercado Alternativo Bursátil. ¿Te parece útil su existencia?
 18. Busca información sobre el origen de la bolsa y los motivos por los que surgió. ¿Cuántas bolsas de valores hay en España?
@@ -4243,15 +4252,15 @@ lili
 20. Compara la diferencia entre recibir una subvención o un préstamo del ICO.
 21. Analiza las diferencias entre descuento por pronto pago y descuento comercial.
 22. Explica la frase siguiente: «El confirming permite transformar la deuda con proveedores en deuda bancaria».
-23. Razona qué alternativa resulta más interesante para un emprendedor que decida cons tituir un negocio y no cuente con muchos recursos económicos. Debes realizar la com paración entre las opciones decoworking, vivero de empresa, incubadora o aceleradora de negocios. Compara después tus respuestas con las que han justificado el resto de los compañeros y piensa por qué motivo las respuestas han sido coincidentes o dispares, según lo que sea de aplicación.
-24. Localiza un centro decoworking que esté próximo a tu lugar de residencia. Averigua cuán to cuesta utilizar esos espacios y qué servicios están incluidos en el precio. Trata de reco ger la máxima información posible relativa a condiciones que se ofrecen.
-25. A partir de las respuestas ofrecidas en la pregunta anterior, trata de concluir si hay zonas de tu entorno donde se concentren las oficinas de coworking y a qué puede deberse esto. Valora también si el precio es el mismo o similar o si varía en función del empla zamiento.
+23. Razona qué alternativa resulta más interesante para un emprendedor que decida constituir un negocio y no cuente con muchos recursos económicos. Debes realizar la comparación entre las opciones de coworking, vivero de empresa, incubadora o aceleradora de negocios. Compara después tus respuestas con las que han justificado el resto de los compañeros y piensa por qué motivo las respuestas han sido coincidentes o dispares, según lo que sea de aplicación.
+24. Localiza un centro de coworking que esté próximo a tu lugar de residencia. Averigua cuán to cuesta utilizar esos espacios y qué servicios están incluidos en el precio. Trata de recoger la máxima información posible relativa a condiciones que se ofrecen.
+25. A partir de las respuestas ofrecidas en la pregunta anterior, trata de concluir si hay zonas de tu entorno donde se concentren las oficinas de coworking y a qué puede deberse esto. Valora también si el precio es el mismo o similar o si varía en función del emplazamiento.
 26. Localiza los clusters de tu comunidad autónoma a través del enlace que os ofrecimos en esta unidad. Analiza qué sector de actividad profesional está incluido en el ámbito de aplicación del clustery razona a qué puede deberse.
 27. Indaga sobre concursos, premios o convocatorias fomentados tanto desde el ámbito privado como desde el público, enfocados a la creación de empresas en tu comunidad autónoma. Puedes buscar información en Internet o utilizar algunas de las webs que te presentamos a lo largo de la unidad.
-28. Busca una subvención que se ofrezca en tu comunidad autónoma. Analiza si el ayunta miento de tu localidad de residencia también ofrece algún tipo de apoyo a la creación de empresas. Si encuentras varias alternativas, reflexiona a qué colectivo se dirigen con más preferencia: pueden estar dirigidas a gente joven, a la mujer emprendedora, a la renovación de inmovilizado, a sectores empresariales con escasa presencia en el tejido empresarial de la zona, al impulso de nuevas tecnologías, etc.
-29. Imagina que trabajaras en un organismo público responsable de conceder subvenciones para apoyar la creación o el mantenimiento de empresas. Señala qué tipo de subvencio nes concederías, a quién irían dirigidas, qué requisitos plantearías y qué cantidad ofre cerías. Trata de redactar una respuesta realista, ya que no contarías con un presupuesto ilimitado y las empresas que subvencionaras podrían suponer un coste de oportunidad para otras actividades que podrían ser más necesarias o rentables para la zona.
+28. Busca una subvención que se ofrezca en tu comunidad autónoma. Analiza si el ayuntamiento de tu localidad de residencia también ofrece algún tipo de apoyo a la creación de empresas. Si encuentras varias alternativas, reflexiona a qué colectivo se dirigen con más preferencia: pueden estar dirigidas a gente joven, a la mujer emprendedora, a la renovación de inmovilizado, a sectores empresariales con escasa presencia en el tejido empresarial de la zona, al impulso de nuevas tecnologías, etc.
+29. Imagina que trabajaras en un organismo público responsable de conceder subvenciones para apoyar la creación o el mantenimiento de empresas. Señala qué tipo de subvenciones concederías, a quién irían dirigidas, qué requisitos plantearías y qué cantidad ofrecerías. Trata de redactar una respuesta realista, ya que no contarías con un presupuesto ilimitado y las empresas que subvencionaras podrían suponer un coste de oportunidad para otras actividades que podrían ser más necesarias o rentables para la zona.
 
-## Viabilidad empresarial
+# Viabilidad empresarial
 
 ## En esta unidad aprenderemos a:
 
@@ -4275,9 +4284,11 @@ lili
 2. Durante un tiempo, todas las etiquetas de las tiendas de Mercadona indicaban el precio de sus productos en color amarillo, ¿a qué crees que se debía esto?
 3. Expresa tu opinión sobre la cita contenida en la última frase del texto.
 
-«Si te debo una libra tengo un problema. Si te debo un millón» el problema es tuyo.» John Maynard Keynes, economista británico.
+## John Maynard Keynes, economista británico.
 
-5. Viabilidad empresarial
+«Si te debo una libra tengo un problema. Si te debo un millón» el problema es tuyo.»
+
+## 5. Viabilidad empresarial
 
 En este apartado vamos a recordar algunos conceptos que te serán útiles para realizar la Simulación, tales como:
 
@@ -4287,11 +4298,11 @@ ingresos y gastos benefiCiOS y pérdidas tesorería patrimonio ratJOS viabilidad
 
 El plan financiero es un estudio de las estrategias empresariales a realizar para conseguir fondos económicos e invertirlos para obtener un beneficio.
 
-En otras palabras, el plan financiero es la proyección de cómo se usarán los recursos moneta rios disponibles y de cómo se conseguirán más, cuando sean necesarios.
+En otras palabras, el plan financiero es la proyección de cómo se usarán los recursos monetarios disponibles y de cómo se conseguirán más, cuando sean necesarios.
 
-Incluye la realización de tres documentos diferentes. La interpretación de cada uno de ellos ofrece una radiografía de la situación económico-financiera de la empresa que permite orien tar la estrategia empresarial
+Incluye la realización de tres documentos diferentes. La interpretación de cada uno de ellos ofrece una radiografía de la situación económico-financiera de la empresa que permite orientar la estrategia empresarial
 
-1. Plan de tesorería. Detalla la información financiera aclarando el grado de liquidez dis ponible, así como las deudas pendientes de cobro o los acreedores disponibles.
+1. Plan de tesorería. Detalla la información financiera aclarando el grado de liquidez disponible, así como las deudas pendientes de cobro o los acreedores disponibles.
 2. Cuenta de resultados. Expresa la información económica para conocer si se gana o se pierde dinero, es decir, nos da información sobre si es rentable mantener el negocio o si hay que efectuar cambios.
 3. Balance. Ofrece la información patrimonial sobre la empresa, indicando cuál es el valor de la empresa.
 
@@ -4319,7 +4330,7 @@ Fuente: Expansión. Madrid, 22 de noviembre de 2012 [en línea]
 
 «Desde hace cinco años, una empresa colombiana llamada eoforest investiga un terreno de 200 hectáreas ubicado en la vereda Cuatro Bocas del corregimiento El Centro, para evaluar si es viable allí la construcción de un polo forestal.
 
-Los polos forestales son grandes macizos forestales de plantaciones comerciales y de protec ción, que sirven para proveer de madera a una región o a un país.»
+Los polos forestales son grandes macizos forestales de plantaciones comerciales y de protección, que sirven para proveer de madera a una región o a un país.»
 
 Fuente: Vanguardia. Bucaramanga (Colombia), 25 de noviembre de 2012 [en línea]
 
@@ -4328,7 +4339,7 @@ Fuente: Vanguardia. Bucaramanga (Colombia), 25 de noviembre de 2012 [en línea]
 1. Identifica de qué tipo de viabilidad se está hablando en cada una de estas noticias.
 2. «Setenta farmacias de la zona rural apenas son viables»
 
-«Setenta de las 344 oficinas de farmacia de la provincia (20%) tienen una viabili dad [...], según los datos del Colegio de Farmacéuticos de León. Esto significa que facturan menos de 200000 euros anuales. Estas oficinas se encuentran en el medio rural, zonas que sufren de manera más dramática las consecuencias de la despo blación».
+«Setenta de las 344 oficinas de farmacia de la provincia (20%) tienen una viabilidad [...], según los datos del Colegio de Farmacéuticos de León. Esto significa que facturan menos de 200000 euros anuales. Estas oficinas se encuentran en el medio rural, zonas que sufren de manera más dramática las consecuencias de la despoblación».
 
 fuente: Diario de León. León, 3 de noviembre de 2012 [en línea]
 
@@ -4336,7 +4347,7 @@ fuente: Diario de León. León, 3 de noviembre de 2012 [en línea]
 
 «El Consejo Rector del Fondo de Carbono, acompañado por la directora de la Oficina Española de Cambio Climático, ha seleccionado este martes 40 proyectos en la pri mera convocatoria, de carácter piloto, de "Proyectos Clima", con la que se pretende promover reducciones de emisiones de gases de efecto invernadero en España.
 
-El Fondo de Carbono adquirirá las reducciones verificadas que logren estos proyec tos, contribuyendo así a su viabilidad [...]».
+El Fondo de Carbono adquirirá las reducciones verificadas que logren estos proyectos, contribuyendo así a su viabilidad [...]».
 
 Fuente: Europapress. Madrid, 20 de noviembre de 2012 [en línea]
 
@@ -4352,7 +4363,7 @@ Fuente: Euronews. CET,
 
 - «Un pueblo de Tarragona quiere tener una plantación municipal de marihuana»
 
-«La población de Rasquera estudia acoger una plantación de marihuana por los be neficios económicos y de empleo que tendría, siempre y cuando los informes que han encargado dictaminen la [...] de tal proyecto».
+«La población de Rasquera estudia acoger una plantación de marihuana por los beneficios económicos y de empleo que tendría, siempre y cuando los informes que han encargado dictaminen la [...] de tal proyecto».
 
 Fuente: Cadena Ser. Barcelona, 28 de febrero de 2012 [en línea]
 
@@ -4372,7 +4383,7 @@ Fuente: lagua. Madrid, 14 de noviembre de 2012 [en línea]
 
 ## C. El punto muerto o umbral de rentabilidad
 
-El punto muerto o umbral de rentabilidad representa el nivel mínimo de ventas necesario para cubrir todos los gastos que conlleva fabricarlo. Es decir, pretende fijar el volumen de opera ciones mínimo a partir del cual se obtienen beneficios, de ahí que se denomine umbral de rentabilidad.
+El punto muerto o umbral de rentabilidad representa el nivel mínimo de ventas necesario para cubrir todos los gastos que conlleva fabricarlo. Es decir, pretende fijar el volumen de operaciones mínimo a partir del cual se obtienen beneficios, de ahí que se denomine umbral de rentabilidad.
 
 El punto muerto se calcula integrando el gasto unitario, que incluiría el coste fijo y el coste varia ble por unidad de producción, con el ingreso unitario, es decir, con precio de venta al público.
 
@@ -4406,7 +4417,7 @@ Fuente: http://wvw.pymesyautonomos.com/mar^
 
 Los ratios son índices o valores numéricos que permiten efectuar el análisis económico y financiero de la empresa. Se calculan como un cociente entre dos variables determinadas y se expresa en porcentajes para facilitar su interpretación.
 
-Estos índices se basan en los datos aportados por el Balance y la cuenta de Pérdidas y ganan cias. Es una herramienta útil para la empresa porque su cálculo es sencillo, su interpretación resulta fácil y rápida, y además proporcionan información valiosa que permite fijar las direc trices de la empresa.
+Estos índices se basan en los datos aportados por el Balance y la cuenta de Pérdidas y ganancias. Es una herramienta útil para la empresa porque su cálculo es sencillo, su interpretación resulta fácil y rápida, y además proporcionan información valiosa que permite fijar las directrices de la empresa.
 
 fl
 
@@ -4422,13 +4433,13 @@ El cálculo de los ratios se utiliza para conocer el estado de la empresa. Evalu
 
 fc--------------------......,..,...,........,,
 
-Por otra parte, estos índices son una fuente útil para las entidades financieras, que analizan la conveniencia de otorgar créditos, préstamos, líneas de descuento, servicios deconfirming, etcétera, en función de la solidez de la empresa.
+Por otra parte, estos índices son una fuente útil para las entidades financieras, que analizan la conveniencia de otorgar créditos, préstamos, líneas de descuento, servicios de confirming, etcétera, en función de la solidez de la empresa.
 
-Sin embargo, la utilidad de los ratios no estriba en el resultado del cálculo sino en su interpre tación, que se hará siempre teniendo en cuenta tres aspectos:
+Sin embargo, la utilidad de los ratios no estriba en el resultado del cálculo sino en su interpretación, que se hará siempre teniendo en cuenta tres aspectos:
 
 1. El contexto, ya que no es lo mismo la liquidez de una empresa recién constituida que una compañía con más de diez años asentada en el mercado.
 2. La integración ele todos los datos, esto es, evitar la elaboración de conclusiones con pocos ratios o considerándolas de manera aislada.
-3. La evolución de la ratso indica el tiempo más que el dato numérico.
+3. La evolución de la ratio indica el tiempo más que el dato numérico.
 
 i
 
@@ -4438,19 +4449,19 @@ i
 
 fS
 
-Los ratios sirven para conocer la rentabilidad, la liquidez y la solvencia de la ennpresa. Sus fór mulas ponen en relación e interpretan los datos que aparecen al elaborar un balance de situa ción. Para poder efectuar el cálculo de ratios es necesario dominar los siguientes conceptos:
+Los ratios sirven para conocer la rentabilidad, la liquidez y la solvencia de la empresa. Sus fór mulas ponen en relación e interpretan los datos que aparecen al elaborar un balance de situación. Para poder efectuar el cálculo de ratios es necesario dominar los siguientes conceptos:
 
 - Activos. Son los bienes de la empresa, tales como maquinaria, mobiliario, locales, materias primas, etc., así como sus derechos, esto es, derechos de cobro sobre facturas pendientes de pago, letras de cambio, etc.
 - Pasivos. Están integrados por el patrimonio neto, también llamados recursos propios de la empresa, que incluyen el capital social y las reservas, así como por sus obligaciones, que son las deudas que mantiene con sus acreedores, como la devolución de un préstamo solicitado.
 
-Los ratios suelen clasificarse en dos grandes grupos, en función de dónde se enfoque el análi sis de la empresa. Así pues, se puede hablar de:
+Los ratios suelen clasificarse en dos grandes grupos, en función de dónde se enfoque el análisis de la empresa. Así pues, se puede hablar de:
 
 - a) Ratios que analizan la rentabilidad de la empresa, es decir, el rendimiento que obtendrá el producto, la empresa o los inversores.
 - b) Ratios que estudian la liquidez y la solvencia de la compañía.
 
 La liquidez evalúa la disponibilidad de dinero o de activos que pueden convertirse fácil mente en dinero sin que esta conversión conlleve una pérdida de valor. Así, el dinero es el recurso más líquido de una empresa.
 
-Le sigue el realizable, que son los elementos que pueden ser fácilmente convertibles en dinero, por ejemplo, las deudas de los clientes. Por último, las existencias, que están for madas por el stock que comercializa la compañía y que, en cuanto se vendan, permitirán ingresar capital.
+Le sigue el realizable, que son los elementos que pueden ser fácilmente convertibles en dinero, por ejemplo, las deudas de los clientes. Por último, las existencias, que están formadas por el stock que comercializa la compañía y que, en cuanto se vendan, permitirán ingresar capital.
 
 La solvencia mide la capacidad que tiene la empresa de responder al pago de las deudas.
 
@@ -4458,8 +4469,7 @@ Un asiento contable es una anotación realizada en el libro Diario de contabilid
 
 ## Ratios para el análisis de la rentabilidad de la empresa
 
-| Rentabilidad económica (RE) | RE = (BAI [Beneficio Antes de Impuestos] / activo total) x 100 Pretende conocer la rentabilidad general de la ennpresa, es decir, el beneficio obtenido en función de los recursos monetarios puestos a su disposición, ya sean propios o ajenos. El cálculo se efectúa teniendo en cuenta el be neficio bruto obtenido en relación con el ac tivo total de la empresa. Se expresa en térmi nos porcentuales, por lo que el resultado se multiplica por 100. El resultado ofrece una medida del porcentaje de beneficios adquiridos en relación con el capital total invertido por la empresa. | La RE ofrece una medida del porcentaje de bene ficios adquiridos en relación con el capital total invertido por la empresa. Cuanto mayor sea el valor, mayor productividad de los activos y más eficiencia de la empresa. Tan importante es su valor absoluto como su ten dencia a lo largo del tiempo (creciente o decre ciente), y su análisis en comparación con los datos de otras empresas del sector y de la competencia. La rentabilidad económica mejora si aumentan las ventas, si se incrementa el margen de benefi cios sobre ventas (vender más caro o producir más barato) o si se reduce el activo o, mejor aún, com binando estas tres variables a la vez. |
-| --------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Rentabilidad económica (RE) | RE = (BAI [Beneficio Antes de Impuestos] / activo total) x 100 Pretende conocer la rentabilidad general de la empresa, es decir, el beneficio obtenido en función de los recursos monetarios puestos a su disposición, ya sean propios o ajenos. El cálculo se efectúa teniendo en cuenta el be neficio bruto obtenido en relación con el ac tivo total de la empresa. Se expresa en térmi nos porcentuales, por lo que el resultado se multiplica por 100. El resultado ofrece una medida del porcentaje de beneficios adquiridos en relación con el capital total invertido por la empresa. | La RE ofrece una medida del porcentaje de bene ficios adquiridos en relación con el capital total invertido por la empresa. Cuanto mayor sea el valor, mayor productividad de los activos y más eficiencia de la empresa. Tan importante es su valor absoluto como su ten dencia a lo largo del tiempo (creciente o decre ciente), y su análisis en comparación con los datos de otras empresas del sector y de la competencia. La rentabilidad económica mejora si aumentan las ventas, si se incrementa el margen de benefi cios sobre ventas (vender más caro o producir más barato) o si se reduce el activo o, mejor aún, com binando estas tres variables a la vez. |
 
 Tabla 5.2. Ratios para analizar la rentabilidad de una empresa (Continuación).
 
@@ -4540,7 +4550,7 @@ En la Tabla 5.4 se comparan los resultados de varios años consecutivos con el r
 
 Tabla 5.4. Ratios de El Corte Inglés desde 2002 hasta 2006.
 
-Fuente: http://www.scribd.eom/fullscreen/86055885?access\_key=key-1 is9l5atub9janxiohat El objetivo en esta unidad es que elabores el plan financiero de tu empresa. Para ello, rea lizarás previamente el plan de tesorería, la cuenta de pérdidas y ganancias y el balance de situación. Después analizarás los datos con el fin de identificar la viabilidad de tu empresa. Al finalizar el tema recogerás toda esta informa ción para el plan de empresa, en un apartado denominado: Plan financiero.
+Fuente: http://www.scribd.eom/fullscreen/86055885?access\_key=key-1 is9l5atub9janxiohat El objetivo en esta unidad es que elabores el plan financiero de tu empresa. Para ello, realizarás previamente el plan de tesorería, la cuenta de pérdidas y ganancias y el balance de situación. Después analizarás los datos con el fin de identificar la viabilidad de tu empresa. Al finalizar el tema recogerás toda esta informa ción para el plan de empresa, en un apartado denominado: Plan financiero.
 
 ## Fase 1. Cálculos previos
 
@@ -4954,7 +4964,7 @@ A continuación se propone la resolución de las cuentas de resultados de los do
 1. Como puede observarse, el resultado final es positivo, lo que significa que la empresa está obteniendo beneficios.
 
 - a) Este dato debería contrastarse con el de años anteriores, para comprobar si la ten dencia es alcista o si, por el contrario, a pesar de haber obtenido ganancias estas han disminuido.
-- h) También debe compararse con el contexto, ya que no es lo mismo este resultado en una época de crisis generalizada, como la actual, que en un momento de expansión económica.
+- b) También debe compararse con el contexto, ya que no es lo mismo este resultado en una época de crisis generalizada, como la actual, que en un momento de expansión económica.
 - c) El valor de esta cifra debe analizarse bajo el prisma de la situación propia de la em presa, ya que una empresa de reciente creación podría tener un resultado deficitario el primer año y estar dentro de lo esperable.
 
 2. El resultado de explotación es positivo, lo que significa que los buenos resultados se deben a la actividad de la empresa en sí misma.
@@ -5026,7 +5036,7 @@ Elabora el balance de tu empresa creando una tabla Excel,y luego extrae las conc
 ## Ayuda práctica:
 
 - a) A la hora de enfrentarte a la confección de vuestro balance de empresa, debes dife renciar entre activos y pasivos. La clave es discernir si forman parte del patrimonio de la empresa o son derechos de cobro, lo que constituirá el Activo, y cuáles suponen una deuda, que se anotarán en la columna de Pasivo.
-- h) Después, hay que ordenar los datos en cada columna. Para los activos, se considerará qué elementos tienen más dificultad en convertirse en líquido y, sobre esa base, se anotarán de arriba abajo. Por ejemplo, una patente es menos líquida que el stock acu mulado, razón por la que se anotará más arriba. De esta manera, el dinero en efectivo (el dato final del plan de tesorería) siempre está en la parte inferior y los inmuebles en la parte superior.
+- b) Después, hay que ordenar los datos en cada columna. Para los activos, se considerará qué elementos tienen más dificultad en convertirse en líquido y, sobre esa base, se anotarán de arriba abajo. Por ejemplo, una patente es menos líquida que el stock acu mulado, razón por la que se anotará más arriba. De esta manera, el dinero en efectivo (el dato final del plan de tesorería) siempre está en la parte inferior y los inmuebles en la parte superior.
 - c) En el caso del Pasivo se tendrá en cuenta si la deuda es a largo o corto plazo, para decidir el orden de colocación de arriba abajo. Así, el capital aportado por los socios se situará en la parte superior, ya que es una deuda permanente, mientras que el dinero pendiente de pago a proveedores se situará en la parte inferior. De la misma manera, las reservas se situarán en la parte superior del pasivo y ese dato se obtiene del resul tado final de la cuenta de ganancias y pérdidas.
 - d) Otro dato relevante a tener en cuenta es que el dato que se anota en el préstamo es el saldo que está pendiente de pago a final de año, de manera que si el préstamo era de 90000 euros, pero se ha amortizado (devuelto) 12000 euros, la deuda pendiente será de 78000 euros.
 
@@ -5265,7 +5275,7 @@ Las actividades de simulación efectuadas en esta unidad te han servido para rea
 ## Plan financiero
 
 - a) Incluye el plan de tesorería, la cuenta de resultados y el balance, junto a las conclu siones extraídas de cada uno de estos documentos.
-- h) Incorpora todas las reflexiones realizadas sobre estas cuestiones económicas y finan cieras.
+- b) Incorpora todas las reflexiones realizadas sobre estas cuestiones económicas y finan cieras.
 - c) Finaliza con un apartado que especifique los resultados del análisis de la viabilidad de vuestra empresa.
 
 1. El plan de tesorería sirve para conocer:
@@ -5278,28 +5288,28 @@ Las actividades de simulación efectuadas en esta unidad te han servido para rea
 2. En un plan de tesorería se anotan:
 
 - a) Las ganancias y las pérdidas de dinero.
-- h) Los bienes patrimoniales y las deudas.
+- b) Los bienes patrimoniales y las deudas.
 - c) Las entradas y salidas de dinero.
 - d) Todas son ciertas.
 
 3. En un plan de tesorería, si el saldo final acumulado es negativo:
 
 - a) Se habla de un déficit temporal de tesorería.
-- h) Se plantea la posibilidad de solicitar un crédito.
+- b) Se plantea la posibilidad de solicitar un crédito.
 - c) Pueden estar comprometidos los pagos a corto plazo.
 - d) Todas son correctas.
 
 4. La cuenta de resultados sirve para conocer:
 
 - a) Los elementos patrimoniales y las deudas de un año.
-- h) Los ingresos y gastos durante un año contable.
+- b) Los ingresos y gastos durante un año contable.
 - c) Las pérdidas y ganancias obtenidas durante el ejercicio contable.
 - d) Todas son correctas.
 
 5. En la cuenta de resultados se anotarán:
 
 - a) Los ingresos y gastos de dinero.
-- h) Los ingresos y gastos que supongan una variación patrimonial.
+- b) Los ingresos y gastos que supongan una variación patrimonial.
 - c) Los ingresos y gastos que no generen deudas en la empresa.
 - d) Todas son correctas.
 
@@ -5320,7 +5330,7 @@ Las actividades de simulación efectuadas en esta unidad te han servido para rea
 8. En el balance de una empresa se anotarán:
 
 - a) El resultado de la cuenta de pérdidas y ganancias.
-- h) El dato final del plan de tesorería.
+- b) El dato final del plan de tesorería.
 - c) Los activos y los pasivos.
 - d) Todas son correctas.
 
@@ -5362,7 +5372,7 @@ Las actividades de simulación efectuadas en esta unidad te han servido para rea
 14. El capital aportado por los socios se registrará en:
 
 - a) El plan de tesorería, por ser un ingreso de dinero.
-- h) El balance, por ser un pasivo a largo plazo.
+- b) El balance, por ser un pasivo a largo plazo.
 - c) En la cuenta de resultados no, ya que es un capital que habrá que reintegrar a los socios el día que, por ejemplo, quieran dejar la empresa.
 - d) Todas son correctas.
 
@@ -5376,9 +5386,9 @@ Las actividades de simulación efectuadas en esta unidad te han servido para rea
 16. Si se compran materias primas por valor de 50000 €, pero solo se abonan 20000 €, en la cuenta de resultados se anotará:
 
 - a) 50000 €, ya que la empresa está utilizando todas esas materias primas.
-- h) 50000 €, porque los beneficios o pérdidas están sujetos a la totalidad del uso de esos elementos.
+- b) 50000 €, porque los beneficios o pérdidas están sujetos a la totalidad del uso de esos elementos.
 - c) 20000 €, por ser lo único que ha producido un decremento patrimonial.
-- d) Las respuestas a) y h) son correctas.
+- d) Las respuestas a) y b) son correctas.
 
 17. Si vendemos productos por valor de 80000 € y nos dejan a deber 30000, en el plan de tesorería se anotará:
 
@@ -5422,7 +5432,7 @@ Las actividades de simulación efectuadas en esta unidad te han servido para rea
 5. Una empresa solicita un crédito por valor de 30000 € en julio para hacer frente a un posible déficit de tesorería en los meses de verano, ya que la previsión es de un bajo nivel de facturación. Finalmente, el verano transcurre con más ventas de las esperadas y no es necesario utilizar este capital, por lo que se cancela esta línea de crédito abierta en sep tiembre. Señala qué respuesta es la adecuada en cada apartado, para cada uno de estos documentos.
 
 - a) ¿Qué se anotará en el Plan de tesorería?
-- h) ¿Qué se incluirá en la Cuenta de resultados?
+- b) ¿Qué se incluirá en la Cuenta de resultados?
 - c) ¿Qué dato/s se incorporará/n al Balance?
 
 ## estión de la actividad comercial y financiera
@@ -5480,7 +5490,7 @@ En el año 2009 surgen los primeros síntomas de alerta:
 Junto a estas dificultades, ya que la empresa funciona como un sistema y se ve influida por el entorno en el que se desenvuelve su actividad, se producen las circunstancias siguientes:
 
 - a) Aumento del coste de las materias primas, lo que reduce el margen de beneficios.
-- h) Reducción de ventas por efecto de la crisis y la paralización del consumo.
+- b) Reducción de ventas por efecto de la crisis y la paralización del consumo.
 - c) Incremento de la competencia, la rivalidad aumenta por la caída del consumo. Los precios se disparan a la baja, lo que reduce aún más los beneficios.
 - d) Incremento de los gastos, por el aumento del precio de la electricidad, gasolina, etc.
 - e) Restricción de la financiación bancaria, como consecuencia del alto riesgo de morosidad y ante la falta de pago puntual de Nueva Rumasa a sus acreedores.
@@ -5713,7 +5723,7 @@ Según los datos del Instituto Nacional de Estadística (!NE), de septiembre de 
 
 Según el Banco de España, la tasa de morosidad de los créditos del sistema financiero espa ñol (bancos, cajas de ahorros, cooperativas y establecimientos financieros de crédito) cerró septiembre en el 10,7%, un nuevo máximo histórico desde 1994, cuando la mora se situó en un alarmante 9,15%. En diciembre de 2011, los créditos de dudoso cobro ascendían a más de 135000 millones de euros.
 
-Las compañías pueden defenderse de impagos por parte de los clientes contratando un servi cio defactoríng sin recurso que le exime de tramitar la reclamación, aunque a cambio pagará una comisión más alta a la empresa defactoring.
+Las compañías pueden defenderse de impagos por parte de los clientes contratando un servi cio deFactoring sin recurso que le exime de tramitar la reclamación, aunque a cambio pagará una comisión más alta a la empresa defactoring.
 
 Algunas empresas recurren a los servicios de una agencia de gestión de cobros, y pueden registrar a sus clientes en un fichero de morosos, como el fichero ASNEF Industrial de la Asociación Española para la Prevención de Impagados y Morosos (AEPIM). El fichero ASNEF incluye a los morosos que han sido declarados así por un acreedor que es miembro de esta asociación; el coste del proceso son 15 euros. Una vez se ha incorporado en el fichero, la AEPIM notifica al deudor su inclusión en el registro ASNEF.
 
@@ -5746,7 +5756,7 @@ La inclusión en uno de estos ficheros puede significar que, a la hora de pedir 
 Los intermediarios financieros (bancos, cajas de ahorro, etc.) reciben el dinero de los ahorra dores y lo ofrecen a empresas con déficits que necesitan recursos económicos. Básicamente se distinguen dos tipos de intermediarios: los hancarios y los no hancarios.
 
 - Intermediarios financieros bancarios. Está integrado por el Banco Central, la banca pri vada, las cajas de ahorro y las cooperativas de crédito. Captan los recursos de las unidades económicas con superávit, con productos que combinan distinto nivel de riesgo y rentabi lidad.
-- Intermediarios financieros no bancarios. Está compuesto por compañías aseguradoras, fondos de pensiones, sociedades de inversión, fondos de inversión, sociedades de crédito hipotecario, entidades de leasing, compañías defactoríng, sociedades mediadoras del mer cado de dinero y sociedades de garantía recíproca.
+- Intermediarios financieros no bancarios. Está compuesto por compañías aseguradoras, fondos de pensiones, sociedades de inversión, fondos de inversión, sociedades de crédito hipotecario, entidades de leasing, compañías deFactoring, sociedades mediadoras del mer cado de dinero y sociedades de garantía recíproca.
 
 Se caracterizan porque sus pasivos no son dinero, por lo que su actividad es más mediadora que la de los anteriores.
 
@@ -6075,7 +6085,7 @@ Redacta una carta en la que exijáis a un cliente el pago de una deuda.
 El sistema financiero se ha desarrollado para dar respuesta a todas las necesidades econó micas de las empresas, como ya vimos en la Unidad 4. Estas necesidades se concretan en dos grandes bloques:
 
 - Adquisición de activo fijo, como inmuebles, maquinaria, instrumentos de trabajo, etc. En definitiva, cualquier elemento necesario con permanencia superior a un año. Para ello, se usarán los fondos propios y, en caso de ser insuficientes, instrumentos financieros tales como préstamos, capital riesgo, leasing o rentlng, oficinas de coworking o viveros de em presa, etc.
-- Financiación del circulante, que se destinará a la compra de materias primas, a la cober tura puntual de déficits de tesorería, a imprevistos, etc. Estas necesidades de financiación son temporales, por lo que se tienen que ir cubriendo en un corto plazo de tiempo, inferior a un año. En este caso, se cubrirán con los ingresos generados en tesorería pero, en caso necesario, se recurrirá a contratar un crédito, servicios de confirming o defactoríng, líneas de descuento comercial, etc.
+- Financiación del circulante, que se destinará a la compra de materias primas, a la cober tura puntual de déficits de tesorería, a imprevistos, etc. Estas necesidades de financiación son temporales, por lo que se tienen que ir cubriendo en un corto plazo de tiempo, inferior a un año. En este caso, se cubrirán con los ingresos generados en tesorería pero, en caso necesario, se recurrirá a contratar un crédito, servicios de confirming o de Factoring, líneas de descuento comercial, etc.
 
 Como vimos al analizar el caso de Nueva Rumasa, al inicio de esta unidad, y al estudiar los ratios financieros en la Unidad 5, para que las necesidades de financiación de la empresa no comprometan su supervivencia, es preciso que buena parte de la financiación esté sustentada en fondos propios. Al menos, los gastos permanentes y de activo fijo deberían estar respalda dos por un patrimonio neto de cierta magnitud.
 
@@ -6253,7 +6263,7 @@ Las actividades de simulación realizadas en esta unidad te han servido para hac
 ## 1. Plan de aprovisionamiento
 
 - a) Especifica las medidas tomadas para organizar y gestionar el stock.
-- h) Incluye el plan de producción donde se contemplen las decisiones adoptadas con vuestros proveedores.
+- b) Incluye el plan de producción donde se contemplen las decisiones adoptadas con vuestros proveedores.
 
 ## 2. Obligaciones fiscales
 
@@ -6304,7 +6314,7 @@ Realiza el calendario fiscal en el que se contemplen los plazos en los cuales vu
 22. Busca una noticia de actualidad relacionada con una auditoría realizada a una empresa u organización social. Responde luego a estas cuestiones:
 
 - a) Resume qué objetivo pretendía la auditoría.
-- h) ¿Era obligatoria la realización de la auditoría o había sido solicitada por la empresa voluntariamente?
+- b) ¿Era obligatoria la realización de la auditoría o había sido solicitada por la empresa voluntariamente?
 - c) ¿ uarda alguna relación empresarial la auditoría con la empresa auditada o, por el contrario, se trata de compañías independientes?
 - d) ¿Recuerdas qué tipo de sociedad, de los estudiados en otra unidad didáctica previa, tenía como obligatoriedad la realización de una auditoría de cuentas?
 
@@ -7239,7 +7249,7 @@ v^..-&gt;;
 2. El nuevo marketing mix se enfoca a 4 Cs. Señala la C que no está incluida en este concepto:
 
 - a) Competencia.
-- h) Clientes.
+- b) Clientes.
 - c) Conveniencia.
 - d) Contexto.
 
@@ -7360,7 +7370,7 @@ v^..-&gt;;
 30. Visita este enlace http://www.expansion.com/2013/02/08/emprendedores-empleo/ mercado-laboral/1360352766.html y lee la información que aparece en él. Analiza la intencionalidad del protagonista de esta noticia y responde a estas preguntas.
 
 - a) De todos los tipos de marketing que hemos analizado en esta unidad didáctica, ¿en cuál la incluirías?
-- h) ¿Qué objetivo persigue? ¿Crees que lo ha alcanzado?
+- b) ¿Qué objetivo persigue? ¿Crees que lo ha alcanzado?
 - c) ¿Por qué crees que ha tenido tantas visitas en tan poco tiempo?
 - d) ¿Qué es Amazon y qué utilidad tiene?
 
@@ -7771,7 +7781,7 @@ Ahora únicamente queda incorporar al plan de empresa las últimas decisiones ad
 ## Acciones para la internacionalización
 
 - a) Incorpora las conclusiones a las que hayáis llegado en esta última actividad de Si mulación.
-- h) Razona qué fórmula pondríais en marcha para proceder a la internacionalización de vuestra empresa.
+- b) Razona qué fórmula pondríais en marcha para proceder a la internacionalización de vuestra empresa.
 
 Con esta última cuestión, ya has concluido tu proyecto empresarial.
 
@@ -7850,7 +7860,7 @@ Te animamos a consultar el blog: www.fpemprendedores.es, donde encontrarás noti
 9. Unajointventure es un proceso por el cual una empresa:
 
 - a) Se une a otra para formar una empresa nueva.
-- h) Compra acciones de otra empresa.
+- b) Compra acciones de otra empresa.
 - c) Firma un acuerdo de colaboración con otra empresa.
 - d) Integra una empresa en otra, de manera que esta última desaparece.
 
