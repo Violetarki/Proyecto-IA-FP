@@ -4388,9 +4388,24 @@ FUENTES DE FINACIACIÓN:
 
 1. Recursos propios: Capital semilla(Capital social, Cuenta ahorro-empresa, Capital riesgo, Business ángel, Crowdfunding, Coworking) o Capital de arranque/de expansión(Reservas, Nuevos socios, Subvenciones).
 
-2. Recursos ajenos: A largo plazo(Familia y amigos, Préstamo y SGR, Crédito, Descubierto bancario, Servicios financieros de entidades comerciales,    Títulos de deuda, Entidades de financiación pública) o A corto plazo(Crédito comercial, Descuento por pronto pago, Leasing, Renting, Confirming,    Descuento comercial, Factoring).
+2. Recursos ajenos: A largo plazo(Familia y amigos, Préstamo y SGR, Crédito, Descubierto bancario, Servicios financieros de entidades comerciales, Títulos de deuda, Entidades de financiación pública) o A corto plazo(Crédito comercial, Descuento por pronto pago, Leasing, Renting, Confirming, Descuento comercial, Factoring).
 
-## Test
+PLAN DE EMPRESA:
+
+- Idea del negocio
+- Socios trayectoria profesiona!
+- Estudio de mercado
+- Plan de producción
+- --> Plan financiero
+- Plan de aprovisionamiento
+- Obligaciones fiscales
+- Plan de marketing
+- Plan de RR.HH.
+- Acciones para la Internacionalización
+
+(Ver manual página 148)
+
+## Test de repaso
 
 1. El capital semilla puede proceder de:
 
@@ -4444,74 +4459,53 @@ FUENTES DE FINACIACIÓN:
 8. El leasing se diferencia del renting en:
 
 - a) No es posible sobre bienes inmuebles.
-
 - b) Permite desgravación fiscal.
-
 - c) El plazo de tiempo máximo.
-
 - d) Todas son correctas.
 
 9. Los business angels son:
 
 - a) Empresarios con experiencia y ganas de impulsar una empresa nueva.
-
 - b) Inversores particulares de empresas con gran potencial de crecimiento.
-
 - c) Ex-empresarios con dinero que invierten en empresas de gran potencial.
-
 - d) Son ciertas las respuestas a) y b).
 
 10. El aplazamiento en el pago a proveedores consiste en:
 
 - a) Aceptar la posibilidad de pagarle a plazos.
-
 - b) Devolver la factura cuando se recibe el pedido sin abonarla.
-
 - c) Financiar las necesidades de liquidez haciéndose moroso.
-
 - d) Todas son correctas.
 
 11. El servicio que se contrata con una entidad financiera para asegurarse del pago a provee dores se llama:
 
 - a) Descuento comercial.
-
 - b) Descubierto bancario.
-
 - c) Confirming.
-
 - d) Factoring.
 
 12. El Factoring guarda mucha similitud con otro producto financiero:
 
 - a) Descuento comercial.
-
 - b) Descubierto bancario.
-
 - c) Confirming.
-
 - d) Coworking.
 
 13. La posibilidad de que el banco adelante el importe de las deudas pendientes de cobro se denomina:
 
 - a) Descuento de efectos.
-
 - b) Descubierto bancario.
-
 - c) Crédito comercial.
-
 - d) Factoring.
 
 14. La diferencia entre crédito y préstamo es:
 
 - a) El préstamo supone mayor interés.
-
 - b) El préstamo suelen ser cantidades menores pero a más largo plazo.
-
 - c) En el préstamo se recibe un dinero; en el crédito, está disponible.
-
 - d) Todas son correctas.
 
-## -------------
+## Comprueba tu aprendizaje
 
 1. ¿Qué se entiende por capital semilla?
 2. ¿Qué motivaciones crees que tiene el capital riesgo para invertir su dinero en empresas con alto potencial de crecimiento?
@@ -4543,7 +4537,7 @@ FUENTES DE FINACIACIÓN:
 28. Busca una subvención que se ofrezca en tu comunidad autónoma. Analiza si el ayuntamiento de tu localidad de residencia también ofrece algún tipo de apoyo a la creación de empresas. Si encuentras varias alternativas, reflexiona a qué colectivo se dirigen con más preferencia: pueden estar dirigidas a gente joven, a la mujer emprendedora, a la renovación de inmovilizado, a sectores empresariales con escasa presencia en el tejido empresarial de la zona, al impulso de nuevas tecnologías, etc.
 29. Imagina que trabajaras en un organismo público responsable de conceder subvenciones para apoyar la creación o el mantenimiento de empresas. Señala qué tipo de subvenciones concederías, a quién irían dirigidas, qué requisitos plantearías y qué cantidad ofrecerías. Trata de redactar una respuesta realista, ya que no contarías con un presupuesto ilimitado y las empresas que subvencionaras podrían suponer un coste de oportunidad para otras actividades que podrían ser más necesarias o rentables para la zona.
 
-# Viabilidad empresarial
+# 5. Viabilidad empresarial
 
 ## En esta unidad aprenderemos a:
 
@@ -4564,18 +4558,20 @@ FUENTES DE FINACIACIÓN:
 - El punto de equilibrio.
 - Elaboración de balances y cuenta de pérdidas y ganancias.
 
-2. Durante un tiempo, todas las etiquetas de las tiendas de Mercadona indicaban el precio de sus productos en color amarillo, ¿a qué crees que se debía esto?
-3. Expresa tu opinión sobre la cita contenida en la última frase del texto.
-
 ## John Maynard Keynes, economista británico.
 
 «Si te debo una libra tengo un problema. Si te debo un millón» el problema es tuyo.»
 
-## 5. Viabilidad empresarial
+## Actividad
+
+2. Durante un tiempo, todas las etiquetas de las tiendas de Mercadona indicaban el precio de sus productos en color amarillo, ¿a qué crees que se debía esto?
+3. Expresa tu opinión sobre la cita contenida en la última frase del texto.
+
+## Conceptos básicos
 
 En este apartado vamos a recordar algunos conceptos que te serán útiles para realizar la Simulación, tales como:
 
-ingresos y gastos benefiCiOS y pérdidas tesorería patrimonio ratJOS viabilidad foalafiC© solvencia cuenta de resultados pérdidas entradas y salidas inversión liquidez
+ingresos y gastos beneficios y pérdidas tesorería patrimonio ratios viabilidad balance solvencia cuenta de resultados pérdidas entradas y salidas inversión liquidez
 
 ## A. Plan financiero
 
@@ -4599,9 +4595,35 @@ La actualidad muestra que estos aspectos son responsables de las dificultades y 
 
 La viabilidad de una empresa se puede estudiar desde distintos puntos de vista. Los datos a analizar, así como las decisiones posteriores a adoptar, serán diferentes según el tipo de viabilidad que se aplique.
 
-## En la Tabla 5.1 se detallan distintos tipos de análisis de viabilidad:
+En la Tabla 5.1 se detallan distintos tipos de análisis de viabilidad:
 
-Tabla 5.1. Tipos de análisis de viabilidad de una empresa.
+## Tabla 5.1. Tipos de análisis de viabilidad de una empresa.
+
+- Viabilidad económica:
+
+Evalúa si la inversión producirá una rentabilidad en términos económicos y, en caso de existir varias alternativas, cuál resultaría más eficiente, es decir, cuál de ellas supondría un coste mínimo para una óptima satisfacción. Para ello, se calcula el VAN (Valor Actual Neto), que indica la inversión necesaria después de restarle los intereses. Este indicador debe ser positivo tivo para que la inversión valga la pena. Otro indicador es el TIR (Tasa Interna de Retorno), que varía en función del VAN que señala el valor de los intereses partir del cual es rentable hacer la inversión.
+
+- Viabilidad financiera:
+
+Analiza si existen recursos suficientes para llevar cabo la actividad o, en caso contrario, si se pueden conseguir. En este análisis no se considera el coste de la financiación, que se tiene en cuenta en la viabilidad económica, sino su disponibilidad, por ello, menudo se analiza conjuntamente la viabilidad económico-financiera de un proyecto.
+
+- Viabilidad comercial:
+
+Estima si existe un mercado potencial para el producto la manera óptima de lanzarlo (está vinculado con el plan de marketingy con el análisis DAFO, estudiado en la Unidad 2).
+
+- Viabilidad legal o jurídica:
+
+Establece si la actividad cumple con la normativa vigente del área territorial donde se va a desarrollar. Es un aspecto vital cuando se busca internacionalizar la empresa, ya que no todos los paises tienen el mismo desarrollo legal. Una cuestión fundamental dentro del cumplimiento de la normativa legal es aquella relativa a los riesgos laborales. España sigue ocupando un lugar poco deseable en cuanto índice de siniestralidad, razón por la que es obligatorio que todas las empresas incorporen un plan de Prevención de riesgos.
+
+- Viabilidad medioambiental: Trata de definir el impacto de la actividad empresarial en el entorno natural humano, en cuanto la emisión de residuos o de generar contaminación lumínica, acústica, química, etc. Una empresa viable desde un punto de vista medioambiental es aquella que no daña la
+  atmósfera, la naturaleza la población humana o, incluso, la que reduce, reutiliza recicla.
+
+- Viabilidad técnica: Estima los recursos materiales necesarios sus condiciones para garantizar el buen funcionamiento del proyecto, así se estudian las condiciones de seguridad de la tecnología, verificando su resistencia, durabilidad, implicaciones energéticas, etc.
+
+## Normativa para la regulación de los riesgos laborales
+
+Ley 31/1995, de de noviembre, de Prevención de Riesgos Laborales.
+Ley 54/2003, de de noviembre, de reforma del marco normativo de la Prevención de Riesgos Laborales.
 
 ## Ejemplo 1. Viabilidad económica
 
@@ -4658,7 +4680,7 @@ como [...] ya que, por una parte, evitar la fructificación "implicará una redu
 
 Fuente: Levante. Valencia, 22 de noviembre de 2012 [en línea]
 
-## «Una empresa persigue descontaminar suelos y aguas subterráneas»
+«Una empresa persigue descontaminar suelos y aguas subterráneas»
 
 «Además de reducir la contaminación, consigue una restauración ambiental total del suelo, mediante técnicas de descontaminación biológica y química. Los ensayos fina les se realizarán en un emplazamiento real contaminado para demostrar la viabilidad [...], [...]. Y [...] del nuevo proceso. La empresa Bioxisoil cuenta con un presupuesto de casi tres millones de euros».
 
@@ -4672,29 +4694,29 @@ El punto muerto se calcula integrando el gasto unitario, que incluiría el coste
 
 El cálculo del punto muerto se efectúa partiendo de la siguiente formulación matemática:
 
-## Beneficio = Ingresos totales - Costes totales
+- Beneficio = Ingresos totales - Costes totales
 
 Los ingresos totales pueden calcularse teniendo en cuenta el número de unidades vendidas por el precio de venta unitario:
 
-## Ingresos totales = precio unitario X número de unidades vendidas -p X Q
+- Ingresos totales = precio unitario X número de unidades vendidas -p X Q
 
 Los costes totales son el resultado de sumar los costes fijos con los costes variables. Estos últimos, a su vez, pueden conseguirse calculando los costes variables de producir una unidad por el número de unidades vendidas. Es decir,
 
-## Costes totales = Costes fijos + Costes variables
+- Costes totales = Costes fijos + Costes variables
 
-Costes totales = Costes fijos + Costes variables unitarios X Número de unidades vendidas
+- Costes totales = Costes fijos + Costes variables unitarios \* Número de unidades vendidas
 
 A partir de estas fórmulas, igualando costes con ingresos y despejando términos, resultaría que el punto muerto o el umbral de rentabilidad de un producto cualquiera se podría calcular con la siguiente fórmula:
 
-## Q = Costes fijos / (Precio unitario - Costes medios unitarios)
+- Q = Costes fijos / (Precio unitario - Costes medios unitarios)
 
 Si el número de ventas a realizar resultara demasiado alto para las expectativas de la empresa, habría varias medidas que podrían adoptarse para rebajar el punto muerto, como: reducir los costes fijos, reducir los costes variables o aumentar el precio de venta.
 
 En la Figura 5.1 te mostramos la representación gráfica del punto muerto.
 
-Fig. 5.1. Representación gráfica del punto muerto.
+Fig. 5.1. Representación gráfica del punto muerto.(ver libro p.160)
 
-Fuente: http://wvw.pymesyautonomos.com/mar^
+Fuente: http://wvw.pymesyautonomos.com/marketing-y-comercial/calcula-tu-umbral-de-rentabilidad-punto-muerto
 
 ## D. Ratios
 
@@ -4702,19 +4724,7 @@ Los ratios son índices o valores numéricos que permiten efectuar el análisis 
 
 Estos índices se basan en los datos aportados por el Balance y la cuenta de Pérdidas y ganancias. Es una herramienta útil para la empresa porque su cálculo es sencillo, su interpretación resulta fácil y rápida, y además proporcionan información valiosa que permite fijar las directrices de la empresa.
 
-fl
-
-B
-
-s
-
-g
-
-i
-
 El cálculo de los ratios se utiliza para conocer el estado de la empresa. Evaluar si la empresa debe realizar alguna inversión para incrementar ventas, analizar si su endeudamiento es provechoso o, por el contrario, si es preferible reducir el nivel de deudas, o bien, analizar si la empresa es solvente o está en riesgo de impago, estos son algunos de los motivos por los que es necesario calcular los ratios.
-
-fc--------------------......,..,...,........,,
 
 Por otra parte, estos índices son una fuente útil para las entidades financieras, que analizan la conveniencia de otorgar créditos, préstamos, líneas de descuento, servicios de confirming, etcétera, en función de la solidez de la empresa.
 
@@ -4724,20 +4734,16 @@ Sin embargo, la utilidad de los ratios no estriba en el resultado del cálculo s
 2. La integración ele todos los datos, esto es, evitar la elaboración de conclusiones con pocos ratios o considerándolas de manera aislada.
 3. La evolución de la ratio indica el tiempo más que el dato numérico.
 
-i
+## Los ratios sirven
 
-i
-
-i
-
-fS
-
-Los ratios sirven para conocer la rentabilidad, la liquidez y la solvencia de la empresa. Sus fór mulas ponen en relación e interpretan los datos que aparecen al elaborar un balance de situación. Para poder efectuar el cálculo de ratios es necesario dominar los siguientes conceptos:
+para conocer la rentabilidad, la liquidez y la solvencia de la empresa. Sus fór mulas ponen en relación e interpretan los datos que aparecen al elaborar un balance de situación. Para poder efectuar el cálculo de ratios es necesario dominar los siguientes conceptos:
 
 - Activos. Son los bienes de la empresa, tales como maquinaria, mobiliario, locales, materias primas, etc., así como sus derechos, esto es, derechos de cobro sobre facturas pendientes de pago, letras de cambio, etc.
 - Pasivos. Están integrados por el patrimonio neto, también llamados recursos propios de la empresa, que incluyen el capital social y las reservas, así como por sus obligaciones, que son las deudas que mantiene con sus acreedores, como la devolución de un préstamo solicitado.
 
-Los ratios suelen clasificarse en dos grandes grupos, en función de dónde se enfoque el análisis de la empresa. Así pues, se puede hablar de:
+## Los ratios suelen clasificarse en
+
+dos grandes grupos, en función de dónde se enfoque el análisis de la empresa. Así pues, se puede hablar de:
 
 - a) Ratios que analizan la rentabilidad de la empresa, es decir, el rendimiento que obtendrá el producto, la empresa o los inversores.
 - b) Ratios que estudian la liquidez y la solvencia de la compañía.
@@ -4748,49 +4754,68 @@ Le sigue el realizable, que son los elementos que pueden ser fácilmente convert
 
 La solvencia mide la capacidad que tiene la empresa de responder al pago de las deudas.
 
-Un asiento contable es una anotación realizada en el libro Diario de contabilidad, con la finalidad de registrar un hecho económico que provoca una variación del patrimonio de la empresa.
+## Un asiento contable
+
+es una anotación realizada en el libro Diario de contabilidad, con la finalidad de registrar un hecho económico que provoca una variación del patrimonio de la empresa.
 
 ## Ratios para el análisis de la rentabilidad de la empresa
 
+| Ratio | Cálculo | Interpretación |
+
 | Rentabilidad económica (RE) | RE = (BAI [Beneficio Antes de Impuestos] / activo total) x 100 Pretende conocer la rentabilidad general de la empresa, es decir, el beneficio obtenido en función de los recursos monetarios puestos a su disposición, ya sean propios o ajenos. El cálculo se efectúa teniendo en cuenta el be neficio bruto obtenido en relación con el ac tivo total de la empresa. Se expresa en térmi nos porcentuales, por lo que el resultado se multiplica por 100. El resultado ofrece una medida del porcentaje de beneficios adquiridos en relación con el capital total invertido por la empresa. | La RE ofrece una medida del porcentaje de bene ficios adquiridos en relación con el capital total invertido por la empresa. Cuanto mayor sea el valor, mayor productividad de los activos y más eficiencia de la empresa. Tan importante es su valor absoluto como su ten dencia a lo largo del tiempo (creciente o decre ciente), y su análisis en comparación con los datos de otras empresas del sector y de la competencia. La rentabilidad económica mejora si aumentan las ventas, si se incrementa el margen de benefi cios sobre ventas (vender más caro o producir más barato) o si se reduce el activo o, mejor aún, com binando estas tres variables a la vez. |
 
-Tabla 5.2. Ratios para analizar la rentabilidad de una empresa (Continuación).
+| Ratio | Cálculo | Interpretación |
 
 | Rentabilidad financiera (RF) | RF = (BDI [Beneficios Después de Impuestos] / recursos propios) x 100 Evalúa el beneficio que los propietarios o accionistas de la empresa están teniendo. Si se compara con la rentabilidad de otros produc tos financieros, los socios tendrán una valora ción del coste de oportunidad de invertir sus recursos en la empresa, en lugar de emplear los en otras acciones más ventajosas desde un punto de vista económico. Sin embargo, como ya señalamos en la Unidad 4, el coste de oportunidad no siempre es cuan- tificable, pues hay elementos subjetivos que no pueden valorarse con dinero, como la satis facción de desarrollar una actividad por cuenta propia o la experiencia adquirida que incre mentará posibilidades futuras. Los emprende dores de éxito siempre se han sobrepuesto a un fracaso o a situaciones adversas, y son pre cisamente estas circunstancias desfavorables las que les han hecho mejorar su competencia profesional y ser más resolutivos. La rentabilidadfinanciera se calcula dividiendo los beneficios netos entre los recursos propios de la empresa y se multiplica el resultado por cien para obtener un porcentaje. | Es fundamental el valor de este ratio de cara a con seguir nuevos inversores. Cuanto mayor sea, más atractiva será la empresa para ellos. La rentabilidad financiera puede mejorarse como el rendimiento económico, incrementando ventas o reduciendo activo o aumentando el margen sobre ventas, pero también incide un efecto llamado apalancamientofinanciero. El apalancamiento financiero consiste en usar endeudamiento para financiar una operación, es decir, pedir prestado para poder realizar alguna acción, como comprar un inmueble, activo fijo o materias primas. De esta manera, se puede gastar por un importe superior al capital que se posee, lo que incrementa la rentabilidad de la acción y eso constituye su principal ventaja. El inconveniente es el riesgo implícito a la solicitud de fondos aje nos, es decir, que la inversión no produzca el efecto deseado y no haya entonces un ingreso que ase gure la devolución del préstamo. Por ejemplo, si las materias primas compradas no se han podido vender, la empresa no consigue beneficio y com promete su solvencia. |
 
-## Ratios para el análisis de la liquidez y la solvencia de la empresa
+## Tabla 5.3. Ratios para el análisis de la liquidez y la solvencia de la empresa
+
+| Ratio | Cálculo | Interpretación |
 
 | Ratio de liquidez (RL) o solvencia a corto plazo | RL = activo circulante / pasivo circulante = = (disponible + realizable + existencias) / exi gíble a corto plazo Este cociente analiza la capacidad de hacer frente al pago de las deudas que vencen antes de un año. La diferencia con el ratio de tesorería radica en que una empresa puede no tener cash, aunque puede conseguirlo de forma casi inmediata, por ejemplo, realizando unas ofertas o des cuentos para incrementar las ventas. Por este motivo, en el cálculo de este ratio se tiene en cuenta las existencias o stock que puede materializarse en dinero líquido: • El activo circulante incluye el activo dispo nible, el activo realizable y las existencias. • El pasivo circulante se compone de la financiación a corto plazo. | El valor óptimo se sitúa entre 1,5 y 2. Un dato menor alertaría sobre dificultades finan cieras; podría haber problemas de liquidez, con el riesgo de caer en una situación de suspensión de pagos. Si es muy elevado indicaría que tenemos recursos improductivos que disminuyen nuestra rentabilidad. El cociente informa, por tanto, del valor de los bie nes a los que la firma puede recurrir para hacer frente a sus deudas a corto plazo. En empresas dedicadas a actividades comerciales o industriales habrá una diferencia significativa entre el ratio de liquidez y el de tesorería. En cambio, será mínima en empresas de servicios por la falta de stock. |
 
-| Ratio de tesorería (RT)o cociente ácido | RT = (disponible + realizable) / pasivo circu lante Este dato mide las posibilidades de respon der a las obligaciones de pago a corto plazo. Es un indicador de la distancia a la suspensión de pagos. Pone en relación el activo disponible y el activo realizable con el pasivo circulante. • El activo disponible incluye la tesorería y las inversiones financieras temporales. • El activo realizable señala los deudores que satisfarán su deuda en menos de un año. • El pasivo circulante se refiere al exigible a corto plazo, como los acreedores por deu das que vencen antes de un año. | Su valor óptimo debe estar cerca de la unidad o en torno al 0,75, lo que vendría a significar que la empresa puede cubrir los gastos venideros. Un valor por debajo de 1 alertaría sobre la falta de cash-flow o flujo de caja para atender los pagos inmediatos. Mientras que un valor muy superior a la unidad avisa de que la empresa tiene un exceso de recursos ociosos que deben ser reducidos o invertidos en un producto que ofrezca rentabi lidad. Este análisis dependerá del momento económico, ya que en una situación de crisis generalizada y de gran incertidumbre, donde las empresas acusan la interrupción de los créditos, será mejor contar con un exceso de tesorería que tener el límite de recur sos disponibles bajo. Es un ratio de situación financiera a muy corto plazo, al incluir entre los elementos activos solo aquellos que ya son disponibles o que precisan úni camente la última fase del ciclo de explotación (el cobro) para transformarse en efectivo. Los sectores que presentan mayores ratios de teso rería son los servicios financieros, los seguros y los servicios a las empresas. En los tramos inferiores del RT se encuentran la hostelería y restauración, los servicios inmobiliarios y la energía. |
+| Ratio | Cálculo | Interpretación |
+
+| Ratio de tesorería (RT) o cociente ácido | RT = (disponible + realizable) / pasivo circu lante Este dato mide las posibilidades de respon der a las obligaciones de pago a corto plazo. Es un indicador de la distancia a la suspensión de pagos. Pone en relación el activo disponible y el activo realizable con el pasivo circulante. • El activo disponible incluye la tesorería y las inversiones financieras temporales. • El activo realizable señala los deudores que satisfarán su deuda en menos de un año. • El pasivo circulante se refiere al exigible a corto plazo, como los acreedores por deu das que vencen antes de un año. | Su valor óptimo debe estar cerca de la unidad o en torno al 0,75, lo que vendría a significar que la empresa puede cubrir los gastos venideros. Un valor por debajo de 1 alertaría sobre la falta de cash-flow o flujo de caja para atender los pagos inmediatos. Mientras que un valor muy superior a la unidad avisa de que la empresa tiene un exceso de recursos ociosos que deben ser reducidos o invertidos en un producto que ofrezca rentabi lidad. Este análisis dependerá del momento económico, ya que en una situación de crisis generalizada y de gran incertidumbre, donde las empresas acusan la interrupción de los créditos, será mejor contar con un exceso de tesorería que tener el límite de recur sos disponibles bajo. Es un ratio de situación financiera a muy corto plazo, al incluir entre los elementos activos solo aquellos que ya son disponibles o que precisan úni camente la última fase del ciclo de explotación (el cobro) para transformarse en efectivo. Los sectores que presentan mayores ratios de teso rería son los servicios financieros, los seguros y los servicios a las empresas. En los tramos inferiores del RT se encuentran la hostelería y restauración, los servicios inmobiliarios y la energía. |
+
+| Ratio | Cálculo | Interpretación |
 
 | Ratio de disponibi lidad (RD) | RD = disponible / exigible a corto plazo Muestra los recursos disponibles de la em presa, para conocer si están siendo infrautili- zados. | El valor debe rondar el 0,1 o 0,3 ya que se espera que los fondos líquidos supongan el 10% del total de las deudas que mantiene la empresa con un vencimiento inferior a un año. Este ratio puede tener grandes oscilaciones a lo largo del año. No obstante, la valoración del dato depende del tipo de empresa, ya que en aquellas donde se cobra de manera permanente, debido a ingresos conti nuos por ventas, el valor puede ser un poco más bajo. |
 | Ratio de garantía estructural (R E), o de solvencia total, o de distancia a la quiebra | R E = activo real / exigible total Este valor analiza la garantía que tienen los acreedores de cobrar sus deudas, puesto que pone en relación los activos totales de la empresa con las obligaciones contraídas. El activo real se calcula restando a los acti vos los gastos de constitución y de puesta en marcha. | Este ratio mide la solvencia de una manera más real, eliminando del cálculo el activo ficticio (gas tos de constitución, etc.), parte intangible y no embargable del activo total. Así, el activo real es aquel que en caso de liquidación de la empresa puede convertirse en dinero líquido para hacer frente a las posibles deudas. El resultado recomendable debe estar situado entre el 1,5-2. Por debajo de este valor, la compa ñía estaría en riesgo de quiebra, por tanto, de no poder responder a las deudas pendientes de pago. Por este motivo, también se denomina a este valor como distancia a la quiebra. Cuanto mayor es el ratio, mayor garantía ofrece la empresa del pago de todas sus deudas contraídas. |
 
-r
+| Ratio | Cálculo | Interpretación |
 
-Tabla 5.3. Ratios para analizar la liquidez y solvencia de una empresa (Continuación).
+| Ratio de endeuda miento financiero (REF) | REF = exigible total / pasivo total Este cociente analiza el peso de las deudas respecto al pasivo total de la empresa. Por tanto, tendrá un valor alto en aquellas empresas que carecen de recursos propios para financiarse y deben acudir, por ello, a fuentes exter nas de financiación. El REF mide el riesgo financiero de la empresa e indica su capacidad de en deudamiento. | Dado que la fuente principal de financiación de la empresa deben ser los fondos propios, un valor ideal de este ratio es alrededor de 0,5, lo que indicaría un equilibrio entre la deuda a corto plazo y el capital permanente de la empresa; en otras palabras, que la empresa se financia tanto con recursos propios como con medios ajenos. Cuanto mayor sea el pasivo corriente, más peligro de insolvencia y de falta de liquidez para nuestra empresa y a la inversa, una deuda a largo plazo ofrecerá más margen a la empresa para responder de sus deudas. Un valor superior a 0,5 alertaría sobre el exceso de endeu damiento de la empresa o, lo que es lo mismo, sobre su descapitalización. La descapitalización supone el empobrecimiento o pér dida de riqueza de la empresa. Tiene lugar cuando los ele | Dado que la fuente principal de financiación de la empresa deben ser los fondos propios, un valor ideal de este ratio es alrededor de 0,5, lo que indicaría un equilibrio entre la deuda a corto plazo y el capital permanente de la empresa; en otras palabras, que la empresa se financia tanto con recursos propios como con medios ajenos. Cuanto mayor sea el pasivo corriente, más peligro de insolvencia y de falta de liquidez para nuestra empresa y a la inversa, una deuda a largo plazo ofrecerá más margen a la empresa para responder de sus deudas. Un valor superior a 0,5 alertaría sobre el exceso de endeu damiento de la empresa o, lo que es lo mismo, sobre su descapitalización. La descapitalización supone el empobrecimiento o pér dida de riqueza de la empresa. Tiene lugar cuando los ele | Dado que la fuente principal de financiación de la empresa deben ser los fondos propios, un valor ideal de este ratio es alrededor de 0,5, lo que indicaría un equilibrio entre la deuda a corto plazo y el capital permanente de la empresa; en otras palabras, que la empresa se financia tanto con recursos propios como con medios ajenos. Cuanto mayor sea el pasivo corriente, más peligro de insolvencia y de falta de liquidez para nuestra empresa y a la inversa, una deuda a largo plazo ofrecerá más margen a la empresa para responder de sus deudas. Un valor superior a 0,5 alertaría sobre el exceso de endeu damiento de la empresa o, lo que es lo mismo, sobre su descapitalización. La descapitalización supone el empobrecimiento o pér dida de riqueza de la empresa. Tiene lugar cuando los elementos patrimoniales pierden importancia, al aumentar el peso de su deuda. |
 
-| Ratlo de endeuda miento financiero (REF) | REF = exigible total / pasivo total Este cociente analiza el peso de las deudas respecto al pasivo total de la empresa. Por tanto, tendrá un valor alto en aquellas empresas que carecen de recursos propios para financiarse y deben acudir, por ello, a fuentes exter nas de financiación. El REF mide el riesgo financiero de la empresa e indica su capacidad de en deudamiento. | Dado que la fuente principal de financiación de la empresa deben ser los fondos propios, un valor ideal de este ratio es alrededor de 0,5, lo que indicaría un equilibrio entre la deuda a corto plazo y el capital permanente de la empresa; en otras palabras, que la empresa se financia tanto con recursos propios como con medios ajenos. Cuanto mayor sea el pasivo corriente, más peligro de insolvencia y de falta de liquidez para nuestra empresa y a la inversa, una deuda a largo plazo ofrecerá más margen a la empresa para responder de sus deudas. Un valor superior a 0,5 alertaría sobre el exceso de endeu damiento de la empresa o, lo que es lo mismo, sobre su descapitalización. La descapitalización supone el empobrecimiento o pér dida de riqueza de la empresa. Tiene lugar cuando los ele | Dado que la fuente principal de financiación de la empresa deben ser los fondos propios, un valor ideal de este ratio es alrededor de 0,5, lo que indicaría un equilibrio entre la deuda a corto plazo y el capital permanente de la empresa; en otras palabras, que la empresa se financia tanto con recursos propios como con medios ajenos. Cuanto mayor sea el pasivo corriente, más peligro de insolvencia y de falta de liquidez para nuestra empresa y a la inversa, una deuda a largo plazo ofrecerá más margen a la empresa para responder de sus deudas. Un valor superior a 0,5 alertaría sobre el exceso de endeu damiento de la empresa o, lo que es lo mismo, sobre su descapitalización. La descapitalización supone el empobrecimiento o pér dida de riqueza de la empresa. Tiene lugar cuando los ele | Dado que la fuente principal de financiación de la empresa deben ser los fondos propios, un valor ideal de este ratio es alrededor de 0,5, lo que indicaría un equilibrio entre la deuda a corto plazo y el capital permanente de la empresa; en otras palabras, que la empresa se financia tanto con recursos propios como con medios ajenos. Cuanto mayor sea el pasivo corriente, más peligro de insolvencia y de falta de liquidez para nuestra empresa y a la inversa, una deuda a largo plazo ofrecerá más margen a la empresa para responder de sus deudas. Un valor superior a 0,5 alertaría sobre el exceso de endeu damiento de la empresa o, lo que es lo mismo, sobre su descapitalización. La descapitalización supone el empobrecimiento o pér dida de riqueza de la empresa. Tiene lugar cuando los ele |
-|
+| Ratio | Cálculo | Interpretación |
+
 | Ratio de autonomía financiera (RAF) | RAF = recursos propios / exigible total Este valor señala la independencia de la empresa con respecto a recursos aje nos. Por esta razón, con este dato se pretende conocer el nivel óptimo de endeudamiento de una empresa. | Su valor normal debería ser superior a 1, lo que indicaría una situación de independencia de fondos ajenos. Cuanto mayor sea esta relación, menos dependerá de la compañía de acreedores. La interpretación de este dato depende del sector de acti vidad de la empresa, ya que hay actividades que requie ren un uso constante de fuentes externas de financiación, como la investigación, enseñanza o las instituciones sin fines de lucro. La independencia financiera está íntimamente ligada a la solvencia, entendida esta en sentido amplio, es decir, como la garantía aportada por los activos y por la pro ducción de flujos de tesorería para atender al coste de los recursos propios y ajenos, y al reintegro de estos últimos. Este ratio es el inverso al de endeudamiento. Como es lógico suponer, ya que miden aspectos contrapuestos, las compañías con un RAF alto tienen, en cambio, un bajo resultado en el ratio REF y viceversa. | Su valor normal debería ser superior a 1, lo que indicaría una situación de independencia de fondos ajenos. Cuanto mayor sea esta relación, menos dependerá de la compañía de acreedores. La interpretación de este dato depende del sector de acti vidad de la empresa, ya que hay actividades que requie ren un uso constante de fuentes externas de financiación, como la investigación, enseñanza o las instituciones sin fines de lucro. La independencia financiera está íntimamente ligada a la solvencia, entendida esta en sentido amplio, es decir, como la garantía aportada por los activos y por la pro ducción de flujos de tesorería para atender al coste de los recursos propios y ajenos, y al reintegro de estos últimos. Este ratio es el inverso al de endeudamiento. Como es lógico suponer, ya que miden aspectos contrapuestos, las compañías con un RAF alto tienen, en cambio, un bajo resultado en el ratio REF y viceversa. | Su valor normal debería ser superior a 1, lo que indicaría una situación de independencia de fondos ajenos. Cuanto mayor sea esta relación, menos dependerá de la compañía de acreedores. La interpretación de este dato depende del sector de acti vidad de la empresa, ya que hay actividades que requie ren un uso constante de fuentes externas de financiación, como la investigación, enseñanza o las instituciones sin fines de lucro. La independencia financiera está íntimamente ligada a la solvencia, entendida esta en sentido amplio, es decir, como la garantía aportada por los activos y por la pro ducción de flujos de tesorería para atender al coste de los recursos propios y ajenos, y al reintegro de estos últimos. Este ratio es el inverso al de endeudamiento. Como es lógico suponer, ya que miden aspectos contrapuestos, las compañías con un RAF alto tienen, en cambio, un bajo resultado en el ratio REF y viceversa. |
-| Fondo de maniobra (FM) | FM = activo corriente - pasivo corriente FM = activo no corriente - patrimonio neto - pasivo no corriente Es una medida de seguridad con que la empresa puede hacer frente al poten cial descuadre entre la corriente de cobros y la de pagos. Con el fin de evi tar problemas financieros, es preciso que lo que se cobre antes de un año sea superior a los pagos pendientes del mismo periodo de tiempo. Este ratio se calcula de dos maneras diferentes: o bien, como el activo cir culante menos el pasivo circulante, o bien, como el activo fijo menos el pasivo fijo. | Un valor negativo genera desconfianza hacia la viabili dad de la empresa, ya que parte del activo inmovilizado se financia con los recursos ajenos a corto plazo, es decir, con las deudas pendientes de cobro en un plazo inferior a un año. En esta figura se puede observar la representación gráfi ca del fondo de maniobra. Hay que destacar que los nom bres con los que se designan los diferentes elementos varían, sin embargo, ambas figuras representan lo mismo (Fig. 5.2). | Un valor negativo genera desconfianza hacia la viabili dad de la empresa, ya que parte del activo inmovilizado se financia con los recursos ajenos a corto plazo, es decir, con las deudas pendientes de cobro en un plazo inferior a un año. En esta figura se puede observar la representación gráfi ca del fondo de maniobra. Hay que destacar que los nom bres con los que se designan los diferentes elementos varían, sin embargo, ambas figuras representan lo mismo (Fig. 5.2). | Un valor negativo genera desconfianza hacia la viabili dad de la empresa, ya que parte del activo inmovilizado se financia con los recursos ajenos a corto plazo, es decir, con las deudas pendientes de cobro en un plazo inferior a un año. En esta figura se puede observar la representación gráfi ca del fondo de maniobra. Hay que destacar que los nom bres con los que se designan los diferentes elementos varían, sin embargo, ambas figuras representan lo mismo (Fig. 5.2). |
-| Fondo de maniobra (FM) | FM = activo corriente - pasivo corriente FM = activo no corriente - patrimonio neto - pasivo no corriente Es una medida de seguridad con que la empresa puede hacer frente al poten cial descuadre entre la corriente de cobros y la de pagos. Con el fin de evi tar problemas financieros, es preciso que lo que se cobre antes de un año sea superior a los pagos pendientes del mismo periodo de tiempo. Este ratio se calcula de dos maneras diferentes: o bien, como el activo cir culante menos el pasivo circulante, o bien, como el activo fijo menos el pasivo fijo. | Activo | | Pasivo |
-| Fondo de maniobra (FM) | FM = activo corriente - pasivo corriente FM = activo no corriente - patrimonio neto - pasivo no corriente Es una medida de seguridad con que la empresa puede hacer frente al poten cial descuadre entre la corriente de cobros y la de pagos. Con el fin de evi tar problemas financieros, es preciso que lo que se cobre antes de un año sea superior a los pagos pendientes del mismo periodo de tiempo. Este ratio se calcula de dos maneras diferentes: o bien, como el activo cir culante menos el pasivo circulante, o bien, como el activo fijo menos el pasivo fijo. | Activo inmovilizado | | Recursos propios |
-| Fondo de maniobra (FM) | FM = activo corriente - pasivo corriente FM = activo no corriente - patrimonio neto - pasivo no corriente Es una medida de seguridad con que la empresa puede hacer frente al poten cial descuadre entre la corriente de cobros y la de pagos. Con el fin de evi tar problemas financieros, es preciso que lo que se cobre antes de un año sea superior a los pagos pendientes del mismo periodo de tiempo. Este ratio se calcula de dos maneras diferentes: o bien, como el activo cir culante menos el pasivo circulante, o bien, como el activo fijo menos el pasivo fijo. | Activo circulante | Fondo de maniobra | Recursos ajenos LP Recursos ajenos CP |
-| Fondo de maniobra (FM) | Fig. 5.2. Fondo de maniobra. | Fig. 5.2. Fondo de maniobra. | Fig. 5.2. Fondo de maniobra. | Fig. 5.2. Fondo de maniobra. |
 
-El cashflowoflujo de caja es la cantidad de dinero generada por una empresa. Se calcula restando los gastos de los ingresos, es decir, es el importe del dinero líquido disponible.
+| Ratio | Cálculo | Interpretación |
 
-La quiebra se produce cuando una sociedad no puede hacer frente a sus deudas, es decir, es insolvente porque las obligaciones de pago son superiores al patrimonio total, puesto que los bienes de la empresa no cubren la totalidad de las deudas. Llegado este caso, la propia em presa o cualquiera de sus acreedores puede solicitar al juez la situación de quiebra. Una vez analizados los datos y confirmada esta situación, el juez autoriza la liquidación de la empresa y el concurso de acreedores, a la vez que inhabilita al empresario para gestionar su empresa.
+| Fondo de maniobra (FM) | FM = activo corriente - pasivo corriente / FM = activo no corriente - patrimonio neto - pasivo no corriente. Es una medida de seguridad con que la empresa puede hacer frente al potencial descuadre entre la corriente de cobros y la de pagos. Con el fin de evitar problemas financieros, es preciso que lo que se cobre antes de un año sea superior a los pagos pendientes del mismo periodo de tiempo. Este ratio se calcula de dos maneras diferentes: o bien, como el activo cir culante menos el pasivo circulante, o bien, como el activo fijo menos el pasivo fijo. | Un valor negativo genera desconfianza hacia la viabili dad de la empresa, ya que parte del activo inmovilizado se financia con los recursos ajenos a corto plazo, es decir, con las deudas pendientes de cobro en un plazo inferior a un año. En esta figura se puede observar la representación gráfica del fondo de maniobra. Hay que destacar que los nom bres con los que se designan los diferentes elementos varían, sin embargo, ambas figuras representan lo mismo (Fig. 5.2). |
 
-El concurso de acreedores es el proceso legal que se origina cuando una persona o empresa es insolvente. En el caso de quiebra, el proceso conlleva repartir los bienes para saldar las deudas pendientes.
+### Fig. 5.2. Fondo de maniobra.
+
+Ver libro p. 164
+
+## El cashflow o flujo de caja
+
+es la cantidad de dinero generada por una empresa. Se calcula restando los gastos de los ingresos, es decir, es el importe del dinero líquido disponible.
+
+## La quiebra
+
+se produce cuando una sociedad no puede hacer frente a sus deudas, es decir, es insolvente porque las obligaciones de pago son superiores al patrimonio total, puesto que los bienes de la empresa no cubren la totalidad de las deudas. Llegado este caso, la propia em presa o cualquiera de sus acreedores puede solicitar al juez la situación de quiebra. Una vez analizados los datos y confirmada esta situación, el juez autoriza la liquidación de la empresa y el concurso de acreedores, a la vez que inhabilita al empresario para gestionar su empresa.
+
+## El concurso de acreedores
+
+es el proceso legal que se origina cuando una persona o empresa es insolvente. En el caso de quiebra, el proceso conlleva repartir los bienes para saldar las deudas pendientes.
 
 Se anotan todos los bienes y derechos de la empresa. Entonces, y en previsión de que el dinero no sea suficiente para cubrir todas las deudas, se determina el orden de preferencia según lo que establece la normativa legal: en primer lugar, los trabajadores para el cobro de su última nómina y, después, Hacienda, la Seguridad Social, los ayuntamientos, acreedores hipotecarios, aseguradoras sobre bienes asegurados, etc.
 
 La situación sería diferente si se tratara de un empresario individual. En este caso, se su maría la totalidad de bienes de la empresa junto a los propios del empresario y, en caso de no ser suficientes, se estaría en situación de quiebra. Los emprendedores que actúan en una sociedad tienen una mayor protección frente a la quiebra, ya que en una sociedad nunca se utiliza el patrimonio personal de los socios para responder a las deudas; tan solo se cuenta con el patrimonio mercantil.
 
-## Ejemplo 3, Nueva Rumasa quiebra
+## Ejemplo 3. Nueva Rumasa quiebra
 
 «En octubre de 2008, Nueva Rumasa pidió al Santander "un crédito extraordinario de 18 mi llones de euros para atender un pequeño desfase" en su fondo de maniobra. El banco se negó. Semanas después, las marcas Apis y Fruco lanzaron la primera emisión de pagarés de esta empresa dirigida a particulares. Un par de años después, la empresa quebró».
 
@@ -4798,16 +4823,19 @@ Fuente: la Vanguardia. Barcelona, 10 de marzo de 2011 [en línea]
 
 Una situación menos grave y que no inhabilita al empresario para continuar con su gestión empresarial es la suspensión de pagos.
 
-La suspensión de pagos sucede cuando la empresa dispone de patrimonio para responder a sus deudas, pero carece de liquidez. Por ejemplo, tiene naves y locales comerciales, pero necesita venderlos para transformarlos en recursos monetarios. Por ello, es la propia empresa la que solicita al juez la suspensión de pagos. Con ello pretende paralizar las reclamaciones de deuda.
+## La suspensión de pagos
+
+sucede cuando la empresa dispone de patrimonio para responder a sus deudas, pero carece de liquidez. Por ejemplo, tiene naves y locales comerciales, pero necesita venderlos para transformarlos en recursos monetarios. Por ello, es la propia empresa la que solicita al juez la suspensión de pagos. Con ello pretende paralizar las reclamaciones de deuda.
 
 El juez, en tal caso, deberá analizar los datos que aporte la empresa relativos a montante de deudas, relación de acreedores, causas de la falta de liquidez, recursos para hacerles frente y propuesta para abonar sus deudas en un plazo determinado. Si estima razonable la suspen sión de pagos se acordará una reunión entre el empresario, los acreedores y el juez para nego ciar la satisfacción de estos pagos. De este encuentro saldrá un acuerdo, aprobado por todos, en el que se reestablezcan las nuevas condiciones para el abono de las cantidades debidas.
 
-## Ejemplo 4. Retios de El Corte Inglés
+## Ejemplo 4. Ratios de El Corte Inglés
 
 En la Tabla 5.4 se comparan los resultados de varios años consecutivos con el rango ideal que debería tener. En este caso, vemos que el análisis de esta información arroja conclusiones favorables y positivas para la empresa.
 
-| Ratio liquidez                  | 0,92    | 0,87    | 0,87    | 0,84     | 0,78    | 1,5 - 2        |
+| Ratios                          | 2002    | 2003    | 2004    | 2005     | 2006    | 2007           |
 | ------------------------------- | ------- | ------- | ------- | -------- | ------- | -------------- |
+| Ratio liquidez                  | 0,92    | 0,87    | 0,87    | 0,84     | 0,78    | 1,5 - 2        |
 | Hallo tesorería                 | 0,39    | 0,37    | 0,37    | 0,317    | 0,27    | 1              |
 | Apalancamiento                  | 0,48    | 0,48    | 0,47    | 0,44     | 0,44    | 0,4 - 0,6      |
 | RAF                             | 1,07    | 1,07    | 1,14    | 1,24     | 1,25    | 0,7-1,5        |
@@ -4831,27 +4859,33 @@ En la Tabla 5.4 se comparan los resultados de varios años consecutivos con el r
 | Coste medio de la deuda         | 0,022   | 0,018   | 0,009   | 0,015    | 0,01    | <0,4           |
 | Rotación de cobros              | 11,6    | 11,86   | 13,28   | 18,66    | 19,19   | Alto           |
 
-Tabla 5.4. Ratios de El Corte Inglés desde 2002 hasta 2006.
+Tabla 5.4. Ratios de El Corte Inglés desde 2002 hasta 2006.(ver libro p.166)
 
-Fuente: http://www.scribd.eom/fullscreen/86055885?access\_key=key-1 is9l5atub9janxiohat El objetivo en esta unidad es que elabores el plan financiero de tu empresa. Para ello, realizarás previamente el plan de tesorería, la cuenta de pérdidas y ganancias y el balance de situación. Después analizarás los datos con el fin de identificar la viabilidad de tu empresa. Al finalizar el tema recogerás toda esta informa ción para el plan de empresa, en un apartado denominado: Plan financiero.
+Fuente: Fuente: http://www.scribd.eom/fullscreen/86055885?access_key=key-1is9l5atub9janxiohat
+
+## Simulación empresarial
+
+El objetivo en esta unidad es que elabores el plan financiero de tu empresa. Para ello, realizarás previamente el plan de tesorería, la cuenta de pérdidas y ganancias y el balance de situación. Después analizarás los datos con el fin de identificar la viabilidad de tu empresa. Al finalizar el tema recogerás toda esta informa ción para el plan de empresa, en un apartado denominado: Plan financiero.
 
 ## Fase 1. Cálculos previos
 
 Antes de elaborar el plan financiero hay una serie de datos relativos a ingresos y gastos que hay que tener identificados. De esa manera, la realización de los cálculos contables será fácil, ya que solo habrá que trasladar estos datos numéricos a las hojas de cálculo concretas y, a partir de allí, obtener los resultados y analizarlos.
 
-## Previsión de ingresos
-
 ## Fases de la Simulación empresarial
 
 - Fase 1. Cálculos previos
-- Fase 2. Elaboración del plan de teso rería
-- Fase 3. Elaboración1 de la cuenta de resultados o cuenta de Pér didas y ganancias
+- Fase 2. Elaboración del plan de tesorería
+- Fase 3. Elaboración1 de la cuenta de resultados o cuenta de Pérdidas y ganancias
 - Fase 4. Elaboración del Balance de situación
 - Fase 5. Análisis de la viabilidad de la empresa
 
-## Fuétílé$ 0é fi rianteiatiórí
+## Previsión de ingresos
+
+- Fuentes de financiación
 
 Retoma las decisiones adoptadas en la Simulación de la unidad anterior, ya que el capital conseguido habrá que incor porarlo en los documentos que incluye el plan financiero.
+
+- Ventas previstas
 
 Realiza una estimación de los clientes que tendréis durante el primer mes de apertura del negocio y tradúcelo a com pras, según lo que penséis que van a adquirir. Si te resulta dificultoso realizar la aproximación por mes, hazlo por sema nas o por días y luego multiplícalo por el número de días que tenga el mes.
 
@@ -4865,11 +4899,13 @@ Una vez que tengas definidos los clientes por mes, traduce esas ventas a dinero,
 
 La previsión de clientes es un dato vital no solo para calcular las ventas, sino también los gastos, ya que la empresa trata de ser lo más eficiente posible; en función de ello, realiza las compras paulatinamente a medida que se requieren. Habrá sectores donde será necesario contar con un stock alto, como en una tienda de ropa, pero habrá otros donde se fabricará cuando sea demandado, como en una tienda de muebles.
 
-■ ■--..;\*-.-?, Realiza una estimación de la compra de materias primas teniendo en cuenta lo dicho en el párrafo anterior y tradúcela en gasto, considerando el precio al que adquirís vuestras provisiones. La Simulación realizada en la Unidad 2 te resultará de gran utilidad, ya que en ese momento fijaste el precio de vuestros productos o servicios según el criterio que os pare ció más conveniente, pero siempre con la certeza de que se cubrirían gastos y se obtendrían un beneficio.
+## Compras de materia prima
+
+Realiza una estimación de la compra de materias primas teniendo en cuenta lo dicho en el párrafo anterior y tradúcela en gasto, considerando el precio al que adquirís vuestras provisiones. La Simulación realizada en la Unidad 2 te resultará de gran utilidad, ya que en ese momento fijaste el precio de vuestros productos o servicios según el criterio que os pare ció más conveniente, pero siempre con la certeza de que se cubrirían gastos y se obtendrían un beneficio.
 
 Añade a estos cálculos las previsiones de gastos realizados en la Unidad 4, cuando definiste vuestras necesidades de inversión. Comprueba que los datos resultan coherentes y, en caso contrario, modifica el que no se ajuste.
 
-mÉMmám
+## Suministros y otros gastos recurrentes
 
 Debes incluir, al menos, los siguientes:
 
@@ -4880,6 +4916,8 @@ Debes incluir, al menos, los siguientes:
 
 Se trata, ahora que tu idea ha tomado más concreción, de comprobar que la previsión era correcta y que están incluidas todas las funciones necesarias para la buena marcha de la empresa; por ejemplo, tienes que tener previsto la limpieza de aseos o del local, la limpieza de escaparates o del exterior del establecimiento, transporte de mercancías (si vuestra empresa incluye el reparto), etc.
 
+## Costes salariales
+
 Para fijar el salario del trabajador tienes que tener dos datos en cuenta:
 
 - a) El importe del SMI que siempre debe ser respetado, proporcionalmente al tiempo trabajado.
@@ -4888,6 +4926,8 @@ Para fijar el salario del trabajador tienes que tener dos datos en cuenta:
 Puedes simplificar el cálculo fijando un salario que esté por encima de lo que se suele remunerar a un empleado; de esa manera, aseguras su permanencia y su posible negativa a trabajar en un negocio que no está consolidado.
 
 Una vez que tengas estas cifras, debes añadirle el coste de las cuotas empresariales a la Seguridad Social. Como ya aprendiste en FOL, hay que calcular la base de cotización y, sobre ella, aplicar un porcentaje. Sin embargo, para no com plicar el cálculo puedes simplificarlo aplicando un 30% al salario del trabajador. Con eso ya tienes un dato aproximado del coste salarial, que debes incluir en el plan financiero.
+
+## Presupuesto de obras o reformas del local
 
 Es habitual que el establecimiento alquilado o adquirido no se ajuste en su totalidad a las necesidades del negocio. Igualmente, es frecuente realizar cambios en su decoración, como el color de las paredes o el tipo de suelo. Por ello, hay que presupuestar también este gasto.
 
@@ -4902,11 +4942,11 @@ A modo de ejemplo, para facilitar el cálculo te ofrecemos algunos datos, bien e
 
 Habría que sumar todos los datos y anotar esta cifra como gastos de acondicionamiento del local.
 
-## |i|ji^^
+## Cálculos de la amortización de préstamos
 
 La amortización, desde una perspectiva financiera, es el proceso por el cual se reduce el importe de una deuda debido al pago periódico de unas cuotas, que incluyen la devolución de parte del préstamo y una parte de los intereses. Estas cuotas suelen ser mensuales y su importe será diferente, según el tipo de amortización previsto al contratar el préstamo.
 
-## · Amortización con cuota constante o método francés
+- Amortización con cuota constante o método francés
 
 En esta modalidad el importe de la cuota es fijo, por lo que se mantiene invariable hasta que se revise el tipo de interés a aplicar (en caso de que se haya firmado un préstamo con tipo de interés variable, que es lo más habitual). En tal caso, una vez al año se calcula la cuota a pagar con el nuevo tipo de interés. Con este sistema, la mayor parte de los intereses del préstamo se pagan al banco durante las primeras cuotas de devolución, de forma que, si en un momento dado se amortizara toda la deuda pendiente, el banco ya habría cobrado una parte importante de sus beneficios.
 
@@ -4916,13 +4956,13 @@ Se puede pactar el mantenimiento de cuota fija, incluso con variaciones en el ti
 
 Esta forma de amortización es la más frecuente en España.
 
-## · Amortización con cuota creciente
+- Amortización con cuota creciente
 
 La cuota va aumentando con el paso del tiempo. Permite pagar menos cantidad al principio, que es cuando más pro blemas de liquidez se tiene, a cambio de incrementar el valor de la cuota según transcurre el tiempo. El problema es que la previsión de gastos hay que ir incrementándola, lo que reduce las posibilidades de contar con un incremento de los beneficios.
 
 Otra opción, si se quiere reducir el peso de la deuda al principio, es negociar un préstamo con carencia, que son aquellos en los que durante un tiempo no se amortiza capital sino solo intereses, razón por la cual al finalizar el tiempo de carencia la cuota se incrementa significativamente.
 
-## · Amortización con cuota decreciente o método alemán
+- Amortización con cuota decreciente o método alemán
 
 La cuota se reduce con el paso del tiempo, debido a que se amortiza en cada pago la misma cantidad de capital y los intereses sobre el dinero pendiente de devolución. Por esa razón, la cuota se va reduciendo, lo que aligera el peso de la deuda y las finanzas de la empresa. A cambio, la carga inicial es alta.
 
@@ -4950,8 +4990,7 @@ Te proponemos como ejemplo, consultar el simulador de Bankimia, una web especial
 - b) A los gastos mensuales hay que añadir los gastos iniciales de constitución del préstamo, relativos a notaría, pago de impuestos, etc. En general, se suele prever un 10% del importe del préstamo.
 - c) Estos simuladores no incluyen condiciones particulares que se pueden pactar con un banco, como las comisiones.
 - d) Si el tipo de interés es variable, la cuota cambiará cada vez que se revise el préstamo (una vez al año suele ser lo habitual). Por ello, hay que realizar una provisión de fondos mayor de la estimada para los primeros meses que se actualice la cuota. Si es inferior, ese dinero previsto se podrá emplear en otro gasto, pero es preferible inmovilizar un capital por un tiempo antes que tener que renegociar la deuda. Nuestra fiabilidad como acreedores quedará en entredicho y puede comprometer otros préstamos, créditos o servicios de confirming ofactoring que quera mos contratar con la entidad bancaria.
-
-5. ej El coste del préstamo será más próximo a la TAE (Tasa Anual Equivalente), que al TIN (Tipo de Interés Nominal). Es frecuente que las entidades financieras anuncien e informen, en un primer momento, del TIN a pagar por el préstamo solicitado. Sin embargo, cada préstamo incluye unas condiciones particulares en concepto de comisio nes y gastos. La comparación entre una entidad financiera y otra es difícil, razón por la cual es prescriptivo que se informe también sobre la TAE, que sería un porcentaje mayor que el TIN porque incluye estos otros costes.
+- e) El coste del préstamo será más próximo a la TAE (Tasa Anual Equivalente), que al TIN (Tipo de Interés Nominal). Es frecuente que las entidades financieras anuncien e informen, en un primer momento, del TIN a pagar por el préstamo solicitado. Sin embargo, cada préstamo incluye unas condiciones particulares en concepto de comisio nes y gastos. La comparación entre una entidad financiera y otra es difícil, razón por la cual es prescriptivo que se informe también sobre la TAE, que sería un porcentaje mayor que el TIN porque incluye estos otros costes.
 
 Los bancos y cajas están obligados por ley a publicar la TAE de los préstamos, aunque en el caso de tipos de inte rés variables esta cifra variará a medida que el criterio para fijar el interés (que suele ser el Euribor) aumente o descienda. Puedes ampliar esta información en este enlace:
 
@@ -4961,11 +5000,11 @@ http://www.elblogsalmon.com/conceptos-de-economia/que-es-el-euribor-2
 
 Recopila todos los datos numéricos calculados en esta primera fase y añádeles los re gistrados en fases anteriores. Todos ellos deben estar incluidos en los tres documentos que componen el Plan financiero, de forma que el proyecto de empresa mantendrá una coherencia constante.
 
-## Ayuda práctica:
+Ayuda práctica:
 
 Asegúrate de que cuentas, al menos, con los siguientes datos previos elaborados en fases anteriores. Si te faltara alguno es el momento de calcularlo.
 
-- astos de constitución de la empresa.
+- Gastos de constitución de la empresa.
 - Coste de las inversiones a realizar.
 - Alquiler o compra de local, maquinaría, mobiliario, vehículos...
 - Fuentes de financiación: de dónde obtendrás el dinero.
@@ -4996,7 +5035,7 @@ Una empresa compra materia prima en noviembre por valor de un millón de euros. 
 
 En el plan de tesorería de esta compañía no se realizará ninguna anotación en las entradas, ya que no se ha ingresado dinero. En las salidas, se anotará medio millón de euros en noviembre de ese año y se consignará la misma cantidad pendiente de anotación para el mes de febrero del siguiente ejercicio económico.
 
-De manera adicional, el plan de tesorería dará respuesta a estas otras cuestiones:
+## De manera adicional, el plan de tesorería dará respuesta a estas otras cuestiones:
 
 - ¿Tenemos dinero o estamos sin liquidez?
 - ¿Debemos pedir un crédito en algún mes?
@@ -5023,7 +5062,7 @@ Una vez consignados todos los datos, habrá que realizar los siguientes pasos:
 
 Elabora el plan de tesorería de vuestra empresa, crea una tabla Excel para facilitar el cálculo. Extrae después conclusiones que estén fundamentadas en los datos obtenidos.
 
-## Ayuda práctica:
+Ayuda práctica:
 
 - a) Registra cada dato en el mes que se produzca, teniendo en cuenta que solo se ano tarán los ingresos y los gastos efectivos, en lugar de anotar compras que no se han pagado o ventas que no se han cobrado. Recuerda que si alguna cantidad no se ha pa gado o no se ha cobrado, no se anotará, aunque se haya realizado la transacción co mercial. Se impone el principio de prudencia, para no realizar anotaciones antes de tiempo.
 - b) En las tablas no se incluye el signo € porque es innecesario, además podría inducir a error si se confunde con un dato numérico.
@@ -5053,8 +5092,9 @@ Con estos datos elabora el Plan de tesorería.
 
 ## Solución:
 
-| Aportaciones de la empresaria                |     | 100000 |        |        |        |        |       |       |       |       |       |        |
 | -------------------------------------------- | --- | ------ | ------ | ------ | ------ | ------ | ----- | ----- | ----- | ----- | ----- | ------ |
+| -------------------------------------------- | --- | ------ | ------ | ------ | ------ | ------ | ----- | ----- | ----- | ----- | ----- | ------ |
+| Aportaciones de la empresaria                |     | 100000 |        |        |        |        |       |       |       |       |       |        |
 | Préstamos solicitados                        |     | 40000  |        |        |        |        |       |       |       |       |       |        |
 | Ventas                                       |     | 2000   | 2000   | 2000   | 2000   | 5000   | 5000  | 5000  | 5000  | 5000  | 5000  | 50000  |
 | Intereses de la cuenta bancaria              |     |        |        |        |        |        |       |       |       |       |       |        |
