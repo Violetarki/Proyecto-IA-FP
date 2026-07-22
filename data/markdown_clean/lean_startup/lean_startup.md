@@ -1,4 +1,3 @@
-## Lean Educacion en
 
 ESO y BACH CCFE GM/GS
 
@@ -14,17 +13,11 @@ Coautor del libro"Espana Lean Startup 2015". Realiza ponencias y formacion sobre
 
 3°PremioNacional enelaboracionde materiales curriculares ensoporte informatico (201l), Mencion de Honor en Innovacion Educativa con"Aprendizaje Basado en Proyectos 2.0" (201l), y 30 Premio Nacional de Innovacion y Calidad en Formacion Profesional por "Emprender con Lean Startup" (2014).
 
-## Disponible en:
-
-## #EmprenderNoEsUnaOpcion
+## Disponible en: #EmprenderNoEsUnaOpcion
 
 UNETEA NUESTROCANAL: www.telegram.me/pablopenalver
 
-## Lean Startup en Educacion
 
-## www.pablopenalver.com
-
-## Startup Lean en Educacion
 
 Emprender no es una opcion
 
@@ -34,7 +27,7 @@ Anna fue profesora durante nueve anos y formadora de profesores durante cuatro a
 
 Durante anos simultaneo su trabajo con charlas en colegios sobre la proteccion de animales, actividad que a dia de hoy sigue haciendo junto con la Policia Local de Esplugues. Dejo la ensenanza para dedicarse en cuerpo y alma a la proteccion de los galgos, aunque su formacion como educadora es muy importante para conseguir uno de los objetivos de SoS Galgos: que las futuras generaciones sean mas respetuosas con los animales.
 
-## Lean Startup en Educacion
+
 
 ## iNDICE
 
@@ -51,9 +44,8 @@ Durante anos simultaneo su trabajo con charlas en colegios sobre la proteccion d
 | Anexo I. Un ejemplo de Programacion Didactica | 164 |
 | Agradecimientos | 181 |
 
-## Lean Startup en Educacion
 
-www.pablopenalver.com Lean Startup en Educacion "emprender no es una opcion" porque www.pablopenalver.com Los emprendedores tenemos muchas virtudes, las cuales no podría describir brevemente en estas líneas. Sin embargo, de lo que pocos os hablaran es de que sufrimos dos grandes enfermedades: una bastante grave, que es creernos nuestras propias mentiras, y la otra, mortal por necesidad, que es poseer la habilidad de distorsionar la realidad hasta dar sentido a esas mentiras.
+Los emprendedores tenemos muchas virtudes, las cuales no podría describir brevemente en estas líneas. Sin embargo, de lo que pocos os hablaran es de que sufrimos dos grandes enfermedades: una bastante grave, que es creernos nuestras propias mentiras, y la otra, mortal por necesidad, que es poseer la habilidad de distorsionar la realidad hasta dar sentido a esas mentiras.
 
 Así que un emprendedor, en principio, no es alguien a quien deseas tener a tu lado, ni siquiera un poco cerca, porque ya sabemos que todo se pega menos la hermosura.
 
@@ -91,11 +83,6 @@ En tercer lugar, y derivado del párrafo anterior, es fundamental que la motivac
 - d. Lean Startup. El verdadero eje del curso, y de la secuencia de contenidos del manual. Constituye otra herramienta de innovación de las empresas, está muy ligada a Design Thinking, y supone una verdadera tendencia de la educación del futuro.
 - e. Mobile Learning. Porque hoy en día no podemos entender la educación si no es conectada, líquida, en cualquier sitio o lugar. Y en este sentido, el uso de smartphone ofrece utilidad, motivación y realismo al proceso de enseñanzaaprendizaje.
 
-## Startup en porque
-
-## Leans Educacion
-
-## "emprender no es una opcion"
 
 3. Dinámicas de trabajo . En lugar de actividades o ejercicios, se proponen 30 dinámicas que constituyen la base de un programa de emprendimiento actual. Así:
 - a. Las dinámicas siguen una secuencia que se ajusta a las pautas de todo proceso educativo .
@@ -109,13 +96,11 @@ Finalizo esta reflexión con una serie de tuits sobre mi participación en el ev
 
 PABLO PEÑALVER ALONSO 28 de febrero de 2017
 
-## Lean Startup en Educacion
 
 ## METODOLOGIA
 
 basada en
 
-## Lean Startup Educacion en
 
 3. Test emprendedor
 2. 4.Presentacion
@@ -176,81 +161,8 @@ Mentalidad:en beta permanente
 
 Pasar a la accion Se recomienda no poner en marcha toda la propuesta al 100% el primer curso. Empezar primero con aquellas cuestiones con las que se trabaje con mas seguridad, e ir profundizando curso a curso La propuesta que presento refleja la experiencia de aula de 4 anos. En el manual se ofrecen aquellas dinamicas que ofrecen buenos resultados Creo que lo verdaderamente util del libro es el proceso llevado a cabo para su redaccion. Han sido muchos los docentes, y sobre todo, los mas innovadores, los que me han aportado su valioso punto de vista para redactar este manual. Te aconsejo seguir ese proceso con tu experiencia en aula Recomiendo llevar a la practica las actividades que mas te gusten. y probar. Al final, cada maestrillo tiene su librillo En el fondo, si lees este manual, te estoy invitando para pasar a la accion, para cambiar la metodologiay hacer del proceso educativo una experiencia memorablepara elalumnado Devbes tener claro lo que quieres conseguir. No hay que obsesionarse con las dinamicas, sino trabajar las que se consideren adecuadas para el objetivo final
 
-JuanLuisJIMENO@JuanLuisJimeno·2oct.2015 Muyfande@ppenalveraQuealegriasaberqueexistenprofescontu inquietud!!#ELS2015#leanstartup
 
-MariaAmparoCamacho@mariampcs·2oct.2015
-
-hablardeunacosa:plandeempresa"grande@ppenalveraen#ELS2015
-
-ManuelSeguray3masretwittearon
-
-JoseManuelBeas@jmbeas·2oct.2015
-
-@ppenalveraesungranejemplodehackeadordelsistemaeducativo.Ole #ELS2015
-
-AngelPerezAgenjo@Perez\_Agenjo·2oct.2015
-
-#ELS2015@ppenalveraInspiradorEnemprendimientofallaresidealpara aprender".Fallamosyaprendemos suficiente?
-
-PepeVazquezSanchez@PepeVazquezS·2oct.2015
-
-#ELS2015en emprendimientofallaresunrequisito.@ppenalvera enseniando emprendimientodesdelasbaseseducativasenCyLM
-
-MarioLopezdeAvilaretwitteo
-
-JavierMontaner@tumaku\_·2oct.2015
-
-Entrepreneurshipinschooleducation.@ppenalverashareshisexperience in Consuegra:Weneed anabsolutechangeinourmethodology #els2015
-
-JesusCandon@jesus\_candon·2oct.2015
-
-LeanStartupenEducacion.Enormereto@ppenalveraMuyatentoaloque cuentas#ELS2015
-
-JoseManuelBeas@jmbeas·2oct.2015
-
-Meestagustando lacharlade@ppenalverahablandode educacionpara mejorarlacreatividad.LeanStartupenlaescuela.#ELS2015
-
-Grandesprofesionalesen#els2015ygrandesmaestros@ppenalvera @JuanLuisJimeno@hidabe@fgomezmo
-
-DiegoRojas@drobur·2oct.2015
-
-#ELs2015@ppenalverameha tocado lafibra con su aplicacionaeducacion #pasion
-
-ValvaneraCastro@Mavalvanera·2oct.2015
-
-Laeducaciondelemprendimientoenlaeducacionescolar.iGenial @ppenalvera!#ELS2015
-
-MariaAmparoCamacho@mariampcs·2oct.2015
-
-Dificildecirloqmehagustadomasdelamanianaen#ELS2015peroviniendo de#educacionmeimpresionalode@ppenalverajmuchoqaprender!
-
-JavierMontaner@tumaku\_·2oct.2015
-
-Amazingtolistento@ppenalveraexplaininghowheintroduceshispupilsto entrepreneurship&amp;#leanstartup#ELS2015
-
-JoseEnriqueAlvarez@PointNem0·2oct.2015
-
-Muybuenapresentacionyunmontondereflexionessobre #educaciony #leanstartupen#ELS2015por @ppenalvera
-
-SeguidoporGarabateadoray36mas
-
-IsraAlcazar@ialcazar·2oct.2015
-
-#els2015Losalumnostrabajan la creatividad,comunicacion,liderazgoy energia"-@ppenalvera
-
-DianaPottecner@apottecner·2oct.2u15
-
-#ELS2015@ppenalveranosexplica como lohacen:ni cv,niplan deempresa.. equipo,ideacin,testing,contextualizar,yvalidar
-
-## Lean Startup en Educacion
-
-## www.pablopenalver.com
-
-Startup Educacion en
-
-## ean
-
-## MODULO O. JUSTIFICACION
+### MODULO O. JUSTIFICACION
 
 ## ÍNDICE
 
@@ -282,11 +194,6 @@ Podemos afirmar que se precisa un cambio urgente de la metodología docente de t
 
 Puesta de manifiesto nuestra tesis, la metodología del Aprendizaje basado en Proyectos/Retos/Problemas se convierte en el medio clave para hacer realidad la misma. Estamos hablando de plantear en aula, o fuera de ella, retos reales y atractivos para los alumnos. Retos que resulten motivadores. De esta forma contaremos con la participación activa del alumnado. Y es así porque a grandes rasgos, despierta el interés del alumnado, lleva a
 
-## Startup en Educacion "emprender no es una opcion"
-
-## Leans
-
-## porque
 
 cabo un aprendizaje significativo, permite integrar conocimientos y además favorece el desarrollo de habilidades. A partir de ahí, se trata de proporcionarles las herramientas necesarias para poder superar esos retos, y es ahí, sobre todo, cuando hablamos de emprendimiento, cuando cobran protagonismo: Design Thinking, Lean Startup , Customer Journey Map, Business Model Canvas, etc.
 
@@ -298,9 +205,6 @@ Nuestro sistema educativo, como he citado anteriormente, no es ajeno al protagon
 
 1. Competencia en comunicación lingüística.
 
-## Leans Startup en Educacion
-
-## porque "emprender no es una opcion"
 
 2. Competencia matemática y competencias básicas en ciencia y tecnología.
 3. Competencia digital. Implica el uso seguro y crítico de las TIC para obtener, analizar, producir e intercambiar información.
@@ -317,9 +221,7 @@ Pero con independencia de lo legislado por cada comunidad, el punto clave es có
 
 se trata es de desarrollar la creatividad, la comunicación, el liderazgo o el trabajo en equipo, abordar un Plan de Empresa no ayuda nada. Lo único que consigue es la desmotivación general del alumnado por su lejanía a la realidad empresarial.
 
-## Lean Startup en Educacion
 
-porque"emprender no es una opcion""
 
 El resultado es desmotivación total . El resultado es que el alumnado está desmotivado, y por ende, el profesorado también se desmotiva por la dificultad para abordar la situación. Al alumnado no le interesa el ámbito empresarial a edades tempranas, e incluso en edades superiores. Y sin embargo, estamos hablando que es necesario ser emprendedor, en el sentido de hacer realidad tus sueños. Entonces, ¿qué hacemos?
 
@@ -334,9 +236,7 @@ Debemos tener claro que lo que queremos trabajar con el alumnado cuando hablamos
 - o Desarrollar la persona en todos sus componentes . Este siempre ha sido uno de los grandes retos del sistema educativo, pero no se trabaja. No se desarrolla de forma plena la personalidad del alumno si nos dejamos un elemento tan importante como la creatividad.
 - o Crecimiento personal . Una persona creativa tiene más recursos, y por lo tanto, más posibilidades de crecimiento y de autorealización personal.
 
-## Lean Startup en Educacion
 
-## "emprender no es una opcion" porque
 
 - Comunicación. La comunicación es un proceso que un alumno que sale del sistema educativo tiene que tener perfectamente desarrollado. Una limitación en este contexto implica una importante limitación en su vida futura, tanto personal como profesional. Por ello, entendemos que:
 - o Han de trabajarse las diferentes formas de comunicación , tanto verbal como no verbal, oral y escrita, individual y en grupo.
@@ -352,9 +252,7 @@ Debemos tener claro que lo que queremos trabajar con el alumnado cuando hablamos
 
 A continuación se ofrece una infografía explicativa de esa ' caja de herramientas ':
 
-## Lean Startup en Educacion
 
-porque"emprendernoesunaopcion"
 
 Una vez que tenemos planteado el problema sobre cómo desarrollar el espíritu emprendedor entre el alumnado, y traducido a reto , trabajar y cultivar esas herramientas básicas para enfrentarte a la vida , nos corresponde abordar cómo hacerlo . Ahí, Lean Startup es la clave.
 
@@ -386,9 +284,7 @@ para definir y validar el modelo de negocio previo a la elaboración de un Plan 
 
 A continuación muestro una infografía sobre cómo quedaría el ajuste metodología-alumno :
 
-## Lean Startup en Educacion
 
-porque e"emprender no es una opcion"
 
 El correlato lógico de nuestro planteamiento consiste en conocer qué pasos vamos a dar, para, bajo la metodología explicada, aplicar la educación emprendedora en el aula. Y para ello establecemos 6 pasos, retos, proyectos o problemas : Emprender, Idear, Contextualizar, Prototipar, Validar y Comunicar.
 
@@ -555,9 +451,7 @@ Formados los grupos o startups, y puestos a prueba comenzamos con el proceso emp
 6. Exposición y feedback . Hacemos una prueba previa en el aula con el fin de aprender un aspecto clave: aprender del error . En este sentido se expone o se representa la idea sobre la base de una historia, y con el uso del prototipo. A continuación se realiza un debate, donde el resto de la clase actúa como posible cliente. Con el feedback recibido, reconstruimos la historia y el prototipo, y estamos en condiciones de salir fuera del aula a validar la idea.
 7. Entrevista para empatizar . El paso siguiente es la preparación de una entrevista para empatizar con el cliente. La idea básica consiste en validar una hipótesis: ¿existe realmente el problema? Tras preparar la entrevista, la ponemos a prueba, y tras refinarla, salimos del aula. Estamos ante una entrevista breve, pero que nos permitirá
 
-## Leans Startup en Educacion
 
-## porque "emprender no es una opcion"
 
 validar si realmente existe el problema, y además, empezaremos a conocer a nuestro cliente, ambos aspectos clave.
 
@@ -585,9 +479,7 @@ Ambas actuaciones las realizaremos en base al entorno de la idea de negocio, y l
 3. Estrategia de Océanos azules
 - a. El análisis de la competencia lo hacemos bajo la óptica de la estrategia de Océanos Azules. Se trata de dejar atrás la típica decisión del alumnado de realizar un mejor producto/servicio a un menor coste como estrategia típica.
 
-## Leans Startup en Educacion
 
-## porque "emprender no es una opcion"
 
 - b. En este sentido, la estrategia de océanos azules constituye una herramienta creativa muy importante a través del análisis y reflexión de diferentes vías de exploración , que hagan que podamos describir una propuesta de valor excepcional, basada en foco, divergencia y mensaje contundente .
 
@@ -612,7 +504,7 @@ Tras la fase anterior, pasamos a un nuevo reto, en el que damos forma a nuestro 
 - ii. Impresión en 3D
 - iii. Lego
 
-## Leans Startup en Educacion
+
 
 - iv. Power Point
 - v. Customer Jorney Map
@@ -642,11 +534,8 @@ Para ello, seguimos un orden determinado, a saber:
 - c. Tener margen suficiente,
 - d. Tener un tamaño de mercado lo suficientemente grande para el margen citado.
 
-## Startup en "emprender no es una opcion"
 
-## Leans Educacion
 
-porque
 
 A continuación os mostramos en una infografía el proceso de validación descrito:
 
@@ -666,9 +555,7 @@ siguientes puntos:
 8. Competencia . Señalaremos los puntos clave que nos diferencian de nuestra competencia, en los términos que establecimos en la estrategia de Océanos Azules.
 9. Roadmap . Todo lo anterior habla sobre lo realizado. Finalizando, abordaremos qué pretendemos en el futuro y lo ilustraremos con datos gráficos que muestren todo: pasado, actualidad y futuro, incluyendo datos financieros.
 
-## Leans Startup en Educacion
 
-## porque "emprender no es una opcion"
 
 10. Despedida . Por último debemos esforzarnos que destacar porqué somos importantes, clave en el sector en el que vamos a competir y qué nos diferencia del resto.
 
@@ -676,11 +563,10 @@ Por último, y como hemos hecho en epígrafes anteriores, veamos este esquema me
 
 ## AM YOUR BOSS
 
-Startup Educacion en
 
-L ean
 
-MODULO 1. EMPRENDER
+
+### MODULO 1. EMPRENDER
 
 ## ÍNDICE
 
@@ -729,7 +615,7 @@ Una vez conocidos tales rasgos, abordaremos el caso especial del emprendedor soc
 
 Tras estas cuestiones procederemos a evaluarnos, y saber realmente cómo somos
 
-## Leans Startup en Educacion
+
 
 desde el punto de vista emprendedor. Este análisis es básico, no sólo para conocernos, sino también para tener base suficiente para la formación de grupos o equipos de trabajo.
 
@@ -739,7 +625,6 @@ Comenzamos esta primera unidad con un vídeo muy motivador sobre lo que es empre
 
 Pasamos a definir qué entendemos por una persona emprendedora. Y qué mejor forma de hacerlo que a través de una infografía :
 
-## Leans Startup en Educacion
 
 ## 2.1. LA FÓRMULA DEL ÉXITO
 
@@ -757,7 +642,7 @@ Así, el Mago More , en una ponencia de lujo, tanto por creatividad como por ide
 
 En definitiva, podemos hablar de que: pasión + ilusión + talento = éxito. Este es el camino del éxito . Más breve, en la misma línea, pero muy cercano a nuestros alumnos, tenemos este maravilloso vídeo (fuente: LuzuVlogs). ¿Tenemos perfectamente claro lo que es un emprendedor, al menos a nivel teórico? ¿Sí? Entonces pasamos a la práctica.
 
-## Leans Startup en Educacion
+
 
 ## 2.2. LOS 7 TIPOS DE EMPRENDEDOR
 
@@ -786,9 +671,7 @@ Las notas básicas de un emprendendedor social son:
 - Un emprendimiento social tiene que ser rentable para poder existir, porque no puede vivir de subvenciones.
 - Un emprendimiento tradicional tiene una cuenta de resultados. Uno social tiene dos: económica y social.
 
-## Leans Startup en Educacion
 
-## porque "emprender no es una opcion"
 
 - La finalidad del emprendedor no es generar tanto dinero como generar un bien social: personas, ecología.
 - Un emprendedor tradicional detecta nichos de negocio. Uno social detecta nichos de necesidades sociales . Eso no significa no buscar beneficios, de hecho tiene que buscarlos y lo tiene más difícil que un emprendedor tradicional. Eso sí, hay que ser autosostenibles. Tradicionalmente los emprendimientos sociales han sido financiados por las Administraciones Públicas, pero deben ser
@@ -814,11 +697,7 @@ Si visitamos de nuevo la web de la revista "Emprendedores" tenemos 10 fantástic
 
 Fuente: http://www.emprendedores.es/casos-de- exito/premios-emprendedores-sociales-universidad-europea- 2016
 
-## Startup en Educacion "emprender no es una opcion"
 
-## Leans
-
-## porque
 
 ## 3.3. PASOS CLAVE PARA SER UN EMPRENDEDOR SOCIAL
 
@@ -844,11 +723,7 @@ Fuente:
 
 YouTube - EmprendeMOOC
 
-## Startup en Educacion "emprender no es una opcion"
 
-## Leans
-
-porque
 
 ## 4. 7 SECRETOS PARA SER UN EMPRENDEDOR DE ÉXITO
 
@@ -927,11 +802,8 @@ A continuación nos ofrece información sobre las características del perfil em
 
 1. Estar motivado y tener autoconfianza, iniciativa, autonomía, capacidad para asumir riesgos y superar obstáculos, a fin de afrontar y adaptarse a las situaciones cambiantes. Tener visión a medio y largo plazo.
 
-## Startup en Educacion "emprender no es una opcion"
 
-## Leans
 
-## porque
 
 2. La capacidad de trabajo, la responsabilidad (personal y social) y la planificación, la calidad y el compromiso también se consideran imprescindibles.
 3. Curiosidad, creatividad, innovación, capacidad para aprender y para enseñar son competencias vitales de este perfil.
@@ -957,11 +829,8 @@ RECURSOS : para trabajar esta actividad será preciso el uso de aula de informá
 
 EVALUACIÓN : la actividad deberá ser incorporada al portfolio personal de cada alumno, con el fin de tener información relevante y objetiva del perfil de cada chico.
 
-## Startup en Educacion "emprender no es una opcion"
 
-## Leans
 
-porque
 
 ## ACTIVIDAD NÚMERO 4. PRESENTACIÓN
 
@@ -981,9 +850,8 @@ Se trata de plantear un esquema didáctico lógico para maximizar el aprendizaje
 
 La idea de establecer un sistema de clasificación de habilidades , comprendido dentro de un marco teórico, surgió en una reunión informal al finalizar la Convención de la Asociación Norteamericana de Psicología, reunida en Boston (USA) en 1.948. Se buscaba que este marco teórico pudiera usarse para facilitar la comunicación entre examinadores, promoviendo el intercambio de materiales de evaluación e ideas de cómo llevarla a cabo. Además, se pensó que estimularía la investigación respecto a diferentes tipos de exámenes o pruebas, y la relación entre éstos y la educación.
 
-## Leans Startup en Educacion
 
-## porque "emprender no es una opcion"
+
 
 El proceso estuvo liderado por Benjamín Bloom, Doctor en Educación de la Universidad de Chicago (USA). Se formuló una Taxonomía de Dominios del Aprendizaje, desde entonces conocida como Taxonomía de Bloom, que puede entenderse como ' Los Objetivos del Proceso de Aprendizaje '. Esto quiere decir que después de realizar un proceso de aprendizaje, el estudiante debe haber adquirido nuevas habilidades y conocimientos.
 
@@ -997,11 +865,8 @@ Fuente: http://www.theflippedclassroom.es/wp-content/uploads/2013/07/bloom.001.j
 
 DEFINICIÓN : con la información recogida de las actividades anteriores, procedemos a la formación de grupos. Existen muchos criterios para la formación de grupos, todos ellos con sus ventajas e inconvenientes. Por mi experiencia, me gusta cómo funciona el siguiente: si vamos a formar grupos de 5 alumnos, confeccionamos 5 grupos e incluimos a los alumnos que tengan un perfil similar dentro de cada uno de ellos. Por ejemplo: un grupo con los mejores comunicadores, un grupo con aquellos más creativos, un grupo con aquellos a los que más les haya
 
-## Startup en Educacion "emprender no es una opcion"
 
-## Leans
 
-porque
 
 costado hacer las actividades previas, etc. Realizados los grupos, se comunica al alumnado, para que ahora, por acuerdo entre ellos, formen equipos de trabajo, con una única limitación: cada startup simulada sólo podrá tener un alumno de cada grupo. De esta forma, nos aseguramos startups de trabajo que cuenten con un alumno brillante en creatividad, otro en comunicación, etc.
 
@@ -1027,9 +892,7 @@ ESPACIO : El trabajo se desarrolla fundamentalmente fuera del aula , sobre todo 
 
 posterior de presentación de resultados, se realiza en aula .
 
-## LeanStartup enEducacion
 
-porque e"emprendernoesunaopcion"
 
 RECURSOS : para trabajar esta actividad el alumno grabará en vídeo y/o audio el trabajo desarrollado fuera del aula, y se harán fotografías. Además de servir de prueba del trabajo efectuado, con gran facilidad puede hacerse
 
@@ -1067,13 +930,8 @@ Además de la anterior, hay otras herramientas que nos ayudan a conocer nuestro 
 
 'La Dirección General de Industria y de la Pequeña y Mediana Empresa del Ministerio de Industria, Energía y Turismo, ha elaborado una serie de herramientas que ayudan al
 
-## Leans Startup en Educacion
 
-## porque "emprender no es una opcion"
 
-## Startup en Educacion "emprender no es una opcion"
-
-## Leans
 
 porque
 
@@ -1097,9 +955,6 @@ Trabajar con Padlet es muy sencillo: sobre un tablero en blanco y mediante un cl
 
 Un tablero online nos puede ser muy útil en el aula, y sobre todo en nuestra materia. A lo largo del curso iremos viendo diferentes usos de esta
 
-## Leans Startup en Educacion
-
-## porque "emprender no es una opcion"
 
 ## 7.4. MAPA CONCEPTUAL: MINDOMO
 
@@ -1149,11 +1004,7 @@ En materia de fotografía os sugiero tres apps, y os facilito la información qu
 - o Esta aplicación dota tu dispositivo móvil de la potencia y del control de un software de edición fotográfica profesional, antes solo disponible para ordenadores. Con un solo toque, ahora puedes retocar fotografías, ajustar su perspectiva, volver a editarlas, etc.
 - o Es un excelente complemento a Camera 360.
 
-## Startup en "emprender no es una opcion"
 
-## Leans Educacion
-
-## porque
 
 ## Photo Editor Pro
 
@@ -1185,11 +1036,7 @@ En materia de sonido puede resultar muy interesante dejar evidencia del trabajo 
 -  Geoetiquetar las grabaciones con información sobre la ubicación
 -  Escuchar listas de reproducción o crear las tuyas propias y compartir
 
-## Startup en Educacion "emprender no es una opcion"
 
-## Leans
-
-porque
 
 ## ACTIVIDAD NÚMERO 8. MARCA PERSONAL
 
@@ -1205,7 +1052,7 @@ RECURSOS : para trabajar esta actividad, será fundamental obtener evidencias de
 
 EVALUACIÓN : en esta actividad podemos comprobar en qué medida maneja las habilidades de un emprendedor, pero ahora para comunicar y difundir de forma creativa todo lo relacionado con su perfil. Es sumamente interesante analizar los logros que van realizando los alumnos en términos de seguidores en la redes sociales, calidad de los contactos, y crecimiento a nivel profesional.
 
-## Leans Startup en Educacion
+
 
 ## ACTIVIDAD NÚMERO 9. PORTFOLIO DIGITAL
 
@@ -1225,11 +1072,8 @@ recursos propios de la web 2.0 que hayan servido de soporte para la realización
 
 EVALUACIÓN : en esta actividad podemos comprobar en qué medida maneja las habilidades de un emprendedor, pero ahora para crear contenidos originales y con formato atractivo y original. La evaluación de esta actividad está íntimamente relacionada con la de la actividad anterior, referida a la marca personal.
 
-## Startup en Educacion "emprender no es una opcion"
 
-## Leans
-
-## porque
+### MODULO 2. IDEAR
 
 ## ÍNDICE
 
@@ -1326,11 +1170,8 @@ A modo de ejemplo, se señalan a continuación algunas cuestiones sobre las que 
 - ¿Se puede hacer más barato?
 - ¿Tiene algún defecto que se podría corregir?
 
-## Startup en Educacion "emprender no es una opcion"
 
-## Leans
 
-## porque
 
 - ¿Se puede utilizar para otra cosa?
 - ¿Llega a todos los clientes posibles?
@@ -1359,9 +1200,6 @@ Y, ¿cómo surgen las ideas de negocio? Es decir, ¿por qué crear ESTA empresa?
 - Conocimientos.
 - Captación de nuevas necesidades.
 
-## Leans Startup en Educacion
-
-## porque "emprender no es una opcion"
 
 Hay otras clasificaciones por las cuales se pueden generar ideas que complementar y amplían las anteriores. Así, Arthur Kuriloff y John Hemphill detallan, que son fuentes de ideas de negocio las siguientes:
 
@@ -1380,11 +1218,8 @@ Otra clasificación de fuentes de ideas de negocio es la que nos da Peter Drucke
 - Una necesidad de proceso.
 - Los cambios en la estructura de la industria y el mercado.
 
-## Startup en Educacion "emprender no es una opcion"
 
-## Leans
 
-## porque
 
 - La demografía.
 - Los cambios en la percepción de la gente.
@@ -1402,9 +1237,8 @@ La literatura empresarial nos ofrece una tabla síntesis donde se recogen las fu
 | | Profesores | Universidades | Internet | Cambios legales |
 | | Cámaras de Comercios | | | |
 
-## Startup en Educacion "emprender no es una opcion"
 
-## Leans
+
 
 porque
 
@@ -1433,11 +1267,7 @@ Es fundamental seguir y hacer cumplir las reglas del brainstorming porque están
 
 Fuente: Institute of Design at Stanford
 
-## Startup en Educacion "emprender no es una opcion"
 
-## Leans
-
-porque
 
 ## ACTIVIDAD NÚMERO 10. BRAINSTORMING
 
@@ -1464,11 +1294,8 @@ recoger información vía Internet sobre ideas de negocio innovadoras y sectores
 
 EVALUACIÓN : en esta actividad podemos comprobar ámbitos de interés para nuestros alumnos, una de las claves para elegir proyectos cercanos a los mismos, y así conseguir
 
-## Startup en Educacion "emprender no es una opcion"
 
-## Leans
 
-porque
 
 la motivación necesaria para hacer del emprendimiento un punto de partida clave en el aula, y enganchar al alumnado desde el primer día.
 
@@ -1488,7 +1315,7 @@ Podemos establecer diferentes técnicas para realizar la clasificación de las i
 
 Fuente: Institute of Design at Stanford
 
-## Leans Startup en Educacion
+
 
 ## ACTIVIDAD NÚMERO 11. CARDSORTING
 
@@ -1508,9 +1335,7 @@ Una vez que hemos filtrado las ideas, ideas que provenían de la fase emocional,
 
 Para ello se establecen, al menos, los siguientes aspectos a conocer de cada idea:
 
-## Leans Startup en Educacion
 
-## porque "emprender no es una opcion"
 
 - Descripción detallada de la actividad , teniendo en cuenta la información que se tiene al comienzo del proyecto. Esta descripción variará en mayor o menor medida según avance el estudio del proyecto.
 - Problemas que resuelve la idea tal y como está planteada, ya sea en la zona, ya sea a nivel empresarial.
@@ -1536,7 +1361,7 @@ ESPACIO : Esta actividad se desarrolla tanto en el aula como fuera de ella. En g
 
 Por otra parte, la obtención de evidencias a través de la observación necesariamente debe
 
-## Leans Startup en Educacion
+
 
 hacerse en la calle . Será necesario planificar las distintas actividades con el fin de ser lo más eficientes posible.
 
@@ -1592,11 +1417,8 @@ EVALUACIÓN : en esta actividad podemos comprobar el avance del grupo, y sobre t
 
 Una vez elegida la idea de negocio, vamos a llevar a cabo un proceso de validación , con el fin de asegurarnos si la citada idea es lo suficientemente buena para abordar el proyecto. Para
 
-## Startup en Educacion "emprender no es una opcion"
 
-## Leans
 
-porque
 
 ello, os mostramos un gráfico del proceso a seguir, que a continuación desarrollamos con detalle:
 
@@ -1612,13 +1434,9 @@ Nos corresponde ahora buscar nuevos retos asociados a los hechos del problema qu
 
 Esta técnica permite analizar las evidencias mediante preguntas que investiguen posibles mejoras unidas a la persona, el contexto, el tiempo o las causas del problema que nos lleven a un nuevo reto. Las 6W´S pone en el centro del estudio a la persona y a partir de ella (el usuario/héroe de nuestra historia), nos preguntamos por esos 6 interrogantes.
 
-## Startup en Educacion "emprender no es una opcion"
 
-## Leans
 
-## porque
 
-## www.pablopenalver.com
 
 1. ¿Qué?
 
@@ -1636,11 +1454,8 @@ Esta técnica permite analizar las evidencias mediante preguntas que investiguen
 
 A continuación, debemos haceros preguntas sobre la idea/problema elegida/o usando la técnica de las 6W´S de modo que podamos profundizar un poco más en el problema y definir un nuevo reto a raíz de las preguntas formuladas.
 
-## Startup en Educacion "emprender no es una opcion"
 
-## Leans
 
-## porque
 
 ## 4.2. CREAR HISTORIAS: EL STORYTELLING
 
@@ -1660,7 +1475,6 @@ Es necesario tener en cuenta una serie de aspectos antes de crear tu historia, q
 -  Problema , donde se aborda el problema que sirve de base para la historia, la verdadera cuestión a resolver,
 -  Solución : tras el problema, se presentan los argumentos para justificar nuestra solución
 
-## Leans Startup en Educacion
 
 - o Desenlace : donde se muestra qué ocurre tras resolver el problema.
 
@@ -1680,9 +1494,7 @@ RECURSOS : para trabajar esta actividad, utilizamos el aula polivalente con nues
 
 EVALUACIÓN : en esta actividad vamos a comprobar cómo transmiten nuestros alumnos, y sobre todo, el convencimiento en sus ideas y la creatividad en su presentación.
 
-## Leans Startup en Educacion
 
-## porque "emprender no es una opcion"
 
 ## 4.3. PROTOTIPA HISTORIAS
 
@@ -1710,7 +1522,7 @@ En el siguiente enlace se puede acceder a un menú de mi blog, donde hay enlaces
 
 EVALUACIÓN : en esta actividad vamos a comprobar cómo se inicia el proceso de investigación de nuestra idea , y cómo vamos sentando sus bases. A la vez, le daremos formas con un prototipo sencillo, pero que puede tener una gran acabado como producción final del alumnado.
 
-## Leans Startup en Educacion
+
 
 ## ACTIVIDAD NÚMERO 16. FEEDBACK Y RETOQUE I
 
@@ -1734,11 +1546,8 @@ RECURSOS : para trabajar esta actividad, utilizamos el aula polivalente . Se exp
 
 EVALUACIÓN : en esta actividad vamos a comprobar no sólo cómo transmiten nuestros alumnos, sino también su capacidad para argumentar, debatir, y sobre todo aprender cuando se fracasa .
 
-## Startup en Educacion "emprender no es una opcion"
 
-## Leans
 
-## porque
 
 ## 4.4. PREPARA UNA ENTREVISTA
 
@@ -1778,7 +1587,7 @@ misma. Cuando salgamos del aula, ya estaremos habituados a manejar el smartphone
 
 EVALUACIÓN : en esta actividad vamos a comprobar cómo van encajando las piezas: cómo los alumnos asumen errores , cómo aprenden del error , y cómo vamos moldeando su perfil para ser un verdadero emprendedor.
 
-## Leans Startup en Educacion
+
 
 ## 4.5. VALIDACIÓN INICIAL
 
@@ -1796,9 +1605,7 @@ Hay que tener en cuenta que podemos hacer conseguido mucha información. Vamos a
 
 nuestra historia y prototipo. En función de esa misma información, decidiremos si realmente la idea merece la pena y por lo tanto, abordamos el proyecto, o por el contrario la descartamos por no suponer un problema real y serio para nuestro potencial cliente.
 
-## Lean Startup en Educacion
 
-## porque"emprender no es una opcion"
 
 META : El objetivo de esta actividad es decidir si la idea que estamos investigando tiene envergadura suficiente para ser la base de nuestro proyecto.
 
@@ -1822,9 +1629,7 @@ privados, admiten comentarios y disponemos de plantillas, fondos y grids para el
 
 Murally tiene muchas aplicaciones educativas, si bien, a nosotros nos interesa para poder hacer un prototipo web de nuestra historia.
 
-## Leans Startup en Educacion
 
-## porque "emprender no es una opcion"
 
 ## 5.2. LÍNEAS DEL TIEMPO: DIPITY
 
@@ -1885,6 +1690,8 @@ Trello funciona perfectamente con wearables. Puedes responder rápidamente a los
 
 Perfectamente definida, constituye un recurso totalmente imprescindible en el aula.
 
+### MODULO 3. CONTEXTUALIZAR
+
 ## ÍNDICE
 
 1. Introducción
@@ -1902,7 +1709,7 @@ Perfectamente definida, constituye un recurso totalmente imprescindible en el au
 13. 5.1. Matriz DAFO: Inghenia
 6. Apps móviles
 
-## Leans Startup en Educacion
+
 
 ## 1. INTRODUCCIÓN
 
@@ -1927,11 +1734,8 @@ mientras que la situación externa se compone de dos factores no controlables: o
 
 Es la herramienta estratégica por excelencia más utilizada para conocer la situación real en que se encuentra la organización.
 
-## Startup en Educacion "emprender no es una opcion"
 
-## Leans
 
-## porque
 
 Durante la etapa de planificación estratégica y a partir del análisis DAFO se debe poder contestar cada una de las siguientes preguntas:
 
@@ -2029,9 +1833,7 @@ Algunas de las preguntas que se pueden realizar y que contribuyen en el desarrol
 - ¿Se tienen problemas de recursos de capital?
 - ¿Puede algunas de las amenazas impedir totalmente la actividad de la empresa?
 
-## Leans Startup en Educacion
 
-## porque "emprender no es una opcion"
 
 ## 2.2. ANÁLISIS INTERNO
 
@@ -2080,7 +1882,6 @@ Las limitaciones, determinadas por una combinación de debilidades y amenazas, c
 
 Mientras que los riesgos (combinación de fortalezas y amenazas) y los desafíos (combinación de debilidades y oportunidades), determinados por su correspondiente combinación de factores, exigirán una cuidadosa consideración a la hora de marcar el rumbo que la organización deberá asumir hacia el futuro deseable.
 
-## Leans Startup en Educacion
 
 ## ACTIVIDAD NÚMERO 19. MATRIZ DAFO
 
@@ -2123,11 +1924,7 @@ Es preciso notar que pensamientos/creencias y sentimientos/emociones no se puede
 
 - IDENTIFICA NECESIDADES : 'Necesidades' son requerimientos humanos, físicos o emocionales; y cosas que el usuario quiere lograr. Las necesidades ayudan a definir los
 
-## Startup en Educacion "emprender no es una opcion"
 
-## Leans
-
-porque
 
 desafíos de diseño. Recuerda que las necesidades son verbos (actividades o deseos en que el usuario pueda necesitar ayuda), no son sustantivos soluciones). Identifica las necesidades directamente de los rasgos notados en el usuario o de contradicciones entre dos temas distintos. Como por ejemplo lo que dice y lo que hace el usuario. Escribe o anota las necesidades a un lado del mapa de empatía.
 
@@ -2147,11 +1944,7 @@ Realizamos un brainstorming para descubrir todos los posibles segmentos de clien
 
 A continuación se eligen tres candidatos y comenzamos un ejercicio de definición del perfil : le damos un nombre, ciertas características demográficas, un estado civil, nivel de ingresos, edad, etc.
 
-## Startup en Educacion "emprender no es una opcion"
 
-## Leans
-
-## porque
 
 Después construimos su perfil contestando a las siguientes seis preguntas :
 
@@ -2169,9 +1962,7 @@ Después construimos su perfil contestando a las siguientes seis preguntas :
 4. ¿Quien le influencia realmente y de qué forma?
 5. ¿Qué medios de comunicación le influyen?
 
-## Leans Startup en Educacion
 
-## porque "emprender no es una opcion"
 
 3. ¿Qué es lo que realmente piensa y siente ? Intenta representar qué es lo que ocurre en la mente del cliente:
 1. ¿Qué es realmente importante para él?
@@ -2245,9 +2036,7 @@ Por otra parte, la curva de valor es el componente básico del cuadro estratégi
 
 Podemos concluir que sirve de poco lanzarse en una trayectoria de crecimiento fuerte y rentable si toma como referencia comparativa sus competidores y trata de vencerlos ofreciendo un poco mas por un poco menos. Tampoco se llega al océano azul con investigaciones exhaustivas del mercado. Los clientes tienden a pensar en lo que ya conocen y a pedir más por menos. Y por lo general desean más de las mismas características que la industria ofrece actualmente en sus productos y servicios.
 
-## Lean Startup en Educacion
 
-## "emprender no es una opcion" porque
 
 Para modificar la curva de valor de la competencia es necesario comenzar por enfocar la estrategia, y esto lo vamos a hacer:
 
@@ -2284,9 +2073,7 @@ Por ejemplo, Starbucks complementó la venta de café que tenía un atractivo fu
 2. Si se miran estas tendencias desde una perspectiva correcta a lo mejor aparecen oportunidades para un nuevo océano azul
 3. Los sectores dependen de multitud de tendencias externas, que si se dirigen correctamente permiten innovar en valor
 
-## Leans Startup en Educacion
 
-## porque "emprender no es una opcion"
 
 La mayoría de las empresas se adaptan lenta y pasivamente a las tendencias, olvidando las oportunidades que surgen de la forma en que redefinirán el valor percibido.
 
@@ -2299,9 +2086,7 @@ El paso siguiente consiste en diseñar nuestra propuesta de valor . Para ello te
 
 Los puntos 1, 2 y 3 suponen reflexionar y valorar la variables estratégicas de la competencia. El punto 4 presenta como contenido las reflexiones realizadas con base en las vías de exploración.
 
-## Leans Startup en Educacion
 
-## porque "emprender no es una opcion"
 
 Para finalizar, tenemos que tener en cuenta que una buena estrategia debe tener las siguientes notas:
 
@@ -2311,9 +2096,7 @@ Para finalizar, tenemos que tener en cuenta que una buena estrategia debe tener 
 
 Así las cosas, cuando la curva de valor de una compañía carece de foco , la estructura de costes tenderá a ser alta y la implantación y ejecución del modelo de negocios serán complejas. Cuando carece de divergencia es porque la estrategia de la compañía es imitativa y no ofrece razón alguna para destacarse en el mercado. Cuando carece de un mensaje contundente para comunicarse con los compradores, es probable que la compañía este encerrada en sí misma o que sea un ejemplo clásico de innovación por la innovación misma, sin potencial comercial y sin capacidad propia para despegar.
 
-## Leans Startup en Educacion
 
-## porque "emprender no es una opcion"
 
 ## De una forma más detallada:
 
@@ -2328,7 +2111,7 @@ Terminamos con la estrategia de los océanos azules, con la que Juan Antonio de 
 3. Conocer los costes del producto y/o servicio y si son inferiores al precio de venta.
 4. Hacer un prototipo que recoja estos aspectos y validarlo en el mercado.
 
-## Leans Startup en Educacion
+
 
 ## ACTIVIDAD NÚMERO 21. CUADRO ESTRATÉGICO
 
@@ -2352,7 +2135,7 @@ RECURSOS : para trabajar esta actividad, utilizamos el aula polivalente con nues
 
 EVALUACIÓN : en esta actividad insistimos en el grado de compromiso, trabajo y coordinación del grupo . La actividad exige trabajo, salidas a la calle y debate, y sobre todo, organización. El grupo ya está funcionando a pleno rendimiento, y esta actividad refleja en gran medida el talante del grupo.
 
-## Leans Startup en Educacion
+
 
 ## ACTIVIDAD NÚMERO 22. VÍAS DE EXPLORACIÓN
 
@@ -2372,7 +2155,7 @@ RECURSOS : para trabajar esta actividad, utilizamos el aula polivalente intentad
 
 EVALUACIÓN : en esta actividad podemos comprobar cómo el grupo va consolidando la dinámica de trabajo, la organización y el trabajo en equipo . Esta tarea exige una motivación adicional por la dureza de su realización.
 
-## Leans Startup en Educacion
+
 
 ## ACTIVIDAD NÚMERO 23. MATRIZ ERIC
 
@@ -2390,7 +2173,7 @@ RECURSOS : para trabajar esta actividad, utilizamos el aula polivalente intentad
 
 EVALUACIÓN : en esta actividad podemos comprobar cómo el grupo va consolidando la dinámica de trabajo, la organización y el trabajo en equipo . Esta tarea exige una motivación adicional por la dureza de su realización.
 
-## Leans Startup en Educacion
+
 
 ## ACTIVIDAD NÚMERO 24. ESTRETAGIA COMPETITIVA
 
@@ -2419,6 +2202,8 @@ Inghenia. Una vez que tiene la información necesario, nos ofrece la matriz DAFO
 ## 6. APLICACIONES MÓVILES
 
 En este módulo se usarán las apps citadas en los módulos anteriores.
+
+### MODULO 4. PROTOTIPAR
 
 ## ÍNDICE
 
@@ -2522,7 +2307,7 @@ Describe cual es la tarea o actividad que cada segmento de clientes está tratan
 
 A continuación puedes ver un ejemplo del lienzo de la propuesta de valor relacionado con nuestro módulo profesional, y como yo, como docente, ajusto mi intervención en función del alumnado.
 
-## Leans Startup en Educacion
+
 
 ## ACTIVIDAD NÚMERO 25. LIENZO DE LA PROPUESTA DE VALOR
 
@@ -2542,11 +2327,7 @@ RECURSOS : para trabajar esta actividad, utilizamos el aula polivalente y tras d
 
 EVALUACIÓN : en esta actividad podemos comprobar cómo el grupo va consolidando su preocupación por el problema del cliente , y cómo ofrece una alternativa innovadora para su solución. Un buen encaje entre ambos aspectos ofrece una motivación extra para el alumnado, si bien, la calidad del encaje sólo nos la va a confirmar el mercado.
 
-## Startup en Educacion "emprender no es una opcion"
 
-## Leans
-
-## porque
 
 ## 3. BUSINESS MODEL CANVAS
 
@@ -2583,9 +2364,7 @@ Entramos de lleno en el primer gran bloque del lienzo de modelo de negocios. Nos
 
 En el padlet siguiente tenemos todo lo que trabajaremos sobre los segmentos de clientes.
 
-## Lean Startup en Educacion
 
-## porque "emprender no es una opcion""
 
 Es fundamental a la hora de plantear las hipótesis sobre los segmentos del mercado qué ventajas vas a tener al usar nuestro producto o servicio. Se trata de saber qué le facilita la vida al cliente. Haremos una lista de ventajas que obtendrían los clientes si usaran nuestro producto.
 
@@ -2653,9 +2432,7 @@ A continuación veremos las opciones de canales físicos:
 3. Revendedor de valor añadido.
 4. Fuerza de ventas directa.
 
-## Leans Startup en Educacion
 
-## porque "emprender no es una opcion"
 
 5. Web o ventas en línea.
 6. Distribuidores + minoristas + mayoristas.
@@ -2699,11 +2476,7 @@ Abordaremos, en primer lugar, cómo captar clientes en un canal físico. Seguimo
 
 En un mundo donde se crea demanda (izquierda del embudo) y la compra (derecha del embudo) podríamos calcular cuánto cuesta hacerlo. Hablaremos del ciclo viral. Un efecto viral sobre la venta de un producto se basa en lo mucho que gusta a los usuarios. Y los emprendedores deben considerarlo de forma importante. En definitiva, se trata de hacer el embudo de la manera más eficiente posible.
 
-## Startup en Educacion "emprender no es una opcion"
 
-## Leans
-
-## porque
 
 Hay una serie de alternativas a la captación de clientes en canales físicos. En nuestro embudo se pueden cambiar los 4 pasos vistos antes, hay que ser flexible. Se trata de ver que los clientes pasan de ver nuestro producto a comprarlo.
 
@@ -2737,9 +2510,7 @@ Todo diseñado para fidelizar clientes, porque el coste de fidelizar clientes es
 
 Y por último, finalizamos con el incremento del número de clientes. Hay varias actividades:
 
-## Leans Startup en Educacion
 
-## porque "emprender no es una opcion"
 
 1. Las mismas que en el canal físico.
 2. Además, hay que tener en cuenta el ciclo de vida del cliente . Se trata de hacer que los clientes vayan gastando cada vez más. Para ello, el dinero recogido durante el ciclo de vida del cliente ( LiveTime Value ) debe ser mayor que el coste de captación de clientes.
@@ -2766,11 +2537,7 @@ Hay una serie de errores cuando fijamos precios y fuentes de ingresos. A veces p
 4. Alquiler . Renting de vehículos.
 5. Licencias : pagar una tarifa por el uso de propiedad intelectual: Microsoft.
 
-## Startup en Educacion "emprender no es una opcion"
 
-## Leans
-
-## porque
 
 6. Intermediación : pagar por reunir a dos partes en una intermediación.
 7. Publicidad . Google, Facebook, etc.
@@ -2865,9 +2632,7 @@ Antes, los inversores nos pedían cuentas: contabilidad y estados contables. Per
 
 1. Propuesta de valor: Coste del producto, tamaño del mercado y cuota de mercado, competencia (cuánto cobran).
 
-## Leans Startup en Educacion
 
-## porque "emprender no es una opcion"
 
 2. Relaciones con clientes: nos interesan métricas con el captar, fidelizar y aumentar ventas. Nos interesa saber cuánto cuesta adquirir nuevos clientes, tasas de conversión, valor del ciclo de vida.
 3. Tipo de mercado.
@@ -2886,9 +2651,7 @@ De forma opcional podría comenzarse por la propuesta de valor, pero en general 
 
 Recomiendo su realización por bloques, analizando y detallando la problemática de cada bloque y después pasar a las decisiones propias del grupo sobre el mismo.
 
-## Lean Startup en Educacion
 
-e"emprendernoesunaopcion" porque
 
 META : El objetivo de esta actividad es definir los elementos que integran un modelo de negocio, su modelo de negocio. De esta forma, un alumno, de manera muy sencilla, podrá definir las grandes líneas que configuran su negocio.
 
@@ -2913,9 +2676,7 @@ Podemos establecer una serie de principios sobre prototipado, y lo haremos sigui
 3. Establece bien las expectativas
 4. No seas perfeccionista pero tampoco cutre
 
-## Leans Startup en Educacion
-
-## porque "emprender no es una opcion"
+"
 
 5. Si no lo puedes hacer, falséalo
 6. Prototipa sólo lo que necesites
@@ -2953,9 +2714,7 @@ ESPACIO : Esta actividad se desarrolla en el aula , si
 
 bien, por necesidades de recursos podríamos visitar el taller de tecnología, aula de informática, etc.
 
-## LeanStartup enEducacion
 
-## porque e"emprendernoesunaopcion"
 
 RECURSOS : para trabajar esta actividad podemos necesitar recursos de lo más variados , pero siempre de bajo coste: papel, cartón, aplicaciones web gratuitas, e incluso impresora de impresión en 3D. Cada grupo de alumnos decidirá qué necesita y se hará acopio del mismo.
 
@@ -2977,13 +2736,8 @@ De la misma forma que la aplicación anterior, Mobincube nos permite hacer proto
 
 Fuente: http://www.mobincube.com/es/
 
-## Leans Startup en Educacion
 
-## porque "emprender no es una opcion"
 
-## 5.3. VÍDEO ANIMADO: POW TOON
-
-## 5.4. INFOGRAFÍA: EASELY
 
 ## 5.5. COMIC: PIXTON
 
@@ -3033,7 +2787,7 @@ Con QR Droid puedes convertir tu smartphone en una potente herramienta para esca
 
 Esta utilidad QR es intuitiva, muy completa, admite diversos idiomas y cambiará tu forma de interactuar con códigos QR, sus acciones y actividades inteligentes.
 
-O
+### MODULO 5. VALIDAR
 
 ## ÍNDICE
 
@@ -3053,11 +2807,7 @@ O
 
 - 6.1. Edición de vídeo: VidTrim
 
-## Startup en Educacion "emprender no es una opcion"
 
-## Leans
-
-porque
 
 ## 1. INTRODUCCIÓN
 
@@ -3084,11 +2834,7 @@ Para ello, daremos los siguientes pasos:
 
 Para terminar esta apartado, tenemos un magnífico ejemplo que ilustra todo lo mencionado anteriormente.
 
-## Startup en Educacion "emprender no es una opcion"
 
-## Leans
-
-porque
 
 ## 3. ENTREVISTAS DE PROBLEMA Y DE SOLUCIÓN
 
@@ -3117,11 +2863,7 @@ Lo cierto es que hacer investigación no suele gustar al alumnado, cuando hablam
 
 Y todo esto, porque la gente sabe cosas que tú no sabes: podemos pensar en ocasiones que la gente no sabe lo que quiere, pero son expertos en sus propios problemas . Por ello es
 
-## Startup en Educacion "emprender no es una opcion"
 
-## Leans
-
-## porque
 
 fundamental hablar con ellos para aprender. Olvídate de las encuestas: fíjate en las historias de la gente .
 
@@ -3155,9 +2897,7 @@ Podríamos articular la entrevista de problema en las siguientes fases:
 - Bienvenida . Presenta a tu cliente el objetivo de la entrevista y cómo funciona el proceso de la misma. Recuerda que no es una entrevista de venta y el cliente debe tenerlo claro.
 - Datos demográficos . Hay que conocer al cliente, su historia y su descripción personal, edad, trabajo, responsabilidades. Esto permite saber si pertenece a la descripción que hemos definido de nuestro cliente ideal. Fácilmente pueden ir apareciendo otro tipos de
 
-## Leans Startup en Educacion
 
-## porque "emprender no es una opcion"
 
 clientes con necesidades diferentes y perfiles más específicos que seguramente no se hubiesen contemplado.
 
@@ -3167,9 +2907,7 @@ clientes con necesidades diferentes y perfiles más específicos que seguramente
 - Nuestro Pitch . Una vez concluida la entrevista es el momento de presentar nuestra solución, con una breve presentación en la que no está de más pedirle su opinión.
 - Establecer un compromiso . Es muy aconsejable intentar que, tras la entrevista, te dirija a otras personas con las que poder tratar la cuestión y así tener más opciones para poder contrastar opiniones. Además, es importante, convocarle a una entrevista de solución, demo de producto, presentación prototipo, etc.
 
-## Leans Startup en Educacion
 
-## porque "emprender no es una opcion"
 
 ## 3.2. ENTREVISTA DE SOLUCIÓN
 
@@ -3243,9 +2981,7 @@ LanderApp nos ayuda a convertir a los usuarios en clientes finales , por ello es
 
 importante crear una landing page que convierta de verdad.
 
-## Leans Startup en Educacion
 
-## porque "emprender no es una opcion"
 
 ## 5.3. GRABACIÓN EN VÍDEO CON PANTALLA DE PC: SCREENCAST-O-MATIC
 
@@ -3279,6 +3015,8 @@ Para hacer uso de la herramienta es necesario acceder a la página de linoit.com
 
 La interfaz es intuitiva, sigue los pasos para crear tu tablero: estilo, privacidad, nombre… Una vez creado dispones de un mural y un cuadro de herramientas: sticks (post-it), vídeo, enlace… seleccionando y arrastrando podrás añadirlos al tablero. Dispone de iconos para editar, borrar y otras funcionalidades.
 
+### MODULO 6. COMUNICAR
+
 ## ÍNDICE
 
 1. Introducción
@@ -3291,7 +3029,7 @@ La interfaz es intuitiva, sigue los pasos para crear tu tablero: estilo, privaci
 8. 5.1. Transmitir en vídeo: Periscope
 9. 5.2. Cronómetro cuenta regresiva
 
-## Leans Startup en Educacion
+
 
 ## 1. INTRODUCCIÓN
 
@@ -3337,7 +3075,7 @@ Una vez tienes tu elevator pitch preparado, toca llevarlo a la práctica; aquí 
 3. No entrar en detalles
 4. Las cifras justas
 
-## Leans Startup en Educacion
+
 
 ## ACTIVIDAD NÚMERO 30. FORO DE INVERSIÓN CREATIVO
 
@@ -3353,11 +3091,7 @@ RECURSOS : para trabajar esta actividad cada grupo de alumnos decidirá qué nec
 
 EVALUACIÓN : en esta actividad comprobaremos los aspectos clave del proyecto: habilidades emprendedoras como creatividad, comunicación, trabajo en equipo,
 
-## Startup en Educacion "emprender no es una opcion"
 
-## Leans
-
-porque
 
 confianza, y aspectos técnicos propios de emprendimiento , como problema, solución, prototipos, aprendizaje validado, etc.
 
@@ -3390,6 +3124,8 @@ Periscope te permite transmitir video en directo a todo el mundo. Al salir al ai
 Hybrid Stopwatch and Timer es una aplicación sencilla, precisa y fácil de usar para android que te ayudará a medir el tiempo en cualquier situación, como en deportes , cocina, juegos , educación, etc.
 
 Puedes iniciar y detener el cronómetro pulsando el botón central; podrás ver el tiempo transcurrido en la pantalla digital ubicado en la zona superior y también en la vista analógica. Para marcar una vuelta presiona el botón izquierdo, se agregará una aguja en el cronómetro analógico indicando, para reiniciar el cronometro presiona el botón derecho. Los botones están situados de tal forma que sólo es necesario una mano para controlar el cronómetro.
+
+### ANÉXO I
 
 ## ÍNDICE
 
@@ -3543,11 +3279,7 @@ Cada uno de estos contenidos será ordenado, secuenciado y temporalizado en unid
 
 Proponemos la siguiente temporalización de los contenidos organizados anteriormente en unidades de trabajo, en número de sesiones:
 
-## Startup en Educacion "emprender no es una opcion"
 
-## Leans
-
-## porque
 
 Tabla 1
 
@@ -3582,7 +3314,7 @@ Desde el punto de vista de la enseñanza , se establece un cuestionario online a
 
 En materia de evaluación tenemos diferentes elementos. Comenzaremos señalando la relación entre los resultados de aprendizaje y los criterios de evaluación, así como el peso de cada criterio de evaluación, y los que se consideran mínimos para el alumnado. En este sentido, al establecer una rúbrica por criterio de evaluación, será ésta la que indique el nivel mínimo.
 
-## Leans Startup en Educacion
+
 
 Señalar que los criterios de evaluación 6.g, 6.h y 6.f. se traban de manera común en los diferentes resultados de aprendizaje. También señalar que los criterios 4.c, 4.d, 4.e, 4.f, 6.c y 6.d no tienen valoración porque se incluyen en otros criterios:
 
@@ -3615,9 +3347,7 @@ Tabla 3
 | 50% | g) Se ha efectuado un análisis de mercado para comprobar si existe un nicho en el mismo. | 10 |
 | 50% | h) Se ha efectuado un análisis de la competencia para posicionar nuestro producto. | 10 |
 
-## Leans Startup en Educacion
 
-## porque "emprender no es una opcion"
 
 | Resultado de aprendizaje Nº 3 | Resultado de aprendizaje Nº 3 | Resultado de aprendizaje Nº 3 |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -3650,7 +3380,6 @@ Tabla 5
 | 50% | g) Se ha comprobado la viabilidad económica por medio del análisis de proyectos de inversión. | 15 |
 | 50% | h) Se ha elaborado un plan de viabilidad a largo plazo para poder efectuar una mejor planificación en la empresa. | 5 |
 
-## Leans Startup en Educacion
 
 Tabla 6
 
@@ -3709,9 +3438,7 @@ Para la recogida de información de cada uno de los criterios de evaluación uti
 
 Como sabemos, el referente de la evaluación son los resultados de aprendizaje. Por ello, establecemos la valoración de cada uno de ellos de la siguiente forma:
 
-## Leans Startup en Educacion
 
-## porque "emprender no es una opcion"
 
 Tabla 8
 
@@ -3743,11 +3470,7 @@ Tabla 9
 | 11 SIMULADOR | EMPRES. | | | | | X | 13% | | |
 | PESO | RA 12% | 26% | 21% | 10% | 6% | 25% | 100% | 100% | |
 
-## Startup en Educacion "emprender no es una opcion"
 
-## Leans
-
-## porque
 
 Una vez realizado el cuadro anterior, conocemos en qué medida se valorarán cada uno de los resultados de aprendizaje a final de curso. A continuación, planteamos los criterios de calificación de cada resultado de aprendizaje por evaluaciones:
 
@@ -3850,11 +3573,8 @@ De forma más concreta, vamos a tener en cuenta dos aspectos:
 - Atención a la diversidad como norma en el aula : partiendo del principio de individualización de la enseñanza (todos los alumnos son diferentes y hay que atender a cada uno teniendo en cuenta su particularidad) se diseñarán actividades de refuerzo y ampliación, se empleará una metodología que permita diferentes ritmos de aprendizaje, evaluación inicial, aprendizaje significativo, etc.
 - Programa de refuerzo y recuperación para aquellos alumnos que tengan criterios de evaluación mínimos no superados, tanto después de la 1ª como de la 2ª evaluación.
 
-## Startup en "emprender no es una opcion"
 
-## Leans Educacion
 
-## porque
 
 ## 7. ACTIVIDADES COMPLEMENTARIAS
 
@@ -3913,9 +3633,6 @@ GRACIAS ESPECIALES
 
 Cuando soplan los vientos de tempestad, unos corren a refugiarse... otros construyen molinos
 
-## Lean Startup en Educacion
-
-## #EmprenderNoEsUnaOpcion
 
 UNETE A NUESTRO CANAL:
 
