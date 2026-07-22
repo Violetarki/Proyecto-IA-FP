@@ -7,38 +7,77 @@ print(chromadb.__version__)
 
 
 class VectorStore:
+    """
+     Gestiona la base vectorial mediante ChromaDB.
+    """
 
     def __init__(
         self,
         collection_name: str = "chunks",
         persist_directory: str = "./data/vector_store"
         ):
-
-        cliente = chromadb.PersistentClient(path="data/vector_store")
-        self.collection = collection_name
-
-    
-
-    def guardar_chunks(self, chunks) -> None:
+        """
+        Conecta con Chroma y crea la colección si no existe.
         """
 
-         Recibir lista de chunks
-                │
-                ▼
-        Recorrer cada chunk
-                │
-                ▼
-        Extraer:
-            - id
-            - texto
-            - embedding
+        cliente = chromadb.PersistentClient(path=persist_directory)
+        self.collection = cliente.create_collection(
+            name=collection_name,
+            get_or_create=True,
+        )
+
+
+
+    def guardar_chunks(self, chunks: list[Chunk]) -> None:
+        """
+        Guarda una lista de chunks en la colección de ChromaDB.
+
+        Cada chunk se convierte en un elemento del vector store con:
+            - ids
+            - textos
+            - embeddings
             - metadatos
-                │
-                ▼
-        Insertarlos en la colección
-
         """
-        self.collection.add("chunks")
+
+        if not chunks:
+            return
+
+        ids: list[str] = []
+        textos: list[str] = []
+        embeddings: list[list[float]] = []
+        metadatos: list[dict] = []
+
+        for chunk in chunks:
+            if not hasattr(chunk, "embedding"):
+                raise AttributeError(
+                    "Cada chunk debe tener el atributo 'embedding'."
+                )
+
+            ids.append(
+                f"{chunk.document.ruta}:{chunk.indice}"
+            )
+            textos.append(chunk.texto)
+            embeddings.append(chunk.embedding)
+
+            metadata = {
+                "documento": chunk.document.nombre,
+                "ruta": chunk.document.ruta,
+                "indice": chunk.indice,
+            }
+
+            if chunk.titulo is not None:
+                metadata["titulo"] = chunk.titulo
+            if chunk.subtitulo is not None:
+                metadata["subtitulo"] = chunk.subtitulo
+
+            metadatos.append(metadata)
+
+        self.collection.add(
+            ids=ids,
+            documents=textos,
+            embeddings=embeddings,
+            metadatas=metadatos,
+        )
 
 
     def buscar(
