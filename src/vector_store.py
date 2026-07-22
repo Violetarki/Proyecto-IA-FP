@@ -1,5 +1,5 @@
 import chromadb
-from models import Chunk
+from models import Chunk, Documento
 
 
 print(chromadb.__version__)
@@ -66,8 +66,28 @@ class VectorStore:
         k es el número de chunks que queremos devolver, así es dinámico, se puede cambiar
         """
 
-    def eliminar_documento(self, documento):
-        ...
+
+
+    def eliminar_documento(documento: Documento) -> None:        
+        """
+        eliminar_documento(nombre_documento)
+                │
+                ▼
+        Buscar todos los registros
+        cuyo metadato
+        documento = nombre_documento
+                │
+                ▼
+        Eliminar esos registros
+        de la colección
+                │
+                ▼
+         Documento eliminado
+         """
+
 
     def vaciar(self):
-        ...
+        """
+        Eliminar todos los registros
+        de la colección. útil durante el desarrollo y las pruebas
+        """
