@@ -1,4 +1,6 @@
 import chromadb
+from models import Chunk
+
 
 print(chromadb.__version__)
 
@@ -39,7 +41,11 @@ class VectorStore:
         self.collection.add("chunks")
 
 
-    def buscar(self, pregunta):
+    def buscar(
+            embedding: list[float],
+            k: int = 5
+        ) -> list[Chunk]:
+
         """
 
         Embedding de la pregunta
@@ -48,7 +54,7 @@ class VectorStore:
         Consultar ChromaDB
                 │
                 ▼
-        Obtener los x resultados más similares
+        Obtener los k resultados más similares
                 │
                 ▼
         Convertir cada resultado en un Chunk
@@ -56,6 +62,8 @@ class VectorStore:
                 ▼
         Devolver list[Chunk]
 
+        
+        k es el número de chunks que queremos devolver, así es dinámico, se puede cambiar
         """
 
     def eliminar_documento(self, documento):
