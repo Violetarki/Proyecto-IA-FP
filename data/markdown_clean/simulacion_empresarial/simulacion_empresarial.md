@@ -5092,7 +5092,7 @@ Con estos datos elabora el Plan de tesorería.
 
 ## Solución:
 
-| -------------------------------------------- | --- | ------ | ------ | ------ | ------ | ------ | ----- | ----- | ----- | ----- | ----- | ------ |
+| -------------------------------------------- | ENE | FEB    | MAR    | ABR    | MAY    | JUN    | JUL   | AGO   | SEP   | OCT   | NOV   | DIC    |
 | -------------------------------------------- | --- | ------ | ------ | ------ | ------ | ------ | ----- | ----- | ----- | ----- | ----- | ------ |
 | Aportaciones de la empresaria                |     | 100000 |        |        |        |        |       |       |       |       |       |        |
 | Préstamos solicitados                        |     | 40000  |        |        |        |        |       |       |       |       |       |        |
@@ -5121,48 +5121,43 @@ Con estos datos elabora el Plan de tesorería.
 
 Julio y Miguel Martínez han decidido montar su propio negocio. En el planteamiento de este Caso práctico vamos a hacer un doble proceso. Anotaremos los ingresos y gastos que han ido teniendo a partir de los datos contenidos en su Plan de tesorería. Después, aprovecharemos esos datos para confeccionar su Plan de tesorería sin mirar los resultados.
 
-| Aportaciones de los empresarios              | 60000  |        |        |        |        |        |        |        |        |        |        |         |
-| -------------------------------------------- | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------- |
-| Préstamos solicitados                        | 90000  |        |        |        |        |        |        |        |        |        |        |         |
-| Ventas ^                                     | 10000  | 20000  | 14000  | 19000  | 10000  | 12000  | 14000  | 8000   | 10000  | 12000  | 23000  | 13000   |
-| Intereses de la cuenta bancada               | 4      | 4      | 4      |        |        |        |        |        | 4      | 4      | 4      | 4       |
-| Otros ingresos                               |        |        |        |        |        |        |        |        |        |        |        |         |
-| Total entradas                               | 160004 | 20004  | 14004  | 19004  | 10004  | 12004  | 14004  | 8004   | 10004  | 12004  | 23004  | 13004   |
-| Compra activo fijo (maquinaria, ordenadores) | 12000  |        |        |        |        |        |        |        |        |        |        |         |
-| Compra proveedores (materia prima)           | 5000   | 5000   | 5000   | 5000   | 5000   | 5000   | 5000   | 5000   | 5000   | 5000   | 5000   | 5000    |
-| Fianza                                       | 2000   |        |        |        |        |        |        |        |        |        |        |         |
-| Alquiler                                     | 1000   | 1000   | 1000   | 1000   | 1000   | 1000   | 1000   | 1000   | 1000   | 1000   | 1000   | 1000    |
-| Seguros                                      | 950    |        |        |        |        |        |        |        |        |        |        |         |
-| Devolución de préstamo                       |        |        | 3000   |        |        | 3000   |        |        | 3000   |        |        | 3000    |
-| Devolución de intereses                      |        |        | 150    |        |        | 150    |        |        | 150    |        |        | 150     |
-| Sueldos                                      | 2600   | 2600   | 2600   | 2600   | 2600   | 5200   | 2600   | 2600   | 2600   | 2600   | 2600   | 5200    |
-| Cotización a la Seg. Soc.                    | 300    | 300    | 300    | 300    | 300    | 600    | 300    | 300    | 300    | 300    | 300    | 600     |
-| Suministros: agua, luz, teléfono, etc.       | 630    | 630    | 630    | 630    | 630    | 630    | 630    | 630    | 630    | 630    | 630    | 630     |
-| Publicidad                                   | 2400   |        |        |        |        |        |        |        |        |        |        | 7600    |
-| Tributos (impuestos)                         | 1000   | 0      | 0      | 0      | 0      | 0      | 1000   | 0      | 0      | 0      | 0      | 0       |
-| Obras                                        |        |        |        |        |        |        |        |        |        |        |        |         |
-| Total salidas                                | 27880  | $530   | 12680  | 9530   | 9530   | 15580  | 10530  | 9530   | 12680  | 9530   | 9530   | 23180   |
-| Entradas-salidas(2)                          | 132124 | 10474  | 1324   | 9474   | 474    | -3S76  | 3474   | -1526  | -2676  | 2474   | 13474  | -10176  |
-| Saldo en el banco'3'                         | 132124 | 142598 | 143922 | 153396 | 153870 | 150294 | 153768 | 152242 | 149566 | 152040 | 165514 | 155338W |
+| -------------------------------------------- | ENE    | FEB    | MAR    | ABR    | MAY    | JUN    | JUL    | AGO    | SEP    | OCT    | NOV    | DIC       |
+| -------------------------------------------- | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | --------- |
+| Aportaciones de los empresarios              | 60000  |        |        |        |        |        |        |        |        |        |        |           |
+| Préstamos solicitados                        | 90000  |        |        |        |        |        |        |        |        |        |        |           |
+| Ventas (1)                                   | 10000  | 20000  | 14000  | 19000  | 10000  | 12000  | 14000  | 8000   | 10000  | 12000  | 23000  | 13000     |
+| Intereses de la cuenta bancaria              | 4      | 4      | 4      | 4      | 4      | 4      | 4      | 4      | 4      | 4      | 4      | 4         |
+| Otros ingresos                               |        |        |        |        |        |        |        |        |        |        |        |           |
+| Total entradas                               | 160004 | 20004  | 14004  | 19004  | 10004  | 12004  | 14004  | 8004   | 10004  | 12004  | 23004  | 13004     |
+| Compra activo fijo (maquinaria, ordenadores) | 12000  |        |        |        |        |        |        |        |        |        |        |           |
+| Compra proveedores (materia prima)           | 5000   | 5000   | 5000   | 5000   | 5000   | 5000   | 5000   | 5000   | 5000   | 5000   | 5000   | 5000      |
+| Fianza                                       | 2000   |        |        |        |        |        |        |        |        |        |        |           |
+| Alquiler                                     | 1000   | 1000   | 1000   | 1000   | 1000   | 1000   | 1000   | 1000   | 1000   | 1000   | 1000   | 1000      |
+| Seguros                                      | 950    |        |        |        |        |        |        |        |        |        |        |           |
+| Devolución de préstamo                       |        |        | 3000   |        |        | 3000   |        |        | 3000   |        |        | 3000      |
+| Devolución de intereses                      |        |        | 150    |        |        | 150    |        |        | 150    |        |        | 150       |
+| Sueldos                                      | 2600   | 2600   | 2600   | 2600   | 2600   | 5200   | 2600   | 2600   | 2600   | 2600   | 2600   | 5200      |
+| Cotización a la Seg. Soc.                    | 300    | 300    | 300    | 300    | 300    | 600    | 300    | 300    | 300    | 300    | 300    | 600       |
+| Suministros: agua, luz, teléfono, etc.       | 630    | 630    | 630    | 630    | 630    | 630    | 630    | 630    | 630    | 630    | 630    | 630       |
+| Publicidad                                   | 2400   |        |        |        |        |        |        |        |        |        |        | 7600      |
+| Tributos (impuestos)                         | 1000   | 0      | 0      | 0      | 0      | 0      | 1000   | 0      | 0      | 0      | 0      | 0         |
+| Obras                                        |        |        |        |        |        |        |        |        |        |        |        |           |
+| Total salidas                                | 27880  | $530   | 12680  | 9530   | 9530   | 15580  | 10530  | 9530   | 12680  | 9530   | 9530   | 23180     |
+| Entradas-salidas (2)                         | 132124 | 10474  | 1324   | 9474   | 474    | -3576  | 3474   | -1526  | -2676  | 2474   | 13474  | -10176    |
+| Saldo en el banco (3)                        | 132124 | 142598 | 143922 | 153396 | 153870 | 150294 | 153768 | 152242 | 149566 | 152040 | 165514 | 155338(4) |
 
-(1) datos de interpretación
-
-1,
-
-(2) datos de interpretación 2,
-
-(3) datos de interpretación 3,
-
+(1) datos de interpretación 1
+(2) datos de interpretación 2
+(3) datos de interpretación 3
 (4) datos de interpretación 4
 
 ## Interpretación de los datos obtenidos en el plan de tesorería de Julio y Miguel Martínez, S.L
 
 1. Las cifras de ventas han ido creciendo, salvo en los meses finales del año. Habrá que analizar la razón de este descenso y, en función de ello, establecer medidas correctoras.
-2. En este caso, los socios creen que se debe al aumento de las compras navideñas, ya que conlleva una disminución del gasto en otros aspectos menos necesarios, como es el tu neado. Se proponen lanzar algún tipo de oferta para el año como descuentos o acumula ción de puntos y canjearlo por un regalo de Reyes Magos.
-3. La fila de Entradas-Salidas muestra que todos los meses los ingresos han ido cubriendo los gastos, salvo el mes de junio, en que los gastos superaron los ingresos. Esto se debe a la carga que supone la amortización de una parte del préstamo de forma anual y al incre mento de los costes salariales, debido a que en estos meses se abonan las pagas extras. No se puede establecer ninguna medida correctiva para ahorrar costes en este caso.
-
-4. El dato final de Saldo en el banco informa de que ningún mes ha habido problemas de liquidez, por lo que no ha sido necesario acudir a fuentes de financiación externa. Sin embargo, tienen abierta una línea de crédito con su entidad bancaria, ya que la apertura y el mantenimiento no tiene ningún coste financiero y será de ayuda para cubrir posibles imprevistos o una reducción drástica e inesperada de la facturación.
-5. A pesar de finalizar con un saldo positivo de 155 338 euros, hay que tener en cuenta que, entre el capital social y el importe del préstamo, la empresa se inició con 60000 euros, además de que hay una deuda pendiente de devolución por valor de 78000 (= 90000 - 12000), por tanto, hay que ser prudentes a la hora de dar uso a este exceso de liquidez.
+   En este caso, los socios creen que se debe al aumento de las compras navideñas, ya que conlleva una disminución del gasto en otros aspectos menos necesarios, como es el tu neado. Se proponen lanzar algún tipo de oferta para el año como descuentos o acumula ción de puntos y canjearlo por un regalo de Reyes Magos.
+2. La fila de Entradas-Salidas muestra que todos los meses los ingresos han ido cubriendo los gastos, salvo el mes de junio, en que los gastos superaron los ingresos. Esto se debe a la carga que supone la amortización de una parte del préstamo de forma anual y al incre mento de los costes salariales, debido a que en estos meses se abonan las pagas extras. No se puede establecer ninguna medida correctiva para ahorrar costes en este caso.
+3. El dato final de Saldo en el banco informa de que ningún mes ha habido problemas de liquidez, por lo que no ha sido necesario acudir a fuentes de financiación externa. Sin embargo, tienen abierta una línea de crédito con su entidad bancaria, ya que la apertura y el mantenimiento no tiene ningún coste financiero y será de ayuda para cubrir posibles imprevistos o una reducción drástica e inesperada de la facturación.
+4. A pesar de finalizar con un saldo positivo de 155 338 euros, hay que tener en cuenta que, entre el capital social y el importe del préstamo, la empresa se inició con 60000 euros, además de que hay una deuda pendiente de devolución por valor de 78000 (= 90000 - 12000), por tanto, hay que ser prudentes a la hora de dar uso a este exceso de liquidez.
 
 ## Fase 3. Elaboración de la cuenta de resultados o cuenta de pérdidas y ganancias
 
@@ -5189,7 +5184,7 @@ Se incluye la cantidad total porque es el gasto que supone para la empresa y hay
 
 La cuenta de resultados tiene como finalidad fundamental conocer con anticipación si ob tendremos beneficios o pérdidas y si estas se deberán a la actividad empresarial o a cues tiones financieras. Adicionalmente, los datos nos ofrecerán información que dará respuesta a estos interrogantes:
 
-Tabla 5.5. Información adicional que ofrece la cuenta de resultados.
+## Tabla 5.5. Información adicional que ofrece la cuenta de resultados.
 
 | ¿Se gana o se pierde cuota de mercado?                    | Respuesta deducible según la evolución de las ventas.                                                       |
 | --------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
