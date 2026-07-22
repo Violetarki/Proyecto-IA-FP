@@ -135,22 +135,20 @@ class VectorStore:
 
 
 
-    def eliminar_documento(self, documento: Documento) -> None:        
+    def eliminar_documento(self, documento: Documento) -> None:
         """
-        eliminar_documento(nombre_documento)
-                │
-                ▼
-        Buscar todos los registros
-        cuyo metadato
-        documento = nombre_documento
-                │
-                ▼
-        Eliminar esos registros
-        de la colección
-                │
-                ▼
-         Documento eliminado
-         """
+        Elimina todos los chunks asociados a un documento de la colección.
+        """
+
+        if documento is None:
+            return
+
+        self.collection.delete(
+            where={
+                "documento": documento.nombre,
+                "ruta": documento.ruta,
+            }
+        )
 
 
 
