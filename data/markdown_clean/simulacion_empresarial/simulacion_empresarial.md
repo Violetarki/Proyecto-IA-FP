@@ -627,19 +627,22 @@ Las actividades de simulación realizadas en esta unidad te han servido para sel
 
 ## Síntesis
 
-- Emprendedor: indetifica oportunidades, organiza recursos, cualidades específicas y trabaja (por cuenta propia o por cuenta ajena)
-- Idea: Util(satisface necesidades reales, percibidas por el cliente o creadas por la empresa) o Innovadora(original y diferente en: Producto, Proceso, Marketing y Organización)
-- Plan de empresa:
-  a) Idea de negocio
-  b) Socios y trayectoria profesional
-  c) Estudio de mercado
-  d) Plan de producción
-  e) Pian financiero
-  f) Plan de aprovisionamiento
-  g) Obligaciones fiscales
-  h) Plan de marketing
-  i) Plan de RR.HH.
-  j) Acciones para la internacionalización
+Emprendedor: indetifica oportunidades, organiza recursos, cualidades específicas y trabaja (por cuenta propia o por cuenta ajena)
+
+Idea: Util(satisface necesidades reales, percibidas por el cliente o creadas por la empresa) o Innovadora(original y diferente en: Producto, Proceso, Marketing y Organización)
+
+Plan de empresa:
+
+- --> Idea del negocio
+- --> Socios y trayectoria profesional
+- Estudio de mercado
+- Plan de producción
+- Plan financiero
+- Plan de aprovisionamiento
+- Obligaciones fiscales
+- Plan de marketing
+- Plan de RR.HH.
+- Acciones para la internacionalización
   (ver esquema libro página 28)
 
 ## Test de repaso
@@ -1538,7 +1541,7 @@ En esta fase deberás elaborar un estudio de mercado con el objeto de averiguar 
 
 Previamente, tendrás que seleccionar de forma justificada los medios que vais a utilizar. Una vez decididos, lleva a cabo el estudio de mercado.
 
-### Ayuda práctica:
+Ayuda práctica:
 
 - a) Redacta las conclusiones a las que llegues sobre los hábitos de compra y las necesidades insatisfechas del mercado objetivo.
 - b) Ordena toda la información que hayas encontrado de los competidores, a la que sumarás la obtenida en la Fase 5, de manera que seas capaz de indicar, por ejemplo, cuá les son sus puntos fuertes, en qué innovan, qué factores les diferencian de vosotros, cuáles son sus debilidades, a qué público objetivo se dirigen, etc.
@@ -1566,25 +1569,25 @@ Este sencillo cambio ha supuesto una revolución en el mercado de los muebles y 
 
 ## Factores que influyen en el macroentorno
 
-### Económicos
+- Económicos
 
 Vienen determinados por la coyuntura económica de cada país, ya que la globalización transmite rápidamente los efectos macroeconómicos de un país a otras zonas geográficas.
 
 Ejemplo: un negocio similar al Burger King o al McDonald's tendrá que considerar la influencia que ejerce la crisis, que puede suponer un beneficio, al desplazar a otros consumidores que han perdido poder adquisitivo hacia estas cadenas de comida rápida; al abaratar el precio de los solares; al resultar más atractiva para nuevos emprendedores la inversión en una franquicia consolidada; el alto nivel de desempleo que facilita encontrar trabajadores más cualificados. Por el contrario, será más difícil conseguir financiación, por la falta de liquidez del sistema.
 
-### Socioculturales
+- Socioculturales
 
 Hacen referencia a las características de la población, que difieren de unas áreas geográficas a otras. Las compañías tie nen que conocer las peculiaridades de cada país si quieren que su negocio se expanda con éxito.
 
 Ejemplo: hay una aceptación entre la gente joven a incorporar las hamburguesas como parte de su dieta, a la vez que un rechazo entre la gente de mediana edad por vincularlo con comida poco saludable o calórica. Por otra parte, otros hábitos sociales potencian este tipo de comida, como el estilo de vida rápida, la necesidad de celebrar cumpleaños infantiles, el hábito de ir al cine y cenar fuera de casa... Recientemente, McDonald's ha abierto unos establecimientos en la India y, para ganar mercado entre hindúes, que no comen vaca, y musulmanes, que no comen cerdo, ha desarrollado nuevas hamburguesas de pollo o vegetarianas.
 
-### Políticos y legales
+- Políticos y legales
 
 Son consecuencia del desarrollo político y normativo de un país.
 
 Ejemplo: la reforma del mercado laboral ha creado nuevos tipos de contratos o modificado las condiciones para los despidos; la normativa sociosanitaria influirá imponiendo nuevos controles y certificados de garantía; la regulación que protege la nutrición infantil ha impuesto la incorporación de fruta o lácteos en los menús infantiles, así como la obligación de indicar a los clientes la información nutricional de sus alimentos.
 
-### Medioambientales
+- Medioambientales
 
 Aluden a todas las cuestiones que tienen que ver con la sostenibilidad de la actividad empresarial y el cuidado del medio ambiente. Está muy ligado al factor político-legal, mediante las leyes medioambientales que fijan límites a las compañías.
 
@@ -1598,7 +1601,7 @@ Analiza cómo influyen los factores del macroentorno en vuestra actividad. Debes
 
 Finalmente, reflexiona qué cambios en los hábitos de vida o en las pautas de consumo podría introducir vuestro negocio, a medio o largo plazo.
 
-### Ayuda práctica:
+Ayuda práctica:
 
 - a) Haz uso de tus conocimientos para deducir qué factores del entorno general pueden afectar al negocio. Leer prensa con cierta asiduidad te ayudará: un emprendedor no puede estar desinformado, ni desconocer la evolución de la sociedad, la economía o las políticas medioambientales, por ejemplo.
 - b) Completa tus deducciones con información obtenida de Internet, utilizando varios criterios de búsqueda diferentes, tales como: «evolución del sector (...)», «características del sector (...)» o «situación del sector (...)». Prueba a acotar la búsqueda añadiendo «en España» para tener información del entorno cercano. Utiliza la información ex traída de la búsqueda más general para conocer qué tendencias se siguen en el sector en otras partes del mundo. Eso puede orientarte sobre ideas que pueden ser aplica bles en España.
@@ -1612,7 +1615,7 @@ En esta fase habrá que definir la estructura de la empresa (departamentos y su 
 
 En esta fase deberás identificar qué puestos de trabajo consideras necesarios en la em presa, organizados en departamentos y, por último, plasmarlos en un organigrama.
 
-### Ayuda práctica:
+Ayuda práctica:
 
 - a) Comienza por decidir qué funciones son necesarias. Después, distribuyelas entre los distintos socios, según el perfil profesional de cada uno que quedó reflejado en la Fa se 8 de la Unidad 1.
 - b) Haz la distribución de funciones pensando en los departamentos de la empresa. Al principio, es habitual que varios departamentos estén unidos para simplificar la estructura organizativa, por ejemplo, el departamento de compra-venta podría ser uno solo, o el departamento administrativo y el de personal.
@@ -1629,7 +1632,7 @@ En esta fase deberás diseñar un plan de acciones de Responsabilidad Social Cor
 
 Indica qué acciones pensáis llevar a cabo enmarcadas dentro del ámbito de la RSC, si es un ámbito que os gustaría incorporar en vuestra empresa.
 
-### Ayuda práctica:
+Ayuda práctica:
 
 En caso de estar interesados, elige las acciones y concretadlas: qué acciones concretas se llevarán a cabo, cada cuánto tiempo, con qué duración, a quién se aplicarán, quiénes las llevaréis a cabo, quién las coordinará y evaluará, y qué objetivos se pretenden con seguir.
 
@@ -1649,7 +1652,7 @@ Puedes utilizar la herramienta online gratuita propuesta por la página web Ingh
 
 Es posible que después de sintetizar casi todas vuestras reflexiones de esta unidad en un análisis DAFO hayan surgido nuevas ideas para mejorar vuestro negocio que afecten a decisiones anteriores. Podéis modificarlas o, en caso de no ser posible, proponerlas como intenciones de cambio para más adelante.
 
-### Ayuda práctica:
+Ayuda práctica:
 
 - a) Empieza por diferenciar, de todos los datos extraídos hasta ahora, en cuáles podrías influir y en cuáles no.
 - b) Sitúa los primeros en una columna a la izquierda y los segundos en la columna derecha. Ya está la primera distinción entre elementos internos y externos a la empresa.
@@ -1663,7 +1666,7 @@ Ha llegado el momento de incorporar las ideas obtenidas en estas fases de la Sim
 
 Las actividades de simulación efectuadas en esta unidad te han servido para realizar un estudio de mercado, el plan de producción, un organigrama, acciones de Responsabilidad Social Corporativa y un análisis DAFO.Todo eso lo debes recoger en los dos apartados siguientes, que se añadirán a los dos que realizaste en la Unidad 1:
 
-### 1. Estudio de mercado
+1. Estudio de mercado
 
 - a) Explica el entorno general que influirá en vuestra empresa y que determinará vuestras decisiones, centrándote en aspectos propios del sector de tu elección: su evolución, tendencias futuras, etc.
 - b) Define y describe a vuestro público objetivo a través de una enumeración de sus características, hábitos de compra, etc., y de todo lo averiguado sobre ellos en el estudio de mercado.
@@ -1671,13 +1674,43 @@ Las actividades de simulación efectuadas en esta unidad te han servido para rea
 - d) Expon las acciones de Responsabilidad Social Corporativa que vais a llevar a cabo (en caso de que decidáis hacerlas), y razona los motivos que justifican tal decisión.
 - e) Incorpora el análisis DAFO, así como las propuestas de cambio que tal análisis suscita en vuestro proyecto empresarial.
 
-### 2. Plan de producción
+2. Plan de producción
 
 - a) Incorpora todas las decisiones adoptadas sobre los productos y/o los servicios que ofrece vuestra empresa, incluido el listado con los precios de cada uno de ellos.
 - b) Describe la organización de la empresa a través de sus distintos departamentos: las funciones de cada uno, la jerarquía, los puestos de trabajo asociados. Incorpora la idea de una posible necesidad de contratar personal o de subcontratar empresas especializadas.
 - c) Incorpora el organigrama realizado.
 
 ## Síntesis
+
+Empresa = sistema
+
+- Organización en departamentos: Con los mismos objetivos estructurados en organigrama, Interconectados interdependientes
+- Influye en el entorno y es influida por el entorno
+
+Entorno:
+
+- Macroentorno: Factores económicos, Factores socioculturales, Factores político-legales, Factores tecnológicos y Factores medioambientales
+- Microentorno: Clientes, Competencia, Proveedores, Distribuidores
+
+Estudio de mercado:
+
+- Análisis consumidores: Segmentar mercado, Elegir mercado meta, Convertir mercado potencial en mercado actual, Ganar cuota de mercado
+- Análisis competencia: Productos sustitutivos, Factores diferenciadores: económicos, estéticos, prácticos o tecnológicos
+- Elección de proveedores y elección de distribuidores
+- Análisis DAFO
+
+Plan de empresa:
+
+- Idea del negocio
+- Socios trayectoria profesiona!
+- --> Estudio de mercado
+- --> Plan de producción
+- Plan financiero
+- Plan de aprovisionamiento
+- Obligaciones fiscales
+- Plan de marketing
+- Plan de RR.HH.
+- Acciones para la Internacionalización
 
 (Ver manual página 62)
 
@@ -1928,7 +1961,7 @@ Las empresas se clasifican en función de la titularidad de quien la ostenta y l
 
 En la Tabla 3.1 se exponen las principales formas jurídicas que una empresa puede adoptaren el momento de constituirse.
 
-Tabla 3.1. Principales formas jurídicas de una empresa.
+Tabla 3.1. Principales formas jurídicas de una empresa.(ver mejor en libro p.70)
 
 | Forma jurídica | Denominación | Nº de socios | Capital mínimo | Max. % de capital de 1 socio | Responsabilidad | Tipos de socios | Órganos de gobierno
 | Empresario individual | Libre | Solamente 1 socio | No existe | No existe | Ilimitada | No hay socios | --
@@ -1941,7 +1974,7 @@ Tabla 3.1. Principales formas jurídicas de una empresa.
 
 En la Tabla 3.2 se muestra el número de empresas fundadas entre los años 2009-2011 en cada comunidad autónoma, organizadas según su forma jurídica.
 
-Tabla 3.2. Estadística sobre creación de empresas en España para el periodo 2009-2011 (datos elaborados a partir del Registro Mercantil Central).
+Tabla 3.2. Estadística sobre creación de empresas en España para el periodo 2009-2011 (datos elaborados a partir del Registro Mercantil Central). (ver en libro p.71)
 
 |                      | S.A. | S.A. | S.A. | S.L   | S.L   | S.L   | Otras formas | Otras formas | Otras formas |
 | -------------------- | ---- | ---- | ---- | ----- | ----- | ----- | ------------ | ------------ | ------------ |
@@ -1970,7 +2003,7 @@ Tabla 3.2. Estadística sobre creación de empresas en España para el periodo 2
 
 Una de las maneras de reducir el riesgo en el momento de iniciar un negocio es a través de una franquicia.
 
-Una franquicia es la cesión por parte de un empresario {franquiciador) a una tercera persona (franquiciado), del derecho de explotación de una propiedad industrial o intelectual y de la asesoría técnica necesaria, a cambio de una compensación económica y de un porcentaje sobre los beneficios producidos.
+Una franquicia es la cesión por parte de un empresario franquiciador a una tercera persona (franquiciado), del derecho de explotación de una propiedad industrial o intelectual y de la asesoría técnica necesaria, a cambio de una compensación económica y de un porcentaje sobre los beneficios producidos.
 
 El franquiciado puede adoptar cualquier forma jurídica, salvo que el franquiciador marque entre sus condiciones la obligación de constituirse de una manera determinada.
 
@@ -2010,15 +2043,20 @@ Con el objetivo de realizar estos trámites de forma cómoda y segura, algunos e
 3. Averigua la ubicación de la VUE de tu comunidad autónoma, seleccionando la opción «Oficinas VUE» de esta web: http://www.ventanillaempresariaLorg.
 4. ¿Se te ocurre algún inconveniente por el cual no sea aconsejable contratar una gestoría para la realización de los trámites?
 
+## Trámites para el inicio de una actividad empresarial.
+
 En esta unidad se analizarán todos los trámites necesarios para el inicio de un negocio, distinguiendo entre trámites de constitución y trámites depuesta en marcha (Tabla 3.3).
 
-## Tabla 3.3. Trámites para el inicio de una actividad empresarial.
+Tabla 3.3. Trámites para el inicio de una actividad empresarial. (ver mejor en libro p.73)
 
-| Empresa | Trámites de constitución | Trámites de puesta en marcha |
+- Empresa: Empresario individual
+- Trámites de constitución: No requiere ningún trámite específico.
+- Trámites de puesta en marcha: • AltaenellAE. • Alta en el IVA. • Declaración previa de inicio de actividad. • Elección régimen IRPF. • Alta en el RETA. • Inscripción de la empresa en la Seguridad Social (si contrata trabajadores). • Afiliación y alta de los trabajadores. • Legalización de libros oficiales.
 
-| Empresario individual | No requiere ningún trámite específico. | • AltaenellAE. • Alta en el IVA. • Declaración previa de inicio de actividad. • Elección régimen IRPF. • Alta en el RETA. • Inscripción de la empresa en la Seguridad Social (si contrata trabajadores). • Afiliación y alta de los trabajadores. • Legalización de libros oficiales. |
+- Empresa: Sociedades
+- Trámites de constitución: Certificación negativa de la denominación social. • Apertura de cuenta bancaria. • Redacción de los estatutos. • Firma de la escritura. • Liquidación del ITP/AJD. • Solicitud del CIF. • Inscripción en el Registro Mercantil.
+- Trámites de puesta en marcha: • Obtención del CIF. • Legalización de los libros. • Alta en el IAE. • Alta en el IVA. • Declaración previa de inicio de actividad. • Alta en el RETA de los socios. • Inscripción de la empresa en la Seguridad Social (si contrata trabajadores). • Afiliación y alta de los trabajadores en el Régimen general. • Comunicación de apertura. • Sellado del libro de visitas. • Solicitud de licencias municipales. • Inscripción en el Registro de la Propiedad o Industrial.
 
-| Sociedades | • Certificación negativa de la denominación social. • Apertura de cuenta bancaria. • Redacción de los estatutos. • Firma de la escritura. • Liquidación del ITP/AJD. • Solicitud del CIF. • Inscripción en el Registro Mercantil. | • Obtención del CIF. • Legalización de los libros. • Alta en el IAE. • Alta en el IVA. • Declaración previa de inicio de actividad. • Alta en el RETA de los socios. • Inscripción de la empresa en la Seguridad Social (si contrata trabajadores). • Afiliación y alta de los trabajadores en el Régimen general. • Comunicación de apertura. • Sellado del libro de visitas. • Solicitud de licencias municipales. • Inscripción en el Registro de la Propiedad o Industrial. |
 
 ## Trámites de constitución
 
@@ -2030,13 +2068,13 @@ Estos trámites varían según la forma jurídica elegida:
 
 - Las sociedades deben cumplir varios requisitos que se detallan a continuación.
 
-## Certificación negativa de la denominación social
+### Certificación negativa de la denominación social
 
 Documento expedido por el Registro Mercantil Central (RMC) donde se indica que el nombre elegido para nuestra sociedad no lo utiliza otra empresa. Una vez confirmado, el RMC reserva durante un tiempo el nombre mientras se cumplen el resto de los trámites. A este nombre se le añadirán obligatoriamente las siglas que indican la forma jurídica de la sociedad.
 
 El Registro Mercantil (RM) es una oficina pública donde todas las empresas tienen obligación de inscribirse y de hacer constar cualquier cambio sustancial que se produzca. La documentación recogida por el Registro Mercantil de cada provincia se traslada al Registro Mercantil Central (RMC) que centraliza toda la información de acceso público, y la ofrece al usuario previo pago.
 
-## Actividades
+Actividades
 
 5. Indica por qué es necesario añadir las siglas a la denominación de la empresa.
 6. Resuelve las siguientes cuestiones relacionadas con el Registro Mercantil Central (RMC):
@@ -2049,11 +2087,11 @@ El Registro Mercantil (RM) es una oficina pública donde todas las empresas tien
 
 Los pagos y cobros que se realicen en nombre de la sociedad deben efectuarse a través de una cuenta bancaria a nombre de dicha empresa. Cualquier entidad financiera es válida, así que los socios elegirán aquella que les ofrezca unas mejores condiciones. La cantidad mínima para abrir la cuenta será la determinada según el requisito legal de cada tipo de sociedad constituida. No obstante, pueden aportarse cantidades superiores.
 
-## Actividades
+Actividades
 
 7. Indica la cantidad mínima de capital social que habrá que aportar en el caso de constituir las siguientes empresas: Sociedad Limitada Laboral, Sociedad Cooperativa, Sociedad Anónima Laboral y Sociedad Limitada Nueva Empresa.
 
-## Elaboración de los estatutos y firma de la escritura de constitución
+### Elaboración de los estatutos y firma de la escritura de constitución
 
 Los estatutos son las normas que van a regir la sociedad y donde se especifica la naturaleza de la misma (el nombre, el objeto y el domicilio social, el capital inicial, los datos identificativos de los socios, el régimen de participación de cada uno, los acuerdos sobre el reparto de beneficios, el procedimiento para tomar decisiones, etc.), normalmente están redactados por un abogado.
 
@@ -2061,23 +2099,23 @@ Las sociedades laborales y las sociedades cooperativas precisan de una calificac
 
 Con posterioridad, los socios acudirán al notario para firmar la escritura pública de constitución de la sociedad. A través de este acto se revalidan delante del notario los acuerdos adoptados por los socios, con el fin de darles autenticidad y validez legal.
 
-## Liquidación del impuesto ITP/AJD
+### Liquidación del impuesto ITP/AJD
 
 El Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados (ITP/AJD) grava la constitución de una sociedad y el incremento o disminución de su capital. En caso de disolución de la sociedad, o fusión, escisión o reducción de su capital social, los socios están obligados al pago de este impuesto por los bienes recibidos en dicha liquidación.
 
-## Ejemplo 1. El 1TP/ADJ
+Ejemplo 1. El 1TP/ADJ
 
 En el caso de constituir una sociedad, la cuota a pagar del ITP/AJD es siempre del 1 % del capital social aportado. Pero en el R.D. 13/2010 se elimina la obligación de este pago para suprimir los obstáculos que dificultan la creación de empresas en la actual coyuntura económica.
 
-## Solicitud del CIF provisional
+### Solicitud del CIF provisional
 
 El Código de Identificación Fiscal (CIF) sirve para identificar la sociedad ante la agencia tributaria. Inicialmente se otorga un CIF provisional y, una vez registrada la empresa, se debe canjear por el CIF definitivo. El empresario individual, por el contrario, se identifica con su NIF.
 
-## Inscripción de la sociedad en el Registro Mercantil
+### Inscripción de la sociedad en el Registro Mercantil
 
 La sociedad adquiere plena capacidad jurídica cuando se inscribe en el Registro Mercantil de la provincia en que se encuentra domiciliada la razón social. Todas las sociedades deben realizar este trámite, salvo las cooperativas, ya que estas solamente deben inscribirse en el Registro General de Cooperativas de la comunidad a que pertenece. Las sociedades laborales, además, tienen que ser inscritas de forma previa en el Registro de Sociedades Laborales de la comunidad autónoma correspondiente.
 
-## Actividades
+Actividades
 
 8. Averigua qué documentos hay que presentar en las siguientes situaciones:
 
@@ -2094,13 +2132,13 @@ Los trámites de puesta en marcha son aquellos que la empresa debe realizar una 
 
 Estos trámites se agrupan en tres grandes categorías que seguidamente se analizarán: obligaciones fiscales con Hacienda, obligaciones con la Segundad Social y otros trámites.
 
-## Obligaciones fiscales con Hacienda
+### Obligaciones fiscales con Hacienda
 
-### Obtención del CIF definitivo
+- Obtención del CIF definitivo
 
 El CIF provisional debe reemplazarse por el CIF definitivo.
 
-### Legalización de los libros de la sociedad
+- Legalización de los libros de la sociedad
 
 Los empresarios individuales y las sociedades deben presentar ante el Registro Mercantil correspondiente los libros que están obligados a llevar, ya que difieren en función de la forma jurídica que ostentan. En el Registro los sellarán y los habilitarán para que puedan empezar a usarse, a fin de evitar que se manipule la información que tales libros contienen, sobre todo, los libros contables. Algunos de estos libros son:
 
@@ -2111,70 +2149,70 @@ Los empresarios individuales y las sociedades deben presentar ante el Registro M
 - Libros exigidos por el impuesto de sociedades
 - Libros exigidos por el impuesto sobre el valor añadido.
 
-### Alta en el Impuesto de Actividades Económicas IAE
+- Alta en el Impuesto de Actividades Económicas IAE
 
 Es un tributo de carácter local que grava el ejercicio de actividades empresariales, profesionales o artísticas, se ejerzan o no en un local. Es obligatorio darse de alta para el empresario individual y las sociedades, no obstante, desde el año 2003 solo deben abonarlo las sociedades que tengan una cifra de negocios superior a un millón de euros.
 
-### Declaración censal de IVA
+- Declaración censal de IVA
 
 Consiste en darse de alta en este impuesto antes de iniciar la actividad empresarial. Es prescriptivo para los empresarios individuales y las sociedades.
 
 ## Obligaciones con la Seguridad Social
 
-### Alta de los socios en el Régimen de Autónomos
+- Alta de los socios en el Régimen de Autónomos
 
 El Régimen Especial de Trabajadores Autónomos (RETA) es el régimen de la Seguridad Social en el que deben inscribirse los trabajadores que realicen una actividad por cuenta propia. Las sociedades solo están obligadas a inscribirse en el RETA si se dan unas determinadas circunstancias, en caso contrario deberán inscribirse en el Régimen de la Seguridad Social. Las circunstancias que obligan a las sociedades a inscribirse en el RETA se producen en los siguientes casos:
 
-- Sociedades laborales
+Sociedades laborales
 
 Socio que, junto con sus familiares hasta segundo grado, posee más del 50% del capital.
 
-- Sociedad Anónima o Sociedad Limitada
+Sociedad Anónima o Sociedad Limitada
 
 Socio trabajador que, junto con sus familiares hasta segundo grado, posee más del 50 % del capital.
 Socio trabajador que posee más del 25 % y realiza tareas de gerencia.
 
-- Sociedades cooperativas
+Sociedades cooperativas
 
 Los socios optan a qué régimen quieren pertenecer, pero la decisión es común y afecta a todos.
 
-### Inscripción de la empresa en la Seguridad Social
+- Inscripción de la empresa en la Seguridad Social
 
 La empresa que vaya a contratar uno o más trabajadores debe notificarlo a la Seguridad Social, que asignará al centro de trabajo un código de cuenta de cotización. Dicha inscripción será única e identificará el centro de trabajo ante la seguridad social provincial. No deberá volver a solicitarse si se abren nuevos centros de trabajo, salvo que se ubiquen en una provincia diferente.
 
-### Afiliación y alta de trabajadores en el Régimen General
+- Afiliación y alta de trabajadores en el Régimen General
 
 Los trabajadores contratados, si los hay, deben ser dados de alta en el Régimen General de la Seguridad Social. En el caso de que nunca antes hayan trabajado, será requisito imprescindible afiliarles previamente a la Segundad Social. A través de la afiliación se les inscribe por primera vez en la Seguridad Social y se les otorga un número que permanecerá invariable durante toda la vida aunque cambien de trabajo o de empresa.
 
-## Otros trámites
+### Otros trámites
 
-### Comunicación de apertura del centro de trabajo
+- Comunicación de apertura del centro de trabajo
 
 Trámite obligatorio antes de la apertura de un nuevo centro de trabajo o tras la reanudación de la actividad, si se han efectuado cambios de importancia en el centro.
 
-### Sellado del libro de visitas
+- Sellado del libro de visitas
 
 El libro de visitas recoge las impresiones del inspector de trabajo en su visita a las instalaciones. Es prescriptivo disponer de uno por cada centro de trabajo, incluso si no se tienen trabajadores contratados.
 
-### Solicitud de licencias municipales
+- Solicitud de licencias municipales
 
 El inicio de una nueva actividad en un local conlleva la obligación de solicitar algunas licencias ante el ayuntamiento correspondiente: licencia de apertura, licencia de obras o licencia por cambio de titularidad o de actividad.
 
-### Registrar la propiedad intelectual
+- Registrar la propiedad intelectual
 
 Es posible registrar una patente, diseño, logotipo, o nombre comercial. En todos los casos se busca proteger al titular del derecho de su uso en exclusividad y de impedir a terceros que lo exploten sin el consentimiento del titular.
 
-### Inscripción en el Registro Industrial
+- Inscripción en el Registro Industrial
 
 Las empresas dedicadas a actividades de carácter industrial deben inscribir en el Registro Industrial de la comunidad autónoma correspondiente la apertura de nuevos establecimientos, su ampliación, reducción, traslado, cambio de titularidad o modificación de los datos registrales.
 
 Los datos serán trasladados al Registro Integrado Industrial, de ámbito estatal, que centraliza todos los datos.
 
-## Ejemplo 2. Apple contra Samsung
+Ejemplo 2. Apple contra Samsung
 
 Una reciente sentencia de un tribunal de California obliga a Samsung a pagar 1 050 millones de dólares a Apple. El fallo del tribunal responde a la demanda interpuesta por Apple contra Samsung por plagio de diseño y violación de patentes. Aunque el tribunal ha desestimado algunos de los elementos denunciados, la noticia ha su puesto un gran varapalo para Samsung, que puede ver mermada su reputación.
 
-## Ejemplo 3. Actividades inscritas en el Registro Industrial
+Ejemplo 3. Actividades inscritas en el Registro Industrial
 
 Algunas actividades que deben inscribirse en el Registro Industrial son:
 
@@ -2240,13 +2278,15 @@ Algunas de las actividades empresariales que requieren autorización inicial son
 - Entidades de financiación, sociedades y fondos de capital-riesgo, sociedades y agencias de valores, sociedades de inversión.
 - Gasolineras y estaciones de servicio, taxistas.
 
+## Simulación empresarial
+
 El objetivo en esta unidad es que elijas la for ma jurídica más conveniente para constituir tu empresa y sepas realizar los trámites necesarios para su puesta en marcha.
 
 ## Fase 1. Elegir la forma jurídica
 
 La elección de la forma jurídica es un aspecto fundamental ya que determina las exigencias en cuanto a: el número de socios, el capital inicial mínimo o máximo necesario, la protección del patrimonio personal de los socios en caso de deudas, los impuestos a pagar, los trámites exigibles para su constitución, la mayor o menor facilidad a la hora de transmitir a terceros el porcentaje de participación en la empresa y la imagen ante los clientes.
 
-La libertad de elección de la personalidad jurídica está solo condicionada por el objeto
+La libertad de elección de la personalidad jurídica está solo condicionada por el objeto social del negocio, ya que algunas actividades económicas están obligadas a constituirse en una forma jurídica concreta. Se trata de excepciones muy concretas y escasas a la regla general de libertad de elección.
 
 | Fases de la Simulación empresarial | Fases de la Simulación empresarial                |
 | ---------------------------------- | ------------------------------------------------- |
@@ -2259,9 +2299,6 @@ La libertad de elección de la personalidad jurídica está solo condicionada po
 | Fase 7.                            | Trámites en la Seguridad Social                   |
 | Fase 8.                            | Otros trámites                                    |
 
-_-----------------_
-
-social del negocio, ya que algunas actividades económicas están obligadas a constituirse en una forma jurídica concreta. Se trata de excepciones muy concretas y escasas a la regla general de libertad de elección.
 
 En la Tabla 3.4 se analizan los diferentes criterios de elección y sus implicaciones prácticas.
 
