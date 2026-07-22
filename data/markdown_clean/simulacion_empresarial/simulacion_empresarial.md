@@ -3281,11 +3281,12 @@ Esta opción, habitual en empresas que venden bienes de alto precio, como electr
 
 Por ello, la compañía requerirá compensar esta carencia de liquidez e, incluso, el riesgo de impago, con fórmulas de financiación alternativas.
 
-### Crédito comercial: 
+### Crédito comercial:
 
 la empresa financia la compra de su cliente ofreciéndole la posibilidad de pagar a plazos en cómodas cuotas a 30,60 o 90 días. Es una manera de asegurar e incrementar las ventas, si bien conlleva riesgo de impago y falta de liquidez.
 
 ### Tabla 4.7. Facilidades de pago.
+
 - Descuento comercial o descuento de efectos
 
 La empresa entrega una entidad financiera los efectos pendientes de cobro de sus clientes. El banco anticipa el dinero, cambio de una comisión por la tramitación de un interés por el anticipo recibido. Los efectos son de rechos de cobro de una empresa (facturas, letras de cambio, pagarés, cheques...), debido que los clientes no han abonado aún el precio de los bienes adquiridos. El riesgo de impago lo asume siempre la empresa que cede estos efectos.
@@ -3350,7 +3351,7 @@ Además, se ofrecen otros servicios como gestoría, alquiler de coches o descuen
 
 ## Actividades
 
-14. Entra en este enlace http://www.panoramaaudlovisual.com/2012/11/13/nacela-industrial-un-espacio-que-ofrece-zona-de-coworking-eventos-talleresaula-y-formadon-avanzada 
+14. Entra en este enlace http://www.panoramaaudlovisual.com/2012/11/13/nacela-industrial-un-espacio-que-ofrece-zona-de-coworking-eventos-talleresaula-y-formadon-avanzada
 
 y averigua qué servicios ofrece la empresa La Industrial y con qué finalidad.
 
@@ -3405,7 +3406,7 @@ Su origen tuvo lugar en las universidades norteamericanas y su éxito más conoc
 
 Está basada en una idea similar a la incuba dora, pero persigue el lanzamiento de un negocio naciente en el menor tiempo posible. Mientras que en las incubadoras se espera que los proyectos crezcan de forma natural, siguiendo los plazos marcados en sus planes de negocio, en las aceleradoras, en cambio, el propósito es lograr un crecimiento rápido en un breve plazo de tiempo. Para ello suelen ofrecer instalaciones económicas, un mentor y un capital semilla para iniciar el negocio o, al menos, el contacto con inversores pri vados y fondos de capital riesgo donde conseguir financiación. La rapidez en el nacimiento de estas empresas es posible porque, en términos generales, las aceleradoras apoyan proyectos que tienen como objeto social la fabricación de un producto económico con gran penetración de mercado. La alta demanda esperada se conseguiría gracias a la promoción y distribución online, que posibilita una difusión masificada a bajo coste y ofertar un precio de venta asequible, lo que favorece la compra impulsiva.
 
-## Un mentor 
+## Un mentor
 
 es aquel que ejerce la función de guiar y orientar a otro porque su experiencia y/o sus conocimientos lo autorizan para ejercer ese papel.
 
@@ -3542,15 +3543,13 @@ La primera pregunta que se hace un emprendedor que está ilusionado con iniciar 
 
 Las aportaciones de capital establecen el porcentaje de propiedad de la empresa. El aporte realizado en inmuebles o en bienes también tendrá la consideración de capital social, siempre que se trate de bienes y derechos económicamente valuables, esto es, que puedan ser cuantificados en términos económicos. Será este valor fijado el que se compute como capital social aportado y otorgará al socio los mismos derechos que si la contribución hubiera sido monetaria. En el caso de un empresario individual se habla de capital a secas, ya que el calificativo social sería inexacto, al no caber la posibilidad de tener socios.
 
-,.«\_.««....\_..\_,\_\_..
+- El valor nominal es el precio de referencia que se utiliza en la emisión de un valor (acción, bono, etc.) y es asignado por la entidad que lo emite.
 
-El valor nominal es el precio de referencia que se utiliza en la emisión de un valor (acción, bono, etc.) y es asignado por la entidad que lo emite.
-
-El valor real o valor de mercado es el precio que alcanza ese valor en el intercambio. En él se reconocen los efectos de la inflación.
+- El valor real o valor de mercado es el precio que alcanza ese valor en el intercambio. En él se reconocen los efectos de la inflación.
 
 El capital de una sociedad puede encontrarse totalmente desembolsado o suscrito, esto es, sin haberse aportado pero con el compromiso de hacerlo más adelante. En las sociedades limitadas, el importe mínimo es de 3000 euros, debiendo estar totalmente suscrito y des embolsado, mientras que en las sociedades anónimas, no puede ser inferior a 60000 euros, debiendo estar totalmente suscrito y desembolsado en, al menos, el 25 %.
 
-## Ejemplo 17. Capital social de Telefónica
+### Ejemplo 17. Capital social de Telefónica
 
 La página web de Telefónica recoge la siguiente información:
 
@@ -3564,6 +3563,12 @@ El capital social puede incrementarse en aportaciones posteriores, cuando ya est
 
 El dinero aportado por los socios conlleva unas ventajas y unos inconvenientes. Conocerlos y valorarlos es necesario antes de decidir de dónde obtener el dinero (Tabla 4.8).
 
+## Dinero aportado por los socios: ventajas inconvenientes.
+
+Tabla 4.8. Dinero aportado por los socios: ventajas inconvenientes.
+
+- Ventajas
+
 Accesibilidad para todas las empresas. Todas ellas, independientemente de su forma jurídica, pueden ver ampliado su capital o sus bienes por nuevas aportaciones de los socios, o bien, por la entrada de nuevos socios.
 
 Reducción del riesgo para la empresa. Al contrario de lo que sucede con el resto de fuentes de financiación, este capital no tiene que ser devuelto de forma inmediata, ni tiene que ser remunerado a intervalos regulares a través de intereses. Por el contrario, la rentabilidad de este dinero aportado se obtiene a través del reparto de dividendos, si la situación de la empresa lo permite.
@@ -3571,6 +3576,8 @@ Reducción del riesgo para la empresa. Al contrario de lo que sucede con el rest
 Autonomía financiera de la empresa. Las aportaciones sucesivas de capital por los socios suponen un aumento de los recursos económicos sin depender de fuentes externas.
 
 Ventajas adicionales. Los socios fundadores pueden tener unas prerrogativas económicas aseguradas, como el derecho a percibir un 10% de los beneficios netos de la sociedad, una vez descontada la dotación obligatoria a la reserva legal.
+
+- Inconvenientes
 
 Menor disponibilidad. No siempre los promotores pueden aportar todo el capital necesario. La entrada de nuevos socios puede implicar que la toma de decisiones se reparta entre más personas.
 
@@ -3584,18 +3591,25 @@ La cuenta ahorro-empresa es una opción de ahorro si se tiene en mente iniciar u
 
 Algunos bancos y cajas de ahorro ofrecen un producto bancario denominado cuenta ahorro-empresa con la que desgravarse un 15% del capital aportado, con un máximo de 9000 €/anuales que, en realidad, ofrece una remuneración menor a otras cuentas de ahorro. Por eso, hay que analizar bien la oferta y compararla con la rentabilidad de otros productos bancarios, ya que para beneficiarse de este beneficio fiscal es válida cualquier cuenta bancaria, siempre que estos ahorros se utilicen exclusivamente para constituir una sociedad que, como ya señalamos, debe ser una sociedad limitada nueva em presa. Por tanto, hay que seleccionar la cuenta que ofrezca más alta rentabilidad del mercado, aunque no se denomine cuenta ahorro-empresa en la entidad bancaria.
 
-Para poder deducir las cantidades de la cuenta ahorro-empresa en la declaración de la renta habrá que cumplir, además, los requisitos indicados en la Tabla 4.9.
-
-Tabla 4.9. Requisitos para deducir en la Declaración de la Renta.
-
-| En el plazo máximo de un año habrá que destinar los fondos de esta cuenta a: • Adquisición de inmovilizado material e inmaterial. • Gastos de constitución. • Compra o alquiler de un establecimiento. • Contratación de, al menos, un trabajador. Es decir, no puede ser autónomo ni estar subcontratado, sino que se exige la relación laboral a través de un contrato laboral. |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Compromiso • El objeto social consignado. • El local y el empleado a jornada completa.                                                                                                                                                                                                                                                                                            |
-| Condición El contribuyente solo podrá mantener una cuenta ahorro-empresa y únicamente tendrá derecho a la deducción por la primera sociedad Nueva Empresa que se constituya.                                                                                                                                                                                                      |
-
 Normalmente, el emprendedor no suele optar por abrir una cuenta ahorro empresa, porque cuando decide montar un negocio no lo hace con miras de tres años, sino con intención de empezar a trabajar en su negocio lo más pronto posible para poder mantenerse. En caso contrario, deberá trabajar para otra empresa, lo que conlleva retrasar la puesta en marcha de su proyecto empresarial
 
-## I Crowdfunding o micromecenazgo
+Para poder deducir las cantidades de la cuenta ahorro-empresa en la declaración de la renta habrá que cumplir, además, los requisitos indicados en la Tabla 4.9.
+
+## Tabla 4.9. Requisitos para deducir en la Declaración de la Renta.
+
+Plazo
+
+- En el plazo máximo de un año habrá que destinar los fondos de esta cuenta a: • Adquisición de inmovilizado material e inmaterial. • Gastos de constitución. • Compra o alquiler de un establecimiento. • Contratación de, al menos, un trabajador. Es decir, no puede ser autónomo ni estar subcontratado, sino que se exige la relación laboral a través de un contrato laboral.
+
+Compromiso
+
+- La empresa deberá mantener durante almenos dos años: • El objeto social consignado. • El local y el empleado a jornada completa.
+
+Condición
+
+- El contribuyente solo podrá mantener una cuenta ahorro-empresa y únicamente tendrá derecho a la deducción por la primera sociedad Nueva Empresa que se constituya.
+
+## Crowdfunding o micromecenazgo
 
 Esta fuente de financiamiento se está popularizando como una manera de financiar un proyecto de empresa. Su origen se sitúa en las donaciones altruistas que, en países como Estados Unidos, es práctica habitual para sostener instituciones culturales o sufragar el coste de las campañas políticas.
 
