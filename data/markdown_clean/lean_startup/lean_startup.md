@@ -19,11 +19,9 @@ UNETEA NUESTROCANAL: www.telegram.me/pablopenalver
 
 
 
-Emprender no es una opcion
-
 ANNA CLEMENTS,Directora General y cofundadora de SOs Galgos.
 
-Anna fue profesora durante nueve anos y formadora de profesores durante cuatro anos .
+Anna fue profesora durante nueve años y formadora de profesores durante cuatro anos .
 
 Durante anos simultaneo su trabajo con charlas en colegios sobre la proteccion de animales, actividad que a dia de hoy sigue haciendo junto con la Policia Local de Esplugues. Dejo la ensenanza para dedicarse en cuerpo y alma a la proteccion de los galgos, aunque su formacion como educadora es muy importante para conseguir uno de los objetivos de SoS Galgos: que las futuras generaciones sean mas respetuosas con los animales.
 
@@ -131,9 +129,7 @@ basada en
 27. 29.Test A/B
 30. Foro de Inversion Creativo
 
-## Lean Startup Educacion en
-
-## 30 DINAMICAS
+## Lean Startup Educacion en 30 DINAMICAS
 
 basadas en
 
@@ -593,11 +589,7 @@ Por último, y como hemos hecho en epígrafes anteriores, veamos este esquema me
 21. 8.2. Creación de collages: Photo Grid
 22. 8.3. Sonido: SoundCloud
 
-## Startup en "emprender no es una opcion"
 
-## Leans Educacion
-
-porque
 
 ## 1. INTRODUCCIÓN
 
@@ -882,7 +874,7 @@ EVALUACIÓN : esta actividad no tiene una evaluación concreta. Será el paso de
 
 DEFINICIÓN : formados los equipos pasamos a probar cómo funcionan. Para ello, vamos a proponer una actividad que puede perfectamente sintetizar el curso. Se denomina "el reto de los 5€", y consiste en idear y llevar a la práctica una actividad con el fin de rentabilizar 5€. Esta dinámica ha sido creada por Tina Seelig, y puedes verla en el siguiente enlace:
 
-## https://www.youtube.com/watch?v=VVgIX0s1wY8
+https://www.youtube.com/watch?v=VVgIX0s1wY8
 
 Con alguna modificación, en la práctica realizamos: una presentación de la dinámica, en el que se ofrece a cada grupo de alumnos 5€. Después han de plantear diferentes formas de rentabilizar ese dinero, elegir una y organizar cómo llevarla a la práctica. Conviene dejar 2, 3 ó 4 días (a mí me gusta que puedan utilizar ul fin de semana para la dinámica) para ejecutar la idea. En la clase siguiente, el grupo expondrá el trabajo llevado a cabo, con los inconvenientes que haya habido, los descubrimientos realizados, y el dinero obtenido.
 
@@ -930,10 +922,6 @@ Además de la anterior, hay otras herramientas que nos ayudan a conocer nuestro 
 
 'La Dirección General de Industria y de la Pequeña y Mediana Empresa del Ministerio de Industria, Energía y Turismo, ha elaborado una serie de herramientas que ayudan al
 
-
-
-
-porque
 
 emprendedor en su camino . La que aquí se presenta, Autodiagnóstico del Emprendedor , sería la primera del itinerario que se ve complementada con la Herramienta de Plan de Empresa, Simulación Empresarial y Autodiagnóstico para acceso a nuevos mercados.Resulta evidente que el emprendedor, antes de iniciar su andadura, debe conocer cómo es él personalmente y reflexionar sobre multitud de aspectos relacionados con su proyecto empresaria l.
 
@@ -1238,10 +1226,6 @@ La literatura empresarial nos ofrece una tabla síntesis donde se recogen las fu
 | | Cámaras de Comercios | | | |
 
 
-
-
-porque
-
 ## 3. PROCESO DE SELECCIÓN DE UNA IDEA DE NEGOCIO
 
 ## 3.1. BRAINSTORMING
@@ -1292,12 +1276,7 @@ RECURSOS : para trabajar esta actividad, será necesario partir del nivel de con
 
 recoger información vía Internet sobre ideas de negocio innovadoras y sectores emergentes, con el fin de poder establecer relaciones entre las ideas propuestas y el rumbo de tales sectores. Y todo ello, contando con papel continuo colgado en la pared, así como postits de diferentes colores, si es posible.
 
-EVALUACIÓN : en esta actividad podemos comprobar ámbitos de interés para nuestros alumnos, una de las claves para elegir proyectos cercanos a los mismos, y así conseguir
-
-
-
-
-la motivación necesaria para hacer del emprendimiento un punto de partida clave en el aula, y enganchar al alumnado desde el primer día.
+EVALUACIÓN : en esta actividad podemos comprobar ámbitos de interés para nuestros alumnos, una de las claves para elegir proyectos cercanos a los mismos, y así conseguir la motivación necesaria para hacer del emprendimiento un punto de partida clave en el aula, y enganchar al alumnado desde el primer día.
 
 ## 3.2. CARDSORTING
 
@@ -1415,12 +1394,7 @@ EVALUACIÓN : en esta actividad podemos comprobar el avance del grupo, y sobre t
 
 ## 4. PROCESO DE VALIDACIÓN DE UNA IDEA DE NEGOCIO
 
-Una vez elegida la idea de negocio, vamos a llevar a cabo un proceso de validación , con el fin de asegurarnos si la citada idea es lo suficientemente buena para abordar el proyecto. Para
-
-
-
-
-ello, os mostramos un gráfico del proceso a seguir, que a continuación desarrollamos con detalle:
+Una vez elegida la idea de negocio, vamos a llevar a cabo un proceso de validación , con el fin de asegurarnos si la citada idea es lo suficientemente buena para abordar el proyecto. Para ello, os mostramos un gráfico del proceso a seguir, que a continuación desarrollamos con detalle:
 
 En el momento en el que nos encontramos del proyecto, no podemos afirmar que la idea es buena o mala en sí mismo. Hasta podríamos decir que toda idea vale. Será lo que aprendamos a lo largo de todo el proceso lo que hará que esa idea tenga más ó menos recorrido.
 
