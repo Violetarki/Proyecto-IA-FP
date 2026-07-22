@@ -3115,7 +3115,7 @@ Las ayudas económicas que ofrece la Administración los organismos públicos ti
 
 Ejemplo: La Junta de Castilla León concedió en 2012,304560 euros en subvenciones ayuntamientos del medio rural con el fin de financiar las obras necesarias en centros educativos para poder impartir el primer ciclo de Educación Infantil. La Junta de Castilla y León financió el 90% del coste de la inversión, mientras que el 10 restante corrió cargo de cada ayuntamiento.
 
-Tabla 4.2. Modos de financiación por capital arranque y capital de expansión (recursos propios) (Continuación).
+Tabla 4.2. Modos de financiación por capital arranque y capital de expansión (recursos propios).
 
 ## Clasificación de las reservas
 
@@ -3131,15 +3131,15 @@ Aunque resulta más caro financiarse con recursos ajenos, dado que hay que pagar
 
 El apalancamiento se refiere al efecto positivo generado, en términos de rentabilidad económica, al utilizar dinero ajeno para una inversión o para generar más negocio.
 
-- [ ] D Financiación a largo plazo
+## Financiación a largo plazo
 
 La primera fuente de financiación que nos surge son los familiares y los amigos. Sin embargo, las mayores cantidades de dinero provienen de los bancos y de las entidades financieras.
 
+- Aportaciones de familiares y amigos
+
 Permite acceso rápido y con condiciones privilegiadas a recursos económicos. Sin embargo, las cantidades disponible no suelen ser elevadas y la presión psicológica puede ser fuerte.
 
-^§i§1
-
-fc#&lt;#¥Wi
+- Préstamos bancarios
 
 Es una cantidad de dinero que la empresa recibe de una entidad de crédito (banco, caja de ahorro o cooperativa de crédito) a cambio de reintegrarlo transcurrido un plazo de tiempo, con unos intereses determinados, por medio de unas cuotas mensuales.
 
@@ -3147,11 +3147,15 @@ Si el banco tiene dudas sobre la viabilidad de la empresa, por ejemplo, por trat
 
 Un aval es el compromiso adquirido por una tercera persona (avalista), que responde con sus bienes personales de la devolución del préstamo en caso de impago.
 
-## -------------------------
+- Financiación a través de entidades financieras no bancarias
 
 Algunas grandes cadenas de supermercados cuentan con sus propios servicios financieros para ofrecer facilidades de pago a sus clientes como, por ejemplo, los Servicios Financieros Carrefour E.F.C. Sus tipos de interés suelen ser superiores a los de los bancos, si bien a cambio son menos restrictivos en sus requisitos de acceso a la financiación, garantías exigidas y plazos temporales. Además, permiten la personalización de las condiciones según la situación de cada empresa.
 
+- Emisión de títulos de deuda
+
 Los títulos de deuda son un instrumento financiero que sirve para obtener fondos de particulares, de otras empresas o de entidades financieras. De esta manera, un gran préstamo se divide en pequeñas fracciones para permitir la entrada de varios prestamistas que conseguirán, a cambio, una rentabilidad. Los títulos que se emiten pueden ser obligaciones, bonos o pagarés. La diferencia entre unos y otros se basa en el plazo fijado para la devolución del dinero recibido a un interés ofertado, que puede ser fijo o variable, según el caso.
+
+- Entidades financieras públicas
 
 La Administración desarrolla medidas de apoyo financiero a pymes basadas en líneas de préstamo preferente y de ayuda en el pago de tipos de interés para acometer inversiones productivas. La puesta en marcha se efectúa a través del Instituto de Crédito Oficial (ICO) o el Banco Europeo de Inversiones (BEI).
 
@@ -3159,27 +3163,29 @@ Tabla 4.3. Modos de financiación a largo plazo (recursos ajenos).
 
 ## Ejemplo 3. Tipos de préstamos
 
-## Préstamo bancario
+- Préstamo bancario
 
 El convenio suscrito en 2012 entre el Ayuntamiento de Falencia y la Sociedad de Garantía Recíproca Iberaval ha permitido realizar 27 operaciones de crédito destinadas a jóvenes empresarios.
 
-## Préstamo de una entidad financiera no bancada
+- Préstamo de una entidad financiera no bancada
 
 En el año 2012, El Corte Inglés acudió al rescate de su filial de confección, Induyco, con la concesión de un préstamo participativo de 150 millones de euros para solventar los problemas de tesorería que acarreaba.
 
-## Préstamo de una entidad financiera pública
+- Préstamo de una entidad financiera pública
 
 El ICO es una entidad financiera pública que ofrece financiación a empresas que cuenten con un aval de una S R, para disponer de liquidez o bien para la inversión en maquinaria, equipo informático, mobiliario, inmuebles, vehículos, etc. La tramitación de las operaciones se realiza directamente a través de las entidades de crédito y las Sociedades de Garantía Recíproca.
 
-Un préstamo participativo es un préstamo entre empresas por un plazo temporal bre ve (de uno a cuatro años), de manera que, al fin del contrato, la deuda se salda con participaciones o acciones. La entidad prestamista participa en la gestión mientras tanto.
+## Un préstamo participativo
+
+es un préstamo entre empresas por un plazo temporal breve (de uno a cuatro años), de manera que, al fin del contrato, la deuda se salda con participaciones o acciones. La entidad prestamista participa en la gestión mientras tanto.
 
 ## Actividades
 
-4. Analiza las ventajas e inconvenientes de recibir un préstamo concedido por familia res o amigos.
-5. Entra en la web de CERSA http://www.reafianzamiento.es/cersa.php?zona=sgrs y averigua cómo se llama la S R que opera en tu comunidad autónoma.
+4. Analiza las ventajas e inconvenientes de recibir un préstamo concedido por familiares o amigos.
+5. Entra en la web de CERSA http://www.reafianzamiento.es/cersa.php?zona=sgrs y averigua cómo se llama la SGR que opera en tu comunidad autónoma.
 6. Lee la siguiente noticia aparecida en un periódico económico y explica con tus pala bras la información que ofrece.
 
-## «Los inversores van a lo seguro»
+- «Los inversores van a lo seguro»
 
 «Los mercados siguen inmersos en un ambiente de incertidumbre, razón por la que los inversores buscan refugio en el corto plazo, especialmente en productos tradicionales como imposiciones a plazo fijo, y pagarés, dada la alta rentabilidad que ofrecen (a veces superan el 4%). Se trata de rendimientos casi imposibles de alcanzar en bonos corporativos con los mismos vencimientos.
 
@@ -3189,13 +3195,19 @@ Fuente: El Economista. Madrid, 12 de noviembre de 2012 [en línea]
 
 7. Entra en la web del ICO (http://www.ico.es/web/contenidos/home/home.html) y averigua qué líneas de actuación tienen y cuál es la finalidad de cada una de ellas.
 
-- [ ] D Financiación a corto plazo
+## Financiación a corto plazo
 
 También se puede acudir a otras fuentes de financiación ajenas, como las líneas de crédito o los descubiertos en cuenta.
 
+- Línea de crédito o cuenta de crédito
+
 El crédito es una operación financiera en la que se pone a disposición del cliente una cantidad de dinero hasta un límite especificado. Los intereses se pagarán en caso de hacer uso del dinero y se abonarán teniendo en cuenta las cantidades utilizadas y el tiempo que se ha dispuesto de ellas. Un tipo especial de crédito son los microcréditos, que se ha analizado al inicio de la unidad.
 
+- Descubierto en cuenta o numéros rojos
+
 Estar al descubierto consiste en gastar un importe superior al saldo disponible en la cuenta corriente, o bien, en pagar con un cheque sin contar con fondos suficientes. En tal caso, si estaba pactado con el banco, este adelantará el importe, si bien la empresa pagará unos intereses por ello que suelen ser más altos que en otros tipos de préstamos.
+
+Tabla 4.4. Modos de financiación corto plazo (recursos ajenos).
 
 ## Ejemplo 4. Empresa al descubierto
 
@@ -3205,13 +3217,17 @@ Una empresa tiene en su cuenta bancaria un descubierto puntual de 5000 euros. El
 
 8. Señala las diferencias entre un préstamo y un crédito.
 
-- [ ] D Otras formas de financiación
+## Otras formas de financiación
 
-## Leasing y renting
+- Leasing y renting
 
 Otras formas de financiación se basan en la idea de abaratar el gasto inicial en la adquisición de bienes inmuebles o muebles mediante el alquiler o la compra. Muchas veces, las empresas no utilizan un leasing o un renting como una fuente de financiación, sino como un instrumento para disfrutar de un activo inmovilizado en régimen de arrendamiento.
 
+- Leasing
+
 Es un alquiler con opción a compra. Permite a la empresa utilizar bienes sin haberlos adquirido. Es frecuente en los inicios de la actividad empresarial como una forma de abaratar el gasto, al poder disfrutar de dichos bienes sin realizar un desembolso ni solicitar un préstamo. Puede utilizarse para vehículos, inmuebles, maquinaria, ordenadores, etc. Además, existe la posibilidad de compra al finalizar el tiempo de contrato, la cual resulta bastante interesante.
+
+- Renting
 
 Es un alquiler que incluye los gastos de mantenimiento. Se usa en vehículos, ordenadores, fotocopiadoras, aparatología, etc. Al finalizar el contrato, se tiene la opción de sustituir los equipos o bien renovar el contrato de los bienes utilizados.
 
@@ -3231,13 +3247,15 @@ Cobega, la distribuidora de bebidas de la marca Coca-cola en España, usa vehíc
 
 En otras ocasiones, las necesidades de financiación están influidas por la necesidad de liquidez para el día a día de la actividad empresarial, de manera que la empresa esté abastecida por los proveedores y, además, cobre puntualmente de sus clientes.
 
-## ---------------- pago a proveedores
+- Aplazamiento en el pago a proveedores
 
 Las empresas cuentan, en ocasiones, con facilidades de pago a los proveedores. Lo más habitual es la posibilidad de aplazar el pago a 30,60 o 90 días. Este retraso equivale a una anticipación de dinero, razón por la que se denomina también crédito comercial por ser realizado del proveedor a la empresa cliente. Es una opción muy ventajosa, puesto que se invierte el orden natural del funcionamiento de una empresa (compro-pago-vendo-cobro) por otro más rentable (compro-vendo-cobro-pago).
 
-## ---------------------- por pronto pago
+- Descuento por pronto pago
 
 En ocasiones, los proveedores no están interesados en ofrecer facilidades de pago a sus clientes. Sin embargo, no hacerlo implicaría perder mercado, bien porque es una práctica habitual en algunos sectores, o bien porque las grandes empresas a las que sirven imponen estas condiciones de pago. Por ello, suelen realizar descuentos a sus clientes por pronto pago, que consiste en reducir el precio si se produce el pago inmediato. Desde el año 2010, hay un tiempo máximo legal permitido para el retraso en el pago, de 60 días, salvo en el sector de la alimentación y de los productos perecederos, que es de 30 días. Este último plazo de tiempo es el máximo que puede emplear la Administración Pública en resolver las deudas con sus acreedores. Está prohibido negociar plazos superiores a estos.
+
+- Confirming
 
 Es un servicio que garantiza el pago a los proveedores mediante un acuerdo con la entidad bancaria. Este acuerdo permite transformar la deuda con proveedores en deuda bancaria, de esta manera un déficit temporal de tesorería no impedirá recibir el pedido, asegurando el mantenimiento de la línea de producción. Con ello, la empresa gozará de credibilidad ante los proveedores.
 
@@ -3263,7 +3281,21 @@ Esta opción, habitual en empresas que venden bienes de alto precio, como electr
 
 Por ello, la compañía requerirá compensar esta carencia de liquidez e, incluso, el riesgo de impago, con fórmulas de financiación alternativas.
 
-Crédito comercial: la empresa financia la compra de su cliente ofreciéndole la posibilidad de pagar a plazos en cómodas cuotas a 30,60 o 90 días. Es una manera de asegurar e incrementar las ventas, si bien conlleva riesgo de impago y falta de liquidez.
+### Crédito comercial: 
+
+la empresa financia la compra de su cliente ofreciéndole la posibilidad de pagar a plazos en cómodas cuotas a 30,60 o 90 días. Es una manera de asegurar e incrementar las ventas, si bien conlleva riesgo de impago y falta de liquidez.
+
+### Tabla 4.7. Facilidades de pago.
+- Descuento comercial o descuento de efectos
+
+La empresa entrega una entidad financiera los efectos pendientes de cobro de sus clientes. El banco anticipa el dinero, cambio de una comisión por la tramitación de un interés por el anticipo recibido. Los efectos son de rechos de cobro de una empresa (facturas, letras de cambio, pagarés, cheques...), debido que los clientes no han abonado aún el precio de los bienes adquiridos. El riesgo de impago lo asume siempre la empresa que cede estos efectos.
+
+- Factoring
+
+Se trata de la cesión, una empresa óefactoríng, de aquellas facturas de clientes que están pendientes de cobro. La empresa conseguirá los fondos que necesita cambio de pagar una comisión por los servicios administrativos unos intereses por la anticipación del dinero. Es similar al descuento comercial, aunque referido solo facturas, si bien en el factoring se puede negociar quién asume el riesgo de impago. Así, están aceptadas dos variantes posibles:
+
+- a) El factoríng con recurso, en el que la empresa vendedora asuma el riesgo.
+- b) El factoríng sin recurso, donde el riesgo lo asume la empresa óefactoríng, en cuyo caso el coste financiero será mayor.
 
 Tabla 4.7. Facilidades de pago.
 
@@ -3271,7 +3303,7 @@ Tabla 4.7. Facilidades de pago.
 
 Hay empresas que no parecen sentir en sus cuentas los efectos de la crisis, tal como se co menta en esta noticia.
 
-## «Las ganancias del grupo Security suben casi 80% durante el tercer trimestre»
+«Las ganancias del grupo Security suben casi 80% durante el tercer trimestre»
 
 «El aumento de los ingresos comerciales estuvo impulsado principalmente por el crecimiento en Banco Security, Vida Security, Factoring Security y Travel Security. En concreto, Factoring Security reportó un aumento de 15,4% en colocaciones, totalizando $162 689 millones, lo que representó un incremento de un 60,2% respecto del mismo periodo del año 2011.»
 
@@ -3306,7 +3338,7 @@ Los viveros empresariales, las incubadoras de negocios y las aceleradoras de emp
 
 La razón de ser del apoyo privado es, lógicamente, obtener un beneficio económico. En el caso de la intervención pública, o privada sin ánimo de lucro, se persiguen objetivos sociales y económicos, como favorecer el tejido empresarial local, impulsar la innovación e incrementar la contratación de trabajadores.
 
-## I Espacios de coworking o cotrabajo
+## Espacios de coworking o cotrabajo
 
 Consisten en centros de trabajo compartidos, de forma que diferentes empresas ocupan una misma oficina. El precio suele estar fijado según el tiempo que se ocupa el espacio: todas las tardes, tres días a la semana, etc. Por buscar una similitud, se trata de la misma idea que la de compartir piso con compañeros y compartir gastos. En un centro de coworking también se comparten salas de reuniones, servicios de telefonía e internet, despachos para videoconferencias y hasta la misma oficina si solo se usa unas horas al día. Es accesible a cualquiera, pero suele ser utilizado solo por jóvenes emprendedores hasta que pueden instalarse en su propia sede. A la ventaja del ahorro económico se suma que el emprendedor puede contagiarse del ambiente estimulante que le rodea, e incluso realizar proyectos comunes o colaborar con otros emprendedores, como cliente o proveedor.
 
@@ -3318,19 +3350,21 @@ Además, se ofrecen otros servicios como gestoría, alquiler de coches o descuen
 
 ## Actividades
 
-- 14, Entra en este enlace http://www.panoramaaudlovisual.com/2012/11/13/nacela-industrial-un-espacio-que-ofrece-zona-de-coworking-eventos-talleresaula-y-formadon-avanzada y averigua qué servicios ofrece la empresa La Indus trial y con qué finalidad.
+14. Entra en este enlace http://www.panoramaaudlovisual.com/2012/11/13/nacela-industrial-un-espacio-que-ofrece-zona-de-coworking-eventos-talleresaula-y-formadon-avanzada 
 
-## D Cluster
+y averigua qué servicios ofrece la empresa La Industrial y con qué finalidad.
+
+## Cluster
 
 Un cluster es una agrupación física de empresas, junto a instituciones y universidades con intereses similares o convergentes.
 
-## Ejemplo 10. El fenómeno cluster
+### Ejemplo 10. El fenómeno cluster
 
 «"Cooperar o sufrir". Con esta idea han proliferado en los últimos años en España los cluster, agrupaciones entre pequeñas y medianas empresas para elevar la competitividad. Una herramienta que en plena crisis está demostrando ser eficaz para abaratar costes, impulsar la innovación y potenciar la internacionalización. El fenómeno ha cuajado en Aragón, una de las comunidades con más cluster en activo y, lo que es más importante, donde más frutos está dando esta fórmula de colaboración.»
 
 fuente: El Periódico de Aragón. Zaragoza, 7 de noviembre de 2012 [en línea]
 
-- [ ] □ Concursos o premios para emprendedores
+## Concursos o premios para emprendedores
 
 Están convocados tanto por organismos públicos como por iniciativa privada. El fin que se persigue es el mismo: impulsar el emprendimiento.
 
@@ -3346,7 +3380,7 @@ La Fundación Banesto está ampliando la red de centros Yuzz para poder apoyar a
 
 Para más información, puedes consultar la siguiente página: http://www.yuzz.org
 
-## I Viveros de empresa
+## Viveros de empresa
 
 Son espacios similares a los centros de coworking, pero generalmente enfocados a jóvenes emprendedores que están iniciando un negocio, puesto que no suelen admitirse compañías con más de dos años de actividad.
 
@@ -3361,41 +3395,43 @@ A pesar de la situación de crisis económica y del déficit público, o quizá 
 - e El Ministerio de Industria, Energía y Turismo ha concedido al Ayuntamiento de Caravaca de la Cruz una subvención de 150000 euros para la ejecución del proyecto «Vivero de Empresas».
 - Sabadell contará con un nuevo vivero de emprendimiento tecnológico en L'Estruch.
 
-## D Incubadoras de empresas
+## Incubadoras de empresas
 
 El concepto es similar al de los viveros de empresa, pero suelen instalarse en parques científicos o tecnológicos para concentrar en una misma área negocios innovadores relacionados con las nuevas tecnologías. Por esa misma razón, es frecuente que algunos fondos de capital riesgo visiten estos parques tecnológicos en busca de start-up$ (empresas de nueva creación) en las que invertir.
 
 Su origen tuvo lugar en las universidades norteamericanas y su éxito más conocido es Silicon Valley, nacido gracias al impulso de dos profesores de la Universidad de Stanford. Las universidades buscaban crear áreas cercanas al campus que sirvieran para impulsar el nacimiento de empresas basadas en las innovaciones que los alumnos creaban en las aulas. La plataforma que ha supuesto Silicon Valley para el surgimiento de nuevas empresas de gran impacto ha contagiado la expansión de este modelo a muchos otros países. Países como Rusia o China están gestionando la creación de espacios similares en sus fronteras.
 
-## D Aceleradoras de empresas
+## Aceleradoras de empresas
 
-Está basada en una idea similar a la incuba dora, pero persigue el lanzamiento de un negocio naciente en el menor tiempo posible. Mientras que en las incubadoras se espera que los proyectos crezcan de forma natural, siguiendo los plazos marcados en sus planes de negocio, en las aceleradoras, en cambio, el propósito es lograr un crecimiento rápido Un mentor es aquel que ejerce la función de guiar y orientar a otro porque su experiencia y/o sus conocimientos lo autorizan para ejercer ese papel.
+Está basada en una idea similar a la incuba dora, pero persigue el lanzamiento de un negocio naciente en el menor tiempo posible. Mientras que en las incubadoras se espera que los proyectos crezcan de forma natural, siguiendo los plazos marcados en sus planes de negocio, en las aceleradoras, en cambio, el propósito es lograr un crecimiento rápido en un breve plazo de tiempo. Para ello suelen ofrecer instalaciones económicas, un mentor y un capital semilla para iniciar el negocio o, al menos, el contacto con inversores pri vados y fondos de capital riesgo donde conseguir financiación. La rapidez en el nacimiento de estas empresas es posible porque, en términos generales, las aceleradoras apoyan proyectos que tienen como objeto social la fabricación de un producto económico con gran penetración de mercado. La alta demanda esperada se conseguiría gracias a la promoción y distribución online, que posibilita una difusión masificada a bajo coste y ofertar un precio de venta asequible, lo que favorece la compra impulsiva.
 
-en un breve plazo de tiempo. Para ello suelen ofrecer instalaciones económicas, un men tor y un capital semilla para iniciar el negocio o, al menos, el contacto con inversores pri vados y fondos de capital riesgo donde conseguir financiación. La rapidez en el nacimiento de estas empresas es posible porque, en términos generales, las aceleradoras apoyan proyectos que tienen como objeto social la fabricación de un producto económico con gran penetración de mercado. La alta demanda esperada se conseguiría gracias a la promoción y distribución online, que posibilita una difusión masificada a bajo coste y ofertar un precio de venta asequible, lo que favorece la compra impulsiva.
+## Un mentor 
+
+es aquel que ejerce la función de guiar y orientar a otro porque su experiencia y/o sus conocimientos lo autorizan para ejercer ese papel.
 
 ## Ejemplo 13. Proyectos innovadores
 
-## «La empresa riojana raffter seleccionada en la convocatoria 2012 de Wayra»
+- «La empresa riojana raffter seleccionada en la convocatoria 2012 de Wayra»
 
-« raffter es un proyecto empresarial que combina el arte urbano, elementos multimedia y realidad aumentada. Es un espacio virtual en el que cualquiera puede hacer grafitis y compartirlos a través de una comunidad online. Wayra es la incubadora internacional de proyectos TIC de telefónica digital, una iniciativa de l+D+i.
+«Graffter es un proyecto empresarial que combina el arte urbano, elementos multimedia y realidad aumentada. Es un espacio virtual en el que cualquiera puede hacer grafitis y compartirlos a través de una comunidad online. Wayra es la incubadora internacional de proyectos TIC de telefónica digital, una iniciativa de l+D+i.
 
 El Gobierno de La Rioja cuenta con un vivero de empresas de base tecnológica, un espacio coworking donde los emprendedores pueden interactuar o generar sinergias muy positivas para el desarrollo de su proyecto. También tiene el Plan Emprende Rioja, que auna todos los servicios y ayudas de esta comunidad para los emprendedores.»
 
 Fuente: Europa Press, 17 de diciembre de 2012 [en línea]
 
-## I Ayudas públicas y subvenciones
+## Ayudas públicas y subvenciones
 
 Además de las acciones señaladas en el epígrafe anterior, las administraciones públicas tratan de fomentar el emprendimiento con diferentes medidas, tales como ayudas a la contratación de trabajadores, bonificaciones de las cuotas a la Seguridad Social, incentivos fiscales, ayudas financieras, subvenciones y asesoramiento empresarial, que son ayudas económicas a fondo perdido convocadas periódicamente y que exigen unos requisitos para ser concedidas.
 
 ## Ejemplo 14. Ayudas a la exportación
 
-## «CAVEX reclama ayudas fiscales que premien el éxito exportador»
+- «CAVEX reclama ayudas fiscales que premien el éxito exportador»
 
 «La Agrupación de Exportadores de Calzado de la Comunidad Valenciana (CAVEX) trasladará al gobierno central y a la generalitat Valenciana un decálogo de propuestas para favorecer la internacionalización y mejorar la competividad de las empresas del sector.
 
 En el contexto actual de recortes presupuestarios, CAVEX afirma que es necesario "buscar nuevas fórmulas de apoyo a la internacionalización, vías alternativas a las subvenciones, medidas fiscales para agilizar las devoluciones del IVA, así como una mejor definición de la Marca España y más apoyo de las instituciones en los países de destino".»
 
-Fuente: información.es. Elche, 7 de noviembre de 2012 [en línea]
+Fuente: Información.es. Elche, 7 de noviembre de 2012 [en línea]
 
 ## Actividades
 
@@ -3425,9 +3461,11 @@ En este caso, la decisión de mantener abierto el local conlleva la renuncia de 
 
 ## Actividades
 
-- 16, Lee la información recogida en el siguiente enlace y enumera las cuestiones más importantes que trata sobre el coste de oportunidad:
+16. Lee la información recogida en el siguiente enlace y enumera las cuestiones más importantes que trata sobre el coste de oportunidad:
 
 http://www.ennaranjaxom/economia-facil/la-importancia-de-saber-elegirel-coste-de-oportunidad
+
+## Recursos ajenos
 
 En cuanto a los recursos ajenos, hablamos de coste financiero.
 
@@ -3439,7 +3477,7 @@ El cálculo del coste total de un proceso productivo contribuirá a precisar los
 
 ## Ejemplo 16. Coste financiero
 
-## «Uralita pierde millones por mayores costes financieros»
+- «Uralita pierde millones por mayores costes financieros»
 
 «Uralita registró unas pérdidas de 18,8 millones de euros frente a un beneficio de 600000 euros del año anterior, debido a la reducción del resultado de explotación por mayores costes financieros y por la aplicación de una política más conservadora en el registro de créditos fiscales.
 
@@ -3449,7 +3487,7 @@ El aumento de los costes financieros se debe al incremento en los intereses por 
 
 Fuente: Qué! Madrid, 15 de noviembre de 2012 [en línea]
 
-## 3ítVJj^^
+## Simulación empresarial
 
 El objetivo en esta unidad es que definas las fuentes de financiación que te ayudarán a poner en marcha tu actividad empresarial. Al finalizar la unidad recogerás toda esa información para el plan de empresa en el apartado. Plan financiero.
 
@@ -3458,6 +3496,15 @@ El objetivo en esta unidad es que definas las fuentes de financiación que te ay
 Las inversiones y gastos más frecuentes pa ra la puesta en marcha de un negocio suelen realizarse en los siguientes conceptos:
 
 - Adquisición o alquiler de inmueble, como local, garaje, nave, establecimiento, oficina, etc., y gastos asociados, como impuestos, suministros, seguros, etc.
+- Compra de vehículos y gastos asociados: seguro, gasolina, etc.
+- Adquisición de inmovilizado material, esto es, elementos materiales que se espera utilizar durante un año o más en la empresa, como maquinaria, equipos informáticos, impresoras, fotocopiadoras, etc.
+- Mobiliario y equipamiento de oficina o de local comercial, como mesas, sillas, lámparas, estanterías, ficheros, etc.
+- Herramientas y utillaje preciso.
+- Derechos duraderos o inversiones inmateriales, como patentes y marcas, licencias para el uso de programas de ordenador, depósitos o fianzas, canon de entrada en una franquicia, etc.
+- Gastos de constitución y puesta en marcha de la sociedad.
+- Stock inicial de materias primas necesario para realizar la actividad económica, junto con sus envases, embalajes, bolsas, etc.
+- Gastos en promoción y publicidad: folletos, decoración escaparates, luces de neón, etc.
+- Cash-flow, esto es, dinero en efectivo disponible para los primeros meses de funcionamiento, hasta que la actividad empresarial genere ingresos.
 
 ## Fases de la Simulación empresarial
 
@@ -3469,18 +3516,6 @@ Las inversiones y gastos más frecuentes pa ra la puesta en marcha de un negocio
 - Fase 6. Financiación a corto plazo
 - Fase 7. Apoyo en las fases iniciales
 
-_-----------------_
-
-- Compra de vehículos y gastos asociados: seguro, gasolina, etc.
-- Adquisición de inmovilizado material, esto es, elementos materiales que se espera utilizar durante un año o más en la empresa, como maquinaria, equipos informáticos, impresoras, fotocopiadoras, etc.
-- Mobiliario y equipamiento de oficina o de local comercial, como mesas, sillas, lámparas, estanterías, ficheros, etc.
-- Herramientas y utillaje preciso.
-- Derechos duraderos o inversiones inmateriales, como patentes y marcas, licencias para el uso de programas de ordenador, depósitos o fianzas, canon de entrada en una franquicia, etc.
-- Gastos de constitución y puesta en marcha de la sociedad.
-- Stock inicial de materias primas necesario para realizar la actividad económica, junto con sus envases, embalajes, bolsas, etc.
-- Gastos en promoción y publicidad: folletos, decoración escaparates, luces de neón, etc.
-- Cash-flow, esto es, dinero en efectivo disponible para los primeros meses de funcionamiento, hasta que la actividad empresarial genere ingresos.
-
 ## Actividad de simulación 1
 
 Realiza las siguientes tareas:
@@ -3488,7 +3523,7 @@ Realiza las siguientes tareas:
 - a) Elabora un listado de todas las inversiones a realizar para ejecutar vuestro proyecto de empresa, es decir, de todos los elementos que necesitéis para llevar a cabo la actividad empresarial.
 - b) Después, deberás presupuestarlos. En función del montante total, deberéis decidir el dinero necesario. El capital social aportado por los socios será el primer recurso a utilizar, pero si no se cubren todos los gastos (lo que suele ser habitual), habrá que buscar otras fuentes de financiación.
 
-## Ayuda práctica:
+Ayuda práctica:
 
 - a) Ten en cuenta que la financiación debe cubrir las necesidades señaladas y arrojar un excedente que sirva para garantizar los pagos de los primeros meses de funciona miento de la empresa, tales como salarios, cuotas de la Seguridad Social, luz, agua, calefacción, impuestos, etc. Esta cantidad será mayor cuanto más tiempo genere la empresa en conseguir ingresos, no es lo mismo vender ropa que coches.
 - b) Busca información precisa sobre el coste de los elementos a adquirir. Cuanto más navegues por Internet buscando precios y comparando ofertas, más fácil te resultará encontrar precios económicos.
