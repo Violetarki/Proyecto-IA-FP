@@ -2,9 +2,6 @@ import chromadb
 from models import Chunk, Documento, Metodologia
 
 
-print(chromadb.__version__)
-
-
 
 class VectorStore:
     """
@@ -60,14 +57,14 @@ class VectorStore:
 
             # Extraer la información relevante de cada chunk.
             ids.append(
-                f"{chunk.document.ruta}:{chunk.indice}"
+                f"{chunk.documento.ruta}:{chunk.indice}"
             )
             textos.append(chunk.texto)
             embeddings.append(chunk.embedding)
 
             metadata = {
-                "documento": chunk.document.nombre,
-                "ruta": chunk.document.ruta,
+                "documento": chunk.documento.nombre,
+                "ruta": chunk.documento.ruta,
                 "indice": chunk.indice,
             }
 
@@ -156,8 +153,10 @@ class VectorStore:
         # Eliminar los registros cuyo metadato coincide con el documento.
         self.collection.delete(
             where={
-                "documento": documento.nombre,
-                "ruta": documento.ruta,
+                "$and": [
+                    {"documento": documento.nombre},
+                    {"ruta": documento.ruta},
+                ]
             }
         )
 
@@ -183,3 +182,46 @@ class VectorStore:
             return
 
         self.collection.delete(ids=ids)
+
+
+if __name__ == "__main__":
+    vector_store = VectorStore(collection_name="prueba_vector_store")
+
+    metodologia = Metodologia(nombre="lean_startup")
+    documento = Documento(
+        metodologia=metodologia,
+        nombre="documento_prueba.md",
+        texto="Texto de prueba para vector store.",
+        ruta="/tmp/documento_prueba.md",
+    )
+
+    chunk_1 = Chunk(
+        documento=documento,
+        indice=0,
+        texto="Lean startup es una metodología para validar ideas.",
+        titulo="Introducción",
+        subtitulo="Concepto",
+    )
+    chunk_1.embedding = [0.1, 0.2, 0.3, 0.4]
+
+    chunk_2 = Chunk(
+        documento=documento,
+        indice=1,
+        texto="Los experimentos ayudan a aprender con el cliente.",
+        titulo="Experimentos",
+        subtitulo="Validación",
+    )
+    chunk_2.embedding = [0.2, 0.3, 0.4, 0.5]
+
+    vector_store.guardar_chunks([chunk_1, chunk_2])
+
+    resultados = vector_store.buscar([0.1, 0.2, 0.3, 0.4], k=2)
+    print(f"Resultados encontrados: {len(resultados)}")
+    for chunk in resultados:
+        print(chunk.texto)
+
+    vector_store.eliminar_documento(documento)
+    print("Documento eliminado del vector store.")
+
+    vector_store.vaciar()
+    print("Colección vaciada.")
