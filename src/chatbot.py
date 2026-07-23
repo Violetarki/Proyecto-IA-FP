@@ -1,4 +1,4 @@
-import embeddings
+import embeddings, prompts
 from vector_store import VectorStore
 from llm_client import LLM
 from models import Chunk
@@ -19,19 +19,8 @@ class Chatbot:
 
 
 
-    def responder(self, pregunta:str):
+    def responder(self, pregunta:str) -> str:
         """
-        1. Generar embedding
-
-        ↓
-
-        2. Buscar los mejores chunks
-
-        ↓
-
-        3. Construir el contexto
-
-        ↓
 
         4. Crear el prompt
 
@@ -43,11 +32,16 @@ class Chatbot:
 
         6. Devolver la respuesta
         """
+        respuesta = ""
         
-
+        # Generamos el contexto
         contexto = self._generar_contexto(pregunta)
 
-        prompt = self._construir_prompt(pregunta, contexto)
+        # Construimos el prompt
+        prompt = prompts.construir_prompt(pregunta, contexto)
+
+        
+        return respuesta
 
 
 
@@ -74,10 +68,7 @@ class Chatbot:
         return texto_respuesta
 
 
-        
 
-    def _construir_prompt():
-        ...
-
+        return prompt 
     def _consultar_llm():
         ...
