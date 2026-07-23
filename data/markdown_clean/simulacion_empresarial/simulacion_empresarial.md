@@ -7325,18 +7325,21 @@ Aplicado al campo de los negocios, se trataría de:
 
 Tabla 7.3. Marketing de guerrilla en la empresa.
 
-| Tomar posiciones en el mercado según las intenciones de la competencia, cono cer sus debilidades y nuestras fortalezas. Sun Tzu afirma: «Si quieres ganar, ataca un lugar que tu enemigo no defienda».                                                                                                                                                                                      |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Conocer bien el terreno y el clima donde se librará la batalla, es decir, conocer el mercado y los factores del entorno que lo influyen.                                                                                                                                                                                                                                                    |
-| Anticiparse a la reacción de la competencia, actuar con iniciativa atacando a sus puntos vulnerables, por ejemplo, segmentos desatendidos, mala distribución, ser vicio posventa insatisfactorio, escasa calidad de los productos, etc. Se trata de concentrar fuerzas para mostrar superioridad, siempre es posible ya que siempre puede detectarse un aspecto donde el otro es más débil. |
-| Meditar cada paso y sus consecuencias, funcionar como un todo coordinado. No se trata de emplear demasiadas estrategias, sino una estrategia con una alterna tiva y, a ser posible, la más sencilla.                                                                                                                                                                                        |
-| Sun Tzu afirma: «La mejor política en la guerra es tomar un estado intacto; arrui narlo es inferior». Así pues, esta máxima indica que la esencia del marketing de guerrillas no debe basarse en la publicidad desleal para desbancar a la compe tencia.                                                                                                                                    |
+- Posicionarse en el mercado: Tomar posiciones en el mercado según las intenciones de la competencia, cono cer sus debilidades y nuestras fortalezas. Sun Tzu afirma: «Si quieres ganar, ataca un lugar que tu enemigo no defienda».
+
+- Conocer el mercado y los factores del entorno: Conocer bien el terreno y el clima donde se librará la batalla, es decir, conocer el mercado y los factores del entorno que lo influyen.
+
+- Actuar con iniciativa: Anticiparse a la reacción de la competencia, actuar con iniciativa atacando a sus puntos vulnerables, por ejemplo, segmentos desatendidos, mala distribución, servicio posventa insatisfactorio, escasa calidad de los productos, etc. Se trata de concentrar fuerzas para mostrar superioridad, siempre es posible ya que siempre puede detectarse un aspecto donde el otro es más débil.
+
+- Meditar la estrategia: Meditar cada paso y sus consecuencias, funcionar como un todo coordinado. No se trata de emplear demasiadas estrategias, sino una estrategia con una alternativa y, a ser posible, la más sencilla.
+
+- Desmarcarse de la publicidad desleal: Sun Tzu afirma: «La mejor política en la guerra es tomar un estado intacto; arruinarlo es inferior». Así pues, esta máxima indica que la esencia del marketing de guerrillas no debe basarse en la publicidad desleal para desbancar a la competencia.
 
 ## Ejemplo 19. Caso: Banco Santander y su marketing de guerrilla
 
-Emilio Botín, presidente del Banco Santander, asegura «admirar las estrategias militares des critas por Sun Tzu en £/ arte de la guerra, uno de mis libros de cabecera». La historia de su grupo ha seguido las máximas que se destacan en ese libro.
+Emilio Botín, presidente del Banco Santander, asegura «admirar las estrategias militares descritas por Sun Tzu en El arte de la guerra, uno de mis libros de cabecera». La historia de su grupo ha seguido las máximas que se destacan en ese libro.
 
-Así, destacó tres ideas clave que han dado al banco el liderazgo mundial que tiene en el mo mento presente:
+Así, destacó tres ideas clave que han dado al banco el liderazgo mundial que tiene en el momento presente:
 
 - Estrategia planificada. En el año 1986, cuando España ingresó en la Unión Europea, se fijaron como objetivo ser el primer banco comercial del mundo. Entonces ocupaban el sép timo lugar en España. Para escalar posiciones analizaron los puntos fuertes de la compañía y diseñaron una estrategia. Así, se acordó la estrategia en tres fases: ser fuerte en España, después convertirse en el primer banco de Iberoamérica y, por último, ser el mejor banco de Europa. Sus fortalezas eran dos: el mejor ejército, en clara alusión a los empleados, y un modelo de negocio que prestaba especial atención a la prudencia en riesgos.
 - Cumplir los objetivos fijados. Estas líneas estratégicas se fueron desarrollando con pe queños pasos, como la apertura de la Supercuenta, que remuneraba las cuentas corrientes con un interés del 11%, frente al 1 % de la competencia. Para minimizar los riesgos de este producto, se revisó la intendencia y la retaguardia, es decir, se aseguraron altos niveles de capital para garantizar la rentabilidad ofrecida y se sopesaron las posibles respuestas de los adversarios. Los resultados fueron mejor de lo previsto: la competencia tardó seis meses en reaccionar, lo que permitió al Banco Santander duplicar su cuota de mercado.
@@ -7344,7 +7347,7 @@ Así, destacó tres ideas clave que han dado al banco el liderazgo mundial que t
 
 Como conclusión, Botín reconoce que el Banco Santander ha logrado su objetivo: «Es el tercer banco del mundo por resultados, el primero de la zona euro por capitalización y la mayor red de banca comercial internacional».
 
-- [ ] D Neuromarketing
+## Neuromarketing
 
 Esta modalidad de marketing aprovecha los últimos avances en neurociencia para extraer conclusiones sobre los patrones de consumo de los clientes, que no es más que un proceso de elección de compra regulado por procesos mentales. Así, por ejemplo, los estudios muestran que el 95 % de las compras son de forma inconsciente. O que las personas optan por comprar un producto que incluye un 50% gratis, antes que el mismo bien rebajado un 33%, a pesar de que la segunda alternativa sería más ventajosa desde un punto de vista económico.
 
@@ -7354,55 +7357,51 @@ El neuromarketing también explica la importancia de elementos ambientales que p
 - Una sensación térmica acorde con la ropa que se está vendiendo incita al consumo. Así, es habitual que cuando en agosto se expone la campaña otoño-invierno, las superficies comerciales reduzcan significativamente la temperatura de la tienda.
 - Los colores amarillos captan la atención, de manera que es el color preferido para las eti quetas de descuentos o para señalar promociones u ofertas, tipo 3x2.
 
-El merchandising es una parte del marketing que pretende presentar el producto en las mejores condiciones, tanto materiales como psicológicas, al comprador potencial. Tien de a sustituir la presentación pasiva del producto por aquellos elementos que resalten su atractivo, como presentación, envasado, exposición, decoración, etc.
+## El merchandising
 
-## D Marketing verde
+Es una parte del marketing que pretende presentar el producto en las mejores condiciones, tanto materiales como psicológicas, al comprador potencial. Tien de a sustituir la presentación pasiva del producto por aquellos elementos que resalten su atractivo, como presentación, envasado, exposición, decoración, etc.
+
+## Marketing verde
 
 Está orientado al lanzamiento de productos ecológicos o a acciones corporativas que mejoren el cuidado del medioambiente.
-
-## Ejemplo 20.Toshiba y su compromiso con el medio ambiente
-
-La compañía Toshiba ha sorprendido con el lanzamiento de un equipo multifuncional, deno minado e-STUDIO 36QLP, que puede borrar el papel impreso y reutilizarlo hasta cinco veces, con una velocidad de borrado de treinta páginas por minuto. Afirma que se reduce en un 80% el gasto del papel en una oficina. Además, es un producto sostenible, puesto que ahorra en un 57% las emisiones de CO2 tanto para producirla, ya que se fabrica con plásticos procedentes de plantas en vez de petróleo, como para reciclarla, ya que sus componentes son biológicos.
-
-Algunas prácticas ilícitas en este tipo de publicidad han generado escepticismo entre los ciudadanos, razón por la cual han empezado a surgir empresas que se dedican a acreditar la autenticidad de este tipo de comunicados.
-
-## Ejemplo 21. «Made in Creen», certificación ecológica
-
-La compañía Made in reen certifica que el material utilizado por las empresas textiles no es nocivo para la salud de los consumidores, es respetuoso con el medio ambiente y con los derechos humanos, tanto de sus trabajadores como de los que trabajan para sus proveedores. La certificación se expide anualmente.
-
-La empresa afirma que hasta que la sostenibilidad no esté implícita en la productividad, son necesarias este tipo de medidas.
 
 Los estudios llevados a cabo sobre el consumo verde afirman que el 82% de las empresas tienen «buenas intenciones» a este respecto, pero solo el 16% está dispuesto a cumplirlas. Los factores que más propician el cambio de comportamiento son, por este orden, la presión del grupo y del entorno, los efectos sobre la salud y el sentimiento de culpabilidad por la situación ambiental.
 
 En línea con esta preocupación han surgido iniciativas ciudadanas para el consumo colaborativo. Se trata de pequeñas acciones de economía compartida que permiten reducir el consumo, al compartir vivienda o coche, por ejemplo.
 
-La plataforma Where ood rows («Donde crece lo bueno») es un espacio de comunica ción y reflexión sobre las prácticas de las empresas que contribuyen a la sostenibilidad del planeta. Su fundador defiende la práctica del greenwashing como alternativa al no hacer nada ya que, aunque las acciones verdes que promueven algunas empresas sean solo un reclamo para atraer consumidores, considera que a medio plazo consolidarán un cambio actitudinal y de comportamiento en la organización.
+La plataforma Where Good Grows («Donde crece lo bueno») es un espacio de comunicación y reflexión sobre las prácticas de las empresas que contribuyen a la sostenibilidad del planeta. Su fundador defiende la práctica del greenwashing como alternativa al no hacer nada ya que, aunque las acciones verdes que promueven algunas empresas sean solo un reclamo para atraer consumidores, considera que a medio plazo consolidarán un cambio actitudinal y de comportamiento en la organización.
 
 El greenwashing consiste en una práctica poco ética de algunas compañías que presentan sus productos como respetuosos con el medio ambiente, cuando no es del todo cierto o cuando se oculta información que haría valorar esas acciones de manera diferente. Así, por ejemplo, sería una información confusa llamar algodón ecológico al que no usó pesticidas en su producción. Sin embargo, se cultiva tan lejos del punto de venta que conlleva una gran contaminación en su transporte, por lo que la etiqueta de producto ecológico deja de tener sentido.
 
 Sin embargo, el marketing verde usado de manera engañosa puede, además de desplazar el interés del consumidor hacia otras marcas por sentirse engañado, dar lugar a denuncias de los competidores por competencia desleal.
 
-- [ ] D Marketing de afiliación
+## Ejemplo 20.Toshiba y su compromiso con el medio ambiente
+
+La compañía Toshiba ha sorprendido con el lanzamiento de un equipo multifuncional, denominado e-STUDIO 36QLP, que puede borrar el papel impreso y reutilizarlo hasta cinco veces, con una velocidad de borrado de treinta páginas por minuto. Afirma que se reduce en un 80% el gasto del papel en una oficina. Además, es un producto sostenible, puesto que ahorra en un 57% las emisiones de CO2 tanto para producirla, ya que se fabrica con plásticos procedentes de plantas en vez de petróleo, como para reciclarla, ya que sus componentes son biológicos.
+
+## Ejemplo 21. «Made in Green», certificación ecológica
+
+Algunas prácticas ilícitas en este tipo de publicidad han generado escepticismo entre los ciudadanos, razón por la cual han empezado a surgir empresas que se dedican a acreditar la autenticidad de este tipo de comunicados.
+
+La compañía Made in Green certifica que el material utilizado por las empresas textiles no es nocivo para la salud de los consumidores, es respetuoso con el medio ambiente y con los derechos humanos, tanto de sus trabajadores como de los que trabajan para sus proveedores. La certificación se expide anualmente.
+
+La empresa afirma que hasta que la sostenibilidad no esté implícita en la productividad, son necesarias este tipo de medidas.
+
+## Marketing de afiliación
 
 El marketing de afiliación es un tipo de marketing especializado en la obtención de resul tados, es decir, que la empresa no paga por las acciones promocionales, sino por aquellas medidas que son efectivas por alguna acción realizada por el cliente, como registrarse en un formulario, hacer un clic, realizar una compra, etc. A esta práctica se le denomina coste por acción (CPA).
 
 Este tipo de marketing permite que personas ajenas a la empresa participen de su promoción. Así, un bloguero puede insertar hanners de publicidad en su página y cobrará un porcentaje cada vez que el usuario realice la acción que se haya previamente acordado. Es una modalidad muy aceptada entre las empresas ya que el coste de las acciones promocionales está condi cionado a los resultados. Además, hay toda una variedad de opciones y precios, lo que lo hace viable hasta para las pymes.
 
-í
-
-i
-
-Un banneres un anuncio normalmente rectangular colocado arriba, abajo o en los lados del contenido principal de un sitio web y que enlaza con el sitio web del anunciante.
-
-!
-
-i
-
 Ejemplos de este tipo de marketing son los ofrecidos por Google a través de sus servicios de pago Google AdWords y Google AdSense.
 
 - Google AdWords. Es el programa de Google para incluir enlaces patrocinados en los re sultados de búsquedas. Pueden estar situados en la columna derecha o entre los primeros puestos de los resultados mostrados, aparecen sombreados para diferenciarlos del resto de enlaces que no pagan a Google para salir en la búsqueda de resultados que realiza.
 
-* Google AdSense. Es el programa de publicidad de Google que permite insertar banners de publicidad en páginas web, blogs, plataformas de vídeo, etc., y pueden incluir texto, imágenes o vídeos.
+- Google AdSense. Es el programa de publicidad de Google que permite insertar banners de publicidad en páginas web, blogs, plataformas de vídeo, etc., y pueden incluir texto, imágenes o vídeos.
+
+## Banner
+
+Un banner es un anuncio normalmente rectangular colocado arriba, abajo o en los lados del contenido principal de un sitio web y que enlaza con el sitio web del anunciante.
 
 ## Sobre Google AdWords
 
@@ -7414,18 +7413,20 @@ Así pues, existen desde anunciantes que han pagado 0,03 dólares por clic, hast
 
 Con estas herramientas Google ha podido garantizar la independencia en sus resultados de búsqueda, al tiempo que puede generar ingresos por su actividad asegurando la gratuidad del servicio del buscador.
 
-Los servicios de Google siguen incrementándose con el desarrollo de una aplicación para móviles, denominada&gt;4dMo¿&gt;Ac/sSD/C, y con su servicio de Google Ad Planner.
+## AdMob Ads SDK
 
-- Google AdHob. Es una herramienta de muy reciente creación que posibilita a los anun ciantes insertar publicidad en aplicaciones para móviles.
+Los servicios de Google siguen incrementándose con el desarrollo de una aplicación para móviles, denominada AdMob Ads SDK, y con su servicio de Google Ad Planner.
+
+- Google AdMob. Es una herramienta de muy reciente creación que posibilita a los anun ciantes insertar publicidad en aplicaciones para móviles.
 - Google Ad Planner. Es un programa gratuito que permite planificar y seleccionar los me dios más adecuados para anunciarse. Para ello, se suministran estadísticas y datos demo gráficos sobre el perfil de los usuarios que navegan y sobre las búsquedas que realizan.
 
 ## D Marketing B2B
 
-Las siglas B2B (business-to-business) se refieren a las empresas que ofrecen sus servicios a otras empresas en lugar de tener a los consumidores como cliente final, que serían los ne gocios denominados B2C (business-to-consumer). El marketing B2B se refiere, por tanto, a las estrategias comerciales que una empresa dirige a otras, como sería el caso de la campaña expuesta en el ejemplo 9, «¿Has soñado con este hombre?».
+Las siglas B2B (business-to-business) se refieren a las empresas que ofrecen sus servicios a otras empresas en lugar de tener a los consumidores como cliente final, que serían los negocios denominados B2C (business-to-consumer). El marketing B2B se refiere, por tanto, a las estrategias comerciales que una empresa dirige a otras, como sería el caso de la campaña expuesta en el ejemplo 9, «¿Has soñado con este hombre?».
 
-Ya hay ejemplos de marketing aplicado a esta tendencia, como la empresa A&amp;A Commodities, especializada en la compra y venta de oro y metales preciosos que ha creado una plataforma digital bussines-to-bussines para facilitar el encuentro entre empresas, entidades financieras e inversores particulares.
+Ya hay ejemplos de marketing aplicado a esta tendencia, como la empresa A&A Commodities, especializada en la compra y venta de oro y metales preciosos que ha creado una plataforma digital bussines-to-bussines para facilitar el encuentro entre empresas, entidades financieras e inversores particulares.
 
-Encontrarás más ejemplos de marketing y sobre las tendencias actuales de las empresas en el blog de Mc raw-Hill, www.fpemprendedores.es, que se actualiza periódicamente.
+Encontrarás más ejemplos de marketing y sobre las tendencias actuales de las empresas en el blog de McGraw-Hill, www.fpemprendedores.es, que se actualiza periódicamente.
 
 ## El comercio electrónico
 
@@ -7433,13 +7434,13 @@ El comercio electrónico o e-commerce (electronic commerce) consiste en la compr
 
 Lo más habitual es utilizar el comercio electrónico para comprar bienes tangibles, sin em bargo, también se usa para adquirir servicios e, incluso, artículos virtuales. Asimismo, está demostrando su eficacia en el comercio entre empresas (B2B).
 
-- Adquisición de servicios. La adquisición del servicio se hace mediante la compra de un bono que el cliente canjea en el momento en que se beneficia del servicio contratado. El bono tiene un tiempo de validez, finalizado dicho período el cliente pierde la posibilidad de usarlo y consiguientemente pierde el servicio contratado. Así pues, para poder disfru tarlo tendrá que solicitar cita previa durante la validez del mismo. Los usuarios destacan la ventaja de acordar una fecha previa para obligarse a asistir, sin posponerlo por pereza o por obligaciones personales.
-- Compra de artículos virtuales. Este tipo de demanda va incrementándose paulatinamen te hacia software, juegos online y acceso a contenido Premium de un sitio web.
-- B2B. El comercio electrónico también se usa entre empresas y dispone de múltiples ven tajas:
+1. Adquisición de servicios. La adquisición del servicio se hace mediante la compra de un bono que el cliente canjea en el momento en que se beneficia del servicio contratado. El bono tiene un tiempo de validez, finalizado dicho período el cliente pierde la posibilidad de usarlo y consiguientemente pierde el servicio contratado. Así pues, para poder disfru tarlo tendrá que solicitar cita previa durante la validez del mismo. Los usuarios destacan la ventaja de acordar una fecha previa para obligarse a asistir, sin posponerlo por pereza o por obligaciones personales.
+2. Compra de artículos virtuales. Este tipo de demanda va incrementándose paulatinamen te hacia software, juegos online y acceso a contenido Premium de un sitio web.
+3. B2B. El comercio electrónico también se usa entre empresas y dispone de múltiples ventajas:
+
 - Permite a los proveedores incrementar los medios de distribución de sus productos, eli minando intermediarios y abaratando costes.
 - Posibilita una comunicación fluida y una disponibilidad de 24 horas. Reduce errores al re sultar accesible la información, como sería la relativa a los precios u ofertas, por ejemplo.
 - Permite las transacciones internacionales sin tener en cuenta la diferencia horaria. Las operaciones de compra-venta se pueden llevar a cabo de manera asincrónica e, incluso, se facilita estos intercambios comerciales, sin necesidad de instalar una oficina o un es tablecimiento comercial.
-
 - Se crea un mercado fácilmente accesible, es el Marketspace. Se pueden realizar compras a cualquier parte del mundo, gracias a que la tecnología es similar y compatible. Ello conlleva una mejoría de la conveniencia para el cliente y de la calidad de los productos, al incrementarse la competitividad entre las empresas.
 - Posibilita la comunicación directa con los clientes, mediante mensajes de texto, audio y vídeo, además de generar un soporte técnico ininterrumpido.
 
@@ -7447,20 +7448,25 @@ Los medios de pago más habituales son mediante tarjeta de crédito, por transfe
 
 PayPal es una empresa que permite la transferencia de dinero mediante el uso del correo electrónico. La facilidad de la transacción, así como la privacidad y seguridad de los datos ha impulsado el crecimiento de este tipo de empresa.
 
-## D Antecedentes del comercio electrónico: la venta por catálogo
+## Antecedentes del comercio electrónico: la venta por catálogo
 
 La venta por catálogo surgió en Estados Unidos a finales del siglo xix, con la intención de lograr una mayor difusión de los productos. Así pues, el envío de catálogos a los hoga res logró, no únicamente difundir los artículos, sino también propició el incremento de las ventas puesto que no requería que los clientes se desplazaran hasta el punto de venta, ya que con una simple llamada telefónica podían adquirir el producto deseado, sin el engorro de tener un vendedor en la puerta que presiona para poder realizar la venta.
 
 A partir de los años ochenta del siglo xx, la venta por catálogo tomó mayor impulso con la aparición de las tarjetas de crédito y de una nueva modalidad de venta: la teletienda,. Esta modalidad consiste en ofertar los productos a través de televisión, lo cual permite hacer una muestra con todo detalle de las cualidades del producto en cuestión, refrendado por el testi monio de personas que avalan las cualidades del artículo. La compra se materializa mediante un teléfono y una tarjeta de crédito.
 
-## D Evolución del comercio electrónico
+## Evolución del comercio electrónico
 
 La irrupción de Internet ha propiciado la aparición de nuevas fórmulas de comercialización que están revolucionando el sector.
 
-- Compra social. El comercio electrónico ha creado una nueva manera de comprar en la que un grupo de usuarios desconocidos se unen para realizar una misma compra, consiguiendo un precio reducido. El modelo de negocio consiste en ofertar un determinado producto con un nivel de descuento del 50% al 90% por un plazo de tiempo limitado, generalmente muy breve. La caducidad de la oferta genera miedo en el consumidor de no beneficiarse de dicha oportunidad, favoreciendo así la compra impulsiva. Incluso los pequeños negocios locales están haciendo uso de estas herramientas por los beneficios que genera y su bajo coste. Las empresas más conocidas que ofertan cupones son Letsbonus o roupon.
-- Comercio social Supone el uso de las redes sociales para comprar y vender productos a través de Internet, sirviéndose de herramientas como foros, comunidades, lista de valora ciones de productos, etc. Además, en estas redes colaborativas se intercambian opiniones, consejos y recomendaciones entre clientes potenciales de un producto y consumidores del mismo. A veces, las empresas tratan de mejorar la reputación de su marca insertando ellos mismos comentarios positivos sin desvelar su identidad. En otras ocasiones pagan a blogueros de reconocido prestigio para que incluyan un post (artículo) favorable a su compañía.
+- Compra social. El comercio electrónico ha creado una nueva manera de comprar en la que un grupo de usuarios desconocidos se unen para realizar una misma compra, consiguiendo un precio reducido. El modelo de negocio consiste en ofertar un determinado producto con un nivel de descuento del 50% al 90% por un plazo de tiempo limitado, generalmente muy breve. La caducidad de la oferta genera miedo en el consumidor de no beneficiarse de dicha oportunidad, favoreciendo así la compra impulsiva. Incluso los pequeños negocios locales están haciendo uso de estas herramientas por los beneficios que genera y su bajo coste. Las empresas más conocidas que ofertan cupones son Letsbonus o Groupon.
+
+- Comercio social. Supone el uso de las redes sociales para comprar y vender productos a través de Internet, sirviéndose de herramientas como foros, comunidades, lista de valora ciones de productos, etc. Además, en estas redes colaborativas se intercambian opiniones, consejos y recomendaciones entre clientes potenciales de un producto y consumidores del mismo. A veces, las empresas tratan de mejorar la reputación de su marca insertando ellos mismos comentarios positivos sin desvelar su identidad. En otras ocasiones pagan a blogueros de reconocido prestigio para que incluyan un post (artículo) favorable a su compañía.
+
+## Foro
 
 Un foro es una aplicación web que da soporte al intercambio de opiniones en línea. Para las empresas esto supone un medio informal de publicidad, aunque no pueden controlar que toda sea positiva, ya que los usuarios expresan libremente su opinión.
+
+## Comunidades online
 
 Las comunidades online son grupos de personas que comparten intereses y se ponen en contacto para intercambiar conocimientos, experiencias, etc., algunos se han creado sobre la base de intereses de compra concretos, como ropa de segunda mano.
 
@@ -7478,18 +7484,16 @@ El patrocinio persigue también un beneficio intangible para la empresa, que con
 ## Ejemplo 22. Ejemplos de asociaciones entre valores y patrocinio
 
 - Los últimos spots del Banco Santander están protagonizados por Fernando Alonso y giran en torno a la idea del equipo de trabajo, de esforzarse por ganar y de superarse a uno mis mo, con lo que se quiere reforzar la imagen corporativa del Banco Santander. Es interesante constatar que el rojo corporativo del Banco Santander es fácilmente asociable al rojo de la escudería Ferrari.
+
 - El concierto Coca-Cola Music Experience asocia su bebida con la felicidad, el ocio, la mú sica, la juventud, la amistad, etc., valores que la empresa está reforzando siempre a través de sus campañas publicitarias. De hecho, la compañía Coca-Cola ha creado una fundación para la felicidad, a través de la cual apoya los trabajos y las investigaciones relacionados con el tema que llevan a cabo reconocidos científicos.
+
 - No es casualidad que fuera la marca Red Bull la que patrocinara el salto estratosférico pro tagonizado por Félix Baumgartner, que consiguió romper la barrera del sonido en una caída libre desde 39 kilómetros de altura.
 
-§
-
-i
-
-Precisamente, a raíz de esta vinculación, la empresa puede estar interesada en cortar el patro cinio cuando los valores se invierten, tal como sucedió con el ciclista Luis Amstrong cuando fue acusado de dopaje. Tanto Nike como el resto de las marcas que durante años le patroci naron, retiraron su apoyo en cuanto se tuvo noticia del fraude deportivo.
+Precisamente, a raíz de esta vinculación, la empresa puede estar interesada en cortar el patrocinio cuando los valores se invierten, tal como sucedió con el ciclista Luis Amstrong cuando fue acusado de dopaje. Tanto Nike como el resto de las marcas que durante años le patrocinaron, retiraron su apoyo en cuanto se tuvo noticia del fraude deportivo.
 
 Nike había bautizado uno de sus edificios en Oregon con el nombre del ciclista, que cambió de inmediato. Dar nombre a edificios o espacios públicos es una forma más de patrocinio, de la que existen más ejemplos, como el Teatro Kodak -donde se lleva a cabo la gala de los premios Óscar-, el Teatro Háagen Dazs en Madrid, la Volvo Ocean Race o el San Miguel Primavera Sound, en Barcelona, que lleva más de doce ediciones reuniendo en conciertos a diversos artistas.
 
-Esta técnica se conoce con el término de namingríghts. Una aplicación de esta estrategia de marketing tuvo lugar en Madrid cuando la estación de metro Sol cambió su nombre tempo ralmente por el de Sol alaxy Note, para promocionar un móvil de esta compañía.
+Esta técnica se conoce con el término de naming rights. Una aplicación de esta estrategia de marketing tuvo lugar en Madrid cuando la estación de metro Sol cambió su nombre tempo ralmente por el de Sol alaxy Note, para promocionar un móvil de esta compañía.
 
 ## Curiosidad: las consecuencias del patrocinio olímpico
 
@@ -7499,15 +7503,15 @@ El Comité Organizador de Londres 2012 notificó a la empresa que debía retirar
 
 Entre los patrocinadores olímpicos figuraban Coca-Cola, McDonald's, Adidas, Heineken y Visa, razón por la que las entradas solo se podían pagar con tarjetas Visa, que la oferta alimenticia dependía de un enorme McDonald's (el mayor del mundo) y que las bebidas más frecuentes eran de las marcas Coca-Cola y Heineken.
 
-La explicación a estas restricciones se remonta al año 1996, cuando Nike compró las vallas publicitarias alrededor del estadio olímpico y logró más reconocimiento que el patrocinador, Reebok. Desde entonces, el Comité Olímpico Internacional (COI) exige que cada ciudad anfitriona apruebe una normativa estricta que prohiba el uso de este reclamo turístico si no se es colaborador oficial de los Juegos. La razón es que sin el apo yo económico de los patrocinadores, las Olimpiadas no podrían realizarse, como fue el caso de Londres, cuyos patrocinadores aportaron 1 775 millones de euros.
+La explicación a estas restricciones se remonta al año 1996, cuando Nike compró las vallas publicitarias alrededor del estadio olímpico y logró más reconocimiento que el patrocinador, Reebok. Desde entonces, el Comité Olímpico Internacional (COI) exige que cada ciudad anfitriona apruebe una normativa estricta que prohiba el uso de este reclamo turístico si no se es colaborador oficial de los Juegos. La razón es que sin el apo yo económico de los patrocinadores, las Olimpiadas no podrían realizarse, como fue el caso de Londres, cuyos patrocinadores aportaron 1775 millones de euros.
 
 ## Los nuevos profesionales del marketing online
 
 Las nuevas tendencias en marketing han conducido al desarrollo de nuevos profesionales que integran el departamento de marketing en las empresas.
 
-Ücommunitymanager o responsable de la comunidad digital es la persona responsable de la comunicación de una empresa, encargada de crear, gestionar y dinamizar una comu nidad de usuarios en Internet; en otras palabras, gestiona la reputación de la marca en los medios virtuales.
+- El community manager o responsable de la comunidad digital es la persona responsable de la comunicación de una empresa, encargada de crear, gestionar y dinamizar una comunidad de usuarios en Internet; en otras palabras, gestiona la reputación de la marca en los medios virtuales.
 
-El record manager es el encargado de gestionar la publicidad online de la marca, en los di ferentes medios como redes sociales, blogs, páginas web, Google Adwords, etc., así como de evaluar sus efectos.
+- El record manager es el encargado de gestionar la publicidad online de la marca, en los di ferentes medios como redes sociales, blogs, páginas web, Google Adwords, etc., así como de evaluar sus efectos.
 
 ## Presupuestos de marketing
 
@@ -7517,9 +7521,9 @@ Un presupuesto de marketing prevé una cantidad de recursos determinados para re
 
 Diseña junto a tus socios una campaña de marketing. Tenéis que definir qué acciones promocionales vais a llevar a cabo, además de presupuestarlas. Asimismo, debéis especi ficar de dónde obtendréis la financiación necesaria.
 
-## Ayuda práctica:
+Ayuda práctica:
 
-## Criterios sobre el presupuesto
+Criterios sobre el presupuesto
 
 Hay varios criterios para decidir qué cantidad del presupuesto debe asignarse al departa mento de marketing. Los dos criterios más habituales son:
 
@@ -7531,11 +7535,12 @@ Otros criterios que pueden usarse, aunque no son aconsejables son:
 - Según la experiencia del departamento.
 - Presupuesto en base cero, supone financiar todas las actividades que se estiman con venientes.
 - Mantener la cantidad asignada en años previos.
-- igualar el gasto de la competencia.
+- Igualar el gasto de la competencia.
 
-## Errores a evitar
+Errores a evitar
 
 1. Centrarse en el producto. El mejor de los productos puede ser un fracaso si no se tienen en cuenta las necesidades de los clientes o lo que están dispuestos a pagar por él. Analizamos un ejemplo práctico sobre esto en la Unidad 1, al hablar de la fregona.
+
 2. Dirigirse a todo el mercado. Hay que definir un segmento de mercado y focalizar en él las campañas de marketing y todo el planteamiento empresarial. Esto no ex cluye a cualquier comprador, sino que concentra los esfuerzos en atraer y mantener a un público objetivo concreto. Para determinar la importancia de esta afirmación, procede a realizar el siguiente ejercicio: responde a estas preguntas y luego compara tus respuestas con las de tus compañeros.
 
 - a) ¿Utilizas el mismo móvil que tus padres?
@@ -7552,15 +7557,11 @@ Otros criterios que pueden usarse, aunque no son aconsejables son:
 
 A la hora de elegir un dominio (nombre de la web) hay que tener en cuenta varios criterios. El primordial es conceder la misma importancia a la elección del dominio como a la que se desempeña al seleccionar la denominación social de la empresa o del logotipo. Un nombre de dominio atractivo y elegante facilitará el tráfico por su página. Es una carta de presenta ción, igual que lo es cualquier otro aspecto del negocio, así que no debe descuidarse.
 
-Una vez decidido el nombre, hay que comprobar si está ocupado. En la web www.whois. org es posible comprobarlo y, en caso de estar ocupado, quién lo ostenta. Algunas empresas muy interesadas en un dominio concreto son capaces de pagar elevadas cifras por adquirir la propiedad del mismo. Por ejemplo, el dominio realstate.net {agencia inmobiliaria, en inglés) fue vendido por 300000 dólares.
+Una vez decidido el nombre, hay que comprobar si está ocupado. En la web www.whois. org es posible comprobarlo y, en caso de estar ocupado, quién lo ostenta. Algunas empresas muy interesadas en un dominio concreto son capaces de pagar elevadas cifras por adquirir la propiedad del mismo. Por ejemplo, el dominio realstate.net (agencia inmobiliaria, en inglés) fue vendido por 300000 dólares.
 
-Existen empresas especializadas en comprar dominios de compañías importantes y uti lizarlos para contenidos ilícitos. El impacto social negativo que puede generar en una marca tal hecho provoca que la compañía acceda a comprar ese dominio por cantidades astronómicas, aunque también hay quien toma medidas ante la justicia y lo denuncia a los tribunales.
+Existen empresas especializadas en comprar dominios de compañías importantes y utilizarlos para contenidos ilícitos. El impacto social negativo que puede generar en una marca tal hecho provoca que la compañía acceda a comprar ese dominio por cantidades astronómicas, aunque también hay quien toma medidas ante la justicia y lo denuncia a los tribunales.
 
-## Ejemplo 23. El dominio Hipercor
-
-Hipercor en el año 2005 ganó la demanda interpuesta a un particular que utilizaba el do minio hipercor.to para divulgar contenido pornográfico. En la demanda, Hipercor denunció la violación de derechos, de propiedad industrial y de competencia desleal por el uso de la denominación y marca denominativa y gráfica Hipercor como nombre de dominio.
-
-En caso de que el dominio esté libre, hay que registrarlo antes de comenzar a realizar el di seño de la web mediante el pago de una cantidad y renovarlo anualmente para garantizar el derecho de uso. Si el dominio no se renueva su uso caduca. Un dominio caducado pasa por varios estados:
+En caso de que el dominio esté libre, hay que registrarlo antes de comenzar a realizar el diseño de la web mediante el pago de una cantidad y renovarlo anualmente para garantizar el derecho de uso. Si el dominio no se renueva su uso caduca. Un dominio caducado pasa por varios estados:
 
 - On hold (en espera), el dominio queda bloqueado por el registrador y puede renovarse sin problemas.
 - Redemption period (periodo de gracia), periodo durante el cual todavía se puede renovar el dominio, no sin dificultad, y con un coste mayor al del estado on hold.
@@ -7568,13 +7569,17 @@ En caso de que el dominio esté libre, hay que registrarlo antes de comenzar a r
 
 El seguimiento de los dominios caducados mueve millones cada año. Snapnames, Pool y Namewinner son algunas de las empresas especializadas en capturar dominios caducados que luego subastan, obteniendo un beneficio de ello.
 
+## Ejemplo 23. El dominio Hipercor
+
+Hipercor en el año 2005 ganó la demanda interpuesta a un particular que utilizaba el do minio hipercor.to para divulgar contenido pornográfico. En la demanda, Hipercor denunció la violación de derechos, de propiedad industrial y de competencia desleal por el uso de la denominación y marca denominativa y gráfica Hipercor como nombre de dominio.
+
 ## Actividad de simulación 3
 
 Reúnete con tus socios. Pensad un dominio para vuestra empresa, según las recomenda ciones dadas. Incluso, podéis iniciar la creación de una página web. Hay muchas páginas que ofrecen un espacio gratuito y que tienen plantillas prediseñadas para que la activi dad resulte fácil y rápida. Cada vez se desarrollan más este tipo de iniciativas.
 
-## Ayuda práctica:
+Ayuda práctica:
 
-La primera opción para escoger el dominio es la de utilizar el mismo nombre que el de la marca del negocio a promocionar, por ser el criterio de búsqueda que usarán los clientes. Por ejemplo, la editorial Mc raw-Hill mantiene el nombre del negocio en su dominio web: www.mcgraw-hill.es.
+La primera opción para escoger el dominio es la de utilizar el mismo nombre que el de la marca del negocio a promocionar, por ser el criterio de búsqueda que usarán los clientes. Por ejemplo, la editorial McGraw-Hill mantiene el nombre del negocio en su dominio web: www.mcgraw-hill.es.
 
 En caso contrario, habría que seguir estos consejos:
 
@@ -7583,7 +7588,6 @@ En caso contrario, habría que seguir estos consejos:
 3. Evitar nombres ostentosos, tipo www.lamejorbisuteria.com, ya que suelen generar mala sensación.
 4. Es preferible un nombre corto. Aunque es posible contratar hasta 64 caracteres en un dominio, pero requerirá más esfuerzo de teclear y de memorizar.
 5. No debe cambiarse el nombre una vez elegido, puesto que confundiría a los usuarios y se perdería el valor de ranking que otorga Google, así como los enlaces que hayan hecho otros internautas.
-
 6. Incluir palabras clave en el dominio puede ayudar al buscador. Un ejemplo lo encon tramos en la web de ayuda a la creación de empresas, www.crearempresas.com.
 7. Procurar incluir juegos de palabras o doble sentidos. Demuestra ingenio y resulta divertido, algo que nuestra clientela agradecerá. Por ejemplo, del.icio.us o www. lawebera.es.
 8. Evitar incluir guiones medios o bajos en el nombre. La norma es escribir todo junto, lo que da menos problemas en los buscadores y es más fácil de transmitir de forma verbal
@@ -7596,7 +7600,7 @@ En caso contrario, habría que seguir estos consejos:
 
 Las tendencias directivas actuales (management) apuntan hacia la calidad total, mediante la creación de sistemas participativos, la fomentación de equipos de trabajo, el trabajo orienta do a resultados, la captación del talento y la gestión informatizada de los recursos humanos.
 
-## I Tendencias gerenciales
+## Tendencias gerenciales
 
 El Ambiente de trabajo orientado a resultados o ATOR (en inglés ROWE, Results oriented workenvironment) consiste en retribuir a los trabajadores mediante un salario mixto integra do de una parte fija, denominada salario base, y de otra variable, según los resultados obteni dos, que suele reflejarse en la nómina como plus de productividad o incentivos o comisiones.
 
@@ -7613,17 +7617,25 @@ No obstante, la principal dificultad de esta gestión de personal es cuantificar
 
 Además, hay que procurar que el sistema valore o retribuya de alguna manera el esfuerzo aunque no haya producido un resultado, ya que la opción de compra no solo depende de la empresa, sino también del comprador, de variables económicas, etc. Las gerencias de las grandes empresas incorporan alguna forma de evaluar a los trabajadores.
 
+## Evaluación del desempeño
+
 La evaluación del desempeño es un proceso sistemático y periódico por el que se valoran, tanto cuantitativa como cualitativamente, el grado de eficacia de los trabajadores en su pues to mediante una serie de instrumentos, como encuestas, observación, etc. Una variante de esta técnica es la denominada evaluación del desempeño 360° o feedback 360grados.
+
+## Feedback 360 grados
 
 El feedback 360 grados se comenzó a utilizar para evaluar a los mandos superiores, por parte de sus iguales jerárquicos, sus subordinados, clientes y proveedores. La idea de partida rompía con el paradigma de que el jefe es la única persona que puede evaluar las competencias de sus subordinados. En la práctica se utiliza para evaluar el desempeño de cualquier miembro de la organización con vistas a mejorar sus competencias, habilidades y comportamientos, así como a desarrollar su potencial en la organización. Los instrumentos que se utilizan son vanados, pero el proceso incluye siempre la comunicación de los resultados al afectado, para que tenga la oportunidad de modificar o cambiar.
 
 El principal hándicap de esta herramienta es el esfuerzo que supone la recogida y análisis de los datos, aunque se ha mejorado mucho con la incorporación de técnicas informáticas. Como consecuencia de esta evaluación, las empresas detectan trabajadores que son de espe cial relevancia para la compañía.
 
+## Gestión del talento
+
 La gestión del talento busca destacar a aquellos trabajadores con una gran competencia o un alto potencial dentro de su sector profesional. El proceso de atraer pero también de retener a colaboradores productivos, se ha tornado cada vez más prioritario en las empresas, puesto que tan difícil es identificar personas válidas como fidelizarlas. Con esa intención se busca motivarles a través de procesos de promoción, autonomía de tareas, sueldos compe titivos, funciones de liderazgo, flexibilidad laboral y oportunidades de satisfacer sus moti vaciones personales. Las empresas o los profesionales especializados en captar talentos se denominan headhunters.
 
-## ■ Trabajo en equipo
+## Trabajo en equipo
 
 Los modelos teóricos de gestión de personal han avanzado desde el taylorismo hasta el toyotismo, como ya analizamos en unidades anteriores. La última tendencia está más orientada a favorecer el trabajo en equipos autónomos y autogestionablesf lo que resulta coherente con la aplicación de las ideas expuestas de ambiente orientado al resultado, evaluación del desempeño y gestión del talento.
+
+## Fractal teams o equipos fractales
 
 El fractal teams o equipos fractales es un modelo de organización de empresa que centra su énfasis en la dirección de las personas como clave del funcionamiento de las organizacio nes, integrando los actuales conocimientos y teorías sobre liderazgo, motivación, trabajo en equipo, etc.
 
@@ -7639,7 +7651,11 @@ La idea subyacente no es instaurar un ambiente de trabajo jocoso, sino implement
 
 Google es una empresa que aplica esta filosofía empresarial. Para su fundador, el trabajo debe suponer un reto y los logros deben valorarse. En esta empresa se fomenta el trabajo en equipo, la relación interpersonal a través de zonas que permiten el juego grupal, las reuniones en espacios informales y la autogestión del tiempo de trabajo para alcanzar un único fin: la mejora del trabajo. Google siempre busca personas que compartan su obsesivo compromiso por lograr la perfección y que se diviertan haciéndolo.
 
+## Gestión de la calidad total
+
 La gestión de la calidad total (TQM, del inglés Total Quality Management) es una estrategia de gestión enfocada a mejorar la calidad en todos los procesos organizacionales. Una de las técnicas que incorpora es la que se denomina círculos de calidad.
+
+## Círculo de calidad
 
 El círculo de calidad es una técnica que pretende resolver los problemas generados por la interacción de los trabajadores. Para ello, un grupo voluntario de trabajadores se reúne periódicamente con la intención de gestionar de manera satisfactoria los problemas detec tados en sus áreas de desempeño laboral. Tras la discusión y propuesta de soluciones, se elevan las conclusiones a las instancias superiores que las estudiarán e implementarán, en la medida de lo posible. Esta técnica procede de Japón y se ha incorporado en las empresas orientales, no así en las occidentales que tienen un método de gestión del personal menos abierto y flexible.
 
@@ -7657,7 +7673,7 @@ Los programas informáticos permiten realizar estos cálculos teniendo en cuenta
 
 Realiza un plan de recursos humanos en el que queden identificados los puestos de trabajo, sus funciones, el perfil profesional requerido, el salario, la jornada de trabajo y la modalidad de contrato a realizar.
 
-## Ayuda práctica:
+Ayuda práctica:
 
 El primer paso es considerar todas las actividades y funciones que deben realizarse en vuestra empresa. Después, repartidlas entre los socios, con la intención de evitar la con tratación innecesaria. En caso de que no fuera suficiente o de que hubiera aspectos que los socios no pueden realizar por falta de conocimientos, tendríais que plantearos la contratación o subcontratación de personal.
 
@@ -7667,10 +7683,28 @@ En otras ocasiones, es preferible contar con personal asalariado para la realiza
 
 Con la intención de facilitaros la realización de esta actividad de simulación, os propo nemos un ejemplo inventado de la previsión de empleados que realiza una empresa que promociona cursos de formación online y que, además, actúa como plataforma para que otras empresas anuncien y difundan sus ofertas de cursos.
 
-| Desarrollador web y community manager | Su función es crear y mantener la página web, así como posicionar nuestro portal en los primeros pues tos de los motores de búsqueda más utilizados y mejorar la imagen cor porativa que se encuentra en Inter net.          | 30000 € brutos                                                                                    | Técnico superior infor mático con experien cia en posicionamiento web y en la gestión de un blog personal. |
-| ------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
-| Director de formación                 | Su cometido es coordinar todos los cursos que ofertamos y diferen ciarlos de los de la competencia. Así como integrar otra formación de otras empresas en nuestra web. Lleva también la parte administra tiva de la empresa. | 21 000 € brutos                                                                                   | Técnico superior infor mático o superior con experiencia en coordi nación de equipos de trabajo.           |
-| Director comercial                    | Se encarga de buscar clientes, bien sean alumnos, bien sean empresas que se van a promocionar desde nuestro dominio.                                                                                                         | Salario mixto: 17000 € brutos, como parte fija e incentivos variables según clientes conseguidos. | rado superior o grado medio con experiencia en comercio online y con conocimiento de idiomas.              |
+- Salario incluye las cargas sociales, es decir, las cuotas a la Seguridad Social
+
+1. Ejemplo 1
+
+- Trabajador: Desarrollador web y community manager
+- Función: Su función es crear y mantener la página web, así como posicionar nuestro portal en los primeros puestos de los motores de búsqueda más utilizados y mejorar la imagen corporativa que se encuentra en Internet.
+- Salario: 30000 € brutos
+- Perfil profesional: Técnico superior infor mático con experiencia en posicionamiento web y en la gestión de un blog personal.
+
+2. Ejemplo 2
+
+- Trabajador: Director de formación
+- Función: Su cometido es coordinar todos los cursos que ofertamos y diferenciarlos de los de la competencia. Así como integrar otra formación de otras empresas en nuestra web. Lleva también la parte administrativa de la empresa.
+- Salario: 21 000 € brutos
+- Perfil profesional: Técnico superior informático o superior con experiencia en coordinación de equipos de trabajo.
+
+3. Ejemplo 3
+
+- Trabajador: Director comercial
+- Función: Se encarga de buscar clientes, bien sean alumnos, bien sean empresas que se van a promocionar desde nuestro dominio.
+- Salario: Salario mixto: 17000 € brutos, como parte fija e incentivos variables según clientes conseguidos.
+- Perfil profesional: Grado superior o grado medio con experiencia en comercio online y con conocimiento de idiomas.
 
 ## Plan de empresa
 
@@ -7682,17 +7716,53 @@ Las actividades de simulación realizadas en esta unidad os han servido para del
 
 El plan de empresa incluirá en esta unidad dos apartados denominados plan de marke ting y plan de RR.HH.
 
-## 1. Plan de marketing
+1. Plan de marketing
 
 Anota todas las acciones de marketing que vais a realizar, especificando los objeti vos, los medios de promoción y el presupuesto a utilizar.
 
-## 2. PlandeRR.HH.
+2. Plan de RR.HH.
 
 Enumera los trabajadores que vais a contratar, el perfil profesional requerido, sus condiciones de trabajo (jornada, salario, funciones, tipo de contrato, etc.), así como el modelo organizacional y gerencial de vuestra empresa.
 
-v^..-&gt;;
+## Síntesis
 
-·'.
+1. Plan de marketing
+
+2. Marketing mix:
+
+- Tradicional: Producto, Precio, Promoción Distribución
+- Actual: Cliente, Contenido, Coste, Conveniencia, Contexto, Conexión
+
+3. Medios de promoción:
+
+- Maketing tradicional: Medios de comunicación de masas
+- Mareketing directo: Mailing, faxing, e-mailing, telemarketing
+- Marketing alternativo:
+- a) Técnicas mas usuales: Vídeo marketing, Código QR o código BIDI, Mobile marketing, Marketing viral, Vending, Marketing olfativo, Marketing social, Marketing de contenidos, Marketing relacional
+- b) Otro tipo de técnicas: Street marketing, Dance marketing, Co-marketing, Marketing de guerrilla, Neuromarketing, Marketing verde, Marketing de afiliación, Marketing B2B
+- c) Comercio electrónico
+- d) Patrocinio
+
+4. Gestión RR.HH.
+
+- Tendencias gerenciales
+- Trabajo en equipo
+- Gestión informatizada de los RR.HH.
+
+5. Plan de empresa:
+
+- Idea del negocio
+- Socios trayectoria profesional
+- Estudio de mercado
+- Plan de producción
+- Plan financiero
+- Plan de aprovisionamiento
+- Obligaciones fiscales
+- --> Plan de marketing
+- --> Plan de RR.HH.
+- Acciones para la Internacionalización
+
+## Test de repaso
 
 1. El marketing persigue como objetivos:
 
@@ -7792,6 +7862,8 @@ v^..-&gt;;
 - c) Compra-venta por medios electrónicos.
 - d) Ninguna es correcta.
 
+## Comprueba tu aprendizaje
+
 1. Expon los objetivos del marketing.
 2. Señala cuáles son las 4Cs del nuevo enfoque de marketing mix y explica a qué se debe el cambio conceptual
 3. Señala qué criterios se siguen para designar una publicidad como ilícita.
@@ -7813,7 +7885,6 @@ v^..-&gt;;
 19. Busca un ejemplo de marketing verde.
 20. Indica qué ventajas tiene el marketing de afiliación, tanto para la empresa que se anuncia como para el propietario del blog o del dominio web, en cuyo soporte se incluye este tipo de publicidad.
 21. Busca información sobre los precios para anunciarse por medio de Google AdWords y de Google AdSense. Razona cuál estarías más predispuesto a utilizar si trabajaras en una agencia de viajes.
-
 22. Explica el significado de esta frase y si estás de acuerdo con ella o no: «A pesar de la real importancia de las redes sociales y la casi obligada presencia de las empresas en ellas, el mundo del social media se siente permanentemente envuelto en el debate de la espe culación, los falsos gurús, los oportunistas y el menosprecio a las figuras emergentes de algunos profesionales como el Community Manager». Si necesitas consultar la fuente original, visita este enlace: http://www.puromarketing.com/42/15425/communitymanagers-merecen-mucho-recooocimiento-respeto.html
 23. Realizar una campaña de marketing vía e-mail tiene gran complejidad, si queremos que la acción resulte efectiva. Lee la información contenida en este artículo http://www. pysnnoticias.com/2013/03/03/como-optimizar-sus-campanas-de-email-marketing y señala las cuatro características más importantes que deben ser tenidas en cuenta por cualquier empresa que quiera realizar una acción de este tipo.
 24. Un diseño «verde» persigue obtener productos con el menor impacto posible en el eco sistema a lo largo de su ciclo de vida, logrando una producción sostenible y un consumo racional de recursos. Basándote en esta definición, busca ejemplos de acciones que hayan realizado hoteles, casas rurales, campings y demás oferta turística considerando esta pre misa a la hora de ofertar sus plazas de alojamiento.
@@ -7831,7 +7902,7 @@ v^..-&gt;;
 
 31. Busca información sobre Amazon y escribe un resumen de cuándo se constituyó y cómo surgió la idea.
 
-## I nternacionalización y globalización
+# 8. Internacionalización y globalización
 
 ## En esta unidad aprenderemos a:
 
@@ -7847,15 +7918,17 @@ v^..-&gt;;
 - Herramientas para la innovación empresarial.
 - Influencia de Internet en la organización de la empresa.
 
-«El único lugar donde el éxito viene iiites qtitet trabajo es Ir» il diccionario.» Donald M. Kendall, CIÓ éñ a 1986.
+## Donald M. Kendall, CEO de Pepsi de 1971 a 1986.
+
+«El único lugar donde el éxito viene antes que el trabajo es en el diccionario.»
+
+## Emprendedores
 
 En este apartado vamos a analizar, de la mano de Zara, las distintas estrategias que las em presas utilizan para introducirse y afianzarse en el mercado internacional.
 
 ## Zara: un ejemplo de internacionalización
 
-Zara pertenece al grupo Inditex, al igual que Pulí &amp; Bear, Massimo Dutti, Bershka, Stradivarius, Oysho y Üterque. La compañía inició su proceso de interna cionalización en 1988, apenas trece años después de que se abriera la primera tienda Zara en Arteixo, ali
-
-cia. Inditex es un ejemplo de cómo una empresa puede llegar a convertirse en multinacional sin contar con tecnologías punteras ni marcas de reconocido prestigio.
+Zara pertenece al grupo Inditex, al igual que Pull&Bear, Massimo Dutti, Bershka, Stradivarius, Oysho y Üterque. La compañía inició su proceso de internacionalización en 1988, apenas trece años después de que se abriera la primera tienda Zara en Arteixo, Galicia. Inditex es un ejemplo de cómo una empresa puede llegar a convertirse en multinacional sin contar con tecnologías punteras ni marcas de reconocido prestigio.
 
 La expansión internacional se inició en Portugal, apenas 35 años después el grupo Inditex está presente en mercados tan diversos como Estados Unidos, Canadá, México, Venezuela, Japón, China, Israel, Líbano, Kuwait, Emiratos Árabes, Jordania, Bahrein, etc.
 
@@ -7863,11 +7936,11 @@ En la mayoría de las ocasiones, la entrada en el nuevo mercado es iniciada por 
 
 ## Abriéndose paso en el mercado internacional
 
-En Europa, los países con mayor presencia de Inditex son Francia, Bélgica y recia. El éxito en Francia supuso un gran respaldo, por tratarse de un mercado de relevancia internacional en el ámbito de la moda. Los últimos países donde se ha incorporado su presencia han sido Alemania, Reino Unido e Italia y en cada uno de ellos se ha seguido una estrategia de ex pansión diferente. En los mercados alemán e italiano se ha optado por la fórmula dejoint venturo, en el Reino Unido por la implantación directa, creando la filial Zara UK. En cambio, en Oriente Medio se ha optado mayoritariamente por la fórmula de la franquicia.
+En Europa, los países con mayor presencia de Inditex son Francia, Bélgica y recia. El éxito en Francia supuso un gran respaldo, por tratarse de un mercado de relevancia internacional en el ámbito de la moda. Los últimos países donde se ha incorporado su presencia han sido Alemania, Reino Unido e Italia y en cada uno de ellos se ha seguido una estrategia de ex pansión diferente. En los mercados alemán e italiano se ha optado por la fórmula de joint venturo, en el Reino Unido por la implantación directa, creando la filial Zara UK. En cambio, en Oriente Medio se ha optado mayoritariamente por la fórmula de la franquicia.
 
-lajointventure consiste en acuerdos con socios locales que aporten un conocimiento previo del país. Por ejemplo, la asociación con la alemana Otto Versand ha permitido aprovechar la experiencia de esta firma en ese país, razón por la que el crecimiento en Alemania está siendo muy rápido.
+- La joint venture consiste en acuerdos con socios locales que aporten un conocimiento previo del país. Por ejemplo, la asociación con la alemana Otto Versand ha permitido aprovechar la experiencia de esta firma en ese país, razón por la que el crecimiento en Alemania está siendo muy rápido.
 
-La franquicia se realiza con un solo socio para todo el país, que debe ser un gran grupo nacional con una consolidada tradición y experiencia en la distribución de moda, que cuente con los recursos necesarios para implantar el modelo Inditex en su país. Los franquiciados tienen la posibilidad de devolver mercancía durante la temporada, si las ventas no son adecuadas. Y son ellos los que corren con la inversión en activos fijos y la contratación del personal. A cambio, se le otorga la exclusividad geográfica de la franqui cia, por lo que no podrá haber otro franquiciado en la misma zona.
+- La franquicia se realiza con un solo socio para todo el país, que debe ser un gran grupo nacional con una consolidada tradición y experiencia en la distribución de moda, que cuente con los recursos necesarios para implantar el modelo Inditex en su país. Los franquiciados tienen la posibilidad de devolver mercancía durante la temporada, si las ventas no son adecuadas. Y son ellos los que corren con la inversión en activos fijos y la contratación del personal. A cambio, se le otorga la exclusividad geográfica de la franqui cia, por lo que no podrá haber otro franquiciado en la misma zona.
 
 En un sector que estaba caracterizado por la fortaleza de marcas elitistas, con creaciones glamurosas de reconocidos diseñadores, Inditex apostó por otro modelo. Su originalidad estuvo en «democratizar la moda», en saber imitar las tendencias de las pasarelas para crear pren das propias, diseñadas, fabricadas, distribuidas y vendidas por ellos mismos. Es un proceso de integración vertical donde no hay intermediarios y, con ello, se abarata el encarecimiento del producto.
 
@@ -7893,9 +7966,11 @@ Entonces, si la estrategia empresarial es tan exitosa, ¿por qué no se imita? S
 2. Identifica la estrategia de marketing mix del grupo Inditex, para lo que tienes que analizar cuál es su estrategia en relación con las cuatro variables siguientes: produc to, precio, promoción y distribución.
 3. Realiza una búsqueda en Internet con las palabras «clones de Zara», ¿qué páginas se muestran? Comenta el resultado.
 
+## Conceptos básicos
+
 En este apartado vamos a recordar algunos conceptos que te serán útiles para realizar la Simulación, tales como:
 
-mercado global franquicia filial alianzas internacionales comercio exterior joint Wentüfe multinacionales
+mercado global, franquicia, filial, alianzas internacionales, globalización, comercio exterior, joint venture, multinacionales
 
 ## A. Internacionalización de empresas
 
@@ -7905,6 +7980,8 @@ La forma de acceder a otros mercados que no estén en el país de origen puede e
 
 La exportación es el proceso de comercializar bienes o servicios en otro país. Los métodos más comunes son la comercialización indirecta o la comercialización directa por medio de intermediarios.
 
+## Comercialización indirecta
+
 Se realiza sin contar con la presencia de la empresa en el país donde quiere introducirse, ya que trabaja con interme diarios locales, esto es, con empresas ya consolidadas en ese mercado. Es una forma más segura de iniciar negocios en otro mercado, al contar con la experiencia de una compañía ya asentada, con conocimientos propios del sector y del país, como costumbres culturales o dominio del idioma. Representa una gran oportunidad para pymes que quieren expandirse internacionalmente,ya que requiere menor inversión que si se contara con presencia directa. Aunque genera una relación de dependencia con los socios locales y limita los beneficios, ya que cuantos más agentes intervengan en el proceso, más beneficios habrá que repartir.
 
 La comercialización indirecta puede llevarse a cabo mediante un agente, un distribuidor local o un consorcio de expor tación.
@@ -7912,6 +7989,8 @@ La comercialización indirecta puede llevarse a cabo mediante un agente, un dist
 - Agente. Mantiene una relación mercantil con la empresa, ya que trabaja a comisión. Las condiciones del contrato mercantil han de ajustarse a la legislación de cada país, si bien la Cámara de Comercio Internacional tiene un modelo estándar de contrato de agente comercial que es aceptado en la mayoría de los países.
 - Distribuidor local. Se convierte en un elemento de la cadena de comercialización de la empresa, al adquirir los pro ductos de la compañía para venderlos en su país. La empresa que quiere internacionalizarse pasa así a convertirse en proveedor del intermediario local y este en su cliente.
 - Consorcio de exportación. Es una coalición de empresas que tiene como objetivo promover los bienes y servicios de sus miembros en el extranjero y exportar dichos productos mediante acciones conjuntas. A veces estos consorcios están promovidos por las cámaras de comercio de las comunidades autónomas a las que pertenecen las empresas asociadas.
+
+## Globalización
 
 La globalización es el proceso por el cual los distintos países del mundo están cada vez más conectados e interdependientes unos de otros, unificando sus mercados, socie dades y culturas, a través de una serie de transformaciones económicas, tecnológicas, sociales, culturales y políticas a gran escala.
 
@@ -7927,27 +8006,27 @@ Desde la Comunidad Autónoma de Murcia se han llevado a cabo contactos y viajes 
 
 José Abad es un empresario español afincado en Israel, donde regenta un bar de tapas. Afirma que la marca España es muy popular en el extranjero, cuyos mejores embajadores son: la comida, la forma de vida y el carácter español. Razón por la cual, en Israel es fácil comprar cualquier artículo español puesto que existen muchos distribuidores que venden desde aza frán, pimentón o ventresca, hasta vinos de cualquier denominación de origen.
 
-## órnerciatización directa
+## Comercialización directa
 
-Supone la presencia directa de la empresa en el nuevo mercado, ya sea implantando una sucursal, mediante fusionesy adquisiciones de empresas, por un acuerdo óejointventure, o a través de un consorcio de exportación. Estas estrategias de comercialización directa exigen mayor dedicación de tiempo, recursos económicos y personales, puesto que hay que llevar a cabo previamente un estudio de mercado e identificar las oportunidades del país. Por ello, resulta una opción más accesible para las grandes empresas.
+Supone la presencia directa de la empresa en el nuevo mercado, ya sea implantando una sucursal, mediante fusionesy adquisiciones de empresas, por un acuerdo de joint venture, o a través de un consorcio de exportación. Estas estrategias de comercialización directa exigen mayor dedicación de tiempo, recursos económicos y personales, puesto que hay que llevar a cabo previamente un estudio de mercado e identificar las oportunidades del país. Por ello, resulta una opción más accesible para las grandes empresas.
 
 - Sucursal. Implica abrir oficinas o establecimientos comerciales en el nuevo país, de modo que es una división de la propia empresa la que se instala en ese marco geográfico. La sucursal no tiene personalidad jurídica propia, de modo que la contabilidad, responsabilidad, fiscalidad... de su actividad se integran como una parte más de la empresa.
-- F&amp;A (Fusiones y adquisiciones de empresas). Consiste en adquirir otras compañías.
-- -Fusión. Es la unión de dos o más personas jurídicamente independientes que deciden juntar sus patrimonios y formar una nueva sociedad.
-- -Adquisición. Consiste en la compra de acciones de otra empresa, en cantidad tal que permita convertirse en el socio mayoritario y, por ello, se posea el control de la sociedad; no conlleva la fusión de patrimonios. La empresa adquirida, en su totalidad o en parte, se denomina filial, mientras que la empresa compradora se convierte en la empresa matriz o madre.
+- F&A (Fusiones y adquisiciones de empresas). Consiste en adquirir otras compañías.
+- - Fusión. Es la unión de dos o más personas jurídicamente independientes que deciden juntar sus patrimonios y formar una nueva sociedad.
+- - Adquisición. Consiste en la compra de acciones de otra empresa, en cantidad tal que permita convertirse en el socio mayoritario y, por ello, se posea el control de la sociedad; no conlleva la fusión de patrimonios. La empresa adquirida, en su totalidad o en parte, se denomina filial, mientras que la empresa compradora se convierte en la empresa matriz o madre.
 - Jointventure. Es un acuerdo de colaboración con una empresa local, donde ninguna de las dos empresas pierde su independencia jurídica.
 
 ## Ejemplo 3. Abriendo sucursales
 
-El estudio de arquitectura A-Cero se dedica a la construcción de viviendas de lujo en Es paña, como la casa de Amancio Ortega, fundador de Zara, o los chalets exclusivos de la zona de La Finca, en Pozuelo de Alarcón, Madrid, donde residen estrellas del fútbol y artistas, entre otros. Durante la crisis optó por abrir una sucursal en otros países o regiones de alto poder adquisitivo, como Miami o los países del olfo. «Si te sitúas en un mercado alto o muy alto, eres mucho menos sensible a la crisis», afirma su fundador.
+El estudio de arquitectura A-Cero se dedica a la construcción de viviendas de lujo en España, como la casa de Amancio Ortega, fundador de Zara, o los chalets exclusivos de la zona de La Finca, en Pozuelo de Alarcón, Madrid, donde residen estrellas del fútbol y artistas, entre otros. Durante la crisis optó por abrir una sucursal en otros países o regiones de alto poder adquisitivo, como Miami o los países del olfo. «Si te sitúas en un mercado alto o muy alto, eres mucho menos sensible a la crisis», afirma su fundador.
 
 ## Ejemplo 4. Fusión de empresas
 
 lnternationalConsolidatedAirlines roup,S.A.f también conocida como IntemationalAirlines roup o IA , es la compañía resultante de la fusión de Iberia y British Airways, que se realizó en 2010. Esta sociedad es la quinta aerolínea más grande del mundo por ingresos y la tercera en Europa. No obstante, la denominación de Intemational Airlines no se utiliza como marca comercial, sino que se mantienen las originales denominaciones de Iberia y British Airways, aunque sí sirve para denominar la sociedad holding propietaria de ambas aerolíneas, que es la que cotiza en bolsa.
 
-## Ejemplo 5. Momi &amp;Toy's y eljointventure
+## Ejemplo 5. Momi&Toy's y el joint venture
 
-La empresa Momi &amp;Toy's ha optado por la estrategia de lajointventure para expandirse por España, con la colaboración de un máster franquiciado español, que tiene una participación del 40% en el acuerdo de colaboración firmado, frente al 60 % que se reserva la firma nipona.
+La empresa Momi&Toy's ha optado por la estrategia de la joint venture para expandirse por España, con la colaboración de un máster franquiciado español, que tiene una participación del 40% en el acuerdo de colaboración firmado, frente al 60 % que se reserva la firma nipona.
 
 El negocio consiste en abrir un determinado número de puntos de venta, durante cinco años, en los mercados de España y Portugal, bien sea con locales propios o en franquicias, o bien, a través del concepto defoodtruck, que consiste en roulottes móviles desde las cuales se sirve la oferta gastronómica al consumidor. Estas roulottes móviles son habituales en Japón.
 
@@ -7963,7 +8042,11 @@ En ocasiones, un consorcio de exportación está constituido por varias empresas
 
 Una fusión implica la integración de dos o más empresas en una única entidad. Existen dos tipos de fusiones:
 
+1. Fusión pura:
+
 Desaparecen las empresas iniciales y traspasan todo su patrimonio (activos y pasivos) a la nueva sociedad que se cons tituye. Las nuevas acciones/participaciones se reorganizan entre los nuevos socios para que mantengan la propiedad que será proporcional al capital aportado. La plantilla de trabajadores se mantiene y se integran en la nueva sociedad. En caso de que sea necesaria una reducción de personal, afectará por igual a todas las empresas constituyentes.
+
+2. Fusión por absoricón:
 
 En este tipo de fusión, una empresa domina el proceso y absorbe a la otra, que le traspasará su patrimonio. La empresa que continúa mantiene su funcionamiento e integra en su organización al personal y a los directivos de la empre sa absorbida, aunque sus contratos o sus convenios pueden sufrir modificaciones y están más expuestos a un recorte de plantilla, en caso de llevarse a cabo. Asimismo, la empresa reorganizará sus acciones, según el capital aportado, para repartirlas entre los socios de la sociedad que ha desaparecido.
 
@@ -7983,16 +8066,23 @@ Una filial goza de personalidad jurídica propia, por lo que su organización y 
 
 2. Averigua qué filiales tiene Telefónica repartidas por el mundo y qué nombre reciben.
 
-La empresa matriz puede tener diversos motivos para decidirse por una filial:
-
-| Adquirir un negocio rentable que no está relacionado con su actividad principal.                                                                                                                       |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Comprar una empresa para asegurarse la provisión de ciertas mercaderías o materias primas.                                                                                                             |
-| Contar con presencia en otro mercado, pero limitando su riesgo en caso de que la filial obtenga resultados negativos.                                                                                  |
-| Desarrollar negocios en otro país pero que por cuestiones legales, económicas o por desconocimiento del mercado, es conveniente adquirir una filial más que fijar una presencia permanente en el país. |
-| Ofrecer una mayor imagen de confianza para los proveedores o clientes locales.                                                                                                                         |
+## Motivos para decidirse por una filial
 
 Tabla 8.1. Motivos para adquirir una filial por parte de una empresa matriz.
+
+La empresa matriz puede tener diversos motivos para decidirse por una filial:
+
+1. Adquirir un negocio ajeno a su actividad principal: Adquirir un negocio rentable que no está relacionado con su actividad principal.
+
+2. Asegurar la provisión de productos: Comprar una empresa para asegurarse la provisión de ciertas mercaderías o materias primas.
+
+3. Introducirse en nuevos mercados limitando el riesgo: Contar con presencia en otro mercado, pero limitando su riesgo en caso de que la filial obtenga resultados negativos.
+
+4. Abrirse a mercados totalmente desconocidos: Desarrollar negocios en otro país pero que por cuestiones legales, económicas o por desconocimiento del mercado, es conveniente adquirir una filial más que fijar una presencia permanente en el país.
+
+5. Mejorar la imagen: Ofrecer una mayor imagen de confianza para los proveedores o clientes locales.
+
+## Filial
 
 La filial puede generar conocimientos propios o abrir nuevos mercados que beneficien a la empresa matriz, aspectos que podrían no haberse logrado si la matriz no hubiera contado con socios locales. Por su parte, la empresa filial se beneficia de la matriz por el aporte de capital, de nuevas ideas o por la transferencia de tecnología.
 
@@ -8006,21 +8096,23 @@ La globalización y el crecimiento del comercio internacional de bienes, servici
 
 Una empresa que tiene filiales o sucursales en varios países se denomina empresa multina cional, o simplemente, multinacional.
 
+## Economía de escala
+
 La economía de escala alude a la reducción en el coste medio por unidad producida. La disminución de gastos aumenta a medida que se incrementa el volumen de produc ción, ya que los costes fijos se reparten entre más unidades producidas y, por eso, se reducen.
 
 Las empresas aprovechan la economía de escala para aumentar la compra de productos a proveedores, incrementar la especialización de los factores, y reducir así el interés a pagar por fuentes de financiación externa o disminuir los gastos de publicidad y marketing.
 
 El concepto de economía de escala explicaría el porqué están tan extendidos los proce sos de comercio internacional y de globalización.
 
-## I Joint venture
+## Joint venture
 
-Una joínt venture o empresa conjunta supone un compromiso de colaboración entre dos o más empresas, por el que ninguna de ellas pierde su identidad ni su individualidad desde un punto de vista jurídico. Por tanto, no conlleva fusión ni absorción de una empresa por parte de la otra, sino el compromiso de una alianza estratégica concretado a través de un contrato de colaboración, tal como una franquicia, o bien, con la constitución de una Unión temporal de empresas (UTE) o de una Agrupación de interés económico (AIE), o bien, mediante una sociedadparticipada por ambas.
+Una joint venture o empresa conjunta supone un compromiso de colaboración entre dos o más empresas, por el que ninguna de ellas pierde su identidad ni su individualidad desde un punto de vista jurídico. Por tanto, no conlleva fusión ni absorción de una empresa por parte de la otra, sino el compromiso de una alianza estratégica concretado a través de un contrato de colaboración, tal como una franquicia, o bien, con la constitución de una Unión temporal de empresas (UTE) o de una Agrupación de interés económico (AIE), o bien, mediante una sociedadparticipada por ambas.
 
-Es un contrato entre dos empresas jurídica y financieramente independientes. El franquiciador otorga ciertos derechos e impone la obligación de desarrollar el negocio según su criterio. Esto le permite expandirse rápidamente sin incurrir en grandes desembolsos de capital. La responsabilidad del nuevo negocio es asumida por ei franquiciado, lo cual permite al franquiciador dedicarse a su propia empresa, al tiempo que recoge parte de los beneficios que genera la franquicia. La inversión conjunta en publicidad reduce gastos y genera más impacto.
+- Franquicia: Es un contrato entre dos empresas jurídica y financieramente independientes. El franquiciador otorga ciertos derechos e impone la obligación de desarrollar el negocio según su criterio. Esto le permite expandirse rápidamente sin incurrir en grandes desembolsos de capital. La responsabilidad del nuevo negocio es asumida por ei franquiciado, lo cual permite al franquiciador dedicarse a su propia empresa, al tiempo que recoge parte de los beneficios que genera la franquicia. La inversión conjunta en publicidad reduce gastos y genera más impacto.
 
 El franquiciado, por su parte, tiene la garantía de crear una empresa con el respaldo de una marca conocida y valorada por el mercado, sin preocuparse de realizar estudios de viabilidad. A pesar del desembolso inicial, los gastos suelen ser menores que los que se hubieran contraído de iniciarse un negocio propio, gracias a la economía de escala que permite una franquicia. La responsabilidad del franquiciado en denuncias realizadas por el consumidor es mínima, y siempre tiene la opción de dar por finalizado el contrato una vez superado el periodo mínimo fijado por el franquiciador.
 
-## |¿!tpi^
+- Unión temporal de empresas (UTE)
 
 Consiste en la colaboración de dos o más empresas, por un tiempo determinado, para realizar de manera conjunta un proyecto de gran volumen que resulta inviable para una sola empresa. Esta cooperación empresarial favorece el abara tamiento de costes, aprovecha sinergias comunes entre empresas y distribuye mejor los riesgos implícitos. Al finalizar la obra o servicio, la unión llega a su fin.
 
@@ -8028,17 +8120,17 @@ Esta fórmula jurídica de colaboración está muy extendida en grandes empresas
 
 La creación de una UTE requiere la intervención notarial para dar fe de la escritura pública del acuerdo, así como la ins cripción en el Registro Mercantil. Carece de personalidad jurídica propia, lo que significa que la responsabilidad de la unión temporal de empresas recae solidaria e ilimitadamente sobre los integrantes de la UTE.
 
-## ^gry^|ióji &lt;íé interés éeonórnico (AJE)
+## Agrupación de interés económico (AJE)
 
 Es una asociación mercantil sin ánimo de lucro y con personalidad jurídica propia, creada por varios empresarios para mejorar los resultados de sus actividades económicas.
 
-## Las características de esta fórmula son:
+Las características de esta fórmula son:
 
 - El objeto de la agrupación se limitará exclusivamente a una actividad económica auxiliar de la que desarrollen sus socios.
 - La agrupación no puede poseer participaciones de las sociedades que sean miembros suyos, ni dirigir o controlar las actividades de sus socios o de terceros.
 - Los socios de una AIE responden personal y solidariamente, aunque de manera subsidiaria, de las deudas de la agru pación.
 
-## Ejemplo
+Ejemplo
 
 El objetivo de promover un conjunto turístico residencial de calidad con instalaciones hoteleras de, al menos, cuatro estrellas en la zona andaluza Campo de ibraltar, se va a llevar a cabo gracias a la constitución de una Agrupación de interés económico (AIE) promovida por el ayuntamiento entre los propietarios del suelo.
 
@@ -8048,7 +8140,7 @@ Se trata de aquella sociedad cuyo capital pertenece también a otra sociedad o g
 
 Los socios siguen operando en sus respectivas empresas de manera independiente y en ellas integran los beneficios o pérdidas de la sociedad participada, como resultados de una línea más del negocio. En la sociedad participada, el reparto de beneficios entre las empresas se efectúa de manera proporcional al porcentaje de propiedad.
 
-## Ejemplo
+Ejemplo
 
 Camerdata es una sociedad participada por la Cámara de Comercio de Madrid, que ofrece a las sociedades y empre sarios de la ciudad informes de mercado geoposicionados que mejoran sus conocimientos a la hora de elegir el lugar donde abrir locales o establecimientos comerciales.
 
@@ -8059,7 +8151,11 @@ En función de su coste, puede tratarse de un informe simple sobre la competenci
 3. Selecciona una franquicia que te parezca atractiva para iniciar un negocio y averigua cuáles son sus condiciones y qué obligación temporal mínima es exigida.
 4. Accede al siguiente enlace y lee el artículo que hay en él. Señala qué ventajas tiene formar parte de una AIE: http://www.cincodias.com/artRcuSo/emprencSedores/ agrupacion-interes-economico-red empresas/20110415cdsepdepd_14/
 
-El propósito de unajointventure puede ser el de llevar a cabo la producción de manera con junta o la búsqueda de nuevos mercados o cualquier otro objetivo estratégico. Asimismo, la aportación de cada empresa admite múltiples variantes como el intercambio de materia prima o de productos semiacabados, la cesión de tecnología, la intervención en los canales de distribución, la contribución con financiación, la colaboración con el know-how específico o el conocimiento del mercado, la cesión de personal, etc.
+## Propósito de una jointventure
+
+El propósito de una jointventure puede ser el de llevar a cabo la producción de manera con junta o la búsqueda de nuevos mercados o cualquier otro objetivo estratégico. Asimismo, la aportación de cada empresa admite múltiples variantes como el intercambio de materia prima o de productos semiacabados, la cesión de tecnología, la intervención en los canales de distribución, la contribución con financiación, la colaboración con el know-how específico o el conocimiento del mercado, la cesión de personal, etc.
+
+## Know-how
 
 El know-how («saber cómo») es una forma de denominar los conocimientos necesarios para gestionar un negocio, que se adquieren a base de años de experiencia. No se trata, por tanto, de conocimientos académicos, sino experienciales, tales como la manera de atender al cliente, la forma de negociar con proveedores, etc. Son la clave de por qué un negocio funciona y otros parecidos fracasan.
 
