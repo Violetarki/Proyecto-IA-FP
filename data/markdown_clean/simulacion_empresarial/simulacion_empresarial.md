@@ -8161,17 +8161,19 @@ El know-how («saber cómo») es una forma de denominar los conocimientos necesa
 
 El know-how es uno de los principales elementos que se obtienen al firmar un contrato con una franquicia.
 
-Lo relevante no son los elementos que intercambian, ni los objetivos empresariales que per siguen, sino que se asocian de manera temporal para reducir el riesgo y obtener beneficios mutuos. Esta colaboración suele establecerse a medio y largo plazo, puesto que las acciones a desarrollar requieren de grandes esfuerzos de planificación y puesta en práctica, razón por la que no compensaría una unión breve.
+## Lo relevante de joint venture
 
-Lasjointventure no solo tienen lugar en el ámbito internacional, pero es ahí donde más be neficiosas resultan. Así, es muy habitual que se realice en sectores donde se requieren grandes inversiones iniciales como el sector petrolífero.
+Lo relevante no son los elementos que intercambian, ni los objetivos empresariales que persiguen, sino que se asocian de manera temporal para reducir el riesgo y obtener beneficios mutuos. Esta colaboración suele establecerse a medio y largo plazo, puesto que las acciones a desarrollar requieren de grandes esfuerzos de planificación y puesta en práctica, razón por la que no compensaría una unión breve.
+
+Las joint venture no solo tienen lugar en el ámbito internacional, pero es ahí donde más be neficiosas resultan. Así, es muy habitual que se realice en sectores donde se requieren grandes inversiones iniciales como el sector petrolífero.
 
 Resulta igualmente interesante para pymes que quieren adentrarse en un país diferente al propio. Al aliarse con empresas locales reducen problemas legales, dificultades con el idioma o barreras comerciales, aunque también se benefician de conocimientos específicos para ga nar cuota de mercado en ese país, por ejemplo, al recibir apoyo en la búsqueda de provee dores, al contratar empleados locales, etc. Estas alianzas estratégicas les permiten lograr sin gran esfuerzo ventajas competitivas a corto plazo, ventajas que no alcanzarían por sí mismas.
 
-## Ejemplo 6. Imaginarium y el shop in shop
+## Ejemplo 6. Imaginarium y el Shop in shop
 
-Imaginarium ha entrado en el mercado francés mediante una alianza estratégica con la mar ca francesa Vertbaudet, líder en el segmento de venta a distancia de ropa. El acuerdo con templa la comercialización de los productos Imaginarium a través de los principales canales de venta de Vertbaudet (página web y catálogo de venta a distancia), además de la apertura de formatos shop in shop de Imaginarium en algunas de las tiendas Vertbaudet.
+Imaginarium ha entrado en el mercado francés mediante una alianza estratégica con la mar ca francesa Vertbaudet, líder en el segmento de venta a distancia de ropa. El acuerdo con templa la comercialización de los productos Imaginarium a través de los principales canales de venta de Vertbaudet (página web y catálogo de venta a distancia), además de la apertura de formatos Shop in shop de Imaginarium en algunas de las tiendas Vertbaudet.
 
-Shopinshop define un nuevo concepto de venta, por el cual una tienda distribuye productos de otra marca. En este caso, mediante colocación de expositores con juguetes Imaginarium en las tiendas de Vertbaudet.
+Shop in shop define un nuevo concepto de venta, por el cual una tienda distribuye productos de otra marca. En este caso, mediante colocación de expositores con juguetes Imaginarium en las tiendas de Vertbaudet.
 
 Otro ejemplo de esta forma de colaboración comercial la encontramos en la sección Espacio MoviStar Fusión, que lleva a cabo El Corte Inglés en sus plantas de electrónica.
 
@@ -8187,7 +8189,7 @@ Brevemente, se exponen los motivos que justifican la expansión internacional:
 - El crecimiento en mercado local es limitado. No solo se internacionalizan las empresas, también los clientes y la competencia.
 - Las compañías internacionales diversifican riesgos y son más rentables.
 
-## I Ayudas públicas
+## Ayudas públicas
 
 Diversos organismos públicos convocan premios o ayudas para favorecer la internacionaliza ción de las empresas españolas.
 
@@ -8199,11 +8201,11 @@ Las comunidades autónomas también ofrecen ayudas, como es el caso del programa
 
 El ICO (Instituto de Crédito Oficial) cuenta con una línea de financiación abierta para favore cer la internacionalización de autónomos y empresas. Se trata de préstamos con condiciones ventajosas para acometer la compra o leasing de activos fijos, gastos de tramitación de la creación de una empresa, ayudas al pago del IVA o impuestos análogos. Como máximo se conceden diez millones €/año por cliente.
 
-## I Ayudas a acciones inespecíficas
+## Ayudas a acciones inespecíficas
 
 También los apoyos a la expansión internacional de empresas se pueden dirigir a colectivos que aún no han constituido su empresa o que tienen poca trayectoria emprendedora; o tam bién, pueden llevarse a cabo acciones promocionales para facilitar la red de contactos o para mejorar la imagen de España.
 
-## Ejemplo 8. Casos ele ayudas inespecíficas
+## Ejemplo 8. Casos de ayudas inespecíficas
 
 - La división internacional de IFEMA tiene entre sus objetivos convocar, al menos, dos ferias anuales en el extranjero.
 - El programa Erasmus para Jóvenes Emprendedores fomenta intercambios transnacionales a emprendedores noveles o a aquellos que desean tener su empresa, por medio de estancias con empresarios experimentados que dirigen pequeñas empresas en otros países de la Unión Europea, durante las cuales los nuevos emprendedores podrán adquirir conocimientos, habi lidades y crear una red social. Los anfitriones se benefician de una nueva perspectiva sobre su negocio y mejoran su red de contactos para iniciar nuevas relaciones comerciales y acceder a mercados extranjeros.
@@ -8225,7 +8227,7 @@ La marca «España» o las marcas «Jamón serrano español», «Jamón ibérico
 
 Pero esos valores, esas percepciones, se deben construir partiendo de una realidad, y esa realidad se llama calidad. Si conseguimos obtener un producto con una calidad real di ferenciada y a ese producto le llamamos «Jamón serrano español», llegará un momento en el que el consumidor percibirá ese valor, llegará a diferenciarlo de los otros jamones cu rados que va a encontrar en el mercado y llegará a estar dispuesto a pagar más por él. Por que la marca, el apellido, no se construye solo a base de deseos sino a base de realidades, a base de un esfuerzo y de un trabajo duro, constante y coherente».
 
-Fuente: artículo del gerente del Consorcio del Jamón Serrano Español para lnterempresas.net
+Fuente: artículo del gerente del Consorcio del Jamón Serrano Español para Interempresas.net
 
 ## Incubadora internacional de empresas
 
@@ -8265,11 +8267,11 @@ Otro de los errores comunes es no contar con la denominada prueba de la contrata
 
 Fuente: Expansión. Madrid, 8 de enero de 2012 [en línea]
 
-## Factores; lingüísticos
+## Factores lingüísticos
 
 Los traductores automáticos como Google Transíate no se indexan en los buscadores, por lo que su uso no sería muy bueno. Tampoco es aconsejable confiar todo el contenido web a una traducción automática. En el caso de presentarse la página web en varios idiomas, normalmente la versión idiomática que aparece en pantalla se genera automáticamente según la dirección IP detectada, es lo que se denomina eoTargeting. En contrapartida, esta estrategia no discierne si el idioma propio del usuario corresponde al del país en donde está instalado el ordenador.
 
-## Lidérázgd&lt; oritme
+## Liderazgo online
 
 Google, a pesar de su impresionante cuota de mercado mundial, no es líder en algunos mercados como China, Rusia o Japón. Lo mismo sucede con Facebook, puesto que no es líder en las redes sociales de Brasil y China.
 
@@ -8281,27 +8283,21 @@ El contenido debe ser relevante y aportar valor a los clientes. Hay que prestar 
 
 En España, pocas empresas se preocupan por su reputación internacional tanto como para realizar un seguimiento periódico. Entre las excepciones a este caso podemos encontrar: NH Hoteles, Meliá Hoteles, Movistar y Telefónica, Banco Santander, IE Business Schooly Unión Fenosa- as natural.
 
-## Ppsicionartíiéritp SEO
+## Posicionamiento SEO
 
 Se refiere a lograr un buen posicionamiento en los buscadores, sin pagar por ello. SEO es el acrónimo de Search Engine Optimization y se logra eligiendo determinadas palabras clave relacionadas con la actividad de un sitio para conseguir que aparezca en una buena posición cuando un usuario busca dichas palabras clave.
 
-El objetivo de esta unidad es que reflexio nes sobre la posibilidad de internacionalizar vuestro proyecto. Aunque parezca una acción remota, no lo es tanto entre los emprendedores que constituyen su empresa, sobre todo si el producto es original y fácilmente exportable a otros mercados. Además, debes
+## Simulación empresarial
+
+El objetivo de esta unidad es que reflexio nes sobre la posibilidad de internacionalizar vuestro proyecto. Aunque parezca una acción remota, no lo es tanto entre los emprendedores que constituyen su empresa, sobre todo si el producto es original y fácilmente exportable a otros mercados. Además, debes recordar que era un criterio establecido por el capital riesgo para invertir en proyectos.
+
+Al finalizar el tema, recogerás toda esta información para el plan de empresa en un apartado, denominado: Acciones para la internacionalización.
 
 ## Fases de la Simulación empresarial
 
 Fase 1. Estrategias de internacionalización
 
-i
-
-§
-
-i
-
-recordar que era un criterio establecido por el capital riesgo para invertir en proyectos.
-
-Al finalizar el tema, recogerás toda esta información para el plan de empresa en un apartado, denominado: Acciones para la internacionalización.
-
-## Ejemplo 9. El caso ele Ergonomic Product Design
+## Ejemplo 9. El caso de Ergonomic Product Design
 
 Podemos tomar, por ejemplo, el caso de Ergonomic Product Design. Esta empresa fabrica y comercializa una mochila con un innovador sistema de respaldo anatómico, de manera que el usuario puede transportar la carga diaria sin sufrir lesiones de espalda.
 
@@ -8321,7 +8317,7 @@ Al tratarse de una posibilidad remota en vuestras circunstancias actuales, abord
 
 Describe qué acciones realizaríais en caso de plantearos una internacionalización de vuestra empresa en un medio o largo plazo.
 
-## Ayuda práctica:
+Ayuda práctica:
 
 Analiza qué mecanismo resultaría más interesante para la intemacionalización de vues tra empresa, según la clasificación que hemos analizado en la sección Conceptos. Jus tifica cada una de vuestras decisiones.
 
@@ -8329,7 +8325,7 @@ Analiza qué mecanismo resultaría más interesante para la intemacionalización
 
 Ahora únicamente queda incorporar al plan de empresa las últimas decisiones adop tadas en esta unidad que se incluirán en un único apartado denominado Acciones para la internacionalización.
 
-## Acciones para la internacionalización
+Acciones para la internacionalización
 
 - a) Incorpora las conclusiones a las que hayáis llegado en esta última actividad de Si mulación.
 - b) Razona qué fórmula pondríais en marcha para proceder a la internacionalización de vuestra empresa.
@@ -8344,7 +8340,41 @@ Si consultas periódicos de tipo económico, comprobarás que hay ejemplos de j�
 
 Te animamos a consultar el blog: www.fpemprendedores.es, donde encontrarás noti cias de ese tipo y otras curiosidades del mundo empresarial.
 
-!
+## Síntesis
+
+1. Exportación:
+
+- Comercialización indirecta: Agente, Distribuidor local, Consorcio de exportación
+
+- Comercialización directa:
+- a) Sucursal
+- b) F&A: Fusión pura, Fusión por absorción, Adquisición
+- c) Joint venture: Franquicia, UTE, AIE , Sociedad participada
+
+2. Ayudas internacionalización
+
+- Públicas
+- Acciones inespecíficas
+- Incubadora internacional de empresas
+
+3. Internet como herramienta de internacionalización
+
+- Factores: Legales, Lingüísticos, Liderazgo online, Reputación online, Posicionamiento SEO
+
+4. Plan de empresa
+
+- Idea del negocio
+- Socios trayectoria profesional
+- Estudio de mercado
+- Plan de producción
+- Plan financiero
+- Plan de aprovisionamiento
+- Obligaciones fiscales
+- Plan de marketing
+- Plan de RR.HH.
+- --> Acciones para la internacionalización
+
+## Test de repaso
 
 1. La globalización es un proceso que conduce a la:
 
@@ -8395,12 +8425,6 @@ Te animamos a consultar el blog: www.fpemprendedores.es, donde encontrarás noti
 - c) Firma un acuerdo de colaboración con otra empresa.
 - d) Integra una empresa en otra, de manera que esta última desaparece.
 
-.
-
-·
-
-'"''-",'i
-
 ## 8. Una fusión por absorción consiste en un proceso por el cual una empresa:
 
 - a) Se une a otra para formar una empresa nueva.
@@ -8450,6 +8474,8 @@ Te animamos a consultar el blog: www.fpemprendedores.es, donde encontrarás noti
 - c) Un acuerdo de colaboración entre dos empresas diferentes.
 - d) Todas son correctas.
 
+## Comprueba tu aprendizaje
+
 1. Explica por qué un proceso de globalización implica la transformación económica, social y política de los países que se ven afectados por este proceso.
 2. Analiza si algún país puede voluntariamente quedarse al margen de la globalización y qué consecuencias tendría esa acción. Expon tu punto de vista.
 3. Señala qué ventajas y qué inconvenientes tiene la globalización. Explica cuál es tu opi nión al respecto.
@@ -8469,16 +8495,14 @@ Te animamos a consultar el blog: www.fpemprendedores.es, donde encontrarás noti
 17. Localiza el nombre de alguna incubadora internacional de empresas y busca información sobre algún proyecto que hayan apoyado. Emite una opinión crítica sobre las ventajas e inconvenientes de esta forma de apoyo.
 18. Averigua qué cantidad máxima de financiación ofrece la línea ICO internacionalización y qué requisitos deben cumplir los proyectos para ello.
 
-\
+## Simulación empresarial: «La base de tu futuro»
 
-## Simulación empresarial
-
-«La base de tu futuro»
-
-El proyecto editorial de Mc raw-Hill par desarrollado según tres principios básicos: -Hill para la formación profesional ha sido básicos:
+El proyecto editorial de McGraw-Hill para la formación profesional ha sido desarrollado según tres principios básicos:
 
 - Una metodología basada en la práctica y en la adecuación de contenidos y procedimientos a tu realidad profesional.
+
 - Unos materiales desarrollados para conseguir las destrezas, habilidades y resultados de aprendizaje que necesitarás para conseguir tu título y desenvolverte en el mercado laboral.
+
 - Una presentación de los contenidos clara y atractiva, con variedad de recursos gráficos y multimedia que facilitarán tu aprendizaje.
 
 El proyecto para el módulo profesional Simulación empresarial ha sido desarrollado para dar respuesta a la necesidad de proporcionar al alumno conocimientos sobre la génesis de una idea de negocio y el modo de implementarla en un proyecto empresarial viable.
