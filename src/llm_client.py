@@ -5,7 +5,7 @@ class LLMClient:
     def __init__(self):
 
         """
-        Crear cliente de Azure OpenAI
+        Crear cliente de LLM
             │
             ▼
         Guardar la configuración del modelo
