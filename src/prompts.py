@@ -5,20 +5,14 @@ INSTRUCCIONES = (
 
 
 class ConstructorPrompts:
+    """Construye los prompts que se envían al modelo."""
 
+    def construir_prompt(self, pregunta: str, contexto: str) -> str:
+        """
+        Une tres partes:
 
-    def construir_prompt(self, pregunta:str, contexto:str) -> str:
-            """
-            Une tres partes:
-
-            1. Instrucciones para el modelo.
-            2. Contexto recuperado.
-            3. Pregunta del usuario.
-            """
-
-            prompt = ""
-
-
-            prompt = f"{INSTRUCCIONES} Contexto: {contexto} Pregunta: {pregunta}"
-
-            return prompt
+        1. Instrucciones para el modelo.
+        2. Contexto recuperado.
+        3. Pregunta del usuario.
+        """
+        return f"{INSTRUCCIONES} Contexto: {contexto} Pregunta: {pregunta}"
