@@ -627,9 +627,9 @@ Las actividades de simulación realizadas en esta unidad te han servido para sel
 
 ## Síntesis
 
-Emprendedor: indetifica oportunidades, organiza recursos, cualidades específicas y trabaja (por cuenta propia o por cuenta ajena)
+Emprendedor: identifica oportunidades, organiza recursos, cualidades específicas y trabaja (por cuenta propia o por cuenta ajena)
 
-Idea: Util(satisface necesidades reales, percibidas por el cliente o creadas por la empresa) o Innovadora(original y diferente en: Producto, Proceso, Marketing y Organización)
+Idea: Util (satisface necesidades reales, percibidas por el cliente o creadas por la empresa) o Innovadora (original y diferente en: Producto, Proceso, Marketing y Organización)
 
 Plan de empresa:
 
@@ -1702,7 +1702,7 @@ Estudio de mercado:
 Plan de empresa:
 
 - Idea del negocio
-- Socios trayectoria profesiona!
+- Socios trayectoria profesional
 - --> Estudio de mercado
 - --> Plan de producción
 - Plan financiero
@@ -3101,11 +3101,9 @@ Sociedad anónima laboral anónima: la transmisión de acciones es libre.
 
 Las sociedades anónimas de grandes dimensiones ponen sus acciones en circulación través de los mercados de valores: la bolsa el Mercado Alternativo Bursátil (MAB).
 
-Cotización en bolsa. Las sociedades anónimas que cumplen ciertos requisitos pueden vender sus acciones libremente en este mercado de valores. Es una opción para grandes empresas, puesto que se exige un capital mínimo superior 200000 euros. La entrada en bolsa puede suponer una importante vía de obtención de recursos, ya que los inversores están comprando una parte del accionariado de la empresa, con lo que se incrementa el capital de la compañía, si bien también genera una presión la gerencia de la empresa para tomar decisiones que sean bien acogidas por los accionis
-tas para evitar acciones que puedan dañar su imagen.
+Cotización en bolsa. Las sociedades anónimas que cumplen ciertos requisitos pueden vender sus acciones libremente en este mercado de valores. Es una opción para grandes empresas, puesto que se exige un capital mínimo superior 200000 euros. La entrada en bolsa puede suponer una importante vía de obtención de recursos, ya que los inversores están comprando una parte del accionariado de la empresa, con lo que se incrementa el capital de la compañía, si bien también genera una presión la gerencia de la empresa para tomar decisiones que sean bien acogidas por los accionistas para evitar acciones que puedan dañar su imagen.
 
-Mercado Alternativo Bursátil (MAB). Las compañías de menor tamaño facturación pueden cotizar sus acciones en
-el MAB de manera similar como cotizan las grandes empresas en la bolsa.
+Mercado Alternativo Bursátil (MAB). Las compañías de menor tamaño facturación pueden cotizar sus acciones en el MAB de manera similar como cotizan las grandes empresas en la bolsa.
 
 Ejemplo: En bolsa cotizan empresas tan conocidas como Iberia, Campofrío, Zeltia, Antena 3, NH Hoteles, Repsol, Cepsa, Abertis, Ferrovial, Telefónica, Banco Santander, BBVA Corporación Mapfre. Imaginarium es una empresa que cotiza en el MAB, al igual que Zinkia (la empresa propietaria de los derechos de Pocoyó), Gowex (experta en servicios de red inalámbrica ciudades) Bodaclick (portal web dedicado la organización de bodas).
 
@@ -3203,7 +3201,7 @@ También se puede acudir a otras fuentes de financiación ajenas, como las líne
 
 El crédito es una operación financiera en la que se pone a disposición del cliente una cantidad de dinero hasta un límite especificado. Los intereses se pagarán en caso de hacer uso del dinero y se abonarán teniendo en cuenta las cantidades utilizadas y el tiempo que se ha dispuesto de ellas. Un tipo especial de crédito son los microcréditos, que se ha analizado al inicio de la unidad.
 
-- Descubierto en cuenta o numéros rojos
+- Descubierto en cuenta o números rojos
 
 Estar al descubierto consiste en gastar un importe superior al saldo disponible en la cuenta corriente, o bien, en pagar con un cheque sin contar con fondos suficientes. En tal caso, si estaba pactado con el banco, este adelantará el importe, si bien la empresa pagará unos intereses por ello que suelen ser más altos que en otros tipos de préstamos.
 
@@ -3289,14 +3287,14 @@ la empresa financia la compra de su cliente ofreciéndole la posibilidad de paga
 
 - Descuento comercial o descuento de efectos
 
-La empresa entrega una entidad financiera los efectos pendientes de cobro de sus clientes. El banco anticipa el dinero, cambio de una comisión por la tramitación de un interés por el anticipo recibido. Los efectos son de rechos de cobro de una empresa (facturas, letras de cambio, pagarés, cheques...), debido que los clientes no han abonado aún el precio de los bienes adquiridos. El riesgo de impago lo asume siempre la empresa que cede estos efectos.
+La empresa entrega una entidad financiera los efectos pendientes de cobro de sus clientes. El banco anticipa el dinero, cambio de una comisión por la tramitación de un interés por el anticipo recibido. Los efectos son derechos de cobro de una empresa (facturas, letras de cambio, pagarés, cheques...), debido que los clientes no han abonado aún el precio de los bienes adquiridos. El riesgo de impago lo asume siempre la empresa que cede estos efectos.
 
 - Factoring
 
-Se trata de la cesión, una empresa óefactoríng, de aquellas facturas de clientes que están pendientes de cobro. La empresa conseguirá los fondos que necesita cambio de pagar una comisión por los servicios administrativos unos intereses por la anticipación del dinero. Es similar al descuento comercial, aunque referido solo facturas, si bien en el factoring se puede negociar quién asume el riesgo de impago. Así, están aceptadas dos variantes posibles:
+Se trata de la cesión, a una empresa de factoring, de aquellas facturas de clientes que están pendientes de cobro. La empresa conseguirá los fondos que necesita cambio de pagar una comisión por los servicios administrativos unos intereses por la anticipación del dinero. Es similar al descuento comercial, aunque referido solo facturas, si bien en el factoring se puede negociar quién asume el riesgo de impago. Así, están aceptadas dos variantes posibles:
 
-- a) El factoríng con recurso, en el que la empresa vendedora asuma el riesgo.
-- b) El factoríng sin recurso, donde el riesgo lo asume la empresa óefactoríng, en cuyo caso el coste financiero será mayor.
+- a) El factoring con recurso, en el que la empresa vendedora asuma el riesgo.
+- b) El factoring sin recurso, donde el riesgo lo asume la empresa de factoring, en cuyo caso el coste financiero será mayor.
 
 Tabla 4.7. Facilidades de pago.
 
@@ -3603,7 +3601,7 @@ Plazo
 
 Compromiso
 
-- La empresa deberá mantener durante almenos dos años: • El objeto social consignado. • El local y el empleado a jornada completa.
+- La empresa deberá mantener durante al menos dos años: • El objeto social consignado. • El local y el empleado a jornada completa.
 
 Condición
 
@@ -3648,7 +3646,7 @@ En la Tabla 4.11 se señalan algunos consejos para conseguir financiación a tra
 
 - Cuidar la exposición de la idea: Mostrar contenidos de calidad y una parte del proyecto. Es una manera de testar el interés que despierta el producto.
 
-- Promociones a través de las redes sociales: Cuanta más difusión se consiga, más probabilidades de captar fondos. Promocio￾narse a través de Internet ayuda tener una audiencia on-Une labrarse una reputación que genere confianza un futuro mecenas.
+- Promociones a través de las redes sociales: Cuanta más difusión se consiga, más probabilidades de captar fondos. Promocionarse a través de Internet ayuda tener una audiencia online y labrarse una reputación que genere confianza a un futuro mecenas.
 
 - Mantener informado al inversor durante el proceso: Es aconsejable documentar el proceso para ser transparente, pero también para implicarle.
 
@@ -3820,7 +3818,7 @@ En la Tabla 4.13 se enumeran algunos consejos para evitar que el proyecto empres
 
 - Presentar el prototipo del producto que se quiere comercializar: Aunque implica un gasto, siempre vende más un objeto físico que una idea, por muy buena que sea.
 
-- Brevedad en la presentación del proyecto: El tiempo que se otorga a los emprendedores para exponer su idea no suele sobrepasar los treinta minutaos. La recomendación es un resumen ejecutivo de de dos páginas y una presentación de diez diapositivas a lo sumo.
+- Brevedad en la presentación del proyecto: El tiempo que se otorga a los emprendedores para exponer su idea no suele sobrepasar los treinta minutos. La recomendación es un resumen ejecutivo de de dos páginas y una presentación de diez diapositivas a lo sumo.
 
 - Tener el plan de empresa elaborado: Es preciso contar con un buen plan de empresa extenso para, en caso de captar su atención, justificar y exponer todos los aspectos del negocio. Esto ayudará a vencer la resistencia del inversor, contando con una respuesta estudiada a cada duda que surja.
 
@@ -4384,13 +4382,28 @@ Las actividades de simulación realizadas en esta unidad te han servido para con
 
 ## Síntesis
 
-FUENTES DE FINACIACIÓN:
+FUENTES DE FINANCIACIÓN:
 
 1. Recursos propios: Capital semilla(Capital social, Cuenta ahorro-empresa, Capital riesgo, Business ángel, Crowdfunding, Coworking) o Capital de arranque/de expansión(Reservas, Nuevos socios, Subvenciones).
 
-2. Recursos ajenos: A largo plazo(Familia y amigos, Préstamo y SGR, Crédito, Descubierto bancario, Servicios financieros de entidades comerciales,    Títulos de deuda, Entidades de financiación pública) o A corto plazo(Crédito comercial, Descuento por pronto pago, Leasing, Renting, Confirming,    Descuento comercial, Factoring).
+2. Recursos ajenos: A largo plazo(Familia y amigos, Préstamo y SGR, Crédito, Descubierto bancario, Servicios financieros de entidades comerciales, Títulos de deuda, Entidades de financiación pública) o A corto plazo(Crédito comercial, Descuento por pronto pago, Leasing, Renting, Confirming, Descuento comercial, Factoring).
 
-## Test
+PLAN DE EMPRESA:
+
+- Idea del negocio
+- Socios trayectoria profesional
+- Estudio de mercado
+- Plan de producción
+- --> Plan financiero
+- Plan de aprovisionamiento
+- Obligaciones fiscales
+- Plan de marketing
+- Plan de RR.HH.
+- Acciones para la Internacionalización
+
+(Ver manual página 148)
+
+## Test de repaso
 
 1. El capital semilla puede proceder de:
 
@@ -4444,74 +4457,53 @@ FUENTES DE FINACIACIÓN:
 8. El leasing se diferencia del renting en:
 
 - a) No es posible sobre bienes inmuebles.
-
 - b) Permite desgravación fiscal.
-
 - c) El plazo de tiempo máximo.
-
 - d) Todas son correctas.
 
 9. Los business angels son:
 
 - a) Empresarios con experiencia y ganas de impulsar una empresa nueva.
-
 - b) Inversores particulares de empresas con gran potencial de crecimiento.
-
 - c) Ex-empresarios con dinero que invierten en empresas de gran potencial.
-
 - d) Son ciertas las respuestas a) y b).
 
 10. El aplazamiento en el pago a proveedores consiste en:
 
 - a) Aceptar la posibilidad de pagarle a plazos.
-
 - b) Devolver la factura cuando se recibe el pedido sin abonarla.
-
 - c) Financiar las necesidades de liquidez haciéndose moroso.
-
 - d) Todas son correctas.
 
 11. El servicio que se contrata con una entidad financiera para asegurarse del pago a provee dores se llama:
 
 - a) Descuento comercial.
-
 - b) Descubierto bancario.
-
 - c) Confirming.
-
 - d) Factoring.
 
 12. El Factoring guarda mucha similitud con otro producto financiero:
 
 - a) Descuento comercial.
-
 - b) Descubierto bancario.
-
 - c) Confirming.
-
 - d) Coworking.
 
 13. La posibilidad de que el banco adelante el importe de las deudas pendientes de cobro se denomina:
 
 - a) Descuento de efectos.
-
 - b) Descubierto bancario.
-
 - c) Crédito comercial.
-
 - d) Factoring.
 
 14. La diferencia entre crédito y préstamo es:
 
 - a) El préstamo supone mayor interés.
-
 - b) El préstamo suelen ser cantidades menores pero a más largo plazo.
-
 - c) En el préstamo se recibe un dinero; en el crédito, está disponible.
-
 - d) Todas son correctas.
 
-## -------------
+## Comprueba tu aprendizaje
 
 1. ¿Qué se entiende por capital semilla?
 2. ¿Qué motivaciones crees que tiene el capital riesgo para invertir su dinero en empresas con alto potencial de crecimiento?
@@ -4543,7 +4535,7 @@ FUENTES DE FINACIACIÓN:
 28. Busca una subvención que se ofrezca en tu comunidad autónoma. Analiza si el ayuntamiento de tu localidad de residencia también ofrece algún tipo de apoyo a la creación de empresas. Si encuentras varias alternativas, reflexiona a qué colectivo se dirigen con más preferencia: pueden estar dirigidas a gente joven, a la mujer emprendedora, a la renovación de inmovilizado, a sectores empresariales con escasa presencia en el tejido empresarial de la zona, al impulso de nuevas tecnologías, etc.
 29. Imagina que trabajaras en un organismo público responsable de conceder subvenciones para apoyar la creación o el mantenimiento de empresas. Señala qué tipo de subvenciones concederías, a quién irían dirigidas, qué requisitos plantearías y qué cantidad ofrecerías. Trata de redactar una respuesta realista, ya que no contarías con un presupuesto ilimitado y las empresas que subvencionaras podrían suponer un coste de oportunidad para otras actividades que podrían ser más necesarias o rentables para la zona.
 
-# Viabilidad empresarial
+# 5. Viabilidad empresarial
 
 ## En esta unidad aprenderemos a:
 
@@ -4564,18 +4556,20 @@ FUENTES DE FINACIACIÓN:
 - El punto de equilibrio.
 - Elaboración de balances y cuenta de pérdidas y ganancias.
 
-2. Durante un tiempo, todas las etiquetas de las tiendas de Mercadona indicaban el precio de sus productos en color amarillo, ¿a qué crees que se debía esto?
-3. Expresa tu opinión sobre la cita contenida en la última frase del texto.
-
 ## John Maynard Keynes, economista británico.
 
 «Si te debo una libra tengo un problema. Si te debo un millón» el problema es tuyo.»
 
-## 5. Viabilidad empresarial
+## Actividad
+
+2. Durante un tiempo, todas las etiquetas de las tiendas de Mercadona indicaban el precio de sus productos en color amarillo, ¿a qué crees que se debía esto?
+3. Expresa tu opinión sobre la cita contenida en la última frase del texto.
+
+## Conceptos básicos
 
 En este apartado vamos a recordar algunos conceptos que te serán útiles para realizar la Simulación, tales como:
 
-ingresos y gastos benefiCiOS y pérdidas tesorería patrimonio ratJOS viabilidad foalafiC© solvencia cuenta de resultados pérdidas entradas y salidas inversión liquidez
+ingresos y gastos beneficios y pérdidas tesorería patrimonio ratios viabilidad balance solvencia cuenta de resultados pérdidas entradas y salidas inversión liquidez
 
 ## A. Plan financiero
 
@@ -4599,9 +4593,35 @@ La actualidad muestra que estos aspectos son responsables de las dificultades y 
 
 La viabilidad de una empresa se puede estudiar desde distintos puntos de vista. Los datos a analizar, así como las decisiones posteriores a adoptar, serán diferentes según el tipo de viabilidad que se aplique.
 
-## En la Tabla 5.1 se detallan distintos tipos de análisis de viabilidad:
+En la Tabla 5.1 se detallan distintos tipos de análisis de viabilidad:
 
-Tabla 5.1. Tipos de análisis de viabilidad de una empresa.
+## Tabla 5.1. Tipos de análisis de viabilidad de una empresa.
+
+- Viabilidad económica:
+
+Evalúa si la inversión producirá una rentabilidad en términos económicos y, en caso de existir varias alternativas, cuál resultaría más eficiente, es decir, cuál de ellas supondría un coste mínimo para una óptima satisfacción. Para ello, se calcula el VAN (Valor Actual Neto), que indica la inversión necesaria después de restarle los intereses. Este indicador debe ser positivo para que la inversión valga la pena. Otro indicador es el TIR (Tasa Interna de Retorno), que varía en función del VAN que señala el valor de los intereses partir del cual es rentable hacer la inversión.
+
+- Viabilidad financiera:
+
+Analiza si existen recursos suficientes para llevar cabo la actividad o, en caso contrario, si se pueden conseguir. En este análisis no se considera el coste de la financiación, que se tiene en cuenta en la viabilidad económica, sino su disponibilidad, por ello, menudo se analiza conjuntamente la viabilidad económico-financiera de un proyecto.
+
+- Viabilidad comercial:
+
+Estima si existe un mercado potencial para el producto la manera óptima de lanzarlo (está vinculado con el plan de marketing y con el análisis DAFO, estudiado en la Unidad 2).
+
+- Viabilidad legal o jurídica:
+
+Establece si la actividad cumple con la normativa vigente del área territorial donde se va a desarrollar. Es un aspecto vital cuando se busca internacionalizar la empresa, ya que no todos los países tienen el mismo desarrollo legal. Una cuestión fundamental dentro del cumplimiento de la normativa legal es aquella relativa a los riesgos laborales. España sigue ocupando un lugar poco deseable en cuanto índice de siniestralidad, razón por la que es obligatorio que todas las empresas incorporen un plan de Prevención de riesgos.
+
+- Viabilidad medioambiental: Trata de definir el impacto de la actividad empresarial en el entorno natural humano, en cuanto la emisión de residuos o de generar contaminación lumínica, acústica, química, etc. Una empresa viable desde un punto de vista medioambiental es aquella que no daña la
+  atmósfera, la naturaleza la población humana o, incluso, la que reduce, reutiliza recicla.
+
+- Viabilidad técnica: Estima los recursos materiales necesarios sus condiciones para garantizar el buen funcionamiento del proyecto, así se estudian las condiciones de seguridad de la tecnología, verificando su resistencia, durabilidad, implicaciones energéticas, etc.
+
+## Normativa para la regulación de los riesgos laborales
+
+Ley 31/1995, de de noviembre, de Prevención de Riesgos Laborales.
+Ley 54/2003, de de noviembre, de reforma del marco normativo de la Prevención de Riesgos Laborales.
 
 ## Ejemplo 1. Viabilidad económica
 
@@ -4611,7 +4631,7 @@ Fuente: Expansión. Madrid, 22 de noviembre de 2012 [en línea]
 
 ## Ejemplo 2. Viabilidad ambiental
 
-«Desde hace cinco años, una empresa colombiana llamada eoforest investiga un terreno de 200 hectáreas ubicado en la vereda Cuatro Bocas del corregimiento El Centro, para evaluar si es viable allí la construcción de un polo forestal.
+«Desde hace cinco años, una empresa colombiana llamada Geoforest investiga un terreno de 200 hectáreas ubicado en la vereda Cuatro Bocas del corregimiento El Centro, para evaluar si es viable allí la construcción de un polo forestal.
 
 Los polos forestales son grandes macizos forestales de plantaciones comerciales y de protección, que sirven para proveer de madera a una región o a un país.»
 
@@ -4658,11 +4678,11 @@ como [...] ya que, por una parte, evitar la fructificación "implicará una redu
 
 Fuente: Levante. Valencia, 22 de noviembre de 2012 [en línea]
 
-## «Una empresa persigue descontaminar suelos y aguas subterráneas»
+«Una empresa persigue descontaminar suelos y aguas subterráneas»
 
 «Además de reducir la contaminación, consigue una restauración ambiental total del suelo, mediante técnicas de descontaminación biológica y química. Los ensayos fina les se realizarán en un emplazamiento real contaminado para demostrar la viabilidad [...], [...]. Y [...] del nuevo proceso. La empresa Bioxisoil cuenta con un presupuesto de casi tres millones de euros».
 
-Fuente: lagua. Madrid, 14 de noviembre de 2012 [en línea]
+Fuente: Iagua. Madrid, 14 de noviembre de 2012 [en línea]
 
 ## C. El punto muerto o umbral de rentabilidad
 
@@ -4672,29 +4692,29 @@ El punto muerto se calcula integrando el gasto unitario, que incluiría el coste
 
 El cálculo del punto muerto se efectúa partiendo de la siguiente formulación matemática:
 
-## Beneficio = Ingresos totales - Costes totales
+- Beneficio = Ingresos totales - Costes totales
 
 Los ingresos totales pueden calcularse teniendo en cuenta el número de unidades vendidas por el precio de venta unitario:
 
-## Ingresos totales = precio unitario X número de unidades vendidas -p X Q
+- Ingresos totales = precio unitario X número de unidades vendidas -p X Q
 
 Los costes totales son el resultado de sumar los costes fijos con los costes variables. Estos últimos, a su vez, pueden conseguirse calculando los costes variables de producir una unidad por el número de unidades vendidas. Es decir,
 
-## Costes totales = Costes fijos + Costes variables
+- Costes totales = Costes fijos + Costes variables
 
-Costes totales = Costes fijos + Costes variables unitarios X Número de unidades vendidas
+- Costes totales = Costes fijos + Costes variables unitarios \* Número de unidades vendidas
 
 A partir de estas fórmulas, igualando costes con ingresos y despejando términos, resultaría que el punto muerto o el umbral de rentabilidad de un producto cualquiera se podría calcular con la siguiente fórmula:
 
-## Q = Costes fijos / (Precio unitario - Costes medios unitarios)
+- Q = Costes fijos / (Precio unitario - Costes medios unitarios)
 
 Si el número de ventas a realizar resultara demasiado alto para las expectativas de la empresa, habría varias medidas que podrían adoptarse para rebajar el punto muerto, como: reducir los costes fijos, reducir los costes variables o aumentar el precio de venta.
 
 En la Figura 5.1 te mostramos la representación gráfica del punto muerto.
 
-Fig. 5.1. Representación gráfica del punto muerto.
+Fig. 5.1. Representación gráfica del punto muerto.(ver libro p.160)
 
-Fuente: http://wvw.pymesyautonomos.com/mar^
+Fuente: http://wvw.pymesyautonomos.com/marketing-y-comercial/calcula-tu-umbral-de-rentabilidad-punto-muerto
 
 ## D. Ratios
 
@@ -4702,19 +4722,7 @@ Los ratios son índices o valores numéricos que permiten efectuar el análisis 
 
 Estos índices se basan en los datos aportados por el Balance y la cuenta de Pérdidas y ganancias. Es una herramienta útil para la empresa porque su cálculo es sencillo, su interpretación resulta fácil y rápida, y además proporcionan información valiosa que permite fijar las directrices de la empresa.
 
-fl
-
-B
-
-s
-
-g
-
-i
-
 El cálculo de los ratios se utiliza para conocer el estado de la empresa. Evaluar si la empresa debe realizar alguna inversión para incrementar ventas, analizar si su endeudamiento es provechoso o, por el contrario, si es preferible reducir el nivel de deudas, o bien, analizar si la empresa es solvente o está en riesgo de impago, estos son algunos de los motivos por los que es necesario calcular los ratios.
-
-fc--------------------......,..,...,........,,
 
 Por otra parte, estos índices son una fuente útil para las entidades financieras, que analizan la conveniencia de otorgar créditos, préstamos, líneas de descuento, servicios de confirming, etcétera, en función de la solidez de la empresa.
 
@@ -4724,20 +4732,16 @@ Sin embargo, la utilidad de los ratios no estriba en el resultado del cálculo s
 2. La integración ele todos los datos, esto es, evitar la elaboración de conclusiones con pocos ratios o considerándolas de manera aislada.
 3. La evolución de la ratio indica el tiempo más que el dato numérico.
 
-i
+## Los ratios sirven
 
-i
-
-i
-
-fS
-
-Los ratios sirven para conocer la rentabilidad, la liquidez y la solvencia de la empresa. Sus fór mulas ponen en relación e interpretan los datos que aparecen al elaborar un balance de situación. Para poder efectuar el cálculo de ratios es necesario dominar los siguientes conceptos:
+para conocer la rentabilidad, la liquidez y la solvencia de la empresa. Sus fór mulas ponen en relación e interpretan los datos que aparecen al elaborar un balance de situación. Para poder efectuar el cálculo de ratios es necesario dominar los siguientes conceptos:
 
 - Activos. Son los bienes de la empresa, tales como maquinaria, mobiliario, locales, materias primas, etc., así como sus derechos, esto es, derechos de cobro sobre facturas pendientes de pago, letras de cambio, etc.
 - Pasivos. Están integrados por el patrimonio neto, también llamados recursos propios de la empresa, que incluyen el capital social y las reservas, así como por sus obligaciones, que son las deudas que mantiene con sus acreedores, como la devolución de un préstamo solicitado.
 
-Los ratios suelen clasificarse en dos grandes grupos, en función de dónde se enfoque el análisis de la empresa. Así pues, se puede hablar de:
+## Los ratios suelen clasificarse en
+
+dos grandes grupos, en función de dónde se enfoque el análisis de la empresa. Así pues, se puede hablar de:
 
 - a) Ratios que analizan la rentabilidad de la empresa, es decir, el rendimiento que obtendrá el producto, la empresa o los inversores.
 - b) Ratios que estudian la liquidez y la solvencia de la compañía.
@@ -4748,49 +4752,68 @@ Le sigue el realizable, que son los elementos que pueden ser fácilmente convert
 
 La solvencia mide la capacidad que tiene la empresa de responder al pago de las deudas.
 
-Un asiento contable es una anotación realizada en el libro Diario de contabilidad, con la finalidad de registrar un hecho económico que provoca una variación del patrimonio de la empresa.
+## Un asiento contable
+
+es una anotación realizada en el libro Diario de contabilidad, con la finalidad de registrar un hecho económico que provoca una variación del patrimonio de la empresa.
 
 ## Ratios para el análisis de la rentabilidad de la empresa
 
-| Rentabilidad económica (RE) | RE = (BAI [Beneficio Antes de Impuestos] / activo total) x 100 Pretende conocer la rentabilidad general de la empresa, es decir, el beneficio obtenido en función de los recursos monetarios puestos a su disposición, ya sean propios o ajenos. El cálculo se efectúa teniendo en cuenta el be neficio bruto obtenido en relación con el ac tivo total de la empresa. Se expresa en térmi nos porcentuales, por lo que el resultado se multiplica por 100. El resultado ofrece una medida del porcentaje de beneficios adquiridos en relación con el capital total invertido por la empresa. | La RE ofrece una medida del porcentaje de bene ficios adquiridos en relación con el capital total invertido por la empresa. Cuanto mayor sea el valor, mayor productividad de los activos y más eficiencia de la empresa. Tan importante es su valor absoluto como su ten dencia a lo largo del tiempo (creciente o decre ciente), y su análisis en comparación con los datos de otras empresas del sector y de la competencia. La rentabilidad económica mejora si aumentan las ventas, si se incrementa el margen de benefi cios sobre ventas (vender más caro o producir más barato) o si se reduce el activo o, mejor aún, com binando estas tres variables a la vez. |
+| Ratio | Cálculo | Interpretación |
 
-Tabla 5.2. Ratios para analizar la rentabilidad de una empresa (Continuación).
+| Rentabilidad económica (RE) | RE = (BAI [Beneficio Antes de Impuestos] / activo total) x 100 Pretende conocer la rentabilidad general de la empresa, es decir, el beneficio obtenido en función de los recursos monetarios puestos a su disposición, ya sean propios o ajenos. El cálculo se efectúa teniendo en cuenta el beneficio bruto obtenido en relación con el activo total de la empresa. Se expresa en términos porcentuales, por lo que el resultado se multiplica por 100. El resultado ofrece una medida del porcentaje de beneficios adquiridos en relación con el capital total invertido por la empresa. | La RE ofrece una medida del porcentaje de beneficios adquiridos en relación con el capital total invertido por la empresa. Cuanto mayor sea el valor, mayor productividad de los activos y más eficiencia de la empresa. Tan importante es su valor absoluto como su tendencia a lo largo del tiempo (creciente o decreciente), y su análisis en comparación con los datos de otras empresas del sector y de la competencia. La rentabilidad económica mejora si aumentan las ventas, si se incrementa el margen de beneficios sobre ventas (vender más caro o producir más barato) o si se reduce el activo o, mejor aún, com binando estas tres variables a la vez. |
 
-| Rentabilidad financiera (RF) | RF = (BDI [Beneficios Después de Impuestos] / recursos propios) x 100 Evalúa el beneficio que los propietarios o accionistas de la empresa están teniendo. Si se compara con la rentabilidad de otros produc tos financieros, los socios tendrán una valora ción del coste de oportunidad de invertir sus recursos en la empresa, en lugar de emplear los en otras acciones más ventajosas desde un punto de vista económico. Sin embargo, como ya señalamos en la Unidad 4, el coste de oportunidad no siempre es cuan- tificable, pues hay elementos subjetivos que no pueden valorarse con dinero, como la satis facción de desarrollar una actividad por cuenta propia o la experiencia adquirida que incre mentará posibilidades futuras. Los emprende dores de éxito siempre se han sobrepuesto a un fracaso o a situaciones adversas, y son pre cisamente estas circunstancias desfavorables las que les han hecho mejorar su competencia profesional y ser más resolutivos. La rentabilidadfinanciera se calcula dividiendo los beneficios netos entre los recursos propios de la empresa y se multiplica el resultado por cien para obtener un porcentaje. | Es fundamental el valor de este ratio de cara a con seguir nuevos inversores. Cuanto mayor sea, más atractiva será la empresa para ellos. La rentabilidad financiera puede mejorarse como el rendimiento económico, incrementando ventas o reduciendo activo o aumentando el margen sobre ventas, pero también incide un efecto llamado apalancamientofinanciero. El apalancamiento financiero consiste en usar endeudamiento para financiar una operación, es decir, pedir prestado para poder realizar alguna acción, como comprar un inmueble, activo fijo o materias primas. De esta manera, se puede gastar por un importe superior al capital que se posee, lo que incrementa la rentabilidad de la acción y eso constituye su principal ventaja. El inconveniente es el riesgo implícito a la solicitud de fondos aje nos, es decir, que la inversión no produzca el efecto deseado y no haya entonces un ingreso que ase gure la devolución del préstamo. Por ejemplo, si las materias primas compradas no se han podido vender, la empresa no consigue beneficio y com promete su solvencia. |
+| Ratio | Cálculo | Interpretación |
 
-## Ratios para el análisis de la liquidez y la solvencia de la empresa
+| Rentabilidad financiera (RF) | RF = (BDI [Beneficios Después de Impuestos] / recursos propios) x 100 Evalúa el beneficio que los propietarios o accionistas de la empresa están teniendo. Si se compara con la rentabilidad de otros productos financieros, los socios tendrán una valoración del coste de oportunidad de invertir sus recursos en la empresa, en lugar de emplear los en otras acciones más ventajosas desde un punto de vista económico. Sin embargo, como ya señalamos en la Unidad 4, el coste de oportunidad no siempre es cuantificable, pues hay elementos subjetivos que no pueden valorarse con dinero, como la satis facción de desarrollar una actividad por cuenta propia o la experiencia adquirida que incrementará posibilidades futuras. Los emprende dores de éxito siempre se han sobrepuesto a un fracaso o a situaciones adversas, y son precisamente estas circunstancias desfavorables las que les han hecho mejorar su competencia profesional y ser más resolutivos. La rentabilidad financiera se calcula dividiendo los beneficios netos entre los recursos propios de la empresa y se multiplica el resultado por cien para obtener un porcentaje. | Es fundamental el valor de este ratio de cara a con seguir nuevos inversores. Cuanto mayor sea, más atractiva será la empresa para ellos. La rentabilidad financiera puede mejorarse como el rendimiento económico, incrementando ventas o reduciendo activo o aumentando el margen sobre ventas, pero también incide un efecto llamado apalancamiento financiero. El apalancamiento financiero consiste en usar endeudamiento para financiar una operación, es decir, pedir prestado para poder realizar alguna acción, como comprar un inmueble, activo fijo o materias primas. De esta manera, se puede gastar por un importe superior al capital que se posee, lo que incrementa la rentabilidad de la acción y eso constituye su principal ventaja. El inconveniente es el riesgo implícito a la solicitud de fondos aje nos, es decir, que la inversión no produzca el efecto deseado y no haya entonces un ingreso que asegure la devolución del préstamo. Por ejemplo, si las materias primas compradas no se han podido vender, la empresa no consigue beneficio y com promete su solvencia. |
 
-| Ratio de liquidez (RL) o solvencia a corto plazo | RL = activo circulante / pasivo circulante = = (disponible + realizable + existencias) / exi gíble a corto plazo Este cociente analiza la capacidad de hacer frente al pago de las deudas que vencen antes de un año. La diferencia con el ratio de tesorería radica en que una empresa puede no tener cash, aunque puede conseguirlo de forma casi inmediata, por ejemplo, realizando unas ofertas o des cuentos para incrementar las ventas. Por este motivo, en el cálculo de este ratio se tiene en cuenta las existencias o stock que puede materializarse en dinero líquido: • El activo circulante incluye el activo dispo nible, el activo realizable y las existencias. • El pasivo circulante se compone de la financiación a corto plazo. | El valor óptimo se sitúa entre 1,5 y 2. Un dato menor alertaría sobre dificultades finan cieras; podría haber problemas de liquidez, con el riesgo de caer en una situación de suspensión de pagos. Si es muy elevado indicaría que tenemos recursos improductivos que disminuyen nuestra rentabilidad. El cociente informa, por tanto, del valor de los bie nes a los que la firma puede recurrir para hacer frente a sus deudas a corto plazo. En empresas dedicadas a actividades comerciales o industriales habrá una diferencia significativa entre el ratio de liquidez y el de tesorería. En cambio, será mínima en empresas de servicios por la falta de stock. |
+## Tabla 5.3. Ratios para el análisis de la liquidez y la solvencia de la empresa
 
-| Ratio de tesorería (RT)o cociente ácido | RT = (disponible + realizable) / pasivo circu lante Este dato mide las posibilidades de respon der a las obligaciones de pago a corto plazo. Es un indicador de la distancia a la suspensión de pagos. Pone en relación el activo disponible y el activo realizable con el pasivo circulante. • El activo disponible incluye la tesorería y las inversiones financieras temporales. • El activo realizable señala los deudores que satisfarán su deuda en menos de un año. • El pasivo circulante se refiere al exigible a corto plazo, como los acreedores por deu das que vencen antes de un año. | Su valor óptimo debe estar cerca de la unidad o en torno al 0,75, lo que vendría a significar que la empresa puede cubrir los gastos venideros. Un valor por debajo de 1 alertaría sobre la falta de cash-flow o flujo de caja para atender los pagos inmediatos. Mientras que un valor muy superior a la unidad avisa de que la empresa tiene un exceso de recursos ociosos que deben ser reducidos o invertidos en un producto que ofrezca rentabi lidad. Este análisis dependerá del momento económico, ya que en una situación de crisis generalizada y de gran incertidumbre, donde las empresas acusan la interrupción de los créditos, será mejor contar con un exceso de tesorería que tener el límite de recur sos disponibles bajo. Es un ratio de situación financiera a muy corto plazo, al incluir entre los elementos activos solo aquellos que ya son disponibles o que precisan úni camente la última fase del ciclo de explotación (el cobro) para transformarse en efectivo. Los sectores que presentan mayores ratios de teso rería son los servicios financieros, los seguros y los servicios a las empresas. En los tramos inferiores del RT se encuentran la hostelería y restauración, los servicios inmobiliarios y la energía. |
+| Ratio | Cálculo | Interpretación |
 
-| Ratio de disponibi lidad (RD) | RD = disponible / exigible a corto plazo Muestra los recursos disponibles de la em presa, para conocer si están siendo infrautili- zados. | El valor debe rondar el 0,1 o 0,3 ya que se espera que los fondos líquidos supongan el 10% del total de las deudas que mantiene la empresa con un vencimiento inferior a un año. Este ratio puede tener grandes oscilaciones a lo largo del año. No obstante, la valoración del dato depende del tipo de empresa, ya que en aquellas donde se cobra de manera permanente, debido a ingresos conti nuos por ventas, el valor puede ser un poco más bajo. |
-| Ratio de garantía estructural (R E), o de solvencia total, o de distancia a la quiebra | R E = activo real / exigible total Este valor analiza la garantía que tienen los acreedores de cobrar sus deudas, puesto que pone en relación los activos totales de la empresa con las obligaciones contraídas. El activo real se calcula restando a los acti vos los gastos de constitución y de puesta en marcha. | Este ratio mide la solvencia de una manera más real, eliminando del cálculo el activo ficticio (gas tos de constitución, etc.), parte intangible y no embargable del activo total. Así, el activo real es aquel que en caso de liquidación de la empresa puede convertirse en dinero líquido para hacer frente a las posibles deudas. El resultado recomendable debe estar situado entre el 1,5-2. Por debajo de este valor, la compa ñía estaría en riesgo de quiebra, por tanto, de no poder responder a las deudas pendientes de pago. Por este motivo, también se denomina a este valor como distancia a la quiebra. Cuanto mayor es el ratio, mayor garantía ofrece la empresa del pago de todas sus deudas contraídas. |
+| Ratio de liquidez (RL) o solvencia a corto plazo | RL = activo circulante / pasivo circulante = = (disponible + realizable + existencias) / exigible a corto plazo Este cociente analiza la capacidad de hacer frente al pago de las deudas que vencen antes de un año. La diferencia con el ratio de tesorería radica en que una empresa puede no tener cash, aunque puede conseguirlo de forma casi inmediata, por ejemplo, realizando unas ofertas o des cuentos para incrementar las ventas. Por este motivo, en el cálculo de este ratio se tiene en cuenta las existencias o stock que puede materializarse en dinero líquido: • El activo circulante incluye el activo disponible, el activo realizable y las existencias. • El pasivo circulante se compone de la financiación a corto plazo. | El valor óptimo se sitúa entre 1,5 y 2. Un dato menor alertaría sobre dificultades financieras; podría haber problemas de liquidez, con el riesgo de caer en una situación de suspensión de pagos. Si es muy elevado indicaría que tenemos recursos improductivos que disminuyen nuestra rentabilidad. El cociente informa, por tanto, del valor de los bie nes a los que la firma puede recurrir para hacer frente a sus deudas a corto plazo. En empresas dedicadas a actividades comerciales o industriales habrá una diferencia significativa entre el ratio de liquidez y el de tesorería. En cambio, será mínima en empresas de servicios por la falta de stock. |
 
-r
+| Ratio | Cálculo | Interpretación |
 
-Tabla 5.3. Ratios para analizar la liquidez y solvencia de una empresa (Continuación).
+| Ratio de tesorería (RT) o cociente ácido | RT = (disponible + realizable) / pasivo circulante Este dato mide las posibilidades de responder a las obligaciones de pago a corto plazo. Es un indicador de la distancia a la suspensión de pagos. Pone en relación el activo disponible y el activo realizable con el pasivo circulante. • El activo disponible incluye la tesorería y las inversiones financieras temporales. • El activo realizable señala los deudores que satisfarán su deuda en menos de un año. • El pasivo circulante se refiere al exigible a corto plazo, como los acreedores por deu das que vencen antes de un año. | Su valor óptimo debe estar cerca de la unidad o en torno al 0,75, lo que vendría a significar que la empresa puede cubrir los gastos venideros. Un valor por debajo de 1 alertaría sobre la falta de cash-flow o flujo de caja para atender los pagos inmediatos. Mientras que un valor muy superior a la unidad avisa de que la empresa tiene un exceso de recursos ociosos que deben ser reducidos o invertidos en un producto que ofrezca rentabilidad. Este análisis dependerá del momento económico, ya que en una situación de crisis generalizada y de gran incertidumbre, donde las empresas acusan la interrupción de los créditos, será mejor contar con un exceso de tesorería que tener el límite de recur sos disponibles bajo. Es un ratio de situación financiera a muy corto plazo, al incluir entre los elementos activos solo aquellos que ya son disponibles o que precisan únicamente la última fase del ciclo de explotación (el cobro) para transformarse en efectivo. Los sectores que presentan mayores ratios de tesorería son los servicios financieros, los seguros y los servicios a las empresas. En los tramos inferiores del RT se encuentran la hostelería y restauración, los servicios inmobiliarios y la energía. |
 
-| Ratlo de endeuda miento financiero (REF) | REF = exigible total / pasivo total Este cociente analiza el peso de las deudas respecto al pasivo total de la empresa. Por tanto, tendrá un valor alto en aquellas empresas que carecen de recursos propios para financiarse y deben acudir, por ello, a fuentes exter nas de financiación. El REF mide el riesgo financiero de la empresa e indica su capacidad de en deudamiento. | Dado que la fuente principal de financiación de la empresa deben ser los fondos propios, un valor ideal de este ratio es alrededor de 0,5, lo que indicaría un equilibrio entre la deuda a corto plazo y el capital permanente de la empresa; en otras palabras, que la empresa se financia tanto con recursos propios como con medios ajenos. Cuanto mayor sea el pasivo corriente, más peligro de insolvencia y de falta de liquidez para nuestra empresa y a la inversa, una deuda a largo plazo ofrecerá más margen a la empresa para responder de sus deudas. Un valor superior a 0,5 alertaría sobre el exceso de endeu damiento de la empresa o, lo que es lo mismo, sobre su descapitalización. La descapitalización supone el empobrecimiento o pér dida de riqueza de la empresa. Tiene lugar cuando los ele | Dado que la fuente principal de financiación de la empresa deben ser los fondos propios, un valor ideal de este ratio es alrededor de 0,5, lo que indicaría un equilibrio entre la deuda a corto plazo y el capital permanente de la empresa; en otras palabras, que la empresa se financia tanto con recursos propios como con medios ajenos. Cuanto mayor sea el pasivo corriente, más peligro de insolvencia y de falta de liquidez para nuestra empresa y a la inversa, una deuda a largo plazo ofrecerá más margen a la empresa para responder de sus deudas. Un valor superior a 0,5 alertaría sobre el exceso de endeu damiento de la empresa o, lo que es lo mismo, sobre su descapitalización. La descapitalización supone el empobrecimiento o pér dida de riqueza de la empresa. Tiene lugar cuando los ele | Dado que la fuente principal de financiación de la empresa deben ser los fondos propios, un valor ideal de este ratio es alrededor de 0,5, lo que indicaría un equilibrio entre la deuda a corto plazo y el capital permanente de la empresa; en otras palabras, que la empresa se financia tanto con recursos propios como con medios ajenos. Cuanto mayor sea el pasivo corriente, más peligro de insolvencia y de falta de liquidez para nuestra empresa y a la inversa, una deuda a largo plazo ofrecerá más margen a la empresa para responder de sus deudas. Un valor superior a 0,5 alertaría sobre el exceso de endeu damiento de la empresa o, lo que es lo mismo, sobre su descapitalización. La descapitalización supone el empobrecimiento o pér dida de riqueza de la empresa. Tiene lugar cuando los ele |
-|
-| Ratio de autonomía financiera (RAF) | RAF = recursos propios / exigible total Este valor señala la independencia de la empresa con respecto a recursos aje nos. Por esta razón, con este dato se pretende conocer el nivel óptimo de endeudamiento de una empresa. | Su valor normal debería ser superior a 1, lo que indicaría una situación de independencia de fondos ajenos. Cuanto mayor sea esta relación, menos dependerá de la compañía de acreedores. La interpretación de este dato depende del sector de acti vidad de la empresa, ya que hay actividades que requie ren un uso constante de fuentes externas de financiación, como la investigación, enseñanza o las instituciones sin fines de lucro. La independencia financiera está íntimamente ligada a la solvencia, entendida esta en sentido amplio, es decir, como la garantía aportada por los activos y por la pro ducción de flujos de tesorería para atender al coste de los recursos propios y ajenos, y al reintegro de estos últimos. Este ratio es el inverso al de endeudamiento. Como es lógico suponer, ya que miden aspectos contrapuestos, las compañías con un RAF alto tienen, en cambio, un bajo resultado en el ratio REF y viceversa. | Su valor normal debería ser superior a 1, lo que indicaría una situación de independencia de fondos ajenos. Cuanto mayor sea esta relación, menos dependerá de la compañía de acreedores. La interpretación de este dato depende del sector de acti vidad de la empresa, ya que hay actividades que requie ren un uso constante de fuentes externas de financiación, como la investigación, enseñanza o las instituciones sin fines de lucro. La independencia financiera está íntimamente ligada a la solvencia, entendida esta en sentido amplio, es decir, como la garantía aportada por los activos y por la pro ducción de flujos de tesorería para atender al coste de los recursos propios y ajenos, y al reintegro de estos últimos. Este ratio es el inverso al de endeudamiento. Como es lógico suponer, ya que miden aspectos contrapuestos, las compañías con un RAF alto tienen, en cambio, un bajo resultado en el ratio REF y viceversa. | Su valor normal debería ser superior a 1, lo que indicaría una situación de independencia de fondos ajenos. Cuanto mayor sea esta relación, menos dependerá de la compañía de acreedores. La interpretación de este dato depende del sector de acti vidad de la empresa, ya que hay actividades que requie ren un uso constante de fuentes externas de financiación, como la investigación, enseñanza o las instituciones sin fines de lucro. La independencia financiera está íntimamente ligada a la solvencia, entendida esta en sentido amplio, es decir, como la garantía aportada por los activos y por la pro ducción de flujos de tesorería para atender al coste de los recursos propios y ajenos, y al reintegro de estos últimos. Este ratio es el inverso al de endeudamiento. Como es lógico suponer, ya que miden aspectos contrapuestos, las compañías con un RAF alto tienen, en cambio, un bajo resultado en el ratio REF y viceversa. |
-| Fondo de maniobra (FM) | FM = activo corriente - pasivo corriente FM = activo no corriente - patrimonio neto - pasivo no corriente Es una medida de seguridad con que la empresa puede hacer frente al poten cial descuadre entre la corriente de cobros y la de pagos. Con el fin de evi tar problemas financieros, es preciso que lo que se cobre antes de un año sea superior a los pagos pendientes del mismo periodo de tiempo. Este ratio se calcula de dos maneras diferentes: o bien, como el activo cir culante menos el pasivo circulante, o bien, como el activo fijo menos el pasivo fijo. | Un valor negativo genera desconfianza hacia la viabili dad de la empresa, ya que parte del activo inmovilizado se financia con los recursos ajenos a corto plazo, es decir, con las deudas pendientes de cobro en un plazo inferior a un año. En esta figura se puede observar la representación gráfi ca del fondo de maniobra. Hay que destacar que los nom bres con los que se designan los diferentes elementos varían, sin embargo, ambas figuras representan lo mismo (Fig. 5.2). | Un valor negativo genera desconfianza hacia la viabili dad de la empresa, ya que parte del activo inmovilizado se financia con los recursos ajenos a corto plazo, es decir, con las deudas pendientes de cobro en un plazo inferior a un año. En esta figura se puede observar la representación gráfi ca del fondo de maniobra. Hay que destacar que los nom bres con los que se designan los diferentes elementos varían, sin embargo, ambas figuras representan lo mismo (Fig. 5.2). | Un valor negativo genera desconfianza hacia la viabili dad de la empresa, ya que parte del activo inmovilizado se financia con los recursos ajenos a corto plazo, es decir, con las deudas pendientes de cobro en un plazo inferior a un año. En esta figura se puede observar la representación gráfi ca del fondo de maniobra. Hay que destacar que los nom bres con los que se designan los diferentes elementos varían, sin embargo, ambas figuras representan lo mismo (Fig. 5.2). |
-| Fondo de maniobra (FM) | FM = activo corriente - pasivo corriente FM = activo no corriente - patrimonio neto - pasivo no corriente Es una medida de seguridad con que la empresa puede hacer frente al poten cial descuadre entre la corriente de cobros y la de pagos. Con el fin de evi tar problemas financieros, es preciso que lo que se cobre antes de un año sea superior a los pagos pendientes del mismo periodo de tiempo. Este ratio se calcula de dos maneras diferentes: o bien, como el activo cir culante menos el pasivo circulante, o bien, como el activo fijo menos el pasivo fijo. | Activo | | Pasivo |
-| Fondo de maniobra (FM) | FM = activo corriente - pasivo corriente FM = activo no corriente - patrimonio neto - pasivo no corriente Es una medida de seguridad con que la empresa puede hacer frente al poten cial descuadre entre la corriente de cobros y la de pagos. Con el fin de evi tar problemas financieros, es preciso que lo que se cobre antes de un año sea superior a los pagos pendientes del mismo periodo de tiempo. Este ratio se calcula de dos maneras diferentes: o bien, como el activo cir culante menos el pasivo circulante, o bien, como el activo fijo menos el pasivo fijo. | Activo inmovilizado | | Recursos propios |
-| Fondo de maniobra (FM) | FM = activo corriente - pasivo corriente FM = activo no corriente - patrimonio neto - pasivo no corriente Es una medida de seguridad con que la empresa puede hacer frente al poten cial descuadre entre la corriente de cobros y la de pagos. Con el fin de evi tar problemas financieros, es preciso que lo que se cobre antes de un año sea superior a los pagos pendientes del mismo periodo de tiempo. Este ratio se calcula de dos maneras diferentes: o bien, como el activo cir culante menos el pasivo circulante, o bien, como el activo fijo menos el pasivo fijo. | Activo circulante | Fondo de maniobra | Recursos ajenos LP Recursos ajenos CP |
-| Fondo de maniobra (FM) | Fig. 5.2. Fondo de maniobra. | Fig. 5.2. Fondo de maniobra. | Fig. 5.2. Fondo de maniobra. | Fig. 5.2. Fondo de maniobra. |
+| Ratio | Cálculo | Interpretación |
 
-El cashflowoflujo de caja es la cantidad de dinero generada por una empresa. Se calcula restando los gastos de los ingresos, es decir, es el importe del dinero líquido disponible.
+| Ratio de disponibilidad (RD) | RD = disponible / exigible a corto plazo Muestra los recursos disponibles de la em presa, para conocer si están siendo infrautilizados. | El valor debe rondar el 0,1 o 0,3 ya que se espera que los fondos líquidos supongan el 10% del total de las deudas que mantiene la empresa con un vencimiento inferior a un año. Este ratio puede tener grandes oscilaciones a lo largo del año. No obstante, la valoración del dato depende del tipo de empresa, ya que en aquellas donde se cobra de manera permanente, debido a ingresos continuos por ventas, el valor puede ser un poco más bajo. |
+| Ratio de garantía estructural (R E), o de solvencia total, o de distancia a la quiebra | R E = activo real / exigible total Este valor analiza la garantía que tienen los acreedores de cobrar sus deudas, puesto que pone en relación los activos totales de la empresa con las obligaciones contraídas. El activo real se calcula restando a los activos los gastos de constitución y de puesta en marcha. | Este ratio mide la solvencia de una manera más real, eliminando del cálculo el activo ficticio (gas tos de constitución, etc.), parte intangible y no embargable del activo total. Así, el activo real es aquel que en caso de liquidación de la empresa puede convertirse en dinero líquido para hacer frente a las posibles deudas. El resultado recomendable debe estar situado entre el 1,5-2. Por debajo de este valor, la compañía estaría en riesgo de quiebra, por tanto, de no poder responder a las deudas pendientes de pago. Por este motivo, también se denomina a este valor como distancia a la quiebra. Cuanto mayor es el ratio, mayor garantía ofrece la empresa del pago de todas sus deudas contraídas. |
 
-La quiebra se produce cuando una sociedad no puede hacer frente a sus deudas, es decir, es insolvente porque las obligaciones de pago son superiores al patrimonio total, puesto que los bienes de la empresa no cubren la totalidad de las deudas. Llegado este caso, la propia em presa o cualquiera de sus acreedores puede solicitar al juez la situación de quiebra. Una vez analizados los datos y confirmada esta situación, el juez autoriza la liquidación de la empresa y el concurso de acreedores, a la vez que inhabilita al empresario para gestionar su empresa.
+| Ratio | Cálculo | Interpretación |
 
-El concurso de acreedores es el proceso legal que se origina cuando una persona o empresa es insolvente. En el caso de quiebra, el proceso conlleva repartir los bienes para saldar las deudas pendientes.
+| Ratio de endeuda miento financiero (REF) | REF = exigible total / pasivo total Este cociente analiza el peso de las deudas respecto al pasivo total de la empresa. Por tanto, tendrá un valor alto en aquellas empresas que carecen de recursos propios para financiarse y deben acudir, por ello, a fuentes externas de financiación. El REF mide el riesgo financiero de la empresa e indica su capacidad de endeudamiento. | Dado que la fuente principal de financiación de la empresa deben ser los fondos propios, un valor ideal de este ratio es alrededor de 0,5, lo que indicaría un equilibrio entre la deuda a corto plazo y el capital permanente de la empresa; en otras palabras, que la empresa se financia tanto con recursos propios como con medios ajenos. Cuanto mayor sea el pasivo corriente, más peligro de insolvencia y de falta de liquidez para nuestra empresa y a la inversa, una deuda a largo plazo ofrecerá más margen a la empresa para responder de sus deudas. Un valor superior a 0,5 alertaría sobre el exceso de endeudamiento de la empresa o, lo que es lo mismo, sobre su descapitalización. La descapitalización supone el empobrecimiento o pérdida de riqueza de la empresa. Tiene lugar cuando los ele | Dado que la fuente principal de financiación de la empresa deben ser los fondos propios, un valor ideal de este ratio es alrededor de 0,5, lo que indicaría un equilibrio entre la deuda a corto plazo y el capital permanente de la empresa; en otras palabras, que la empresa se financia tanto con recursos propios como con medios ajenos. Cuanto mayor sea el pasivo corriente, más peligro de insolvencia y de falta de liquidez para nuestra empresa y a la inversa, una deuda a largo plazo ofrecerá más margen a la empresa para responder de sus deudas. Un valor superior a 0,5 alertaría sobre el exceso de endeudamiento de la empresa o, lo que es lo mismo, sobre su descapitalización. La descapitalización supone el empobrecimiento o pérdida de riqueza de la empresa. Tiene lugar cuando los ele | Dado que la fuente principal de financiación de la empresa deben ser los fondos propios, un valor ideal de este ratio es alrededor de 0,5, lo que indicaría un equilibrio entre la deuda a corto plazo y el capital permanente de la empresa; en otras palabras, que la empresa se financia tanto con recursos propios como con medios ajenos. Cuanto mayor sea el pasivo corriente, más peligro de insolvencia y de falta de liquidez para nuestra empresa y a la inversa, una deuda a largo plazo ofrecerá más margen a la empresa para responder de sus deudas. Un valor superior a 0,5 alertaría sobre el exceso de endeudamiento de la empresa o, lo que es lo mismo, sobre su descapitalización. La descapitalización supone el empobrecimiento o pérdida de riqueza de la empresa. Tiene lugar cuando los elementos patrimoniales pierden importancia, al aumentar el peso de su deuda. |
+
+| Ratio | Cálculo | Interpretación |
+
+| Ratio de autonomía financiera (RAF) | RAF = recursos propios / exigible total Este valor señala la independencia de la empresa con respecto a recursos aje nos. Por esta razón, con este dato se pretende conocer el nivel óptimo de endeudamiento de una empresa. | Su valor normal debería ser superior a 1, lo que indicaría una situación de independencia de fondos ajenos. Cuanto mayor sea esta relación, menos dependerá de la compañía de acreedores. La interpretación de este dato depende del sector de actividad de la empresa, ya que hay actividades que requieren un uso constante de fuentes externas de financiación, como la investigación, enseñanza o las instituciones sin fines de lucro. La independencia financiera está íntimamente ligada a la solvencia, entendida esta en sentido amplio, es decir, como la garantía aportada por los activos y por la producción de flujos de tesorería para atender al coste de los recursos propios y ajenos, y al reintegro de estos últimos. Este ratio es el inverso al de endeudamiento. Como es lógico suponer, ya que miden aspectos contrapuestos, las compañías con un RAF alto tienen, en cambio, un bajo resultado en el ratio REF y viceversa. | Su valor normal debería ser superior a 1, lo que indicaría una situación de independencia de fondos ajenos. Cuanto mayor sea esta relación, menos dependerá de la compañía de acreedores. La interpretación de este dato depende del sector de actividad de la empresa, ya que hay actividades que requieren un uso constante de fuentes externas de financiación, como la investigación, enseñanza o las instituciones sin fines de lucro. La independencia financiera está íntimamente ligada a la solvencia, entendida esta en sentido amplio, es decir, como la garantía aportada por los activos y por la producción de flujos de tesorería para atender al coste de los recursos propios y ajenos, y al reintegro de estos últimos. Este ratio es el inverso al de endeudamiento. Como es lógico suponer, ya que miden aspectos contrapuestos, las compañías con un RAF alto tienen, en cambio, un bajo resultado en el ratio REF y viceversa. | Su valor normal debería ser superior a 1, lo que indicaría una situación de independencia de fondos ajenos. Cuanto mayor sea esta relación, menos dependerá de la compañía de acreedores. La interpretación de este dato depende del sector de actividad de la empresa, ya que hay actividades que requieren un uso constante de fuentes externas de financiación, como la investigación, enseñanza o las instituciones sin fines de lucro. La independencia financiera está íntimamente ligada a la solvencia, entendida esta en sentido amplio, es decir, como la garantía aportada por los activos y por la producción de flujos de tesorería para atender al coste de los recursos propios y ajenos, y al reintegro de estos últimos. Este ratio es el inverso al de endeudamiento. Como es lógico suponer, ya que miden aspectos contrapuestos, las compañías con un RAF alto tienen, en cambio, un bajo resultado en el ratio REF y viceversa. |
+
+| Ratio | Cálculo | Interpretación |
+
+| Fondo de maniobra (FM) | FM = activo corriente - pasivo corriente / FM = activo no corriente - patrimonio neto - pasivo no corriente. Es una medida de seguridad con que la empresa puede hacer frente al potencial descuadre entre la corriente de cobros y la de pagos. Con el fin de evitar problemas financieros, es preciso que lo que se cobre antes de un año sea superior a los pagos pendientes del mismo periodo de tiempo. Este ratio se calcula de dos maneras diferentes: o bien, como el activo circulante menos el pasivo circulante, o bien, como el activo fijo menos el pasivo fijo. | Un valor negativo genera desconfianza hacia la viabilidad de la empresa, ya que parte del activo inmovilizado se financia con los recursos ajenos a corto plazo, es decir, con las deudas pendientes de cobro en un plazo inferior a un año. En esta figura se puede observar la representación gráfica del fondo de maniobra. Hay que destacar que los nombres con los que se designan los diferentes elementos varían, sin embargo, ambas figuras representan lo mismo (Fig. 5.2). |
+
+### Fig. 5.2. Fondo de maniobra.
+
+Ver libro p. 164
+
+## El cashflow o flujo de caja
+
+es la cantidad de dinero generada por una empresa. Se calcula restando los gastos de los ingresos, es decir, es el importe del dinero líquido disponible.
+
+## La quiebra
+
+se produce cuando una sociedad no puede hacer frente a sus deudas, es decir, es insolvente porque las obligaciones de pago son superiores al patrimonio total, puesto que los bienes de la empresa no cubren la totalidad de las deudas. Llegado este caso, la propia em presa o cualquiera de sus acreedores puede solicitar al juez la situación de quiebra. Una vez analizados los datos y confirmada esta situación, el juez autoriza la liquidación de la empresa y el concurso de acreedores, a la vez que inhabilita al empresario para gestionar su empresa.
+
+## El concurso de acreedores
+
+es el proceso legal que se origina cuando una persona o empresa es insolvente. En el caso de quiebra, el proceso conlleva repartir los bienes para saldar las deudas pendientes.
 
 Se anotan todos los bienes y derechos de la empresa. Entonces, y en previsión de que el dinero no sea suficiente para cubrir todas las deudas, se determina el orden de preferencia según lo que establece la normativa legal: en primer lugar, los trabajadores para el cobro de su última nómina y, después, Hacienda, la Seguridad Social, los ayuntamientos, acreedores hipotecarios, aseguradoras sobre bienes asegurados, etc.
 
 La situación sería diferente si se tratara de un empresario individual. En este caso, se su maría la totalidad de bienes de la empresa junto a los propios del empresario y, en caso de no ser suficientes, se estaría en situación de quiebra. Los emprendedores que actúan en una sociedad tienen una mayor protección frente a la quiebra, ya que en una sociedad nunca se utiliza el patrimonio personal de los socios para responder a las deudas; tan solo se cuenta con el patrimonio mercantil.
 
-## Ejemplo 3, Nueva Rumasa quiebra
+## Ejemplo 3. Nueva Rumasa quiebra
 
 «En octubre de 2008, Nueva Rumasa pidió al Santander "un crédito extraordinario de 18 mi llones de euros para atender un pequeño desfase" en su fondo de maniobra. El banco se negó. Semanas después, las marcas Apis y Fruco lanzaron la primera emisión de pagarés de esta empresa dirigida a particulares. Un par de años después, la empresa quebró».
 
@@ -4798,16 +4821,19 @@ Fuente: la Vanguardia. Barcelona, 10 de marzo de 2011 [en línea]
 
 Una situación menos grave y que no inhabilita al empresario para continuar con su gestión empresarial es la suspensión de pagos.
 
-La suspensión de pagos sucede cuando la empresa dispone de patrimonio para responder a sus deudas, pero carece de liquidez. Por ejemplo, tiene naves y locales comerciales, pero necesita venderlos para transformarlos en recursos monetarios. Por ello, es la propia empresa la que solicita al juez la suspensión de pagos. Con ello pretende paralizar las reclamaciones de deuda.
+## La suspensión de pagos
 
-El juez, en tal caso, deberá analizar los datos que aporte la empresa relativos a montante de deudas, relación de acreedores, causas de la falta de liquidez, recursos para hacerles frente y propuesta para abonar sus deudas en un plazo determinado. Si estima razonable la suspen sión de pagos se acordará una reunión entre el empresario, los acreedores y el juez para nego ciar la satisfacción de estos pagos. De este encuentro saldrá un acuerdo, aprobado por todos, en el que se reestablezcan las nuevas condiciones para el abono de las cantidades debidas.
+sucede cuando la empresa dispone de patrimonio para responder a sus deudas, pero carece de liquidez. Por ejemplo, tiene naves y locales comerciales, pero necesita venderlos para transformarlos en recursos monetarios. Por ello, es la propia empresa la que solicita al juez la suspensión de pagos. Con ello pretende paralizar las reclamaciones de deuda.
 
-## Ejemplo 4. Retios de El Corte Inglés
+El juez, en tal caso, deberá analizar los datos que aporte la empresa relativos a montante de deudas, relación de acreedores, causas de la falta de liquidez, recursos para hacerles frente y propuesta para abonar sus deudas en un plazo determinado. Si estima razonable la suspensión de pagos se acordará una reunión entre el empresario, los acreedores y el juez para negociar la satisfacción de estos pagos. De este encuentro saldrá un acuerdo, aprobado por todos, en el que se restablezcan las nuevas condiciones para el abono de las cantidades debidas.
+
+## Ejemplo 4. Ratios de El Corte Inglés
 
 En la Tabla 5.4 se comparan los resultados de varios años consecutivos con el rango ideal que debería tener. En este caso, vemos que el análisis de esta información arroja conclusiones favorables y positivas para la empresa.
 
-| Ratio liquidez                  | 0,92    | 0,87    | 0,87    | 0,84     | 0,78    | 1,5 - 2        |
+| Ratios                          | 2002    | 2003    | 2004    | 2005     | 2006    | 2007           |
 | ------------------------------- | ------- | ------- | ------- | -------- | ------- | -------------- |
+| Ratio liquidez                  | 0,92    | 0,87    | 0,87    | 0,84     | 0,78    | 1,5 - 2        |
 | Hallo tesorería                 | 0,39    | 0,37    | 0,37    | 0,317    | 0,27    | 1              |
 | Apalancamiento                  | 0,48    | 0,48    | 0,47    | 0,44     | 0,44    | 0,4 - 0,6      |
 | RAF                             | 1,07    | 1,07    | 1,14    | 1,24     | 1,25    | 0,7-1,5        |
@@ -4831,29 +4857,35 @@ En la Tabla 5.4 se comparan los resultados de varios años consecutivos con el r
 | Coste medio de la deuda         | 0,022   | 0,018   | 0,009   | 0,015    | 0,01    | <0,4           |
 | Rotación de cobros              | 11,6    | 11,86   | 13,28   | 18,66    | 19,19   | Alto           |
 
-Tabla 5.4. Ratios de El Corte Inglés desde 2002 hasta 2006.
+Tabla 5.4. Ratios de El Corte Inglés desde 2002 hasta 2006.(ver libro p.166)
 
-Fuente: http://www.scribd.eom/fullscreen/86055885?access\_key=key-1 is9l5atub9janxiohat El objetivo en esta unidad es que elabores el plan financiero de tu empresa. Para ello, realizarás previamente el plan de tesorería, la cuenta de pérdidas y ganancias y el balance de situación. Después analizarás los datos con el fin de identificar la viabilidad de tu empresa. Al finalizar el tema recogerás toda esta informa ción para el plan de empresa, en un apartado denominado: Plan financiero.
+Fuente: Fuente: http://www.scribd.eom/fullscreen/86055885?access_key=key-1is9l5atub9janxiohat
+
+## Simulación empresarial
+
+El objetivo en esta unidad es que elabores el plan financiero de tu empresa. Para ello, realizarás previamente el plan de tesorería, la cuenta de pérdidas y ganancias y el balance de situación. Después analizarás los datos con el fin de identificar la viabilidad de tu empresa. Al finalizar el tema recogerás toda esta información para el plan de empresa, en un apartado denominado: Plan financiero.
 
 ## Fase 1. Cálculos previos
 
 Antes de elaborar el plan financiero hay una serie de datos relativos a ingresos y gastos que hay que tener identificados. De esa manera, la realización de los cálculos contables será fácil, ya que solo habrá que trasladar estos datos numéricos a las hojas de cálculo concretas y, a partir de allí, obtener los resultados y analizarlos.
 
-## Previsión de ingresos
-
 ## Fases de la Simulación empresarial
 
 - Fase 1. Cálculos previos
-- Fase 2. Elaboración del plan de teso rería
-- Fase 3. Elaboración1 de la cuenta de resultados o cuenta de Pér didas y ganancias
+- Fase 2. Elaboración del plan de tesorería
+- Fase 3. Elaboración1 de la cuenta de resultados o cuenta de Pérdidas y ganancias
 - Fase 4. Elaboración del Balance de situación
 - Fase 5. Análisis de la viabilidad de la empresa
 
-## Fuétílé$ 0é fi rianteiatiórí
+## Previsión de ingresos
 
-Retoma las decisiones adoptadas en la Simulación de la unidad anterior, ya que el capital conseguido habrá que incor porarlo en los documentos que incluye el plan financiero.
+- Fuentes de financiación
 
-Realiza una estimación de los clientes que tendréis durante el primer mes de apertura del negocio y tradúcelo a com pras, según lo que penséis que van a adquirir. Si te resulta dificultoso realizar la aproximación por mes, hazlo por sema nas o por días y luego multiplícalo por el número de días que tenga el mes.
+Retoma las decisiones adoptadas en la Simulación de la unidad anterior, ya que el capital conseguido habrá que incorporarlo en los documentos que incluye el plan financiero.
+
+- Ventas previstas
+
+Realiza una estimación de los clientes que tendréis durante el primer mes de apertura del negocio y tradúcelo a compras, según lo que penséis que van a adquirir. Si te resulta dificultoso realizar la aproximación por mes, hazlo por semanas o por días y luego multiplícalo por el número de días que tenga el mes.
 
 Aunque este paso puede parecer complicado, es un elemento necesario que debe estar incluido en todo plan de empresa. De ahí la necesidad de que los emprendedores tengan un conocimiento del sector o experiencia en negocios previos. En tu caso, tienes esa carencia, pero puedes compensarla con ayuda de tus profesores del ciclo, con familiares o amigos que estén trabajando en el sector, buscando datos en Internet y con tu intuición.
 
@@ -4865,11 +4897,13 @@ Una vez que tengas definidos los clientes por mes, traduce esas ventas a dinero,
 
 La previsión de clientes es un dato vital no solo para calcular las ventas, sino también los gastos, ya que la empresa trata de ser lo más eficiente posible; en función de ello, realiza las compras paulatinamente a medida que se requieren. Habrá sectores donde será necesario contar con un stock alto, como en una tienda de ropa, pero habrá otros donde se fabricará cuando sea demandado, como en una tienda de muebles.
 
-■ ■--..;\*-.-?, Realiza una estimación de la compra de materias primas teniendo en cuenta lo dicho en el párrafo anterior y tradúcela en gasto, considerando el precio al que adquirís vuestras provisiones. La Simulación realizada en la Unidad 2 te resultará de gran utilidad, ya que en ese momento fijaste el precio de vuestros productos o servicios según el criterio que os pare ció más conveniente, pero siempre con la certeza de que se cubrirían gastos y se obtendrían un beneficio.
+## Compras de materia prima
+
+Realiza una estimación de la compra de materias primas teniendo en cuenta lo dicho en el párrafo anterior y tradúcela en gasto, considerando el precio al que adquirís vuestras provisiones. La Simulación realizada en la Unidad 2 te resultará de gran utilidad, ya que en ese momento fijaste el precio de vuestros productos o servicios según el criterio que os pare ció más conveniente, pero siempre con la certeza de que se cubrirían gastos y se obtendrían un beneficio.
 
 Añade a estos cálculos las previsiones de gastos realizados en la Unidad 4, cuando definiste vuestras necesidades de inversión. Comprueba que los datos resultan coherentes y, en caso contrario, modifica el que no se ajuste.
 
-mÉMmám
+## Suministros y otros gastos recurrentes
 
 Debes incluir, al menos, los siguientes:
 
@@ -4880,6 +4914,8 @@ Debes incluir, al menos, los siguientes:
 
 Se trata, ahora que tu idea ha tomado más concreción, de comprobar que la previsión era correcta y que están incluidas todas las funciones necesarias para la buena marcha de la empresa; por ejemplo, tienes que tener previsto la limpieza de aseos o del local, la limpieza de escaparates o del exterior del establecimiento, transporte de mercancías (si vuestra empresa incluye el reparto), etc.
 
+## Costes salariales
+
 Para fijar el salario del trabajador tienes que tener dos datos en cuenta:
 
 - a) El importe del SMI que siempre debe ser respetado, proporcionalmente al tiempo trabajado.
@@ -4887,7 +4923,9 @@ Para fijar el salario del trabajador tienes que tener dos datos en cuenta:
 
 Puedes simplificar el cálculo fijando un salario que esté por encima de lo que se suele remunerar a un empleado; de esa manera, aseguras su permanencia y su posible negativa a trabajar en un negocio que no está consolidado.
 
-Una vez que tengas estas cifras, debes añadirle el coste de las cuotas empresariales a la Seguridad Social. Como ya aprendiste en FOL, hay que calcular la base de cotización y, sobre ella, aplicar un porcentaje. Sin embargo, para no com plicar el cálculo puedes simplificarlo aplicando un 30% al salario del trabajador. Con eso ya tienes un dato aproximado del coste salarial, que debes incluir en el plan financiero.
+Una vez que tengas estas cifras, debes añadirle el coste de las cuotas empresariales a la Seguridad Social. Como ya aprendiste en FOL, hay que calcular la base de cotización y, sobre ella, aplicar un porcentaje. Sin embargo, para no complicar el cálculo puedes simplificarlo aplicando un 30% al salario del trabajador. Con eso ya tienes un dato aproximado del coste salarial, que debes incluir en el plan financiero.
+
+## Presupuesto de obras o reformas del local
 
 Es habitual que el establecimiento alquilado o adquirido no se ajuste en su totalidad a las necesidades del negocio. Igualmente, es frecuente realizar cambios en su decoración, como el color de las paredes o el tipo de suelo. Por ello, hay que presupuestar también este gasto.
 
@@ -4902,11 +4940,11 @@ A modo de ejemplo, para facilitar el cálculo te ofrecemos algunos datos, bien e
 
 Habría que sumar todos los datos y anotar esta cifra como gastos de acondicionamiento del local.
 
-## |i|ji^^
+## Cálculos de la amortización de préstamos
 
 La amortización, desde una perspectiva financiera, es el proceso por el cual se reduce el importe de una deuda debido al pago periódico de unas cuotas, que incluyen la devolución de parte del préstamo y una parte de los intereses. Estas cuotas suelen ser mensuales y su importe será diferente, según el tipo de amortización previsto al contratar el préstamo.
 
-## · Amortización con cuota constante o método francés
+- Amortización con cuota constante o método francés
 
 En esta modalidad el importe de la cuota es fijo, por lo que se mantiene invariable hasta que se revise el tipo de interés a aplicar (en caso de que se haya firmado un préstamo con tipo de interés variable, que es lo más habitual). En tal caso, una vez al año se calcula la cuota a pagar con el nuevo tipo de interés. Con este sistema, la mayor parte de los intereses del préstamo se pagan al banco durante las primeras cuotas de devolución, de forma que, si en un momento dado se amortizara toda la deuda pendiente, el banco ya habría cobrado una parte importante de sus beneficios.
 
@@ -4916,19 +4954,19 @@ Se puede pactar el mantenimiento de cuota fija, incluso con variaciones en el ti
 
 Esta forma de amortización es la más frecuente en España.
 
-## · Amortización con cuota creciente
+- Amortización con cuota creciente
 
-La cuota va aumentando con el paso del tiempo. Permite pagar menos cantidad al principio, que es cuando más pro blemas de liquidez se tiene, a cambio de incrementar el valor de la cuota según transcurre el tiempo. El problema es que la previsión de gastos hay que ir incrementándola, lo que reduce las posibilidades de contar con un incremento de los beneficios.
+La cuota va aumentando con el paso del tiempo. Permite pagar menos cantidad al principio, que es cuando más problemas de liquidez se tiene, a cambio de incrementar el valor de la cuota según transcurre el tiempo. El problema es que la previsión de gastos hay que ir incrementándola, lo que reduce las posibilidades de contar con un incremento de los beneficios.
 
 Otra opción, si se quiere reducir el peso de la deuda al principio, es negociar un préstamo con carencia, que son aquellos en los que durante un tiempo no se amortiza capital sino solo intereses, razón por la cual al finalizar el tiempo de carencia la cuota se incrementa significativamente.
 
-## · Amortización con cuota decreciente o método alemán
+- Amortización con cuota decreciente o método alemán
 
 La cuota se reduce con el paso del tiempo, debido a que se amortiza en cada pago la misma cantidad de capital y los intereses sobre el dinero pendiente de devolución. Por esa razón, la cuota se va reduciendo, lo que aligera el peso de la deuda y las finanzas de la empresa. A cambio, la carga inicial es alta.
 
-Con el fin de conocer cuál es la cuota mensual a pagar, se han creado las tablas o cuadros de amortización de prés tamo, en la que se concretan los pagos mensuales, aclarando qué parte corresponde a amortización de capital y qué parte al pago de intereses. Hay muchas webs que publican tablas de amortización en blanco para que los usuarios introduzcan sus datos y conozcan así de antemano la previsión de gastos que van a generar. Otra ventaja adicional es que variando el importe a solicitar, el plazo o el tipo de interés, se generan diferentes cuotas, de manera que se puede seleccionar la opción más interesante para cada caso.
+Con el fin de conocer cuál es la cuota mensual a pagar, se han creado las tablas o cuadros de amortización de préstamo, en la que se concretan los pagos mensuales, aclarando qué parte corresponde a amortización de capital y qué parte al pago de intereses. Hay muchas webs que publican tablas de amortización en blanco para que los usuarios introduzcan sus datos y conozcan así de antemano la previsión de gastos que van a generar. Otra ventaja adicional es que variando el importe a solicitar, el plazo o el tipo de interés, se generan diferentes cuotas, de manera que se puede seleccionar la opción más interesante para cada caso.
 
-Te proponemos como ejemplo, consultar el simulador de Bankimia, una web especializada en la comparativa de produc tos financieros, http://www.bankimia.com/simulador-de-hipotecas. Obtendrás una tabla como la que se muestra más abajo. Realiza tantas simulaciones como quieras, sin olvidarte de seleccionar en cada caso la opción Mostrar cuadro de amortización. El resultado será parecido a este que se muestra. Anota la cuota a devolver cada mes para incorporarla en el Plan de tesorería y el resto de documentos.
+Te proponemos como ejemplo, consultar el simulador de Bankimia, una web especializada en la comparativa de productos financieros, http://www.bankimia.com/simulador-de-hipotecas. Obtendrás una tabla como la que se muestra más abajo. Realiza tantas simulaciones como quieras, sin olvidarte de seleccionar en cada caso la opción Mostrar cuadro de amortización. El resultado será parecido a este que se muestra. Anota la cuota a devolver cada mes para incorporarla en el Plan de tesorería y el resto de documentos.
 
 | 1   | 1   | 143,74 € | 13,69€  | 130,05 € | 8069,95 €  | -   |
 | --- | --- | -------- | ------- | -------- | ---------- | --- |
@@ -4949,23 +4987,22 @@ Te proponemos como ejemplo, consultar el simulador de Bankimia, una web especial
 - a) La mayoría utilizan el sistema francés o de cuotas fijas en sus cálculos.
 - b) A los gastos mensuales hay que añadir los gastos iniciales de constitución del préstamo, relativos a notaría, pago de impuestos, etc. En general, se suele prever un 10% del importe del préstamo.
 - c) Estos simuladores no incluyen condiciones particulares que se pueden pactar con un banco, como las comisiones.
-- d) Si el tipo de interés es variable, la cuota cambiará cada vez que se revise el préstamo (una vez al año suele ser lo habitual). Por ello, hay que realizar una provisión de fondos mayor de la estimada para los primeros meses que se actualice la cuota. Si es inferior, ese dinero previsto se podrá emplear en otro gasto, pero es preferible inmovilizar un capital por un tiempo antes que tener que renegociar la deuda. Nuestra fiabilidad como acreedores quedará en entredicho y puede comprometer otros préstamos, créditos o servicios de confirming ofactoring que quera mos contratar con la entidad bancaria.
+- d) Si el tipo de interés es variable, la cuota cambiará cada vez que se revise el préstamo (una vez al año suele ser lo habitual). Por ello, hay que realizar una provisión de fondos mayor de la estimada para los primeros meses que se actualice la cuota. Si es inferior, ese dinero previsto se podrá emplear en otro gasto, pero es preferible inmovilizar un capital por un tiempo antes que tener que renegociar la deuda. Nuestra fiabilidad como acreedores quedará en entredicho y puede comprometer otros préstamos, créditos o servicios de confirming o factoring que queramos contratar con la entidad bancaria.
+- e) El coste del préstamo será más próximo a la TAE (Tasa Anual Equivalente), que al TIN (Tipo de Interés Nominal). Es frecuente que las entidades financieras anuncien e informen, en un primer momento, del TIN a pagar por el préstamo solicitado. Sin embargo, cada préstamo incluye unas condiciones particulares en concepto de comisiones y gastos. La comparación entre una entidad financiera y otra es difícil, razón por la cual es prescriptivo que se informe también sobre la TAE, que sería un porcentaje mayor que el TIN porque incluye estos otros costes.
 
-5. ej El coste del préstamo será más próximo a la TAE (Tasa Anual Equivalente), que al TIN (Tipo de Interés Nominal). Es frecuente que las entidades financieras anuncien e informen, en un primer momento, del TIN a pagar por el préstamo solicitado. Sin embargo, cada préstamo incluye unas condiciones particulares en concepto de comisio nes y gastos. La comparación entre una entidad financiera y otra es difícil, razón por la cual es prescriptivo que se informe también sobre la TAE, que sería un porcentaje mayor que el TIN porque incluye estos otros costes.
-
-Los bancos y cajas están obligados por ley a publicar la TAE de los préstamos, aunque en el caso de tipos de inte rés variables esta cifra variará a medida que el criterio para fijar el interés (que suele ser el Euribor) aumente o descienda. Puedes ampliar esta información en este enlace:
+Los bancos y cajas están obligados por ley a publicar la TAE de los préstamos, aunque en el caso de tipos de interés variables esta cifra variará a medida que el criterio para fijar el interés (que suele ser el Euribor) aumente o descienda. Puedes ampliar esta información en este enlace:
 
 http://www.elblogsalmon.com/conceptos-de-economia/que-es-el-euribor-2
 
 ## Actividad de simulación 1
 
-Recopila todos los datos numéricos calculados en esta primera fase y añádeles los re gistrados en fases anteriores. Todos ellos deben estar incluidos en los tres documentos que componen el Plan financiero, de forma que el proyecto de empresa mantendrá una coherencia constante.
+Recopila todos los datos numéricos calculados en esta primera fase y añádeles los registrados en fases anteriores. Todos ellos deben estar incluidos en los tres documentos que componen el Plan financiero, de forma que el proyecto de empresa mantendrá una coherencia constante.
 
-## Ayuda práctica:
+Ayuda práctica:
 
 Asegúrate de que cuentas, al menos, con los siguientes datos previos elaborados en fases anteriores. Si te faltara alguno es el momento de calcularlo.
 
-- astos de constitución de la empresa.
+- Gastos de constitución de la empresa.
 - Coste de las inversiones a realizar.
 - Alquiler o compra de local, maquinaría, mobiliario, vehículos...
 - Fuentes de financiación: de dónde obtendrás el dinero.
@@ -4996,7 +5033,7 @@ Una empresa compra materia prima en noviembre por valor de un millón de euros. 
 
 En el plan de tesorería de esta compañía no se realizará ninguna anotación en las entradas, ya que no se ha ingresado dinero. En las salidas, se anotará medio millón de euros en noviembre de ese año y se consignará la misma cantidad pendiente de anotación para el mes de febrero del siguiente ejercicio económico.
 
-De manera adicional, el plan de tesorería dará respuesta a estas otras cuestiones:
+## De manera adicional, el plan de tesorería dará respuesta a estas otras cuestiones:
 
 - ¿Tenemos dinero o estamos sin liquidez?
 - ¿Debemos pedir un crédito en algún mes?
@@ -5004,7 +5041,7 @@ De manera adicional, el plan de tesorería dará respuesta a estas otras cuestio
 - ¿Estamos en riesgo de impago y, por tanto, de no poder ser abastecidos por los proveedores?
 - ¿Estamos en riesgo de no pagar los suministros necesarios para el funcionamiento normal?
 - ¿Tenemos asegurado el pago de nóminas?
-- ¿Tenemos exceso de liquidez y deberíamos contratar algún producto financiero para obte ner alguna rentabilidad?
+- ¿Tenemos exceso de liquidez y deberíamos contratar algún producto financiero para obtener alguna rentabilidad?
 - ¿Es buen momento para realizar obras o comprar algún activo fijo?
 - ¿Es viable la empresa desde un punto de vista financiero?
 
@@ -5023,17 +5060,17 @@ Una vez consignados todos los datos, habrá que realizar los siguientes pasos:
 
 Elabora el plan de tesorería de vuestra empresa, crea una tabla Excel para facilitar el cálculo. Extrae después conclusiones que estén fundamentadas en los datos obtenidos.
 
-## Ayuda práctica:
+Ayuda práctica:
 
-- a) Registra cada dato en el mes que se produzca, teniendo en cuenta que solo se ano tarán los ingresos y los gastos efectivos, en lugar de anotar compras que no se han pagado o ventas que no se han cobrado. Recuerda que si alguna cantidad no se ha pa gado o no se ha cobrado, no se anotará, aunque se haya realizado la transacción co mercial. Se impone el principio de prudencia, para no realizar anotaciones antes de tiempo.
+- a) Registra cada dato en el mes que se produzca, teniendo en cuenta que solo se anotarán los ingresos y los gastos efectivos, en lugar de anotar compras que no se han pagado o ventas que no se han cobrado. Recuerda que si alguna cantidad no se ha pagado o no se ha cobrado, no se anotará, aunque se haya realizado la transacción comercial. Se impone el principio de prudencia, para no realizar anotaciones antes de tiempo.
 - b) En las tablas no se incluye el signo € porque es innecesario, además podría inducir a error si se confunde con un dato numérico.
-- c) El valor de la maquinaria o de los ordenadores se registra en su totalidad, con indepen dencia de cuánto tiempo de vida útil tenga el elemento adquirido.
+- c) El valor de la maquinaria o de los ordenadores se registra en su totalidad, con independencia de cuánto tiempo de vida útil tenga el elemento adquirido.
 - d) En el alquiler de locales es habitual incluir una fianza equivalente a dos meses de importe. Este dinero será custodiado por el arrendador y devuelto a la finalización del contrato si no se han producido daños en la instalación. A pesar de que es una cantidad que se espera recuperar, debe anotarse por tratarse de un dinero del que no disponemos.
 - e) Existen aplicaciones informáticas creadas para facilitar la tarea contable. Algunas de ellas son gratuitas y pueden ser útiles al inicio de la actividad emprendedora, cuando la contabilidad es sencilla de llevar.
 - f) En tal caso, también puede ser útil la confección personal de tus propias hojas de cálculo, sencillas y personalizadas a tu interés.
 - g) Una vez tengáis una hoja de cálculo preparada, incluid todas las entradas y las salidas de dinero en el momento que se produzcan. Aunque es una simulación virtual, esta actividad te servirá para tener un acercamiento a uno de los problemas de la realidad emprendedora: prever todos los gastos e ingresos durante un año para, en función de eso, seguir adelante o no con el proyecto empresarial.
 
-Para que tengas una referencia, a continuación se proponen dos Casos prácticos sobre la ela boración del plan de tesorería de dos empresas distintas, con sus correspondientes soluciones. Es aconsejable, antes de empezar a elaborar el plan de tesorería de vuestra empresa, intentar resolver lo que pide el enunciado antes de consultar la solución, de este modo se pueden observar los errores producidos y las confusiones que se tienen.
+Para que tengas una referencia, a continuación se proponen dos Casos prácticos sobre la elaboración del plan de tesorería de dos empresas distintas, con sus correspondientes soluciones. Es aconsejable, antes de empezar a elaborar el plan de tesorería de vuestra empresa, intentar resolver lo que pide el enunciado antes de consultar la solución, de este modo se pueden observar los errores producidos y las confusiones que se tienen.
 
 ## Caso práctico 1. Aurora Moreno, S.LU. (Parte 1: Plan de tesorería)
 
@@ -5043,7 +5080,7 @@ Realiza unas obras en el local por valor de 14000 euros pero las paga en dos pla
 
 Los ingresos por ventas previstas son de 2 000 euros de febrero a mayo y, a partir de ahí, 5 000 euros hasta noviembre, incluido. En diciembre los ingresos y los gastos aumentan, ya que rea liza una compra de maquinaria nueva, por valor de 15 000 euros, y eso le permite incrementar la facturación a 50000 euros en ese mes. Cada mes compra 3000 euros de materia prima, salvo en diciembre, que asciende a 100000 euros.
 
-Contrata a dos trabajadores a cada uno de los cuales asigna un sueldo de 1000 euros netos mensuales, a los que hay que añadir el coste de 125 euros mensuales, por cada uno, en con cepto de cotización a la Segundad Social. Durante los meses de junio y diciembre estas cifras se duplican por tener que abonarles la paga extra. Aurora, de momento, no se ha fijado salario, esperará a final de año para asignarse una parte de los beneficios de la empresa.
+Contrata a dos trabajadores a cada uno de los cuales asigna un sueldo de 1000 euros netos mensuales, a los que hay que añadir el coste de 125 euros mensuales, por cada uno, en concepto de cotización a la Segundad Social. Durante los meses de junio y diciembre estas cifras se duplican por tener que abonarles la paga extra. Aurora, de momento, no se ha fijado salario, esperará a final de año para asignarse una parte de los beneficios de la empresa.
 
 En Suministros abona 800 euros todos los meses, salvo en diciembre, que se incrementan a 3 200 euros.
 
@@ -5053,8 +5090,9 @@ Con estos datos elabora el Plan de tesorería.
 
 ## Solución:
 
-| Aportaciones de la empresaria                |     | 100000 |        |        |        |        |       |       |       |       |       |        |
+| -------------------------------------------- | ENE | FEB    | MAR    | ABR    | MAY    | JUN    | JUL   | AGO   | SEP   | OCT   | NOV   | DIC    |
 | -------------------------------------------- | --- | ------ | ------ | ------ | ------ | ------ | ----- | ----- | ----- | ----- | ----- | ------ |
+| Aportaciones de la empresaria                |     | 100000 |        |        |        |        |       |       |       |       |       |        |
 | Préstamos solicitados                        |     | 40000  |        |        |        |        |       |       |       |       |       |        |
 | Ventas                                       |     | 2000   | 2000   | 2000   | 2000   | 5000   | 5000  | 5000  | 5000  | 5000  | 5000  | 50000  |
 | Intereses de la cuenta bancaria              |     |        |        |        |        |        |       |       |       |       |       |        |
@@ -5081,48 +5119,43 @@ Con estos datos elabora el Plan de tesorería.
 
 Julio y Miguel Martínez han decidido montar su propio negocio. En el planteamiento de este Caso práctico vamos a hacer un doble proceso. Anotaremos los ingresos y gastos que han ido teniendo a partir de los datos contenidos en su Plan de tesorería. Después, aprovecharemos esos datos para confeccionar su Plan de tesorería sin mirar los resultados.
 
-| Aportaciones de los empresarios              | 60000  |        |        |        |        |        |        |        |        |        |        |         |
-| -------------------------------------------- | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------- |
-| Préstamos solicitados                        | 90000  |        |        |        |        |        |        |        |        |        |        |         |
-| Ventas ^                                     | 10000  | 20000  | 14000  | 19000  | 10000  | 12000  | 14000  | 8000   | 10000  | 12000  | 23000  | 13000   |
-| Intereses de la cuenta bancada               | 4      | 4      | 4      |        |        |        |        |        | 4      | 4      | 4      | 4       |
-| Otros ingresos                               |        |        |        |        |        |        |        |        |        |        |        |         |
-| Total entradas                               | 160004 | 20004  | 14004  | 19004  | 10004  | 12004  | 14004  | 8004   | 10004  | 12004  | 23004  | 13004   |
-| Compra activo fijo (maquinaria, ordenadores) | 12000  |        |        |        |        |        |        |        |        |        |        |         |
-| Compra proveedores (materia prima)           | 5000   | 5000   | 5000   | 5000   | 5000   | 5000   | 5000   | 5000   | 5000   | 5000   | 5000   | 5000    |
-| Fianza                                       | 2000   |        |        |        |        |        |        |        |        |        |        |         |
-| Alquiler                                     | 1000   | 1000   | 1000   | 1000   | 1000   | 1000   | 1000   | 1000   | 1000   | 1000   | 1000   | 1000    |
-| Seguros                                      | 950    |        |        |        |        |        |        |        |        |        |        |         |
-| Devolución de préstamo                       |        |        | 3000   |        |        | 3000   |        |        | 3000   |        |        | 3000    |
-| Devolución de intereses                      |        |        | 150    |        |        | 150    |        |        | 150    |        |        | 150     |
-| Sueldos                                      | 2600   | 2600   | 2600   | 2600   | 2600   | 5200   | 2600   | 2600   | 2600   | 2600   | 2600   | 5200    |
-| Cotización a la Seg. Soc.                    | 300    | 300    | 300    | 300    | 300    | 600    | 300    | 300    | 300    | 300    | 300    | 600     |
-| Suministros: agua, luz, teléfono, etc.       | 630    | 630    | 630    | 630    | 630    | 630    | 630    | 630    | 630    | 630    | 630    | 630     |
-| Publicidad                                   | 2400   |        |        |        |        |        |        |        |        |        |        | 7600    |
-| Tributos (impuestos)                         | 1000   | 0      | 0      | 0      | 0      | 0      | 1000   | 0      | 0      | 0      | 0      | 0       |
-| Obras                                        |        |        |        |        |        |        |        |        |        |        |        |         |
-| Total salidas                                | 27880  | $530   | 12680  | 9530   | 9530   | 15580  | 10530  | 9530   | 12680  | 9530   | 9530   | 23180   |
-| Entradas-salidas(2)                          | 132124 | 10474  | 1324   | 9474   | 474    | -3S76  | 3474   | -1526  | -2676  | 2474   | 13474  | -10176  |
-| Saldo en el banco'3'                         | 132124 | 142598 | 143922 | 153396 | 153870 | 150294 | 153768 | 152242 | 149566 | 152040 | 165514 | 155338W |
+| -------------------------------------------- | ENE    | FEB    | MAR    | ABR    | MAY    | JUN    | JUL    | AGO    | SEP    | OCT    | NOV    | DIC       |
+| -------------------------------------------- | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | --------- |
+| Aportaciones de los empresarios              | 60000  |        |        |        |        |        |        |        |        |        |        |           |
+| Préstamos solicitados                        | 90000  |        |        |        |        |        |        |        |        |        |        |           |
+| Ventas (1)                                   | 10000  | 20000  | 14000  | 19000  | 10000  | 12000  | 14000  | 8000   | 10000  | 12000  | 23000  | 13000     |
+| Intereses de la cuenta bancaria              | 4      | 4      | 4      | 4      | 4      | 4      | 4      | 4      | 4      | 4      | 4      | 4         |
+| Otros ingresos                               |        |        |        |        |        |        |        |        |        |        |        |           |
+| Total entradas                               | 160004 | 20004  | 14004  | 19004  | 10004  | 12004  | 14004  | 8004   | 10004  | 12004  | 23004  | 13004     |
+| Compra activo fijo (maquinaria, ordenadores) | 12000  |        |        |        |        |        |        |        |        |        |        |           |
+| Compra proveedores (materia prima)           | 5000   | 5000   | 5000   | 5000   | 5000   | 5000   | 5000   | 5000   | 5000   | 5000   | 5000   | 5000      |
+| Fianza                                       | 2000   |        |        |        |        |        |        |        |        |        |        |           |
+| Alquiler                                     | 1000   | 1000   | 1000   | 1000   | 1000   | 1000   | 1000   | 1000   | 1000   | 1000   | 1000   | 1000      |
+| Seguros                                      | 950    |        |        |        |        |        |        |        |        |        |        |           |
+| Devolución de préstamo                       |        |        | 3000   |        |        | 3000   |        |        | 3000   |        |        | 3000      |
+| Devolución de intereses                      |        |        | 150    |        |        | 150    |        |        | 150    |        |        | 150       |
+| Sueldos                                      | 2600   | 2600   | 2600   | 2600   | 2600   | 5200   | 2600   | 2600   | 2600   | 2600   | 2600   | 5200      |
+| Cotización a la Seg. Soc.                    | 300    | 300    | 300    | 300    | 300    | 600    | 300    | 300    | 300    | 300    | 300    | 600       |
+| Suministros: agua, luz, teléfono, etc.       | 630    | 630    | 630    | 630    | 630    | 630    | 630    | 630    | 630    | 630    | 630    | 630       |
+| Publicidad                                   | 2400   |        |        |        |        |        |        |        |        |        |        | 7600      |
+| Tributos (impuestos)                         | 1000   | 0      | 0      | 0      | 0      | 0      | 1000   | 0      | 0      | 0      | 0      | 0         |
+| Obras                                        |        |        |        |        |        |        |        |        |        |        |        |           |
+| Total salidas                                | 27880  | $530   | 12680  | 9530   | 9530   | 15580  | 10530  | 9530   | 12680  | 9530   | 9530   | 23180     |
+| Entradas-salidas (2)                         | 132124 | 10474  | 1324   | 9474   | 474    | -3576  | 3474   | -1526  | -2676  | 2474   | 13474  | -10176    |
+| Saldo en el banco (3)                        | 132124 | 142598 | 143922 | 153396 | 153870 | 150294 | 153768 | 152242 | 149566 | 152040 | 165514 | 155338(4) |
 
-(1) datos de interpretación
-
-1,
-
-(2) datos de interpretación 2,
-
-(3) datos de interpretación 3,
-
+(1) datos de interpretación 1
+(2) datos de interpretación 2
+(3) datos de interpretación 3
 (4) datos de interpretación 4
 
 ## Interpretación de los datos obtenidos en el plan de tesorería de Julio y Miguel Martínez, S.L
 
 1. Las cifras de ventas han ido creciendo, salvo en los meses finales del año. Habrá que analizar la razón de este descenso y, en función de ello, establecer medidas correctoras.
-2. En este caso, los socios creen que se debe al aumento de las compras navideñas, ya que conlleva una disminución del gasto en otros aspectos menos necesarios, como es el tu neado. Se proponen lanzar algún tipo de oferta para el año como descuentos o acumula ción de puntos y canjearlo por un regalo de Reyes Magos.
-3. La fila de Entradas-Salidas muestra que todos los meses los ingresos han ido cubriendo los gastos, salvo el mes de junio, en que los gastos superaron los ingresos. Esto se debe a la carga que supone la amortización de una parte del préstamo de forma anual y al incre mento de los costes salariales, debido a que en estos meses se abonan las pagas extras. No se puede establecer ninguna medida correctiva para ahorrar costes en este caso.
-
-4. El dato final de Saldo en el banco informa de que ningún mes ha habido problemas de liquidez, por lo que no ha sido necesario acudir a fuentes de financiación externa. Sin embargo, tienen abierta una línea de crédito con su entidad bancaria, ya que la apertura y el mantenimiento no tiene ningún coste financiero y será de ayuda para cubrir posibles imprevistos o una reducción drástica e inesperada de la facturación.
-5. A pesar de finalizar con un saldo positivo de 155 338 euros, hay que tener en cuenta que, entre el capital social y el importe del préstamo, la empresa se inició con 60000 euros, además de que hay una deuda pendiente de devolución por valor de 78000 (= 90000 - 12000), por tanto, hay que ser prudentes a la hora de dar uso a este exceso de liquidez.
+   En este caso, los socios creen que se debe al aumento de las compras navideñas, ya que conlleva una disminución del gasto en otros aspectos menos necesarios, como es el tuneado. Se proponen lanzar algún tipo de oferta para el año como descuentos o acumulación de puntos y canjearlo por un regalo de Reyes Magos.
+2. La fila de Entradas-Salidas muestra que todos los meses los ingresos han ido cubriendo los gastos, salvo el mes de junio, en que los gastos superaron los ingresos. Esto se debe a la carga que supone la amortización de una parte del préstamo de forma anual y al incremento de los costes salariales, debido a que en estos meses se abonan las pagas extras. No se puede establecer ninguna medida correctiva para ahorrar costes en este caso.
+3. El dato final de Saldo en el banco informa de que ningún mes ha habido problemas de liquidez, por lo que no ha sido necesario acudir a fuentes de financiación externa. Sin embargo, tienen abierta una línea de crédito con su entidad bancaria, ya que la apertura y el mantenimiento no tiene ningún coste financiero y será de ayuda para cubrir posibles imprevistos o una reducción drástica e inesperada de la facturación.
+4. A pesar de finalizar con un saldo positivo de 155 338 euros, hay que tener en cuenta que, entre el capital social y el importe del préstamo, la empresa se inició con 60000 euros, además de que hay una deuda pendiente de devolución por valor de 78000 (= 90000 - 12000), por tanto, hay que ser prudentes a la hora de dar uso a este exceso de liquidez.
 
 ## Fase 3. Elaboración de la cuenta de resultados o cuenta de pérdidas y ganancias
 
@@ -5132,24 +5165,24 @@ La cuenta de resultados o cuenta de pérdidas y ganancias es el documento contab
 - Las pérdidas son operaciones que disminuyen el valor patrimonial de la empresa, por lo que la empresa buscará recuperar o compensar esa merma. En este segundo caso, el valor de la empresa es menor que al iniciar el ejercicio, de manera que si los socios quisieran vender sus participaciones o acciones, estas tendrían menos valor.
 - El resultado ordinario será la cantidad resultante de descontar los gastos a los ingresos, bien entendido que solo se habrán anotado aquellos que supongan ganancia o pérdida de patrimonio para la empresa. Puede venir expresado también como resultados recurrentes.
 
-El dato que los analistas suelen preferir para analizar los resultados empresariales y su evolu ción es el de Beneficio antes de intereses e impuestos (BASI), aunque es más conocido por sus siglas en inglés: EBIT o Eamings Befare Interest andTaxes.
+El dato que los analistas suelen preferir para analizar los resultados empresariales y su evolución es el de Beneficio antes de intereses e impuestos (BASI), aunque es más conocido por sus siglas en inglés: EBIT o Earnings Before Interest and Taxes.
 
 Con la intención de permitir un análisis más profundo sobre las causas de estos resultados, los datos se presentan diferenciados según se deban al resultado de explotación o al resultado financiero.
 
-- Resultado de explotación. Son los originados por el desarrollo de las actividades ordina rias de la empresa, es decir, por la actividad mercantil propia de la empresa.
+- Resultado de explotación. Son los originados por el desarrollo de las actividades ordinarias de la empresa, es decir, por la actividad mercantil propia de la empresa.
 - Resultado financiero. Son los generados por las inversiones financieras de la empresa y por la financiación ajena de la empresa.
 
 ## Ejemplo 6. Anotaciones en la cuenta de resultados
 
 Una empresa que compra materias primas por valor de un millón de euros y abona solo la mi tad, tiene que efectuar estas anotaciones.
 
-En la cuenta de resultados de ese ejercicio no se realizará ninguna anotación en ingresos, pero en astos se registrará el millón de euros, puesto que supone una pérdida, aunque no se haya pagado.
+En la cuenta de resultados de ese ejercicio no se realizará ninguna anotación en ingresos, pero en gastos se registrará el millón de euros, puesto que supone una pérdida, aunque no se haya pagado.
 
-Se incluye la cantidad total porque es el gasto que supone para la empresa y hay que cons tatarlo porque representa una pérdida de su patrimonio. Si no se hiciera así, el dato contable induciría a error. Por ejemplo, si solo hubiéramos detallado medio millón de euros como astos y, supongamos, que en el resultado final tuviéramos 400000 euros, esto nos haría creer que hemos tenido beneficios por ese valor, pero es un dato erróneo, ya que tenemos una deuda de medio millón. Por el contrario, es mucho más exacto contar con el resultado negativo final de -100000 euros.
+Se incluye la cantidad total porque es el gasto que supone para la empresa y hay que constatarlo porque representa una pérdida de su patrimonio. Si no se hiciera así, el dato contable induciría a error. Por ejemplo, si solo hubiéramos detallado medio millón de euros como gastos y, supongamos, que en el resultado final tuviéramos 400000 euros, esto nos haría creer que hemos tenido beneficios por ese valor, pero es un dato erróneo, ya que tenemos una deuda de medio millón. Por el contrario, es mucho más exacto contar con el resultado negativo final de -100000 euros.
 
-La cuenta de resultados tiene como finalidad fundamental conocer con anticipación si ob tendremos beneficios o pérdidas y si estas se deberán a la actividad empresarial o a cues tiones financieras. Adicionalmente, los datos nos ofrecerán información que dará respuesta a estos interrogantes:
+La cuenta de resultados tiene como finalidad fundamental conocer con anticipación si ob tendremos beneficios o pérdidas y si estas se deberán a la actividad empresarial o a cuestiones financieras. Adicionalmente, los datos nos ofrecerán información que dará respuesta a estos interrogantes:
 
-Tabla 5.5. Información adicional que ofrece la cuenta de resultados.
+## Tabla 5.5. Información adicional que ofrece la cuenta de resultados.
 
 | ¿Se gana o se pierde cuota de mercado?                    | Respuesta deducible según la evolución de las ventas.                                                       |
 | --------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
@@ -5161,13 +5194,13 @@ Tabla 5.5. Información adicional que ofrece la cuenta de resultados.
 | ¿Se pueden reducir las pérdidas?                          | Analizando cómo disminuir los gastos.                                                                       |
 | ¿Es viable la empresa, desde un punto de vista económico? | Según la evolución de los datos en tres años.                                                               |
 
-Para elaborar una cuenta de resultados prevlsional se tienen en cuenta los datos obtenidos en el plan de tesorería, si bien, no todos se incluirán. Solo se registran los datos que producen un incremento o decremento de patrimonio en la empresa, por ejemplo, si mi familia me presta 100000 euros, no anotaré nada ya que no se trata de una ganancia, sino de una canti dad que será devuelta. Es por este motivo que no todos los datos que aparecen en el plan de tesorería tienen su correlato en la cuenta de resultados.
+Para elaborar una cuenta de resultados previsional se tienen en cuenta los datos obtenidos en el plan de tesorería, si bien, no todos se incluirán. Solo se registran los datos que producen un incremento o decremento de patrimonio en la empresa, por ejemplo, si mi familia me presta 100000 euros, no anotaré nada ya que no se trata de una ganancia, sino de una cantidad que será devuelta. Es por este motivo que no todos los datos que aparecen en el plan de tesorería tienen su correlato en la cuenta de resultados.
 
 ## Ejemplo 7. Elementos del plan de tesorería en la cuenta de resultados
 
 Para ayudarte a entender mejor el sentido de la cuenta de resultados, puedes ir razonando en cada elemento del plan de tesorería si debería aparecer reflejado en la cuenta de resultados o no.
 
-- El préstamo recibido por un banco no debe incluirse ya que ese dinero no supone una ga nancia, puesto que habrá de ser devuelto. En cambio, los intereses sí suponen una pérdida y sí deben constatarse.
+- El préstamo recibido por un banco no debe incluirse ya que ese dinero no supone una ganancia, puesto que habrá de ser devuelto. En cambio, los intereses sí suponen una pérdida y sí deben constatarse.
 
 - Un razonamiento similar al anterior podemos atribuirlo al por qué no se incluye el capital social aportado en este documento.
 - El alquiler de un local se anotaría, ya que supone una pérdida, no así la fianza que, con el tiempo, se recuperará. En caso de no hacerlo, sí habría que anotar este montante de dinero como pérdida.
@@ -5182,7 +5215,7 @@ Amortización, desde una perspectiva financiera, es la reducción gradual de una
 
 Elabora la cuenta de resultados de tu empresa creando una tabla Excel,y luego extrae las conclusiones que se desprenden.
 
-## Ayuda práctica:
+Ayuda práctica:
 
 Para elaborar la cuenta de resultados de vuestra empresa, retoma el plan de tesorería y razona qué datos deberían incluirse en la cuenta de resultados. La pregunta clave para determinar si los datos deben ser incluidos o no es: ¿produce un beneficio o una pérdida o ninguna de ellas, ya que el dinero se devolverá o recuperará más adelante?
 
@@ -5190,7 +5223,7 @@ Recuerda que los datos que se incluyen son anuales, por lo que tienes que realiz
 
 Y no olvides anotar el valor de las amortizaciones para los activos fijos u ordenadores adquiridos. Para ello, es preciso conocer el dato de que el activo fijo se amortizará en diez años, lo que significa que la maquinaria tendrá una vida útil de diez años y, por ello, se reparte su coste proporcionalmente cada año. Es una manera de reflejar la pérdida de va lor o depreciación del bien. En este caso, al adquirir maquinaria por 15 000 euros, durante diez años se anotaría en la casilla de amortización los 1 500 (= 15000 / 10)
 
-A continuación se propone la resolución de las cuentas de resultados de los dos Casos prácti cos resueltos en los planes de tesorería, para que tengáis una referencia concreta. El consejo, igual que antes, es que tratéis de realizarlos vosotros solos antes de consultar la solución.
+A continuación se propone la resolución de las cuentas de resultados de los dos Casos prácticos resueltos en los planes de tesorería, para que tengáis una referencia concreta. El consejo, igual que antes, es que tratéis de realizarlos vosotros solos antes de consultar la solución.
 
 ## Caso práctico 1. Aurora Moreno, S.LU. (Parte 2: Cuenta de resultados previsional)
 
@@ -5198,7 +5231,7 @@ A continuación se propone la resolución de las cuentas de resultados de los do
 | ------------------------------- | ------ |
 | Intereses de la cuenta bancaria |        |
 | Ingresos financieros            | 0      |
-| astos                           |        |
+| Gastos                          |        |
 | Compras de materias primas      | 130000 |
 | Alquiler                        | 0      |
 | Seguros                         | 0      |
@@ -5206,14 +5239,14 @@ A continuación se propone la resolución de las cuentas de resultados de los do
 | Suministros                     | 11200  |
 | Tributos (impuestos)            | 2000   |
 | Sueldos de personal             | 26000  |
-| astos de Seguridad Social       | 3250   |
+| Gastos de Seguridad Social      | 3250   |
 | Amortizaciones                  | 1500   |
-| astos de explotación            | 178450 |
+| Gastos de explotación           | 178450 |
 | Intereses de préstamos          | 2200   |
-| astos financieros               | 2200   |
+| Gastos financieros              | 2200   |
 | Resultado de explotación        | -90450 |
 | Resultado financiero            | -2200  |
-| Resultado final                 | «92650 |
+| Resultado final                 | -92650 |
 
 ## Caso práctico 2. Julio y Miguel Martínez, S.L (Parte 2: Cuenta de resultados previsional)
 
@@ -5221,7 +5254,7 @@ A continuación se propone la resolución de las cuentas de resultados de los do
 | ------------------------------- | --------- |
 | Intereses de la cuenta bancaria |           |
 | Ingresos financieros            | 48        |
-| astos                           |           |
+| Gastos                          |           |
 | Compras de materias primas      | 60000     |
 | Alquiler                        | 12000     |
 | Seguros                         | 950       |
@@ -5229,35 +5262,36 @@ A continuación se propone la resolución de las cuentas de resultados de los do
 | Suministros                     | 7560      |
 | Tributos (impuestos)            | 2000      |
 | Sueldos de personal             | 36400     |
-| astos de Seguridad Social       | 4200      |
+| Gastos de Seguridad Social      | 4200      |
 | Amortizaciones                  | 1200      |
-| astos de explotación            | 134310    |
+| Gastos de explotación           | 134310    |
 | Intereses de préstamos          | 600       |
-| astos financieros               | 600       |
-| Resultado de explotación        | 30690 <1> |
-| Resultado financiero            | - 552 &   |
-| Resultado final                 | 30138 (3> |
+| Gastos financieros              | 600       |
+| Resultado de explotación        | 30690 (1) |
+| Resultado financiero            | - 552 (2) |
+| Resultado final                 | 30138 (3) |
 
+(1) datos de interpretación 1,
 (2) datos de interpretación 2,
-
 (3) datos de interpretación 3
 
-## Interpretación de los datos obtenidos en la cuenta de resultados de Julio y Miguel Mar tínez, SI.
+## Interpretación de los datos obtenidos en la cuenta de resultados de Julio y Miguel Martínez, S.L
 
 1. Como puede observarse, el resultado final es positivo, lo que significa que la empresa está obteniendo beneficios.
 
-- a) Este dato debería contrastarse con el de años anteriores, para comprobar si la ten dencia es alcista o si, por el contrario, a pesar de haber obtenido ganancias estas han disminuido.
+- a) Este dato debería contrastarse con el de años anteriores, para comprobar si la tendencia es alcista o si, por el contrario, a pesar de haber obtenido ganancias estas han disminuido.
 - b) También debe compararse con el contexto, ya que no es lo mismo este resultado en una época de crisis generalizada, como la actual, que en un momento de expansión económica.
-- c) El valor de esta cifra debe analizarse bajo el prisma de la situación propia de la em presa, ya que una empresa de reciente creación podría tener un resultado deficitario el primer año y estar dentro de lo esperable.
+- c) El valor de esta cifra debe analizarse bajo el prisma de la situación propia de la empresa, ya que una empresa de reciente creación podría tener un resultado deficitario el primer año y estar dentro de lo esperable.
 
 2. El resultado de explotación es positivo, lo que significa que los buenos resultados se deben a la actividad de la empresa en sí misma.
+
 3. El resultado financiero es negativo, lo que entra dentro de lo esperable, puesto que la mayoría de las empresas utilizan financiación ajena que hay que devolver. Sin embargo, el valor del resultado financiero es insignificante en comparación con el resultado de explotación, lo que significa que la empresa puede cubrir sin dificultades esta deuda. Un resultado positivo implicaría dos posibilidades: una, que la empresa no tiene pendiente de pago ninguna deuda y además tiene saldo positivo en el banco; dos, que los intereses por el dinero invertido son mayores a los que se pagan por el dinero prestado, por lo que la gestión financiera de la empresa está siendo excelente.
 
 ## Fase 4. Elaboración del Balance de situación
 
-El Balance de situación es el documento contable que refleja los activos y los pasivos de la empresa, que resume el patrimonio de la empresa, de manera que siempre muestra un equi librio entre sus posesiones y sus deudas. Se representa con una sencilla fórmula:
+El Balance de situación es el documento contable que refleja los activos y los pasivos de la empresa, que resume el patrimonio de la empresa, de manera que siempre muestra un equilibrio entre sus posesiones y sus deudas. Se representa con una sencilla fórmula:
 
-## Activo - Patrimonio neto - Pasivo
+- Activo = Patrimonio neto - Pasivo
 
 Que traducido en palabras expresaría esta relación: «lo que se posee = lo que se tiene - lo que se debe».
 
@@ -5269,7 +5303,7 @@ Continuando con el ejemplo de la empresa que compró materias primas por valor d
 
 - En el Activo se incluiría el millón de euros, ya que las materias primas han pasado a formar parte del patrimonio de la empresa.
 
-- En el Pasivo, también se anotaría el millón de euros, ya que el pago de esta cantidad se habrá obtenido o bien de los recursos propios de la empresa o bien a través de algún meca nismo de financiación, por lo que representará una deuda de la compañía.
+- En el Pasivo, también se anotaría el millón de euros, ya que el pago de esta cantidad se habrá obtenido o bien de los recursos propios de la empresa o bien a través de algún mecanismo de financiación, por lo que representará una deuda de la compañía.
 
 De esta manera, el balance refleja siempre un equilibrio entre el activo y el pasivo.
 
@@ -5279,19 +5313,20 @@ El balance es muy útil para tener una fotografía sencilla del estado patrimoni
 
 Tabla 5.6. Balance de situación de Zinkia antes de su salida a bolsa en julio de 2009.
 
-| Activo no corriente   | 13206825 €   | 12048414€   |
-| --------------------- | ------------ | ----------- |
-| Activo corriente      | 6549401 €    | 5972202 €   |
-| TotalActivo           | 19756226 €   | 18020616€   |
-| Patrimonio neto       | 6534609 €    | 11843891 €  |
-| Pasivo no corriente   | 2763212€     | 2 751 842 € |
-| Pasivo corriente      | 10458 404 €  | 3 424884 €  |
-| total recursos ajenos | 13221616C    | 6176J26€    |
-| Fondo de maniobra     | -3 903 003 € | 2547318€    |
+| Balance (en euros)    | Previsión 2009 | Real 2009  |
+| --------------------- | -------------- | ---------- |
+| Activo no corriente   | 13206825 €     | 12048414€  |
+| Activo corriente      | 6549401 €      | 5972202 €  |
+| TotalActivo           | 19756226 €     | 18020616€  |
+| Patrimonio neto       | 6534609 €      | 11843891 € |
+| Pasivo no corriente   | 2763212€       | 2751842 €  |
+| Pasivo corriente      | 10458404 €     | 3424884 €  |
+| total recursos ajenos | 13221616C      | 6176J26€   |
+| Fondo de maniobra     | -3903003 €     | 2547318€   |
 
 Fuente: http://www.rankia.com/blog/mab/etiquetas/zinkia-znk
 
-De manera general, se obtendrá respuesta a estas cuestiones.
+## De manera general, se obtendrá respuesta a estas cuestiones.
 
 - ¿Cuál es el patrimonio de la empresa?
 - ¿Cuál es su nivel de endeudamiento?
@@ -5304,48 +5339,108 @@ De manera general, se obtendrá respuesta a estas cuestiones.
 
 Un elemento de gran relevancia a calcular es el fondo de maniobra. Se basa en un supuesto lógico que no es del todo correcto: si el activo representa las inversiones y el pasivo el dinero empleado para ello, entonces el activo corriente debe financiarse con pasivo corriente y el activo fijo debe utilizar como financiación el pasivo a largo plazo, es decir, el patrimonio neto y el activo no corriente. Sin embargo, no es así.
 
-Por ese motivo, parte del activo corriente se financia con pasivo no corriente. Cuanto mayor sea este montante más margen de actuación tendrá la empresa, razón por lo que esta canti dad se denomina fondo de maniobra.
+Por ese motivo, parte del activo corriente se financia con pasivo no corriente. Cuanto mayor sea este montante más margen de actuación tendrá la empresa, razón por lo que esta cantidad se denomina fondo de maniobra.
 
-El fondo de maniobra es el excedente de activos corrientes frente a los pasivos corrien tes. Es una medida de la capacidad que tiene una empresa para continuar con el normal desarrollo de sus actividades en el corto plazo. Se calcula restando, al total de activos de corto plazo, el total de pasivos de corto plazo.
+El fondo de maniobra es el excedente de activos corrientes frente a los pasivos corrientes. Es una medida de la capacidad que tiene una empresa para continuar con el normal desarrollo de sus actividades en el corto plazo. Se calcula restando, al total de activos de corto plazo, el total de pasivos de corto plazo.
 
 ## Ejemplo 10. Ejemplos de fondo de maniobra
 
-Un retraso en el cobro de las deudas a corto plazo podría suponer una paralización de la acti vidad económica por no disponer de fondos para adquirir nuevas materias primas. Asimismo, una reducción de las ventas incrementaría el coste financiero de la deuda inmediata que hay que devolver.
+Un retraso en el cobro de las deudas a corto plazo podría suponer una paralización de la actividad económica por no disponer de fondos para adquirir nuevas materias primas. Asimismo, una reducción de las ventas incrementaría el coste financiero de la deuda inmediata que hay que devolver.
 
 ## Actividad de simulación 4
 
-Elabora el balance de tu empresa creando una tabla Excel,y luego extrae las conclusiones que se desprenden.
+Elabora el balance de tu empresa creando una tabla Excel, y luego extrae las conclusiones que se desprenden.
 
-## Ayuda práctica:
+Ayuda práctica:
 
-- a) A la hora de enfrentarte a la confección de vuestro balance de empresa, debes dife renciar entre activos y pasivos. La clave es discernir si forman parte del patrimonio de la empresa o son derechos de cobro, lo que constituirá el Activo, y cuáles suponen una deuda, que se anotarán en la columna de Pasivo.
-- b) Después, hay que ordenar los datos en cada columna. Para los activos, se considerará qué elementos tienen más dificultad en convertirse en líquido y, sobre esa base, se anotarán de arriba abajo. Por ejemplo, una patente es menos líquida que el stock acu mulado, razón por la que se anotará más arriba. De esta manera, el dinero en efectivo (el dato final del plan de tesorería) siempre está en la parte inferior y los inmuebles en la parte superior.
-- c) En el caso del Pasivo se tendrá en cuenta si la deuda es a largo o corto plazo, para decidir el orden de colocación de arriba abajo. Así, el capital aportado por los socios se situará en la parte superior, ya que es una deuda permanente, mientras que el dinero pendiente de pago a proveedores se situará en la parte inferior. De la misma manera, las reservas se situarán en la parte superior del pasivo y ese dato se obtiene del resul tado final de la cuenta de ganancias y pérdidas.
+- a) A la hora de enfrentarte a la confección de vuestro balance de empresa, debes diferenciar entre activos y pasivos. La clave es discernir si forman parte del patrimonio de la empresa o son derechos de cobro, lo que constituirá el Activo, y cuáles suponen una deuda, que se anotarán en la columna de Pasivo.
+- b) Después, hay que ordenar los datos en cada columna. Para los activos, se considerará qué elementos tienen más dificultad en convertirse en líquido y, sobre esa base, se anotarán de arriba abajo. Por ejemplo, una patente es menos líquida que el stock acumulado, razón por la que se anotará más arriba. De esta manera, el dinero en efectivo (el dato final del plan de tesorería) siempre está en la parte inferior y los inmuebles en la parte superior.
+- c) En el caso del Pasivo se tendrá en cuenta si la deuda es a largo o corto plazo, para decidir el orden de colocación de arriba abajo. Así, el capital aportado por los socios se situará en la parte superior, ya que es una deuda permanente, mientras que el dinero pendiente de pago a proveedores se situará en la parte inferior. De la misma manera, las reservas se situarán en la parte superior del pasivo y ese dato se obtiene del resultado final de la cuenta de ganancias y pérdidas.
 - d) Otro dato relevante a tener en cuenta es que el dato que se anota en el préstamo es el saldo que está pendiente de pago a final de año, de manera que si el préstamo era de 90000 euros, pero se ha amortizado (devuelto) 12000 euros, la deuda pendiente será de 78000 euros.
 
-A continuación se propone la resolución de los balances de los dos Casos prácticos plan teados anteriormente, para que tengáis una referencia concreta. Como ya se ha aconsejado anteriormente, tratad de realizarlos vosotros solos antes de consultar la solución.
+A continuación se propone la resolución de los balances de los dos Casos prácticos planteados anteriormente, para que tengáis una referencia concreta. Como ya se ha aconsejado anteriormente, tratad de realizarlos vosotros solos antes de consultar la solución.
 
 ## Caso práctico 1. Aurora Moreno, S.LU. (Parte 3: Balance de situación)
 
-| Patrimonio neto                     | 100000              |
-| ----------------------------------- | ------------------- |
-| Capital socios                      | 100000              |
-| Reservas (beneficios no invertidos) | -92650              |
-| Pasivo no corriente                 | Pasivo no corriente |
-| Préstamo                            | 35000               |
-| Crédito                             | 73400               |
-| Pasivo corriente                    | Pasivo corriente    |
-| Total                               | 115750              |
+- ACTIVO
 
-## Caso práctico Z.Julio y Miguel Martínez, S.L (Parte 3: Balance de situación)
+| Activo no corriente                 |        |
+| ----------------------------------- | ------ |
+| Inmovilizado intangible             |        |
+| Inmovilizado material               | 15000  |
+| Amortización de inmovilizado        | -1500  |
+| Inversiones inmobiliarias           |        |
+| Inmovilizado financiero             |        |
+| ----------------------------------- | ------ |
+| Activo corriente                    |        |
+| ----------------------------------- | ------ |
+| Existencias                         | 87400  |
+| Créditos cobrar                     |        |
+| Efectivo                            | 14850  |
+| ----------------------------------- | ------ |
+| Total                               | 115750 |
 
+- PASIVO + PATRIMONIO NETO
+
+| Patrimonio neto                     | 100000  |
+| ----------------------------------- | ------- |
+| Capital socios                      | 100000  |
+| Reservas (beneficios no invertidos) | -92650  |
+| ----------------------------------- | ------- |
+| Pasivo no corriente                 |
+| ----------------------------------- | ------- |
+| Préstamo                            | 35000   |
+| Crédito                             | 73400   |
+| ----------------------------------- | ------- |
+| Pasivo corriente                    |         |
+| ----------------------------------- | ------- |
+| Total                               | 115750  |
+
+## Caso práctico 2. Julio y Miguel Martínez, S.L (Parte 3: Balance de situación)
+
+- ACTIVO
+
+| Activo no corriente                 |        |
+| ----------------------------------- | ------ |
+| Inmovilizado intangible             |        |
+| Inmovilizado material               | 12000  |
+| Amortización de inmovilizado        | -1200  |
+| Inversiones inmobiliarias           |        |
+| Inmovilizado financiero             |        |
+| ----------------------------------- | ------ |
+| Activo corriente                    |        |
+| ----------------------------------- | ------ |
+| Existencias                         | 0      |
+| Créditos cobrar                     |        |
+| Efectivo(2)                         | 155338 |
+| ----------------------------------- | ------ |
+| Total(1)                            | 168138 |
+
+- PASIVO + PATRIMONIO NETO
+
+| Patrimonio neto                       | 100000  |
+| ------------------------------------- | ------- |
+| Capital socios                        | 60000   |
+| Reservas(beneficios no invertidos)(3) | 30138   |
+| -----------------------------------   | ------- |
+| Pasivo no corriente                   |
+| -----------------------------------   | ------- |
+| Préstamo                              | 78000   |
+| -----------------------------------   | ------- |
+| Pasivo corriente                      |         |
+| -----------------------------------   | ------- |
+| Total(1)                              | 168138  |
+
+(1) datos de interpretación 1,
 (2) datos de interpretación 2,
+(3) datos de interpretación 3
 
 ## Interpretación de los datos obtenidos en el balance de Julio y Miguel Martínez, S.L
 
 1. El total del Activo y del Pasivo son iguales, lo que significa que el balance es correcto, puesto que los activos se han financiado con los recursos del pasivo.
 
 2. La mayoría del Activo procede del dinero en efectivo existente, dato que se extrae del plan de tesorería. En función del sector económico de la empresa, habría que plantearse mantener este capital disponible, o bien, dotarle de menos liquidez, invirtiéndolo en un producto financiero que ofrezca una rentabilidad.
+
 3. Los beneficios obtenidos en la cuenta de resultados se incluyen como patrimonio, ya que es una deuda de la empresa con los socios, puesto que no se han repartido estas reservas. Por otra parte, la financiación externa no es muy alta, por lo que la empresa parece estar realizando una buena gestión económico-financiera. No obstante, es preciso calcular los ratios para profundizar en la interpretación de un balance, ya que los datos por sí solos no arrojan tanta información como en los dos documentos anteriores analizados.
 
 ## Fase 5. Análisis de la viabilidad de la empresa
@@ -5354,11 +5449,11 @@ A continuación se propone la resolución de los balances de los dos Casos prác
 
 Analiza la viabilidad de tu empresa desde todos los puntos de vista que se han analizado en esta unidad.
 
-## Ayuda práctica:
+Ayuda práctica:
 
-- a) La viabilidad económica y financiera se obtiene con el cálculo de los ratios. Debido a que los balances que estamos confeccionando son muy sencillos, es posible que no sea necesario calcularlos. En su lugar, puedes deducir la solvencia de tu empresa, el nivel de endeudamiento, la rentabilidad económica y financiera en función de los datos que aporta el balance. Para ello, piensa qué está midiendo cada uno de los ra tios, a través de qué cálculo se realiza y extrae las conclusiones que se desprenden. En caso de que algún dato sea negativo, propon medidas específicas a desarrollar en los próximos meses para reducir o corregir su impacto.
-- b) La viabilidad comercial se puede concluir a partir de los datos extraídos en la Simu lación de la Unidad 2, cuando realizaste un estudio de mercado y un análisis DAFO.
-- c) La viabilidad ambiental y la viabilidad técnica son fáciles de analizar. En el primer caso habrá que razonar si vuestra actividad produce o es susceptible de producir un daño ambiental. En el segundo, habrá que razonar si los medios que empleáis son seguros y no hay situaciones de peligro para los trabajadores. Analiza qué riesgos se pueden presentar en el lugar de trabajo de vuestros trabajadores y qué medidas pre ventivas vais a establecer para evitarlos o reducir su impacto.
+- a) La viabilidad económica y financiera se obtiene con el cálculo de los ratios. Debido a que los balances que estamos confeccionando son muy sencillos, es posible que no sea necesario calcularlos. En su lugar, puedes deducir la solvencia de tu empresa, el nivel de endeudamiento, la rentabilidad económica y financiera en función de los datos que aporta el balance. Para ello, piensa qué está midiendo cada uno de los ratios, a través de qué cálculo se realiza y extrae las conclusiones que se desprenden. En caso de que algún dato sea negativo, propon medidas específicas a desarrollar en los próximos meses para reducir o corregir su impacto.
+- b) La viabilidad comercial se puede concluir a partir de los datos extraídos en la Simulación de la Unidad 2, cuando realizaste un estudio de mercado y un análisis DAFO.
+- c) La viabilidad ambiental y la viabilidad técnica son fáciles de analizar. En el primer caso habrá que razonar si vuestra actividad produce o es susceptible de producir un daño ambiental. En el segundo, habrá que razonar si los medios que empleáis son seguros y no hay situaciones de peligro para los trabajadores. Analiza qué riesgos se pueden presentar en el lugar de trabajo de vuestros trabajadores y qué medidas preventivas vais a establecer para evitarlos o reducir su impacto.
 - d) La viabilidad legal es más complicada, ya que debe tener en cuenta toda la normativa relativa a la actividad en sí misma, lo que podéis localizar en una búsqueda online, así como la regulación sobre todos los elementos implicados, como normativa sobre obras y reformas o sobre protección de datos o sobre comercio electrónico. Para ello, tendréis que realizar varias búsquedas en Internet.
 
 Es importante realizar una búsqueda relativa a los riesgos profesionales del sector y, so bre esa base, elaborar un sencillo plan de prevención de riesgos laborales.
@@ -5371,181 +5466,227 @@ Las conclusiones que podemos obtener de esta empresa, teniendo en cuenta que, co
 
 1. Buena rentabilidad económica, debido a que los beneficios han sido elevados.
 2. Rentabilidad financiera también satisfactoria, porque los beneficios obtenidos en relación con los recursos han sido muy buenos.
-3. No se presentan problemas de liquidez ya que el activo corriente supera el valor del pa sivo corriente, de hecho, no hay datos en el pasivo corriente porque no se tienen deudas a corto plazo.
+3. No se presentan problemas de liquidez ya que el activo corriente supera el valor del pasivo corriente, de hecho, no hay datos en el pasivo corriente porque no se tienen deudas a corto plazo.
 4. No hay problemas para el abono de la deuda a corto plazo, ya que esta es inexistente pero, además, el nivel de efectivo disponible es alto.
-5. Distancia considerable a la quiebra. La empresa ofrece garantías de solvencia total y re sultará creíble, de cara a potenciales inversores o nuevos acreedores.
+5. Distancia considerable a la quiebra. La empresa ofrece garantías de solvencia total y resultará creíble, de cara a potenciales inversores o nuevos acreedores.
 6. El nivel de endeudamiento es muy bajo, ya que el préstamo se puede devolver con seguridad.
 7. La autonomía financiera de la empresa está asegurada de momento, puesto que hay un equilibrio entre los recursos propios y el nivel de endeudamiento.
 
 ## Ejemplo 11. Datos contables de Mercadona y su interpretación
 
-Como colofón a esta unidad ofrecemos los datos contables de Mercadona y una interpreta ción de los mismos. Verás que la complejidad de estas cifras es mayor, pero que el esquema a seguir para analizarlas e interpretarlas es el mismo.
+Como colofón a esta unidad ofrecemos los datos contables de Mercadona y una interpretación de los mismos. Verás que la complejidad de estas cifras es mayor, pero que el esquema a seguir para analizarlas e interpretarlas es el mismo.
 
-| Consumo de mercaderías                                            | -76,1 | -76,1 | -75,6 | -75,1  | -75,7  | -76,1  | -74,9  | -75,1   |
+- Tabla 5.7. Cuenta de resultados de Mercadona de los últimos años.
+
+Fuente: http://www.4upress.com/index.php/economia/item/1628-mercadona-ventajas-competitivas-duraderas-que-emanan-de-la-cuenta-de-p-y-g#.ULMyT4eWa7N
+
+| % Estructura de explotación/Ventas                                | 2004  | 2005  | 2006  | 2007   | 2008   | 2009   | 2010   | 2011    |
 | ----------------------------------------------------------------- | ----- | ----- | ----- | ------ | ------ | ------ | ------ | ------- |
+| Consumo de mercaderías                                            | -76,1 | -76,1 | -75,6 | -75,1  | -75,7  | -76,1  | -74,9  | -75,1   |
 | Otros ingresos de explotación                                     | 0,1   | 0,1   | 0,1   | 0,1    | 0,1    | 0,1    | 0,2    | 0,2     |
 | Margen                                                            | 24,0  | 24,0  | 24,5  | 25,1   | 24,4   | 24,1   | 25,3   | 25,0    |
-| astos de personal                                                 | -12,2 | -12,4 | -12,5 | -12,2  | -12,2  | -12,6  | -12,3  | -12,4   |
+| Gastos de personal                                                | -12,2 | -12,4 | -12,5 | -12,2  | -12,2  | -12,6  | -12,3  | -12,4   |
 | Otros gastos de explotación                                       | -6,4  | -6,2  | -6,2  | -6,3   | -6,4   | -6,5   | -6,6   | -6,4    |
 | Amortización del inmovilizado                                     | -2,8  | -2,9  | -2,9  | -3,0   | -2,7   | -2,4   | -2,7   | -2,3    |
 | Imputación de subvenciones no financieras                         | 0,1   | 0,1   | 0,0   | 0,0    | 0,0    | 0,1    | 0,0    | 0,0     |
 | Deterioro y resultado por enajenación del inmovilizado            | 0,0   | 0,0   | 0,0   | 0,0    | 0,0    | 0,0    | 0,0    | 0,0     |
-|                                                                   |       |       | filis | itilii | lili»! |        | KI^    | m       |
+| Resultado de explotación                                          | 2,6   | 2,5   | 2,9   | 3,5    | 3,0    | 2,6    | 3,7    | 3,9     |
 | Ingresos financieros                                              | 0,2   | 0,2   | 0,3   | 0,3    | 0,4    | 0,2    | 0,3    | 0,4     |
-| astos financieros                                                 | -0,2  | -0,2  | -0,2  | -0,2   | -0,2   | -0,2   | -0,2   | -0,2    |
+| Gastos financieros                                                | -0,2  | -0,2  | -0,2  | -0,2   | -0,2   | -0,2   | -0,2   | -0,2    |
 | Deterioro y resultado por enajenación de instrumentos financieros | 0,0   | 0,0   | 0,0   | 0,0    | -0,1   | 0,0    | -0,1   | -0,1    |
-|                                                                   |       | ülSi  | lili  | lili!  | ilifit |        | failP  | >;K:%2; |
-|                                                                   | Km®   |       |       | siif   | lili   | iiüi   | ilif;; | Kí\*t:  |
+| Resultado financiero                                              | 0,0   | 0,0   | 0,1   | 0,1    | 0,1    | -0,1   | 0,0    | 0,2     |
+| Resultado antes de impuestos                                      | 2,6   | 2,6   | 3,0   | 3,6    | 3,1    | 2,5    | 3,7    | 4,1     |
 | Impuesto sobre beneficio                                          | -0,7  | -0,7  | -0,9  | -1,0   | -0,9   | -0,6   | -1,1   | -1,2    |
-|                                                                   |       |       |       | gfii§  | flus   |        |        |         |
-| lililí                                                            |       |       |       | lili.  |        | ¿lili. |        |         |
+| Resultado ejercicio                                               | 1,9   | 1,9   | 2,1   | 2,6    | 2,2    | 1,9    | 2,6    | 2,9     |
+| EBITDA                                                            | 5,4   | 5,4   | 5,8   | 6,6    | 5,9    | 5,0    | 6,4    | 6,3     |
+| ----------------------------------------------------------------- | ----- | ----- | ----- | ------ | ------ | ------ | ------ | ------- |
+| Gastos de personal                                                | -12,2 | -12,4 | -12,5 | -12,2  | -12,2  | -12,6  | -12,3  | -12,4   |
+| Otros gastos de explotación                                       | -6,4  | -6,2  | -6,2  | -6,3   | -6,4   | -6,5   | -6,6   | -6,4    |
+| Amortización del inmovilizado                                     | -2,8  | -2,9  | -2,9  | -3,0   | -2,7   | -2,4   | -2,7   | -2,3    |
+| Imputación de subvenciones no financieras                         | 0,1   | 0,1   | 0,0   | 0,0    | 0,0    | 0,1    | 0,0    | 0,0     |
+| Deterioro y resultado por enajenación del inmovilizado            | 0,0   | 0,0   | 0,0   | 0,0    | -0,1   | 0,0    | 0,0    | 0,0     |
+| Impuesto sobre beneficios                                         | -0,7  | -0,7  | -0,9  | -1.0   | -0,9   | -0,6   | -1,1   | -1,2    |
+| Financieros                                                       | -0,02 |       |       |        |        | -0,06  |        |         |
+| % Total coste empresas sobre ventas                               | -22,1 | -22,2 | -22,4 | -22,6  | -22,3  | -22,2  | -22,7  | -22,3   |
+| Margen                                                            | 24,0  | 24,0  | 24,5  | 25,1   | 24,4   | 24,1   | 25,3   | 25,0    |
+| Financieros                                                       |       | 0,05  | 0,07  | 0,10   | 0,10   |        | 0,02   | 0,17    |
+| % Total ingresos sobre ventas                                     | 24,0  | 24,1  | 24,6  | 25,1   | 24,5   | 24,1   | 25,3   | 25,2    |
+| Resultado del ejercicio                                           | 1,9   | 1,9   | 2,1   | 2,6    | 2,2    | 1,9    | 2,6    | 2,9     |
+| EBITDA                                                            | 5,4   | 5,4   | 5,8   | 6,6    | 5,9    | 5,0    | 6,4    | 6,3     |
 
-(continúa)
+- Tabla 5.8. Balance de Mercadona, obtenido de su Memoria Anual 2011.
 
-Tabla 5.7. Cuenta de resultados de Mercadona de los últimos años.
+| A) Activo no corriente                                        | 2552140  |
+| ------------------------------------------------------------- | -------- |
+| I. Inmovilizado intangible                                    | 62518    |
+| 1. Concesiones                                                | 50903    |
+| 2. Aplicaciones informáticas                                  | 6840     |
+| 3. Otro inmovilizado intangible                               | 4775     |
+| ------------------------------------------------------------- | -------  |
+| II. Inmovilizado material                                     | 2372204  |
+| 1. Terrenos y construcciones                                  | 1540480  |
+| 2. Instalaciones técnicas y otro inmovilizado material        | 750769   |
+| 3. Inmovilizado en curso y anticipos                          | 71955    |
+| ------------------------------------------------------------- | -------  |
+| III. Inversiones en empresas del grupo a L/P                  | 33200    |
+| ------------------------------------------------------------- | -------  |
+| IV. Inversiones financieras a L/P                             | 67064    |
+| 1. Instrumentos de patrimonio                                 | 1577     |
+| 2. Valores representativos de deuda                           | 52464    |
+| 3. Créditos y otros activos financieros                       | 13003    |
+| ------------------------------------------------------------- | -------  |
+| V. Activos por impuesto diferido                              | 27154    |
+| ------------------------------------------------------------- | -------  |
+| B) Activo corriente                                           | 3226153  |
+| ------------------------------------------------------------- | -------  |
+| I. Existencias                                                | 558503   |
+| ------------------------------------------------------------- | -------  |
+| II. Deudores comerciales y otras cuentas a cobrar             | 78470    |
+| ------------------------------------------------------------- | -------  |
+| III. Inversiones financieras a C/P                            | 8884     |
+| ------------------------------------------------------------- | -------  |
+| IV. Periodificaciones a C/P                                   | 4245     |
+| ------------------------------------------------------------- | -------  |
+| V. Efectivo y otros activos líquidos equivalentes             | 2576051  |
+| 1. Tesorería                                                  | 1501051  |
+| 2. Otros activos líquidos equivalentes                        | 1075000  |
+| ------------------------------------------------------------- | -------  |
+| A) Patrimonio neto                                            | 2672886  |
+| ------------------------------------------------------------- | -------  |
+| A.1) Fondos propios                                           | 2186237  |
+| ------------------------------------------------------------- | -------- |
+| I. Capital escriturado                                        | 15921    |
+| ------------------------------------------------------------- | -------- |
+| II. Prima de emisión                                          | 1735     |
+| ------------------------------------------------------------- | -------- |
+| III. Reservas                                                 | 2183053  |
+| 1. Legal y estatutarios                                       | 3184     |
+| 2. Otras reservas                                             | 2183053  |
+| ------------------------------------------------------------- | -------  |
+| IV. Acciones en patrimonio propias                            | (6958)   |
+| ------------------------------------------------------------- | -------- |
+| V. Resultado del ejercicio                                    | 474192   |
+| ------------------------------------------------------------- | -------  |
+| A.2) Subvenciones, donaciones y legados recibidos             | 1768     |
+| ------------------------------------------------------------- | -------  |
+| B) Pasivo no corriente                                        | 253263   |
+| ------------------------------------------------------------- | -------  |
+| I. Provisiones a L/P                                          | 13824    |
+| ------------------------------------------------------------- | -------- |
+| II. Deudas a L/P                                              | 18044    |
+| 1. Deudas con entidades de crédito                            | 5621     |
+| 2. Otros pasivos financieros                                  | 12423    |
+| ------------------------------------------------------------- | -------  |
+| III. Pasivos por impuesto diferido                            | 221395   |
+| ------------------------------------------------------------- | -------  |
+| I. Deudas a C/P con entidades de crédito                      | 2852144  |
+| ------------------------------------------------------------- | -------- |
+| II. Acreedores comerciales y otras cuentas a pagar            | 2412     |
+| 1. Proveedores                                                | 2091246  |
+| 2. Acreedores varios                                          | 365459   |
+| 3. Personal                                                   | 178062   |
+| 4. Pasivos por impuesto corriente                             | 23131    |
+| 5. Otras deudas con las Admin. Públ.                          | 201834   |
 
-Fuente: http://vynAnv.4upress.com/index.php/economia/item/1628-mercadona-ventajas-competitivas-duraderasque-emanan-de-la-cuenta-de-p-y-g#.ULMyT4eWa7N
+- Tabla 5.8. Balance de Mercadona, obtenido de su Memoria Anual 2011 (Continuación).
 
-| astos de personal                                      | -12,2 | -12,4 | -12,5 | -12,2     | -12,2 | -12,6     | -12,3 | -12,4 |
-| ------------------------------------------------------ | ----- | ----- | ----- | --------- | ----- | --------- | ----- | ----- |
-| Otros gastos de explotación                            | -6,4  | -6,2  | -6,2  | -6,3      | -6,4  | -6,5      | -6,6  | -6,4  |
-| Amortización del inmovilizado                          | -2,8  | -2,9  | -2,9  | -3,0      | -2,7  | -2,4      | -2,7  | -2,3  |
-| Imputación de subvenciones no financieras              | 0,1   | 0,1   | 0,0   | 0,0       | 0,0   | 0,1       | 0,0   | 0,0   |
-| Deterioro y resultado por enajenación del inmovilizado | 0,0   | 0,0   | 0,0   | 0,0       | -0,1  | 0,0       | 0,0   | 0,0   |
-| Impuesto sobre beneficios                              | -0,7  | -0,7  | -0,9  | -1.0      | -0,9  | -0,6      | -1,1  | -1,2  |
-| Financieros                                            | -0,02 |       |       |           |       | -0,06     |       |       |
-| rMTotaíi^ ■; ■■'{'■;■.                                 | -22,1 | -22,2 | -22,4 | -22,6     |       | §§ii      |       |       |
-| Margen                                                 | 24,0  | 24,0  | 24,5  | 25,1      | 24,4  | 24,1      | 25,3  | 25,0  |
-| Financieros                                            |       | 0,05  | 0,07  | 0,10      | 0,10  |           | 0,02  | 0,17  |
-| %Total ingresos sobre ventas I                         | 24,0  | 24,1  | 24,6  | 25,1      | ■mm   | s§&#124;é | mm    |       |
-| Resultado delejercicio' .- <• -mS0^'^                  | 1,9   | 1,9   | 2,1   | :::-: 2,6 | liil  | iifitil   | iii»  | mm    |
-| .iw^^,,,,^,,,,^£,.. ,.;,,,,, MMA^y                     | 5,4   | 5,4   | 5,8   | 6,6       |       | wsm       |       |       |
-
-Tabla 5.7. Cuenta de resultados de Mercadona de los últimos años (Continuación).
-
-| I. Inmovilizado intangible                                    | 62518             |
-| ------------------------------------------------------------- | ----------------- |
-| 1. Concesiones                                                | 50903             |
-| 2. Aplicaciones informáticas                                  | 6840              |
-| 3. Otro inmovilizado intangible                               | 4 775             |
-| II. Inmovilizado material                                     | 2372204           |
-| 1. Terrenos y construcciones 2. Instalaciones técnicas y otro | 1 540 480         |
-| inmovilizado material                                         | 750769            |
-| 3. Inmovilizado en curso y anticipos                          | 71 955            |
-| III. Inversiones en empresas del grupo aL/P                   | 33200             |
-| IV. Inversiones financieras a L/P                             | 67064             |
-| 1. Instrumentos de patrimonio                                 | 1 577             |
-| 2. Valores representativos de deuda                           | 52 464            |
-| 3. Créditos y otros activos financieros                       | 13 003            |
-| V. Activos por impuesto diferido                              | 27154             |
-| 1. Existencias                                                | 558503            |
-| II. Deudores comerciales y otras cuentas a cobrar             | 78470             |
-| III. Inversiones financieras a C/P                            | 8884              |
-| IV. Periodificaciones a C/P                                   | 4245              |
-| V. Efectivo y otros activos líquidos equivalentes             | 2576051           |
-| 1. Tesorería 2. Otros activos líquidos equivalentes           | 1501051 1 075 000 |
-
-| A.1) Fondos propios                                | 2186237       |
-| -------------------------------------------------- | ------------- |
-| 1. Capital escriturado                             | 15921         |
-| II. Prima de emisión                               | 1735          |
-| III. Reservas                                      | 2183053       |
-| 1. Legal y estatutarios 2. Otras reservas          | 3 184 2183053 |
-| IV. Acciones en patrimonio propias                 | (6958)        |
-| V. Resultado del ejercicio                         | 474192        |
-| A.2) Subvenciones, donaciones y legados recibidos  | 1768          |
-| B) Pasivo no corriente                             | 253263        |
-| I. Provisiones a L/P                               | 13824         |
-| II. Deudas a L/P                                   | 18044         |
-| 1. Deudas con entidades de crédito                 | 5 621         |
-| 2. Otros pasivos financieros                       | 12 423        |
-| III. Pasivos por impuesto diferido                 | 221 395       |
-| I. Deudas a C/P con entidades de crédito           | 2852144       |
-| II. Acreedores comerciales y otras cuentas a pagar | 2412          |
-| 1. Proveedores                                     | 2 091 246     |
-| 2. Acreedores varios                               | 365 459       |
-| 3. Personal                                        | 178062        |
-| 4. Pasivos por impuesto corriente                  | 23 131        |
-| 5. Otras deudas con las Admin. Públ.               | 201 834       |
-
-(continúa)
-
-Tabla 5.8. Balance de Mercadona, obtenido de su Memoria Anual 2011 (Continuación).
-
-| $&. :C&#124;i>eiá:É^                                                                              | $&. :C&#124;i>eiá:É^ |
-| ------------------------------------------------------------------------------------------------- | -------------------- |
-| 1. Importe neto de la cifra de negocios Ventas                                                    | 16448101 16448101    |
-| 2. Aprovisionamientos                                                                             | (12358854)           |
-| Consumo de mercaderías                                                                            | (12 358854)          |
-| 3. Otros ingresos de explotación                                                                  | 28232                |
-| Ingresos accesorios y otros de gestión corriente Subvenciones de explotación incorp. al resultado | 20 962               |
-| del ejercicio                                                                                     | 7270                 |
-| 4. astos de personal                                                                              | (2042672)            |
-| Sueldos y salarios                                                                                | (1588401)            |
-| Cargas sociales                                                                                   | (454271)             |
-| 5. Otros gastos de explotación Servicios exteriores                                               | (1048349) (1016013)  |
-| Tributos                                                                                          | (24921)              |
-| Otros gastos de gestión corriente                                                                 | (7382)               |
-| 6.Amortización del inmovilizado                                                                   | (380342)             |
-| 7. Imputación de subvenciones de inmovilizado no financiero y otras                               | 629                  |
-| 8. Deterioro y resultado por enajenaciones del inmovilizado                                       | (5974)               |
-| Deterioros y pérdidas                                                                             | (6 799)              |
-| Resultados por enajenaciones y otros                                                              | 825                  |
-
-| 9. Ingresos financieros                                                  | 73379           |
-| ------------------------------------------------------------------------ | --------------- |
-| De participaciones en instrumentos de patrimonio de terceros             | 448             |
-| De valores negociables y otros instrumen tos financieros de terceros     | 72931           |
-| 10. astos financieros Por deudas con terceros y otros gastos financieros | (26311) (26311) |
-| 11. Deterioro y resultado por enajena ciones de instrumentos financieros |                 |
-| Deterioros y pérdidas                                                    | (19102)         |
-|                                                                          | (18859)         |
-| Resultados por enajenaciones y otras                                     | (243)           |
-| A.2) Resultado financiero                                                | 27966           |
-| A.3) Resultado antes de impuestos 12. Impuesto sobre beneficios          | 668737 (194545) |
-| A.4) Resultado del ejercicio                                             | 474192          |
+| A) Operaciones continuadas                                              |            |
+| ----------------------------------------------------------------------- | ---------- |
+| 1. Importe neto de la cifra de negocios                                 | 16448101   |
+| Ventas                                                                  | 16448101   |
+| ----------------------------------------------------------------------- | ---------- |
+| 2. Aprovisionamientos                                                   | (12358854) |
+| Consumo de mercaderías                                                  | (12358854) |
+| ----------------------------------------------------------------------- | ---------- |
+| 3. Otros ingresos de explotación                                        | 28232      |
+| Ingresos accesorios y otros de gestión corriente                        | 20962      |
+| Subvenciones de explotación incorp. al resultado del ejercicio          | 7270       |
+| ----------------------------------------------------------------------- | ---------- |
+| 4. Gastos de personal                                                   | (2042672)  |
+| Sueldos y salarios                                                      | (1588401)  |
+| Cargas sociales                                                         | (454271)   |
+| ----------------------------------------------------------------------- | ---------- |
+| 5. Otros gastos de explotación                                          | (1048349)  |
+| Servicios exteriores                                                    | (1016013)  |
+| Tributos                                                                | (24921)    |
+| Pérdidas, deterioro variación de provisiones por op. com.               | (26)       |
+| Otros gastos de gestión corriente                                       | (7382)     |
+| ----------------------------------------------------------------------- | ---------- |
+| 6.Amortización del inmovilizado                                         | (380342)   |
+| ----------------------------------------------------------------------- | ---------- |
+| 7. Imputación de subvenciones de inmovilizado no financiero y otras     | 629        |
+| -------------------------------------------------------------------     | ---------- |
+| 8. Deterioro y resultado por enajenaciones del inmovilizado             | (5974)     |
+| Deterioros y pérdidas                                                   | (6799)     |
+| Resultados por enajenaciones y otros                                    | 825        |
+| ----------------------------------------------------------------------- | ---------- |
+| A.1) Resultado de explotación                                           |            |
+| ----------------------------------------------------------------------- | ---------- |
+| 9. Ingresos financieros                                                 | 73379      |
+| De participaciones en instrumentos de patrimonio de terceros            | 448        |
+| De valores negociables y otros instrumentos financieros de terceros     | 72931      |
+| ----------------------------------------------------------------------- | ---------- |
+| 10. Gastos financieros                                                  | (26311)    |
+| Por deudas con terceros y otros gastos financieros                      | (26311)    |
+| ----------------------------------------------------------------------- | ---------- |
+| 11. Deterioro y resultado por enajenaciones de instrumentos financieros | (19102)    |
+| Deterioros y pérdidas                                                   | (18859)    |
+| Resultados por enajenaciones y otras                                    | (243)      |
+| ----------------------------------------------------------------------- | ---------- |
+| A.2) Resultado financiero                                               | 27966      |
+| ----------------------------------------------------------------------- | ---------- |
+| A.3) Resultado antes de impuestos                                       | 668737     |
+| 12. Impuesto sobre beneficios                                           | (194545)   |
+| ----------------------------------------------------------------------- | ---------- |
+| A.4) Resultado del ejercicio                                            | 474192     |
+| ----------------------------------------------------------------------- | ---------- |
 
 Tabla 5.9. Comparación de diferentes balances de Mercadona.
+Fuente: http://analisisbalances.wordpress.com/2011/11/17/analisis-economico-financiero-mercadona-2/
 
-| Activo no corriente                 | 2242713  | 58,54%    | 1999723 | 55,86%  | 1770138 | 59,17%  |
+| Balances de situación               | 2007     | 2006      | 2005    |
 | ----------------------------------- | -------- | --------- | ------- | ------- | ------- | ------- |
+| Activo no corriente                 | 2242713  | 58,54%    | 1999723 | 55,86%  | 1770138 | 59,17%  |
 | Inmovilizado intangible             | 66247    | 2,95 %    | 34807   | 1,74%   | 23714   | 1,34%   |
 | Inmovilizado tangible               | 2144863  | 95,64 %   | 1933640 | 86,22 % | 1717172 | 97,01 % |
 | Inmovilizado financiero             | 31603    | 1,41 %    | 31276   | 1,39%   | 29252   | 1,65%   |
+| ----------------------------------- | -------- | --------- | ------- | ------- | ------- | ------- |
 | Activo corriente                    | 1588424  | 41,46%    | 1580012 | 44,14%  | 1221630 | 40,83%  |
 | Existencias                         | 485022   | 30,53 %   | 469476  | 29,71 % | 391917  | 32,08 % |
 | Clientes                            | 60651    | 3,82 %    | 82646   | 5,23 %  | 87793   | 7,19%   |
 | Otros activos líquidos              | 1042 751 | 65,65 %   | 1027890 | 65,06 % | 741 920 | 60,73 % |
 | Tesorería                           | 951459   | 59,90 %   | 1020495 | 64,59 % | 730467  | 59,79 % |
-| TotalActivo                         | 3831137  |           | 3579735 |         | 2991768 |         |
+| ----------------------------------- | -------- | --------- | ------- | ------- | ------- | ------- |
+| Total Activo                        | 3831137  |           | 3579735 |         | 2991768 |         |
+| ----------------------------------- | -------- | --------- | ------- | ------- | ------- | ------- |
 | Fondos propios                      | 1343225  | 35,06%    | 1035098 | 28,92%  | 811249  | 27,12%  |
 | Capital suscrito                    | 15921    | 1,19%     | 15921   | 1,54%   | 15921   | 1,96%   |
 | Reservas                            | 996336   | 74,17%    | 775636  | 74,93 % | 610789  | 75,29 % |
 | Ingresos y gastos imputados en P.N. | 330968   | 24,64 %   | 243 541 | 23,53 % | 184539  | 22,75 % |
-| Pasivo nocorriente                  | 39224    | 1,02%     | 42702   | 1,19%   | 35473   | 1,19%   |
-| Deudas finacieras a L/P             | 23 558   | 60,06 %   | 29162   | 68,29 % | 29474   | 83,09 % |
+| ----------------------------------- | -------- | --------- | ------- | ------- | ------- | ------- |
+| Pasivo no corriente                 | 39224    | 1,02%     | 42702   | 1,19%   | 35473   | 1,19%   |
+| Deudas financieras a L/P            | 23558    | 60,06 %   | 29162   | 68,29 % | 29474   | 83,09 % |
 | Otros pasivos no corrientes         | 15666    | 39,94 %   | 13 540  | 31,71 % | 5999    | 16,91 % |
+| ----------------------------------- | -------- | --------- | ------- | ------- | ------- | ------- |
 | Pasivo corriente                    | 2448608  | 63,92%    | 2501935 | 68,89%  | 2145046 | 71,70%  |
-| Deudas finacieras a C/P             | 2149     | 0,09 %\_j | 2124    | 0,08 %  | 2129    | 0,10%   |
+| Deudas financieras a C/P            | 2149     | 0,09 %    | 2124    | 0,08 %  | 2129    | 0,10%   |
 | Proveedores                         | 2163273  | 88,34 %   | 1906627 | 76,21 % | 1659122 | 77,35 % |
-| Otros pasivos corrientes            | 283266   | 11,57%    | 593184  | 23,71 % | 483 795 | 22,55 % |
+| Otros pasivos corrientes            | 283266   | 11,57%    | 593184  | 23,71 % | 483795  | 22,55 % |
+| ----------------------------------- | -------- | --------- | ------- | ------- | ------- | ------- |
 | Total Pasivo y capital propio       | 3831137  |           | 3579735 |         | 2991768 |         |
 
-Fuente: http://analisisbalances.wordpress.com/2011/11/17/analisis-economico-financiero-mercadona-2/
+## Tabla 5.10. Conclusiones extraídas de las cuentas de resultados de Mercadona.
 
-Algunas de las conclusiones que se pueden extraer de sus cuentas son las siguientes (Ta bla 5.10):
+Algunas de las conclusiones que se pueden extraer de sus cuentas son las siguientes (Tabla 5.10):
 
-Tabla 5.9. Conclusiones extraídas de las cuentas de resultados de Mercadona.
-
-| Jj &#124; :1           | Mercadona vende más que otros gigantes empresariales españoles: 16448 millones de euros en 2010 frente a los 16413 del rupo El Corte Inglés y los 12 526 millones de Inditex.                                                                                                                                             |
-| ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <\ <j0 ^ '¿j           | Juan Roig es una persona meticulosa en lo referente al control del inventario y de su rotación. Este elemento es fundamental en un negocio que cuenta con tan poco margen de beneficio sobre el precio de venta. Las existencias representan el 6 % del beneficio, lo que contrasta con el 23,5 % de Inditex en 2010. Vj- |
-| ■y í-!Í                | Las deudas a corto plazo no son altas, un 0,47 % sobre las ventas totales. El Fondo de Maniobra es, por tanto, positivo.                                                                                                                                                                                                  |
-| íáj S&#124;Ml:?^       | Mantiene en caja, es decir en dinero en efectivo o en productos de alta liquidez, una cantidad importante, lo que significa que su solvencia a corto plazo está garantizada.                                                                                                                                              |
-| U^k^MSl                | lnsignificante Para las cifras que se manejan. La empresa mantiene un alto nivel de auto nomía financiera.                                                                                                                                                                                                                |
-| ^-ACi^' ^í~K"v?;i      | Los beneficios obtenidos han sido siempre positivos, incluso durante la época de crisis, lo 9ue constata que es una empresa capaz de adaptarse a las circunstancias del mercado y a los elementos macroeconómicos.                                                                                                        |
-| *ot&$Mj*É(§\_^^        | La mayoría de los beneficios pasan a ser reservas voluntarias, es decir, que se reinvierten                                                                                                                                                                                                                               |
-| IIÉS^Í^ ffífftfa-í :vm | El Patrimonio inmobiliario del grupo asciende a 2 372 millones de euros, lejos de los 10622 millones de El Corte Inglés, pero aun así una cifra nada desdeñable.                                                                                                                                                          |
+| Ventas | Mercadona vende más que otros gigantes empresariales españoles: 16448 millones de euros en 2010 frente a los 16413 del Grupo El Corte Inglés y los 12 526 millones de Inditex. |
+| Existencias | Juan Roig es una persona meticulosa en lo referente al control del inventario y de su rotación. Este elemento es fundamental en un negocio que cuenta con tan poco margen de beneficio sobre el precio de venta. Las existencias representan el 6 % del beneficio, lo que contrasta con el 23,5 % de Inditex en 2010. |
+| Fondo de maniobra | Las deudas a corto plazo no son altas, un 0,47 % sobre las ventas totales. El Fondo de Maniobra es, por tanto, positivo. |
+| Liquidez | Mantiene en caja, es decir en dinero en efectivo o en productos de alta liquidez, una cantidad importante, lo que significa que su solvencia a corto plazo está garantizada. |
+| Endeudamiento | Insignificante para las cifras que se manejan. La empresa mantiene un alto nivel de autonomía financiera. |
+| Rentabilidad económica | Los beneficios obtenidos han sido siempre positivos, incluso durante la época de crisis, lo que constata que es una empresa capaz de adaptarse a las circunstancias del mercado y a los elementos macroeconómicos. |
+| Rentabilidad financiera | La mayoría de los beneficios pasan a ser reservas voluntarias, es decir, que se reinvierten. |
+| Inmuebles | El Patrimonio inmobiliario del grupo asciende a 2372 millones de euros, lejos de los 10622 millones de El Corte Inglés, pero aun así una cifra nada desdeñable. |
 
 Fuente: http://wwwxotizalia.com/opinion/valor-anadido/2012/03/08/impresionante-diez-datos-brutales-enlas-cuentas-de-mercadona-6745
 
@@ -5555,11 +5696,36 @@ Ha llegado el momento de sintetizar las ideas obtenidas en estas fases de la Sim
 
 Las actividades de simulación efectuadas en esta unidad te han servido para realizar un estudio económico financiero de la empresa, de manera que vuestro plan de empresa incluirá un apartado denominado plan financiero en el que se adjuntarán todos los datos tratados en esta unidad.
 
-## Plan financiero
+- Plan financiero
 
-- a) Incluye el plan de tesorería, la cuenta de resultados y el balance, junto a las conclu siones extraídas de cada uno de estos documentos.
-- b) Incorpora todas las reflexiones realizadas sobre estas cuestiones económicas y finan cieras.
+- a) Incluye el plan de tesorería, la cuenta de resultados y el balance, junto a las conclusiones extraídas de cada uno de estos documentos.
+- b) Incorpora todas las reflexiones realizadas sobre estas cuestiones económicas y financieras.
 - c) Finaliza con un apartado que especifique los resultados del análisis de la viabilidad de vuestra empresa.
+
+## Síntesis
+
+- Plan financiero: Plan de tesorería(Entradas y salidas), Cuenta de resultados(Pérdidas y ganancias) y Balance de situación(Activo y pasivo)
+
+- Análisis de viabilidad: Viabilidad económica, Viabilidad financiera, Viabilidad comercial, Viabilidad legal jurídica, Viabilidad medioambiental, Viabilidad técnica,Viabilidad de gestión profesional
+
+- Cálculo del punto muerto
+
+- Ratios económico-financieros: Rentabilidad económica, Rentabilidad financiera, Ratio de liquidez, Ratio de tesorería, Ratio de disponibilidad, Ratio de garantía estructural, Ratio de endeudamiento financiero, Ratio de autonomía financiera, Fondo de maniobra
+
+- Plan de empresa:
+
+- Idea del negocio
+- Socios trayectoria profesional
+- Estudio de mercado
+- Plan de producción
+- --> Plan financiero
+- Plan de aprovisionamiento
+- Obligaciones fiscales
+- Plan de marketing
+- Plan de RR.HH.
+- Acciones para la Internacionalización
+
+## Test de repaso
 
 1. El plan de tesorería sirve para conocer:
 
@@ -5599,7 +5765,7 @@ Las actividades de simulación efectuadas en esta unidad te han servido para rea
 26. 6o Si el dato final de la cuenta de resultados es negativo, significa que:
 
 - a) La empresa arroja pérdidas.
-- b) Hay que analizar si este dato se debe a la propia actividad de la empresa o a cuestio nes financieras.
+- b) Hay que analizar si este dato se debe a la propia actividad de la empresa o a cuestiones financieras.
 - c) La empresa puede ver comprometida su supervivencia.
 - d) Todas son correctas.
 
@@ -5694,6 +5860,8 @@ Las actividades de simulación efectuadas en esta unidad te han servido para rea
 - c) El balance y la cuenta de resultados.
 - d) El balance solamente.
 
+## Comprueba tu aprendizaje
+
 1. ¿Qué utilidad tiene el plan de tesorería?
 2. ¿Qué determina que un elemento se anote en la cuenta de resultados o no?
 3. ¿Para qué sirve la cuenta de resultados?
@@ -5706,19 +5874,20 @@ Las actividades de simulación efectuadas en esta unidad te han servido para rea
 10. Piensa por qué motivo el resultado final de la cuenta de resultados se incorpora al balance.
 11. Una empresa de electrodomésticos realizó quince ventas por valor de un millón de euros. Sin embargo, algunos clientes se han acogido a la compra a plazos y han dejado a deber un importe considerable que se pagará en cuotas mensuales durante todo el año.
 
-## Analiza si estas afirmaciones son verdaderas o falsas.
+Analiza si estas afirmaciones son verdaderas o falsas.
 
-1. En el plan de tesorería se anotarán solo las cantidades que se cobran en el momento en que se produce este hecho.
-2. En el plan de tesorería se anotará el millón de euros porque son ventas realizadas, aun que aún no se hayan cobrado, puesto que el cliente se ha comprometido a pagarlas.
-3. En la cuenta de resultados se anotarán las cantidades vendidas ya que han supuesto una merma patrimonial, aunque aún no se hayan cobrado.
-4. En la cuenta de resultados se anotarán las cantidades cobradas, ya que se impone el criterio de prudencia contable, por el que un beneficio no se anota hasta que no sea fehaciente.
-5. Una empresa solicita un crédito por valor de 30000 € en julio para hacer frente a un posible déficit de tesorería en los meses de verano, ya que la previsión es de un bajo nivel de facturación. Finalmente, el verano transcurre con más ventas de las esperadas y no es necesario utilizar este capital, por lo que se cancela esta línea de crédito abierta en sep tiembre. Señala qué respuesta es la adecuada en cada apartado, para cada uno de estos documentos.
+- 1. En el plan de tesorería se anotarán solo las cantidades que se cobran en el momento en que se produce este hecho.
+- 2. En el plan de tesorería se anotará el millón de euros porque son ventas realizadas, aun que aún no se hayan cobrado, puesto que el cliente se ha comprometido a pagarlas.
+- 3. En la cuenta de resultados se anotarán las cantidades vendidas ya que han supuesto una merma patrimonial, aunque aún no se hayan cobrado.
+- 4. En la cuenta de resultados se anotarán las cantidades cobradas, ya que se impone el criterio de prudencia contable, por el que un beneficio no se anota hasta que no sea fehaciente.
+
+12. Una empresa solicita un crédito por valor de 30000 € en julio para hacer frente a un posible déficit de tesorería en los meses de verano, ya que la previsión es de un bajo nivel de facturación. Finalmente, el verano transcurre con más ventas de las esperadas y no es necesario utilizar este capital, por lo que se cancela esta línea de crédito abierta en sep tiembre. Señala qué respuesta es la adecuada en cada apartado, para cada uno de estos documentos.
 
 - a) ¿Qué se anotará en el Plan de tesorería?
 - b) ¿Qué se incluirá en la Cuenta de resultados?
 - c) ¿Qué dato/s se incorporará/n al Balance?
 
-## estión de la actividad comercial y financiera
+# 6. Gestión de la actividad comercial y financiera
 
 ## En esta unidad aprenderemos a:
 
@@ -5738,19 +5907,19 @@ Las actividades de simulación efectuadas en esta unidad te han servido para rea
 - Relaciones con intermediarios financieros.
 - estión de las obligaciones fiscales.
 
-«Cuando soplan vientos de cambio, unos buscan refugios y se ponen a salvo. Otros construyen molinos y se hacen ricos.» Claus Moller, experto en management y calidad.
+## Claus Moller, experto en management y calidad.
+
+«Cuando soplan vientos de cambio, unos buscan refugios y se ponen a salvo. Otros construyen molinos y se hacen ricos.»
+
+## Emprendedores
 
 En este apartado vamos a analizar el caso de Nueva Rumasa como paradigma de gestión financiera no sustentada en fondos propios, y lo que adolece cuando la supervivencia finan ciera se sujeta en fondos ajenos.
 
 ## Nueva Rumasa: el resurgir de las cenizas
 
-La empresa Nueva Rumasa surge en 1996, cuando el empresario jerezano José María RuizMateos intenta reavivar las cenizas de su anterior empresa, Rumasa, más conocida por su famoso logotipo de abeja. Al cabo de veinte años, la empresa entró en fase de preconcurso,
-
-lo que antaño se conocía como suspensión de pagos, paso previo antes de entrar en concurso de acreedores y liquidar todos los bienes de la empresa.
+La empresa Nueva Rumasa surge en 1996, cuando el empresario jerezano José María RuizMateos intenta reavivar las cenizas de su anterior empresa, Rumasa, más conocida por su famoso logotipo de abeja. Al cabo de veinte años, la empresa entró en fase de preconcurso, lo que antaño se conocía como suspensión de pagos, paso previo antes de entrar en concurso de acreedores y liquidar todos los bienes de la empresa.
 
 La empresa abarcaba más de 100 firmas distintas, agrupadas en diferentes sectores económieos, como puede verse en la imagen. ¿Cómo es posible que cayeran todas en picado en tan poco tiempo?
-
-"
 
 Nueva Rumasa se constituyó como una agrupación de empresas, 117 en concreto, que se gestionaban coordinadamente pero sin dependencia financiera. A diferencia de la Rumasa original que era un holding, es decir, una empresa matriz que poseía mayoría de acciones de otras empresas.
 
@@ -5762,7 +5931,7 @@ El capital obtenido se emplea en cubrir necesidades de circulante. En ningún mo
 
 Podríamos decir que el grupo empresarial carecía de una viabilidad de gestión o de una buena estrategia de gestión empresarial, ya que su manera de funcionar era posible en un momento de crecimiento económico, pero inadecuada si las circunstancias empeoraban, tal como pasó. Endeudarse con la emisión de pagarés para obtener liquidez con la que devolver las deudas bancarias, en lugar de utilizarse para invertir en la compra de nuevos activos, supone entrar en un círculo vicioso del que es muy difícil salir: al ofrecer un tipo de interés elevado, se condiciona el abono de esos intereses al ingreso que se obtiene con nuevas apor taciones, lo que se denomina estafa piramidal y que fue lo ocurrido con Fórum Filatélico, Afinsa o Madoff.
 
-## I El principio del fin
+## El principio del fin
 
 En el año 2009 surgen los primeros síntomas de alerta:
 
@@ -5782,7 +5951,7 @@ En este contexto de mayor competencia, ausencia de financiación bancaria, caren
 
 A pesar de buscar inversores extranjeros y de vender algunas firmas del grupo empresarial, no se obtuvieron resultados. En el año 2011 Nueva Rumasa entró en situación de preconcurso. Se la concedió cuatro meses (según la propia ley concursal) para renegociar sus deudas con proveedores y acreedores. Tampoco hubo éxito.
 
-En el año 2012, Back in Business formalizó la compra del grupo Nueva Rumasa, que se encon traba ya en concurso de acreedores, en una operación valorada en 1 500 millones de euros, el equivalente total del Pasivo que acumulaban las empresas del grupo.
+En el año 2012, Back in Business formalizó la compra del grupo Nueva Rumasa, que se encontraba ya en concurso de acreedores, en una operación valorada en 1 500 millones de euros, el equivalente total del Pasivo que acumulaban las empresas del grupo.
 
 ## Reflexiona
 
@@ -5791,9 +5960,11 @@ En el año 2012, Back in Business formalizó la compra del grupo Nueva Rumasa, q
 3. Propon medidas correctivas que podrían haberse dado para evitar el desenlace final.
 4. Es habitual que las empresas emitan títulos de deuda privada. ¿Conoces a alguien que haya comprado pagarés de una empresa?
 
+## Conceptos básicos
+
 En este apartado vamos a recordar algunos conceptos que te serán útiles para realizar la Simulación, tales como:
 
-gestión empresarial pagarés VANyTIR eficiencia aprovisionamiento inversión y ahorro crédito comercial Iinp3CJ3CjOS morosos tributos recursos humanos superávit déficit
+gestión empresarial pagarés VAN y TIR eficiencia aprovisionamiento inversión y ahorro crédito comercial impagados morosos tributos recursos humanos superávit déficit
 
 ## A. Plan de aprovisionamiento
 
@@ -5818,7 +5989,7 @@ Por eso, los responsables del plan de aprovisionamiento de cualquier empresa tra
 
 Fuente: Qué! Sevilla, 14 de noviembre de 2012 [en línea]
 
-## B. estión de la contabilidad
+## B. Gestión de la contabilidad
 
 estionar una empresa con eficacia conlleva tomar las decisiones necesarias para el correcto funcionamiento de la compañía, teniendo en cuenta lo que ocurre en su entorno.
 
@@ -5836,39 +6007,15 @@ Adicionalmente, hay que garantizar la credibilidad de esta información, por lo 
 
 En ocasiones, las auditorías persiguen, además de contrastar el cumplimiento de la normativa contable, analizar el grado de respeto a la legislación laboral o medioambiental existente.
 
-B
+## La auditoría
 
-i
+la realizará una empresa externa a la empresa auditada, que se encargará de verificar si la contabilidad de dicha empresa refleja la imagen fiel del patrimonio y de los resultados.
 
-b
-
-La auditoría la realizará una empresa externa a la empresa auditada, que se encargará de verificar si la contabilidad de dicha empresa refleja la imagen fiel del patrimonio y de los resultados.
-
-o
-
-b
-
-b
-
-J
-
-s
-
-i
-
-i
-
-E
-
-b
-
-e
-
-Actualmente, hay cuatro grandes empresas mundiales dedicadas al negocio de la auditoría, son conocidas como las Bigfour: Deloitte, PricewaterhouseCoopers, Ernst &amp; Young yKPM .
+Actualmente, hay cuatro grandes empresas mundiales dedicadas al negocio de la auditoría, son conocidas como las Big four: Deloitte, PricewaterhouseCoopers, Ernst & Young y KPMG.
 
 ## Actividades
 
-- 2, Lee la noticia siguiente y explica qué interés tiene Samsung en realizar una auditoría en las empresas subcontratadas en China, y por qué se centra únicamente en cues tiones laborales y no en temas contables.
+2. Lee la noticia siguiente y explica qué interés tiene Samsung en realizar una auditoría en las empresas subcontratadas en China, y por qué se centra únicamente en cuestiones laborales y no en temas contables.
 
 «Samsung volvió a ser criticada el martes por un grupo de defensa de derechos la borales, debido a las prácticas de trabajo ilegales en las fábricas de sus proveedores de China.
 
@@ -5876,7 +6023,9 @@ La compañía admitió haber encontrado malas condiciones laborales y afirmó qu
 
 Fuente: Expansión. Madrid, 28 de noviembre de 2012 [en línea]
 
-La contabilidad interna pretende facilitar la toma de decisiones. Para ello, cuenta con dos funciones:
+## La contabilidad interna pretende facilitar la toma de decisiones.
+
+Para ello, cuenta con dos funciones:
 
 - a) Contabilidad de gestión. Consiste en llevar un registro de los recursos disponibles en la compañía para que puedan administrarse de forma eficaz.
 
@@ -5890,7 +6039,7 @@ No persigue, por tanto, la cuantificación de costes, sino que busca el procesam
 
 Con el desarrollo de la informática, la función contable de la empresa se ha visto muy facilitada, dejando a un lado la tediosa tarea de realizar cálculos para centrarse en su inter pretación.
 
-## C. estión de la inversión y financiación
+## C. Gestión de la inversión y financiación
 
 La inversión consiste en aplicar recursos financieros líquidos para obtener activos que con tribuyan al logro de los objetivos de la empresa, tales como: inmueble, vehículo, maquinaría, ordenadores, elementos de trabajo. La financiación consiste en la aportación de capital para llevar a cabo las inversiones necesarias.
 
@@ -5900,13 +6049,19 @@ Desde el punto de vista empresarial, la inversión supone la compra de activos f
 
 Desde una perspectiva financiera, la inversión se refiere a la compra de productos financie ros, como acciones, bonos, cuentas bancarias a plazos fijos, etc., para obtener una rentabi lidad, es decir, el intercambio de un capital disponible por un activo de menor liquidez. El beneficio económico esperado de esta inversión se puede producir por:
 
-La decisión sobre la conveniencia o no de una inversión está determinada por diferentes fac tores, aunque el binomio rentabilidad/riesgo es uno de los más decisivos.
+- Intereses: Al igual como sucede en un plazo fijo.
 
-## D Rentabilidad
+- Reparto de beneficios: Se denominan dividendos, en el caso de las acciones de una sociedad anónima; retorno coopera tivo, en una sociedad cooperativa; simplemente reparto de beneficios, en caso de una sociedad limitada.
+
+- Plusvalías: Es fruto de la venta de un activo financiero un precio superior al que se adquirió, como puede suceder al vender acciones compradas.
+
+La decisión sobre la conveniencia o no de una inversión está determinada por diferentes factores, aunque el binomio rentabilidad/riesgo es uno de los más decisivos.
+
+## Rentabilidad
 
 La rentabilidad se define como la obtención de un valor superior al de los recursos utilizados. Esta comparación entre dos capitales diferentes para ver cuál tiene más valor debe tener en cuenta el paso del tiempo, puesto que el nivel de vida se incrementa. De manera que una cierta cantidad de dinero tendrá menos valor al cabo de un año y esa pérdida coincidirá con el incremento del precio de la vida o del índice de precios al consumo.
 
-## Ejemplo 2. Valor del capital
+Ejemplo 2. Valor del capital
 
 Si tenemos un millón de euros y la inflación se incrementa un 3% en un año, al cabo de ese tiempo el valor actualizado de ese millón de euros será de 1 000000/1,03 = 970873,78 euros. No significa que nuestro millón haya menguado, puesto que seguimos teniéndolo en nuestro poder, lo que ha sucedido es que ha decrecido su capacidad de compra, que ahora es equivalente a algo más de 970000 euros.
 
@@ -5924,13 +6079,13 @@ Teniendo en cuenta los dos efectos anteriores, el tipo de interés real que se p
 
 Si se solicita un crédito a un año con un tipo de interés del 3% y la inflación se incrementa durante ese tiempo un 3 %, significa que el interés real que estamos pagando es 0.
 
-- [ ] D Riesgo - Seguridad
+- Riesgo - Seguridad
 
 El nivel de riesgo de una inversión está definido por la seguridad con la que se puede re cuperar el capital invertido. A mayor inseguridad, mayor riesgo y, por regla general, mayor rentabilidad. El riesgo es un elemento inherente a la inversión.
 
 Aunque este riesgo se puede reducir contratando productos seguros de rentabilidad fija, pese a que el beneficio no será muy alto.
 
-## D Liquidez
+## Liquidez
 
 La liquidez se refiere a la facilidad con la que la inversión efectuada se puede convertir en líquido; es decir, la canjeabilidad del producto por dinero o la recuperación del capital inicial. Por ejemplo, la compra de un inmueble es menos líquida que un depósito a plazo fijo de un año y, a su vez, este es menos líquido que unas acciones compradas en bolsa, que pueden venderse rápidamente.
 
@@ -5940,24 +6095,36 @@ La correcta identificación de las necesidades financieras supone uno de los asp
 
 La planificación financiera representa un proceso de reflexión donde se cuantifican los proyectos de la empresa en términos de costes de inversión y necesidades de financia ción para tales inversiones. No solo incluye decidir qué acciones llevar a cabo, a través de la elaboración de un presupesto, sino también una verificación posterior de la eficiencia de tales medidas.
 
-Se puede distinguir entre una planificación financiera a corto plazo o táctica, y una plani ficación financiera a largo plazo o estratégica. A corto plazo, se trata de valorar cuestiones de liquidez, gestión del circulante, política de precios, presupuesto de compras o inversiones, la cuenta de resultados prevista, etc. A largo plazo, la planificación financiera se preocupa de cuestiones como posible expansión, evolución tecnológica, localización o diversificación, presupuesto de l+D+i o de publicidad, etc.
+Se puede distinguir entre una planificación financiera a corto plazo o táctica, y una planificación financiera a largo plazo o estratégica. A corto plazo, se trata de valorar cuestiones de liquidez, gestión del circulante, política de precios, presupuesto de compras o inversiones, la cuenta de resultados prevista, etc. A largo plazo, la planificación financiera se preocupa de cuestiones como posible expansión, evolución tecnológica, localización o diversificación, presupuesto de l+D+i o de publicidad, etc.
 
-Las empresas buscan mantener un equilibrio en su dependencia financiera, de manera que so licitan recursos ajenos para apalancarse y mejorar su eficiencia, a la vez que controlan que esta dependencia externa no sea excesiva ni suponga demasiados costes financieros. Algunas medidas que pueden adoptar para ello son:
+Las empresas buscan mantener un equilibrio en su dependencia financiera, de manera que solicitan recursos ajenos para apalancarse y mejorar su eficiencia, a la vez que controlan que esta dependencia externa no sea excesiva ni suponga demasiados costes financieros. Algunas medidas que pueden adoptar para ello son:
 
 - a) Priorizar las necesidades de financiación. Las necesidades económicas de la empresa varían según el momento, ya que no es lo mismo iniciar el negocio que estar en fase de expansión económica o de internacionalización. Por eso, una buena gestión financiera pasa por decidir en cada momento qué inversiones son necesarias y cuáles pueden posponerse o eliminarse, sin poner en riesgo la rentabilidad de la empresa.
 - b) Mejorar la eficiencia. Con el cambio de ciclo económico, las empresas tienen que adaptar su actividad a las circunstancias. Una buena gerencia revisará todas las decisiones y com probará si se están optimizando los recursos disponibles. A modo de ejemplo, señalamos algunos aspectos a considerar:
 
+- Ajuste del nivel de stock: Si las ventas se reducen, pero no las compras de materias primas, se habrán generado unos excedentes innecesarios, que consumen recursos para su adquisición pero también para su almacena￾V: miento custodia. Las empresas que no pueden devolver el stock tratan de liquidarlo con ofertas o de negociar un retraso en el pago los proveedores.
+
+- Reducción de gastos fijos: La caída de ventas no produce un merma en los constes fijo, pero sí en los ingresos. Por ese motivo, hay que reajsutar los recursos tanto como materiales como humanos a los nuevos requerimientos. Es decir, hay que valorar la eficiendica de la empresa.
+
+- Coste social de las medidas: Antes de decidir en qué costes fijos ahorrar, habrá que tener en cuenta el impacto social negativo de algunas acciones, como despidos colectivos. Si la empresa es grande, esta noticia atraerá los medios de comunicación y repercutirá negativamente en la imagen de la empresa.
+
+- Puntualidad en pagos: Los pagos fuera de plazo a la Seguridad Social, impuestos vencimientos de deuda pueden generar gastos adicionales, como penalizaciones o intereses de demora.
+
 ## Evaluación de las inversiones realizadas
 
-Las empresas deben guardar un equilibrio entre los recursos que destinan al ahorro y los que emplean en la Inversión financiera, ambos son aspectos necesarios en la actividad empresarial
+Las empresas deben guardar un equilibrio entre los recursos que destinan al ahorro y los que emplean en la Inversión financiera, ambos son aspectos necesarios en la actividad empresarial.
+
+- Ahorros: Sirven para financiar imprevistos necesidades corto plazo. El dinero se deposita en productos financieros de gran liquidez, como depósitos plazo, cuentas de ahorro, cuentas la vista, etc. A cambio de la seguridad de la inversión de la disponibilidad del dinero, la rentabilidad de estos productos es baja, por lo que la empresa debe destinar solo los recursos necesarios al ahorro y valorando siempre el coste de oportunidad, no emplearlos en alternativas más rentables.
+
+- Inversión financiera: Se basa en emplear los recursos monetarios excedentes en la adquisición de productos financieros que ofrezcan una alta rentabilidad. Para ello, o bien se inmovilizan durante un plazo de tiempo considerable, como letras, bonos obligaciones, o bien, se asume un riesgo de pérdida, como compra de acciones o fondos de inversión. La inversión financiera es tan necesaria como el ahorro ya que facilita el crecimiento largo plazo. La inversión financiera tiene una utilidad social muy importante, ya que permite el traspaso de fondos económicos desde los ahorradores las entidades que tienen necesidad de ellos, como las empresas los organismos públicos. Expresado en términos económicos, la inversión financiera permite el traspaso de unidades económicas con superávit a las que presentan déficits.
 
 Las empresas, al igual que los gobiernos, pueden emitir deuda para tratar de captar este aho rro privado. En el caso de los estados se habla de deuda pública, que son las letras, bonos y obligaciones del Estado.
 
-En el caso de las empresas se denominan títulos de deuda o empréstitos, y pueden ser pa garés o bonos y obligaciones.
+En el caso de las empresas se denominan títulos de deuda o empréstitos, y pueden ser pagarés o bonos y obligaciones.
 
-Son títulos de deuda a corto plazo emitidos por una empresa privada para cubrir sus necesida des temporales de financiación. Las personas que adquieren pagarés de una empresa se convierten en acreedores de la misma. Una vez transcurrido el plazo de tiempo, la empresa está comprome tida a devolver la cantidad solicitada, junto con un interés. Estos pagarés pueden ser adquiridos tanto por particulares como por otras empresas o entidades financieras.
+- Pagarés: Son títulos de deuda a corto plazo emitidos por una empresa privada para cubrir sus necesida des temporales de financiación. Las personas que adquieren pagarés de una empresa se convierten en acreedores de la misma. Una vez transcurrido el plazo de tiempo, la empresa está comprome tida a devolver la cantidad solicitada, junto con un interés. Estos pagarés pueden ser adquiridos tanto por particulares como por otras empresas o entidades financieras.
 
-Son títulos de deuda a más largo plazo, que ofrecen una rentabilidad fija. En España, cuando se emiten por un plazo inferior a cinco años se denominan bonos, y superando ese tiempo, obliga ciones. En otros países, el término bono es genérico para todos los plazos de vencimiento. El inte rés en bonos y obligaciones suele ser mayor que en pagarés, para compensar la mayor cantidad de tiempo que el acreedor no dispone de su dinero.
+Bonos y obligaciones: Son títulos de deuda a más largo plazo, que ofrecen una rentabilidad fija. En España, cuando se emiten por un plazo inferior a cinco años se denominan bonos, y superando ese tiempo, obliga ciones. En otros países, el término bono es genérico para todos los plazos de vencimiento. El inte rés en bonos y obligaciones suele ser mayor que en pagarés, para compensar la mayor cantidad de tiempo que el acreedor no dispone de su dinero.
 
 Unos y otros son activos financieros negociables, es decir, que se pueden vender o comprar en los mercados financieros secundarios.
 
