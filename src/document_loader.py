@@ -9,7 +9,7 @@ from pathlib import Path
 
 from models import Documento, Metodologia
 
-MARKDOWN_CLEAN = Path("data") / "markdown_clean"
+# MARKDOWN_CLEAN = Path("data") / "markdown_clean"
 
 
 def cargar_documento(
