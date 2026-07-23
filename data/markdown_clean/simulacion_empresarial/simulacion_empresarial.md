@@ -117,7 +117,7 @@ Como dijo el mismo Edison en otra ocasión: «Muchos fracasos de la vida han sid
 
 En este apartado vamos a recordar algunos conceptos que te serán útiles para realizar la Simulación, tales como:
 
-iniciativa creatividad emprendedor innovación frustración logotipo idea hueco de mercado plan ele empresa necesidades riesgo utilidad ubicación tecnología
+iniciativa, creatividad, emprendedor, innovación, frustración, logotipo, idea, hueco de mercado, plan de empresa, necesidades, riesgo, utilidad, ubicación, tecnología
 
 ## A. Emprendedor
 
@@ -898,7 +898,7 @@ Y continúan los esfuerzos. Panrico sigue luchando por cambiar la mala imagen ge
 
 En este apartado vamos a recordar algunos conceptos que te serán útiles para realizar la Simulación, tales como:
 
-departamentos plan de producción ética empresarial plan de marketing organigrama mercado DAFO competencia proveedores clientes distribuidores entorno
+departamentos, plan de producción, ética empresarial, plan de marketing, organigrama, mercado, DAFO, competencia, proveedores, clientes, distribuidores, entorno
 
 ## A. La empresa es un sistema
 
@@ -1949,7 +1949,7 @@ Tal vez convendría considerar cuál sería el precio a pagar si los autores, de
 
 En este apartado vamos a recordar algunos conceptos que te serán útiles para realizar la Simulación, tales como:
 
-hacienda forma jurídica seguridad social licencias capital social permisos registro mercantil participaciones documentación obras trámites responsabilidad legal sociedad acciones socios
+hacienda, forma jurídica, seguridad social, licencias, capital social, permisos, registro mercantil, participaciones, documentación, obras, trámites, responsabilidad legal, sociedad, acciones, socios
 
 ## A. Clasificación de las empresas
 
@@ -3007,7 +3007,7 @@ Los microcréditos posibilitan, especial mente en países en vías de desarrollo
 
 En este apartado vamos a recordar algunos conceptos que te serán útiles para realizar la Simulación, tales como:
 
-tipo de interés ayudas subvención renting ahorro micromecenazgo préstamo gasto incubadora aceleradora vivero crédito inversión leasing financiación descubierto beneficio factorlng confirming
+tipo de interés, ayudas, subvención, renting, ahorro, micromecenazgo, préstamo, gasto, incubadora, aceleradora, vivero, crédito, inversión, leasing, financiación, descubierto, beneficio, factoring, confirming
 
 ## A. Fuentes de financiación
 
@@ -4569,7 +4569,7 @@ PLAN DE EMPRESA:
 
 En este apartado vamos a recordar algunos conceptos que te serán útiles para realizar la Simulación, tales como:
 
-ingresos y gastos beneficios y pérdidas tesorería patrimonio ratios viabilidad balance solvencia cuenta de resultados pérdidas entradas y salidas inversión liquidez
+ingresos y gastos, beneficios y pérdidas, tesorería, patrimonio, ratios, viabilidad, balance, solvencia, cuenta de resultados, pérdidas, entradas y salidas, inversión, liquidez
 
 ## A. Plan financiero
 
@@ -5612,7 +5612,7 @@ Fuente: http://www.4upress.com/index.php/economia/item/1628-mercadona-ventajas-c
 | Pérdidas, deterioro variación de provisiones por op. com.               | (26)       |
 | Otros gastos de gestión corriente                                       | (7382)     |
 | ----------------------------------------------------------------------- | ---------- |
-| 6.Amortización del inmovilizado                                         | (380342)   |
+| 6. Amortización del inmovilizado                                        | (380342)   |
 | ----------------------------------------------------------------------- | ---------- |
 | 7. Imputación de subvenciones de inmovilizado no financiero y otras     | 629        |
 | -------------------------------------------------------------------     | ---------- |
@@ -5900,12 +5900,12 @@ Analiza si estas afirmaciones son verdaderas o falsas.
 ## Y estudiaremos:
 
 - El plan de aprovisionamiento.
-- estión de la contabilidad como toma de decisiones.
+- Gestión de la contabilidad como toma de decisiones.
 - Evaluación de las inversiones realizadas y de sus fuentes de financiación.
 - Control de tesorería.
-- estión de impagados.
+- Gestión de impagados.
 - Relaciones con intermediarios financieros.
-- estión de las obligaciones fiscales.
+- Gestión de las obligaciones fiscales.
 
 ## Claus Moller, experto en management y calidad.
 
@@ -5964,7 +5964,7 @@ En el año 2012, Back in Business formalizó la compra del grupo Nueva Rumasa, q
 
 En este apartado vamos a recordar algunos conceptos que te serán útiles para realizar la Simulación, tales como:
 
-gestión empresarial pagarés VAN y TIR eficiencia aprovisionamiento inversión y ahorro crédito comercial impagados morosos tributos recursos humanos superávit déficit
+gestión empresarial, pagarés, VAN y TIR, eficiencia, aprovisionamiento, inversión y ahorro, crédito comercial, impagados, morosos, tributos, recursos humanos, superávit, déficit
 
 ## A. Plan de aprovisionamiento
 
@@ -6057,6 +6057,12 @@ Desde una perspectiva financiera, la inversión se refiere a la compra de produc
 
 La decisión sobre la conveniencia o no de una inversión está determinada por diferentes factores, aunque el binomio rentabilidad/riesgo es uno de los más decisivos.
 
+## La inflación
+
+es el incremento general y mantenido de los precios. Una medida frecuente de la inflación es el índice de precios al consumo (IPC), que indica mediante un porcentaje la variación anual de precios en un país.
+
+Como efecto negativo, la capacidad de compra se ve reducida, es decir, se produce una disminución del poder adquisitivo. Como efecto positivo, se origina una activación del ahorro y una posible reducción de los tipos de interés para incentivar el consumo.
+
 ## Rentabilidad
 
 La rentabilidad se define como la obtención de un valor superior al de los recursos utilizados. Esta comparación entre dos capitales diferentes para ver cuál tiene más valor debe tener en cuenta el paso del tiempo, puesto que el nivel de vida se incrementa. De manera que una cierta cantidad de dinero tendrá menos valor al cabo de un año y esa pérdida coincidirá con el incremento del precio de la vida o del índice de precios al consumo.
@@ -6066,10 +6072,6 @@ Ejemplo 2. Valor del capital
 Si tenemos un millón de euros y la inflación se incrementa un 3% en un año, al cabo de ese tiempo el valor actualizado de ese millón de euros será de 1 000000/1,03 = 970873,78 euros. No significa que nuestro millón haya menguado, puesto que seguimos teniéndolo en nuestro poder, lo que ha sucedido es que ha decrecido su capacidad de compra, que ahora es equivalente a algo más de 970000 euros.
 
 Por eso se dice que cierto nivel de inflación es positivo para la economía de un país, puesto que evita que el dinero se quede inmovilizado y, al utilizarlo para compra de activos o para inversiones financieras, la economía se activa y, con ello, se crea trabajo y se producen bienes.
-
-La inflación es el incremento general y mantenido de los precios. Una medida frecuente de la inflación es el índice de precios al consumo (IPC), que indica mediante un porcen taje la variación anual de precios en un país.
-
-Como efecto negativo, la capacidad de compra se ve reducida, es decir, se produce una disminución del poder adquisitivo. Como efecto positivo, se origina una activación del ahorro y una posible reducción de los tipos de interés para incentivar el consumo.
 
 Por otra parte, la rentabilidad está asociada al plazo de tiempo durante el cual el dinero no estará disponible para el prestamista, de manera que cuanto más largo sea el periodo de tiempo para el que se solicita un préstamo, mayor interés habrá que pagar por él.
 
@@ -6097,10 +6099,12 @@ La planificación financiera representa un proceso de reflexión donde se cuanti
 
 Se puede distinguir entre una planificación financiera a corto plazo o táctica, y una planificación financiera a largo plazo o estratégica. A corto plazo, se trata de valorar cuestiones de liquidez, gestión del circulante, política de precios, presupuesto de compras o inversiones, la cuenta de resultados prevista, etc. A largo plazo, la planificación financiera se preocupa de cuestiones como posible expansión, evolución tecnológica, localización o diversificación, presupuesto de l+D+i o de publicidad, etc.
 
-Las empresas buscan mantener un equilibrio en su dependencia financiera, de manera que solicitan recursos ajenos para apalancarse y mejorar su eficiencia, a la vez que controlan que esta dependencia externa no sea excesiva ni suponga demasiados costes financieros. Algunas medidas que pueden adoptar para ello son:
+## Las empresas buscan mantener un equilibrio en su dependencia financiera,
+
+de manera que solicitan recursos ajenos para apalancarse y mejorar su eficiencia, a la vez que controlan que esta dependencia externa no sea excesiva ni suponga demasiados costes financieros. Algunas medidas que pueden adoptar para ello son:
 
 - a) Priorizar las necesidades de financiación. Las necesidades económicas de la empresa varían según el momento, ya que no es lo mismo iniciar el negocio que estar en fase de expansión económica o de internacionalización. Por eso, una buena gestión financiera pasa por decidir en cada momento qué inversiones son necesarias y cuáles pueden posponerse o eliminarse, sin poner en riesgo la rentabilidad de la empresa.
-- b) Mejorar la eficiencia. Con el cambio de ciclo económico, las empresas tienen que adaptar su actividad a las circunstancias. Una buena gerencia revisará todas las decisiones y com probará si se están optimizando los recursos disponibles. A modo de ejemplo, señalamos algunos aspectos a considerar:
+- b) Mejorar la eficiencia. Con el cambio de ciclo económico, las empresas tienen que adaptar su actividad a las circunstancias. Una buena gerencia revisará todas las decisiones y comprobará si se están optimizando los recursos disponibles. A modo de ejemplo, señalamos algunos aspectos a considerar:
 
 - Ajuste del nivel de stock: Si las ventas se reducen, pero no las compras de materias primas, se habrán generado unos excedentes innecesarios, que consumen recursos para su adquisición pero también para su almacena￾V: miento custodia. Las empresas que no pueden devolver el stock tratan de liquidarlo con ofertas o de negociar un retraso en el pago los proveedores.
 
@@ -6118,7 +6122,9 @@ Las empresas deben guardar un equilibrio entre los recursos que destinan al ahor
 
 - Inversión financiera: Se basa en emplear los recursos monetarios excedentes en la adquisición de productos financieros que ofrezcan una alta rentabilidad. Para ello, o bien se inmovilizan durante un plazo de tiempo considerable, como letras, bonos obligaciones, o bien, se asume un riesgo de pérdida, como compra de acciones o fondos de inversión. La inversión financiera es tan necesaria como el ahorro ya que facilita el crecimiento largo plazo. La inversión financiera tiene una utilidad social muy importante, ya que permite el traspaso de fondos económicos desde los ahorradores las entidades que tienen necesidad de ellos, como las empresas los organismos públicos. Expresado en términos económicos, la inversión financiera permite el traspaso de unidades económicas con superávit a las que presentan déficits.
 
-Las empresas, al igual que los gobiernos, pueden emitir deuda para tratar de captar este aho rro privado. En el caso de los estados se habla de deuda pública, que son las letras, bonos y obligaciones del Estado.
+## Las empresas, al igual que los gobiernos, pueden emitir deuda
+
+para tratar de captar este ahorro privado. En el caso de los estados se habla de deuda pública, que son las letras, bonos y obligaciones del Estado.
 
 En el caso de las empresas se denominan títulos de deuda o empréstitos, y pueden ser pagarés o bonos y obligaciones.
 
@@ -6126,19 +6132,25 @@ En el caso de las empresas se denominan títulos de deuda o empréstitos, y pued
 
 Bonos y obligaciones: Son títulos de deuda a más largo plazo, que ofrecen una rentabilidad fija. En España, cuando se emiten por un plazo inferior a cinco años se denominan bonos, y superando ese tiempo, obliga ciones. En otros países, el término bono es genérico para todos los plazos de vencimiento. El inte rés en bonos y obligaciones suele ser mayor que en pagarés, para compensar la mayor cantidad de tiempo que el acreedor no dispone de su dinero.
 
-Unos y otros son activos financieros negociables, es decir, que se pueden vender o comprar en los mercados financieros secundarios.
+## Unos y otros son activos financieros negociables,
+
+es decir, que se pueden vender o comprar en los mercados financieros secundarios.
 
 Un mercado financiero primario es aquel en el que se emiten unos títulos (bonos, acciones, etc.). Está integrado, por tanto, por las empresas y los organismos públicos que ofrecen su deuda para que sea adquirida por ahorradores que quieren conseguir una rentabilidad a su dinero.
 
 Un mercado financiero secundario es aquel en el que se realizan intercambios de com praventa de los títulos ya existentes. Por ejemplo, las bolsas de valores o el MAB, como ya vimos en la Unidad 4, son mercados secundarios. La inmensa mayoría de las tran sacciones financieras se realiza en los mercados secundarios.
 
-Las empresas con exceso de recursos monetarios pueden optar por diferentes productos de inversión.Todos ellos se rigen por el binomio rentabilidad/riesgo, de manera que cuanto mayor sea el riesgo de una inversión, mayor tendrá que ser su rentabilidad para que resulte atractiva.
+## Las empresas con exceso de recursos monetarios
 
-La diferencia de rentabilidad potencial entre una inversión considerada libre de riesgo y otra con riesgo se [lama prima de riesgo. Con frecuencia, se utiliza el tipo de interés de emisión de las letras del Tesoro a un año como referencia de una inversión libre de riesgo.
+pueden optar por diferentes productos de inversión. Todos ellos se rigen por el binomio rentabilidad/riesgo, de manera que cuanto mayor sea el riesgo de una inversión, mayor tendrá que ser su rentabilidad para que resulte atractiva.
+
+La diferencia de rentabilidad potencial entre una inversión considerada libre de riesgo y otra con riesgo se llama prima de riesgo. Con frecuencia, se utiliza el tipo de interés de emisión de las letras del Tesoro a un año como referencia de una inversión libre de riesgo.
 
 Cuando se habla de la prima de riesgo de un país, información recurrente durante la crisis económica, se está comparando la diferencia de interés entre el bono a diez años de ese país con el bono alemán al mismo tiempo. Se compara con Alemania por tratar se del país europeo que ofrece más seguridad a la hora de invertir en ese momento.
 
-A la hora de invertir es importante tener definidos los objetivos, el plazo y la tolerancia al riesgo. De este modo, se delimita si se van a emplear recursos ociosos que se pueden inmo vilizar a medio plazo o si simplemente se espera mejorar el rendimiento de un capital que debe estar disponible.
+## A la hora de invertir
+
+es importante tener definidos los objetivos, el plazo y la tolerancia al riesgo. De este modo, se delimita si se van a emplear recursos ociosos que se pueden inmovilizar a medio plazo o si simplemente se espera mejorar el rendimiento de un capital que debe estar disponible.
 
 Invertir en la bolsa es una opción de riesgo, ya que el rendimiento obtenido al capital depen derá del acierto en la compra y venta de acciones, así como del momento en que se realicen.
 
@@ -6148,7 +6160,7 @@ Eso si se compran valores seguros y se esquivan las burbujas especulativas que g
 
 ## Control de tesorería
 
-Una buena gestión de tesorería o cash rnanagement supone asegurar el pago puntual e incrementar la rentabilidad de los excedentes monetarios. En definitiva, implica el control y buen uso del activo corriente y de los pasivos a corto plazo del balance contable.
+Una buena gestión de tesorería o cash management supone asegurar el pago puntual e incrementar la rentabilidad de los excedentes monetarios. En definitiva, implica el control y buen uso del activo corriente y de los pasivos a corto plazo del balance contable.
 
 Su actuación se evalúa con criterios económicos, de manera que, al finalizar el ejercicio con table, los gastos financieros abonados han debido ser menores que los ingresos financieros generados.
 
@@ -6156,34 +6168,24 @@ Compete al departamento o personal encargado de la tesorería la gestión de:
 
 - Flujos de cobro y pago.
 - Posiciones bancarías.
-- e Inversión de excedentes de tesorería.
+- Inversión de excedentes de tesorería.
 - Financiación de necesidades de tesorería.
 
-## estión de impagados
+## Gestión de impagados
 
 Las deudas que no se pagan constituyen un Impago. Las empresas pueden no cobrar de sus clientes o pueden no pagar a tiempo sus deudas con proveedores, con entidades financieras o con sus trabajadores.
 
-## Ejemplo 4. Datos sobre impagos
-
-Según los datos del Instituto Nacional de Estadística (!NE), de septiembre de 2012:
-
-- El 3,2% del importe de efectos vencidos resulta impagado, lo que asciende a un total de 533 millones de euros.
-- De este importe, el 63,6% corresponde a los bancos, el 29,8% a las cajas de ahorro y el 6,6% a las cooperativas de crédito. No obstante, el importe total ha disminuido un 16,2% respecto a 2011.
-- Canarias presenta el mayor porcentaje de importe de efectos impagados sobre vencidos (5,3%), mientras que la Comunidad de Madrid registra el menor (2,5%). La comunidad con mayor crecimiento anual del importe de los efectos de comercio impagados es Cantabria (13,4%), mientras que las islas Baleares presenta el mayor descenso (-37,1 %).
-
-Según el Banco de España, la tasa de morosidad de los créditos del sistema financiero espa ñol (bancos, cajas de ahorros, cooperativas y establecimientos financieros de crédito) cerró septiembre en el 10,7%, un nuevo máximo histórico desde 1994, cuando la mora se situó en un alarmante 9,15%. En diciembre de 2011, los créditos de dudoso cobro ascendían a más de 135000 millones de euros.
-
-Las compañías pueden defenderse de impagos por parte de los clientes contratando un servi cio deFactoring sin recurso que le exime de tramitar la reclamación, aunque a cambio pagará una comisión más alta a la empresa defactoring.
+Las compañías pueden defenderse de impagos por parte de los clientes contratando un servicio de Factoring sin recurso que le exime de tramitar la reclamación, aunque a cambio pagará una comisión más alta a la empresa defactoring.
 
 Algunas empresas recurren a los servicios de una agencia de gestión de cobros, y pueden registrar a sus clientes en un fichero de morosos, como el fichero ASNEF Industrial de la Asociación Española para la Prevención de Impagados y Morosos (AEPIM). El fichero ASNEF incluye a los morosos que han sido declarados así por un acreedor que es miembro de esta asociación; el coste del proceso son 15 euros. Una vez se ha incorporado en el fichero, la AEPIM notifica al deudor su inclusión en el registro ASNEF.
 
 Además, la AEPIM cuenta con otros servicios, tales como la gestión de cobros o la realización de informes de solvencia.
 
-Este servicio se desarrolla en dos fases: primero, se realiza una gestión amistosa en nombre de la empresa que solicita el servicio y, de ser insuficiente, el departamento jurídico valorará la opción de presentar una demanda judicial, realizando una estimación del coste del proceso. El servicio solo se cobra en caso de ganarse el juicio.
+- Gestión de cobros: Este servicio se desarrolla en dos fases: primero, se realiza una gestión amistosa en nombre de la empresa que solicita el servicio y, de ser insuficiente, el departamento jurídico valorará la opción de presentar una demanda judicial, realizando una estimación del coste del proceso. El servicio solo se cobra en caso de ganarse el juicio.
 
-Es un documento acerca del deudor que indica si este tiene notificaciones judiciales, algún tipo de impago, bienes susceptibles de ser embargados o si está incluido en registros de insolvencia o morosidad. El servicio tiene un coste de 22 euros.
+- Informe de solvencia: Es un documento acerca del deudor que indica si este tiene notificaciones judiciales, algún tipo de impago, bienes susceptibles de ser embargados o si está incluido en registros de insolvencia o morosidad. El servicio tiene un coste de 22 euros.
 
-En el caso de que sea la empresa la deudora, estos impagos pueden poner en riesgo su fun cionamiento.
+En el caso de que sea la empresa la deudora, estos impagos pueden poner en riesgo su funcionamiento.
 
 Para garantizar el pago puntual a proveedores y tener así asegurado el aprovisionamiento necesario, lo mejor es contratar un servicio de confirming, o bien, negociar un alargamiento del plazo de pago con los propios proveedores, que puede ser aceptado si la empresa compra grandes cantidades. No obstante, esta estrategia no es conveniente utilizarla repetidamente porque, además de conllevar un coste emocional, genera un sentimiento de desconfianza y traslada el peso de la deuda a otra empresa que puede, a su vez, verse afectada con problemas económicos o de liquidez.
 
@@ -6193,34 +6195,45 @@ Las entidades bancadas se protegen de los deudores a través de un estudio inici
 
 Los salarios no cobrados por parte de los trabajadores son reclamados ante un juzgado de lo social.
 
-El Registro de Aceptaciones Impagadas (RAÍ) es una base de datos de morosos man tenido por el Centro de Cooperación interbancaria (CCI). Solo puede ser consultado por bancos, cajas de ahorro, cajas rurales y cooperativas de crédito asociadas al CCI, si además aportan al fichero los datos de sus propios impagados.
+## El Registro de Aceptaciones Impagadas (RAI)
+
+es una base de datos de morosos man tenido por el Centro de Cooperación interbancaria (CCI). Solo puede ser consultado por bancos, cajas de ahorro, cajas rurales y cooperativas de crédito asociadas al CCI, si además aportan al fichero los datos de sus propios impagados.
 
 El propósito de este registro es intercambiar información para facilitar la gestión de ries gos en el sistema financiero. El sistema incluye el número de impagados, el importe total y la fecha de la última deuda sin satisfacer, siempre y cuando el importe del impago sea de, al menos, 300 euros. El afectado permanece inscrito en el sistema por un tiempo li mitado, y debe ser informado de su inclusión en tal fichero.
 
-Además del RAÍ y del ASNEF hay más ficheros, como el EQUIFAX, EXPERIAN, CIRBE, BADEXCU , o incluso el FSJ (Ficheros de Incidencias Judiciales). Con la actual crisis, estas bases de datos comienzan a ser más utilizadas.
+Además del RAI y del ASNEF hay más ficheros, como el EQUIFAX, EXPERIAN, CIRBE, BADEXCUG, o incluso el FIJ (Ficheros de Incidencias Judiciales). Con la actual crisis, estas bases de datos comienzan a ser más utilizadas.
 
 La inclusión en uno de estos ficheros puede significar que, a la hora de pedir un crédito o cualquier otro producto bancario o de servicios privados, le sean denegados.
 
-## I Intermediarios financieros
+## Ejemplo 4. Datos sobre impagos
 
-Los intermediarios financieros (bancos, cajas de ahorro, etc.) reciben el dinero de los ahorra dores y lo ofrecen a empresas con déficits que necesitan recursos económicos. Básicamente se distinguen dos tipos de intermediarios: los hancarios y los no hancarios.
+Según los datos del Instituto Nacional de Estadística (INE), de septiembre de 2012:
+
+- El 3,2% del importe de efectos vencidos resulta impagado, lo que asciende a un total de 533 millones de euros.
+- De este importe, el 63,6% corresponde a los bancos, el 29,8% a las cajas de ahorro y el 6,6% a las cooperativas de crédito. No obstante, el importe total ha disminuido un 16,2% respecto a 2011.
+- Canarias presenta el mayor porcentaje de importe de efectos impagados sobre vencidos (5,3%), mientras que la Comunidad de Madrid registra el menor (2,5%). La comunidad con mayor crecimiento anual del importe de los efectos de comercio impagados es Cantabria (13,4%), mientras que las islas Baleares presenta el mayor descenso (-37,1 %).
+
+Según el Banco de España, la tasa de morosidad de los créditos del sistema financiero español (bancos, cajas de ahorros, cooperativas y establecimientos financieros de crédito) cerró septiembre en el 10,7%, un nuevo máximo histórico desde 1994, cuando la mora se situó en un alarmante 9,15%. En diciembre de 2011, los créditos de dudoso cobro ascendían a más de 135000 millones de euros.
+
+## Intermediarios financieros
+
+Los intermediarios financieros (bancos, cajas de ahorro, etc.) reciben el dinero de los ahorra dores y lo ofrecen a empresas con déficits que necesitan recursos económicos. Básicamente se distinguen dos tipos de intermediarios: los bancarios y los no bancarios.
 
 - Intermediarios financieros bancarios. Está integrado por el Banco Central, la banca pri vada, las cajas de ahorro y las cooperativas de crédito. Captan los recursos de las unidades económicas con superávit, con productos que combinan distinto nivel de riesgo y rentabi lidad.
-- Intermediarios financieros no bancarios. Está compuesto por compañías aseguradoras, fondos de pensiones, sociedades de inversión, fondos de inversión, sociedades de crédito hipotecario, entidades de leasing, compañías deFactoring, sociedades mediadoras del mer cado de dinero y sociedades de garantía recíproca.
 
-Se caracterizan porque sus pasivos no son dinero, por lo que su actividad es más mediadora que la de los anteriores.
+- Intermediarios financieros no bancarios. Está compuesto por compañías aseguradoras, fondos de pensiones, sociedades de inversión, fondos de inversión, sociedades de crédito hipotecario, entidades de leasing, compañías deFactoring, sociedades mediadoras del mer cado de dinero y sociedades de garantía recíproca. Se caracterizan porque sus pasivos no son dinero, por lo que su actividad es más mediadora que la de los anteriores.
 
 Los productos que han creado las entidades bancarias para atraer el dinero de los agentes económicos con superávit son variados:
 
-Permite rebasar el 4% de rentabilidad, cuya ventaja estriba en no tener que invertir o depositar el dinero en ningún producto bancario.
+- Cuenta corriente: Permite rebasar el 4% de rentabilidad, cuya ventaja estriba en no tener que invertir o depositar el dinero en ningún producto bancario.
 
-Persigue el ahorro en las operaciones habituales con el banco, como exención en el pago de comisiones por la admi nistración y mantenimiento. En general, la remuneración gira en torno al 3 %, un interés superior al de otras cuentas corrientes.También dan derecho a la solicitud de tarjetas de débito y crédito sin cuota de mantenimiento. A partir de aquí, los bancos y cajas de ahorro diseñan productos más personalizados para competir con el resto, tales como tarifa cero para operar en bolsa o exención de comisiones por el uso de cualquier cajero.
+- Cuenta especial: Persigue el ahorro en las operaciones habituales con el banco, como exención en el pago de comisiones por la administración y mantenimiento. En general, la remuneración gira en torno al 3 %, un interés superior al de otras cuentas corrientes.También dan derecho a la solicitud de tarjetas de débito y crédito sin cuota de mantenimiento. A partir de aquí, los bancos y cajas de ahorro diseñan productos más personalizados para competir con el resto, tales como tarifa cero para operar en bolsa o exención de comisiones por el uso de cualquier cajero.
 
-Una de las alternativas para conseguir más rentabilidad en productos bancarios.ya que producen entre un 4%-5% de remuneración, con plazos variables de tres a veinticuatro meses.
+- Pagaré bancario: Una de las alternativas para conseguir más rentabilidad en productos bancarios.ya que producen entre un 4%-5% de remuneración, con plazos variables de tres a veinticuatro meses.
 
-Se trata de la renta fija más tradicional, con una rentabilidad que no supera el 4% pero que ofrece menor riesgo
+- Depósito bancario: Se trata de la renta fija más tradicional, con una rentabilidad que no supera el 4% pero que ofrece menor riesgo.
 
-Se puede obtener la mejor remuneración de todas, con imposiciones que generan hoy entre un 4,2 % y un 8%, y con plazos de permanencia que van desde un mes a doce meses. El principal problema de esta propuesta bancaria es que está vinculada a otros productos financieros, casi siempre de la renta variable. Son menos seguros, ya que se basan en el buen comportamiento de un índice o activo financiero, que bajo ningún aspecto está asegurado.
+- Depósito combinado: Se puede obtener la mejor remuneración de todas, con imposiciones que generan hoy entre un 4,2 % y un 8%, y con plazos de permanencia que van desde un mes a doce meses. El principal problema de esta propuesta bancaria es que está vinculada a otros productos financieros, casi siempre de la renta variable. Son menos seguros, ya que se basan en el buen comportamiento de un índice o activo financiero, que bajo ningún aspecto está asegurado.
 
 Antes de contratar ningún producto financiero es preciso conocer si la cancelación parcial o total del mismo conllevará comisiones. En tal caso, habría que invertir solo el dinero exce dente que no vaya a ser necesario de manera inmediata. En caso contrario, sería preferible mantenerlo en una cuenta corriente.
 
@@ -6228,7 +6241,7 @@ Los pagarés bancaríos son los productos más penalizados, ya que no se pueden 
 
 En los depósitos a plazo, siempre se pueden hacer rescates parciales o totales. No obstante, están penalizados por comisiones de hasta el 2% o por bajadas en la rentabilidad.
 
-## D. estión de las obligaciones fiscales
+## D. Gestión de las obligaciones fiscales
 
 Las empresas, al igual que las personas físicas, están obligadas al pago de impuestos. Es una manera de repartir la riqueza y de contribuir de forma solidaria para la creación de bienes y servicios asequibles a la sociedad, como la creación de hospitales y escuelas, servicios públi cos, cuerpos de seguridad del estado, infraestructuras, etc.
 
@@ -6236,7 +6249,7 @@ La planificación fiscal que llevan a cabo las compañías busca reducir su carg
 
 ## Ejemplo 5. Reducir cargas tributarias
 
-Una empresa podría preguntarse si es preferible comprar un vehículo y soportar el IVA y el IVTM (Impuesto de Vehículos de Tracción Mecánica) o si bien es mejor contratar un leasingy beneficiarse de las ventajas fiscales que ello ofrece.
+Una empresa podría preguntarse si es preferible comprar un vehículo y soportar el IVA y el IVTM (Impuesto de Vehículos de Tracción Mecánica) o si bien es mejor contratar un leasing y beneficiarse de las ventajas fiscales que ello ofrece.
 
 ## Ejemplo 6. Rebajas en pagos anticipados
 
@@ -6252,34 +6265,39 @@ Para facilitar el pago y la información a los contribuyentes, la Agencia Tribut
 
 Este calendario también está disponible en inglés, como ayuda a las empresas internacionales que tienen obligaciones tributarias en España.
 
-B
+## Los pagos a cuenta
 
-Los pagos a cuenta son pagos anticipados de un impuesto que se abonará después en la liquidación final. Existen tres modalidades de pagos a cuenta: pagos fraccionados, retenciones e ingresos a cuenta.
+son pagos anticipados de un impuesto que se abonará después en la liquidación final. Existen tres modalidades de pagos a cuenta: pagos fraccionados, retenciones e ingresos a cuenta.
 
-Son pagos parciales realizados por el contribuyente que, más adelante, estará obligado a realizar la liquidación total del impuesto.
+- Pagos fraccionados: Son pagos parciales realizados por el contribuyente que, más adelante, estará obligado a realizar la liquidación total del impuesto.
 
-## Ejemplo
+Ejemplo: El Impuesto sobre Sociedades exige el pago fraccionado trimestral.
 
-El Impuesto sobre Sociedades exige el pago fraccionado trimestral.
+- Retenciones: Son las cantidades retenidas por las empresas, del salario de sus trabajadores o de los pagos a profesionales.
 
-Son las cantidades retenidas por las empresas, del salario de sus trabajadores o de los pagos a profesionales.
+Ejemplo: Los pagos a profesionales como: abogados o gestores.
 
-## Ejemplo
+- Ingresos a cuenta: Es la cantidad estimada de impuestos que debe ingresar en Hacienda el receptor de un cobro en especie.
 
-Los pagos a profesionales como: abogados o gestores.
+Ejemplo: El ganador de un coche en un sorteo o rifa.
 
-Es la cantidad estimada de impuestos que debe ingresar en Hacienda el receptor de un cobro en especie.
+## Simulación empresarial
 
-## Ejemplo
+El objetivo de esta unidad es que apliquéis a vuestra empresa medidas gerenciales básicas, relativas a la organización del stock, a la toma de decisiones basada en datos con tables, a la administración de los recursos financieros en función de las necesidades de inversión necesarias y, por último, al cumplimiento puntual de las obligaciones fiscales.
 
-El ganador de un coche en un sorteo o rifa.
-
-El objetivo de esta unidad es que apliquéis a vuestra empresa medidas gerenciales bá sicas, relativas a la organización del stock, a la toma de decisiones basada en datos con tables, a la administración de los recursos financieros en función de las necesidades de inversión necesarias y, por último, al cumpli miento puntual de las obligaciones fiscales.
-
-Al finalizar el tema, recogerás toda esta in formación para el plan de empresa en dos apartados denominados:
+Al finalizar el tema, recogerás toda esta información para el plan de empresa en dos apartados denominados:
 
 1. Plan de aprovisionamiento.
 2. Obligaciones fiscales.
+
+## Fases de la Simulación empresarial
+
+- Fase 1. Plan de aprovisionamiento
+- Fase 2. Gestión de contabilidad
+- Fase 3. Evaluación de las inversiones realizadas
+- Fase 4. Control de tesorería y gestión de impagados
+- Fase 5. Intermediarios financieros
+- Fase 6. Gestión de las obligaciones fiscales
 
 ## Fase 1. Plan de aprovisionamiento
 
@@ -6289,63 +6307,55 @@ El objetivo es la organización y adquisición de las existencias que se generan
 
 En suma, genera dos grandes bloques de actividad:
 
-- estión de stocks o de inventarios. Esta función persigue organizar y llevar el control de las existencias que permanecen en stock o de los productos en proceso, así como realizar el recuento de las existencias y determinar su almacenamiento en óptimas condiciones de conservación y al menor coste posible.
-- estión de compras. Este cometido conlleva la relación con proveedores, la búsqueda de las mejores ofertas, la comparativa del precio de las mercancías con su calidad, el tiempo de entrega y plazo para el pago, así como la realización de pedidos, asegurar la recepción a tiempo, el control del estado de la mercancía, la administración de los pagos y la comuni cación con el servicio posventa.
+- Gestión de stocks o de inventarios. Esta función persigue organizar y llevar el control de las existencias que permanecen en stock o de los productos en proceso, así como realizar el recuento de las existencias y determinar su almacenamiento en óptimas condiciones de conservación y al menor coste posible.
 
-## estión de stocks o de inventarios
+- Gestión de compras. Este cometido conlleva la relación con proveedores, la búsqueda de las mejores ofertas, la comparativa del precio de las mercancías con su calidad, el tiempo de entrega y plazo para el pago, así como la realización de pedidos, asegurar la recepción a tiempo, el control del estado de la mercancía, la administración de los pagos y la comuni cación con el servicio posventa.
+
+## Gestión de stocks o de inventarios
 
 Los gastos de almacenamiento son más importantes de lo que pudiera pensarse a priori. Incluyen gastos de personal y gastos de espacio físico:
 
 - El personal. Su función es asegurar el traslado de los bienes de fábrica al almacén y de aquí al punto de venta, además del mantenimiento en cuanto a limpieza y control de su calidad, la custodia para evitar robos o deterioros accidentales y la gestión administrativa de todo el proceso.
+
 - Espacio físico. Los gastos que genera incluyen tanto el valor del terreno y del inmueble que los acumula, como el precio de alarmas y seguros, del mobiliario específico para un almacenaje ordenado, de la maquinaría para su colocación en altura, etc.
-
-## Fases de la Simulación empresarial
-
-- Fase 1. Plan de aprovisionamiento
-- Fase 2. estión de contabilidad
-- Fase 3. Evaluación de las inversiones realizadas
-- Fase 4. Control de tesorería y gestión de impagadqs
-- Intermediarios financieros Fase 5.
-- Fase 6. estión de las obligaciones fis cales
 
 - Costes financieros y de oportunidad. Estos gastos se producen por tener el dinero in movilizado en unos excedentes que durante un tiempo resultan improductivos, en lugar de emplearlos en otras inversiones más rentables. Sin embargo, en ocasiones los descuentos obtenidos por volumen de pedido o el coste del transporte de un gran volumen de mercan cías compensan la inmovilización de esta mercancía.
 
 Para la gestión adecuada del stock es importante delimitar algunos conceptos:
 
-| §2\S Es la cantidad máxima de existencias que se van a almacenar.                                                                                                                                               |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| \*'I 1 Es el límite de stock por debajo del cual se encargará un nuevo pedido.                                                                                                                                  |
-| Es la cantidad de existencias innecesarias para un ciclo productivo pero que se acumulan intencionalmente para evitar problemas posteriores de abastecimiento, que generarían unos costes de ruptura de stocks. |
-| Son los gastos que se generan al detener la producción por carecer de materias primas necesarias.                                                                                                               |
+- Stock máximo: Es la cantidad máxima de existencias que se van a almacenar.
+- Punto de pedido: Es el límite de stock por debajo del cual se encargará un nuevo pedido.
+- Stock de seguridad: Es la cantidad de existencias innecesarias para un ciclo productivo pero que se acumulan intencionalmente para evitar problemas posteriores de abastecimiento, que generarían unos costes de ruptura de stocks.
+- Costes de ruptura de stocks: Son los gastos que se generan al detener la producción por carecer de materias primas necesarias.
 
-## estión de compras
+## Gestión de compras
 
-La toma de decisiones debe estar fundamentada en una correcta información sobre las ne cesidades de existencias y sobre el stock acumulado. De entre todos los enfoques gerenciales posibles, hay uno que ha despuntado desde finales de los años setenta por su probada efica cia: el modeloJustin time.
+La toma de decisiones debe estar fundamentada en una correcta información sobre las ne cesidades de existencias y sobre el stock acumulado. De entre todos los enfoques gerenciales posibles, hay uno que ha despuntado desde finales de los años setenta por su probada eficacia: el modelo Just in time.
 
-- D ModeloJustin time (JIT) o Justo a tiempo
+## Modelo Just in time (JIT) o Justo a tiempo
 
 Este sistema de organización de la producción surgió en Japón como alternativa al taylo rismo, el modelo clásico de gestión de una fábrica.
 
-El taylorismo, término derivado de su creador FrederickWinslowTaylor, se basa en la pro ducción en cadena gracias a un sistema de secuencialización de la tarea productiva y de la especialización de los trabajadores en una parte de la misma. Fue un método de organización industrial muy eficaz durante la Revolución industrial, cuando el mayor volumen de produc ción de las fábricas exigía aumentar el ritmo y la productividad de los trabajadores. De esta manera, se arrinconaba el sistema artesanal de fabricación en el que un trabajador es res ponsable de todo el proceso productivo de un bien, para incorporar un proceso industrial de fabricación, en el que cada obrero es una parte de la cadena productiva.
+El taylorismo, término derivado de su creador FrederickWinslowTaylor, se basa en la pro ducción en cadena gracias a un sistema de secuencialización de la tarea productiva y de la especialización de los trabajadores en una parte de la misma. Fue un método de organización industrial muy eficaz durante la Revolución industrial, cuando el mayor volumen de producción de las fábricas exigía aumentar el ritmo y la productividad de los trabajadores. De esta manera, se arrinconaba el sistema artesanal de fabricación en el que un trabajador es res ponsable de todo el proceso productivo de un bien, para incorporar un proceso industrial de fabricación, en el que cada obrero es una parte de la cadena productiva.
 
-En el modelo JIT o toyotismo, término que alude a la fábrica de coches donde se implantó por primera vez, se centra en reducir el coste de la producción reduciendo el stock a cero. De esta forma, la producción está sujeta a la demanda realizada y no tanto a la esperada, es decir, se producen los bienes necesarios, en las cantidades requeridas, en el momento en que se solicitan. El ahorro en los costes de almacenamiento genera una ventaja com petitiva.
+En el modelo JIT o toyotismo, término que alude a la fábrica de coches donde se implantó por primera vez, se centra en reducir el coste de la producción reduciendo el stock a cero. De esta forma, la producción está sujeta a la demanda realizada y no tanto a la esperada, es decir, se producen los bienes necesarios, en las cantidades requeridas, en el momento en que se solicitan. El ahorro en los costes de almacenamiento genera una ventaja competitiva.
 
 Este nuevo sistema se debe a Taiichi Ohno, ingeniero de Toyota, que enfocó el proceso de producción de manera que el último eslabón de la cadena definiría las necesidades del paso previo. El sistema requiere un nivel de coordinación excepcional, para evitar parones en el proceso productivo, razón por la que Ohno inventó un sencillo sistema de comunicación basado en tarjetas donde se apuntaba la cantidad de material que se solicitaba al al macén.
 
 Junto a la idea básica de stock cero, el modelo persigue la máxima eficiencia de la produc ción, a través de un control de calidad exhaustivo que reduzca la producción de productos defectuosos y una precisión por parte de los proveedores en los plazos de entrega.
 
-Durante la crisis de los años setenta las empresas japonesas experimentaron un crecimiento inesperado, gracias a la aplicación de este sistema, razón por la cual las empresas de otras par tes del mundo imitaron este modelo de gestión; en España, Superlópez lo implantó en la fá brica de general Motors.
+Durante la crisis de los años setenta las empresas japonesas experimentaron un crecimiento inesperado, gracias a la aplicación de este sistema, razón por la cual las empresas de otras par tes del mundo imitaron este modelo de gestión; en España, Superlópez lo implantó en la fábrica de General Motors.
 
 ## Actividad de simulación 1
 
 Realiza un plan de aprovisionamiento para vuestra empresa.
 
-## Ayuda práctica:
+Ayuda práctica:
 
 - a) Comienza por elaborar un listado de todos los suministros que necesitaréis para desa rrollar vuestra actividad. Después, enumera los proveedores que mejor podrían abas teceros, según el conocimiento que tengáis del sector y según las condiciones de venta que ofrecen, si es preciso puedes localizarlos en Internet.
 - b) Por último, debes tener en consideración la estimación de ventas efectuada en unida des anteriores, para realizar la previsión de compras (número de unidades y periodici dad del pedido).
 
-## Fase 2. estión de contabilidad
+## Fase 2. Gestión de contabilidad
 
 La gestión de contabilidad se encarga del análisis económico de una empresa con la inten ción de facilitar la toma de decisiones por parte de la gerencia. Vamos a ejemplificar la impor tancia de esta labor con un caso fallido de gestión de contabilidad. Una mala práctica puede ser tan ilustrativa como una buena gestión directiva, ya que pone de manifiesto los errores a evitar y sus gravísimas consecuencias.
 
@@ -6355,17 +6365,17 @@ Lehman Brothers Holdings Inc, fundada en 1850, llegó a ser el cuarto banco de i
 
 El holding tenía su sede social en Nueva York, pero poseía sucursales en todo el mundo. En 2008, la compañía anunció suspensión de pagos y, unos años después, la quiebra definitiva.
 
-## Pinceladas históricas
+- Pinceladas históricas
 
 En 1844, los hijos de un comerciante alemán de ganado emigraron a Estados Unidos y abrie ron un comercio, que se denominó Lehman Brothers.
 
-Aprovechando el alto valor del algodón, la empresa comenzó a aceptar este elemento como forma de pago, algo equivalente a aceptar el oro en lugar del dinero, solo que en este caso se trataba de una materia prima que luego se podía comercializar. De esta manera, la firma acabó convirtiéndose en un negocio de algodón tratado y de ahí fue evolucionando hasta convertirse en banca de inversión, es decir, en una entidad financiera especializada en inver siones, gestión de activos financieros, banca comercial y servicios bancarios en general.
+Aprovechando el alto valor del algodón, la empresa comenzó a aceptar este elemento como forma de pago, algo equivalente a aceptar el oro en lugar del dinero, solo que en este caso se trataba de una materia prima que luego se podía comercializar. De esta manera, la firma acabó convirtiéndose en un negocio de algodón tratado y de ahí fue evolucionando hasta convertirse en banca de inversión, es decir, en una entidad financiera especializada en inversiones, gestión de activos financieros, banca comercial y servicios bancarios en general.
 
 La compañía superó momentos económicos difíciles, como la uerra de Secesión, la crisis bancaria de 1907-tan parecida a la actual-, la ran Depresión o la crisis de la década de 1980.
 
 Sin embargo, no sobrevivió a la crisis de finales del año 2000, originada por la crisis inmobi liaria y las hipotecas subprime («hipotecas basura»).
 
-## Hipotecas suhprírne
+- Hipotecas subprime
 
 Las hipotecas subprime, hipotecas tóxicas, hipotecas de alto riesgo o hipotecas basura son aquellos préstamos otorgados a personas con pocas garantías de solvencia. El crecimiento económico de los años previos hizo creer que las personas que presentaban un nivel de ries go alto podían ser candidatos a recibir un préstamo. En Estados Unidos se oían voces que defendían el derecho de cualquier ciudadano a tener acceso a una vivienda en propiedad. El momento de expansión económica que se vivía mostraba datos optimistas, como un bajo nivel de desempleo y salarios elevados.
 
@@ -6375,7 +6385,7 @@ Sin embargo, la estimación se quedó corta. Mientras que en el año 2003 las hi
 
 Lehman Brothers experimentó las consecuencias de este exceso de confianza. Acumuló enor mes pérdidas por hipotecas impagadas. En 2008 la empresa anunció la suspensión de pagos. En el año 2012 se declaró la quiebra total y comenzó el concurso de acreedores. Se llevó a cabo la liquidación total de sus activos, logrando reunir 65000 millones de dólares, que no podían cubrir los 450000 millones de deuda que reclamaban los acreedores. Muchas voces sitúan esta caída como el inicio de la crisis económica mundial, una crisis caracterizada por la ausencia de liquidez global.
 
-## Contabilidad engañosa
+- Contabilidad engañosa
 
 La quiebra de Lehman Brothers tuvo una gran repercusión mediática. No solo por tratarse de una entidad financiera tan grande, sino porque cuando la entidad tuvo conocimiento de sus malos resultados, maquilló su balance para evitar que trascendieran estos datos.
 
@@ -6385,15 +6395,19 @@ Las pérdidas, no obstante, fueron más severas de lo esperable y la entidad no 
 
 Además, la adulteración de los datos contables y su aceptación por parte de la empresa auditora escandalizó a los mercados, que vieron cómo se supeditaban los valores éticos a los económicos.
 
-## Conclusiones finales
+- Conclusiones finales
 
 Lehman Brothers era una de las empresas que más invertía en la selección y atracción de talento. Recorría las escuelas de negocios reclutando a los mejores MBA del mundo, ofrecién doles sueldos un 50% más altos que otras firmas. Con tanto talento, ¿cómo pudieron llegar a una situación como la que se acaba de describir?
 
-La respuesta es compleja y no puede simplificarse con un único argumento de codicia o de afán especulativo. Hay más elementos que entran en juego en una organización tan grande y -210- tan bien posicionada en el mercado, como la presión por la expansión, la exigencia de man tener la ventaja competitiva en el sistema, la cultura organizacional de incentivar resultados a corto plazo, el abono de comisiones por la cantidad de transacciones financieras efectuadas más que por su calidad, etc.
+La respuesta es compleja y no puede simplificarse con un único argumento de codicia o de afán especulativo. Hay más elementos que entran en juego en una organización tan grande y tan bien posicionada en el mercado, como la presión por la expansión, la exigencia de mantener la ventaja competitiva en el sistema, la cultura organizacional de incentivar resultados a corto plazo, el abono de comisiones por la cantidad de transacciones financieras efectuadas más que por su calidad, etc.
 
 Si bien ya no se puede remediar la quiebra de esa entidad, sí es posible prevenir situaciones venideras similares. La clave es recordar siempre esta premisa: es imposible obtener rentabi lidades enormes con bajo nivel de riesgo, de la misma manera que los altos rendimientos, a la larga, suelen llevar a la ruina.
 
-Un hoiding es un conglomerado de empresas en el que una compañía controla las acti vidades de las demás porque posee la totalidad o una parte significativa de sus acciones.
+## Holding
+
+Un holding es un conglomerado de empresas en el que una compañía controla las acti vidades de las demás porque posee la totalidad o una parte significativa de sus acciones.
+
+## MBA
 
 MBA alude a Master Business Administration, es decir, a personal con formación especializada en administración de empresas.
 
@@ -6401,7 +6415,7 @@ MBA alude a Master Business Administration, es decir, a personal con formación 
 
 En esta fase debes tomar decisiones de gestión empresarial respecto a los resultados contables obtenidos en la unidad anterior.
 
-## Ayuda práctica:
+Ayuda práctica:
 
 Revisa vuestro balance y analiza con detenimiento los datos. Luego, reflexiona si la em presa está progresando como esperabais o si, por el contrario, hay que introducir algunos cambios y cuáles serían. Si ya han sido recogidos en la unidad anterior, no hace falta que los repitas.
 
@@ -6413,21 +6427,13 @@ Las empresas evalúan la rentabilidad de los activos financieros en los que tien
 
 Entre los métodos dinámicos se encuentran:
 
-Es una vanante del Flujo neto de caja, ya que se calcula el valor actualizado de todos los datos que se anotan. Un VAN positivo predice que el proyecto será rentable. Incluso en un proyecto empresarial suele analizarse la rentabilidad potencial de la idea de negocio, comparando el beneficio obtenido por la actividad empresarial con el que se lograría en una inversión de poco riesgo, como letras del Estado. En caso de VAN negativo, sería preferible invertir el dinero en dichos productos en lugar de dedicar tiempo y esfuerzo a la creación empresarial.
+1. Valor Actual Neto (VAN): Es una variante del Flujo neto de caja, ya que se calcula el valor actualizado de todos los datos que se anotan. Un VAN positivo predice que el proyecto será rentable. Incluso en un proyecto empresarial suele analizarse la rentabilidad potencial de la idea de negocio, comparando el beneficio obtenido por la actividad empresarial con el que se lograría en una inversión de poco riesgo, como letras del Estado. En caso de VAN negativo, sería preferible invertir el dinero en dichos productos en lugar de dedicar tiempo y esfuerzo a la creación empresarial.
 
-Calcula la tasa de interés con la cual el VAN es igual a cero, de forma que una inversión es aconsejable si laTIR es supe rior a la tasa exigida por el inversor. Para ello, la TIR se compara con una tasa de corte, que será el coste de oportunidad de la inversión.
+2. Tasa Interna de Retorno (TIR): Calcula la tasa de interés con la cual el VAN es igual a cero, de forma que una inversión es aconsejable si laTIR es supe rior a la tasa exigida por el inversor. Para ello, la TIR se compara con una tasa de corte, que será el coste de oportunidad de la inversión.
 
-Es una vanante del método del pay-hack estático. Calcula el tiempo necesario para que se recupere el valor actualizado de una inversión.
+3. Payback dinámico o descontado: Es una variante del método del pay-hack estático. Calcula el tiempo necesario para que se recupere el valor actualizado de una inversión.
 
-El valor actualizado de un bien considera su valor en moneda comente, es decir, teniendo en cuenta la pérdida de valor del dinero a consecuencia del paso del tiempo.
-
-f
-
-i
-
-i
-
-i
+- El valor actualizado de un bien considera su valor en moneda comente, es decir, teniendo en cuenta la pérdida de valor del dinero a consecuencia del paso del tiempo.
 
 Los tres métodos dinámicos analizados son complementarios. Cada uno de ellos contempla un aspecto diferente del problema, por lo que al usarse simultáneamente dan una visión más global.
 
@@ -6435,17 +6441,17 @@ Los tres métodos dinámicos analizados son complementarios. Cada uno de ellos c
 
 Los métodos estáticos más utilizados son:
 
-Se calcula el tiempo que transcurre hasta que se recupera el valor de la inversión inicial. Es decir, se trata de estimar en cuánto tiempo los beneficios logrados con el uso del bien igualan el precio de compra. Se intenta siempre que el periodo de retorno sea el más breve posible.
+- Periodo de retorno o de reucperación o pay-back estático: Se calcula el tiempo que transcurre hasta que se recupera el valor de la inversión inicial. Es decir, se trata de estimar en cuánto tiempo los beneficios logrados con el uso del bien igualan el precio de compra. Se intenta siempre que el periodo de retorno sea el más breve posible.
 
-Se trata de incorporar al valor de compra del activo (en negativo) los saldos positivos que se van obteniendo al utilizar el activo.
+- Flujo neto de caja o cash-flow estático: Se trata de incorporar al valor de compra del activo (en negativo) los saldos positivos que se van obteniendo al utilizar el activo.
 
-Todos los métodos estadísticos adolecen de un mismo defecto: no contemplan el diferente valor del dinero según el paso del tiempo. Por ello, el dato obtenido puede resultar erróneo. Por el contrario, los métodos dinámicos sí que incluyen este aspecto. Al igualar todas las can tidades monetarias al mismo momento de tiempo, el cálculo resulta más preciso.
+Todos los métodos estadísticos adolecen de un mismo defecto: no contemplan el diferente valor del dinero según el paso del tiempo. Por ello, el dato obtenido puede resultar erróneo. Por el contrario, los métodos dinámicos sí que incluyen este aspecto. Al igualar todas las cantidades monetarias al mismo momento de tiempo, el cálculo resulta más preciso.
 
 ## Actividad de simulación 3
 
 Calcula el pay-back estático y el flujo neto de caja de un activo cualquiera que hayáis comprado.
 
-## Ayuda práctica:
+Ayuda práctica:
 
 A modo de ejemplo, imagina que tu empresa adquiere una máquina industrial por 900000 euros que permite producir móviles que luego comercializará. Obtendrá un be neficio de 300000 euros al año.
 
@@ -6465,11 +6471,11 @@ En el año 2004, España aprobó la ley de lucha contra la morosidad para proteg
 
 Para evitar el impacto negativo de estos impagos, las compañías pueden contratar una línea de descuento comercial, como ya se vio en la Unidad 4. Los efectos comerciales más usados son las letras de cambio, cheques y pagarés.
 
-Es un documento emitido por una empresa contra uno de sus clientes, donde se expresa el importe y el plazo para el abono de unas cantidades adeudadas.
+- Letras de cambio: Es un documento emitido por una empresa contra uno de sus clientes, donde se expresa el importe y el plazo para el abono de unas cantidades adeudadas.
 
 Es decir, es emitido por quien debe cobrar la deuda. Tiene la ventaja adicional de ser negociable y de poderse endo sar, es decir, que se puede trasladar el cobro a un tercero, por ejemplo, a una entidad financiera.
 
-Es un documento que incluye la obligación de pago a un beneficiario de una suma de dinero, en un plazo de tiempo establecido.
+- Pagarés: Es un documento que incluye la obligación de pago a un beneficiario de una suma de dinero, en un plazo de tiempo establecido.
 
 Es decir, el pagaré no deja de ser una promesa incondicional de pagar una suma de dinero y sus respectivos intereses, emitida por el deudor. El pago queda determinado en el momento a partir del cual se podrá hacer efectivo su cobro, eso es, no existe obligación de cobro o de pago hasta dicho momento.
 
@@ -6483,7 +6489,9 @@ Ahora bien, para poder obtener el importe avanzado antes de los 90 días de plaz
 
 A pesar de todas las precauciones y medidas legales adoptadas, el porcentaje de efectos de comercio impagados alcanza ya el 6,1 %. Según un estudio de la UE, la principal causa de esta morosidad no son las dificultades financieras (23% de los casos), ni la ineficacia administra tiva (17% del total), sino la intencionalidad, que alcanza el 35% en Europa y en España llega hasta el 62%. La reclamación por vía amistosa consigue satisfacer un 95% de las deudas antes de los 180 días. Y la vía judicial llega al 34%, aunque el coste en términos económicos y de tiempo es alto.
 
-En caso de impago, la reclamación inicial se realiza en términos cordiales a través de una llamada telefónica, una carta o un correo electrónico, al cabo de una semana de demora en el pago.
+## En caso de impago,
+
+la reclamación inicial se realiza en términos cordiales a través de una llamada telefónica, una carta o un correo electrónico, al cabo de una semana de demora en el pago.
 
 La ineficacia de esta medida da paso a una segunda notificación, en la que se apremie al pago, indicando el nuevo plazo y la forma de liquidar la deuda, así como se informa de las medidas legales a llevar a cabo. Este requerimiento se puede hacer por medios tradicionales o por medios telemáticos.
 
@@ -6498,7 +6506,7 @@ Junto a ello han surgido otros tipos de comunicación a través de los medios te
 - El certimail o mail certificado. Es un envío de correo electrónico que queda certificado y sirve de prueba de su expedición y de su contenido. Es posible, además, realizar un se guimiento online continuado de todas las notificaciones emitidas, ya que el emisor recibe información de todos los acuses de recibo o del rechazo de la notificación.
 - Burotext. Envía mensajes cortos certificados (SMS o MMS, si llevan imágenes incorpora das) a través de un móvil. Tiene validez legal, de manera que puede usarse como prueba legítima de comunicación. enera un acuse de recibo en PDF, en el que se certifica el envío y el contenido.
 
-## Ejemplo 9, Los cobradores de morosos. ¿Cómo funcionan?
+## Ejemplo 9. Los cobradores de morosos. ¿Cómo funcionan?
 
 «Las agencias de gestión de cobros son contratadas por un acreedor para tratar de conseguir el cobro de su deuda. España es el único país de la UE donde no está regulada la actividad de recobro extrajudicial de deudas, lo que les permite flexibilidad en sus actuaciones.
 
@@ -6506,15 +6514,15 @@ Según denuncia la Asociación de Afectados por Embargos y Subastas (AFES), sus 
 
 No todas las empresas, sin embargo, traspasan los límites éticos. Algunas compañías han fija do un código ético y deontológico para que sea respetado por sus trabajadores.
 
-Por ejemplo, la Asociación Nacional de Entidades de estión de Cobros (Angeco) ha establecido un código ético que incluye puntos sobre la moralidad de sus colaboradores, la confidencialidad de las informaciones, la aplicación de las tarifas convenidas y la rendición regular de las cuentas. Además establece un código deontológico sobre las obligaciones de los acreedores, que incluye no reclamar más que el importe de las sumas contractuales y legalmente debidas, identificarse claramente, sin ambigüedad y sin atribuirse otra personalidad, y respetar la vida privada de los deudores.
+Por ejemplo, la Asociación Nacional de Entidades de Gestión de Cobros (Angeco) ha establecido un código ético que incluye puntos sobre la moralidad de sus colaboradores, la confidencialidad de las informaciones, la aplicación de las tarifas convenidas y la rendición regular de las cuentas. Además establece un código deontológico sobre las obligaciones de los acreedores, que incluye no reclamar más que el importe de las sumas contractuales y legalmente debidas, identificarse claramente, sin ambigüedad y sin atribuirse otra personalidad, y respetar la vida privada de los deudores.
 
 Y desde las asociaciones de afectados se lucha por evitar estas prácticas vergonzantes y acosadoras. No obstante, aunque perseguir a una persona vestido de frac, fraile, oso o torero puede llegar a ser un delito de coacción y amenazas, no es fácil llevar a juicio estas conductas, por la falta de una legislación clara.
 
-En 2009 hubo un intento del Congreso de los Diputados para regular las empresas de recla mación de deudas. Aunque se reconocía la existencia de profesionales competentes que uti lizan métodos legales, también es cierto que existen otros que con sus actuaciones lesionan gravemente los derechos más fundamentales de la persona. Y para evitar que estos actúen impunemente, se pedían medidas de protección frente a aquellas actuaciones que atenta ran a la dignidad de las personas o invadieran su intimidad, así como que los acreedores pudieran ver acortados los plazos en la resolución de reclamaciones. Desgraciadamente, la iniciativa no llegó a nada y decayó con el cambio de legislatura.
+En 2009 hubo un intento del Congreso de los Diputados para regular las empresas de recla mación de deudas. Aunque se reconocía la existencia de profesionales competentes que uti lizan métodos legales, también es cierto que existen otros que con sus actuaciones lesionan gravemente los derechos más fundamentales de la persona. Y para evitar que estos actúen impunemente, se pedían medidas de protección frente a aquellas actuaciones que atentaran a la dignidad de las personas o invadieran su intimidad, así como que los acreedores pudieran ver acortados los plazos en la resolución de reclamaciones. Desgraciadamente, la iniciativa no llegó a nada y decayó con el cambio de legislatura.
 
 De momento, el único recurso efectivo es interponer una reclamación ante la Agencia Espa ñola de Protección de Datos (AEPD), por la divulgación de datos privados, vulnerando así el deber de secreto y la protección de datos.
 
-La AEPD ha denunciado prácticas ilegales y ha impuesto sanciones. Así, contra Cetelem, un banco especializado en créditos al consumo, a quien sancionó con una multa de 80000 euros por divulgar a familiares y vecinos los datos de un deudor; contra Cofidis, una entidad espe cializada en préstamos personales, con una multa de 60000 euros; y contra general Electric Money Bank, una multa de 3000 euros por enviar faxes con detalles de la persona deudora a su lugar de trabajo; y a Movistar, con multa de 50000 euros por incluir a un deudor en una base de datos de morosos antes de reclamar el impago.»
+La AEPD ha denunciado prácticas ilegales y ha impuesto sanciones. Así, contra Cetelem, un banco especializado en créditos al consumo, a quien sancionó con una multa de 80000 euros por divulgar a familiares y vecinos los datos de un deudor; contra Cofidis, una entidad especializada en préstamos personales, con una multa de 60000 euros; y contra general Electric Money Bank, una multa de 3000 euros por enviar faxes con detalles de la persona deudora a su lugar de trabajo; y a Movistar, con multa de 50000 euros por incluir a un deudor en una base de datos de morosos antes de reclamar el impago.»
 
 Fuente: 20 minutos. Madrid, 29 de enero de 2012 [en línea]
 
@@ -6522,7 +6530,7 @@ Fuente: 20 minutos. Madrid, 29 de enero de 2012 [en línea]
 
 Redacta una carta en la que exijáis a un cliente el pago de una deuda.
 
-## Ayuda práctica:
+Ayuda práctica:
 
 - a) La primera vez que se inicia la comunicación se suele realizar en términos cordiales, ya que puede haber sido un error o un despiste. Por ello, en el encabezado se puede poner «Estimado Sr.», y en la despedida «Reciba un cordial saludo», en lugar de las formalidades «Muy señor mío» y «Atentamente», que se usarán en próximas comu nicaciones.
 - b) La argumentación debe ser breve y asertiva, sin amenazas ni ambages. Es preferible no usar el subjuntivo ni el condicional porque transmiten duda.
@@ -6539,19 +6547,15 @@ El sistema financiero se ha desarrollado para dar respuesta a todas las necesida
 
 Como vimos al analizar el caso de Nueva Rumasa, al inicio de esta unidad, y al estudiar los ratios financieros en la Unidad 5, para que las necesidades de financiación de la empresa no comprometan su supervivencia, es preciso que buena parte de la financiación esté sustentada en fondos propios. Al menos, los gastos permanentes y de activo fijo deberían estar respalda dos por un patrimonio neto de cierta magnitud.
 
-Los intermediarios financieros bancarios han creado una serie de productos para favorecer la actividad económica de las empresas.
+## Los intermediarios financieros bancarios han creado una serie de productos para favorecer la actividad económica de las empresas.
 
-Integran varios productos financieros en uno solo, como la contratación de una cuenta corriente sin gastos de mante nimiento, tarjeta de crédito y de débito, así como descubiertos bancarios con un tipo de interés menor que el aplicable en otras cuentas corrientes. En algunos casos se ofrece una bonificación de varios meses si el autónomo se encuentra de baja por enfermedad grave. A cambio, la cuenta tiene que contar con un saldo trimestral mínimo y un número determi nado de recibos domiciliados. El precio se fija como una tarifa fija y global, a partir de 8 euros al mes.
+1. Planes integrales para trbajadores por cuenta propia: Integran varios productos financieros en uno solo, como la contratación de una cuenta corriente sin gastos de mantenimiento, tarjeta de crédito y de débito, así como descubiertos bancarios con un tipo de interés menor que el aplicable en otras cuentas corrientes. En algunos casos se ofrece una bonificación de varios meses si el autónomo se encuentra de baja por enfermedad grave. A cambio, la cuenta tiene que contar con un saldo trimestral mínimo y un número determinado de recibos domiciliados. El precio se fija como una tarifa fija y global, a partir de 8 euros al mes.
 
-Permite financiación para la adquisición de inmuebles, maquinaria, mobiliario, ordenadores, etc., en condiciones prefe rentes y con el añadido de canjear puntos por billetes de avión, plazas de hotel, alquiler de coche, etc.
+2. Préstamos preferentes para constituir una empresa: Permite financiación para la adquisición de inmuebles, maquinaria, mobiliario, ordenadores, etc., en condiciones preferentes y con el añadido de canjear puntos por billetes de avión, plazas de hotel, alquiler de coche, etc.
 
-Tiene una bonificación en el tipo de interés. Esta medida del ICO persigue facilitar la financiación de empresas y autó nomos, para que realicen inversiones productivas en España, con un máximo de 10 millones de euros.
+3. Créditos que emjoran las condiciones de la línea ICO Inversión 20212: Tiene una bonificación en el tipo de interés. Esta medida del ICO persigue facilitar la financiación de empresas y autónomos, para que realicen inversiones productivas en España, con un máximo de 10 millones de euros.
 
-Es habitual que las empresas suscriban distintos tipos de productos financieros, como un crédito, una línea de des cuento, un leasing, etc., con lo que la cuantía de su financiación con el banco es significativa. En caso de tratarse de una sociedad, la responsabilidad de los socios está limitada al patrimonio mercantil de la empresa, por lo que la entidad financiera solicitará algún tipo de aval para garantizarse el cobro de las deudas.
-
-En estas circunstancias, es habitual firmar una póliza de afianzamiento mercantil, según la cual los socios u otras empre sas del grupo se constituyen como avalistas de las cantidades crediticias de la empresa, es decir, los socios se compro meten a responder con sus bienes personales del pago de esas deudas.
-
-Esta herramienta es de máxima utilidad para obtener dinero de una manera rápida y para garantizar multitud de opera ciones mercantiles, ya que sirve como garantía extrajudicial, lo que significa que el mecanismo para reclamar la deuda en caso de impago es muy rápido y eficaz.
+4. Pólizas de Afianzamiento Mercantil (PAM): Es habitual que las empresas suscriban distintos tipos de productos financieros, como un crédito, una línea de des cuento, un leasing, etc., con lo que la cuantía de su financiación con el banco es significativa. En caso de tratarse de una sociedad, la responsabilidad de los socios está limitada al patrimonio mercantil de la empresa, por lo que la entidad financiera solicitará algún tipo de aval para garantizarse el cobro de las deudas. En estas circunstancias, es habitual firmar una póliza de afianzamiento mercantil, según la cual los socios u otras empre sas del grupo se constituyen como avalistas de las cantidades crediticias de la empresa, es decir, los socios se compro meten a responder con sus bienes personales del pago de esas deudas. Esta herramienta es de máxima utilidad para obtener dinero de una manera rápida y para garantizar multitud de opera ciones mercantiles, ya que sirve como garantía extrajudicial, lo que significa que el mecanismo para reclamar la deuda en caso de impago es muy rápido y eficaz.
 
 La principal ventaja es la rapidez en la tramitación de estas líneas financieras y el poco coste de la acción. Como inconvenientes, destacar el carácter indefinido de la póliza, puesto que al pasar el tiempo puede caer en el olvido la vigencia de este compromiso. Además, el afian zamiento es personal, por tanto, no quedaría exento el socio que dejara de formar parte de la empresa; ya que habría que cancelar la póliza y, para eso, el banco debe estar conforme.
 
@@ -6559,22 +6563,23 @@ La principal ventaja es la rapidez en la tramitación de estas líneas financier
 
 Los socios de una empresa avalan un millón de euros con una entidad financiera. A partir de ese momento, firman un crédito de 600000 euros y una línea de descuento de 250000 euros y un leasing por valor de 50000 euros/año, sin necesidad de presentar avales para cada producto, puesto que el millón de la PAM cubriría el importe de todos estos productos financieros.
 
-## ■ Banca a distancia
+## Banca a distancia
 
 En los últimos años, la prestación de servicios financieros por las entidades bancarias ha ex perimentado un gran desarrollo en lo referente a la banca a distancia, al ofertar sus servicios a través de medios telefónicos o telemáticos.
 
-## D Banca telefónica
+## Banca telefónica
 
 El servicio complementario de operar en banca a través de un teléfono puede realizarse de dos modos:
 
 - Operadores programados. uía al cliente hacia la operación que quiere realizar mediante la pulsación de distintas teclas del teléfono. En caso de ser insuficiente, la llamada pasa a ser atendida por un operador.
+
 - Operador. Permite la personalización de las operaciones y la consecución de información no realizable en el modo automático.
 
 Ambas comunicaciones quedan grabadas y, al igual que en la banca online, se opera con con traseña. La ventaja frente a esta es que las operaciones pueden realizarse cuando no se tiene un ordenador disponible, como en viajes o desplazamientos.
 
 Una práctica habitual de las entidades bancarias es el uso de mensajes SMS para facilitar información a sus clientes.
 
-## D Banca online
+## Banca online
 
 Implica la posibilidad de utilizar los servicios de una entidad bancaria vía Internet. La mayo ría ofrece este servicio de manera complementaria a su red de oficinas físicas, aunque algunas entidades tienen presencia solo online para resultar más competitivas, al ahorrarse todos los gastos de mantenimiento del local, razón por la cual sus servicios y productos son más bara tos. Así, se cobran menos comisiones e intereses más bajos para los préstamos y créditos, y se abonan intereses más elevados para los productos de ahorro e inversión.
 
@@ -6586,9 +6591,11 @@ El inconveniente mayor es la falta de interacción directa con un profesional qu
 
 Uno de los riesgos habituales es conocido como phishing, un término anglosajón muy apro piado, que proviene de la palabra fishing («pesca»), haciendo alusión al intento de hacer que los usuarios «muerdan el anzuelo».
 
+## Phishing
+
 El phishing es un tipo de delito cibernético, caracterizado por intentar adquirir información confidencial de forma fraudulenta a través de Internet o medios móviles. Lo más habitual es que el estafado reciba un correo electrónico, una llamada de teléfono o un SMS fraudulen to de su supuesta entidad bancaria, instándole a introducir su contraseña, información deta llada de sus tarjetas de crédito o cualquier otro dato bancario. En este caso, los efectos del fraude recaerán sobre el cliente, por ser el responsable del mal uso o de la imprudencia en el uso de sus datos personales.
 
-## □ Cajeros automáticos
+## Cajeros automáticos
 
 Los cajeros automáticos son máquinas expendedoras, por lo general, situadas en el exterior de una entidad de crédito, que funcionan con tarjeta de crédito o de débito o con una li breta de ahorro. España es el país con más cajeros automáticos por habitantes del mundo.
 
@@ -6612,9 +6619,9 @@ De manera adicional, las entidades aplican otra serie de medidas para incrementa
 
 Tradicionalmente, el robo en cajeros automáticos se realizaba mediante la amenaza a aque llos clientes que acababan de extraer dinero de su cuenta. A día de hoy, con el desarrollo de los medios tecnológicos, el robo se ha vuelto más sofisticado y, con ello, más difícil de perse guir y de prevenir. Sin embargo, las entidades se defienden igualmente con métodos tecnoló gicos. A medida que unos avanzan, los otros también, y así se incrementa la perspicacia para el fraude, como lo hace el ingenio para evitarlo.
 
-La Agencia Europea de Seguridad de las Redes y de la Información (ENÍSA) advirtió hace poco del alarmante aumento de fraude en cajeros automáticos, que creció un 149% en 2008 y dejó unas pérdidas de 500 millones de euros en Europa.
+La Agencia Europea de Seguridad de las Redes y de la Información (ENISA) advirtió hace poco del alarmante aumento de fraude en cajeros automáticos, que creció un 149% en 2008 y dejó unas pérdidas de 500 millones de euros en Europa.
 
-Los delincuentes obtienen los números PIN con una amplia gama de técnicas que van desde el shouldersurfing, que consiste en espiar por encima del hombro del usuario cuando intro duce el PIN en el cajero, a técnicas de skimming complejo, cuando instalan algún mecanismo en el lector de tarjetas para clonar la tarjeta. La tecnología bluetooth es utilizada para trans mitir información, tanto de la tarjeta como de su PIN, a un ordenador cercano, puesto que los ladrones están apostados fuera con su portátil.
+Los delincuentes obtienen los números PIN con una amplia gama de técnicas que van desde el shoulder surfing, que consiste en espiar por encima del hombro del usuario cuando intro duce el PIN en el cajero, a técnicas de skimming complejo, cuando instalan algún mecanismo en el lector de tarjetas para clonar la tarjeta. La tecnología bluetooth es utilizada para trans mitir información, tanto de la tarjeta como de su PIN, a un ordenador cercano, puesto que los ladrones están apostados fuera con su portátil.
 
 En ocasiones, la trampa consiste en colocar elementos extraños en la ranura que libera los billetes para capturar el dinero dispensado. El usuario no consigue ver los billetes y cree que no han sido dispensados.
 
@@ -6623,24 +6630,26 @@ Tan solo durante el año 2008, un total de 10302 incidentes deskimming se regist
 Desde los primeros intentos de fraude que copiaban la banda magnética de las tarjetas, hasta la actual infección de los terminales con virus, los métodos de prevención han evolucionado hasta rozar el límite de la ciencia ficción.
 
 - Biometría en cajeros automáticos. A través de la forma de la mano, el iris o las huellas dactilares, la máquina detecta si es el propio usuario o un suplantador quien está acce diendo a los servicios. En un procedimiento más complejo, se analiza el sistema vascular. Aunque parezca extraño, el examen de las venas permite desvelar la identidad del individuo. En España, su grado de implantación es mínimo.
+
 - Sistemas anticopia de la banda magnética de las tarjetas. Los estafadores sitúan, para lograr su objetivo, una pequeña cámara sobre el terminal o superponen un falso teclado y un falso lector en el cajero. Para evitarlo, muchos cajeros cuentan con dispositivos que de tectan estos elementos extraños y los inutilizan. Es frecuente que el propio cajero aconseje al usuario tapar su mano con la otra, mientras teclea el número secreto.
 
-* Extensión del chip. La mayoría de las tarjetas cuentan ya con un chip de seguridad, que pretende evitar la copia de la banda magnética de la tarjeta. Europay, Mastercard y Visa han diseñado el sistema EMV, que detecta si la tarjeta introducida en el cajero es la auténtica o no. Este sistema también obliga al usuario a teclear la clave en las tiendas donde utilice la tarjeta, en lugar de la firma del recibo, lo que incrementa la seguridad en caso de robo.
-* Antivirus. Los cajeros automáticos son, como los ordenadores, vulnerables ante la intro ducción en su sistema operativo de un programa malicioso, con el que pueden acceder a las claves y los datos personales de los clientes. Para evitarlo, algunos programas mejoran su sistema defensivo.
+- Extensión del chip. La mayoría de las tarjetas cuentan ya con un chip de seguridad, que pretende evitar la copia de la banda magnética de la tarjeta. Europay, Mastercard y Visa han diseñado el sistema EMV, que detecta si la tarjeta introducida en el cajero es la auténtica o no. Este sistema también obliga al usuario a teclear la clave en las tiendas donde utilice la tarjeta, en lugar de la firma del recibo, lo que incrementa la seguridad en caso de robo.
 
-Fuente: Eroski Consumen Elorrio, 19 de enero de 2012 [en línea]
+- Antivirus. Los cajeros automáticos son, como los ordenadores, vulnerables ante la intro ducción en su sistema operativo de un programa malicioso, con el que pueden acceder a las claves y los datos personales de los clientes. Para evitarlo, algunos programas mejoran su sistema defensivo.
+
+Fuente: Eroski Consumer. Elorrio, 19 de enero de 2012 [en línea]
 
 ## Actividad de simulación 5
 
 Reúnete con tus socios. Seleccionad razonadamente una entidad bancaria a través de la cual realizaréis las operaciones mercantiles. Si en la Unidad 3 ya indicasteis cuál era, al abrir una cuenta corriente, ahora deberéis justificar los motivos de tal elección.
 
-## Ayuda práctica:
+Ayuda práctica:
 
-Compara las ofertas y productos bancarios de varias entidades comerciales. Puedes rea lizarlo basándote en las condiciones fijadas en una cuenta remunerada a la vista, com parando el tipo de interés al que remuneran (TIN), la tasa anual equivalente (TAE), pero también las comisiones y penalizaciones que conllevan.
+Compara las ofertas y productos bancarios de varias entidades comerciales. Puedes realizarlo basándote en las condiciones fijadas en una cuenta remunerada a la vista, com parando el tipo de interés al que remuneran (TIN), la tasa anual equivalente (TAE), pero también las comisiones y penalizaciones que conllevan.
 
 O puedes buscar si ofrece algún producto financiero específico para emprendedores, tales como planes integrales o cuentas especiales. En ocasiones, la ventaja competitiva entre una entidad y otra no es el interés, sino la inclusión de algún producto adicional, como algún seguro que cubra al autónomo ante una situación de incapacidad temporal.
 
-## Fase 6. estión de las obligaciones fiscales
+## Fase 6. Gestión de las obligaciones fiscales
 
 Las empresas tienen que liquidar unos impuestos antes de constituir la sociedad, como ya vimos en la Unidad 3.
 
@@ -6652,46 +6661,44 @@ Al constituir la sociedad, las empresas tienen obligación de realizar las sigui
 - Alta en el Impuesto sobre el Valor Añadido.
 - Presentar la declaración censal de inicio de actividad.
 
-## D Obligaciones fiscales periódicas
+## Obligaciones fiscales periódicas
 
 De manera adicional, las obligaciones fiscales se mantienen periódicamente durante toda la vida de la empresa.
 
-Declarar e ingresar las retenciones realizadas a los trabajadores a cuenta del IRPF y las retenciones a profesionales, tales como abogados, asesores, etc. Igualmente, declarar e ingresar las retenciones por rendimientos de capital mobiliario, en caso de que se haya alquilado algún inmueble o se hayan repartido dividendos.
+- Retenciones a cuenta: Declarar e ingresar las retenciones realizadas a los trabajadores a cuenta del IRPF y las retenciones a profesionales, tales como abogados, asesores, etc. Igualmente, declarar e ingresar las retenciones por rendimientos de capital mobiliario, en caso de que se haya alquilado algún inmueble o se hayan repartido dividendos.
 
-## lililí^
+- IS (en caso de tratarse de sociedades): Pagos fraccionados en abril, octubre y diciembre a cuenta del Impuesto sobre Sociedades. Una vez al año se realiza la declaración de dicho impuesto, que suele ser en julio.
 
-Pagos fraccionados en abril, octubre y diciembre a cuenta del Impuesto sobre Sociedades. Una vez al año se realiza la declaración de dicho impuesto, que suele ser en julio.
+- IRPF (en caso de tratarse de un empresario individual): Los pagos trimestrales se realizan en abril, julio, octubre y enero. En los meses de mayo-junio se lleva a cabo la liquida ción del impuesto, conocida como la declaración de la renta.
 
-Los pagos trimestrales se realizan en abril, julio, octubre y enero. En los meses de mayo-junio se lleva a cabo la liquida ción del impuesto, conocida como la declaración de la renta.
+- IVA: Pagos fraccionados en abril, julio y octubre del Impuesto sobre el Valor Añadido. Además, en enero hay que realizar un resumen anual y la liquidación del cuarto trimestre.
 
-Pagos fraccionados en abril, julio y octubre del Impuesto sobre el Valor Añadido. Además, en enero hay que realizar un resumen anual y la liquidación del cuarto trimestre.
+- Declaración anual de operaciones con terceras personas: Concierne a aquellas operaciones efectuadas por importe superior a 3000 euros. Se realiza durante el mes de febrero.
 
-Concierne a aquellas operaciones efectuadas por importe superior a 3000 euros. Se realiza durante el mes de febrero.
+- IAE: Se abona una vez al año siempre que la empresa no esté exenta.
 
-ifóffifeV\*:.^ -^-^^S&amp;&amp;i
-
-Se abona una vez al año siempre que la empresa no esté exenta.
-
-- [ ] D Obligaciones fiscales no periódicas
+## Obligaciones fiscales no periódicas
 
 De manera adicional, la empresa puede estar obligada a nuevas obligaciones tributarias, si se dan ciertas circunstancias:
 
-Se paga una vez al año por la posesión de un inmueble. Su cuantía suele ser del orden de un 0,5 % a un 1 % del valor catastral del bien.
+- Impuesto de Bienes Inmuebles: Se paga una vez al año por la posesión de un inmueble. Su cuantía suele ser del orden de un 0,5 % a un 1 % del valor catastral del bien.
 
-Se paga una vez al año por la posesión de un vehículo. Su importe depende del tamaño del auto, potencia, cilindrada, etc.
+- Impuesto sobre vehículos de tracción mecánica: Se paga una vez al año por la posesión de un vehículo. Su importe depende del tamaño del auto, potencia, cilindrada, etc.
 
-Solo se exigen en algunas localidades o ciudades. Se suele establecer por edificio completo o por casa, y a veces se incluye el consumo de agua.
+- Tasas municipales de basura: Solo se exigen en algunas localidades o ciudades. Se suele establecer por edificio completo o por casa, y a veces se incluye el consumo de agua.
 
-Se procede al pago si se adquiere un inmueble nuevo o si se aumenta el capital de la sociedad.
+- Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados: Se procede al pago si se adquiere un inmueble nuevo o si se aumenta el capital de la sociedad.
 
-En caso de que se haya vendido un inmueble y haya incrementado de valor desde que fue adquirido.
+- Incremento del Valor de los Terrenos de Naturaleza Urbana: En caso de que se haya vendido un inmueble y haya incrementado de valor desde que fue adquirido.
 
 El abono de los impuestos puede realizarse en período voluntario o en período ejecutivo. El periodo voluntario consiste en el cumplimiento de la obligación tributaria en el plazo reque rido. En caso de no satisfacer con la obligación en el plazo determinado, se inicia el periodo ejecutivo para llevar a cabo la recaudación de la deuda. En este supuesto, la Administración notifica al afectado el inicio de un procedimiento o providencia de apremio.
 
 El procedimiento de apremio es un acto por el cual la Administración puede proceder al embar go de los bienes del patrimonio del deudor para satisfacer el cobro de la deuda. En caso de que el deudor proceda al pago de la misma, se le aplica un recargo que incrementa la cuantía a pagar:
 
 - Recargo ejecutivo: es un incremento del 5% y se aplica cuando se abona la deuda, antes de la notificación de la providencia de apremio.
+
 - Recargo de apremio reducido: es un aumento del 10%, aplicable cuando se satisface la totalidad de la deuda y del propio recargo, antes de que finalice el plazo de la providencia de apremio.
+
 - Recargo de apremio ordinario: se aplica un recargo del 20% cuando el abono se produ ce después de haber finalizado el plazo para el pago en periodo de apremio. De manera adicional, se aplicarán intereses de demora, lo que implica actualizar el importe a liquidar, añadiéndole el incremento en el nivel de vida (el aumento en el IPC).
 
 Si finalizado el plazo estipulado en la providencia de apremio el contribuyente no abona su deuda, se dicta una providencia de embargo de sus bienes, que pretenderán el cobro de las cantidades tributarias debidas, más el recargo de apremio, los intereses y, en su caso, las costas del procedimiento de apremio producidas. El embargo se aplicará siguiendo un orden en el que, por ejemplo, primero se embarga el dinero en efectico o en cuentas bancarias y, como último recurso, los bienes muebles, como vehículos, embarcaciones, etc. Hay algunos bienes que son inembargables.
@@ -6700,7 +6707,7 @@ Si finalizado el plazo estipulado en la providencia de apremio el contribuyente 
 
 Realiza un calendario sencillo en el que señales las fechas en las que tenéis que responder del pago de las obligaciones fiscales que genera vuestra empresa.
 
-## Ayuda práctica:
+Ayuda práctica:
 
 Si tienes alguna duda, puedes entrar en la página web de la Agencia Tributaria, www. agenciatributariaces y localizar el enlace denominado «Calendario del contribuyente». Te dirigirá a un calendario del año en curso donde están especificados todos los plazos en los que corresponde llevar a cabo la liquidación parcial o total de los impuestos.
 
@@ -6708,16 +6715,45 @@ Si tienes alguna duda, puedes entrar en la página web de la Agencia Tributaria,
 
 Ha llegado el momento de sintetizar las ideas obtenidas en estas fases de la Simulación empresarial e incorporarlas a vuestro plan de empresa.
 
-Las actividades de simulación realizadas en esta unidad te han servido para hacer un plan de aprovisionamiento, así como la supervisión de su gestión contable y la obligación tributaria de la misma. Así pues, vuestro plan de empresa incluirá dos apartados denomi nados plan de aprovisionamiento y obligacionesfiscales.
+Las actividades de simulación realizadas en esta unidad te han servido para hacer un plan de aprovisionamiento, así como la supervisión de su gestión contable y la obligación tributaria de la misma. Así pues, vuestro plan de empresa incluirá dos apartados denominados plan de aprovisionamiento y obligaciones fiscales.
 
-## 1. Plan de aprovisionamiento
+1. Plan de aprovisionamiento
 
 - a) Especifica las medidas tomadas para organizar y gestionar el stock.
 - b) Incluye el plan de producción donde se contemplen las decisiones adoptadas con vuestros proveedores.
 
-## 2. Obligaciones fiscales
+2. Obligaciones fiscales
 
 Realiza el calendario fiscal en el que se contemplen los plazos en los cuales vuestra empresa está obligada a liquidar los impuestos correspondientes.
+
+## Síntesis
+
+- Gestión de la contabilidad: Externa o financiera (Para informar a terceros o Analizar fiabilidad de la información contable) o Interna (Gestión de control o Contabilidad directiva).
+
+- Gestión de la inversión: Para obtener beneficio, mediante: Intereses, Dividendos, Reparto de beneficios y Plusvalías pero Decisión condicionada por : Rentabilidad, Riesgo/Seguridad y Liquidez.
+
+- Financiación: Priorizar necesidades, Mejorar eficiencia, Emitir deuda empréstitos -> Pagarés, Bonos y Obligaciones
+
+- Control de tesorería: Pago puntual, Mejorar la rentabilidad de los excendentes
+
+- Impagos: Productos financieros para compensar evitar registros de impagados
+
+- Intermediarios financieros: Bancarios --> Cuenta corriente de ahorro, Cuenta especial, Pagaré bancario, Depósito bancario, Depósito combinado
+
+Plan de empresa:
+
+- Idea del negocio
+- Socios trayectoria profesional
+- Estudio de mercado
+- Plan de producción
+- Plan financiero
+- --> Plan de aprovisionamiento
+- --> Obligaciones fiscales
+- Plan de marketing
+- Plan de RR.HH.
+- Acciones para la Internacionalización
+
+## Test de repaso
 
 ## 1. Las existencias son:
 
@@ -6758,18 +6794,16 @@ Realiza el calendario fiscal en el que se contemplen los plazos en los cuales vu
 
 - a) Se emite en forma de títulos de deuda.
 - b) Se denomina letras, bonos u obligaciones, según el plazo temporal.
-- c) arantiza al final del contrato la devolución del dinero junto con una rentabilidad, solo si la empresa obtuvo beneficios.
+- c) Garantiza al final del contrato la devolución del dinero junto con una rentabilidad, solo si la empresa obtuvo beneficios.
 - d) Todas son correctas.
 
 22. Busca una noticia de actualidad relacionada con una auditoría realizada a una empresa u organización social. Responde luego a estas cuestiones:
 
 - a) Resume qué objetivo pretendía la auditoría.
 - b) ¿Era obligatoria la realización de la auditoría o había sido solicitada por la empresa voluntariamente?
-- c) ¿ uarda alguna relación empresarial la auditoría con la empresa auditada o, por el contrario, se trata de compañías independientes?
+- c) ¿Guarda alguna relación empresarial la auditoría con la empresa auditada o, por el contrario, se trata de compañías independientes?
 - d) ¿Recuerdas qué tipo de sociedad, de los estudiados en otra unidad didáctica previa, tenía como obligatoriedad la realización de una auditoría de cuentas?
-
-6. ej ¿Qué impacto crees que tiene en los consumidores el conocimiento de que una compañía ha sido auditada?
-
+- e) ¿Qué impacto crees que tiene en los consumidores el conocimiento de que una compañía ha sido auditada?
 - f) Averigua si también los partidos políticos, las asociaciones empresariales o los sin dicatos pueden o deben someterse a una auditoría de cuentas de forma periódica. Justifica tu respuesta.
 
 23. Encuentra una relación de empresas de auditorías. ¿Has encontrado alguna compañía de este tipo que sea española?
@@ -6781,11 +6815,13 @@ Realiza el calendario fiscal en el que se contemplen los plazos en los cuales vu
 29. Inventa tres formas diferentes por las cuales una empresa puede reducir su nivel de stock acumulado.
 30. Averigua qué recargo tiene el pagar con retraso una deuda a la Seguridad Social o una deuda en los impuestos. Si no te resulta fácil, trata de localizar esta información referida a cualquier organismo público, como, por ejemplo, el recargo que se añade a una multa de tráfico no satisfecha dentro del plazo temporal establecido.
 31. Piensa qué inconvenientes puede tener el no resolver a tiempo una deuda con la Seguri dad Social o con cualquier otro organismo público.
-32. Después de haber respondido a la pregunta anterior, lee el artículo http://www.pymes yautonomos.com/legalidad/es-posible-cobrar-la-pension-de-jubilacion-si-setienen-deudas-con-la-seguridad-socsal y razona si tu contestación anterior habría sido diferente de haber conocido el contenido del artículo con antelación. ¿Crees que hay muchos autónomos que se encuentran en esa situación al llegar a su jubilación?
+32. Después de haber respondido a la pregunta anterior, lee el artículo http://www.pymesyautonomos.com/legalidad/es-posible-cobrar-la-pension-de-jubilacion-si-se-tienen-deudas-con-la-seguridad-social y razona si tu contestación anterior habría sido diferente de haber conocido el contenido del artículo con antelación. ¿Crees que hay muchos autónomos que se encuentran en esa situación al llegar a su jubilación?
 
-## y de los recursos humanos
+# 7. Gestión del marketing y de los recursos humanos
 
-«Un hombre inteUgente es aqtid ^ como para contratar ge^ John F. Kennedy, ^^í^i
+## John F. Kennedy, presidente de los EEUU(1961 - 1963)
+
+Un hombre inteligente es aquel que sabe ser tan inteligente como para contratar gente más inteligente que él.
 
 ## En esta unidad aprenderemos a:
 
@@ -6796,21 +6832,21 @@ Realiza el calendario fiscal en el que se contemplen los plazos en los cuales vu
 
 ## Y estudiaremos:
 
-- estión del marketing en la empresa.
+- Gestión del marketing en la empresa.
 - Análisis de las actuaciones llevadas a cabo por la empresa.
 - Fijación de estrategias, objetivos, etc.
 - Elaboración de presupuestos provisionales.
 - El nuevo marketing en Internet, a través de telefonía móvil, cartelería digital, etc.
-- estión de los recursos humanos.
+- Gestión de los recursos humanos.
 - Equipos y grupos de trabajo.
+
+## Emprendedores
 
 En este apartado vamos a analizar la importancia de llevar a cabo una buena campaña pu blicitaria y la necesidad de incorporar las nuevas tendencias de marketing digital, que van surgiendo acorde con las nuevas tecnologías.
 
 ## Freixenet: un referente publicitario
 
-Freixenet es una empresa española productora de cava. En sus orígenes, a finales del s. xix se dedicaba a la pro ducción de vinos, pero pronto se interesó por el vino espumoso. Después de la uerra Civil española lanzaron un producto estrella: el cava «Carta Nevada», embote llado momentos antes de la primera fermentación. Años
-
-después, sale al mercado su segundo gran éxito: el «Cordón Negro». A partir de los años setenta comienza su expansión internacional. A día de hoy, Freixenet está presente tanto en el mercado asiático como en el americano.
+Freixenet es una empresa española productora de cava. En sus orígenes, a finales del s. xix se dedicaba a la producción de vinos, pero pronto se interesó por el vino espumoso. Después de la Guerra Civil española lanzaron un producto estrella: el cava «Carta Nevada», embotellado momentos antes de la primera fermentación. Años después, sale al mercado su segundo gran éxito: el «Cordón Negro». A partir de los años setenta comienza su expansión internacional. A día de hoy, Freixenet está presente tanto en el mercado asiático como en el americano.
 
 Parte de su prestigio se debe, sin duda, a sus anuncios. Desde el año 1997, susspots televisivos durante las fiestas navideñas han sido emitidos solo durante momentos de máxima audiencia (prime-time), especialmente al finalizar el año. Han sido protagonizados por numerosas figu ras de renombre tanto internacional, como Paúl Newman o Shakira, como nacionales, como Plácido Domingo, Nacho Duato o Alejandro Sanz, acompañados de las famosas «burbujas de Freixenet»; unas mujeres de trajes dorados que bailan y sonríen simulando ser burbujas de cava. Uno de los anuncios más admirados fue el emitido en el año 2008. Fue realizado por la selección española de natación sincronizada, después de la doble medalla de plata conse guida en los Juegos Olímpicos de Pekín.
 
@@ -6852,9 +6888,11 @@ El formato ha recibido galardones, como el primer premio WorldStar de diseño 20
 2. ¿Qué crees que pretende Freixenet cuando cada año compra el espacio publicitario prime-time que antecede a las campanadas de final de año. ¿Por qué son protagoni zados por estrellas de gran repercusión mediática?
 3. ¿Qué otros medios de comunicación online se te ocurre que puede utilizar la marca?
 
+## Conceptos básicos
+
 En este apartado vamos a recordar algunos conceptos que te serán útiles para realizar la Simulación, tales como:
 
-faxing publicidad e-maiiing presupuesto récord manager telemarketing community manager recursos humanos mark ting IT1ÍX
+faxing, publicidad, e-maiiing, presupuesto, récord, manager, telemarketing, community manager, recursos humanos, marketing mix
 
 ## A. Concepto y ejemplo de marketing
 
@@ -6865,40 +6903,34 @@ Como se deduce de la definición inicial, el marketing tiene presentes dos eleme
 - El público objetivo. Hay que saber comunicarle los beneficios de los productos basándose en la satisfacción de sus deseos y necesidades.
 - La competencia. Las acciones comerciales deben transmitir las fortalezas propias y desta car indirectamente las debilidades de las compañías rivales.
 
-En España la publicidad comparativa está permitida, sin embargo debe atenerse a unas normas, que son: respetar la objetividad, comparar productos que satisfagan el mismo tipo de necesidad y no denigrar ni dar lugar a confusión. No es fácil ajustarse a estos paráme tros, por lo que las empresas no suelen aludir directamente a la competencia, sino que lanzan mensajes genéricos.
+En España la publicidad comparativa está permitida, sin embargo debe atenerse a unas normas, que son: respetar la objetividad, comparar productos que satisfagan el mismo tipo de necesidad y no denigrar ni dar lugar a confusión. No es fácil ajustarse a estos parámetros, por lo que las empresas no suelen aludir directamente a la competencia, sino que lanzan mensajes genéricos.
 
-## Ejemplo 1. Don Simón versas ranini
+## Ejemplo 1. Don Simón versus Granini
 
-Don Simón defiende en todos sus anuncios que sus zumos de naranjas están elaborados con naranjas recién exprimidas en lugar de concentrado de naranja. Para reforzar esta carac terística distintiva de su marca, lanzó varias campañas comparativas contra la competencia. Cransni denunció estos anuncios a Autocontrol, el mecanismo español autorregulador de la publicidad. El organismo concluyó que la publicidad de Don Simón inducía al engaño y que debía ser retirada de inmediato.
+Don Simón defiende en todos sus anuncios que sus zumos de naranjas están elaborados con naranjas recién exprimidas en lugar de concentrado de naranja. Para reforzar esta característica distintiva de su marca, lanzó varias campañas comparativas contra la competencia. Granini denunció estos anuncios a Autocontrol, el mecanismo español autorregulador de la publicidad. El organismo concluyó que la publicidad de Don Simón inducía al engaño y que debía ser retirada de inmediato.
 
-La resolución del jurado afirmó que las expresiones «¿Dónde están sus naranjos en España?» y «¿Dónde están los naranjos de ranini?» son denigratorias, al incidir en el descrédito inne cesario del competidor.
+La resolución del jurado afirmó que las expresiones «¿Dónde están sus naranjos en España?» y «¿Dónde están los naranjos de Granini?» son denigratorias, al incidir en el descrédito innecesario del competidor.
 
 ## Actividades
 
 1. indica a qué empresas o productos combaten las marcas cuando señalan en sus anuncios la frase genérica «no fabricamos para otras marcas».
 2. Averigua qué es el organismo Autocontrol y quiénes lo integran.
 
-El diseño de las estrategias de marketing se ha centrado tradicionalmente en cuatro elemen tos del negocio:producto, precio, promoción y distribución. Este enfoque suele denominarse marketing mix, o «las Ap del marketing», por sus siglas en inglés (Product, Príce, Promotion, Placernent).
+## Marketing Mix
+
+El diseño de las estrategias de marketing se ha centrado tradicionalmente en cuatro elementos del negocio: producto, precio, promoción y distribución. Este enfoque suele denominarse marketing mix, o «las 4 p del marketing», por sus siglas en inglés (Product, Price, Promotion, Placement).
 
 ## Ejemplo 2. Algunas acciones de marketing-mix
 
 Algunas acciones de marketing-mix centradas en una de estas cuatro variables podrían ser:
 
-- Producto.
+- Producto: Incluir nuevas características al producto; por ejemplo, darle nuevas utilidades o una nueva apariencia.
 
-Incluir nuevas características al producto; por ejemplo, darle nuevas utilidades o una nueva apariencia.
+- Precio: Reducir el precio del producto para mejorar la competitividad, o bien, lanzar productos más caros para penetrar en un segmento del mercado de mayor poder adquisitivo.
 
-- 9 Precio.
+- Promoción: Crear ofertas 2 x 1 o incluir un 30% del producto como extra.
 
-Reducir el precio del producto para mejorar la competitividad, o bien, lanzar productos más caros para penetrar en un segmento del mercado de mayor poder adquisitivo.
-
-- Promoción.
-
-Crear ofertas 2 x 1 o incluir un 30% del producto como extra.
-
-- Distribución.
-
-Ofrecer nuestros productos vía Internet o envíos a domicilio.
+- Distribución: Ofrecer nuestros productos vía Internet o envíos a domicilio.
 
 ## Actividades
 
@@ -6917,15 +6949,20 @@ El cambio experimentado se puede sintetizar en un cambio del marco conceptual, d
 - Conveniencia y contexto, en lugar de la distribución.
 - Conexión en lugar de la comunicación, destacando el papel interactivo de esta.
 
+## Focos de atención del nuevo marketing.
+
 Tabla 7.1. Focos de atención del nuevo marketing.
 
-| El contenido generado tiene que ser enriquecedor y relevante para los potenciales clientes, que ahora son activos protagonistas y están mejor informados.                                                                                                                                                                   |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| El contenido debe conectar con los intereses del público objetivo.                                                                                                                                                                                                                                                          |
-| El contenido debe transmitirse por los medios más convenientes, bien sea una página web, un blog, una red social, etc.                                                                                                                                                                                                      |
-| Los medios de transmisión deben utilizar un contexto multicanal, con contenidos multimedia.                                                                                                                                                                                                                                 |
-| El mensaje debe transmitir también el coste del producto, lo que incluye informar a la audiencia de aquellos costes menos tangibles que incrementan el precio pero también el valor añadido del producto, como unos mayores controles de calidad, gestión responsable de residuos, garantía de los derechos laborales, etc. |
-| Como resultado de la información del coste, la audiencia conectará con la marca puesto que se generará una esfera de credibilidad y de confianza, dando paso a una comunidad online vinculada por intereses comunes e intercambios enriquecedores, creando una lealtad hacia la marca.                                      |
+- Contenido: El contenido generado tiene que ser enriquecedor y relevante para los potenciales clientes, que ahora son activos protagonistas y están mejor informados.
+- Conexión: El contenido debe conectar con los intereses del público objetivo.
+
+- Conveniencia: El contenido debe transmitirse por los medios más convenientes, bien sea una página web, un blog, una red social, etc.
+
+- Contexto: Los medios de transmisión deben utilizar un contexto multicanal, con contenidos multimedia.
+
+- Coste: El mensaje debe transmitir también el coste del producto, lo que incluye informar a la audiencia de aquellos costes menos tangibles que incrementan el precio pero también el valor añadido del producto, como unos mayores controles de calidad, gestión responsable de residuos, garantía de los derechos laborales, etc.
+
+- Cliente: Como resultado de la información del coste, la audiencia conectará con la marca puesto que se generará una esfera de credibilidad y de confianza, dando paso a una comunidad online vinculada por intereses comunes e intercambios enriquecedores, creando una lealtad hacia la marca.
 
 ## Ejemplo 3. Un pequeño gesto, para conseguir algo muy grande
 
@@ -6933,17 +6970,15 @@ Actimel desarrolló en el año 2011 la campaña «Un pequeño gesto, para conseg
 
 Para incentivar la participación, Acti mel se propuso donar un euro a dife rentes proyectos de investigación so bre el sistema inmunitario por cada recomendación realizada.
 
-La acción se difundió a través de te levisión, contando con la participa
-
-ción de Pedro Piqueras y Lola Herrera, y a través deTwitter y otras redes sociales. Además, se envió a los blogueros de contenidos relacionados, un pack con un CD explicativo de la acción para que contribuyeran a su difusión.
+La acción se difundió a través de te levisión, contando con la participación de Pedro Piqueras y Lola Herrera, y a través deTwitter y otras redes sociales. Además, se envió a los blogueros de contenidos relacionados, un pack con un CD explicativo de la acción para que contribuyeran a su difusión.
 
 ## Actividades
 
-4. Entra en la página web: http://wwwJnstitutodelafeIicIdadxom/instituto y averi gua qué compañía está detrás de esta campaña, qué objetivos persigue y qué medios utiliza para difundir sus acciones. Reflexiona, por otra parte, si hay otras intenciones no explícitas que pretendan conseguir y expresa tu opinión al respecto.
+4. Entra en la página web: http://www.institutodelafelicidad.com/instituto y averigua qué compañía está detrás de esta campaña, qué objetivos persigue y qué medios utiliza para difundir sus acciones. Reflexiona, por otra parte, si hay otras intenciones no explícitas que pretendan conseguir y expresa tu opinión al respecto.
 
-## I Publicidad ilícita
+## Publicidad ilícita
 
-Las acciones de marketing no siempre respetan los límites éticos. La Ley general de Publici dad considera ilícita la publicidad que:
+Las acciones de marketing no siempre respetan los límites éticos. La Ley general de Publicidad considera ilícita la publicidad que:
 
 - Atenta contra la dignidad de la persona o vulnera los derechos reconocidos en la Consti tución.
 - Está dirigida a menores y les incita a la compra de un bien o servicio, explotando su inexpe riencia o credulidad, o en la que aparezcan persuadiendo de la compra a padres o tutores.
@@ -6955,7 +6990,7 @@ Las acciones de marketing no siempre respetan los límites éticos. La Ley gener
 
 ## Ejemplo 4. Publicidad perjuiciosa
 
-La última campaña de Danone en Alemania ha presentado eslóganes renovados. En lugar de «Actimel activa tus defensas» se anuncia «Comienza más fuerte el día» y, en vez de «Acti via mejora tu salud intestinal», se dice «Activia: tu estómago decide». Estas modificaciones responden a las quejas reiteradas de una organización de consumidores contra la empresa por valerse de mentiras publicitarias. Aunque Danone desmiente esta afirmación ha preferido zanjar la polémica con una afirmación que no pueda interpretarse como publicidad enga ñosa.
+La última campaña de Danone en Alemania ha presentado eslóganes renovados. En lugar de «Actimel activa tus defensas» se anuncia «Comienza más fuerte el día» y, en vez de «Activia mejora tu salud intestinal», se dice «Activia: tu estómago decide». Estas modificaciones responden a las quejas reiteradas de una organización de consumidores contra la empresa por valerse de mentiras publicitarias. Aunque Danone desmiente esta afirmación ha preferido zanjar la polémica con una afirmación que no pueda interpretarse como publicidad engañosa.
 
 A su vez, la compañía ha tenido que desmentir un bulo que circula por Internet, según el cual el consumo prolongado de Actimel es perjudicial para la salud. Además de informar a través de su web, habilitaron un teléfono, un correo electrónico y facilitaron datos de asociaciones profesionales desmintiendo tal afirmación para defenderse de esta publicidad desleal.
 
@@ -6972,18 +7007,20 @@ A su vez, la compañía ha tenido que desmentir un bulo que circula por Internet
 6. Busca información sobre qué se entiende por publicidad verde engañosa.
 7. Averigua qué requisitos deben cumplir los productos agrícolas o ganaderos para po der llevar la etiqueta «producto ecológico».
 
-## C. estión de los recursos humanos
+## C. Gestión de los recursos humanos
 
 La función o gestión de los recursos humanos de una empresa se ocupa de seleccio nar, formar y retener a los empleados o colaboradores que trabajan como freetance o autónomos.
 
-Lo más habitual es que las compañías cuenten con un departamento de personal o de Re cursos humanos, cuyas funciones principales son:
+Lo más habitual es que las compañías cuenten con un departamento de personal o de Recursos humanos, cuyas funciones principales son:
 
 - El diseño depuestos de trabajo, de manera que se identifiquen las funciones de ese cargo, así como las habilidades requeridas para ocuparlo y su jerarquía con respecto a otros pues tos o áreas departamentales de la organización.
 - La evaluación de puestos de trabajo, en orden a señalar los perfiles profesionales óptimos para ocuparlos y las políticas salariales para retribuir de forma justa y equilibrada cada cargo.
 - La selección de personal idóneo, así como el desarrollo de planes de motivación, de mejora de la comunicación interna, de formación continua, de organización de equipos de trabajo, etcétera.
 - Tareas administrativas de contratación, nóminas y despidos.
 
-La evolución de las políticas de recursos humanos ha ido restando relevancia a las fun ciones administrativas, frente a las de gestión.
+## Coaching
+
+La evolución de las políticas de recursos humanos ha ido restando relevancia a las funciones administrativas, frente a las de gestión.
 
 Aunque las tareas administrativas siguen ocupando parte del tiempo de estos departa mentos, ahora también se desarrollan otras funciones más creativas, como mejorar la adecuación del puesto al trabajador o implementar medidas que mejoren la satisfacción de los empleados con la empresa. Entre estas técnicas destaca el coaching o entrena miento.
 
@@ -6993,24 +7030,27 @@ El coaching puede llevarse a cabo a través de seminarios, talleres, prácticas 
 
 Desde los departamentos de personal, el coaching persigue el desarrollo íntegro de las personas, con vistas a mejorar su autoestima y favorecer el mejor desempeño de las tareas del puesto de trabajo.
 
-@
-
-@
-
-## sj^y ! J 'C)jAi OJ ¿/52V í'u
+## Simulación empresarial
 
 El objetivo en esta unidad es elaborar el plan de marketing y dar forma al plan de recursos humanos. Ambos planteamientos fueron ini ciados en la Unidad 2 y seguidos en unida des posteriores, al tomar decisiones respecto al mercado, así como relativas al número de trabajadores necesarios para llevar a cabo el plan de producción.
 
 Al finalizar el tema, recogerás toda esta in formación para el plan de empresa, en dos apartados denominados:
 
 1. Plan de marketing
-2. PlandeRR.HH.
+2. Plan de RR.HH.
 
 El plan de marketing debe incorporar la mayor parte de acciones virtuales posibles, primero por cuestión de abaratamiento y, segundo, por mayor eficacia en la difusión. Además, debe implementar las nuevas técnicas que el desarrollo de Internet y sus aplicaciones hacen po sible, no solo para modernizar la imagen de la empresa, sino también, y sobre todo, por el reducido coste y la amplia difusión.
 
+## Fases de la Simulación empresarial
+
+- Fase 1. Elaboración del plan de marketing
+- Fase 2. Marketing y medios de promoción
+- Fase 3. Creación de página web y compra de dominios
+- Fase 4. Gestión de RR.HH.
+
 ## Fase 1. Elaboración del Plan de marketing
 
-Para el diseño de las estrategias de marketing idóneas hay que retomar las decisiones adop tadas en unidades previas, ya que el proceso de constitución de vuestra empresa está muy avanzado y las nuevas decisiones se apoyarán en las que se efectuaron en fases anteriores.
+Para el diseño de las estrategias de marketing idóneas hay que retomar las decisiones adoptadas en unidades previas, ya que el proceso de constitución de vuestra empresa está muy avanzado y las nuevas decisiones se apoyarán en las que se efectuaron en fases anteriores.
 
 En la Unidad 2 iniciasteis la mayor parte del plan de marketing al tomar decisiones respecto a estos elementos:
 
@@ -7021,7 +7061,7 @@ En la Unidad 2 iniciasteis la mayor parte del plan de marketing al tomar decisio
 - Competidores posibles que ejercen competencia directa y los que ofrecen productos sustitutivos o se dirigen a otros segmentos del mercado.
 - Análisis DAFO, integrando el estudio del entorno general y las variables internas del negocio.
 
-Además, en la Unidad 5 analizasteis la viabilidad económico-financiera de la empresa y rea lizasteis un estudio de los recursos económicos disponibles, aspecto a tener en cuenta para saber de cuánto presupuesto se dispone para diseñar acciones comerciales.
+Además, en la Unidad 5 analizasteis la viabilidad económico-financiera de la empresa y realizasteis un estudio de los recursos económicos disponibles, aspecto a tener en cuenta para saber de cuánto presupuesto se dispone para diseñar acciones comerciales.
 
 Por tanto, queda por establecer en vuestros planes de marketing:
 
@@ -7029,103 +7069,66 @@ Por tanto, queda por establecer en vuestros planes de marketing:
 - Planificación de acciones de marketing que incluyan tos medios de promoción a emplear.
 - Realización de un presupuesto estimado y fuentes de financiación, en caso de no contar con los recursos necesarios.
 
-W1
-
-5TO
-
-flB
-
-52n gg&gt;
-
-WW
-
-Wg PP
-
-b"^;
-
-ef- r"Ti wr- r\*z?m r^¿
-
-nr, c?;
-
-f^b rra,
-
-## Fases de la Simulación empresarial
-
-- Fase 1. Elaboración del plan de marketing
-- Fase 2. Marketing y medios de promo ción
-- Fase 3. Creación de página web y com pra de dominios
-- Fase 4. estión de RRJHH.
-
-_-----------------_
-
-m
-
 ## Actividad de simulación 1
 
 Reúnete con tus socios. Diseñad conjuntamente el mensaje comunicativo que queráis transmitir, para ello inventad un buen eslogan. El eslogan tiene que sintetizar las bonda des de vuestro producto o empresa, así como sus ventajas frente a la competencia.
 
-## Ayuda práctica:
+Ayuda práctica:
 
 Piensa qué es lo más relevante de vuestra empresa o producto desde la perspectiva de un cliente potencial.
 
 ## Fase 2. Marketing y medios de promoción
 
-La manera de llevar a cabo las acciones comerciales puede ser a través de métodos tradicio nales o por acciones de marketing directo.
+La manera de llevar a cabo las acciones comerciales puede ser a través de métodos tradicionales o por acciones de marketing directo.
+
+Tabla 7.2. Tipos de marketing:
+
+1. Marketing tradicional
 
 - Objetivo. El marketing tradicional pretende llegar a un amplio segmento de la población.
 - Público objetivo. Es masivo e indiferenciado puesto que no tiene definido el perfil de su cliente potencial.
 - Campaña publicitaria. La comunicación se realiza a través de medios masivos sin discriminar a quiénes van dirigidos, restando efectividad a esta acción.
 - Medios de comunicación. Las herramientas más habituales para llevar a cabo el marketing tradicional son:
-- -Canales masivos. Prensa, radio, televisión, vallas publicitarias.
-- -Buzoneo. Envío indiscriminado al buzón de la vivienda, ofertando publicidad e información de las promociones efectuadas en los puntos de venta.
-- -Boca a boca. Se basa en las recomendaciones efectuadas por amigos, asociaciones o especialistas. Esta fuente de marketing no ha sido muy explotada desde los medios tradicionales.
+- - Canales masivos. Prensa, radio, televisión, vallas publicitarias.
+- - Buzoneo. Envío indiscriminado al buzón de la vivienda, ofertando publicidad e información de las promociones efectuadas en los puntos de venta.
+- - Boca a boca. Se basa en las recomendaciones efectuadas por amigos, asociaciones o especialistas. Esta fuente de marketing no ha sido muy explotada desde los medios tradicionales.
+
+2. Marketing directo
+
 - Objetivo. El marketing directo surgió como una forma de realizar acciones de comunicación dirigidas a un público segmentado concreto.
 - Público objetivo. Su público objetivo es el consumidor potencial del producto o servicio a ofertar.
 - Campaña publicitaria. La comunicación se realiza a través de medios masivos enviados únicamente a los clientes hipotéticamente interesados. De este modo se aumenta la probabilidad de la eficacia de la comunicación, al contac tar directamente con el consumidor potencial.
 - Medios de comunicación. Las herramientas más habituales para llevar a cabo el marketing directo son:
-- -Mailing. Envío masivo de correo postal a las direcciones de potenciales clientes ofertando publicidad. Actualmente, este tipo de comunicación también se hace a través del correo electrónico, conocido como e-mailing.
-- -Faxing. Consiste en la utilización del fax para comunicar ofertas o publicidad. Entre sus ventajas estaba el resultar más económico que el mailing, pero actualmente este procedimiento ha quedado sustituido por el e-mailing.
-- -E-mailing. Envío masivo de correos electrónicos a potenciales clientes que han manifestado su conformidad con que se les envíe publicidad a su e-mail. En España, estas acciones personalizadas solo están permitidas cuando el cliente ha manifestado su conformidad a recibir publicidad en su e-mail o cuando sus datos se encuentran en un directorio público, como la guía de teléfonos. Cuando estas acciones se llevan a cabo con intenciones maliciosas o sin contar con la autorización previa del cliente, estos correos electrónicos se denominan spam. Actualmente, muchos servicios de mensajería establecen unos filtros para detectar el spam y enviarlos automáticamente a la papelera, con la intención de que el usuario no sea molestado. Se detectan fácilmente porque son enviados en cantidades masivas a muchas personas diferentes.
+- - Mailing. Envío masivo de correo postal a las direcciones de potenciales clientes ofertando publicidad. Actualmente, este tipo de comunicación también se hace a través del correo electrónico, conocido como e-mailing.
+- - Faxing. Consiste en la utilización del fax para comunicar ofertas o publicidad. Entre sus ventajas estaba el resultar más económico que el mailing, pero actualmente este procedimiento ha quedado sustituido por el e-mailing.
+- - E-mailing. Envío masivo de correos electrónicos a potenciales clientes que han manifestado su conformidad con que se les envíe publicidad a su e-mail. En España, estas acciones personalizadas solo están permitidas cuando el cliente ha manifestado su conformidad a recibir publicidad en su e-mail o cuando sus datos se encuentran en un directorio público, como la guía de teléfonos. Cuando estas acciones se llevan a cabo con intenciones maliciosas o sin contar con la autorización previa del cliente, estos correos electrónicos se denominan spam. Actualmente, muchos servicios de mensajería establecen unos filtros para detectar el spam y enviarlos automáticamente a la papelera, con la intención de que el usuario no sea molestado. Se detectan fácilmente porque son enviados en cantidades masivas a muchas personas diferentes.
+- - Telemarketing. Este tipo de comunicación consiste en que un comercial contacta por teléfono con clientes poten ciales para tratar de formalizar una venta, aunque en ocasiones se ha utilizado para realizar encuestas de opinión que ayudan a valorar la penetración de un producto en el mercado. Es una técnica que se ha quedado desfasada y actualmente solo se utiliza como un medio de marketing relaciónal, es decir, una manera de estrechar la relación con el cliente. En este caso, el teleoperador únicamente interviene cuando el cliente solicita información o expresa una queja a través de la página web corporativa, o bien, cuando ha desplazado su compra a la competencia y la compañía contacta con él para conocer los motivos del cambio y buscar la manera de volver a captarle, algo muy frecuente hoy en día entre las operadoras de telefonía móvil, por ejemplo.
 
-- -Telemarketing. Este tipo de comunicación consiste en que un comercial contacta por teléfono con clientes poten ciales para tratar de formalizar una venta, aunque en ocasiones se ha utilizado para realizar encuestas de opinión que ayudan a valorar la penetración de un producto en el mercado. Es una técnica que se ha quedado desfasada y actualmente solo se utiliza como un medio de marketing relaciónal, es decir, una manera de estrechar la relación con el cliente. En este caso, el teleoperador únicamente interviene cuando el cliente solicita información o expresa una queja a través de la página web corporativa, o bien, cuando ha desplazado su compra a la competencia y la compañía contacta con él para conocer los motivos del cambio y buscar la manera de volver a captarle, algo muy frecuente hoy en día entre las operadoras de telefonía móvil, por ejemplo.
-
-## Éiilcetiñg alternativo o marketing 3.0
+3. Marketing alternativo o marketing 3.0
 
 - Objetivo. Este nuevo concepto de mercadotecnia surge gracias al desarrollo de Internet, puesto que permite mante ner acciones masivas e indiferenciadas junto a las dirigidas específicamente a un segmento poblacional concreto.
 - Público objetivo. El consumidor potencial que ha dado su consentimiento para recibir publicidad.
 - Campaña publicitaria. Utiliza cualquier medio que le permita la interactividad con el consumidor, a fin de sustituir la publicidad intrusiva por un marketing de permiso, de manera que se evita bombardear al consumidor con mensajes permanentes para provocar que sea este quien busque y pida información sobre el producto.
 - Medios de comunicación. Las herramientas más utilizadas por el marketing 3.0 son cualquiera de los sistemas tra dicionales y cualquiera de las técnicas de nueva implantación que han surgido con el uso de Internet y las nuevas tecnologías.
 - Resultado. El marketing alternativo se está mostrando el más eficaz por varios motivos:
-- -Los consumidores están hastiados del marketing de interrupción. Se cambia de canal de televisión, se cierran ventanas emergentes en el ordenador y, cuando esto no es posible, el usuario se exaspera. No solo no se presta atención a la publicidad sino que esta intromisión se penaliza con un sentimiento de rechazo hacia la marca.
-- -El consumidor desconfía del mensaje de las marcas, se muestra escéptico ante la información o los datos que seña lan las bondades de un producto y hasta desconfía de las acciones de responsabilidad corporativa o de sensibilidad ambiental o social.
-- -Los medios de comunicación tradicionales (prensa, televisión, radio) están siendo sustituidos por sus versiones gratuitas o por medios más rápidos e interactivos, como blogs o microblogs.
-- -La competencia es tan amplia que las empresas deben cuidar la relación con sus clientes para fidelizarlos. Es menos costoso conservar clientes que captar nuevos.
+- - Los consumidores están hastiados del marketing de interrupción. Se cambia de canal de televisión, se cierran ventanas emergentes en el ordenador y, cuando esto no es posible, el usuario se exaspera. No solo no se presta atención a la publicidad sino que esta intromisión se penaliza con un sentimiento de rechazo hacia la marca.
+- - El consumidor desconfía del mensaje de las marcas, se muestra escéptico ante la información o los datos que seña lan las bondades de un producto y hasta desconfía de las acciones de responsabilidad corporativa o de sensibilidad ambiental o social.
+- - Los medios de comunicación tradicionales (prensa, televisión, radio) están siendo sustituidos por sus versiones gratuitas o por medios más rápidos e interactivos, como blogs o microblogs.
+- - La competencia es tan amplia que las empresas deben cuidar la relación con sus clientes para fidelizarlos. Es menos costoso conservar clientes que captar nuevos.
 
-Tabla 7.2. Tipos de marketing (Continuación).
+## Público segmentado
 
-i
+Público segmentado se refiere a la agrupación que realizan los especialistas de marketing de los potenciales consumidores que presentan características similares, con el fin de diseñar acciones comunes a todos ellos.
 
-Público segmentado se refiere a la agrupación que realizan los especialistas de marke- ting de los potenciales consumidores que presentan características similares, con el fin de diseñar acciones comunes a todos ellos.
+## Spam
 
-!
+El spam, correo basura o mensaje basura son diferentes formas de referirse a mensajes no deseados o de remitente desconocido, habitualmente de tipo publicitario.
 
-i
-
-i
-
-Elspam, correo basura o mensaje basura son diferentes formas de referirse a mensa- jes no deseados o de remitente desconocido, habitualmente de tipo publicitario.
-
-!
-
-i
-
-|
-
-## ■ Técnicas de marketing alternativo
+## Técnicas de marketing alternativo
 
 A raíz de la irrupción de las nuevas tendencias tecnológicas, han ido surgiendo nuevas formas de hacer marketing que comportan un cambio en la estrategia comunicativa de las empresas. A continuación se analizan las técnicas más usuales del marketing digital.
 
-## D Vídeo marketing
+## Vídeo marketing
 
 El vídeo marketing se vale de recursos audiovisuales para transmitir el mensaje comercial, principalmente a través de la red. Lo más frecuente es que se difunda en la web corporativa o se inserte en YouTube y portales similares.
 
@@ -7135,9 +7138,9 @@ Al parecer, los vídeos o el contenido multimedia son, en general, uno de los el
 
 El porcentaje de popularidad de YouTube, unido a la gratuidad de sus servicios, lo convierte en el portal estrella para este tipo de contenidos. Además, si el vídeo goza de interés, su difusión será promovida por los mismos potenciales clientes a través de sus propios blogs, o por el envío masivo a sus contactos de e-mail o por su difusión desde las redes sociales.
 
-## D Código QR o código BIDI
+## Código QR o código BIDI
 
-Los códigos QuickResponse Code o bidimensional.es son un medio de almacenamiento de información en una matriz de puntos o un código de barras bidimensional creado por la com pañía japonesa Denso Wave, subsidiaria de Toyota, en 1994. El nombre de Quick Response («respuesta rápida») alude a la rapidez en acceder al contenido de esta información.
+Los códigos QuickResponse Code o bidimensionales son un medio de almacenamiento de información en una matriz de puntos o un código de barras bidimensional creado por la com pañía japonesa Denso Wave, subsidiaria de Toyota, en 1994. El nombre de Quick Response («respuesta rápida») alude a la rapidez en acceder al contenido de esta información.
 
 Los datos señalan que las empresas españolas están convencidas de la utilidad de los códigos QR y, sin embargo, solo un 30% se sirven de ellos como herramienta de marketing y, de ese pequeño porcentaje de empresas, más de la mitad los utilizan sin tener una estrategia clara de cómo implementarlos y sin disponer de los mecanismos necesarios para medir su eficacia. Esto se debe a que la tecnología y la inversión necesarias para utilizarlos son escasas.
 
@@ -7150,7 +7153,7 @@ La utilidad de estos códigos es diversa, se caracterizan por:
 - enerar información relevante para el cliente y valiosa para la empresa.
 - Interaccionar con el cliente.
 
-Sin embargo, el uso de esta herramienta está en manos de profesionales que no se han pues to al día y, por tanto, no saben cómo aprovechar todo el potencial de este nuevo medio de promoción. Mayoritariamente los utilizan en folletos y carteles, anuncios en prensa y tarjetas de visita.
+Sin embargo, el uso de esta herramienta está en manos de profesionales que no se han puesto al día y, por tanto, no saben cómo aprovechar todo el potencial de este nuevo medio de promoción. Mayoritariamente los utilizan en folletos y carteles, anuncios en prensa y tarjetas de visita.
 
 ## Ejemplo 5. Uso insólito del código QR
 
@@ -7160,9 +7163,9 @@ Para ello, sobreponen una plantilla sobre el lomo del animal al que rocían con 
 
 Esta granja recibe una gran cantidad de visitas al día, razón por la cual se les ocurrió implantar esta tecnología a fin de facilitar toda la información que los visitantes requerían, así como dar valor a un trabajo y a una calidad en el hacer que no siempre es apreciado por el visitante. La iniciativa se convirtió en todo un éxito, las visitas a la web se incrementaron en un 150 % y el fenómeno llamó la atención de los medios de comunicación y de muchos visitantes.
 
-## D Mobile marketing
+## Mobile marketing
 
-El motile marketing utiliza el móvil o smartphone del usuario como vehículo de promoción.
+El mobile marketing utiliza el móvil o smartphone del usuario como vehículo de promoción.
 
 ## Ejemplo 6. Aplicación qlikBar
 
@@ -7170,15 +7173,11 @@ En Valencia, unos jóvenes publicistas, desarrolladores y consultores, han idead
 
 La aplicación funciona gracias a la tecnología de geolocalización y los códigos QR. La idea muestra que la sinergia creada por pequeños hosteleros con inquietud y jóvenes desarro lladores de ideas con dominio de las nuevas tecnologías, puede dar lugar a un producto de gran potencial. En estos momentos la aplicación se encuentra en fase de prueba, lo que los entendidos llaman fase beta, mientras se están acometiendo las rondas de financiación. De momento, han contado con el apoyo de la aceleradora de ideas StartNewTech.
 
-## D Marketing viral
+## Marketing viral
 
 El marketing viral pretende difundir una campaña publicitaria de manera exponencial a través de las redes sociales y de otros medios electrónicos, contando con la participación del público objetivo, que distribuirá el mensaje entre sus contactos.
 
 Su nombre se debe a la similitud con un proceso de autorreplicación viral, donde el virus se reproduce con facilidad y contagia zonas adyacentes, de manera que en un breve lapso de tiempo la infección se ha extendido a una gran área. Esta analogía ya se utilizaba para hablar de infección viral de un sistema informático.
-
-## Ejemplo 7. La crema de Isabel Preysler
-
-Una de las campañas más conocidas en España de marketing viral es la «crema de Isabel Preysler» (la exmujer de Julio Iglesias) una crema antiarrugas de venta en farmacias. Su aso ciación con ese icono de belleza se realizó a través de varios blogs que se hicieron eco de una inusual noticia, según la cual, una azafata siguió a Isabel Preysler cuando descendía del avión y vio que tiraba en una papelera el envase de cartón de la crema que acababa de utilizar. Lo recogió y lo buscó en una farmacia. Su sorpresa fue grande al comprobar que era una crema de precio asequible, uno de los motivos por el que se incrementó el nivel de ventas de esta crema, una vez conocido este rumor. La extensión del bulo fue tal que era posible comprar la crema sin conocer su nombre ni su aspecto, simplemente indicando en la farmacia que se deseaba comprar la crema de la Preysler.
 
 El marketing viral se basa en la difusión boca a boca, en sus múltiples variantes online, como de e-mail a e-mail, de SMS a SMS, etc. mediante el uso de las redes sociales y de servicios de telefonía móvil. Su principal ventaja consiste en su capacidad de conseguir a un bajo coste una gran cantidad de posibles clientes interesados. Por ejemplo, si se envían 100 e-mails y cada uno lo reenvía a 200 contactos, el grado de expansión es exponencial. Eventualmente, la campaña se extinguirá, pero el coste final habrá sido el gasto de enviar 100 e-mails.
 
@@ -7190,21 +7189,27 @@ En ocasiones los mensajes que se transmiten difunden un rumor falso y, aunque no
 
 Así sucedió con el lanzamiento de Coca-Cola Zero, a la que se le atribuyeron efectos can cerígenos. Otras veces, son las propias compañías las que dejan correr un falso rumor para crear cierta expectativa ante el lanzamiento de un producto nuevo, como hizo Apple antes de lanzar al mercado el iPhone 5, cuyo prototipo, se dijo, había sido extraviado en un bar.
 
+## Ejemplo 7. La crema de Isabel Preysler
+
+Una de las campañas más conocidas en España de marketing viral es la «crema de Isabel Preysler» (la exmujer de Julio Iglesias) una crema antiarrugas de venta en farmacias. Su aso ciación con ese icono de belleza se realizó a través de varios blogs que se hicieron eco de una inusual noticia, según la cual, una azafata siguió a Isabel Preysler cuando descendía del avión y vio que tiraba en una papelera el envase de cartón de la crema que acababa de utilizar. Lo recogió y lo buscó en una farmacia. Su sorpresa fue grande al comprobar que era una crema de precio asequible, uno de los motivos por el que se incrementó el nivel de ventas de esta crema, una vez conocido este rumor. La extensión del bulo fue tal que era posible comprar la crema sin conocer su nombre ni su aspecto, simplemente indicando en la farmacia que se deseaba comprar la crema de la Preysler.
+
 ## Ejemplo 8. Incentivos para activar el marketing viral
 
 Hay empresas que ofrecen algún tipo de incentivo para contribuir a la difusión de su men saje. Este fue el caso de Burger King con su reciente campaña «Elimina un amigo y gana un Whopper», que regalaba una hamburguesa por cada diez contactos eliminados de la red social de Facebook del usuario.
 
 La difusión del mensaje estaba asegurada porque cada contacto suprimido recibía un men saje en su muro comentando que su amigo había preferido una hamburguesa antes que a él. Esto favorecía la replicación. El éxito de la campaña fue tal que Facebook tuvo que restringirla ya que se valía de su propia red para atentar contra sus propios intereses corporativos.
 
-Hay acciones de marketing viral que ocultan su intención comercial y cualquier referencia que les identifique. Estas comunicaciones son ingenuamente transmitidas por usuarios debi do a lo inusual y extraño de tal mensaje. Se trata de estrategias de marketing encubierto, que persiguen generar una gran cobertura mediática con un coste muy bajo.
-
 ## Ejemplo 9. ¿Has soñado con este hombre?
+
+Hay acciones de marketing viral que ocultan su intención comercial y cualquier referencia que les identifique. Estas comunicaciones son ingenuamente transmitidas por usuarios debido a lo inusual y extraño de tal mensaje. Se trata de estrategias de marketing encubierto, que persiguen generar una gran cobertura mediática con un coste muy bajo.
 
 Hace años tuvo una gran repercusión la campaña «¿Has soñado con este hombre?» que, a día de hoy, muchos siguen ignorando que era una estrategia de marketing viral. A través de fotocopias pegadas en multitud de espacios urbanos, como farolas, papeleras o marquesinas de autobús, se mostraba la imagen de un señor de mediana edad y aspecto extraño junto a un texto no menos sorprendente.
 
 La historia, rayando la frontera de lo paranorrnal, contaba que ese hombre se había aparecido en sueños a multitud de personas en todo el mundo. Una página web instaba a la gente a contar su experiencia si también habían visto esa cara en sueños. A pesar de ser una historia inventada la repercusión fue tal que aún hoy en día esa web sigue existiendo y se cuentan por miles los usua rios que han relatado anécdotas sobre extrañas apariciones de ese rostro. Detrás de ese bulo, no obstante, la historia era de lo más normal. Una empresa de marketing acababa de demostrar a sus potenciales clientes -empresas necesitadas de campañas de publicidad exitosas- cuan eficaz puede ser para una empresa crear una campaña de gran repercusión mediática y de extensión mundial.
 
-## D Vending
+www.thisman.org
+
+## Vending
 
 Vendinges un neologismo inglés que se utiliza para denominar el sistema de ventas por medio de máquinas expendedoras accionadas por diversos medios de pago, generalmen te monedas o tarjetas.
 
@@ -7226,9 +7231,9 @@ La compañía Coca-Cola ha encontrado la manera de rentabilizar este medio como 
 
 La marca sudafricana de té helado BOS ha lanzado, por su parte, una máquina vendedora denominada Bev, que se activa a través de Twitter, de manera que el medio de pago son tuits. Esta innovadora máquina cuenta con cámaras, micrófonos y LED, de modo que permite rega lar una lata de té cuando alguna persona tuitee el hashtag que se muestre en ese momento en la pantalla.
 
-Un hashtag o etiqueta de almohadilla (#) es una cadena de palabras concatenadas y precedidas por una almohadilla. Sirve para iniciar un tema de conversación en Twitter u otros medios similares. Cualquier usuario puede seguir este hilo de conversación y manifestar en él una opinión, simplemente con buscar el hashtag en el servicio de microhlogging.
+Un hashtag o etiqueta de almohadilla (#) es una cadena de palabras concatenadas y precedidas por una almohadilla. Sirve para iniciar un tema de conversación en Twitter u otros medios similares. Cualquier usuario puede seguir este hilo de conversación y manifestar en él una opinión, simplemente con buscar el hashtag en el servicio de microblogging.
 
-## D Marketing olfativo
+## Marketing olfativo
 
 El marketing olfativo, también llamado odomarketing o marketing aromático, se basa en estimular el sentido del olfato para aumentar la experiencia placentera del con sumidor en relación con el producto.
 
@@ -7236,7 +7241,7 @@ Según algunos estudios, las personas recordamos un 35% de los olores que se asp
 
 De igual forma, el olor es el reclamo habitual que se intuye en la publicidad de fragancias y desodorantes. Las últimas tendencias, sin embargo, apuntan más lejos. No se trata de resaltar el olor de un producto de por sí aromático, sino crear esencias agradables y placenteras para asociarlos a una marca, un establecimiento comercial o a experiencias agradables de con sumo. Ya existen empresas especializadas en crear fragancias de marca, e incluso se venden difusores industriales de grandes dimensiones para asegurarse de que el establecimiento se impregna de ese aroma, como sería el caso del hotel Al-Andalus, de Sevilla, que tiene un olor corporativo basado en la fragancia de azahar, la flor del naranjo que tanto abunda en esa ciudad.
 
-- [ ] □ Marketing social
+## Marketing social
 
 Su propósito es la aplicación de las técnicas del marketing para desarrollar acciones que me joren el bienestar personal de los clientes y de la sociedad en general. Se utiliza también para comunicar las acciones de responsabilidad social corporativa. Además, es un tipo de marketing del que se sirven las entidades sin ánimo de lucro, como ON o fundaciones, para erradicar de terminadas conductas perjudiciales para las personas o para concienciar de problemas sociales.
 
@@ -7246,11 +7251,11 @@ Así, se encuadrarían en acciones de marketing social: acciones publicitarias p
 
 En noviembre de 2012, Metro de Madrid consiguió reunir en un mes a más de 3000 donantes en una campaña con Cruz Roja y Coca-Cola. El lema de la iniciativa fue «Estás a un metro de salvar muchas vidas». Cuatro estaciones se convirtieron en puntos de extracción de sangre, de las cuales, Ciudad Universitaria fue la más solidaria consiguiendo la donación de 1 300 viajeros.
 
-## D Marketing de contenidos
+## Marketing de contenidos
 
 El marketing de contenidos consiste en centrar la atención comercial en la distribución de contenido relevante para potenciales clientes, con el fin de atraer su atención y, si es posible, crear una relación más permanente con ellos. Puede ser en forma deposts, tuits, actualizacio nes en redes sociales, artículos en revistas corporativas físicas u online -newsletters-, vídeos, podcasts, etc.
 
-## Ejemplo 13.Aquarius
+## Ejemplo 13. Aquarius
 
 En la campaña publicitaria «Huérfanos de pueblo», de Aquarius, la compañía Coca-Cola quiso contribuir a la repoblación de pueblos que estuvieran perdiendo habitantes, para lo cual puso en contacto a cincuenta pueblos españoles, previamente seleccionados, con personas que carecían de pueblo en el que veranear y estaban interesados en ello. La campaña se di fundió a través de YouTube y en la propia web de la compañía, donde debían registrarse las personas interesadas en ser aceptadas como «hijos adoptivos». Esta inscripción daba derecho a disfrutar de descuentos en bares, restaurantes y alojamientos de la localidad asignada.
 
@@ -7258,7 +7263,7 @@ A través de Facebook, los participantes podían dar a conocer su experiencia, c
 
 Aquarius se ha caracterizado por hacer siempre campañas muy adaptadas al gusto español. Algunas de ellas han sido conmovedoras, como aquella en la que dio difusión a la iniciativa de un ciudadano anónimo que, pese a carecer de conocimientos arquitectónicos, está cons truyendo una catedral. Puedes leer más sobre esta historia en Wikipedia: «Catedral de Justo».
 
-## D Marketing relacional o marketing de atracción
+## Marketing relacional o marketing de atracción
 
 El marketing relacional o marketing de atracción busca fidelizar la relación con el cliente y ganar nueva clientela, a base de una comunicación permanente y bidireccional; es decir, se espera que sean los usuarios los que accedan al contenido online de la empresa, ya sea en busca de información relevante, para participar en foros o para acceder a un posible premio. La empresa no se detiene en la creación de este contenido relevante, sino que avanza un paso más, ya que analiza la repercusión de los mensajes en la potencial clientela. Engloba, por tanto, herramientas de marketing social, de marketing de contenidos y de SEO, esto es, de mejorar el posicionamiento web.
 
@@ -7272,19 +7277,19 @@ La posibilidad de compartir el vídeo era un elemento clave en la campaña. Se u
 
 Los resultados de la campaña mostraron que cerca de dos millones de usuarios vieron el vídeo en las dos primeras semanas de campaña, que más de medio millón visitaron la aplicación Social UfeAudit y que el vídeo fue número uno entre los más vistos en los EE.UU. Los mejores datos son los índices de satisfacción de la propia marca, que considera que de este modo había logrado un mayor impacto entre los consumidores que con un típico anuncio, ya que los usuarios de estos medios han llegado a la marca gracias a la recomendación de amigos y han asociado la marca con una buena experiencia.
 
-## ■ Otros medios de promoción
+## Otros medios de promoción
 
 En el mundo del marketing se alude a otras variantes de marketing que, sin tener tanta re percusión, sí es frecuente que aparezcan en los medios de comunicación, razón por la que procederemos a su análisis.
 
-## D Street marketing
+## Street marketing
 
 Se trata de realizar acciones promocionales inesperadas en una calle céntrica para asegurarse una gran audiencia. Lo más habitual es que se revelen pocos datos o ninguno de la compañía que desarrolla la campaña, para generar intriga y expectación, y así incrementar y prolongar el efecto.
 
-## Ejemplo 15. Street marketingf acciones inesperadas
+## Ejemplo 15. Street marketing, acciones inesperadas
 
 La promoción de la película Chronicle se efectuó con una acción inusitada. Durante más de media hora, unos maniquís teledirigidos volaron y planearon sobre la ciudad de Nueva York. No hubo aviso previo, ni información que diera pistas sobre el propósito de esta acción, lo que generó una gran afluencia de público detenido mientras señalaban el cielo. Incluso hay quien imaginó que seres extraterrestres estaban invadiendo la Tierra. Puedes ver el vídeo en YouTube, titulado Hombres volando BY: Chronicle.
 
-La ciudad de Barcelona también fue escenario de unas acciones de street marketing hace años, cuando la compañía Converse quiso dar a conocer los nuevos colores de las zapatillas - 246 - ChuckTaylor All-Stars. Durante cuatro días, se dejaron en diversos puntos de la ciudad 300 bicis pintadas de llamativos colores para que la gente se las llevara gratis. Las bicicletas se loca lizaban a través del perfil de Converse en Facebook. Como fin de fiesta, se realizó un mosaico de colores en la playa de Barcelona con sombrillas, esterillas, balones y bolsas de playa, que también se regalaron.
+La ciudad de Barcelona también fue escenario de unas acciones de street marketing hace años, cuando la compañía Converse quiso dar a conocer los nuevos colores de las zapatillas ChuckTaylor All-Stars. Durante cuatro días, se dejaron en diversos puntos de la ciudad 300 bicis pintadas de llamativos colores para que la gente se las llevara gratis. Las bicicletas se loca lizaban a través del perfil de Converse en Facebook. Como fin de fiesta, se realizó un mosaico de colores en la playa de Barcelona con sombrillas, esterillas, balones y bolsas de playa, que también se regalaron.
 
 ## D Dance marketing
 
@@ -7296,7 +7301,7 @@ La primera iniciativa tuvo lugar en la estación de Liverpool de Londres, realiz
 
 En España, la empresa IKEA realizó esta actividad en sus instalaciones de Alcorcón (Madrid) de manera aparentemente improvisada, aunque las cámaras de televisión estuvieron presentes para grabar la escena y mostrarlo en el telediario.
 
-## D Co-marketing o marketing de cooperación
+## Co-marketing o marketing de cooperación
 
 El co-marketing o marketing de cooperación es una unión, generalmente temporal, de em presas para realizar una campaña promocional conjunta, de manera que se incrementa el impacto de la acción publicitaria, ya que con menos recursos económicos se llega a más audiencia.
 
@@ -7304,13 +7309,13 @@ El co-marketing o marketing de cooperación es una unión, generalmente temporal
 
 En ocasiones, las compañías no son rivales, como sucede en la reciente campaña realizada por Magnum. A través de la web http://pleasurehunt.mymagnum.com se accede a un original juego en el que una mujer, dirigida con los cursores del teclado del ordenador, va moviéndose por diferentes páginas web para atrapar bombones Magnum. El juego dura en torno a veinte minutos, lo que da idea de la cantidad de empresas integradas en esta campaña publicitaria. Al acabar el juego, el jugador obtiene una puntuación final que se incluye en un ranking con el resultado de otros jugadores online.
 
-Otras veces, se unen empresas que se dedican al mismo sector y es precisamente esta con vergencia la que asegura un mayor índice de audiencia, del mismo modo que los centros co merciales atraen a más compradores por la concentración en un mismo espacio de diferentes marcas, lo que amplía las posibilidades de compra.
+Otras veces, se unen empresas que se dedican al mismo sector y es precisamente esta con vergencia la que asegura un mayor índice de audiencia, del mismo modo que los centros comerciales atraen a más compradores por la concentración en un mismo espacio de diferentes marcas, lo que amplía las posibilidades de compra.
 
-## Ejemplo 18e Co-marketing de empresas del mismo sector
+## Ejemplo 18. Co-marketing de empresas del mismo sector
 
-Un ejemplo clásico de este tipo de posibilidad es la distribución de tickets descuentos en una misma libreta, a usar en diferentes negocios. O la asociación Coca-Cola con Telepizza, Burger Kingy otros restaurantes. O el recién portal de bodas creado por El Corte Inglés en el que se integran los servicios de cerca de 1 500 empresas, con el propósito de competir con la empresa Bodaclick.
+Un ejemplo clásico de este tipo de posibilidad es la distribución de tickets descuentos en una misma libreta, a usar en diferentes negocios. O la asociación Coca-Cola con Telepizza, Burger King y otros restaurantes. O el recién portal de bodas creado por El Corte Inglés en el que se integran los servicios de cerca de 1500 empresas, con el propósito de competir con la empresa Bodaclick.
 
-## D Marketing de guerrilla
+## Marketing de guerrilla
 
 Esta estrategia comercial aplica al mundo del marketing los conocimientos militares de Sun Tzu, un general, estratega y filósofo chino, de alrededor del año 500 a.C. Sus ideas están re cogidas en el libro El arte de la guerra, se trata de tácticas sencillas pero eficaces que han sido reinterpretadas para adaptarse al mundo empresarial.
 
@@ -7587,7 +7592,7 @@ En caso contrario, habría que seguir estos consejos:
 11. Entre la extensión .es o .com, es preferible la segunda ya que permite la internacionalización más rápida, llegado el caso. Sin embargo, sería deseable, si la economía de la empresa lo permite, registrar todas las variantes posibles .es, .com, .net, .org, .biz, .net, etc., para evitar futuros conflictos con otras web.
 12. Antes de decidir, es bueno pedir opinión a otras personas.
 
-## Fase 4. estión de RR.HH.
+## Fase 4. Gestión de RR.HH.
 
 Las tendencias directivas actuales (management) apuntan hacia la calidad total, mediante la creación de sistemas participativos, la fomentación de equipos de trabajo, el trabajo orienta do a resultados, la captación del talento y la gestión informatizada de los recursos humanos.
 
@@ -7638,7 +7643,7 @@ La gestión de la calidad total (TQM, del inglés Total Quality Management) es u
 
 El círculo de calidad es una técnica que pretende resolver los problemas generados por la interacción de los trabajadores. Para ello, un grupo voluntario de trabajadores se reúne periódicamente con la intención de gestionar de manera satisfactoria los problemas detec tados en sus áreas de desempeño laboral. Tras la discusión y propuesta de soluciones, se elevan las conclusiones a las instancias superiores que las estudiarán e implementarán, en la medida de lo posible. Esta técnica procede de Japón y se ha incorporado en las empresas orientales, no así en las occidentales que tienen un método de gestión del personal menos abierto y flexible.
 
-## I estión informatizada de los RR.HH.
+## Gestión informatizada de los RR.HH.
 
 Los sistemas de administración de recursos humanos o sistemas de información de recursos humanos son una manera de llevar a cabo las tareas administrativas de la gestión de personal con programas y aplicaciones informáticas, como los utilizados para la realización de nómi nas, cálculo de deducciones e impuestos u operaciones de contabilidad.
 
@@ -7856,7 +7861,7 @@ La expansión internacional se inició en Portugal, apenas 35 años después el 
 
 En la mayoría de las ocasiones, la entrada en el nuevo mercado es iniciada por Zara; el resto de las firmas del grupo se incorporan gradualmente. En estos momentos, Zara es la marca más valiosa del mundo en el sector de la confección.
 
-## I Abriéndose paso en el mercado internacional
+## Abriéndose paso en el mercado internacional
 
 En Europa, los países con mayor presencia de Inditex son Francia, Bélgica y recia. El éxito en Francia supuso un gran respaldo, por tratarse de un mercado de relevancia internacional en el ámbito de la moda. Los últimos países donde se ha incorporado su presencia han sido Alemania, Reino Unido e Italia y en cada uno de ellos se ha seguido una estrategia de ex pansión diferente. En los mercados alemán e italiano se ha optado por la fórmula dejoint venturo, en el Reino Unido por la implantación directa, creando la filial Zara UK. En cambio, en Oriente Medio se ha optado mayoritariamente por la fórmula de la franquicia.
 
