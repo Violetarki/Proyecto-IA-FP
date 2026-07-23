@@ -1,4 +1,4 @@
-### INTRODUCCION
+# INTRODUCCION
 
 ESO y BACH CCFE GM/GS
 
@@ -159,7 +159,7 @@ Mentalidad:en beta permanente
 Pasar a la accion Se recomienda no poner en marcha toda la propuesta al 100% el primer curso. Empezar primero con aquellas cuestiones con las que se trabaje con mas seguridad, e ir profundizando curso a curso La propuesta que presento refleja la experiencia de aula de 4 anos. En el manual se ofrecen aquellas dinamicas que ofrecen buenos resultados Creo que lo verdaderamente util del libro es el proceso llevado a cabo para su redaccion. Han sido muchos los docentes, y sobre todo, los mas innovadores, los que me han aportado su valioso punto de vista para redactar este manual. Te aconsejo seguir ese proceso con tu experiencia en aula Recomiendo llevar a la practica las actividades que mas te gusten. y probar. Al final, cada maestrillo tiene su librillo En el fondo, si lees este manual, te estoy invitando para pasar a la accion, para cambiar la metodologiay hacer del proceso educativo una experiencia memorablepara elalumnado Devbes tener claro lo que quieres conseguir. No hay que obsesionarse con las dinamicas, sino trabajar las que se consideren adecuadas para el objetivo final
 
 
-### MODULO O. JUSTIFICACION
+# MODULO O. JUSTIFICACION
 
 ## ÍNDICE
 
@@ -563,7 +563,7 @@ Por último, y como hemos hecho en epígrafes anteriores, veamos este esquema me
 
 
 
-### MODULO 1. EMPRENDER
+# MODULO 1. EMPRENDER
 
 ## ÍNDICE
 
@@ -1062,7 +1062,7 @@ recursos propios de la web 2.0 que hayan servido de soporte para la realización
 EVALUACIÓN : en esta actividad podemos comprobar en qué medida maneja las habilidades de un emprendedor, pero ahora para crear contenidos originales y con formato atractivo y original. La evaluación de esta actividad está íntimamente relacionada con la de la actividad anterior, referida a la marca personal.
 
 
-### MODULO 2. IDEAR
+# MODULO 2. IDEAR
 
 ## ÍNDICE
 
@@ -1665,7 +1665,7 @@ Trello funciona perfectamente con wearables. Puedes responder rápidamente a los
 
 Perfectamente definida, constituye un recurso totalmente imprescindible en el aula.
 
-### MODULO 3. CONTEXTUALIZAR
+# MODULO 3. CONTEXTUALIZAR
 
 ## ÍNDICE
 
@@ -2178,7 +2178,7 @@ Inghenia. Una vez que tiene la información necesario, nos ofrece la matriz DAFO
 
 En este módulo se usarán las apps citadas en los módulos anteriores.
 
-### MODULO 4. PROTOTIPAR
+# MODULO 4. PROTOTIPAR
 
 ## ÍNDICE
 
@@ -2762,7 +2762,7 @@ Con QR Droid puedes convertir tu smartphone en una potente herramienta para esca
 
 Esta utilidad QR es intuitiva, muy completa, admite diversos idiomas y cambiará tu forma de interactuar con códigos QR, sus acciones y actividades inteligentes.
 
-### MODULO 5. VALIDAR
+# MODULO 5. VALIDAR
 
 ## ÍNDICE
 
@@ -2990,7 +2990,7 @@ Para hacer uso de la herramienta es necesario acceder a la página de linoit.com
 
 La interfaz es intuitiva, sigue los pasos para crear tu tablero: estilo, privacidad, nombre… Una vez creado dispones de un mural y un cuadro de herramientas: sticks (post-it), vídeo, enlace… seleccionando y arrastrando podrás añadirlos al tablero. Dispone de iconos para editar, borrar y otras funcionalidades.
 
-### MODULO 6. COMUNICAR
+# MODULO 6. COMUNICAR
 
 ## ÍNDICE
 
@@ -3100,7 +3100,7 @@ Hybrid Stopwatch and Timer es una aplicación sencilla, precisa y fácil de usar
 
 Puedes iniciar y detener el cronómetro pulsando el botón central; podrás ver el tiempo transcurrido en la pantalla digital ubicado en la zona superior y también en la vista analógica. Para marcar una vuelta presiona el botón izquierdo, se agregará una aguja en el cronómetro analógico indicando, para reiniciar el cronometro presiona el botón derecho. Los botones están situados de tal forma que sólo es necesario una mano para controlar el cronómetro.
 
-### ANÉXO I
+# ANÉXO I
 
 ## ÍNDICE
 

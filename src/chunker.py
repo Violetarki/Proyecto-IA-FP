@@ -38,7 +38,7 @@ def crear_chunks() -> list[Chunk]:
             linea_limpia = linea.strip()
 
             # Si la línea empieza por "###", la usamos como título del chunk.
-            if linea_limpia.startswith("###"):
+            if linea_limpia.startswith("#"):
                 # Si ya había contenido acumulado, guardamos el chunk anterior.
                 if contenido_seccion:
                     texto_chunk = "\n".join(contenido_seccion).strip()
