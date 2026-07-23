@@ -1,16 +1,16 @@
-import embeddings
+from embeddings import crear_embedding_texto
 from vector_store import VectorStore
-from llm_client import LLM
 from prompts import ConstructorPrompts
-import numpy as np
+from llm_client import LLMClient
+
 
 class Chatbot:
 
     def __init__(
         self,
-        embedder: embeddings,
+        embedder: crear_embedding_texto,
         vector_store: VectorStore,
-        llm: LLM
+        llm: LLMClient
     ):
         
         self.embedder = embedder
@@ -21,10 +21,6 @@ class Chatbot:
 
     def responder(self, pregunta:str) -> str:
         """
-
-        4. Crear el prompt
-
-        ↓
 
         5. Llamar al LLM
 
@@ -40,12 +36,10 @@ class Chatbot:
         # Construimos el prompt
         prompt = ConstructorPrompts.construir_prompt(pregunta, contexto)
 
-        respuesta = self._consultar_llm(prompt)
+        respuesta = LLMClient.generar_respuesta(prompt)
 
         
         return respuesta
-
-
 
 
 
@@ -55,7 +49,7 @@ class Chatbot:
         A partir de la pregunta del usuario, obtener el texto del documento que será enviado al LLM como contexto
         """
         # Generar embedding de la pregunta
-        embedding_pregunta = self.embedder.crear_embedding_texto(pregunta)
+        embedding_pregunta = self.embedder(pregunta)
 
         # Buscar los chunks
         chunks_respuesta = self.vector_store.buscar(embedding_pregunta, 5)
@@ -68,8 +62,3 @@ class Chatbot:
 
 
         return texto_respuesta
-
-
-
-    def _consultar_llm():
-        ...
