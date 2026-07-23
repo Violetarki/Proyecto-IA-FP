@@ -15,7 +15,7 @@ from docling.document_converter import DocumentConverter
 
 
 converter = DocumentConverter()
-
+CARPETA_MARKDOWN_RAW = Path("data") / "markdown_raw"
 
 def convertir_pdf_a_markdown(ruta_pdf: str | Path) -> Path:
     """
@@ -58,12 +58,7 @@ def convertir_pdf_a_markdown(ruta_pdf: str | Path) -> Path:
 
     metodologia = ruta_pdf.parent.name
 
-    ruta_markdown = (
-        Path("data")
-        / "markdown_raw"
-        / metodologia
-        / f"{ruta_pdf.stem}.md"
-    )
+    ruta_markdown = CARPETA_MARKDOWN_RAW / metodologia / f"{ruta_pdf.stem}.md"
 
     ruta_markdown.parent.mkdir(
         parents=True,
