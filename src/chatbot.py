@@ -36,6 +36,7 @@ class Chatbot:
         # Construimos el prompt
         prompt = ConstructorPrompts.construir_prompt(pregunta, contexto)
 
+        # Obtenemos la respuesta del LLM
         respuesta = LLMClient.generar_respuesta(prompt)
 
         
