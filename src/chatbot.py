@@ -1,18 +1,47 @@
-
+import embeddings
+from vector_store import VectorStore
+from llm import LLM
 
 class Chatbot:
 
-    def __init__(self, pregunta:str):
+    def __init__(
+        self,
+        embedder: embeddings,
+        vector_store: VectorStore,
+        llm: LLM
+    ):
         
-        self.embedder = ...
+        self.embedder = embedder
+        self.vector_store = vector_store
+        self.llm = llm
 
-        self.vector_store = ...
-
-        self.llm = ...
 
 
     def responder():
-        pass
+        """
+        1. Generar embedding
+
+        ↓
+
+        2. Buscar los mejores chunks
+
+        ↓
+
+        3. Construir el contexto
+
+        ↓
+
+        4. Crear el prompt
+
+        ↓
+
+        5. Llamar al LLM
+
+        ↓
+
+        6. Devolver la respuesta
+        """
+
 
 
     def _generar_contexto():
