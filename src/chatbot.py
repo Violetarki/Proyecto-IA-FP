@@ -1,7 +1,7 @@
-import embeddings, prompts
+import embeddings
 from vector_store import VectorStore
 from llm_client import LLM
-from models import Chunk
+from prompts import ConstructorPrompts
 import numpy as np
 
 class Chatbot:
@@ -38,7 +38,9 @@ class Chatbot:
         contexto = self._generar_contexto(pregunta)
 
         # Construimos el prompt
-        prompt = prompts.construir_prompt(pregunta, contexto)
+        prompt = ConstructorPrompts.construir_prompt(pregunta, contexto)
+
+        respuesta = self._consultar_llm(prompt)
 
         
         return respuesta
@@ -69,6 +71,5 @@ class Chatbot:
 
 
 
-        return prompt 
     def _consultar_llm():
         ...
