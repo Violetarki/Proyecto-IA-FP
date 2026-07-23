@@ -73,11 +73,17 @@ def convertir_pdf_a_markdown(ruta_pdf: str | Path) -> Path:
     print(f"Convirtiendo PDF: {ruta_pdf}")
     print(f"Metodología detectada: {metodologia}")
 
-    resultado = converter.convert(ruta_pdf)
+    try: 
+        resultado = converter.convert(ruta_pdf)
 
-    texto_markdown = (
-        resultado.document.export_to_markdown()
-    )
+        texto_markdown = (
+            resultado.document.export_to_markdown()
+        )
+
+    except Exception as error:
+        raise RuntimeError(
+            f"Error al convertir el PDF '{ruta_pdf}' a Markdown."
+        ) from error
 
     ruta_markdown.write_text(
         texto_markdown,
@@ -90,8 +96,37 @@ def convertir_pdf_a_markdown(ruta_pdf: str | Path) -> Path:
     return ruta_markdown
 
 
+def convertir_carpeta(ruta_carpeta: str | Path) -> list[Path]:
+    """
+    Convierte todos los archivos PDF contenidos en una carpeta
+    (incluyendo subcarpetas) a Markdown.
+
+    Args:
+        ruta_carpeta: Carpeta donde buscar los archivos PDF.
+
+    Returns:
+        Lista con las rutas de los Markdown generados.
+    """
+
+    ruta_carpeta = Path(ruta_carpeta)
+
+    if not ruta_carpeta.exists():
+        raise FileNotFoundError(f"No existe la carpeta: {ruta_carpeta}")
+
+    if not ruta_carpeta.is_dir():
+        raise ValueError(f"La ruta no corresponde a una carpeta: {ruta_carpeta}")
+
+    markdowns = []
+
+    for ruta_pdf in ruta_carpeta.rglob("*.pdf"):
+        markdown = convertir_pdf_a_markdown(ruta_pdf)
+        markdowns.append(markdown)
+
+    return markdowns
+
+
 if __name__ == "__main__":
     print(
-        "Este módulo debe utilizarse llamando a "
-        "convertir_pdf_a_markdown(ruta_pdf)."
+        "Este módulo proporciona funciones para convertir "
+        "archivos PDF a Markdown mediante Docling."
     )
