@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+
+    <meta
+        name="viewport"
+        content="width=device-width, initial-scale=1.0"
+    >
+
+    <title>Asistente IA para FP</title>
+
+    <link
+        rel="stylesheet"
+        href="{{ url_for('static', filename='styles.css') }}"
+    >
+</head>
+
+<body>
+
+    <main class="contenedor-chat">
+
+        <header class="cabecera-chat">
+
+            <h1>Asistente IA para FP</h1>
+
+            <a
+                href="{{ url_for('inicio') }}"
+                class="enlace-volver"
+            >
+                ← Volver
+            </a>
+
+        </header>
+
+        <section class="ventana-chat">
+
+            <div class="mensaje-chat mensaje-bot">
+                👋 Hola.
+
+                <br><br>
+
+                Soy el asistente IA del proyecto.
+
+                <br><br>
+
+                Escribe una pregunta relacionada con las
+                metodologías de Formación Profesional.
+            </div>
+
+            {% if pregunta %}
+
+                <div class="mensaje-chat mensaje-usuario">
+                    {{ pregunta }}
+                </div>
+
+            {% endif %}
+
+            {% if respuesta %}
+
+                <div class="mensaje-chat mensaje-bot">
+                    {{ respuesta }}
+                </div>
+
+            {% endif %}
+
+        </section>
+
+        <form
+            class="formulario-chat"
+            action="{{ url_for('chat') }}"
+            method="POST"
+        >
+
+            <textarea
+                name="pregunta"
+                rows="3"
+                placeholder="Escribe aquí tu pregunta..."
+                required
+            >{{ pregunta }}</textarea>
+
+            <button
+                class="boton boton-principal"
+                type="submit"
+            >
+                Preguntar
+            </button>
+
+        </form>
+
+    </main>
+
+</body>
+</html>
