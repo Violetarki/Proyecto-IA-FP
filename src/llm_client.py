@@ -5,7 +5,6 @@ class LLMClient:
 
 
     def __init__(self, modelo: str = "gemma3:4b"):
-
         """
         inicializamos el modelo (?)
         """
@@ -27,10 +26,7 @@ class LLMClient:
                     'content': prompt
                 }],)
 
-        # if hasattr(respuesta, 'message') and getattr(respuesta.message, 'content', None) is not None:
         return respuesta.message.content
-
-        # return str(respuesta)
 
 
 
