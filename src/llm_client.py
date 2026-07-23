@@ -1,19 +1,15 @@
+from ollama import chat
+
 
 class LLMClient:
 
 
-    def __init__(self):
+    def __init__(self, modelo: str = "gemma3:4b"):
 
         """
-        Crear cliente de LLM
-            │
-            ▼
-        Guardar la configuración del modelo
-            │
-            ▼
-        Cliente listo para generar respuestas
-        
+        inicializamos el modelo (?)
         """
+        self.modelo = modelo
     
 
         
@@ -23,7 +19,38 @@ class LLMClient:
         Recibir un prompt y devolver la respuesta del modelo.
         """
 
-        respuesta = ""
+        respuesta = chat(
+            model=self.modelo,
+            messages=[
+                {
+                    'role': 'user', 
+                    'content': prompt
+                }],)
+
+        # if hasattr(respuesta, 'message') and getattr(respuesta.message, 'content', None) is not None:
+        return respuesta.message.content
+
+        # return str(respuesta)
 
 
-        return respuesta
+
+
+if __name__ == "__main__":
+    """Prueba interactiva de LLMClient desde la línea de comandos."""
+    client = LLMClient()
+    print("Escribe tu prompt (o deja vacío para salir):")
+    while True:
+        prompt = input("> ").strip()
+        if not prompt:
+            print("Saliendo...")
+            break
+
+        try:
+            respuesta = client.generar_respuesta(prompt)
+            print("\nRespuesta del modelo:\n")
+            print(respuesta)
+            print("\n---\n")
+        except Exception as exc:
+            print(f"Error al generar respuesta: {exc}")
+            break
+
