@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+
+    <meta
+        name="viewport"
+        content="width=device-width, initial-scale=1.0"
+    >
+
+    <title>Asistente IA para FP</title>
+
+    <link
+        rel="stylesheet"
+        href="{{ url_for('static', filename='styles.css') }}"
+    >
+</head>
+
+<body>
+    <main class="contenedor contenedor-inicio">
+
+        <section class="cabecera-inicio">
+
+            <p class="etiqueta">
+                Asistente educativo
+            </p>
+
+            <h1>Asistente IA para Formación Profesional</h1>
+
+            <p class="descripcion-inicio">
+                Consulta dudas sobre metodologías educativas y recibe
+                respuestas basadas en la documentación disponible.
+            </p>
+
+        </section>
+
+        <section class="opciones-inicio">
+
+            <article class="tarjeta-acceso">
+
+                <h2>Consultar al asistente</h2>
+
+                <p>
+                    Haz preguntas sobre las metodologías y materiales
+                    disponibles en la base de conocimiento.
+                </p>
+
+                <a
+                    class="boton boton-principal enlace-boton"
+                    href="{{ url_for('chat') }}"
+                >
+                    Abrir chatbot
+                </a>
+
+            </article>
+
+            <article class="tarjeta-acceso">
+
+                <h2>Acceso para profesores</h2>
+
+                <p>
+                    Accede al panel privado para subir, eliminar y
+                    gestionar documentos.
+                </p>
+
+                <a
+                    class="boton boton-secundario enlace-boton"
+                    href="{{ url_for('login') }}"
+                >
+                    Acceso profesores
+                </a>
+
+            </article>
+
+        </section>
+
+    </main>
+</body>
+</html>

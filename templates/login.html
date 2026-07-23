@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+
+    <meta
+        name="viewport"
+        content="width=device-width, initial-scale=1.0"
+    >
+
+    <title>Acceso para profesores</title>
+
+    <link
+        rel="stylesheet"
+        href="{{ url_for('static', filename='styles.css') }}"
+    >
+</head>
+
+<body>
+    <main class="contenedor contenedor-login">
+
+        <section class="tarjeta-login">
+
+            <a
+                class="enlace-volver"
+                href="{{ url_for('inicio') }}"
+            >
+                ← Volver al inicio
+            </a>
+
+            <p class="etiqueta">
+                Área privada
+            </p>
+
+            <h1>Acceso para profesores</h1>
+
+            <p class="descripcion-login">
+                Introduce tus credenciales para acceder al panel
+                de gestión de documentos.
+            </p>
+
+            {% with mensajes = get_flashed_messages(with_categories=true) %}
+
+                {% if mensajes %}
+
+                    <section class="mensajes">
+
+                        {% for categoria, mensaje in mensajes %}
+
+                            <p class="mensaje mensaje-{{ categoria }}">
+                                {{ mensaje }}
+                            </p>
+
+                        {% endfor %}
+
+                    </section>
+
+                {% endif %}
+
+            {% endwith %}
+
+            <form
+                class="formulario-login"
+                action="{{ url_for('login') }}"
+                method="POST"
+            >
+
+                <div class="grupo-formulario">
+
+                    <label for="usuario">
+                        Usuario
+                    </label>
+
+                    <input
+                        id="usuario"
+                        name="usuario"
+                        type="text"
+                        autocomplete="username"
+                        required
+                    >
+
+                </div>
+
+                <div class="grupo-formulario">
+
+                    <label for="contrasena">
+                        Contraseña
+                    </label>
+
+                    <input
+                        id="contrasena"
+                        name="contrasena"
+                        type="password"
+                        autocomplete="current-password"
+                        required
+                    >
+
+                </div>
+
+                <button
+                    class="boton boton-principal boton-login"
+                    type="submit"
+                >
+                    Iniciar sesión
+                </button>
+
+            </form>
+
+        </section>
+
+    </main>
+</body>
+</html>
