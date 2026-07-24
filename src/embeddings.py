@@ -7,10 +7,8 @@ encontrar los chunks más relacionados con una pregunta.
 """
 
 from functools import lru_cache
-
 import numpy as np
 from sentence_transformers import SentenceTransformer
-
 from models import Chunk
 
 
@@ -89,6 +87,10 @@ def crear_embeddings_textos(
             dtype=np.float32,
         )
 
+        # Esto en vez de empty si lo consideras mejor
+        # raise ValueError(
+        # "La lista de textos está vacía."
+
     textos_limpios: list[str] = []
 
     for texto in textos:
@@ -145,6 +147,8 @@ def crear_embeddings_chunks(
 
 
 if __name__ == "__main__":
+
+    print("Este módulo proporciona funciones para generar embeddings.")
 
     textos_prueba = [
         (

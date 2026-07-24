@@ -18,31 +18,26 @@ Coautor del libro"Espana Lean Startup 2015". Realiza ponencias y formacion sobre
 
 UNETEA NUESTROCANAL: www.telegram.me/pablopenalver
 
-
-
 ANNA CLEMENTS,Directora General y cofundadora de SOs Galgos.
 
 Anna fue profesora durante nueve años y formadora de profesores durante cuatro anos .
 
 Durante anos simultaneo su trabajo con charlas en colegios sobre la proteccion de animales, actividad que a dia de hoy sigue haciendo junto con la Policia Local de Esplugues. Dejo la ensenanza para dedicarse en cuerpo y alma a la proteccion de los galgos, aunque su formacion como educadora es muy importante para conseguir uno de los objetivos de SoS Galgos: que las futuras generaciones sean mas respetuosas con los animales.
 
-
-
 ## iNDICE
 
-| Prologo por Nestor Guerra | |
-|-----------------------------------------------|------|
-| Reflexion previa | 9 |
-| Modulo O. Justificacion | |
-| Modulo 1. Emprender | |
-| Modulo 2. Idear | 1745 |
-| Modulo 3. Contextualizar | h6 |
-| Modulo 4. Prototipar | 119 |
-| Modulo 5. Validar | 144 |
-| Modulo 6. Comunicar | 157 |
-| Anexo I. Un ejemplo de Programacion Didactica | 164 |
-| Agradecimientos | 181 |
-
+| Prologo por Nestor Guerra                     |      |
+| --------------------------------------------- | ---- |
+| Reflexion previa                              | 9    |
+| Modulo O. Justificacion                       |      |
+| Modulo 1. Emprender                           |      |
+| Modulo 2. Idear                               | 1745 |
+| Modulo 3. Contextualizar                      | h6   |
+| Modulo 4. Prototipar                          | 119  |
+| Modulo 5. Validar                             | 144  |
+| Modulo 6. Comunicar                           | 157  |
+| Anexo I. Un ejemplo de Programacion Didactica | 164  |
+| Agradecimientos                               | 181  |
 
 Los emprendedores tenemos muchas virtudes, las cuales no podría describir brevemente en estas líneas. Sin embargo, de lo que pocos os hablaran es de que sufrimos dos grandes enfermedades: una bastante grave, que es creernos nuestras propias mentiras, y la otra, mortal por necesidad, que es poseer la habilidad de distorsionar la realidad hasta dar sentido a esas mentiras.
 
@@ -71,43 +66,45 @@ En segundo lugar, la lectura del manual no garantiza ningún resultado. La clave
 En tercer lugar, y derivado del párrafo anterior, es fundamental que la motivación del alumno sea máxima. Sólo si está motivado se implica; sólo si se implica aprende; y sólo si aprende, estamos consiguiendo los objetivos educativos. La motivación implica que debe trabajar en un contexto cercano a sus intereses y capacidades; la motivación implica que debe servirle lo que aprende, y cómo aprende. La motivación implica que se sienta respaldado por el docente, que más que actuar como tal, debe actuar como mentor, guiando su proceso de aprendizaje, y dando respuesta a cada alumno. Por todo ello, os propongo la visualización de cuatro infografías que son claves para entender este manual:
 
 1. Radiografía del profesor emprendedor . Considero que si queremos impartir emprendimiento hoy, debemos ser profesores emprendedores. Lo que supone:
+
 - a. Planificar y programar el curso, dejando muy claro cómo se produce el aprendizaje y los distintos niveles para generar conocimiento.
 - b. Se puede emprender en cualquier nivel educativo . La clave está es, como decimos, pasar a la acción, y salir fuera del aula, porque es dónde están los hechos. En el aula, sólo podemos trabajar con suposiciones. Y en este sentido, los contenidos son nuestra herramienta de trabajo.
 - c. Estar en beta permanente . Como nuestros alumnos, aprendemos todos los días. Creatividad, comunicación, cooperación y confianza también deben ser habilidades básicas de todo docente. Pero en cualquier caso, la propuesta de este manual debe entenderse de forma flexible.
 - d. El papel del docente debe ser el de mentor , que guía el proceso de aprendizaje del alumno, se ajusta a sus características, y sobre todo le motiva para conseguir lo máximo dentro de sus posibilidades.
+
 2. Metodología es la que se basa este manual. Propongo cinco aspectos clave que constituyen los pilares de este libro:
+
 - a. Learning by doing. Trabajar las dinámicas que se plantean en este manual supone aprender haciendo . Y aquí, de nuevo, es clave la actividad del alumno.
 - b. Aprendizaje basado en retos. El curso no se compone de temas o unidades. Se compone de retos. Retos difíciles pero superables, que inciden de forma clave en la motivación del alumnado. Y todo ello, mediante aprendizaje cooperativo .
 - c. Design Thinking. El fomento de la creatividad y la generación de respuestas innovadoras a problemas actuales es uno de los ejes básicos del manual. Para ello nos apoyamos en una de las herramientas de innovación más usadas en la empresas, y la adaptamos a nuestro aula.
 - d. Lean Startup. El verdadero eje del curso, y de la secuencia de contenidos del manual. Constituye otra herramienta de innovación de las empresas, está muy ligada a Design Thinking, y supone una verdadera tendencia de la educación del futuro.
 - e. Mobile Learning. Porque hoy en día no podemos entender la educación si no es conectada, líquida, en cualquier sitio o lugar. Y en este sentido, el uso de smartphone ofrece utilidad, motivación y realismo al proceso de enseñanzaaprendizaje.
 
-
 3. Dinámicas de trabajo . En lugar de actividades o ejercicios, se proponen 30 dinámicas que constituyen la base de un programa de emprendimiento actual. Así:
+
 - a. Las dinámicas siguen una secuencia que se ajusta a las pautas de todo proceso educativo .
 - b. Las dinámicas permiten el desarrollo de habilidades emprendedoras del alumnado.
 - c. Las dinámicas suponen en la mayoría de las veces juegos adaptados a la edad del alumno. Percibir el aprendizaje como un juego ayuda en gran medida en nuestro trabajo como docentes.
 - d. Las dinámicas incluyen el uso de las Tecnologías de la Información y Comunicación , como no podía ser de otra forma. Para cada reto se proponen aplicaciones de escritorio y apps móviles que facilitarán en gran medida el proceso educativo.
 - e. las dinámicas deben entenderse de forma flexible . El docente tiene la capacidad para profundizar más o menos en cada una de las fases o módulos.
+
 4. Recomendaciones . No hay formulas secretas para llevar al aula y garantizar el éxito. La propuesta que os hago recoge el trabajo en aula de 5 cursos (2012-2017), y la sintetizo con el fin de que aquel que así lo considere, pueda tener más seguridad para su aplicación en clase. A mi experiencia hay que añadirle el importante punto de vista de varios profesores innovadores interesados en la cuestión, que me han ampliado y enriquecido los contenidos, y que han permitido que yo mismo, siga un proceso "lean" en la redacción del libro. La cuarta infografía recoge de forma clara estas recomendaciones.
 
 Finalizo esta reflexión con una serie de tuits sobre mi participación en el evento España Lean Startup 2015 , y la incidencia que supuso para diferentes profesionales conocer que en educación estamos interesados en innovar en emprendimiento aplicando Lean Startup. Muchas gracias por acompañarme.
 
 PABLO PEÑALVER ALONSO 28 de febrero de 2017
 
-
 ## METODOLOGIA
 
 basada en
 
-
 3. Test emprendedor
-2. 4.Presentacion
-3. 5.Startups
-4. 6.Reto de los 5 euros
+4. Presentacion
+5. Startups
+6. Reto de los 5 euros
 7. Contrato de aprendizaje
 8. Personal branding
-7. 9.Portfolio
+9. Portfolio
 10. Brainstorming
 11. Cardsorting
 12. Maduracion de ideas
@@ -117,17 +114,17 @@ basada en
 16. Feedback y retoque I
 17. La entrevista
 18. Feedback y retoque Il
-17. 19.Matriz DAFO
+19. Matriz DAFO
 20. Mapa de empatia
 21. Cuadro estrategico
-20. 22.Vias de exploracion
-21. 23.Matriz ERIC
-22. 24.Estrategia competitiva
+22. Vias de exploracion
+23. Matriz ERIC
+24. Estrategia competitiva
 25. Lienzo de la propuesta de valor
 26. Lienzo del modelo de negocios
 27. Producto minimo viable
-26. 28.Entrevista cliente-problema-solucion
-27. 29.Test A/B
+28. 28.Entrevista cliente-problema-solucion
+29. 29.Test A/B
 30. Foro de Inversion Creativo
 
 ## Lean Startup Educacion en 30 DINAMICAS
@@ -157,7 +154,6 @@ Interioriza el proceso Lean
 Mentalidad:en beta permanente
 
 Pasar a la accion Se recomienda no poner en marcha toda la propuesta al 100% el primer curso. Empezar primero con aquellas cuestiones con las que se trabaje con mas seguridad, e ir profundizando curso a curso La propuesta que presento refleja la experiencia de aula de 4 anos. En el manual se ofrecen aquellas dinamicas que ofrecen buenos resultados Creo que lo verdaderamente util del libro es el proceso llevado a cabo para su redaccion. Han sido muchos los docentes, y sobre todo, los mas innovadores, los que me han aportado su valioso punto de vista para redactar este manual. Te aconsejo seguir ese proceso con tu experiencia en aula Recomiendo llevar a la practica las actividades que mas te gusten. y probar. Al final, cada maestrillo tiene su librillo En el fondo, si lees este manual, te estoy invitando para pasar a la accion, para cambiar la metodologiay hacer del proceso educativo una experiencia memorablepara elalumnado Devbes tener claro lo que quieres conseguir. No hay que obsesionarse con las dinamicas, sino trabajar las que se consideren adecuadas para el objetivo final
-
 
 # MODULO O. JUSTIFICACION
 
@@ -191,7 +187,6 @@ Podemos afirmar que se precisa un cambio urgente de la metodología docente de t
 
 Puesta de manifiesto nuestra tesis, la metodología del Aprendizaje basado en Proyectos/Retos/Problemas se convierte en el medio clave para hacer realidad la misma. Estamos hablando de plantear en aula, o fuera de ella, retos reales y atractivos para los alumnos. Retos que resulten motivadores. De esta forma contaremos con la participación activa del alumnado. Y es así porque a grandes rasgos, despierta el interés del alumnado, lleva a
 
-
 cabo un aprendizaje significativo, permite integrar conocimientos y además favorece el desarrollo de habilidades. A partir de ahí, se trata de proporcionarles las herramientas necesarias para poder superar esos retos, y es ahí, sobre todo, cuando hablamos de emprendimiento, cuando cobran protagonismo: Design Thinking, Lean Startup , Customer Journey Map, Business Model Canvas, etc.
 
 De esta forma vamos a entender que supone exactamente emprender en educación . La nueva manera de aprender no es recibiendo educación, sino interactuando . Lo más importante es tener capacidad emprendedora , y no para montar una empresa, que también, sino para dirigir tu propia vida. Se trata de tener sueños y hacer todo lo que está en tus manos para hacerlos realidad. Así se produce el cambio.
@@ -201,7 +196,6 @@ Nuestro sistema educativo, como he citado anteriormente, no es ajeno al protagon
 ## De forma más concreta, tenemos:
 
 1. Competencia en comunicación lingüística.
-
 
 2. Competencia matemática y competencias básicas en ciencia y tecnología.
 3. Competencia digital. Implica el uso seguro y crítico de las TIC para obtener, analizar, producir e intercambiar información.
@@ -218,8 +212,6 @@ Pero con independencia de lo legislado por cada comunidad, el punto clave es có
 
 se trata es de desarrollar la creatividad, la comunicación, el liderazgo o el trabajo en equipo, abordar un Plan de Empresa no ayuda nada. Lo único que consigue es la desmotivación general del alumnado por su lejanía a la realidad empresarial.
 
-
-
 El resultado es desmotivación total . El resultado es que el alumnado está desmotivado, y por ende, el profesorado también se desmotiva por la dificultad para abordar la situación. Al alumnado no le interesa el ámbito empresarial a edades tempranas, e incluso en edades superiores. Y sin embargo, estamos hablando que es necesario ser emprendedor, en el sentido de hacer realidad tus sueños. Entonces, ¿qué hacemos?
 
 Lo que nosotros planteamos es establecer un curso de educación emprendedora donde el eje de trabajo sea Lean Startup . Es decir, aprovechando la flexibilidad del currículo, organizar los contenidos siguiendo Lean Startup, y abordarlos en aula mediante metodologías activas , donde la clave será establecer proyectos, retos o problemas que los alumnos deben superar. Nuestra experiencia demuestra que el éxito está garantizado. ¿Sabes cómo lo hacemos? En los próximos módulos te comentamos cómo lo trabajamos.
@@ -232,8 +224,6 @@ Debemos tener claro que lo que queremos trabajar con el alumnado cuando hablamos
 - o Ser consciente de que el cambio forma parte de nuestras vidas , y en este sentido, no tener miedo al cambio, sino más bien lo contrario, sentirse bien y disfrutar cuando estás en ese proceso.
 - o Desarrollar la persona en todos sus componentes . Este siempre ha sido uno de los grandes retos del sistema educativo, pero no se trabaja. No se desarrolla de forma plena la personalidad del alumno si nos dejamos un elemento tan importante como la creatividad.
 - o Crecimiento personal . Una persona creativa tiene más recursos, y por lo tanto, más posibilidades de crecimiento y de autorealización personal.
-
-
 
 - Comunicación. La comunicación es un proceso que un alumno que sale del sistema educativo tiene que tener perfectamente desarrollado. Una limitación en este contexto implica una importante limitación en su vida futura, tanto personal como profesional. Por ello, entendemos que:
 - o Han de trabajarse las diferentes formas de comunicación , tanto verbal como no verbal, oral y escrita, individual y en grupo.
@@ -249,8 +239,6 @@ Debemos tener claro que lo que queremos trabajar con el alumnado cuando hablamos
 
 A continuación se ofrece una infografía explicativa de esa ' caja de herramientas ':
 
-
-
 Una vez que tenemos planteado el problema sobre cómo desarrollar el espíritu emprendedor entre el alumnado, y traducido a reto , trabajar y cultivar esas herramientas básicas para enfrentarte a la vida , nos corresponde abordar cómo hacerlo . Ahí, Lean Startup es la clave.
 
 ## 3. AJUSTE METODOLOGÍA-ALUMNO
@@ -262,16 +250,20 @@ Hemos comprobado que si trabajamos la educación emprendedora con Lean Startup d
 Ahora bien, para poder realizarlo, tenemos que tener presentes una serie de condicionantes que afectan al proceso educativo, y que, obviamente, Lean Startup tiene que respetar:
 
 1. La secuencia básica del proceso educativo : partir de lo general, análisis del contenido, y sacar conclusiones de lo aprendido. Del análisis de este condicionante, podemos establecer 3 fases en la aplicación de Lean Startup en Educación:
+
 - a. Partir de lo general : en este apartado se abordará la figura del emprendedor, y lo que es más importante, conocerse como emprendedor, con sus fortalezas y debilidades. A la vez, se determinará el ámbito de trabajo: el problema a resolver. Y aplicaremos Design Thinking para entenderlo, fijar el reto, y proponer soluciones innovadoras.
 - b. Análisis : en esta segunda parte se abordaría Lean Startup en su versión didáctica. A partir de una idea de negocio previamente validada, se procedería a su contextualización para poder prototiparla. Posteriormente se llevaría a cabo una validación del prototipo mediante experimentos con el fin de aprender.
 - c. Síntesis : realizadas una serie de iteraciones en función del tiempo disponible, y con lo aprendido, el alumno debe ser capaz de hacer un speech sobre su modelo de negocio con el fin de defenderlo y presentarlo a un determinado acto (concurso, ronda de financiación, etc).
+
 2. El currículo básico : a pesar de la crítica efectuada al currículo actual, es norma preceptiva y por lo tanto de obligado cumplimiento. El profesorado de emprendimiento debe reflexionar sobre cómo abordar el mismo, y a la vez dar respuesta a las exigencias que nos hemos planteado. Una propuesta de solución sería la siguiente:
+
 - a. El eje de un currículo de emprendimiento sigue siendo un Plan de Empresa . En este sentido, se puede abordar de forma teórica al plantear al alumno el proceso de Customer Development. En algunos currículos será suficiente. Si el docente considera necesario abordarlo, puede optar por el denominado Plan de Negocios Ágil, y abordarlo una vez validado el modelo de negocio.
 - b. Entendido un Plan de Negocios como hemos citado en el punto anterior, es preciso un proceso de aprendizaje rápido, ágil , constituido por Lean Startup
 
 para definir y validar el modelo de negocio previo a la elaboración de un Plan de Empresa.
 
 3. Cambio de la metodología educativa . Es obligado y urgente un cambio radical y una actualización de la metodología docente. En este sentido, nuestra experiencia se basa en una metodología que alterna diferentes métodos de enseñanza-aprendizaje, pero que ante todo se basa en metodologías activas, es decir:
+
 - a. Aprendizaje Basado en Proyectos . El eje de la metodología aplicada en el aula se basa en el ABP o PBL. Y es así, porque a grandes rasgos despierta el interés del alumnado, lleva a cabo un aprendizaje significativo, permite integrar conocimientos y además favorece el desarrollo de habilidades. Puedes acceder a mi portfolio sobre ABP para profundizar en esta cuestión.
 - b. Learning by doing . Se trata de aprender haciendo cosas, o el denominado aprendizaje natural . En palabras de Schank, nadie aprende a patinar o a montar en bicicleta leyendo un libro sino efectuando dichas acciones y, por supuesto, cayéndose. El fallo o el error es una clave del aprendizaje natural para Schank.
 - c. Design Thinking . Se trata de usar la sensibilidad y métodos de los diseñadores para hacer coincidir las necesidades de las personas con lo que es tecnológicamente factible y con lo que una estrategia viable de negocios puede convertir en valor para el cliente y en una oportunidad para el mercado. Es clave: trabajar duro , nada es gratis, y por supuesto, trabajar en equipo , donde el pensamiento lateral se configura como una herramienta clave.
@@ -280,8 +272,6 @@ para definir y validar el modelo de negocio previo a la elaboración de un Plan 
 - f. Flipped Classroom . Muy relacionado con el ABP está la clase inversa, y esto lo hacemos en algunas fases del curso. Literalmente, es poner la clase 'al revés '. Esto implica que el alumnado trabaja y hace lo que, habitualmente, entendemos por 'tareas' o 'deberes' en la clase: Las explicaciones del docente las verá o escuchará en casa , bien a través de vídeos o podcasts; los trabajos en el aula son principalmente grupales ( colaborativos )
 
 A continuación muestro una infografía sobre cómo quedaría el ajuste metodología-alumno :
-
-
 
 El correlato lógico de nuestro planteamiento consiste en conocer qué pasos vamos a dar, para, bajo la metodología explicada, aplicar la educación emprendedora en el aula. Y para ello establecemos 6 pasos, retos, proyectos o problemas : Emprender, Idear, Contextualizar, Prototipar, Validar y Comunicar.
 
@@ -374,7 +364,9 @@ A continuación se muestra una infografía donde se visualiza el trabajo a reali
 
 1. EL EMPRENDEDOR· TEORIA
 2. -Concepto
+
 - Casos de exito
+
 4. -Cualidades
 
 7 SECRETOS
@@ -414,7 +406,9 @@ El primer reto de todo alumno emprendedor
 - -Tipos de emprendedor
 - Emprendedor social
 - -Competencias directivas
+
 2. SELFIE EMPRENDEDOR PRACTICA
+
 - -Emprendedor
 - -Aspectos +y-
 - -Empresa
@@ -448,8 +442,6 @@ Formados los grupos o startups, y puestos a prueba comenzamos con el proceso emp
 6. Exposición y feedback . Hacemos una prueba previa en el aula con el fin de aprender un aspecto clave: aprender del error . En este sentido se expone o se representa la idea sobre la base de una historia, y con el uso del prototipo. A continuación se realiza un debate, donde el resto de la clase actúa como posible cliente. Con el feedback recibido, reconstruimos la historia y el prototipo, y estamos en condiciones de salir fuera del aula a validar la idea.
 7. Entrevista para empatizar . El paso siguiente es la preparación de una entrevista para empatizar con el cliente. La idea básica consiste en validar una hipótesis: ¿existe realmente el problema? Tras preparar la entrevista, la ponemos a prueba, y tras refinarla, salimos del aula. Estamos ante una entrevista breve, pero que nos permitirá
 
-
-
 validar si realmente existe el problema, y además, empezaremos a conocer a nuestro cliente, ambos aspectos clave.
 
 8. Validación inicial de la idea . Tras validar la idea, retocamos la historia y prototipo y estamos en condiciones de dar el siguiente paso. Si realmente no existe el problema, aunque nosotros pensáramos que era así, pasaremos a repetir el proceso de validación con la segunda idea del ranking de ideas de negocio establecido en el punto 4.
@@ -466,17 +458,20 @@ Una vez que hemos validado la idea de negocio, es clave tener la máxima informa
 Ambas actuaciones las realizaremos en base al entorno de la idea de negocio, y lo haremos desde lo más lejano hasta lo más cercano. Así, analizaremos con detalle, desde el entorno general, al entorno específico, es decir, cliente potencial y competencia. Y para ello, manejamos tres herramientas:
 
 1. Análisis DAFO
+
 - a. El análisis DAFO nos obliga a conseguir y valorar mucha información sobre nuestro entorno. Relacionado con el mismo, también valoramos los puntos fuertes y débiles de nuestra startup.
 - b. Ambos análisis nos permiten conocer la situación actual de nuestra startup con respecto a la idea elegida y el entorno en el que nos vamos a mover.
 - c. Este análisis es fundamental en educación, sobre todo al contar con un currículo un tanto obsoleto , a pesar de su reciente promulgación. Así, se propone usar la matriz DAFO para abordar conceptos que en otro momento del curso no tendrían sentido.
+
 2. Mapa de empatía
+
 - a. Una clave a la hora de analizar a nuestro cliente es hacerlo bajo su propio punto de vista. La empatía es clave para saber lo que siente, lo que piensa, quién le afecta y con quién se relaciona.
 - b. En este sentido, el mapa de empatía se convierte en una fantástica herramienta que deja la típica y fría descripción del cliente, y nos acerca a su entorno y todo lo que le influye.
 - c. Trabajar el mapa de empatía nos permitirá entender al cliente, su problema y su grado de complejidad. Una actividad previa que da muy buenos frutos es ' un día en la vida del cliente ', donde acompañamos durante una jornada a nuestro cliente y observamos todo lo que hace, y no sólo lo que nos dice.
+
 3. Estrategia de Océanos azules
+
 - a. El análisis de la competencia lo hacemos bajo la óptica de la estrategia de Océanos Azules. Se trata de dejar atrás la típica decisión del alumnado de realizar un mejor producto/servicio a un menor coste como estrategia típica.
-
-
 
 - b. En este sentido, la estrategia de océanos azules constituye una herramienta creativa muy importante a través del análisis y reflexión de diferentes vías de exploración , que hagan que podamos describir una propuesta de valor excepcional, basada en foco, divergencia y mensaje contundente .
 
@@ -487,21 +482,24 @@ A continuación puedes ver una infografía que sintetiza el proceso descrito:
 Tras la fase anterior, pasamos a un nuevo reto, en el que damos forma a nuestro modelo de negocio. Pero para ello, seguimos una secuencia lógica que ayuda mucho al alumnado a la hora del prototipado:
 
 1. Lienzo de la propuesta de valor
+
 - a. Derivado de la fase anterior, tenemos dos de los elementos clave de un modelo de negocio que han de encajar perfectamente: problema/necesidad del cliente y nuestra solución, nuestra propuesta de valor.
 - b. En este sentido, el lienzo de la propuesta de valor nos ayuda a entender el encaje problema-solución .
 - c. Una vez que las dos piezas clave del modelo de negocios encajan, pasamos a analizar el resto de bloques.
+
 2. Lienzo del modelo de negocios
+
 - a. De forma sencilla se abordan los distintos bloques que componen el lienzo del modelo de negocios. La virtud del mismo es su carácter visual . Igualmente, en tanto funciona a modo de puzzle, prácticamente cualquier alumno, es capaz de describir de forma sencilla su modelo de negocios gracias a esta herramienta.
 - b. La cumplimentación del mismo se hace a modo de decisiones de grupo , y siempre asumiendo que, al igual que el mapa de empatía, está compuesto por hipótesis ; hipótesis de habrá que contrastar en el mercado.
 - c. Se aborda en primer lugar la parte derecha del lienzo: tras el encaje propuesta de valor-segmento de clientes, pasamos a ver canales de distribución, relaciones con clientes y fuentes de ingresos. Posteriormente se aborda la parte izquierda del lienzo, con actividades, recursos, socios clave y estructura de costes.
+
 3. Producto mínimo viable
+
 - a. A partir del lienzo del modelo de negocios, pasamos a la construcción de un prototipo, el denominado Producto Mínimo Viable .
 - b. En primer lugar confeccionaremos un prototipo de baja fidelidad . Mediante sencillas herramientas tratamos de mostrar nuestra solución, con el fin de validar el encaje problema-solución. Dentro de la variedad de herramientas , contamos con:
 - i. Papel y cartón
 - ii. Impresión en 3D
 - iii. Lego
-
-
 
 - iv. Power Point
 - v. Customer Jorney Map
@@ -526,13 +524,11 @@ Para ello, seguimos un orden determinado, a saber:
 5. Validar canales de distribución . Lo realizamos, en general, mediante entrevista. En este punto, a veces, también podemos valorar a socios clave.
 6. Validar fuentes de ingreso . Para validar el precio de venta, se puede hacer un test A/B, donde podamos analizar la reacción del cliente en función del precio, y así poder decidir el mejor precio.
 7. Encaje producto-mercado . Llegamos a este momento cuando conseguimos:
+
 - a. Que el cliente tenga un verdadero problema,
 - b. Que seamos capaces de llegar al cliente, y vender,
 - c. Tener margen suficiente,
 - d. Tener un tamaño de mercado lo suficientemente grande para el margen citado.
-
-
-
 
 A continuación os mostramos en una infografía el proceso de validación descrito:
 
@@ -552,16 +548,11 @@ siguientes puntos:
 8. Competencia . Señalaremos los puntos clave que nos diferencian de nuestra competencia, en los términos que establecimos en la estrategia de Océanos Azules.
 9. Roadmap . Todo lo anterior habla sobre lo realizado. Finalizando, abordaremos qué pretendemos en el futuro y lo ilustraremos con datos gráficos que muestren todo: pasado, actualidad y futuro, incluyendo datos financieros.
 
-
-
 10. Despedida . Por último debemos esforzarnos que destacar porqué somos importantes, clave en el sector en el que vamos a competir y qué nos diferencia del resto.
 
 Por último, y como hemos hecho en epígrafes anteriores, veamos este esquema mediante una infografía :
 
 ## AM YOUR BOSS
-
-
-
 
 # MODULO 1. EMPRENDER
 
@@ -571,26 +562,24 @@ Por último, y como hemos hecho en epígrafes anteriores, veamos este esquema me
 2. El emprendedor: concepto y cualidades
 3. 2.1. La fórmula del éxito
 4. 2.2. Los 7 tipos de emprendedor
-3. El emprendedor social
+5. El emprendedor social
 6. 3.1. Concepto y notas básicas: innovador y comprometido
 7. 3.2. Ejemplos
 8. 3.3. Pasos clave para ser un emprendedor social
-4. 7 secretos para ser un emprendedor de éxito
-5. Evaluación del emprendedor
-6. De interés: la taxonomía de Bloom
-7. Aplicaciones de escritorio
+9. 7 secretos para ser un emprendedor de éxito
+10. Evaluación del emprendedor
+11. De interés: la taxonomía de Bloom
+12. Aplicaciones de escritorio
 13. 7.1. Autoveluación como emprendedor: Confebask
 14. 7.2. Autoveluación como emprendedor: DGPYME
 15. 7.3. Tablero online: Padlet
 16. 7.4. Mapa conceptual: Mindomo
 17. 7.5. Presentaciones: Emaze y Haiku Deck
 18. 7.6. Nube de palabras: Tagxedo
-8. Apps móviles
+19. Apps móviles
 20. 8.1. Fotografía: camera 360, Snapseed y Photo Editor Pro
 21. 8.2. Creación de collages: Photo Grid
 22. 8.3. Sonido: SoundCloud
-
-
 
 ## 1. INTRODUCCIÓN
 
@@ -608,8 +597,6 @@ Una vez conocidos tales rasgos, abordaremos el caso especial del emprendedor soc
 
 Tras estas cuestiones procederemos a evaluarnos, y saber realmente cómo somos
 
-
-
 desde el punto de vista emprendedor. Este análisis es básico, no sólo para conocernos, sino también para tener base suficiente para la formación de grupos o equipos de trabajo.
 
 Comenzamos esta primera unidad con un vídeo muy motivador sobre lo que es emprender, soñar y sobre todo, tener confianza en uno mismo (fuente: inknowation).
@@ -617,7 +604,6 @@ Comenzamos esta primera unidad con un vídeo muy motivador sobre lo que es empre
 ## 2. EL EMPRENDEDOR: CONCEPTO Y CUALIDADES
 
 Pasamos a definir qué entendemos por una persona emprendedora. Y qué mejor forma de hacerlo que a través de una infografía :
-
 
 ## 2.1. LA FÓRMULA DEL ÉXITO
 
@@ -634,8 +620,6 @@ Pero no podemos olvidar dos notas básicas de todo emprendedor. Gracias a la apo
 Así, el Mago More , en una ponencia de lujo, tanto por creatividad como por ideas aportadas, nos da pautas concretas de emprendedores de éxito, que estoy seguro nos van a ayudar a generar la actitud necesaria para cambiar nuestra mentalidad, y ver más viable cada día el convertirse en emprendedor/a (fuente: SPRI).
 
 En definitiva, podemos hablar de que: pasión + ilusión + talento = éxito. Este es el camino del éxito . Más breve, en la misma línea, pero muy cercano a nuestros alumnos, tenemos este maravilloso vídeo (fuente: LuzuVlogs). ¿Tenemos perfectamente claro lo que es un emprendedor, al menos a nivel teórico? ¿Sí? Entonces pasamos a la práctica.
-
-
 
 ## 2.2. LOS 7 TIPOS DE EMPRENDEDOR
 
@@ -664,8 +648,6 @@ Las notas básicas de un emprendendedor social son:
 - Un emprendimiento social tiene que ser rentable para poder existir, porque no puede vivir de subvenciones.
 - Un emprendimiento tradicional tiene una cuenta de resultados. Uno social tiene dos: económica y social.
 
-
-
 - La finalidad del emprendedor no es generar tanto dinero como generar un bien social: personas, ecología.
 - Un emprendedor tradicional detecta nichos de negocio. Uno social detecta nichos de necesidades sociales . Eso no significa no buscar beneficios, de hecho tiene que buscarlos y lo tiene más difícil que un emprendedor tradicional. Eso sí, hay que ser autosostenibles. Tradicionalmente los emprendimientos sociales han sido financiados por las Administraciones Públicas, pero deben ser
 
@@ -690,8 +672,6 @@ Si visitamos de nuevo la web de la revista "Emprendedores" tenemos 10 fantástic
 
 Fuente: http://www.emprendedores.es/casos-de- exito/premios-emprendedores-sociales-universidad-europea- 2016
 
-
-
 ## 3.3. PASOS CLAVE PARA SER UN EMPRENDEDOR SOCIAL
 
 Una empresa responsable siempre tiene ánimo de lucro. Si eres emprendedor, quieres ganar dinero, El tema es cómo .
@@ -715,8 +695,6 @@ Muchas ideas hoy en día nacen del enfoque de ayudar a alguien, pero sin perder 
 Fuente:
 
 YouTube - EmprendeMOOC
-
-
 
 ## 4. 7 SECRETOS PARA SER UN EMPRENDEDOR DE ÉXITO
 
@@ -795,9 +773,6 @@ A continuación nos ofrece información sobre las características del perfil em
 
 1. Estar motivado y tener autoconfianza, iniciativa, autonomía, capacidad para asumir riesgos y superar obstáculos, a fin de afrontar y adaptarse a las situaciones cambiantes. Tener visión a medio y largo plazo.
 
-
-
-
 2. La capacidad de trabajo, la responsabilidad (personal y social) y la planificación, la calidad y el compromiso también se consideran imprescindibles.
 3. Curiosidad, creatividad, innovación, capacidad para aprender y para enseñar son competencias vitales de este perfil.
 4. Finalmente, la inteligencia emocional, la comunicación y la orientación comercial, el liderazgo y el trabajo en equipo permiten abordar proyectos con potencial de éxito.
@@ -822,9 +797,6 @@ RECURSOS : para trabajar esta actividad será preciso el uso de aula de informá
 
 EVALUACIÓN : la actividad deberá ser incorporada al portfolio personal de cada alumno, con el fin de tener información relevante y objetiva del perfil de cada chico.
 
-
-
-
 ## ACTIVIDAD NÚMERO 4. PRESENTACIÓN
 
 DEFINICIÓN : a modo de síntesis de las actividades que hemos realizado, nos corresponde ahora presentarnos al resto del grupo. La idea es suponer un mercado de emprendedores que pueden prestar sus servicios en diferentes startups . Para ello, cada alumno debe presentarse al resto de la clase en un tiempo aproximado de un minuto, destacando sus virtudes y con el uso de toda ayuda que estimen oportuna. Estamos hablando de presentar una información relevante del alumno emprendedor pero de tipo subjetivo .
@@ -843,9 +815,6 @@ Se trata de plantear un esquema didáctico lógico para maximizar el aprendizaje
 
 La idea de establecer un sistema de clasificación de habilidades , comprendido dentro de un marco teórico, surgió en una reunión informal al finalizar la Convención de la Asociación Norteamericana de Psicología, reunida en Boston (USA) en 1.948. Se buscaba que este marco teórico pudiera usarse para facilitar la comunicación entre examinadores, promoviendo el intercambio de materiales de evaluación e ideas de cómo llevarla a cabo. Además, se pensó que estimularía la investigación respecto a diferentes tipos de exámenes o pruebas, y la relación entre éstos y la educación.
 
-
-
-
 El proceso estuvo liderado por Benjamín Bloom, Doctor en Educación de la Universidad de Chicago (USA). Se formuló una Taxonomía de Dominios del Aprendizaje, desde entonces conocida como Taxonomía de Bloom, que puede entenderse como ' Los Objetivos del Proceso de Aprendizaje '. Esto quiere decir que después de realizar un proceso de aprendizaje, el estudiante debe haber adquirido nuevas habilidades y conocimientos.
 
 Se identificaron tres Dominios de Actividades Educativas: el Cognitivo, el Afectivo y el Psicomotor. El comité trabajó en los dos primeros, el Cognitivo y el Afectivo, pero no en el Psicomotor. Posteriormente otros autores desarrollaron éste último dominio.
@@ -857,9 +826,6 @@ Fuente: http://www.theflippedclassroom.es/wp-content/uploads/2013/07/bloom.001.j
 ## ACTIVIDAD NÚMERO 5. FORMACIÓN DE EQUIPOS
 
 DEFINICIÓN : con la información recogida de las actividades anteriores, procedemos a la formación de grupos. Existen muchos criterios para la formación de grupos, todos ellos con sus ventajas e inconvenientes. Por mi experiencia, me gusta cómo funciona el siguiente: si vamos a formar grupos de 5 alumnos, confeccionamos 5 grupos e incluimos a los alumnos que tengan un perfil similar dentro de cada uno de ellos. Por ejemplo: un grupo con los mejores comunicadores, un grupo con aquellos más creativos, un grupo con aquellos a los que más les haya
-
-
-
 
 costado hacer las actividades previas, etc. Realizados los grupos, se comunica al alumnado, para que ahora, por acuerdo entre ellos, formen equipos de trabajo, con una única limitación: cada startup simulada sólo podrá tener un alumno de cada grupo. De esta forma, nos aseguramos startups de trabajo que cuenten con un alumno brillante en creatividad, otro en comunicación, etc.
 
@@ -884,8 +850,6 @@ META : el objetivo de esta dinámica es que los equipos de trabajo empiecen a ro
 ESPACIO : El trabajo se desarrolla fundamentalmente fuera del aula , sobre todo en lo referente a la ejecución de la idea. Si bien es cierto que el trabajo previo de ideación, planificación y organización del trabajo, así como el trabajo
 
 posterior de presentación de resultados, se realiza en aula .
-
-
 
 RECURSOS : para trabajar esta actividad el alumno grabará en vídeo y/o audio el trabajo desarrollado fuera del aula, y se harán fotografías. Además de servir de prueba del trabajo efectuado, con gran facilidad puede hacerse
 
@@ -923,7 +887,6 @@ Además de la anterior, hay otras herramientas que nos ayudan a conocer nuestro 
 
 'La Dirección General de Industria y de la Pequeña y Mediana Empresa del Ministerio de Industria, Energía y Turismo, ha elaborado una serie de herramientas que ayudan al
 
-
 emprendedor en su camino . La que aquí se presenta, Autodiagnóstico del Emprendedor , sería la primera del itinerario que se ve complementada con la Herramienta de Plan de Empresa, Simulación Empresarial y Autodiagnóstico para acceso a nuevos mercados.Resulta evidente que el emprendedor, antes de iniciar su andadura, debe conocer cómo es él personalmente y reflexionar sobre multitud de aspectos relacionados con su proyecto empresaria l.
 
 Por ello, se ha creado un instrumento interactivo que permite dar un diagnóstico a los emprendedores que cumplimenten un cuestionario sobre siete grupos de características personales y, a continuación, ofrecer al emprendedor una serie de recomendaciones que le ayudarán a estar preparado para iniciar su proyecto.
@@ -943,7 +906,6 @@ Padlet es una gran aplicación que trabaja a modo de tablero o pizarra online.
 Trabajar con Padlet es muy sencillo: sobre un tablero en blanco y mediante un clic, podremos escribir o bien subir documentos de diferentes tipos, y hasta enlazar a páginas web.
 
 Un tablero online nos puede ser muy útil en el aula, y sobre todo en nuestra materia. A lo largo del curso iremos viendo diferentes usos de esta
-
 
 ## 7.4. MAPA CONCEPTUAL: MINDOMO
 
@@ -993,8 +955,6 @@ En materia de fotografía os sugiero tres apps, y os facilito la información qu
 - o Esta aplicación dota tu dispositivo móvil de la potencia y del control de un software de edición fotográfica profesional, antes solo disponible para ordenadores. Con un solo toque, ahora puedes retocar fotografías, ajustar su perspectiva, volver a editarlas, etc.
 - o Es un excelente complemento a Camera 360.
 
-
-
 ## Photo Editor Pro
 
 - o Es un potente editor con muchos efectos increíbles.
@@ -1025,8 +985,6 @@ En materia de sonido puede resultar muy interesante dejar evidencia del trabajo 
 -  Geoetiquetar las grabaciones con información sobre la ubicación
 -  Escuchar listas de reproducción o crear las tuyas propias y compartir
 
-
-
 ## ACTIVIDAD NÚMERO 8. MARCA PERSONAL
 
 DEFINICIÓN : Para rematar el tema, es preciso hacer saber a los alumnos la importancia de que nuestra imagen virtual, en la red, sea acorde al papel que vamos a desempeñar en el proyecto. Vamos a ser alumnos emprendedores , y es preciso tener un perfil en la red que refleje el mismo. Por ello, en esta actividad analizaremos que tipo de emprendedor queremos ser, en qué contenidos especializarnos, con el fin de trabajar en esta línea a partir de ahora.
@@ -1040,8 +998,6 @@ fuera de ella, si bien destaca sobre todo el trabajo de campo y el aprendizaje q
 RECURSOS : para trabajar esta actividad, será fundamental obtener evidencias de todos los aprendizajes que se vayan realizando en diferentes formatos: imágenes, audio, vídeo, u otros. Después, todos estos recursos quedarán reflejados en las distintas redes sociales que decida y gestione el alumno.
 
 EVALUACIÓN : en esta actividad podemos comprobar en qué medida maneja las habilidades de un emprendedor, pero ahora para comunicar y difundir de forma creativa todo lo relacionado con su perfil. Es sumamente interesante analizar los logros que van realizando los alumnos en términos de seguidores en la redes sociales, calidad de los contactos, y crecimiento a nivel profesional.
-
-
 
 ## ACTIVIDAD NÚMERO 9. PORTFOLIO DIGITAL
 
@@ -1061,7 +1017,6 @@ recursos propios de la web 2.0 que hayan servido de soporte para la realización
 
 EVALUACIÓN : en esta actividad podemos comprobar en qué medida maneja las habilidades de un emprendedor, pero ahora para crear contenidos originales y con formato atractivo y original. La evaluación de esta actividad está íntimamente relacionada con la de la actividad anterior, referida a la marca personal.
 
-
 # MODULO 2. IDEAR
 
 ## ÍNDICE
@@ -1070,14 +1025,14 @@ EVALUACIÓN : en esta actividad podemos comprobar en qué medida maneja las habi
 2. Fase de diseño: ideación
 3. 2.1. La idea de negocio
 4. 2.2. Generación de ideas de negocio
-3. Proceso de selección de una idea de negocio
+5. Proceso de selección de una idea de negocio
 6. 3.1. Brainstorming
 7. 3.2. Cardsorting
 8. 3.3. Maduración
 9. 3.4. Elección
-4. Proceso de validación de una idea de negocio
-5. Aplicaciones de escritorio
-6. Apps móviles
+10. Proceso de validación de una idea de negocio
+11. Aplicaciones de escritorio
+12. Apps móviles
 
 - 4.1. La técnica de las preguntas
 
@@ -1159,9 +1114,6 @@ A modo de ejemplo, se señalan a continuación algunas cuestiones sobre las que 
 - ¿Se puede hacer más barato?
 - ¿Tiene algún defecto que se podría corregir?
 
-
-
-
 - ¿Se puede utilizar para otra cosa?
 - ¿Llega a todos los clientes posibles?
 - ¿Se puede vender de otra forma?
@@ -1189,7 +1141,6 @@ Y, ¿cómo surgen las ideas de negocio? Es decir, ¿por qué crear ESTA empresa?
 - Conocimientos.
 - Captación de nuevas necesidades.
 
-
 Hay otras clasificaciones por las cuales se pueden generar ideas que complementar y amplían las anteriores. Así, Arthur Kuriloff y John Hemphill detallan, que son fuentes de ideas de negocio las siguientes:
 
 - La invención.
@@ -1207,25 +1158,21 @@ Otra clasificación de fuentes de ideas de negocio es la que nos da Peter Drucke
 - Una necesidad de proceso.
 - Los cambios en la estructura de la industria y el mercado.
 
-
-
-
 - La demografía.
 - Los cambios en la percepción de la gente.
 - Los nuevos conocimientos.
 
 La literatura empresarial nos ofrece una tabla síntesis donde se recogen las fuentes de ideas de negocio :
 
-| Pensar | Contactos | Visitas | Lectura | Tendencias |
-|---------------------------|-------------------------|---------------|----------------------|---------------------|
-| Brainstorming | Clientes potenciales | Ferias | Anuncios comerciales | Escasez de recursos |
-| Búsqueda de nuevas formas | Proveedores potenciales | Bibliotecas | Anuncios de quiebras | Escasez de energía |
-| | Empresarios | Museos | Libros | Contaminación |
-| | Empresarios exitosos | Fábricas | Periódicos | Nuevas tecnologías |
-| | Dueños de propiedades | Exposiciones | Tesis doctorales | Moda |
-| | Profesores | Universidades | Internet | Cambios legales |
-| | Cámaras de Comercios | | | |
-
+| Pensar                    | Contactos               | Visitas       | Lectura              | Tendencias          |
+| ------------------------- | ----------------------- | ------------- | -------------------- | ------------------- |
+| Brainstorming             | Clientes potenciales    | Ferias        | Anuncios comerciales | Escasez de recursos |
+| Búsqueda de nuevas formas | Proveedores potenciales | Bibliotecas   | Anuncios de quiebras | Escasez de energía  |
+|                           | Empresarios             | Museos        | Libros               | Contaminación       |
+|                           | Empresarios exitosos    | Fábricas      | Periódicos           | Nuevas tecnologías  |
+|                           | Dueños de propiedades   | Exposiciones  | Tesis doctorales     | Moda                |
+|                           | Profesores              | Universidades | Internet             | Cambios legales     |
+|                           | Cámaras de Comercios    |               |                      |                     |
 
 ## 3. PROCESO DE SELECCIÓN DE UNA IDEA DE NEGOCIO
 
@@ -1251,8 +1198,6 @@ En ambos casos se utilizan post-it para poder escribir la idea y posteriormente 
 Es fundamental seguir y hacer cumplir las reglas del brainstorming porque están hechas para aumentar la capacidad creativa.
 
 Fuente: Institute of Design at Stanford
-
-
 
 ## ACTIVIDAD NÚMERO 10. BRAINSTORMING
 
@@ -1295,8 +1240,6 @@ Podemos establecer diferentes técnicas para realizar la clasificación de las i
 
 Fuente: Institute of Design at Stanford
 
-
-
 ## ACTIVIDAD NÚMERO 11. CARDSORTING
 
 DEFINICIÓN : Tal y como acabamos de señalar, se trata de seleccionar las ideas más atractivas para su posterior análisis. Realmente es un filtrado de ideas, toda vez que el la dinámica anterior se han generado ideas sin ningún tipo de limitación.
@@ -1314,8 +1257,6 @@ EVALUACIÓN : en esta actividad podemos comprobar en qué medida el grupo de tra
 Una vez que hemos filtrado las ideas, ideas que provenían de la fase emocional, sin ningún límite en su generación, procederemos a estudiar cada idea. Nos estamos refiriendo a tener información sobre la misma con el fin de poder elegir la mejor y descartar aquellas ideas que sean menos interesantes.
 
 Para ello se establecen, al menos, los siguientes aspectos a conocer de cada idea:
-
-
 
 - Descripción detallada de la actividad , teniendo en cuenta la información que se tiene al comienzo del proyecto. Esta descripción variará en mayor o menor medida según avance el estudio del proyecto.
 - Problemas que resuelve la idea tal y como está planteada, ya sea en la zona, ya sea a nivel empresarial.
@@ -1340,8 +1281,6 @@ META : El objetivo de esta actividad es iniciar un proceso de investigación que
 ESPACIO : Esta actividad se desarrolla tanto en el aula como fuera de ella. En general, el proceso de búsqueda de información en la red puede iniciarse en el aula con el fin de guiar al alumnado. Posteriormente puede completarse en casa.
 
 Por otra parte, la obtención de evidencias a través de la observación necesariamente debe
-
-
 
 hacerse en la calle . Será necesario planificar las distintas actividades con el fin de ser lo más eficientes posible.
 
@@ -1409,10 +1348,6 @@ Nos corresponde ahora buscar nuevos retos asociados a los hechos del problema qu
 
 Esta técnica permite analizar las evidencias mediante preguntas que investiguen posibles mejoras unidas a la persona, el contexto, el tiempo o las causas del problema que nos lleven a un nuevo reto. Las 6W´S pone en el centro del estudio a la persona y a partir de ella (el usuario/héroe de nuestra historia), nos preguntamos por esos 6 interrogantes.
 
-
-
-
-
 1. ¿Qué?
 
 - : Tema
@@ -1428,9 +1363,6 @@ Esta técnica permite analizar las evidencias mediante preguntas que investiguen
 6. ¿Cómo? : Método
 
 A continuación, debemos haceros preguntas sobre la idea/problema elegida/o usando la técnica de las 6W´S de modo que podamos profundizar un poco más en el problema y definir un nuevo reto a raíz de las preguntas formuladas.
-
-
-
 
 ## 4.2. CREAR HISTORIAS: EL STORYTELLING
 
@@ -1450,7 +1382,6 @@ Es necesario tener en cuenta una serie de aspectos antes de crear tu historia, q
 -  Problema , donde se aborda el problema que sirve de base para la historia, la verdadera cuestión a resolver,
 -  Solución : tras el problema, se presentan los argumentos para justificar nuestra solución
 
-
 - o Desenlace : donde se muestra qué ocurre tras resolver el problema.
 
 Un ejemplo muy gráfico: LEGO. http://www.soyunamarca.com/2012/08/la-historia-de-legoy-el-poder-del-storytelling/
@@ -1468,8 +1399,6 @@ ESPACIO : Esta actividad se desarrolla en el aula , donde los alumnos crearán u
 RECURSOS : para trabajar esta actividad, utilizamos el aula polivalente con nuestros lienzos y post-its . Ahora bien, al trazar la historia, tenemos que pasar de la saturación de post-its a la ordenación de los mismos, siguiendo el esquema temporal descrito anteriormente para contar una historia.
 
 EVALUACIÓN : en esta actividad vamos a comprobar cómo transmiten nuestros alumnos, y sobre todo, el convencimiento en sus ideas y la creatividad en su presentación.
-
-
 
 ## 4.3. PROTOTIPA HISTORIAS
 
@@ -1497,8 +1426,6 @@ En el siguiente enlace se puede acceder a un menú de mi blog, donde hay enlaces
 
 EVALUACIÓN : en esta actividad vamos a comprobar cómo se inicia el proceso de investigación de nuestra idea , y cómo vamos sentando sus bases. A la vez, le daremos formas con un prototipo sencillo, pero que puede tener una gran acabado como producción final del alumnado.
 
-
-
 ## ACTIVIDAD NÚMERO 16. FEEDBACK Y RETOQUE I
 
 DEFINICIÓN : Antes de salir a la calle con nuestro prototipo e historia, vamos a presentarlo en clase.
@@ -1520,9 +1447,6 @@ ESPACIO : Esta actividad se desarrolla en el aula , donde los alumnos exponen y 
 RECURSOS : para trabajar esta actividad, utilizamos el aula polivalente . Se expondrán los proyectos, y posteriormente se debatirá sobre cada uno de ellos. Es importante grabar tanto la exposición como el debate, porque ambos aportan mucha información para mejorar.
 
 EVALUACIÓN : en esta actividad vamos a comprobar no sólo cómo transmiten nuestros alumnos, sino también su capacidad para argumentar, debatir, y sobre todo aprender cuando se fracasa .
-
-
-
 
 ## 4.4. PREPARA UNA ENTREVISTA
 
@@ -1562,8 +1486,6 @@ misma. Cuando salgamos del aula, ya estaremos habituados a manejar el smartphone
 
 EVALUACIÓN : en esta actividad vamos a comprobar cómo van encajando las piezas: cómo los alumnos asumen errores , cómo aprenden del error , y cómo vamos moldeando su perfil para ser un verdadero emprendedor.
 
-
-
 ## 4.5. VALIDACIÓN INICIAL
 
 Una vez realizada la entrevista , volvemos a nuestra historia para retocarla como proceda: en unos casos el cliente potencial nos hará aportado nueva información a valorar. Otras veces, nos invita a eliminar aspectos que hemos podido considerar idóneos, pero que su juicio no proceden.
@@ -1579,8 +1501,6 @@ DEFINICIÓN : Después de realizar las entrevistas procede incorporar la informa
 Hay que tener en cuenta que podemos hacer conseguido mucha información. Vamos a anotar aquellos aspectos más relevantes y a partir de ahí, retocaremos
 
 nuestra historia y prototipo. En función de esa misma información, decidiremos si realmente la idea merece la pena y por lo tanto, abordamos el proyecto, o por el contrario la descartamos por no suponer un problema real y serio para nuestro potencial cliente.
-
-
 
 META : El objetivo de esta actividad es decidir si la idea que estamos investigando tiene envergadura suficiente para ser la base de nuestro proyecto.
 
@@ -1603,8 +1523,6 @@ Los pósters pueden ser públicos o
 privados, admiten comentarios y disponemos de plantillas, fondos y grids para elaborarlos.
 
 Murally tiene muchas aplicaciones educativas, si bien, a nosotros nos interesa para poder hacer un prototipo web de nuestra historia.
-
-
 
 ## 5.2. LÍNEAS DEL TIEMPO: DIPITY
 
@@ -1674,17 +1592,15 @@ Perfectamente definida, constituye un recurso totalmente imprescindible en el au
 3. 2.1. Análisis externo
 4. 2.2. Análisis interno
 5. 2.3. Matriz DAFO
-3. El cliente potencial
+6. El cliente potencial
 7. 3.1. El mapa de empatía: concepto
 8. 3.2. El mapa de empatía: contenido
-4. La competencia
+9. La competencia
 10. 4.1. Estrategia de Océanos Azules
 11. 4.2. Procedimiento para trazar la estrategia de Océanos Azules
-5. Aplicaciones de escritorio
+12. Aplicaciones de escritorio
 13. 5.1. Matriz DAFO: Inghenia
-6. Apps móviles
-
-
+14. Apps móviles
 
 ## 1. INTRODUCCIÓN
 
@@ -1708,9 +1624,6 @@ La situación interna se compone de dos factores controlables: fortalezas y debi
 mientras que la situación externa se compone de dos factores no controlables: oportunidades y amenazas.
 
 Es la herramienta estratégica por excelencia más utilizada para conocer la situación real en que se encuentra la organización.
-
-
-
 
 Durante la etapa de planificación estratégica y a partir del análisis DAFO se debe poder contestar cada una de las siguientes preguntas:
 
@@ -1808,8 +1721,6 @@ Algunas de las preguntas que se pueden realizar y que contribuyen en el desarrol
 - ¿Se tienen problemas de recursos de capital?
 - ¿Puede algunas de las amenazas impedir totalmente la actividad de la empresa?
 
-
-
 ## 2.2. ANÁLISIS INTERNO
 
 Los elementos internos que se deben analizar durante el análisis DAFO corresponden a las fortalezas y debilidades que se tienen respecto a la disponibilidad de recursos de capital, personal, activos, calidad de producto, estructura interna y de mercado, percepción de los consumidores, entre otros.
@@ -1845,18 +1756,17 @@ Díaz Mortera nos dice en su frase "Un imperio no cae por fuerzas externas sino 
 
 ## 2.3. MATRIZ DAFO
 
-| ANÁLISIS DAFO | FORTALEZAS | DEBILIDADES |
-|------------------|-------------------------------------------------------------------------------------|----------------------------------------------------------------|
-| ANÁLISIS INTERNO | Capacidades distintas Ventajas naturales Recursos superiores | Resistencia al cambio Problemas de motivación del personal |
-| ANÁLISIS DAFO | OPORTUNIDADES | AMENAZAS |
-| ANÁLISIS EXTERNO | Nuevas tecnologías Debilitamiento de competidores Posicionamiento estratégico | Alto riego: cambios en el entorno |
+| ANÁLISIS DAFO    | FORTALEZAS                                                                    | DEBILIDADES                                                |
+| ---------------- | ----------------------------------------------------------------------------- | ---------------------------------------------------------- |
+| ANÁLISIS INTERNO | Capacidades distintas Ventajas naturales Recursos superiores                  | Resistencia al cambio Problemas de motivación del personal |
+| ANÁLISIS DAFO    | OPORTUNIDADES                                                                 | AMENAZAS                                                   |
+| ANÁLISIS EXTERNO | Nuevas tecnologías Debilitamiento de competidores Posicionamiento estratégico | Alto riego: cambios en el entorno                          |
 
 De la combinación de fortalezas con oportunidades surgen las potencialidades, las cuales señalan las líneas de acción más prometedoras para la organización.
 
 Las limitaciones, determinadas por una combinación de debilidades y amenazas, colocan una seria advertencia.
 
 Mientras que los riesgos (combinación de fortalezas y amenazas) y los desafíos (combinación de debilidades y oportunidades), determinados por su correspondiente combinación de factores, exigirán una cuidadosa consideración a la hora de marcar el rumbo que la organización deberá asumir hacia el futuro deseable.
-
 
 ## ACTIVIDAD NÚMERO 19. MATRIZ DAFO
 
@@ -1899,8 +1809,6 @@ Es preciso notar que pensamientos/creencias y sentimientos/emociones no se puede
 
 - IDENTIFICA NECESIDADES : 'Necesidades' son requerimientos humanos, físicos o emocionales; y cosas que el usuario quiere lograr. Las necesidades ayudan a definir los
 
-
-
 desafíos de diseño. Recuerda que las necesidades son verbos (actividades o deseos en que el usuario pueda necesitar ayuda), no son sustantivos soluciones). Identifica las necesidades directamente de los rasgos notados en el usuario o de contradicciones entre dos temas distintos. Como por ejemplo lo que dice y lo que hace el usuario. Escribe o anota las necesidades a un lado del mapa de empatía.
 
 - IDENTIFICA INSIGHTS : Un 'Insight' es descubrir algo inesperado o tener una idea para responder de mejor manera un desafío de diseño. Los insight generalmente nacen de dos contradicciones entre atributos del usuario (dentro de un cuadrante o entre cuadrantes distintos) o al preguntarse 'por qué" cuando notas un comportamiento particular. Escribe o anota potenciales insights a un lado del mapa de empatía. Una manera de despertar la creatividad es capturando 'tensiones' y 'contradicciones' durante el trabajo.
@@ -1919,40 +1827,36 @@ Realizamos un brainstorming para descubrir todos los posibles segmentos de clien
 
 A continuación se eligen tres candidatos y comenzamos un ejercicio de definición del perfil : le damos un nombre, ciertas características demográficas, un estado civil, nivel de ingresos, edad, etc.
 
-
-
 Después construimos su perfil contestando a las siguientes seis preguntas :
 
 1. ¿Qué ve ? Describe que es lo que el cliente ve en su entorno, en el contexto del producto o servicio que estamos:
 1. ¿Con qué productos intenta resolver el problema?
-2. ¿Qué aspecto tiene?
-3. ¿Dónde se vende?
-4. ¿Quiénes de sus amigos/entorno lo usan/a?
-5. ¿A qué tipo de ofertas está expuesto diariamente?
-6. ¿Qué problemas se encuentra en ellas?
-2. ¿ Qué oye ? Describe como el entorno influye en el cliente:
+1. ¿Qué aspecto tiene?
+1. ¿Dónde se vende?
+1. ¿Quiénes de sus amigos/entorno lo usan/a?
+1. ¿A qué tipo de ofertas está expuesto diariamente?
+1. ¿Qué problemas se encuentra en ellas?
+1. ¿ Qué oye ? Describe como el entorno influye en el cliente:
 1. ¿Qué le dicen sus amigos?
-2. ¿A quién escucha o considera una autoridad en la materia?
-3. ¿Qué se supone que dicen sus amigos?
-4. ¿Quien le influencia realmente y de qué forma?
-5. ¿Qué medios de comunicación le influyen?
+1. ¿A quién escucha o considera una autoridad en la materia?
+1. ¿Qué se supone que dicen sus amigos?
+1. ¿Quien le influencia realmente y de qué forma?
+1. ¿Qué medios de comunicación le influyen?
 
-
-
-3. ¿Qué es lo que realmente piensa y siente ? Intenta representar qué es lo que ocurre en la mente del cliente:
+1. ¿Qué es lo que realmente piensa y siente ? Intenta representar qué es lo que ocurre en la mente del cliente:
 1. ¿Qué es realmente importante para él?
-2. Imagina sus emociones, ¿qué es lo que le mueve?
-3. ¿Qué le puede quitar el sueño? Intenta describir sus sueños y aspiraciones
-4. ¿ Qué es lo que hace y dice ? Imagina qué es lo que puede decir el cliente, o cómo se comporta en público:
+1. Imagina sus emociones, ¿qué es lo que le mueve?
+1. ¿Qué le puede quitar el sueño? Intenta describir sus sueños y aspiraciones
+1. ¿ Qué es lo que hace y dice ? Imagina qué es lo que puede decir el cliente, o cómo se comporta en público:
 1. ¿Cuál es su actitud?
-2. ¿Qué es lo que puede estar diciendo a los demás?
-5. ¿Qué le duele al cliente ?
+1. ¿Qué es lo que puede estar diciendo a los demás?
+1. ¿Qué le duele al cliente ?
 1. ¿Cuáles son sus mayores frustraciones?
-2. ¿Qué obstáculos existen entre él y aquello que quiere conseguir?
-3. ¿Qué riesgos tiene miedo de correr?
-6. ¿ Qué gana el cliente ?
+1. ¿Qué obstáculos existen entre él y aquello que quiere conseguir?
+1. ¿Qué riesgos tiene miedo de correr?
+1. ¿ Qué gana el cliente ?
 1. ¿Qué es lo que realmente necesita o quiere conseguir?
-2. ¿De qué modo mide el éxito?. Piensa en algunas estrategias que podría utilizar para alcanzar sus metas.
+1. ¿De qué modo mide el éxito?. Piensa en algunas estrategias que podría utilizar para alcanzar sus metas.
 
 ## ACTIVIDAD NÚMERO 20. MAPA DE EMPATÍA
 
@@ -2011,8 +1915,6 @@ Por otra parte, la curva de valor es el componente básico del cuadro estratégi
 
 Podemos concluir que sirve de poco lanzarse en una trayectoria de crecimiento fuerte y rentable si toma como referencia comparativa sus competidores y trata de vencerlos ofreciendo un poco mas por un poco menos. Tampoco se llega al océano azul con investigaciones exhaustivas del mercado. Los clientes tienden a pensar en lo que ya conocen y a pedir más por menos. Y por lo general desean más de las mismas características que la industria ofrece actualmente en sus productos y servicios.
 
-
-
 Para modificar la curva de valor de la competencia es necesario comenzar por enfocar la estrategia, y esto lo vamos a hacer:
 
 1. centrándonos no en los competidores sino en las alternativas,
@@ -2027,17 +1929,17 @@ El paso siguiente consiste en analizar posibilidades de innovar a través de 6 v
 3. Servicios complementarios. Son pocos los productos y/o servicios que se utilizan de forma aislada. Por ello, en la mayoría de los sectores todos los competidores suelen ofrecer los mismos productos o servicios complementarios. En este caso, nuestra vía de exploración es definir la solución integral que los compradores buscan, es decir, ¿qué pasa antes, durante y después de la compra y el uso del producto?
 
 4. Cadena de compradores . En ocasiones, comprador y consumidor no coinciden, es decir, los compradores de un producto o servicio pueden ser distintos de los usuarios, y estar influenciados por personas cuya opinión es relevante para ellos, o lo que es lo mismo, estar influenciados por personas cuya opinión es relevante para ellos. Así, la forma en que cada uno define el valor es diferente. Podemos ver algunos ejemplos:
-1. La industria farmacéutica se centra en los líderes de opinión: los médicos .
-2. La industria de muebles de oficina se centra en los compradores: departamentos de compras.
-3. La industria de ropa se centra en los usuarios, con excepciones.
+5. La industria farmacéutica se centra en los líderes de opinión: los médicos .
+6. La industria de muebles de oficina se centra en los compradores: departamentos de compras.
+7. La industria de ropa se centra en los usuarios, con excepciones.
 
 Así, un minorista valorará la capacidad de entrega de un proveedor. Un mayorista priorizará costes, y el usuario final la facilidad de uso. De esta forma, las empresas pueden encontrar nuevos caminos y cambiar sus curvas de valor, centrándose en un grupo de compradores pasado por alto.
 
 5. ¿Cómo es mi sector, racional o emocional? Esta vía de exploración con conduce la siguiente reflexión: explora la tendencia contraria y podemos afirmar que:
 1. Algunos sectores compiten basándose en la racionalidad (precio, funcionalidad,…)
-2. Otros compiten basándose en sentimientos o factores emocionales (su atractivo es emocional)
-3. Pero rara vez el atractivo de un producto o servicio es racional o emocional intrínsecamente.
-4. Industrias racionales y emocionales. Cuando una empresa se cuestiona la orientación de su sector, suele descubrir espacios desconocidos que permiten crear océanos.
+1. Otros compiten basándose en sentimientos o factores emocionales (su atractivo es emocional)
+1. Pero rara vez el atractivo de un producto o servicio es racional o emocional intrínsecamente.
+1. Industrias racionales y emocionales. Cuando una empresa se cuestiona la orientación de su sector, suele descubrir espacios desconocidos que permiten crear océanos.
 
 La idea sería complementar un producto o servicio que se adquiere por su atractivo funcional o emocional con el atractivo contrario para hacer la oferta más fuerte .
 
@@ -2045,10 +1947,8 @@ Por ejemplo, Starbucks complementó la venta de café que tenía un atractivo fu
 
 6. Todas las industrias están sujetas al efecto de las tendencias externas . Así:
 1. Son líneas de negocio que modifican nuestra idea inicial: Internet, el medio ambiente, nuevos estilos de vida…
-2. Si se miran estas tendencias desde una perspectiva correcta a lo mejor aparecen oportunidades para un nuevo océano azul
-3. Los sectores dependen de multitud de tendencias externas, que si se dirigen correctamente permiten innovar en valor
-
-
+1. Si se miran estas tendencias desde una perspectiva correcta a lo mejor aparecen oportunidades para un nuevo océano azul
+1. Los sectores dependen de multitud de tendencias externas, que si se dirigen correctamente permiten innovar en valor
 
 La mayoría de las empresas se adaptan lenta y pasivamente a las tendencias, olvidando las oportunidades que surgen de la forma en que redefinirán el valor percibido.
 
@@ -2061,8 +1961,6 @@ El paso siguiente consiste en diseñar nuestra propuesta de valor . Para ello te
 
 Los puntos 1, 2 y 3 suponen reflexionar y valorar la variables estratégicas de la competencia. El punto 4 presenta como contenido las reflexiones realizadas con base en las vías de exploración.
 
-
-
 Para finalizar, tenemos que tener en cuenta que una buena estrategia debe tener las siguientes notas:
 
 1. Foco : toda gran estrategia tiene un foco y éste se debe reflejar en el perfil estratégico o la curva de valor de la compañía.
@@ -2070,8 +1968,6 @@ Para finalizar, tenemos que tener en cuenta que una buena estrategia debe tener 
 3. Mensaje contundente : una buena estrategia tiene un mensaje claro y contundente. ¿Qué podrían decir sus competidores? Un buen mensaje no solo debe comunicar la idea claramente sino también anunciar la oferta con la verdad, o de lo contrario los clientes perderán la confianza y el interés. En efecto, una buena manera de someter a prueba la eficacia y fuerza de una estrategia consiste en mirar si contiene un mensaje fuerte y auténtico.
 
 Así las cosas, cuando la curva de valor de una compañía carece de foco , la estructura de costes tenderá a ser alta y la implantación y ejecución del modelo de negocios serán complejas. Cuando carece de divergencia es porque la estrategia de la compañía es imitativa y no ofrece razón alguna para destacarse en el mercado. Cuando carece de un mensaje contundente para comunicarse con los compradores, es probable que la compañía este encerrada en sí misma o que sea un ejemplo clásico de innovación por la innovación misma, sin potencial comercial y sin capacidad propia para despegar.
-
-
 
 ## De una forma más detallada:
 
@@ -2085,8 +1981,6 @@ Terminamos con la estrategia de los océanos azules, con la que Juan Antonio de 
 2. Identificar el precio a pagar por el cliente por nuestra propuesta de valor.
 3. Conocer los costes del producto y/o servicio y si son inferiores al precio de venta.
 4. Hacer un prototipo que recoja estos aspectos y validarlo en el mercado.
-
-
 
 ## ACTIVIDAD NÚMERO 21. CUADRO ESTRATÉGICO
 
@@ -2110,8 +2004,6 @@ RECURSOS : para trabajar esta actividad, utilizamos el aula polivalente con nues
 
 EVALUACIÓN : en esta actividad insistimos en el grado de compromiso, trabajo y coordinación del grupo . La actividad exige trabajo, salidas a la calle y debate, y sobre todo, organización. El grupo ya está funcionando a pleno rendimiento, y esta actividad refleja en gran medida el talante del grupo.
 
-
-
 ## ACTIVIDAD NÚMERO 22. VÍAS DE EXPLORACIÓN
 
 DEFINICIÓN : A continuación procedemos al análisis exhaustivo de las diferentes vías de exploración .
@@ -2130,8 +2022,6 @@ RECURSOS : para trabajar esta actividad, utilizamos el aula polivalente intentad
 
 EVALUACIÓN : en esta actividad podemos comprobar cómo el grupo va consolidando la dinámica de trabajo, la organización y el trabajo en equipo . Esta tarea exige una motivación adicional por la dureza de su realización.
 
-
-
 ## ACTIVIDAD NÚMERO 23. MATRIZ ERIC
 
 DEFINICIÓN : El paso siguiente consiste en decidir qué es lo que vamos a hacer. Y para ello hay que analizar no sólo lo que hace la competencia, que eliminaremos, incrementaremos o reduciremos con carácter general, sino también las propuestas obtenidas a través de las vías de exploración.
@@ -2147,8 +2037,6 @@ ESPACIO : Esta actividad se desarrolla en el aula . Como en el caso anterior, es
 RECURSOS : para trabajar esta actividad, utilizamos el aula polivalente intentado recrear grandes mesas de trabajo , donde cada miembro del grupo pueda ver directamente a los demás.
 
 EVALUACIÓN : en esta actividad podemos comprobar cómo el grupo va consolidando la dinámica de trabajo, la organización y el trabajo en equipo . Esta tarea exige una motivación adicional por la dureza de su realización.
-
-
 
 ## ACTIVIDAD NÚMERO 24. ESTRETAGIA COMPETITIVA
 
@@ -2196,14 +2084,14 @@ En este módulo se usarán las apps citadas en los módulos anteriores.
 12. 3.3.6. Actividades y recursos clave
 13. 3.3.7. Asociaciones clave
 14. 3.3.8. Estructura de costes
-4. Técnicas de prototipado
-5. Aplicaciones de escritorio
+15. Técnicas de prototipado
+16. Aplicaciones de escritorio
 17. 5.1. Aplicación web: Wix
 18. 5.2. App móvil: Mobincube
 19. 5.3. Vídeo animado: Pow Toon
 20. 5.4. Infografía: Easely
 21. 5.5. Comic: Pixton
-6. Apps móviles
+22. Apps móviles
 23. 6.1. Retoques: Skitch
 24. 6.2. Prototipado: POP
 25. 6.3. Mapas mentales: Mindmeister
@@ -2250,7 +2138,9 @@ Describe cual es la tarea o actividad que cada segmento de clientes está tratan
 
 - ¿Qué criterios tiene en cuenta cada segmento de clientes a la hora de evaluar el éxito o fracaso de una determinada solución o producto?
 - ¿Qué incrementaría la predisposición de un segmento a adoptar una solución?
+
 2. Pains : frustraciones o dolores. Y ahora pongámonos en el lado contrario, pregúntate qué es lo que a tu cliente le 'duele' cuando realiza una determinada tarea.
+
 - ¿Qué es lo que hace que una actividad le resulte tediosa y le exige un esfuerzo a tu cliente?
 - ¿Qué es lo que le hace sentir mal al utilizar las soluciones que ya hay en el mercado?
 - ¿Cuáles son las principales dificultades y riesgos que se encuentra tu cliente al usar las soluciones que ya existen en el mercado?
@@ -2263,26 +2153,24 @@ Describe cual es la tarea o actividad que cada segmento de clientes está tratan
 
 1. Productos y servicios . Realiza una lista con todos tus productos y servicios y la propuesta de valor que tienes pensada elaborar para cada uno de ellos.
 1. Los productos o servicios pueden ser tanto tangibles, como virtuales, o financieros.
-2. Haz un ranking con todos los productos y servicios en función de su importancia para tus clientes. Pregúntate si lo que tu producto les aporta es algo fundamental para ellos o simple.
-2. Gain creators (Creadores de alegrías o beneficios o vitaminas ). Deberás describir en este apartado cómo tus productos y/o servicios crean beneficios para tu cliente: incluyendo la utilidad, beneficios sociales derivados de su uso, emociones positivas que el cliente experimenta gracias a tus productos y cómo consigues que el cliente ahorre en términos de esfuerzo, dinero, tiempo etc. Pregúntate si tus productos o servicios ayudan a tu cliente a:
+1. Haz un ranking con todos los productos y servicios en función de su importancia para tus clientes. Pregúntate si lo que tu producto les aporta es algo fundamental para ellos o simple.
+1. Gain creators (Creadores de alegrías o beneficios o vitaminas ). Deberás describir en este apartado cómo tus productos y/o servicios crean beneficios para tu cliente: incluyendo la utilidad, beneficios sociales derivados de su uso, emociones positivas que el cliente experimenta gracias a tus productos y cómo consigues que el cliente ahorre en términos de esfuerzo, dinero, tiempo etc. Pregúntate si tus productos o servicios ayudan a tu cliente a:
 1. Ahorrar 'costes' que le hacen estar más contento
-2. ¿Tus productos copian o reproducen soluciones que ya existen actualmente y que le gustan a tu cliente?
-3. ¿Tus productos le hacen la vida más fácil a tu cliente?
-4. ¿Tus productos provocan consecuencias sociales que tu cliente desea?
-5. ¿Tus productos hacen algo que tus clientes estaban buscando?
-6. ¿Tus productos están pensados para ayudar a hacer una adopción más fácil?
+1. ¿Tus productos copian o reproducen soluciones que ya existen actualmente y que le gustan a tu cliente?
+1. ¿Tus productos le hacen la vida más fácil a tu cliente?
+1. ¿Tus productos provocan consecuencias sociales que tu cliente desea?
+1. ¿Tus productos hacen algo que tus clientes estaban buscando?
+1. ¿Tus productos están pensados para ayudar a hacer una adopción más fácil?
 
-3. Pain Relievers (Aliviadores del dolor o frustraciones o analgésicos ). Describe como tus productos y servicios 'alivian' a tu cliente. Deberás pensar en cómo tus productos eliminan o reducen las emociones negativas que tu cliente experimenta al realizar una determinada actividad, así como los costes, riesgos y situaciones indeseadas que tus clientes pueden sufrir al realizar la actividad o actividades para las que has concebido tu producto. Pregúntate si tus productos:
+1. Pain Relievers (Aliviadores del dolor o frustraciones o analgésicos ). Describe como tus productos y servicios 'alivian' a tu cliente. Deberás pensar en cómo tus productos eliminan o reducen las emociones negativas que tu cliente experimenta al realizar una determinada actividad, así como los costes, riesgos y situaciones indeseadas que tus clientes pueden sufrir al realizar la actividad o actividades para las que has concebido tu producto. Pregúntate si tus productos:
 1. ¿Ponen fin a dificultades y retos que tu cliente suele encontrarse al realizar una actividad?
-2. ¿Tus productos alejan consecuencias sociales negativas que tu cliente sufre o teme?
-3. ¿Eliminas riesgos que tu cliente teme?
+1. ¿Tus productos alejan consecuencias sociales negativas que tu cliente sufre o teme?
+1. ¿Eliminas riesgos que tu cliente teme?
 1. A continuación haz una lista de todos los dolores que tu producto elimina o ayuda a aliviar y ordénala de acuerdo a su intensidad y la importancia que tus clientes le dan a cada uno de esos puntos. ¿Estarían dispuestos los potenciales clientes a comprarte a ti si eliminas un riesgo que ellos temen? ¿Tu producto es capaz de eliminar los riesgos más temidos, o sólo otros secundarios?
-2. Habrá consecuencias negativas derivadas del uso, o no uso de un producto, que lleven a tu cliente a no estar contento. Deberás averiguar si esos problemas ocurren muy a menudo, si ponen en riesgo la experiencia del cliente, si suceden antes, durante o después de utilizar el producto etc…
-3. Tras estos pasos habrás identificado la necesidad, aquello que le gusta a tu cliente y lo que le disgusta cuando trata de satisfacerla y haber pensado en una propuesta de valor que sea una solución mejor que lo que lo están ofreciendo tus competidores.
+1. Habrá consecuencias negativas derivadas del uso, o no uso de un producto, que lleven a tu cliente a no estar contento. Deberás averiguar si esos problemas ocurren muy a menudo, si ponen en riesgo la experiencia del cliente, si suceden antes, durante o después de utilizar el producto etc…
+1. Tras estos pasos habrás identificado la necesidad, aquello que le gusta a tu cliente y lo que le disgusta cuando trata de satisfacerla y haber pensado en una propuesta de valor que sea una solución mejor que lo que lo están ofreciendo tus competidores.
 
 A continuación puedes ver un ejemplo del lienzo de la propuesta de valor relacionado con nuestro módulo profesional, y como yo, como docente, ajusto mi intervención en función del alumnado.
-
-
 
 ## ACTIVIDAD NÚMERO 25. LIENZO DE LA PROPUESTA DE VALOR
 
@@ -2301,8 +2189,6 @@ ESPACIO : esta actividad se desarrolla en el aula . En este caso usamos el lienz
 RECURSOS : para trabajar esta actividad, utilizamos el aula polivalente y tras diseñar el lienzo de la propuesta de valor, procederemos a definir cada uno de sus apartados. El docente puede dar tiempo para abordar cada apartado por separado, opción quizás más recomendable, o bien describir y analizar el lienzo completo y pasar a su trabajo en aula de forma conjunta.
 
 EVALUACIÓN : en esta actividad podemos comprobar cómo el grupo va consolidando su preocupación por el problema del cliente , y cómo ofrece una alternativa innovadora para su solución. Un buen encaje entre ambos aspectos ofrece una motivación extra para el alumnado, si bien, la calidad del encaje sólo nos la va a confirmar el mercado.
-
-
 
 ## 3. BUSINESS MODEL CANVAS
 
@@ -2338,8 +2224,6 @@ El Business Model Canvas presenta los siguientes bloques (ver padlet del lienzo 
 Entramos de lleno en el primer gran bloque del lienzo de modelo de negocios. Nos corresponde conocer perfectamente la personalidad del cliente . Es muy importante saber que todo gira en torno a los clientes: quiénes son y por que compran el producto. En realidad tratamos de adaptar el producto al mercado. Si se invierte fuera de la empresa, haremos de una empresa algo realmente eficiente. El objetivo es ajustar la propuesta de valor a lo que vamos a descubrir. El objetivo es comenzar con una serie de hipótesis . Después, salimos a la calle y ponemos las hipótesis a prueba. Cuando salgamos a la calle veremos qué pasa. Vamos a profundizar, y ¿qué tareas funcionales o sociales tenemos que hacer? El cliente desea desempeñar una tarea específica o resolver un problema, o quieren verse bien, mejorar su status, o hay tareas emocionales: tener un aspecto mejor, sentirse más seguros, etc. Una forma sencilla de comenzar con las hipótesis del cliente es clasificar cada tarea según la importancia que consideremos que le da el cliente. A esto se le llama 'un día en la vida del cliente'. Se trata de ponerse en lugar del cliente un día cualquiera de su vida.
 
 En el padlet siguiente tenemos todo lo que trabajaremos sobre los segmentos de clientes.
-
-
 
 Es fundamental a la hora de plantear las hipótesis sobre los segmentos del mercado qué ventajas vas a tener al usar nuestro producto o servicio. Se trata de saber qué le facilita la vida al cliente. Haremos una lista de ventajas que obtendrían los clientes si usaran nuestro producto.
 
@@ -2407,8 +2291,6 @@ A continuación veremos las opciones de canales físicos:
 3. Revendedor de valor añadido.
 4. Fuerza de ventas directa.
 
-
-
 5. Web o ventas en línea.
 6. Distribuidores + minoristas + mayoristas.
 
@@ -2451,8 +2333,6 @@ Abordaremos, en primer lugar, cómo captar clientes en un canal físico. Seguimo
 
 En un mundo donde se crea demanda (izquierda del embudo) y la compra (derecha del embudo) podríamos calcular cuánto cuesta hacerlo. Hablaremos del ciclo viral. Un efecto viral sobre la venta de un producto se basa en lo mucho que gusta a los usuarios. Y los emprendedores deben considerarlo de forma importante. En definitiva, se trata de hacer el embudo de la manera más eficiente posible.
 
-
-
 Hay una serie de alternativas a la captación de clientes en canales físicos. En nuestro embudo se pueden cambiar los 4 pasos vistos antes, hay que ser flexible. Se trata de ver que los clientes pasan de ver nuestro producto a comprarlo.
 
 Posteriormente abordamos la fidelización de clientes. Captar clientes es más costoso que fidelizarlo. Se trata de crear programas de fidelización: puntos o recompensas por usar el producto, actualización de la app, boletines, etc.
@@ -2485,8 +2365,6 @@ Todo diseñado para fidelizar clientes, porque el coste de fidelizar clientes es
 
 Y por último, finalizamos con el incremento del número de clientes. Hay varias actividades:
 
-
-
 1. Las mismas que en el canal físico.
 2. Además, hay que tener en cuenta el ciclo de vida del cliente . Se trata de hacer que los clientes vayan gastando cada vez más. Para ello, el dinero recogido durante el ciclo de vida del cliente ( LiveTime Value ) debe ser mayor que el coste de captación de clientes.
 
@@ -2512,8 +2390,6 @@ Hay una serie de errores cuando fijamos precios y fuentes de ingresos. A veces p
 4. Alquiler . Renting de vehículos.
 5. Licencias : pagar una tarifa por el uso de propiedad intelectual: Microsoft.
 
-
-
 6. Intermediación : pagar por reunir a dos partes en una intermediación.
 7. Publicidad . Google, Facebook, etc.
 
@@ -2521,12 +2397,12 @@ En resumen, las fuentes de ingresos son posibles formas de cobrar, pero no del p
 
 1. Precios fijos . Son fijos, no hay regateo. A la hora de fijarlo hay 3 posibilidades:
 1. Se parte del valor de coste y se agrega el margen de beneficio fijo: coste + margen = precio mínimo de mercado.
-2. Pero sabemos lo que valoran los clientes, por lo que se puede fijar en función de las funcionalidades que necesitan los clientes.
-3. También se puede fijar el precio por volumen. Cuanto mayor es el volumen de compra, mayor será el descuento, y se escalona el precio.
-2. Precios dinámicos . Precios que cambian. Son precios que:
+1. Pero sabemos lo que valoran los clientes, por lo que se puede fijar en función de las funcionalidades que necesitan los clientes.
+1. También se puede fijar el precio por volumen. Cuanto mayor es el volumen de compra, mayor será el descuento, y se escalona el precio.
+1. Precios dinámicos . Precios que cambian. Son precios que:
 1. Se negocian
-2. Gestión del rendimiento, por ejemplo, los precios de las aerolíneas.
-3. Mercados en tiempo real: subastas, o bolsa.
+1. Gestión del rendimiento, por ejemplo, los precios de las aerolíneas.
+1. Mercados en tiempo real: subastas, o bolsa.
 
 Ahora nos corresponde determinar fuente de ingresos y precio para cada segmento de mercado.
 
@@ -2560,10 +2436,10 @@ Los recursos económicos se refieren a qué vamos a hacer para poner en marcha n
 
 1. A nivel más básico:
 1. Fondos propios, o de amigos o familiares.
-2. Financiación colectiva o micromecenazgo o Crowdfunding.
-3. Busines Angels (Asociación de Business Angels, Directorio de Business Angels y Red de Business Angels de CLM) e incubadoras de negocios.
-2. Si pensamos además en crecer, conseguir, conservar y aumentar clientes: otras necesidades de capital que precisemos más adelante: compañías de capital riesgo (regulación) o socios empresariales.
-3. Una vez que la empresa está operativa, hay otras posibilidades: préstamo, crédito, leasing, renting, factoring, pago aplazado, etc.
+1. Financiación colectiva o micromecenazgo o Crowdfunding.
+1. Busines Angels (Asociación de Business Angels, Directorio de Business Angels y Red de Business Angels de CLM) e incubadoras de negocios.
+1. Si pensamos además en crecer, conseguir, conservar y aumentar clientes: otras necesidades de capital que precisemos más adelante: compañías de capital riesgo (regulación) o socios empresariales.
+1. Una vez que la empresa está operativa, hay otras posibilidades: préstamo, crédito, leasing, renting, factoring, pago aplazado, etc.
 
 Los recursos humanos se pueden clasificar en:
 
@@ -2607,8 +2483,6 @@ Antes, los inversores nos pedían cuentas: contabilidad y estados contables. Per
 
 1. Propuesta de valor: Coste del producto, tamaño del mercado y cuota de mercado, competencia (cuánto cobran).
 
-
-
 2. Relaciones con clientes: nos interesan métricas con el captar, fidelizar y aumentar ventas. Nos interesa saber cuánto cuesta adquirir nuevos clientes, tasas de conversión, valor del ciclo de vida.
 3. Tipo de mercado.
 4. Costes fijos y variables.
@@ -2625,8 +2499,6 @@ Para ello, es recomendable seguir este orden : segmentos de clientes, propuesta 
 De forma opcional podría comenzarse por la propuesta de valor, pero en general es preferible hacerlo por el segmento de clientes.
 
 Recomiendo su realización por bloques, analizando y detallando la problemática de cada bloque y después pasar a las decisiones propias del grupo sobre el mismo.
-
-
 
 META : El objetivo de esta actividad es definir los elementos que integran un modelo de negocio, su modelo de negocio. De esta forma, un alumno, de manera muy sencilla, podrá definir las grandes líneas que configuran su negocio.
 
@@ -2689,8 +2561,6 @@ ESPACIO : Esta actividad se desarrolla en el aula , si
 
 bien, por necesidades de recursos podríamos visitar el taller de tecnología, aula de informática, etc.
 
-
-
 RECURSOS : para trabajar esta actividad podemos necesitar recursos de lo más variados , pero siempre de bajo coste: papel, cartón, aplicaciones web gratuitas, e incluso impresora de impresión en 3D. Cada grupo de alumnos decidirá qué necesita y se hará acopio del mismo.
 
 EVALUACIÓN : en esta actividad comprobaremos la capacidad de síntesis del alumnado, dando forma a su modelo de negocio a través de un prototipo. Y también puede evaluarse la capacidad del grupo para adaptarse a las limitaciones del PMV.
@@ -2710,9 +2580,6 @@ Fuente: http://es.wix.com/
 De la misma forma que la aplicación anterior, Mobincube nos permite hacer prototipos de app de forma sencilla y rápida, y a coste 0, siempre recurriendo a su plan gratuito.
 
 Fuente: http://www.mobincube.com/es/
-
-
-
 
 ## 5.5. COMIC: PIXTON
 
@@ -2771,18 +2638,16 @@ Esta utilidad QR es intuitiva, muy completa, admite diversos idiomas y cambiará
 3. Entrevistas de problema y de solución
 4. 3.1. Entrevista de problema
 5. 3.2. Entrevista de solución
-4. Test A/B
-5. Aplicaciones de escritorio
+6. Test A/B
+7. Aplicaciones de escritorio
 8. 5.1. Analítica web: Google Analytics
 9. 5.2. Landing Page: LanderApp
 10. 5.3. Grabación en vídeo con pantalla de PC: Screencast-o-matic
 11. 5.4. Historia digital: Storify
-6. Apps móviles
+12. Apps móviles
 13. 6.2. Tablón de notas: Linoit
 
 - 6.1. Edición de vídeo: VidTrim
-
-
 
 ## 1. INTRODUCCIÓN
 
@@ -2808,8 +2673,6 @@ Para ello, daremos los siguientes pasos:
 10. Mercado total disponible. Es muy importante conocer el denominado mercado total disponible. Y no sólo eso, sino que hay que comprender todo el mercado total y la parte de podríamos tener. Esto se puede hacer tanto en euros como en clientes. Después, deberíamos conocer el mercado servido disponible . Así llegaremos al mercado objetivo . Ver resumen.
 
 Para terminar esta apartado, tenemos un magnífico ejemplo que ilustra todo lo mencionado anteriormente.
-
-
 
 ## 3. ENTREVISTAS DE PROBLEMA Y DE SOLUCIÓN
 
@@ -2837,8 +2700,6 @@ Lo cierto es que hacer investigación no suele gustar al alumnado, cuando hablam
 - o Las fuentes de ingresos de tus clientes
 
 Y todo esto, porque la gente sabe cosas que tú no sabes: podemos pensar en ocasiones que la gente no sabe lo que quiere, pero son expertos en sus propios problemas . Por ello es
-
-
 
 fundamental hablar con ellos para aprender. Olvídate de las encuestas: fíjate en las historias de la gente .
 
@@ -2872,8 +2733,6 @@ Podríamos articular la entrevista de problema en las siguientes fases:
 - Bienvenida . Presenta a tu cliente el objetivo de la entrevista y cómo funciona el proceso de la misma. Recuerda que no es una entrevista de venta y el cliente debe tenerlo claro.
 - Datos demográficos . Hay que conocer al cliente, su historia y su descripción personal, edad, trabajo, responsabilidades. Esto permite saber si pertenece a la descripción que hemos definido de nuestro cliente ideal. Fácilmente pueden ir apareciendo otro tipos de
 
-
-
 clientes con necesidades diferentes y perfiles más específicos que seguramente no se hubiesen contemplado.
 
 - Identificar problemas . Pregúntale al cliente sobre los problemas que se encuentra en su día a día en el área que quieres abordar con tu idea de negocio. Hay que guiarle y llevarle al momento en el que tú crees que puede necesitar tu producto o servicio. Si no presenta el problema o no coincide con el que se ha detectado es el momento para comentarle los problemas que tú crees haber detectado y si para él son un problema real o no y por qué.
@@ -2881,8 +2740,6 @@ clientes con necesidades diferentes y perfiles más específicos que seguramente
 - Especificación de los problemas . Una vez identificados los problemas y su relevancia es el momento de entender las acciones que realiza para afrontar los problemas detectados, interesándote por los comportamientos pasados nunca futuros . Para ello, hay que utilizar preguntas del tipo por qué, cuándo, dónde, … evitando respuestas cerradas tipo si/no.
 - Nuestro Pitch . Una vez concluida la entrevista es el momento de presentar nuestra solución, con una breve presentación en la que no está de más pedirle su opinión.
 - Establecer un compromiso . Es muy aconsejable intentar que, tras la entrevista, te dirija a otras personas con las que poder tratar la cuestión y así tener más opciones para poder contrastar opiniones. Además, es importante, convocarle a una entrevista de solución, demo de producto, presentación prototipo, etc.
-
-
 
 ## 3.2. ENTREVISTA DE SOLUCIÓN
 
@@ -2956,8 +2813,6 @@ LanderApp nos ayuda a convertir a los usuarios en clientes finales , por ello es
 
 importante crear una landing page que convierta de verdad.
 
-
-
 ## 5.3. GRABACIÓN EN VÍDEO CON PANTALLA DE PC: SCREENCAST-O-MATIC
 
 ## 5.4. HISTORIA DIGITAL: STORIFY
@@ -3000,11 +2855,9 @@ La interfaz es intuitiva, sigue los pasos para crear tu tablero: estilo, privaci
 4. Aplicaciones de escritorio
 5. 4.1. Conferencias: TED
 6. 4.2. Presentaciones: Emaze
-5. Apps móviles
+7. Apps móviles
 8. 5.1. Transmitir en vídeo: Periscope
 9. 5.2. Cronómetro cuenta regresiva
-
-
 
 ## 1. INTRODUCCIÓN
 
@@ -3031,16 +2884,23 @@ Un emprendedor tiene que estar preparado para que en cualquier momento pueda des
 proyecto. Podríamos hablar de cuatro puntos fundamentales de todo elevator pitch:
 
 1. Define tu proyecto
+
 - a. Público objetivo
 - b. Problema
 - c. Solución
+
 2. Los agentes implicados en el proyecto
+
 - a. Defínete. Experiencia
 - b. Mercado
 - c. Salidas para emprendedor e inversores
+
 3. ¿En qué te diferencias?
+
 - a. Competencia
+
 4. Tu modelo de negocio.
+
 - a. Cómo ganas dinero
 
 Una vez tienes tu elevator pitch preparado, toca llevarlo a la práctica; aquí tienes algunos consejos para hacer un elevator pitch de éxito:
@@ -3049,8 +2909,6 @@ Una vez tienes tu elevator pitch preparado, toca llevarlo a la práctica; aquí 
 2. Ensaya mucho
 3. No entrar en detalles
 4. Las cifras justas
-
-
 
 ## ACTIVIDAD NÚMERO 30. FORO DE INVERSIÓN CREATIVO
 
@@ -3065,8 +2923,6 @@ ESPACIO : Esta actividad se desarrolla en el centro . Sería deseable contar con
 RECURSOS : para trabajar esta actividad cada grupo de alumnos decidirá qué necesita, y deberá proveerlo. Después es nuestra misión proporcionar buenos recursos para la exposición, sonido , iluminación , espacios , etc.
 
 EVALUACIÓN : en esta actividad comprobaremos los aspectos clave del proyecto: habilidades emprendedoras como creatividad, comunicación, trabajo en equipo,
-
-
 
 confianza, y aspectos técnicos propios de emprendimiento , como problema, solución, prototipos, aprendizaje validado, etc.
 
@@ -3113,9 +2969,9 @@ Puedes iniciar y detener el cronómetro pulsando el botón central; podrás ver 
 7. 4.3. Criterios de calificación
 8. 4.4. Procedimiento de evaluación y criterios de recuperación
 9. 4.5. Evaluación del proceso de enseñanza-aprendizaje
-5. Metodología y recursos
-6. Atención a la diversidad
-7. Actividades complementarias
+10. Metodología y recursos
+11. Atención a la diversidad
+12. Actividades complementarias
 
 ## 1. INTRODUCCIÓN
 
@@ -3178,6 +3034,7 @@ Para conseguir los resultados de aprendizaje, trabajaremos los contenidos que ci
 - V. El resultado del trabajo en equipo.
 - VI. Ventajas y dificultades.
 - VII. Confección y diseño de los equipos dentro de la empresa creada.
+
 4. UUTT Nº 2. Idear
 5. -Fuentes de búsqueda de ideas.
 6. -Variables de estudio.
@@ -3254,24 +3111,22 @@ Cada uno de estos contenidos será ordenado, secuenciado y temporalizado en unid
 
 Proponemos la siguiente temporalización de los contenidos organizados anteriormente en unidades de trabajo, en número de sesiones:
 
-
-
 Tabla 1
 
-| Nº | UNIDAD DE TRABAJO | 1ª evaluación | 2ª evaluación | Total |
-|------|---------------------|-----------------|-----------------|----------------------|
-| 1 | 10 | | 10 | EMPRENDER |
-| 2 | 15 | | 15 | IDEAR |
-| 3 | 10 | | 10 | CONTEXTUALIZAR |
-| 4 | 15 | | 15 | PROTOTIPAR |
-| 5 | 15 | | 15 | VALIDAR |
-| 6 | | 10 | 10 | COMUNICAR |
-| 7 | | 15 | 15 | PLAN JURÍDICO-FISCAL |
-| 8 | | 15 | 15 | PLAN OPERACIONES |
-| 9 | | 5 | 5 | PLAN MARKETING |
-| 10 | | 15 | 15 | PLAN ECO-FINANCIERO |
-| 11 | 24 | 24 | 48 | SIMULADOR EMPRES. |
-| | TOTAL | 84 | 173 | 89 |
+| Nº  | UNIDAD DE TRABAJO | 1ª evaluación | 2ª evaluación | Total                |
+| --- | ----------------- | ------------- | ------------- | -------------------- |
+| 1   | 10                |               | 10            | EMPRENDER            |
+| 2   | 15                |               | 15            | IDEAR                |
+| 3   | 10                |               | 10            | CONTEXTUALIZAR       |
+| 4   | 15                |               | 15            | PROTOTIPAR           |
+| 5   | 15                |               | 15            | VALIDAR              |
+| 6   |                   | 10            | 10            | COMUNICAR            |
+| 7   |                   | 15            | 15            | PLAN JURÍDICO-FISCAL |
+| 8   |                   | 15            | 15            | PLAN OPERACIONES     |
+| 9   |                   | 5             | 5             | PLAN MARKETING       |
+| 10  |                   | 15            | 15            | PLAN ECO-FINANCIERO  |
+| 11  | 24                | 24            | 48            | SIMULADOR EMPRES.    |
+|     | TOTAL             | 84            | 173           | 89                   |
 
 ## 4. EVALUACIÓN
 
@@ -3289,105 +3144,100 @@ Desde el punto de vista de la enseñanza , se establece un cuestionario online a
 
 En materia de evaluación tenemos diferentes elementos. Comenzaremos señalando la relación entre los resultados de aprendizaje y los criterios de evaluación, así como el peso de cada criterio de evaluación, y los que se consideran mínimos para el alumnado. En este sentido, al establecer una rúbrica por criterio de evaluación, será ésta la que indique el nivel mínimo.
 
-
-
 Señalar que los criterios de evaluación 6.g, 6.h y 6.f. se traban de manera común en los diferentes resultados de aprendizaje. También señalar que los criterios 4.c, 4.d, 4.e, 4.f, 6.c y 6.d no tienen valoración porque se incluyen en otros criterios:
 
 Tabla 2
 
-| Resultado de aprendizaje Nº 1 | Resultado de aprendizaje Nº 1 | Resultado de aprendizaje Nº 1 |
-|---------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
-| Determina los factores de la innovación empresarial, relacionándolos con la actividad de creación de empresas | Determina los factores de la innovación empresarial, relacionándolos con la actividad de creación de empresas | Determina los factores de la innovación empresarial, relacionándolos con la actividad de creación de empresas |
-| Mínimos | Criterios de evaluación | Peso |
-| 50% | a) Se han examinado las diversas facetas de la innovación empresarial (técnicas, materiales, de organización interna y externa, entre otras), relacionándolas como fuentes de desarrollo económico y creación de empleo. | 10 |
-| 50% | b) Se han relacionado la innovación y la iniciativa emprendedora con las implicaciones que tiene para la competitividad empresarial. | 3 |
-| 50% | c) Se han valorado los aspectos inherentes a la asunción de riesgo empresarial como motor económico y social. | 6 |
-| 50% | d) Se han determinado las diferentes facetas del carácter emprendedor desde el punto de vista empresarial. | 3 |
-| 50% | e) Se han seleccionado diferentes experiencias de innovación empresarial, describiendo y valorando los factores de riesgo asumidos en cada una de ellas. | 6 |
-| 50% | f) Se han propuesto posibilidades de internacionalización de algunas empresas como factor de innovación de las mismas. | 3 |
-| 50% | g) Se han definido ayudas y herramientas, públicas y privadas, para la innovación, creación e internacionalización de empresas, relacionándolas estructuradamente en un informe. | 6 |
+| Resultado de aprendizaje Nº 1                                                                                 | Resultado de aprendizaje Nº 1                                                                                                                                                                                            | Resultado de aprendizaje Nº 1                                                                                 |
+| ------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------- |
+| Determina los factores de la innovación empresarial, relacionándolos con la actividad de creación de empresas | Determina los factores de la innovación empresarial, relacionándolos con la actividad de creación de empresas                                                                                                            | Determina los factores de la innovación empresarial, relacionándolos con la actividad de creación de empresas |
+| Mínimos                                                                                                       | Criterios de evaluación                                                                                                                                                                                                  | Peso                                                                                                          |
+| 50%                                                                                                           | a) Se han examinado las diversas facetas de la innovación empresarial (técnicas, materiales, de organización interna y externa, entre otras), relacionándolas como fuentes de desarrollo económico y creación de empleo. | 10                                                                                                            |
+| 50%                                                                                                           | b) Se han relacionado la innovación y la iniciativa emprendedora con las implicaciones que tiene para la competitividad empresarial.                                                                                     | 3                                                                                                             |
+| 50%                                                                                                           | c) Se han valorado los aspectos inherentes a la asunción de riesgo empresarial como motor económico y social.                                                                                                            | 6                                                                                                             |
+| 50%                                                                                                           | d) Se han determinado las diferentes facetas del carácter emprendedor desde el punto de vista empresarial.                                                                                                               | 3                                                                                                             |
+| 50%                                                                                                           | e) Se han seleccionado diferentes experiencias de innovación empresarial, describiendo y valorando los factores de riesgo asumidos en cada una de ellas.                                                                 | 6                                                                                                             |
+| 50%                                                                                                           | f) Se han propuesto posibilidades de internacionalización de algunas empresas como factor de innovación de las mismas.                                                                                                   | 3                                                                                                             |
+| 50%                                                                                                           | g) Se han definido ayudas y herramientas, públicas y privadas, para la innovación, creación e internacionalización de empresas, relacionándolas estructuradamente en un informe.                                         | 6                                                                                                             |
 
 Tabla 3
 
-| Resultado de aprendizaje Nº 2 | Resultado de aprendizaje Nº 2 | Resultado de aprendizaje Nº 2 |
-|-------------------------------------------------------|--------------------------------------------------------------------------------------------------------|-------------------------------------------------------|
-| Selecciona una idea de negocio, analizando el mercado | Selecciona una idea de negocio, analizando el mercado | Selecciona una idea de negocio, analizando el mercado |
-| Mínimos | Criterios de evaluación | Peso |
-| 50% | a) Se han evaluado las implicaciones que conlleva la elección de una idea de negocio. | 8 |
-| 50% | b) Se ha diferenciado entre lo que puede ser una simple idea de una idea de negocio factible. | 10 |
-| 50% | c) Se han señalado las ventajas e inconvenientes de las propuestas de negocio. | 2 |
-| 50% | d) Se ha determinado el producto o servicio que se quiere proporcionar con la idea de negocio. | 20 |
-| 50% | e) Se han concretado las necesidades que satisface y el valor añadido de la idea de negocio propuesta. | 30 |
-| 50% | f) Se han identificado los clientes potenciales, atendiendo a los objetivos del proyecto de empresa. | 5 |
-| 50% | g) Se ha efectuado un análisis de mercado para comprobar si existe un nicho en el mismo. | 10 |
-| 50% | h) Se ha efectuado un análisis de la competencia para posicionar nuestro producto. | 10 |
+| Resultado de aprendizaje Nº 2                         | Resultado de aprendizaje Nº 2                                                                          | Resultado de aprendizaje Nº 2                         |
+| ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------ | ----------------------------------------------------- |
+| Selecciona una idea de negocio, analizando el mercado | Selecciona una idea de negocio, analizando el mercado                                                  | Selecciona una idea de negocio, analizando el mercado |
+| Mínimos                                               | Criterios de evaluación                                                                                | Peso                                                  |
+| 50%                                                   | a) Se han evaluado las implicaciones que conlleva la elección de una idea de negocio.                  | 8                                                     |
+| 50%                                                   | b) Se ha diferenciado entre lo que puede ser una simple idea de una idea de negocio factible.          | 10                                                    |
+| 50%                                                   | c) Se han señalado las ventajas e inconvenientes de las propuestas de negocio.                         | 2                                                     |
+| 50%                                                   | d) Se ha determinado el producto o servicio que se quiere proporcionar con la idea de negocio.         | 20                                                    |
+| 50%                                                   | e) Se han concretado las necesidades que satisface y el valor añadido de la idea de negocio propuesta. | 30                                                    |
+| 50%                                                   | f) Se han identificado los clientes potenciales, atendiendo a los objetivos del proyecto de empresa.   | 5                                                     |
+| 50%                                                   | g) Se ha efectuado un análisis de mercado para comprobar si existe un nicho en el mismo.               | 10                                                    |
+| 50%                                                   | h) Se ha efectuado un análisis de la competencia para posicionar nuestro producto.                     | 10                                                    |
 
-
-
-| Resultado de aprendizaje Nº 3 | Resultado de aprendizaje Nº 3 | Resultado de aprendizaje Nº 3 |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Resultado de aprendizaje Nº 3                                                                                                                                                  | Resultado de aprendizaje Nº 3                                                                                                                                                  | Resultado de aprendizaje Nº 3                                                                                                                                                  |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Determina la organización interna de la empresa, la forma jurídica y los recursos necesarios, analizando las alternativas disponibles y los objetivos marcados con el proyecto | Determina la organización interna de la empresa, la forma jurídica y los recursos necesarios, analizando las alternativas disponibles y los objetivos marcados con el proyecto | Determina la organización interna de la empresa, la forma jurídica y los recursos necesarios, analizando las alternativas disponibles y los objetivos marcados con el proyecto |
-| Mínimos | Criterios de evaluación | Peso |
-| 50% | a) Se han identificado las principales características del sector empresarial en el que se desenvuelve la idea de negocio. | 2 |
-| 50% | b) Se han reconocido los distintos tipos de empresas que existen. | 2 |
-| 50% | c) Se han establecido claramente los objetivos de la empresa. | 5 |
-| 50% | d) Se ha relacionado la organización establecida por la empresa con el tipo y fines de esta. | 6 |
-| 50% | e) Se han identificado las diferentes funciones dentro de la empresa. | 10 |
-| 50% | f) Se ha seleccionado la forma jurídica adecuada. | 20 |
-| 50% | g) Se ha efectuado una asignación eficiente de los recursos necesarios. | 10 |
-| 50% | h) Se han reconocido y seleccionado las posibles fuentes de financiación. | 5 |
-| 50% | i) Se ha valorado la importancia de dotar a la empresa de la estructura adecuada para su pervivencia. | 10 |
+| Mínimos                                                                                                                                                                        | Criterios de evaluación                                                                                                                                                        | Peso                                                                                                                                                                           |
+| 50%                                                                                                                                                                            | a) Se han identificado las principales características del sector empresarial en el que se desenvuelve la idea de negocio.                                                     | 2                                                                                                                                                                              |
+| 50%                                                                                                                                                                            | b) Se han reconocido los distintos tipos de empresas que existen.                                                                                                              | 2                                                                                                                                                                              |
+| 50%                                                                                                                                                                            | c) Se han establecido claramente los objetivos de la empresa.                                                                                                                  | 5                                                                                                                                                                              |
+| 50%                                                                                                                                                                            | d) Se ha relacionado la organización establecida por la empresa con el tipo y fines de esta.                                                                                   | 6                                                                                                                                                                              |
+| 50%                                                                                                                                                                            | e) Se han identificado las diferentes funciones dentro de la empresa.                                                                                                          | 10                                                                                                                                                                             |
+| 50%                                                                                                                                                                            | f) Se ha seleccionado la forma jurídica adecuada.                                                                                                                              | 20                                                                                                                                                                             |
+| 50%                                                                                                                                                                            | g) Se ha efectuado una asignación eficiente de los recursos necesarios.                                                                                                        | 10                                                                                                                                                                             |
+| 50%                                                                                                                                                                            | h) Se han reconocido y seleccionado las posibles fuentes de financiación.                                                                                                      | 5                                                                                                                                                                              |
+| 50%                                                                                                                                                                            | i) Se ha valorado la importancia de dotar a la empresa de la estructura adecuada para su pervivencia.                                                                          | 10                                                                                                                                                                             |
 
 Tabla 4
 
 Tabla 5
 
-| Resultado de aprendizaje Nº 4 | Resultado de aprendizaje Nº 4 | Resultado de aprendizaje Nº 4 |
-|-----------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
+| Resultado de aprendizaje Nº 4                                                                                                                 | Resultado de aprendizaje Nº 4                                                                                                                 | Resultado de aprendizaje Nº 4                                                                                                                 |
+| --------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
 | Comprueba la viabilidad de la empresa mediante diferentes tipos de análisis, verificando los diversos factores que pueden influir en la misma | Comprueba la viabilidad de la empresa mediante diferentes tipos de análisis, verificando los diversos factores que pueden influir en la misma | Comprueba la viabilidad de la empresa mediante diferentes tipos de análisis, verificando los diversos factores que pueden influir en la misma |
-| Mínimos | Criterios de evaluación | Peso |
-| 50% | a) Se ha efectuado un estudio de la viabilidad técnica del negocio. | 10 |
-| 50% | b) Se ha contrastado el cumplimiento de la normativa legal del futuro negocio. | 8 |
-| 50% | c) Se ha comprobado la accesibilidad de las fuentes de financiación para la puesta en marcha del negocio. | 5 |
-| 50% | d) Se ha efectuado un análisis sobre la capacitación profesional para llevar a cabo las actividades derivadas del tipo de negocio elegido. | 2 |
-| 50% | e) Se ha realizado un análisis del impacto ambiental de proyecto de empresa. | 5 |
-| 50% | f) Se ha realizado un análisis de los riesgos laborales de proyecto de empresa. | 3 |
-| 50% | g) Se ha comprobado la viabilidad económica por medio del análisis de proyectos de inversión. | 15 |
-| 50% | h) Se ha elaborado un plan de viabilidad a largo plazo para poder efectuar una mejor planificación en la empresa. | 5 |
-
+| Mínimos                                                                                                                                       | Criterios de evaluación                                                                                                                       | Peso                                                                                                                                          |
+| 50%                                                                                                                                           | a) Se ha efectuado un estudio de la viabilidad técnica del negocio.                                                                           | 10                                                                                                                                            |
+| 50%                                                                                                                                           | b) Se ha contrastado el cumplimiento de la normativa legal del futuro negocio.                                                                | 8                                                                                                                                             |
+| 50%                                                                                                                                           | c) Se ha comprobado la accesibilidad de las fuentes de financiación para la puesta en marcha del negocio.                                     | 5                                                                                                                                             |
+| 50%                                                                                                                                           | d) Se ha efectuado un análisis sobre la capacitación profesional para llevar a cabo las actividades derivadas del tipo de negocio elegido.    | 2                                                                                                                                             |
+| 50%                                                                                                                                           | e) Se ha realizado un análisis del impacto ambiental de proyecto de empresa.                                                                  | 5                                                                                                                                             |
+| 50%                                                                                                                                           | f) Se ha realizado un análisis de los riesgos laborales de proyecto de empresa.                                                               | 3                                                                                                                                             |
+| 50%                                                                                                                                           | g) Se ha comprobado la viabilidad económica por medio del análisis de proyectos de inversión.                                                 | 15                                                                                                                                            |
+| 50%                                                                                                                                           | h) Se ha elaborado un plan de viabilidad a largo plazo para poder efectuar una mejor planificación en la empresa.                             | 5                                                                                                                                             |
 
 Tabla 6
 
-| Resultado de aprendizaje Nº 5 | Resultado de aprendizaje Nº 5 | Resultado de aprendizaje Nº 5 |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Resultado de aprendizaje Nº 5                                                                                                                                                 | Resultado de aprendizaje Nº 5                                                                                                                                                 | Resultado de aprendizaje Nº 5                                                                                                                                                 |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Gestiona la documentación necesaria para la puesta en marcha de una empresa, analizando los trámites legales y las actuaciones necesarias que conllevan la realización del PE | Gestiona la documentación necesaria para la puesta en marcha de una empresa, analizando los trámites legales y las actuaciones necesarias que conllevan la realización del PE | Gestiona la documentación necesaria para la puesta en marcha de una empresa, analizando los trámites legales y las actuaciones necesarias que conllevan la realización del PE |
-| Mínimos | Criterios de evaluación | Peso |
-| 50% | a) Se ha reconocido la exigencia de la realización de diversos trámites legales exigibles antes de la puesta en marcha de un negocio. | 1 |
-| 50% | b) Se han diferenciado los trámites que se seguirían en función de la forma jurídica elegida. | 1 |
-| 50% | c) Se han identificado los organismos ante los cuales han de presentarse los trámites. | 1 |
-| 50% | d) Se ha cumplimentado la documentación necesaria para la constitución de la empresa. | 2 |
-| 50% | e) Se han realizado los trámites fiscales para la puesta en marcha. | 1 |
-| 50% | f) Se han realizado los trámites necesarios ante la autoridad laboral y la Seguridad Social. | 1 |
-| 50% | g) Se han realizado los trámites necesarios en otras administraciones públicas a la hora de abrir un negocio. | 1 |
-| 50% | h) Se ha reconocido la existencia de trámites de carácter específico para determinado tipos de negocios. | 1 |
-| 50% | i) Se ha valorado la importancia del cumplimiento de los plazos legales para la tramitación y puesta en marcha de un negocio. | 1 |
+| Mínimos                                                                                                                                                                       | Criterios de evaluación                                                                                                                                                       | Peso                                                                                                                                                                          |
+| 50%                                                                                                                                                                           | a) Se ha reconocido la exigencia de la realización de diversos trámites legales exigibles antes de la puesta en marcha de un negocio.                                         | 1                                                                                                                                                                             |
+| 50%                                                                                                                                                                           | b) Se han diferenciado los trámites que se seguirían en función de la forma jurídica elegida.                                                                                 | 1                                                                                                                                                                             |
+| 50%                                                                                                                                                                           | c) Se han identificado los organismos ante los cuales han de presentarse los trámites.                                                                                        | 1                                                                                                                                                                             |
+| 50%                                                                                                                                                                           | d) Se ha cumplimentado la documentación necesaria para la constitución de la empresa.                                                                                         | 2                                                                                                                                                                             |
+| 50%                                                                                                                                                                           | e) Se han realizado los trámites fiscales para la puesta en marcha.                                                                                                           | 1                                                                                                                                                                             |
+| 50%                                                                                                                                                                           | f) Se han realizado los trámites necesarios ante la autoridad laboral y la Seguridad Social.                                                                                  | 1                                                                                                                                                                             |
+| 50%                                                                                                                                                                           | g) Se han realizado los trámites necesarios en otras administraciones públicas a la hora de abrir un negocio.                                                                 | 1                                                                                                                                                                             |
+| 50%                                                                                                                                                                           | h) Se ha reconocido la existencia de trámites de carácter específico para determinado tipos de negocios.                                                                      | 1                                                                                                                                                                             |
+| 50%                                                                                                                                                                           | i) Se ha valorado la importancia del cumplimiento de los plazos legales para la tramitación y puesta en marcha de un negocio.                                                 | 1                                                                                                                                                                             |
 
 Tabla 7
 
-| Resultado de aprendizaje Nº 6 | Resultado de aprendizaje Nº 6 | Resultado de aprendizaje Nº 6 |
-|-------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------|
-| Realiza la gestión de la empresa-proyecto en sus diversos departamentos | Realiza la gestión de la empresa-proyecto en sus diversos departamentos | Realiza la gestión de la empresa-proyecto en sus diversos departamentos |
-| Mínimos | Criterios de evaluación | Peso |
-| 50% | a) Se ha efectuado una planificación sobre las necesidades de aprovisionamiento de la empresa. | 15 |
-| 50% | b) Se ha gestionado el proceso de comercialización de los productos de la empresa. | 30 |
-| 50% | c) Se ha planificado la gestión de los recursos humanos. | 15 |
-| 50% | d) Se ha confeccionado y verificado la contabilidad de la empresa. | 20 |
-| 50% | e) Se han planificado las necesidades financieras de la empresa. | 15 |
-| 50% | f) Se ha analizado la normativa fiscal vigente y se ha cumplido con las obligaciones fiscales. | 10 |
-| 50% | g) Se ha valorado la organización de la propia tarea. | Todas |
-| 50% | h) Se ha realizado el trabajo entre los miembros del grupo. | Todas |
-| 50% | i) Se ha realizado cada tarea con rigurosidad y corrección para obtener un resultado global satisfactorio. | Todas |
-| 50% | j) Se ha materializado en un dossier el proyecto empresarial y se ha expuesto en público. | 30 |
+| Resultado de aprendizaje Nº 6                                           | Resultado de aprendizaje Nº 6                                                                              | Resultado de aprendizaje Nº 6                                           |
+| ----------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| Realiza la gestión de la empresa-proyecto en sus diversos departamentos | Realiza la gestión de la empresa-proyecto en sus diversos departamentos                                    | Realiza la gestión de la empresa-proyecto en sus diversos departamentos |
+| Mínimos                                                                 | Criterios de evaluación                                                                                    | Peso                                                                    |
+| 50%                                                                     | a) Se ha efectuado una planificación sobre las necesidades de aprovisionamiento de la empresa.             | 15                                                                      |
+| 50%                                                                     | b) Se ha gestionado el proceso de comercialización de los productos de la empresa.                         | 30                                                                      |
+| 50%                                                                     | c) Se ha planificado la gestión de los recursos humanos.                                                   | 15                                                                      |
+| 50%                                                                     | d) Se ha confeccionado y verificado la contabilidad de la empresa.                                         | 20                                                                      |
+| 50%                                                                     | e) Se han planificado las necesidades financieras de la empresa.                                           | 15                                                                      |
+| 50%                                                                     | f) Se ha analizado la normativa fiscal vigente y se ha cumplido con las obligaciones fiscales.             | 10                                                                      |
+| 50%                                                                     | g) Se ha valorado la organización de la propia tarea.                                                      | Todas                                                                   |
+| 50%                                                                     | h) Se ha realizado el trabajo entre los miembros del grupo.                                                | Todas                                                                   |
+| 50%                                                                     | i) Se ha realizado cada tarea con rigurosidad y corrección para obtener un resultado global satisfactorio. | Todas                                                                   |
+| 50%                                                                     | j) Se ha materializado en un dossier el proyecto empresarial y se ha expuesto en público.                  | 30                                                                      |
 
 ## 4.2. INSTRUMENTOS DE EVALUACIÓN
 
@@ -3413,53 +3263,49 @@ Para la recogida de información de cada uno de los criterios de evaluación uti
 
 Como sabemos, el referente de la evaluación son los resultados de aprendizaje. Por ello, establecemos la valoración de cada uno de ellos de la siguiente forma:
 
-
-
 Tabla 8
 
-| RESULTADOS DE APRENDIZAJE | RESULTADOS DE APRENDIZAJE | PESO |
-|-----------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------|
-| RA1 | 1. Determina los factores de la innovación empresarial, relacionándolos con la actividad de creación de empresas 9% | |
-| 2. Selecciona una idea de negocio, analizando el mercado | 24% | RA2 |
-| RA3 3. Determina la organización interna de la empresa, recursos necesarios, analizando las alternativas disponibles marcados con el proyecto | la forma jurídica y los y los objetivos 18% diferentes tipos de | |
-| RA4 4. Comprueba la viabilidad de la | mediante 13% | empresa |
-| RA5 | 5. Gestiona la documentación necesaria para la puesta en marcha de una empresa, analizando los trámites legales y las actuaciones necesarias que conllevan la realización del proyecto empresarial | 3% |
-| RA6 | 6. Realiza la gestión de la empresa-proyecto en sus diversos departamentos 34% | |
+| RESULTADOS DE APRENDIZAJE                                                                                                                     | RESULTADOS DE APRENDIZAJE                                                                                                                                                                          | PESO    |
+| --------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
+| RA1                                                                                                                                           | 1. Determina los factores de la innovación empresarial, relacionándolos con la actividad de creación de empresas 9%                                                                                |         |
+| 2. Selecciona una idea de negocio, analizando el mercado                                                                                      | 24%                                                                                                                                                                                                | RA2     |
+| RA3 3. Determina la organización interna de la empresa, recursos necesarios, analizando las alternativas disponibles marcados con el proyecto | la forma jurídica y los y los objetivos 18% diferentes tipos de                                                                                                                                    |         |
+| RA4 4. Comprueba la viabilidad de la                                                                                                          | mediante 13%                                                                                                                                                                                       | empresa |
+| RA5                                                                                                                                           | 5. Gestiona la documentación necesaria para la puesta en marcha de una empresa, analizando los trámites legales y las actuaciones necesarias que conllevan la realización del proyecto empresarial | 3%      |
+| RA6                                                                                                                                           | 6. Realiza la gestión de la empresa-proyecto en sus diversos departamentos 34%                                                                                                                     |         |
 
 Para trabajar los 6 resultados de aprendizaje utilizaremos los contenidos establecidos en 11 unidades de trabajo. A continuación establecemos en qué medida las unidades de trabajo contribuyen a cada resultado de aprendizaje , y así podremos obtener los criterios de calificación aplicados a cada evaluación:
 
 Tabla 9
 
-| Nº | UNIDAD DE TRABAJO | RA1 | RA2 | RA3 | RA4 | RA5 | RA6 | PESO UT | PESO EVA. |
-|------------------------|---------------------|-------|-------|-------|-------|-------|-------|-----------|-------------|
-| 1 EMPRENDER | X | | | | | | 5% | 48% | |
-| 2 IDEAR | | X | | | | | 5% | | |
-| 3 CONTEXTUALIZAR | | X | X | | | | 10% | | |
-| 4 PROTOTIPAR | X | X | | X | | X | 15% | | |
-| 5 VALIDAR | | X | | | | | 8% | | |
-| 6 COMUNICAR | | | | | | | 5% | | |
-| 7 PLAN JURÍDICO-FISCAL | X | | X | X | X | | 14% | 51% | |
-| 8 PLAN OPERACIONES | | | X | X | | | 6% | | |
-| 9 PLAN | MARKETING | | | | | X | 3% | | |
-| 10 PLAN ECO-FINANCIERO | | | X | X | | X | 18% | | |
-| 11 SIMULADOR | EMPRES. | | | | | X | 13% | | |
-| PESO | RA 12% | 26% | 21% | 10% | 6% | 25% | 100% | 100% | |
-
-
+| Nº                     | UNIDAD DE TRABAJO | RA1 | RA2 | RA3 | RA4 | RA5 | RA6  | PESO UT | PESO EVA. |
+| ---------------------- | ----------------- | --- | --- | --- | --- | --- | ---- | ------- | --------- |
+| 1 EMPRENDER            | X                 |     |     |     |     |     | 5%   | 48%     |           |
+| 2 IDEAR                |                   | X   |     |     |     |     | 5%   |         |           |
+| 3 CONTEXTUALIZAR       |                   | X   | X   |     |     |     | 10%  |         |           |
+| 4 PROTOTIPAR           | X                 | X   |     | X   |     | X   | 15%  |         |           |
+| 5 VALIDAR              |                   | X   |     |     |     |     | 8%   |         |           |
+| 6 COMUNICAR            |                   |     |     |     |     |     | 5%   |         |           |
+| 7 PLAN JURÍDICO-FISCAL | X                 |     | X   | X   | X   |     | 14%  | 51%     |           |
+| 8 PLAN OPERACIONES     |                   |     | X   | X   |     |     | 6%   |         |           |
+| 9 PLAN                 | MARKETING         |     |     |     |     | X   | 3%   |         |           |
+| 10 PLAN ECO-FINANCIERO |                   |     | X   | X   |     | X   | 18%  |         |           |
+| 11 SIMULADOR           | EMPRES.           |     |     |     |     | X   | 13%  |         |           |
+| PESO                   | RA 12%            | 26% | 21% | 10% | 6%  | 25% | 100% | 100%    |           |
 
 Una vez realizado el cuadro anterior, conocemos en qué medida se valorarán cada uno de los resultados de aprendizaje a final de curso. A continuación, planteamos los criterios de calificación de cada resultado de aprendizaje por evaluaciones:
 
 Tabla 10
 
-| RA | 1ª evaluación | 2ª Evaluación (evaluación ordinaria) |
-|------|-----------------|----------------------------------------|
-| 16% | 9% | RA1 |
-| 50% | 24% | RA2 |
-| 2% | 18% | RA3 |
-| 8% | 13% | RA4 |
-| 0% | 3% | RA5 |
-| 24% | 33% | RA6 |
-| 100% | 100% | TOTAL |
+| RA   | 1ª evaluación | 2ª Evaluación (evaluación ordinaria) |
+| ---- | ------------- | ------------------------------------ |
+| 16%  | 9%            | RA1                                  |
+| 50%  | 24%           | RA2                                  |
+| 2%   | 18%           | RA3                                  |
+| 8%   | 13%           | RA4                                  |
+| 0%   | 3%            | RA5                                  |
+| 24%  | 33%           | RA6                                  |
+| 100% | 100%          | TOTAL                                |
 
 ## 4.4. PROCEDIMIENTO DE EVALUACIÓN Y CRITERIOS DE RECUPERACIÓN
 
@@ -3548,19 +3394,16 @@ De forma más concreta, vamos a tener en cuenta dos aspectos:
 - Atención a la diversidad como norma en el aula : partiendo del principio de individualización de la enseñanza (todos los alumnos son diferentes y hay que atender a cada uno teniendo en cuenta su particularidad) se diseñarán actividades de refuerzo y ampliación, se empleará una metodología que permita diferentes ritmos de aprendizaje, evaluación inicial, aprendizaje significativo, etc.
 - Programa de refuerzo y recuperación para aquellos alumnos que tengan criterios de evaluación mínimos no superados, tanto después de la 1ª como de la 2ª evaluación.
 
-
-
-
 ## 7. ACTIVIDADES COMPLEMENTARIAS
 
 Las actividades propuestas para el curso 2016/17 son las siguientes:
 
 Tabla 11
 
-| ACTIVIDAD | OBJETIVOS | FECHA | CONTENIDOS GRUPOS |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------|------------------------------------------------------|
-| Jornadas de creatividad Selecciona una idea de negocio , analizando el mercado | Fuentes de búsqueda de ideas | 3 de octubre de 2016 | II 2º CCFF ADM |
-| Determina la organización interna de la empresa, la forma jurídica y los recursos necesarios , analizando las alternativas disponibles y los objetivos marcados con el proyecto | La actividad empresarial. La organización funcional en la empresa. Gestión de los recursos humanos. Responsabilidad social de la empresa. Asignación de recursos. El plan de aprovisionamiento. | 2ª evaluación | Taller sobre calidad. Benchmarking y QFD 2º CCFF ADM |
+| ACTIVIDAD                                                                                                                                                                       | OBJETIVOS                                                                                                                                                                                       | FECHA                | CONTENIDOS GRUPOS                                    |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------- | ---------------------------------------------------- |
+| Jornadas de creatividad Selecciona una idea de negocio , analizando el mercado                                                                                                  | Fuentes de búsqueda de ideas                                                                                                                                                                    | 3 de octubre de 2016 | II 2º CCFF ADM                                       |
+| Determina la organización interna de la empresa, la forma jurídica y los recursos necesarios , analizando las alternativas disponibles y los objetivos marcados con el proyecto | La actividad empresarial. La organización funcional en la empresa. Gestión de los recursos humanos. Responsabilidad social de la empresa. Asignación de recursos. El plan de aprovisionamiento. | 2ª evaluación        | Taller sobre calidad. Benchmarking y QFD 2º CCFF ADM |
 
 Jorge Arevalo
 
@@ -3607,7 +3450,6 @@ GRACIAS ESPECIALES
 ## PROVERVIO HOLANDES
 
 Cuando soplan los vientos de tempestad, unos corren a refugiarse... otros construyen molinos
-
 
 UNETE A NUESTRO CANAL:
 

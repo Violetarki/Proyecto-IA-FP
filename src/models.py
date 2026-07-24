@@ -57,3 +57,4 @@ class Chunk:
     texto: str
     titulo: str | None = None
     subtitulo: str | None = None
+    # subseccion: str | None = None
