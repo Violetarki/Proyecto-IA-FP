@@ -29,10 +29,11 @@ from chunker import crear_chunks_documentos
 from embeddings import crear_embeddings_chunks
 from vector_store import VectorStore
 
-CARPETA_DOCUMENTOS = Path("documents")
-CARPETA_MARKDOWN_RAW = Path("data/markdown_raw")
-CARPETA_MARKDOWN_CLEAN = Path("data/markdown_clean")
-
+from config import (
+    CARPETA_DOCUMENTOS,
+    CARPETA_MARKDOWN_RAW,
+    CARPETA_MARKDOWN_CLEAN,
+)
 
 def indexar_documentos() -> None:
     """
