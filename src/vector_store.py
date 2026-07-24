@@ -18,9 +18,9 @@ necesario modificar este módulo.
 
 import chromadb
 import numpy as np
-
+from pathlib import Path
 from models import Chunk, Documento, Metodologia
-
+from config import CARPETA_VECTOR_STORE
 
 class VectorStore:
     """
@@ -34,7 +34,7 @@ class VectorStore:
     def __init__(
         self,
         collection_name: str = "chunks",
-        persist_directory: str = "data/vector_store",
+        persist_directory: str | Path = CARPETA_VECTOR_STORE,
     ) -> None:
         """
         Inicializa la conexión con la base vectorial.

@@ -2,10 +2,10 @@
 
 import re
 from pathlib import Path
-
-MARKDOWN_RAW = Path("data") / "markdown_raw"
-MARKDOWN_CLEAN = Path("data") / "markdown_clean"
-
+from config import (
+    CARPETA_MARKDOWN_RAW,
+    CARPETA_MARKDOWN_CLEAN,
+)
 
 CABECERAS_PIES_RUIDO = {
     "Lean Startup en Educación",
@@ -261,9 +261,9 @@ def limpiar_markdowns(
 
     for ruta_entrada in rutas_markdown:
 
-        ruta_relativa = ruta_entrada.relative_to(MARKDOWN_RAW)
+        ruta_relativa = ruta_entrada.relative_to(CARPETA_MARKDOWN_RAW)
 
-        ruta_salida = MARKDOWN_CLEAN / ruta_relativa
+        ruta_salida = CARPETA_MARKDOWN_CLEAN / ruta_relativa
 
         ruta_limpia = limpiar_archivo_markdown(
             ruta_entrada,

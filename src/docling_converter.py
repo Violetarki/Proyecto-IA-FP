@@ -10,12 +10,11 @@ de la carpeta donde se encuentra el PDF.
 """
 
 from pathlib import Path
-
 from docling.document_converter import DocumentConverter
-
+from config import CARPETA_MARKDOWN_RAW
 
 converter = DocumentConverter()
-CARPETA_MARKDOWN_RAW = Path("data") / "markdown_raw"
+
 
 def convertir_pdf_a_markdown(ruta_pdf: str | Path) -> Path:
     """
