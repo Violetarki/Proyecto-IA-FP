@@ -117,7 +117,7 @@ Como dijo el mismo Edison en otra ocasión: «Muchos fracasos de la vida han sid
 
 En este apartado vamos a recordar algunos conceptos que te serán útiles para realizar la Simulación, tales como:
 
-iniciativa creatividad emprendedor innovación frustración logotipo idea hueco de mercado plan ele empresa necesidades riesgo utilidad ubicación tecnología
+iniciativa, creatividad, emprendedor, innovación, frustración, logotipo, idea, hueco de mercado, plan de empresa, necesidades, riesgo, utilidad, ubicación, tecnología
 
 ## A. Emprendedor
 
@@ -627,9 +627,9 @@ Las actividades de simulación realizadas en esta unidad te han servido para sel
 
 ## Síntesis
 
-Emprendedor: indetifica oportunidades, organiza recursos, cualidades específicas y trabaja (por cuenta propia o por cuenta ajena)
+Emprendedor: identifica oportunidades, organiza recursos, cualidades específicas y trabaja (por cuenta propia o por cuenta ajena)
 
-Idea: Util(satisface necesidades reales, percibidas por el cliente o creadas por la empresa) o Innovadora(original y diferente en: Producto, Proceso, Marketing y Organización)
+Idea: Util (satisface necesidades reales, percibidas por el cliente o creadas por la empresa) o Innovadora (original y diferente en: Producto, Proceso, Marketing y Organización)
 
 Plan de empresa:
 
@@ -898,7 +898,7 @@ Y continúan los esfuerzos. Panrico sigue luchando por cambiar la mala imagen ge
 
 En este apartado vamos a recordar algunos conceptos que te serán útiles para realizar la Simulación, tales como:
 
-departamentos plan de producción ética empresarial plan de marketing organigrama mercado DAFO competencia proveedores clientes distribuidores entorno
+departamentos, plan de producción, ética empresarial, plan de marketing, organigrama, mercado, DAFO, competencia, proveedores, clientes, distribuidores, entorno
 
 ## A. La empresa es un sistema
 
@@ -1702,7 +1702,7 @@ Estudio de mercado:
 Plan de empresa:
 
 - Idea del negocio
-- Socios trayectoria profesiona!
+- Socios trayectoria profesional
 - --> Estudio de mercado
 - --> Plan de producción
 - Plan financiero
@@ -1949,7 +1949,7 @@ Tal vez convendría considerar cuál sería el precio a pagar si los autores, de
 
 En este apartado vamos a recordar algunos conceptos que te serán útiles para realizar la Simulación, tales como:
 
-hacienda forma jurídica seguridad social licencias capital social permisos registro mercantil participaciones documentación obras trámites responsabilidad legal sociedad acciones socios
+hacienda, forma jurídica, seguridad social, licencias, capital social, permisos, registro mercantil, participaciones, documentación, obras, trámites, responsabilidad legal, sociedad, acciones, socios
 
 ## A. Clasificación de las empresas
 
@@ -3007,7 +3007,7 @@ Los microcréditos posibilitan, especial mente en países en vías de desarrollo
 
 En este apartado vamos a recordar algunos conceptos que te serán útiles para realizar la Simulación, tales como:
 
-tipo de interés ayudas subvención renting ahorro micromecenazgo préstamo gasto incubadora aceleradora vivero crédito inversión leasing financiación descubierto beneficio factorlng confirming
+tipo de interés, ayudas, subvención, renting, ahorro, micromecenazgo, préstamo, gasto, incubadora, aceleradora, vivero, crédito, inversión, leasing, financiación, descubierto, beneficio, factoring, confirming
 
 ## A. Fuentes de financiación
 
@@ -3101,11 +3101,9 @@ Sociedad anónima laboral anónima: la transmisión de acciones es libre.
 
 Las sociedades anónimas de grandes dimensiones ponen sus acciones en circulación través de los mercados de valores: la bolsa el Mercado Alternativo Bursátil (MAB).
 
-Cotización en bolsa. Las sociedades anónimas que cumplen ciertos requisitos pueden vender sus acciones libremente en este mercado de valores. Es una opción para grandes empresas, puesto que se exige un capital mínimo superior 200000 euros. La entrada en bolsa puede suponer una importante vía de obtención de recursos, ya que los inversores están comprando una parte del accionariado de la empresa, con lo que se incrementa el capital de la compañía, si bien también genera una presión la gerencia de la empresa para tomar decisiones que sean bien acogidas por los accionis
-tas para evitar acciones que puedan dañar su imagen.
+Cotización en bolsa. Las sociedades anónimas que cumplen ciertos requisitos pueden vender sus acciones libremente en este mercado de valores. Es una opción para grandes empresas, puesto que se exige un capital mínimo superior 200000 euros. La entrada en bolsa puede suponer una importante vía de obtención de recursos, ya que los inversores están comprando una parte del accionariado de la empresa, con lo que se incrementa el capital de la compañía, si bien también genera una presión la gerencia de la empresa para tomar decisiones que sean bien acogidas por los accionistas para evitar acciones que puedan dañar su imagen.
 
-Mercado Alternativo Bursátil (MAB). Las compañías de menor tamaño facturación pueden cotizar sus acciones en
-el MAB de manera similar como cotizan las grandes empresas en la bolsa.
+Mercado Alternativo Bursátil (MAB). Las compañías de menor tamaño facturación pueden cotizar sus acciones en el MAB de manera similar como cotizan las grandes empresas en la bolsa.
 
 Ejemplo: En bolsa cotizan empresas tan conocidas como Iberia, Campofrío, Zeltia, Antena 3, NH Hoteles, Repsol, Cepsa, Abertis, Ferrovial, Telefónica, Banco Santander, BBVA Corporación Mapfre. Imaginarium es una empresa que cotiza en el MAB, al igual que Zinkia (la empresa propietaria de los derechos de Pocoyó), Gowex (experta en servicios de red inalámbrica ciudades) Bodaclick (portal web dedicado la organización de bodas).
 
@@ -3203,7 +3201,7 @@ También se puede acudir a otras fuentes de financiación ajenas, como las líne
 
 El crédito es una operación financiera en la que se pone a disposición del cliente una cantidad de dinero hasta un límite especificado. Los intereses se pagarán en caso de hacer uso del dinero y se abonarán teniendo en cuenta las cantidades utilizadas y el tiempo que se ha dispuesto de ellas. Un tipo especial de crédito son los microcréditos, que se ha analizado al inicio de la unidad.
 
-- Descubierto en cuenta o numéros rojos
+- Descubierto en cuenta o números rojos
 
 Estar al descubierto consiste en gastar un importe superior al saldo disponible en la cuenta corriente, o bien, en pagar con un cheque sin contar con fondos suficientes. En tal caso, si estaba pactado con el banco, este adelantará el importe, si bien la empresa pagará unos intereses por ello que suelen ser más altos que en otros tipos de préstamos.
 
@@ -3289,14 +3287,14 @@ la empresa financia la compra de su cliente ofreciéndole la posibilidad de paga
 
 - Descuento comercial o descuento de efectos
 
-La empresa entrega una entidad financiera los efectos pendientes de cobro de sus clientes. El banco anticipa el dinero, cambio de una comisión por la tramitación de un interés por el anticipo recibido. Los efectos son de rechos de cobro de una empresa (facturas, letras de cambio, pagarés, cheques...), debido que los clientes no han abonado aún el precio de los bienes adquiridos. El riesgo de impago lo asume siempre la empresa que cede estos efectos.
+La empresa entrega una entidad financiera los efectos pendientes de cobro de sus clientes. El banco anticipa el dinero, cambio de una comisión por la tramitación de un interés por el anticipo recibido. Los efectos son derechos de cobro de una empresa (facturas, letras de cambio, pagarés, cheques...), debido que los clientes no han abonado aún el precio de los bienes adquiridos. El riesgo de impago lo asume siempre la empresa que cede estos efectos.
 
 - Factoring
 
-Se trata de la cesión, una empresa óefactoríng, de aquellas facturas de clientes que están pendientes de cobro. La empresa conseguirá los fondos que necesita cambio de pagar una comisión por los servicios administrativos unos intereses por la anticipación del dinero. Es similar al descuento comercial, aunque referido solo facturas, si bien en el factoring se puede negociar quién asume el riesgo de impago. Así, están aceptadas dos variantes posibles:
+Se trata de la cesión, a una empresa de factoring, de aquellas facturas de clientes que están pendientes de cobro. La empresa conseguirá los fondos que necesita cambio de pagar una comisión por los servicios administrativos unos intereses por la anticipación del dinero. Es similar al descuento comercial, aunque referido solo facturas, si bien en el factoring se puede negociar quién asume el riesgo de impago. Así, están aceptadas dos variantes posibles:
 
-- a) El factoríng con recurso, en el que la empresa vendedora asuma el riesgo.
-- b) El factoríng sin recurso, donde el riesgo lo asume la empresa óefactoríng, en cuyo caso el coste financiero será mayor.
+- a) El factoring con recurso, en el que la empresa vendedora asuma el riesgo.
+- b) El factoring sin recurso, donde el riesgo lo asume la empresa de factoring, en cuyo caso el coste financiero será mayor.
 
 Tabla 4.7. Facilidades de pago.
 
@@ -3603,7 +3601,7 @@ Plazo
 
 Compromiso
 
-- La empresa deberá mantener durante almenos dos años: • El objeto social consignado. • El local y el empleado a jornada completa.
+- La empresa deberá mantener durante al menos dos años: • El objeto social consignado. • El local y el empleado a jornada completa.
 
 Condición
 
@@ -3648,7 +3646,7 @@ En la Tabla 4.11 se señalan algunos consejos para conseguir financiación a tra
 
 - Cuidar la exposición de la idea: Mostrar contenidos de calidad y una parte del proyecto. Es una manera de testar el interés que despierta el producto.
 
-- Promociones a través de las redes sociales: Cuanta más difusión se consiga, más probabilidades de captar fondos. Promocio￾narse a través de Internet ayuda tener una audiencia on-Une labrarse una reputación que genere confianza un futuro mecenas.
+- Promociones a través de las redes sociales: Cuanta más difusión se consiga, más probabilidades de captar fondos. Promocionarse a través de Internet ayuda tener una audiencia online y labrarse una reputación que genere confianza a un futuro mecenas.
 
 - Mantener informado al inversor durante el proceso: Es aconsejable documentar el proceso para ser transparente, pero también para implicarle.
 
@@ -3820,7 +3818,7 @@ En la Tabla 4.13 se enumeran algunos consejos para evitar que el proyecto empres
 
 - Presentar el prototipo del producto que se quiere comercializar: Aunque implica un gasto, siempre vende más un objeto físico que una idea, por muy buena que sea.
 
-- Brevedad en la presentación del proyecto: El tiempo que se otorga a los emprendedores para exponer su idea no suele sobrepasar los treinta minutaos. La recomendación es un resumen ejecutivo de de dos páginas y una presentación de diez diapositivas a lo sumo.
+- Brevedad en la presentación del proyecto: El tiempo que se otorga a los emprendedores para exponer su idea no suele sobrepasar los treinta minutos. La recomendación es un resumen ejecutivo de de dos páginas y una presentación de diez diapositivas a lo sumo.
 
 - Tener el plan de empresa elaborado: Es preciso contar con un buen plan de empresa extenso para, en caso de captar su atención, justificar y exponer todos los aspectos del negocio. Esto ayudará a vencer la resistencia del inversor, contando con una respuesta estudiada a cada duda que surja.
 
@@ -4384,7 +4382,7 @@ Las actividades de simulación realizadas en esta unidad te han servido para con
 
 ## Síntesis
 
-FUENTES DE FINACIACIÓN:
+FUENTES DE FINANCIACIÓN:
 
 1. Recursos propios: Capital semilla(Capital social, Cuenta ahorro-empresa, Capital riesgo, Business ángel, Crowdfunding, Coworking) o Capital de arranque/de expansión(Reservas, Nuevos socios, Subvenciones).
 
@@ -4393,7 +4391,7 @@ FUENTES DE FINACIACIÓN:
 PLAN DE EMPRESA:
 
 - Idea del negocio
-- Socios trayectoria profesiona!
+- Socios trayectoria profesional
 - Estudio de mercado
 - Plan de producción
 - --> Plan financiero
@@ -4571,7 +4569,7 @@ PLAN DE EMPRESA:
 
 En este apartado vamos a recordar algunos conceptos que te serán útiles para realizar la Simulación, tales como:
 
-ingresos y gastos beneficios y pérdidas tesorería patrimonio ratios viabilidad balance solvencia cuenta de resultados pérdidas entradas y salidas inversión liquidez
+ingresos y gastos, beneficios y pérdidas, tesorería, patrimonio, ratios, viabilidad, balance, solvencia, cuenta de resultados, pérdidas, entradas y salidas, inversión, liquidez
 
 ## A. Plan financiero
 
@@ -4601,7 +4599,7 @@ En la Tabla 5.1 se detallan distintos tipos de análisis de viabilidad:
 
 - Viabilidad económica:
 
-Evalúa si la inversión producirá una rentabilidad en términos económicos y, en caso de existir varias alternativas, cuál resultaría más eficiente, es decir, cuál de ellas supondría un coste mínimo para una óptima satisfacción. Para ello, se calcula el VAN (Valor Actual Neto), que indica la inversión necesaria después de restarle los intereses. Este indicador debe ser positivo tivo para que la inversión valga la pena. Otro indicador es el TIR (Tasa Interna de Retorno), que varía en función del VAN que señala el valor de los intereses partir del cual es rentable hacer la inversión.
+Evalúa si la inversión producirá una rentabilidad en términos económicos y, en caso de existir varias alternativas, cuál resultaría más eficiente, es decir, cuál de ellas supondría un coste mínimo para una óptima satisfacción. Para ello, se calcula el VAN (Valor Actual Neto), que indica la inversión necesaria después de restarle los intereses. Este indicador debe ser positivo para que la inversión valga la pena. Otro indicador es el TIR (Tasa Interna de Retorno), que varía en función del VAN que señala el valor de los intereses partir del cual es rentable hacer la inversión.
 
 - Viabilidad financiera:
 
@@ -4609,11 +4607,11 @@ Analiza si existen recursos suficientes para llevar cabo la actividad o, en caso
 
 - Viabilidad comercial:
 
-Estima si existe un mercado potencial para el producto la manera óptima de lanzarlo (está vinculado con el plan de marketingy con el análisis DAFO, estudiado en la Unidad 2).
+Estima si existe un mercado potencial para el producto la manera óptima de lanzarlo (está vinculado con el plan de marketing y con el análisis DAFO, estudiado en la Unidad 2).
 
 - Viabilidad legal o jurídica:
 
-Establece si la actividad cumple con la normativa vigente del área territorial donde se va a desarrollar. Es un aspecto vital cuando se busca internacionalizar la empresa, ya que no todos los paises tienen el mismo desarrollo legal. Una cuestión fundamental dentro del cumplimiento de la normativa legal es aquella relativa a los riesgos laborales. España sigue ocupando un lugar poco deseable en cuanto índice de siniestralidad, razón por la que es obligatorio que todas las empresas incorporen un plan de Prevención de riesgos.
+Establece si la actividad cumple con la normativa vigente del área territorial donde se va a desarrollar. Es un aspecto vital cuando se busca internacionalizar la empresa, ya que no todos los países tienen el mismo desarrollo legal. Una cuestión fundamental dentro del cumplimiento de la normativa legal es aquella relativa a los riesgos laborales. España sigue ocupando un lugar poco deseable en cuanto índice de siniestralidad, razón por la que es obligatorio que todas las empresas incorporen un plan de Prevención de riesgos.
 
 - Viabilidad medioambiental: Trata de definir el impacto de la actividad empresarial en el entorno natural humano, en cuanto la emisión de residuos o de generar contaminación lumínica, acústica, química, etc. Una empresa viable desde un punto de vista medioambiental es aquella que no daña la
   atmósfera, la naturaleza la población humana o, incluso, la que reduce, reutiliza recicla.
@@ -4633,7 +4631,7 @@ Fuente: Expansión. Madrid, 22 de noviembre de 2012 [en línea]
 
 ## Ejemplo 2. Viabilidad ambiental
 
-«Desde hace cinco años, una empresa colombiana llamada eoforest investiga un terreno de 200 hectáreas ubicado en la vereda Cuatro Bocas del corregimiento El Centro, para evaluar si es viable allí la construcción de un polo forestal.
+«Desde hace cinco años, una empresa colombiana llamada Geoforest investiga un terreno de 200 hectáreas ubicado en la vereda Cuatro Bocas del corregimiento El Centro, para evaluar si es viable allí la construcción de un polo forestal.
 
 Los polos forestales son grandes macizos forestales de plantaciones comerciales y de protección, que sirven para proveer de madera a una región o a un país.»
 
@@ -4684,7 +4682,7 @@ Fuente: Levante. Valencia, 22 de noviembre de 2012 [en línea]
 
 «Además de reducir la contaminación, consigue una restauración ambiental total del suelo, mediante técnicas de descontaminación biológica y química. Los ensayos fina les se realizarán en un emplazamiento real contaminado para demostrar la viabilidad [...], [...]. Y [...] del nuevo proceso. La empresa Bioxisoil cuenta con un presupuesto de casi tres millones de euros».
 
-Fuente: lagua. Madrid, 14 de noviembre de 2012 [en línea]
+Fuente: Iagua. Madrid, 14 de noviembre de 2012 [en línea]
 
 ## C. El punto muerto o umbral de rentabilidad
 
@@ -4762,38 +4760,38 @@ es una anotación realizada en el libro Diario de contabilidad, con la finalidad
 
 | Ratio | Cálculo | Interpretación |
 
-| Rentabilidad económica (RE) | RE = (BAI [Beneficio Antes de Impuestos] / activo total) x 100 Pretende conocer la rentabilidad general de la empresa, es decir, el beneficio obtenido en función de los recursos monetarios puestos a su disposición, ya sean propios o ajenos. El cálculo se efectúa teniendo en cuenta el be neficio bruto obtenido en relación con el ac tivo total de la empresa. Se expresa en térmi nos porcentuales, por lo que el resultado se multiplica por 100. El resultado ofrece una medida del porcentaje de beneficios adquiridos en relación con el capital total invertido por la empresa. | La RE ofrece una medida del porcentaje de bene ficios adquiridos en relación con el capital total invertido por la empresa. Cuanto mayor sea el valor, mayor productividad de los activos y más eficiencia de la empresa. Tan importante es su valor absoluto como su ten dencia a lo largo del tiempo (creciente o decre ciente), y su análisis en comparación con los datos de otras empresas del sector y de la competencia. La rentabilidad económica mejora si aumentan las ventas, si se incrementa el margen de benefi cios sobre ventas (vender más caro o producir más barato) o si se reduce el activo o, mejor aún, com binando estas tres variables a la vez. |
+| Rentabilidad económica (RE) | RE = (BAI [Beneficio Antes de Impuestos] / activo total) x 100 Pretende conocer la rentabilidad general de la empresa, es decir, el beneficio obtenido en función de los recursos monetarios puestos a su disposición, ya sean propios o ajenos. El cálculo se efectúa teniendo en cuenta el beneficio bruto obtenido en relación con el activo total de la empresa. Se expresa en términos porcentuales, por lo que el resultado se multiplica por 100. El resultado ofrece una medida del porcentaje de beneficios adquiridos en relación con el capital total invertido por la empresa. | La RE ofrece una medida del porcentaje de beneficios adquiridos en relación con el capital total invertido por la empresa. Cuanto mayor sea el valor, mayor productividad de los activos y más eficiencia de la empresa. Tan importante es su valor absoluto como su tendencia a lo largo del tiempo (creciente o decreciente), y su análisis en comparación con los datos de otras empresas del sector y de la competencia. La rentabilidad económica mejora si aumentan las ventas, si se incrementa el margen de beneficios sobre ventas (vender más caro o producir más barato) o si se reduce el activo o, mejor aún, com binando estas tres variables a la vez. |
 
 | Ratio | Cálculo | Interpretación |
 
-| Rentabilidad financiera (RF) | RF = (BDI [Beneficios Después de Impuestos] / recursos propios) x 100 Evalúa el beneficio que los propietarios o accionistas de la empresa están teniendo. Si se compara con la rentabilidad de otros produc tos financieros, los socios tendrán una valora ción del coste de oportunidad de invertir sus recursos en la empresa, en lugar de emplear los en otras acciones más ventajosas desde un punto de vista económico. Sin embargo, como ya señalamos en la Unidad 4, el coste de oportunidad no siempre es cuan- tificable, pues hay elementos subjetivos que no pueden valorarse con dinero, como la satis facción de desarrollar una actividad por cuenta propia o la experiencia adquirida que incre mentará posibilidades futuras. Los emprende dores de éxito siempre se han sobrepuesto a un fracaso o a situaciones adversas, y son pre cisamente estas circunstancias desfavorables las que les han hecho mejorar su competencia profesional y ser más resolutivos. La rentabilidadfinanciera se calcula dividiendo los beneficios netos entre los recursos propios de la empresa y se multiplica el resultado por cien para obtener un porcentaje. | Es fundamental el valor de este ratio de cara a con seguir nuevos inversores. Cuanto mayor sea, más atractiva será la empresa para ellos. La rentabilidad financiera puede mejorarse como el rendimiento económico, incrementando ventas o reduciendo activo o aumentando el margen sobre ventas, pero también incide un efecto llamado apalancamientofinanciero. El apalancamiento financiero consiste en usar endeudamiento para financiar una operación, es decir, pedir prestado para poder realizar alguna acción, como comprar un inmueble, activo fijo o materias primas. De esta manera, se puede gastar por un importe superior al capital que se posee, lo que incrementa la rentabilidad de la acción y eso constituye su principal ventaja. El inconveniente es el riesgo implícito a la solicitud de fondos aje nos, es decir, que la inversión no produzca el efecto deseado y no haya entonces un ingreso que ase gure la devolución del préstamo. Por ejemplo, si las materias primas compradas no se han podido vender, la empresa no consigue beneficio y com promete su solvencia. |
+| Rentabilidad financiera (RF) | RF = (BDI [Beneficios Después de Impuestos] / recursos propios) x 100 Evalúa el beneficio que los propietarios o accionistas de la empresa están teniendo. Si se compara con la rentabilidad de otros productos financieros, los socios tendrán una valoración del coste de oportunidad de invertir sus recursos en la empresa, en lugar de emplear los en otras acciones más ventajosas desde un punto de vista económico. Sin embargo, como ya señalamos en la Unidad 4, el coste de oportunidad no siempre es cuantificable, pues hay elementos subjetivos que no pueden valorarse con dinero, como la satis facción de desarrollar una actividad por cuenta propia o la experiencia adquirida que incrementará posibilidades futuras. Los emprende dores de éxito siempre se han sobrepuesto a un fracaso o a situaciones adversas, y son precisamente estas circunstancias desfavorables las que les han hecho mejorar su competencia profesional y ser más resolutivos. La rentabilidad financiera se calcula dividiendo los beneficios netos entre los recursos propios de la empresa y se multiplica el resultado por cien para obtener un porcentaje. | Es fundamental el valor de este ratio de cara a con seguir nuevos inversores. Cuanto mayor sea, más atractiva será la empresa para ellos. La rentabilidad financiera puede mejorarse como el rendimiento económico, incrementando ventas o reduciendo activo o aumentando el margen sobre ventas, pero también incide un efecto llamado apalancamiento financiero. El apalancamiento financiero consiste en usar endeudamiento para financiar una operación, es decir, pedir prestado para poder realizar alguna acción, como comprar un inmueble, activo fijo o materias primas. De esta manera, se puede gastar por un importe superior al capital que se posee, lo que incrementa la rentabilidad de la acción y eso constituye su principal ventaja. El inconveniente es el riesgo implícito a la solicitud de fondos aje nos, es decir, que la inversión no produzca el efecto deseado y no haya entonces un ingreso que asegure la devolución del préstamo. Por ejemplo, si las materias primas compradas no se han podido vender, la empresa no consigue beneficio y com promete su solvencia. |
 
 ## Tabla 5.3. Ratios para el análisis de la liquidez y la solvencia de la empresa
 
 | Ratio | Cálculo | Interpretación |
 
-| Ratio de liquidez (RL) o solvencia a corto plazo | RL = activo circulante / pasivo circulante = = (disponible + realizable + existencias) / exi gíble a corto plazo Este cociente analiza la capacidad de hacer frente al pago de las deudas que vencen antes de un año. La diferencia con el ratio de tesorería radica en que una empresa puede no tener cash, aunque puede conseguirlo de forma casi inmediata, por ejemplo, realizando unas ofertas o des cuentos para incrementar las ventas. Por este motivo, en el cálculo de este ratio se tiene en cuenta las existencias o stock que puede materializarse en dinero líquido: • El activo circulante incluye el activo dispo nible, el activo realizable y las existencias. • El pasivo circulante se compone de la financiación a corto plazo. | El valor óptimo se sitúa entre 1,5 y 2. Un dato menor alertaría sobre dificultades finan cieras; podría haber problemas de liquidez, con el riesgo de caer en una situación de suspensión de pagos. Si es muy elevado indicaría que tenemos recursos improductivos que disminuyen nuestra rentabilidad. El cociente informa, por tanto, del valor de los bie nes a los que la firma puede recurrir para hacer frente a sus deudas a corto plazo. En empresas dedicadas a actividades comerciales o industriales habrá una diferencia significativa entre el ratio de liquidez y el de tesorería. En cambio, será mínima en empresas de servicios por la falta de stock. |
+| Ratio de liquidez (RL) o solvencia a corto plazo | RL = activo circulante / pasivo circulante = = (disponible + realizable + existencias) / exigible a corto plazo Este cociente analiza la capacidad de hacer frente al pago de las deudas que vencen antes de un año. La diferencia con el ratio de tesorería radica en que una empresa puede no tener cash, aunque puede conseguirlo de forma casi inmediata, por ejemplo, realizando unas ofertas o des cuentos para incrementar las ventas. Por este motivo, en el cálculo de este ratio se tiene en cuenta las existencias o stock que puede materializarse en dinero líquido: • El activo circulante incluye el activo disponible, el activo realizable y las existencias. • El pasivo circulante se compone de la financiación a corto plazo. | El valor óptimo se sitúa entre 1,5 y 2. Un dato menor alertaría sobre dificultades financieras; podría haber problemas de liquidez, con el riesgo de caer en una situación de suspensión de pagos. Si es muy elevado indicaría que tenemos recursos improductivos que disminuyen nuestra rentabilidad. El cociente informa, por tanto, del valor de los bie nes a los que la firma puede recurrir para hacer frente a sus deudas a corto plazo. En empresas dedicadas a actividades comerciales o industriales habrá una diferencia significativa entre el ratio de liquidez y el de tesorería. En cambio, será mínima en empresas de servicios por la falta de stock. |
 
 | Ratio | Cálculo | Interpretación |
 
-| Ratio de tesorería (RT) o cociente ácido | RT = (disponible + realizable) / pasivo circu lante Este dato mide las posibilidades de respon der a las obligaciones de pago a corto plazo. Es un indicador de la distancia a la suspensión de pagos. Pone en relación el activo disponible y el activo realizable con el pasivo circulante. • El activo disponible incluye la tesorería y las inversiones financieras temporales. • El activo realizable señala los deudores que satisfarán su deuda en menos de un año. • El pasivo circulante se refiere al exigible a corto plazo, como los acreedores por deu das que vencen antes de un año. | Su valor óptimo debe estar cerca de la unidad o en torno al 0,75, lo que vendría a significar que la empresa puede cubrir los gastos venideros. Un valor por debajo de 1 alertaría sobre la falta de cash-flow o flujo de caja para atender los pagos inmediatos. Mientras que un valor muy superior a la unidad avisa de que la empresa tiene un exceso de recursos ociosos que deben ser reducidos o invertidos en un producto que ofrezca rentabi lidad. Este análisis dependerá del momento económico, ya que en una situación de crisis generalizada y de gran incertidumbre, donde las empresas acusan la interrupción de los créditos, será mejor contar con un exceso de tesorería que tener el límite de recur sos disponibles bajo. Es un ratio de situación financiera a muy corto plazo, al incluir entre los elementos activos solo aquellos que ya son disponibles o que precisan úni camente la última fase del ciclo de explotación (el cobro) para transformarse en efectivo. Los sectores que presentan mayores ratios de teso rería son los servicios financieros, los seguros y los servicios a las empresas. En los tramos inferiores del RT se encuentran la hostelería y restauración, los servicios inmobiliarios y la energía. |
+| Ratio de tesorería (RT) o cociente ácido | RT = (disponible + realizable) / pasivo circulante Este dato mide las posibilidades de responder a las obligaciones de pago a corto plazo. Es un indicador de la distancia a la suspensión de pagos. Pone en relación el activo disponible y el activo realizable con el pasivo circulante. • El activo disponible incluye la tesorería y las inversiones financieras temporales. • El activo realizable señala los deudores que satisfarán su deuda en menos de un año. • El pasivo circulante se refiere al exigible a corto plazo, como los acreedores por deu das que vencen antes de un año. | Su valor óptimo debe estar cerca de la unidad o en torno al 0,75, lo que vendría a significar que la empresa puede cubrir los gastos venideros. Un valor por debajo de 1 alertaría sobre la falta de cash-flow o flujo de caja para atender los pagos inmediatos. Mientras que un valor muy superior a la unidad avisa de que la empresa tiene un exceso de recursos ociosos que deben ser reducidos o invertidos en un producto que ofrezca rentabilidad. Este análisis dependerá del momento económico, ya que en una situación de crisis generalizada y de gran incertidumbre, donde las empresas acusan la interrupción de los créditos, será mejor contar con un exceso de tesorería que tener el límite de recur sos disponibles bajo. Es un ratio de situación financiera a muy corto plazo, al incluir entre los elementos activos solo aquellos que ya son disponibles o que precisan únicamente la última fase del ciclo de explotación (el cobro) para transformarse en efectivo. Los sectores que presentan mayores ratios de tesorería son los servicios financieros, los seguros y los servicios a las empresas. En los tramos inferiores del RT se encuentran la hostelería y restauración, los servicios inmobiliarios y la energía. |
 
 | Ratio | Cálculo | Interpretación |
 
-| Ratio de disponibi lidad (RD) | RD = disponible / exigible a corto plazo Muestra los recursos disponibles de la em presa, para conocer si están siendo infrautili- zados. | El valor debe rondar el 0,1 o 0,3 ya que se espera que los fondos líquidos supongan el 10% del total de las deudas que mantiene la empresa con un vencimiento inferior a un año. Este ratio puede tener grandes oscilaciones a lo largo del año. No obstante, la valoración del dato depende del tipo de empresa, ya que en aquellas donde se cobra de manera permanente, debido a ingresos conti nuos por ventas, el valor puede ser un poco más bajo. |
-| Ratio de garantía estructural (R E), o de solvencia total, o de distancia a la quiebra | R E = activo real / exigible total Este valor analiza la garantía que tienen los acreedores de cobrar sus deudas, puesto que pone en relación los activos totales de la empresa con las obligaciones contraídas. El activo real se calcula restando a los acti vos los gastos de constitución y de puesta en marcha. | Este ratio mide la solvencia de una manera más real, eliminando del cálculo el activo ficticio (gas tos de constitución, etc.), parte intangible y no embargable del activo total. Así, el activo real es aquel que en caso de liquidación de la empresa puede convertirse en dinero líquido para hacer frente a las posibles deudas. El resultado recomendable debe estar situado entre el 1,5-2. Por debajo de este valor, la compa ñía estaría en riesgo de quiebra, por tanto, de no poder responder a las deudas pendientes de pago. Por este motivo, también se denomina a este valor como distancia a la quiebra. Cuanto mayor es el ratio, mayor garantía ofrece la empresa del pago de todas sus deudas contraídas. |
+| Ratio de disponibilidad (RD) | RD = disponible / exigible a corto plazo Muestra los recursos disponibles de la em presa, para conocer si están siendo infrautilizados. | El valor debe rondar el 0,1 o 0,3 ya que se espera que los fondos líquidos supongan el 10% del total de las deudas que mantiene la empresa con un vencimiento inferior a un año. Este ratio puede tener grandes oscilaciones a lo largo del año. No obstante, la valoración del dato depende del tipo de empresa, ya que en aquellas donde se cobra de manera permanente, debido a ingresos continuos por ventas, el valor puede ser un poco más bajo. |
+| Ratio de garantía estructural (R E), o de solvencia total, o de distancia a la quiebra | R E = activo real / exigible total Este valor analiza la garantía que tienen los acreedores de cobrar sus deudas, puesto que pone en relación los activos totales de la empresa con las obligaciones contraídas. El activo real se calcula restando a los activos los gastos de constitución y de puesta en marcha. | Este ratio mide la solvencia de una manera más real, eliminando del cálculo el activo ficticio (gas tos de constitución, etc.), parte intangible y no embargable del activo total. Así, el activo real es aquel que en caso de liquidación de la empresa puede convertirse en dinero líquido para hacer frente a las posibles deudas. El resultado recomendable debe estar situado entre el 1,5-2. Por debajo de este valor, la compañía estaría en riesgo de quiebra, por tanto, de no poder responder a las deudas pendientes de pago. Por este motivo, también se denomina a este valor como distancia a la quiebra. Cuanto mayor es el ratio, mayor garantía ofrece la empresa del pago de todas sus deudas contraídas. |
 
 | Ratio | Cálculo | Interpretación |
 
-| Ratio de endeuda miento financiero (REF) | REF = exigible total / pasivo total Este cociente analiza el peso de las deudas respecto al pasivo total de la empresa. Por tanto, tendrá un valor alto en aquellas empresas que carecen de recursos propios para financiarse y deben acudir, por ello, a fuentes exter nas de financiación. El REF mide el riesgo financiero de la empresa e indica su capacidad de en deudamiento. | Dado que la fuente principal de financiación de la empresa deben ser los fondos propios, un valor ideal de este ratio es alrededor de 0,5, lo que indicaría un equilibrio entre la deuda a corto plazo y el capital permanente de la empresa; en otras palabras, que la empresa se financia tanto con recursos propios como con medios ajenos. Cuanto mayor sea el pasivo corriente, más peligro de insolvencia y de falta de liquidez para nuestra empresa y a la inversa, una deuda a largo plazo ofrecerá más margen a la empresa para responder de sus deudas. Un valor superior a 0,5 alertaría sobre el exceso de endeu damiento de la empresa o, lo que es lo mismo, sobre su descapitalización. La descapitalización supone el empobrecimiento o pér dida de riqueza de la empresa. Tiene lugar cuando los ele | Dado que la fuente principal de financiación de la empresa deben ser los fondos propios, un valor ideal de este ratio es alrededor de 0,5, lo que indicaría un equilibrio entre la deuda a corto plazo y el capital permanente de la empresa; en otras palabras, que la empresa se financia tanto con recursos propios como con medios ajenos. Cuanto mayor sea el pasivo corriente, más peligro de insolvencia y de falta de liquidez para nuestra empresa y a la inversa, una deuda a largo plazo ofrecerá más margen a la empresa para responder de sus deudas. Un valor superior a 0,5 alertaría sobre el exceso de endeu damiento de la empresa o, lo que es lo mismo, sobre su descapitalización. La descapitalización supone el empobrecimiento o pér dida de riqueza de la empresa. Tiene lugar cuando los ele | Dado que la fuente principal de financiación de la empresa deben ser los fondos propios, un valor ideal de este ratio es alrededor de 0,5, lo que indicaría un equilibrio entre la deuda a corto plazo y el capital permanente de la empresa; en otras palabras, que la empresa se financia tanto con recursos propios como con medios ajenos. Cuanto mayor sea el pasivo corriente, más peligro de insolvencia y de falta de liquidez para nuestra empresa y a la inversa, una deuda a largo plazo ofrecerá más margen a la empresa para responder de sus deudas. Un valor superior a 0,5 alertaría sobre el exceso de endeu damiento de la empresa o, lo que es lo mismo, sobre su descapitalización. La descapitalización supone el empobrecimiento o pér dida de riqueza de la empresa. Tiene lugar cuando los elementos patrimoniales pierden importancia, al aumentar el peso de su deuda. |
+| Ratio de endeuda miento financiero (REF) | REF = exigible total / pasivo total Este cociente analiza el peso de las deudas respecto al pasivo total de la empresa. Por tanto, tendrá un valor alto en aquellas empresas que carecen de recursos propios para financiarse y deben acudir, por ello, a fuentes externas de financiación. El REF mide el riesgo financiero de la empresa e indica su capacidad de endeudamiento. | Dado que la fuente principal de financiación de la empresa deben ser los fondos propios, un valor ideal de este ratio es alrededor de 0,5, lo que indicaría un equilibrio entre la deuda a corto plazo y el capital permanente de la empresa; en otras palabras, que la empresa se financia tanto con recursos propios como con medios ajenos. Cuanto mayor sea el pasivo corriente, más peligro de insolvencia y de falta de liquidez para nuestra empresa y a la inversa, una deuda a largo plazo ofrecerá más margen a la empresa para responder de sus deudas. Un valor superior a 0,5 alertaría sobre el exceso de endeudamiento de la empresa o, lo que es lo mismo, sobre su descapitalización. La descapitalización supone el empobrecimiento o pérdida de riqueza de la empresa. Tiene lugar cuando los ele | Dado que la fuente principal de financiación de la empresa deben ser los fondos propios, un valor ideal de este ratio es alrededor de 0,5, lo que indicaría un equilibrio entre la deuda a corto plazo y el capital permanente de la empresa; en otras palabras, que la empresa se financia tanto con recursos propios como con medios ajenos. Cuanto mayor sea el pasivo corriente, más peligro de insolvencia y de falta de liquidez para nuestra empresa y a la inversa, una deuda a largo plazo ofrecerá más margen a la empresa para responder de sus deudas. Un valor superior a 0,5 alertaría sobre el exceso de endeudamiento de la empresa o, lo que es lo mismo, sobre su descapitalización. La descapitalización supone el empobrecimiento o pérdida de riqueza de la empresa. Tiene lugar cuando los ele | Dado que la fuente principal de financiación de la empresa deben ser los fondos propios, un valor ideal de este ratio es alrededor de 0,5, lo que indicaría un equilibrio entre la deuda a corto plazo y el capital permanente de la empresa; en otras palabras, que la empresa se financia tanto con recursos propios como con medios ajenos. Cuanto mayor sea el pasivo corriente, más peligro de insolvencia y de falta de liquidez para nuestra empresa y a la inversa, una deuda a largo plazo ofrecerá más margen a la empresa para responder de sus deudas. Un valor superior a 0,5 alertaría sobre el exceso de endeudamiento de la empresa o, lo que es lo mismo, sobre su descapitalización. La descapitalización supone el empobrecimiento o pérdida de riqueza de la empresa. Tiene lugar cuando los elementos patrimoniales pierden importancia, al aumentar el peso de su deuda. |
 
 | Ratio | Cálculo | Interpretación |
 
-| Ratio de autonomía financiera (RAF) | RAF = recursos propios / exigible total Este valor señala la independencia de la empresa con respecto a recursos aje nos. Por esta razón, con este dato se pretende conocer el nivel óptimo de endeudamiento de una empresa. | Su valor normal debería ser superior a 1, lo que indicaría una situación de independencia de fondos ajenos. Cuanto mayor sea esta relación, menos dependerá de la compañía de acreedores. La interpretación de este dato depende del sector de acti vidad de la empresa, ya que hay actividades que requie ren un uso constante de fuentes externas de financiación, como la investigación, enseñanza o las instituciones sin fines de lucro. La independencia financiera está íntimamente ligada a la solvencia, entendida esta en sentido amplio, es decir, como la garantía aportada por los activos y por la pro ducción de flujos de tesorería para atender al coste de los recursos propios y ajenos, y al reintegro de estos últimos. Este ratio es el inverso al de endeudamiento. Como es lógico suponer, ya que miden aspectos contrapuestos, las compañías con un RAF alto tienen, en cambio, un bajo resultado en el ratio REF y viceversa. | Su valor normal debería ser superior a 1, lo que indicaría una situación de independencia de fondos ajenos. Cuanto mayor sea esta relación, menos dependerá de la compañía de acreedores. La interpretación de este dato depende del sector de acti vidad de la empresa, ya que hay actividades que requie ren un uso constante de fuentes externas de financiación, como la investigación, enseñanza o las instituciones sin fines de lucro. La independencia financiera está íntimamente ligada a la solvencia, entendida esta en sentido amplio, es decir, como la garantía aportada por los activos y por la pro ducción de flujos de tesorería para atender al coste de los recursos propios y ajenos, y al reintegro de estos últimos. Este ratio es el inverso al de endeudamiento. Como es lógico suponer, ya que miden aspectos contrapuestos, las compañías con un RAF alto tienen, en cambio, un bajo resultado en el ratio REF y viceversa. | Su valor normal debería ser superior a 1, lo que indicaría una situación de independencia de fondos ajenos. Cuanto mayor sea esta relación, menos dependerá de la compañía de acreedores. La interpretación de este dato depende del sector de acti vidad de la empresa, ya que hay actividades que requie ren un uso constante de fuentes externas de financiación, como la investigación, enseñanza o las instituciones sin fines de lucro. La independencia financiera está íntimamente ligada a la solvencia, entendida esta en sentido amplio, es decir, como la garantía aportada por los activos y por la pro ducción de flujos de tesorería para atender al coste de los recursos propios y ajenos, y al reintegro de estos últimos. Este ratio es el inverso al de endeudamiento. Como es lógico suponer, ya que miden aspectos contrapuestos, las compañías con un RAF alto tienen, en cambio, un bajo resultado en el ratio REF y viceversa. |
+| Ratio de autonomía financiera (RAF) | RAF = recursos propios / exigible total Este valor señala la independencia de la empresa con respecto a recursos aje nos. Por esta razón, con este dato se pretende conocer el nivel óptimo de endeudamiento de una empresa. | Su valor normal debería ser superior a 1, lo que indicaría una situación de independencia de fondos ajenos. Cuanto mayor sea esta relación, menos dependerá de la compañía de acreedores. La interpretación de este dato depende del sector de actividad de la empresa, ya que hay actividades que requieren un uso constante de fuentes externas de financiación, como la investigación, enseñanza o las instituciones sin fines de lucro. La independencia financiera está íntimamente ligada a la solvencia, entendida esta en sentido amplio, es decir, como la garantía aportada por los activos y por la producción de flujos de tesorería para atender al coste de los recursos propios y ajenos, y al reintegro de estos últimos. Este ratio es el inverso al de endeudamiento. Como es lógico suponer, ya que miden aspectos contrapuestos, las compañías con un RAF alto tienen, en cambio, un bajo resultado en el ratio REF y viceversa. | Su valor normal debería ser superior a 1, lo que indicaría una situación de independencia de fondos ajenos. Cuanto mayor sea esta relación, menos dependerá de la compañía de acreedores. La interpretación de este dato depende del sector de actividad de la empresa, ya que hay actividades que requieren un uso constante de fuentes externas de financiación, como la investigación, enseñanza o las instituciones sin fines de lucro. La independencia financiera está íntimamente ligada a la solvencia, entendida esta en sentido amplio, es decir, como la garantía aportada por los activos y por la producción de flujos de tesorería para atender al coste de los recursos propios y ajenos, y al reintegro de estos últimos. Este ratio es el inverso al de endeudamiento. Como es lógico suponer, ya que miden aspectos contrapuestos, las compañías con un RAF alto tienen, en cambio, un bajo resultado en el ratio REF y viceversa. | Su valor normal debería ser superior a 1, lo que indicaría una situación de independencia de fondos ajenos. Cuanto mayor sea esta relación, menos dependerá de la compañía de acreedores. La interpretación de este dato depende del sector de actividad de la empresa, ya que hay actividades que requieren un uso constante de fuentes externas de financiación, como la investigación, enseñanza o las instituciones sin fines de lucro. La independencia financiera está íntimamente ligada a la solvencia, entendida esta en sentido amplio, es decir, como la garantía aportada por los activos y por la producción de flujos de tesorería para atender al coste de los recursos propios y ajenos, y al reintegro de estos últimos. Este ratio es el inverso al de endeudamiento. Como es lógico suponer, ya que miden aspectos contrapuestos, las compañías con un RAF alto tienen, en cambio, un bajo resultado en el ratio REF y viceversa. |
 
 | Ratio | Cálculo | Interpretación |
 
-| Fondo de maniobra (FM) | FM = activo corriente - pasivo corriente / FM = activo no corriente - patrimonio neto - pasivo no corriente. Es una medida de seguridad con que la empresa puede hacer frente al potencial descuadre entre la corriente de cobros y la de pagos. Con el fin de evitar problemas financieros, es preciso que lo que se cobre antes de un año sea superior a los pagos pendientes del mismo periodo de tiempo. Este ratio se calcula de dos maneras diferentes: o bien, como el activo cir culante menos el pasivo circulante, o bien, como el activo fijo menos el pasivo fijo. | Un valor negativo genera desconfianza hacia la viabili dad de la empresa, ya que parte del activo inmovilizado se financia con los recursos ajenos a corto plazo, es decir, con las deudas pendientes de cobro en un plazo inferior a un año. En esta figura se puede observar la representación gráfica del fondo de maniobra. Hay que destacar que los nom bres con los que se designan los diferentes elementos varían, sin embargo, ambas figuras representan lo mismo (Fig. 5.2). |
+| Fondo de maniobra (FM) | FM = activo corriente - pasivo corriente / FM = activo no corriente - patrimonio neto - pasivo no corriente. Es una medida de seguridad con que la empresa puede hacer frente al potencial descuadre entre la corriente de cobros y la de pagos. Con el fin de evitar problemas financieros, es preciso que lo que se cobre antes de un año sea superior a los pagos pendientes del mismo periodo de tiempo. Este ratio se calcula de dos maneras diferentes: o bien, como el activo circulante menos el pasivo circulante, o bien, como el activo fijo menos el pasivo fijo. | Un valor negativo genera desconfianza hacia la viabilidad de la empresa, ya que parte del activo inmovilizado se financia con los recursos ajenos a corto plazo, es decir, con las deudas pendientes de cobro en un plazo inferior a un año. En esta figura se puede observar la representación gráfica del fondo de maniobra. Hay que destacar que los nombres con los que se designan los diferentes elementos varían, sin embargo, ambas figuras representan lo mismo (Fig. 5.2). |
 
 ### Fig. 5.2. Fondo de maniobra.
 
@@ -4827,7 +4825,7 @@ Una situación menos grave y que no inhabilita al empresario para continuar con 
 
 sucede cuando la empresa dispone de patrimonio para responder a sus deudas, pero carece de liquidez. Por ejemplo, tiene naves y locales comerciales, pero necesita venderlos para transformarlos en recursos monetarios. Por ello, es la propia empresa la que solicita al juez la suspensión de pagos. Con ello pretende paralizar las reclamaciones de deuda.
 
-El juez, en tal caso, deberá analizar los datos que aporte la empresa relativos a montante de deudas, relación de acreedores, causas de la falta de liquidez, recursos para hacerles frente y propuesta para abonar sus deudas en un plazo determinado. Si estima razonable la suspen sión de pagos se acordará una reunión entre el empresario, los acreedores y el juez para nego ciar la satisfacción de estos pagos. De este encuentro saldrá un acuerdo, aprobado por todos, en el que se reestablezcan las nuevas condiciones para el abono de las cantidades debidas.
+El juez, en tal caso, deberá analizar los datos que aporte la empresa relativos a montante de deudas, relación de acreedores, causas de la falta de liquidez, recursos para hacerles frente y propuesta para abonar sus deudas en un plazo determinado. Si estima razonable la suspensión de pagos se acordará una reunión entre el empresario, los acreedores y el juez para negociar la satisfacción de estos pagos. De este encuentro saldrá un acuerdo, aprobado por todos, en el que se restablezcan las nuevas condiciones para el abono de las cantidades debidas.
 
 ## Ejemplo 4. Ratios de El Corte Inglés
 
@@ -4865,7 +4863,7 @@ Fuente: Fuente: http://www.scribd.eom/fullscreen/86055885?access_key=key-1is9l5a
 
 ## Simulación empresarial
 
-El objetivo en esta unidad es que elabores el plan financiero de tu empresa. Para ello, realizarás previamente el plan de tesorería, la cuenta de pérdidas y ganancias y el balance de situación. Después analizarás los datos con el fin de identificar la viabilidad de tu empresa. Al finalizar el tema recogerás toda esta informa ción para el plan de empresa, en un apartado denominado: Plan financiero.
+El objetivo en esta unidad es que elabores el plan financiero de tu empresa. Para ello, realizarás previamente el plan de tesorería, la cuenta de pérdidas y ganancias y el balance de situación. Después analizarás los datos con el fin de identificar la viabilidad de tu empresa. Al finalizar el tema recogerás toda esta información para el plan de empresa, en un apartado denominado: Plan financiero.
 
 ## Fase 1. Cálculos previos
 
@@ -4883,11 +4881,11 @@ Antes de elaborar el plan financiero hay una serie de datos relativos a ingresos
 
 - Fuentes de financiación
 
-Retoma las decisiones adoptadas en la Simulación de la unidad anterior, ya que el capital conseguido habrá que incor porarlo en los documentos que incluye el plan financiero.
+Retoma las decisiones adoptadas en la Simulación de la unidad anterior, ya que el capital conseguido habrá que incorporarlo en los documentos que incluye el plan financiero.
 
 - Ventas previstas
 
-Realiza una estimación de los clientes que tendréis durante el primer mes de apertura del negocio y tradúcelo a com pras, según lo que penséis que van a adquirir. Si te resulta dificultoso realizar la aproximación por mes, hazlo por sema nas o por días y luego multiplícalo por el número de días que tenga el mes.
+Realiza una estimación de los clientes que tendréis durante el primer mes de apertura del negocio y tradúcelo a compras, según lo que penséis que van a adquirir. Si te resulta dificultoso realizar la aproximación por mes, hazlo por semanas o por días y luego multiplícalo por el número de días que tenga el mes.
 
 Aunque este paso puede parecer complicado, es un elemento necesario que debe estar incluido en todo plan de empresa. De ahí la necesidad de que los emprendedores tengan un conocimiento del sector o experiencia en negocios previos. En tu caso, tienes esa carencia, pero puedes compensarla con ayuda de tus profesores del ciclo, con familiares o amigos que estén trabajando en el sector, buscando datos en Internet y con tu intuición.
 
@@ -4925,7 +4923,7 @@ Para fijar el salario del trabajador tienes que tener dos datos en cuenta:
 
 Puedes simplificar el cálculo fijando un salario que esté por encima de lo que se suele remunerar a un empleado; de esa manera, aseguras su permanencia y su posible negativa a trabajar en un negocio que no está consolidado.
 
-Una vez que tengas estas cifras, debes añadirle el coste de las cuotas empresariales a la Seguridad Social. Como ya aprendiste en FOL, hay que calcular la base de cotización y, sobre ella, aplicar un porcentaje. Sin embargo, para no com plicar el cálculo puedes simplificarlo aplicando un 30% al salario del trabajador. Con eso ya tienes un dato aproximado del coste salarial, que debes incluir en el plan financiero.
+Una vez que tengas estas cifras, debes añadirle el coste de las cuotas empresariales a la Seguridad Social. Como ya aprendiste en FOL, hay que calcular la base de cotización y, sobre ella, aplicar un porcentaje. Sin embargo, para no complicar el cálculo puedes simplificarlo aplicando un 30% al salario del trabajador. Con eso ya tienes un dato aproximado del coste salarial, que debes incluir en el plan financiero.
 
 ## Presupuesto de obras o reformas del local
 
@@ -4958,7 +4956,7 @@ Esta forma de amortización es la más frecuente en España.
 
 - Amortización con cuota creciente
 
-La cuota va aumentando con el paso del tiempo. Permite pagar menos cantidad al principio, que es cuando más pro blemas de liquidez se tiene, a cambio de incrementar el valor de la cuota según transcurre el tiempo. El problema es que la previsión de gastos hay que ir incrementándola, lo que reduce las posibilidades de contar con un incremento de los beneficios.
+La cuota va aumentando con el paso del tiempo. Permite pagar menos cantidad al principio, que es cuando más problemas de liquidez se tiene, a cambio de incrementar el valor de la cuota según transcurre el tiempo. El problema es que la previsión de gastos hay que ir incrementándola, lo que reduce las posibilidades de contar con un incremento de los beneficios.
 
 Otra opción, si se quiere reducir el peso de la deuda al principio, es negociar un préstamo con carencia, que son aquellos en los que durante un tiempo no se amortiza capital sino solo intereses, razón por la cual al finalizar el tiempo de carencia la cuota se incrementa significativamente.
 
@@ -4966,9 +4964,9 @@ Otra opción, si se quiere reducir el peso de la deuda al principio, es negociar
 
 La cuota se reduce con el paso del tiempo, debido a que se amortiza en cada pago la misma cantidad de capital y los intereses sobre el dinero pendiente de devolución. Por esa razón, la cuota se va reduciendo, lo que aligera el peso de la deuda y las finanzas de la empresa. A cambio, la carga inicial es alta.
 
-Con el fin de conocer cuál es la cuota mensual a pagar, se han creado las tablas o cuadros de amortización de prés tamo, en la que se concretan los pagos mensuales, aclarando qué parte corresponde a amortización de capital y qué parte al pago de intereses. Hay muchas webs que publican tablas de amortización en blanco para que los usuarios introduzcan sus datos y conozcan así de antemano la previsión de gastos que van a generar. Otra ventaja adicional es que variando el importe a solicitar, el plazo o el tipo de interés, se generan diferentes cuotas, de manera que se puede seleccionar la opción más interesante para cada caso.
+Con el fin de conocer cuál es la cuota mensual a pagar, se han creado las tablas o cuadros de amortización de préstamo, en la que se concretan los pagos mensuales, aclarando qué parte corresponde a amortización de capital y qué parte al pago de intereses. Hay muchas webs que publican tablas de amortización en blanco para que los usuarios introduzcan sus datos y conozcan así de antemano la previsión de gastos que van a generar. Otra ventaja adicional es que variando el importe a solicitar, el plazo o el tipo de interés, se generan diferentes cuotas, de manera que se puede seleccionar la opción más interesante para cada caso.
 
-Te proponemos como ejemplo, consultar el simulador de Bankimia, una web especializada en la comparativa de produc tos financieros, http://www.bankimia.com/simulador-de-hipotecas. Obtendrás una tabla como la que se muestra más abajo. Realiza tantas simulaciones como quieras, sin olvidarte de seleccionar en cada caso la opción Mostrar cuadro de amortización. El resultado será parecido a este que se muestra. Anota la cuota a devolver cada mes para incorporarla en el Plan de tesorería y el resto de documentos.
+Te proponemos como ejemplo, consultar el simulador de Bankimia, una web especializada en la comparativa de productos financieros, http://www.bankimia.com/simulador-de-hipotecas. Obtendrás una tabla como la que se muestra más abajo. Realiza tantas simulaciones como quieras, sin olvidarte de seleccionar en cada caso la opción Mostrar cuadro de amortización. El resultado será parecido a este que se muestra. Anota la cuota a devolver cada mes para incorporarla en el Plan de tesorería y el resto de documentos.
 
 | 1   | 1   | 143,74 € | 13,69€  | 130,05 € | 8069,95 €  | -   |
 | --- | --- | -------- | ------- | -------- | ---------- | --- |
@@ -4989,16 +4987,16 @@ Te proponemos como ejemplo, consultar el simulador de Bankimia, una web especial
 - a) La mayoría utilizan el sistema francés o de cuotas fijas en sus cálculos.
 - b) A los gastos mensuales hay que añadir los gastos iniciales de constitución del préstamo, relativos a notaría, pago de impuestos, etc. En general, se suele prever un 10% del importe del préstamo.
 - c) Estos simuladores no incluyen condiciones particulares que se pueden pactar con un banco, como las comisiones.
-- d) Si el tipo de interés es variable, la cuota cambiará cada vez que se revise el préstamo (una vez al año suele ser lo habitual). Por ello, hay que realizar una provisión de fondos mayor de la estimada para los primeros meses que se actualice la cuota. Si es inferior, ese dinero previsto se podrá emplear en otro gasto, pero es preferible inmovilizar un capital por un tiempo antes que tener que renegociar la deuda. Nuestra fiabilidad como acreedores quedará en entredicho y puede comprometer otros préstamos, créditos o servicios de confirming ofactoring que quera mos contratar con la entidad bancaria.
-- e) El coste del préstamo será más próximo a la TAE (Tasa Anual Equivalente), que al TIN (Tipo de Interés Nominal). Es frecuente que las entidades financieras anuncien e informen, en un primer momento, del TIN a pagar por el préstamo solicitado. Sin embargo, cada préstamo incluye unas condiciones particulares en concepto de comisio nes y gastos. La comparación entre una entidad financiera y otra es difícil, razón por la cual es prescriptivo que se informe también sobre la TAE, que sería un porcentaje mayor que el TIN porque incluye estos otros costes.
+- d) Si el tipo de interés es variable, la cuota cambiará cada vez que se revise el préstamo (una vez al año suele ser lo habitual). Por ello, hay que realizar una provisión de fondos mayor de la estimada para los primeros meses que se actualice la cuota. Si es inferior, ese dinero previsto se podrá emplear en otro gasto, pero es preferible inmovilizar un capital por un tiempo antes que tener que renegociar la deuda. Nuestra fiabilidad como acreedores quedará en entredicho y puede comprometer otros préstamos, créditos o servicios de confirming o factoring que queramos contratar con la entidad bancaria.
+- e) El coste del préstamo será más próximo a la TAE (Tasa Anual Equivalente), que al TIN (Tipo de Interés Nominal). Es frecuente que las entidades financieras anuncien e informen, en un primer momento, del TIN a pagar por el préstamo solicitado. Sin embargo, cada préstamo incluye unas condiciones particulares en concepto de comisiones y gastos. La comparación entre una entidad financiera y otra es difícil, razón por la cual es prescriptivo que se informe también sobre la TAE, que sería un porcentaje mayor que el TIN porque incluye estos otros costes.
 
-Los bancos y cajas están obligados por ley a publicar la TAE de los préstamos, aunque en el caso de tipos de inte rés variables esta cifra variará a medida que el criterio para fijar el interés (que suele ser el Euribor) aumente o descienda. Puedes ampliar esta información en este enlace:
+Los bancos y cajas están obligados por ley a publicar la TAE de los préstamos, aunque en el caso de tipos de interés variables esta cifra variará a medida que el criterio para fijar el interés (que suele ser el Euribor) aumente o descienda. Puedes ampliar esta información en este enlace:
 
 http://www.elblogsalmon.com/conceptos-de-economia/que-es-el-euribor-2
 
 ## Actividad de simulación 1
 
-Recopila todos los datos numéricos calculados en esta primera fase y añádeles los re gistrados en fases anteriores. Todos ellos deben estar incluidos en los tres documentos que componen el Plan financiero, de forma que el proyecto de empresa mantendrá una coherencia constante.
+Recopila todos los datos numéricos calculados en esta primera fase y añádeles los registrados en fases anteriores. Todos ellos deben estar incluidos en los tres documentos que componen el Plan financiero, de forma que el proyecto de empresa mantendrá una coherencia constante.
 
 Ayuda práctica:
 
@@ -5043,7 +5041,7 @@ En el plan de tesorería de esta compañía no se realizará ninguna anotación 
 - ¿Estamos en riesgo de impago y, por tanto, de no poder ser abastecidos por los proveedores?
 - ¿Estamos en riesgo de no pagar los suministros necesarios para el funcionamiento normal?
 - ¿Tenemos asegurado el pago de nóminas?
-- ¿Tenemos exceso de liquidez y deberíamos contratar algún producto financiero para obte ner alguna rentabilidad?
+- ¿Tenemos exceso de liquidez y deberíamos contratar algún producto financiero para obtener alguna rentabilidad?
 - ¿Es buen momento para realizar obras o comprar algún activo fijo?
 - ¿Es viable la empresa desde un punto de vista financiero?
 
@@ -5064,15 +5062,15 @@ Elabora el plan de tesorería de vuestra empresa, crea una tabla Excel para faci
 
 Ayuda práctica:
 
-- a) Registra cada dato en el mes que se produzca, teniendo en cuenta que solo se ano tarán los ingresos y los gastos efectivos, en lugar de anotar compras que no se han pagado o ventas que no se han cobrado. Recuerda que si alguna cantidad no se ha pa gado o no se ha cobrado, no se anotará, aunque se haya realizado la transacción co mercial. Se impone el principio de prudencia, para no realizar anotaciones antes de tiempo.
+- a) Registra cada dato en el mes que se produzca, teniendo en cuenta que solo se anotarán los ingresos y los gastos efectivos, en lugar de anotar compras que no se han pagado o ventas que no se han cobrado. Recuerda que si alguna cantidad no se ha pagado o no se ha cobrado, no se anotará, aunque se haya realizado la transacción comercial. Se impone el principio de prudencia, para no realizar anotaciones antes de tiempo.
 - b) En las tablas no se incluye el signo € porque es innecesario, además podría inducir a error si se confunde con un dato numérico.
-- c) El valor de la maquinaria o de los ordenadores se registra en su totalidad, con indepen dencia de cuánto tiempo de vida útil tenga el elemento adquirido.
+- c) El valor de la maquinaria o de los ordenadores se registra en su totalidad, con independencia de cuánto tiempo de vida útil tenga el elemento adquirido.
 - d) En el alquiler de locales es habitual incluir una fianza equivalente a dos meses de importe. Este dinero será custodiado por el arrendador y devuelto a la finalización del contrato si no se han producido daños en la instalación. A pesar de que es una cantidad que se espera recuperar, debe anotarse por tratarse de un dinero del que no disponemos.
 - e) Existen aplicaciones informáticas creadas para facilitar la tarea contable. Algunas de ellas son gratuitas y pueden ser útiles al inicio de la actividad emprendedora, cuando la contabilidad es sencilla de llevar.
 - f) En tal caso, también puede ser útil la confección personal de tus propias hojas de cálculo, sencillas y personalizadas a tu interés.
 - g) Una vez tengáis una hoja de cálculo preparada, incluid todas las entradas y las salidas de dinero en el momento que se produzcan. Aunque es una simulación virtual, esta actividad te servirá para tener un acercamiento a uno de los problemas de la realidad emprendedora: prever todos los gastos e ingresos durante un año para, en función de eso, seguir adelante o no con el proyecto empresarial.
 
-Para que tengas una referencia, a continuación se proponen dos Casos prácticos sobre la ela boración del plan de tesorería de dos empresas distintas, con sus correspondientes soluciones. Es aconsejable, antes de empezar a elaborar el plan de tesorería de vuestra empresa, intentar resolver lo que pide el enunciado antes de consultar la solución, de este modo se pueden observar los errores producidos y las confusiones que se tienen.
+Para que tengas una referencia, a continuación se proponen dos Casos prácticos sobre la elaboración del plan de tesorería de dos empresas distintas, con sus correspondientes soluciones. Es aconsejable, antes de empezar a elaborar el plan de tesorería de vuestra empresa, intentar resolver lo que pide el enunciado antes de consultar la solución, de este modo se pueden observar los errores producidos y las confusiones que se tienen.
 
 ## Caso práctico 1. Aurora Moreno, S.LU. (Parte 1: Plan de tesorería)
 
@@ -5082,7 +5080,7 @@ Realiza unas obras en el local por valor de 14000 euros pero las paga en dos pla
 
 Los ingresos por ventas previstas son de 2 000 euros de febrero a mayo y, a partir de ahí, 5 000 euros hasta noviembre, incluido. En diciembre los ingresos y los gastos aumentan, ya que rea liza una compra de maquinaria nueva, por valor de 15 000 euros, y eso le permite incrementar la facturación a 50000 euros en ese mes. Cada mes compra 3000 euros de materia prima, salvo en diciembre, que asciende a 100000 euros.
 
-Contrata a dos trabajadores a cada uno de los cuales asigna un sueldo de 1000 euros netos mensuales, a los que hay que añadir el coste de 125 euros mensuales, por cada uno, en con cepto de cotización a la Segundad Social. Durante los meses de junio y diciembre estas cifras se duplican por tener que abonarles la paga extra. Aurora, de momento, no se ha fijado salario, esperará a final de año para asignarse una parte de los beneficios de la empresa.
+Contrata a dos trabajadores a cada uno de los cuales asigna un sueldo de 1000 euros netos mensuales, a los que hay que añadir el coste de 125 euros mensuales, por cada uno, en concepto de cotización a la Segundad Social. Durante los meses de junio y diciembre estas cifras se duplican por tener que abonarles la paga extra. Aurora, de momento, no se ha fijado salario, esperará a final de año para asignarse una parte de los beneficios de la empresa.
 
 En Suministros abona 800 euros todos los meses, salvo en diciembre, que se incrementan a 3 200 euros.
 
@@ -5092,7 +5090,7 @@ Con estos datos elabora el Plan de tesorería.
 
 ## Solución:
 
-| -------------------------------------------- | --- | ------ | ------ | ------ | ------ | ------ | ----- | ----- | ----- | ----- | ----- | ------ |
+| -------------------------------------------- | ENE | FEB    | MAR    | ABR    | MAY    | JUN    | JUL   | AGO   | SEP   | OCT   | NOV   | DIC    |
 | -------------------------------------------- | --- | ------ | ------ | ------ | ------ | ------ | ----- | ----- | ----- | ----- | ----- | ------ |
 | Aportaciones de la empresaria                |     | 100000 |        |        |        |        |       |       |       |       |       |        |
 | Préstamos solicitados                        |     | 40000  |        |        |        |        |       |       |       |       |       |        |
@@ -5121,48 +5119,43 @@ Con estos datos elabora el Plan de tesorería.
 
 Julio y Miguel Martínez han decidido montar su propio negocio. En el planteamiento de este Caso práctico vamos a hacer un doble proceso. Anotaremos los ingresos y gastos que han ido teniendo a partir de los datos contenidos en su Plan de tesorería. Después, aprovecharemos esos datos para confeccionar su Plan de tesorería sin mirar los resultados.
 
-| Aportaciones de los empresarios              | 60000  |        |        |        |        |        |        |        |        |        |        |         |
-| -------------------------------------------- | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------- |
-| Préstamos solicitados                        | 90000  |        |        |        |        |        |        |        |        |        |        |         |
-| Ventas ^                                     | 10000  | 20000  | 14000  | 19000  | 10000  | 12000  | 14000  | 8000   | 10000  | 12000  | 23000  | 13000   |
-| Intereses de la cuenta bancada               | 4      | 4      | 4      |        |        |        |        |        | 4      | 4      | 4      | 4       |
-| Otros ingresos                               |        |        |        |        |        |        |        |        |        |        |        |         |
-| Total entradas                               | 160004 | 20004  | 14004  | 19004  | 10004  | 12004  | 14004  | 8004   | 10004  | 12004  | 23004  | 13004   |
-| Compra activo fijo (maquinaria, ordenadores) | 12000  |        |        |        |        |        |        |        |        |        |        |         |
-| Compra proveedores (materia prima)           | 5000   | 5000   | 5000   | 5000   | 5000   | 5000   | 5000   | 5000   | 5000   | 5000   | 5000   | 5000    |
-| Fianza                                       | 2000   |        |        |        |        |        |        |        |        |        |        |         |
-| Alquiler                                     | 1000   | 1000   | 1000   | 1000   | 1000   | 1000   | 1000   | 1000   | 1000   | 1000   | 1000   | 1000    |
-| Seguros                                      | 950    |        |        |        |        |        |        |        |        |        |        |         |
-| Devolución de préstamo                       |        |        | 3000   |        |        | 3000   |        |        | 3000   |        |        | 3000    |
-| Devolución de intereses                      |        |        | 150    |        |        | 150    |        |        | 150    |        |        | 150     |
-| Sueldos                                      | 2600   | 2600   | 2600   | 2600   | 2600   | 5200   | 2600   | 2600   | 2600   | 2600   | 2600   | 5200    |
-| Cotización a la Seg. Soc.                    | 300    | 300    | 300    | 300    | 300    | 600    | 300    | 300    | 300    | 300    | 300    | 600     |
-| Suministros: agua, luz, teléfono, etc.       | 630    | 630    | 630    | 630    | 630    | 630    | 630    | 630    | 630    | 630    | 630    | 630     |
-| Publicidad                                   | 2400   |        |        |        |        |        |        |        |        |        |        | 7600    |
-| Tributos (impuestos)                         | 1000   | 0      | 0      | 0      | 0      | 0      | 1000   | 0      | 0      | 0      | 0      | 0       |
-| Obras                                        |        |        |        |        |        |        |        |        |        |        |        |         |
-| Total salidas                                | 27880  | $530   | 12680  | 9530   | 9530   | 15580  | 10530  | 9530   | 12680  | 9530   | 9530   | 23180   |
-| Entradas-salidas(2)                          | 132124 | 10474  | 1324   | 9474   | 474    | -3S76  | 3474   | -1526  | -2676  | 2474   | 13474  | -10176  |
-| Saldo en el banco'3'                         | 132124 | 142598 | 143922 | 153396 | 153870 | 150294 | 153768 | 152242 | 149566 | 152040 | 165514 | 155338W |
+| -------------------------------------------- | ENE    | FEB    | MAR    | ABR    | MAY    | JUN    | JUL    | AGO    | SEP    | OCT    | NOV    | DIC       |
+| -------------------------------------------- | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | --------- |
+| Aportaciones de los empresarios              | 60000  |        |        |        |        |        |        |        |        |        |        |           |
+| Préstamos solicitados                        | 90000  |        |        |        |        |        |        |        |        |        |        |           |
+| Ventas (1)                                   | 10000  | 20000  | 14000  | 19000  | 10000  | 12000  | 14000  | 8000   | 10000  | 12000  | 23000  | 13000     |
+| Intereses de la cuenta bancaria              | 4      | 4      | 4      | 4      | 4      | 4      | 4      | 4      | 4      | 4      | 4      | 4         |
+| Otros ingresos                               |        |        |        |        |        |        |        |        |        |        |        |           |
+| Total entradas                               | 160004 | 20004  | 14004  | 19004  | 10004  | 12004  | 14004  | 8004   | 10004  | 12004  | 23004  | 13004     |
+| Compra activo fijo (maquinaria, ordenadores) | 12000  |        |        |        |        |        |        |        |        |        |        |           |
+| Compra proveedores (materia prima)           | 5000   | 5000   | 5000   | 5000   | 5000   | 5000   | 5000   | 5000   | 5000   | 5000   | 5000   | 5000      |
+| Fianza                                       | 2000   |        |        |        |        |        |        |        |        |        |        |           |
+| Alquiler                                     | 1000   | 1000   | 1000   | 1000   | 1000   | 1000   | 1000   | 1000   | 1000   | 1000   | 1000   | 1000      |
+| Seguros                                      | 950    |        |        |        |        |        |        |        |        |        |        |           |
+| Devolución de préstamo                       |        |        | 3000   |        |        | 3000   |        |        | 3000   |        |        | 3000      |
+| Devolución de intereses                      |        |        | 150    |        |        | 150    |        |        | 150    |        |        | 150       |
+| Sueldos                                      | 2600   | 2600   | 2600   | 2600   | 2600   | 5200   | 2600   | 2600   | 2600   | 2600   | 2600   | 5200      |
+| Cotización a la Seg. Soc.                    | 300    | 300    | 300    | 300    | 300    | 600    | 300    | 300    | 300    | 300    | 300    | 600       |
+| Suministros: agua, luz, teléfono, etc.       | 630    | 630    | 630    | 630    | 630    | 630    | 630    | 630    | 630    | 630    | 630    | 630       |
+| Publicidad                                   | 2400   |        |        |        |        |        |        |        |        |        |        | 7600      |
+| Tributos (impuestos)                         | 1000   | 0      | 0      | 0      | 0      | 0      | 1000   | 0      | 0      | 0      | 0      | 0         |
+| Obras                                        |        |        |        |        |        |        |        |        |        |        |        |           |
+| Total salidas                                | 27880  | $530   | 12680  | 9530   | 9530   | 15580  | 10530  | 9530   | 12680  | 9530   | 9530   | 23180     |
+| Entradas-salidas (2)                         | 132124 | 10474  | 1324   | 9474   | 474    | -3576  | 3474   | -1526  | -2676  | 2474   | 13474  | -10176    |
+| Saldo en el banco (3)                        | 132124 | 142598 | 143922 | 153396 | 153870 | 150294 | 153768 | 152242 | 149566 | 152040 | 165514 | 155338(4) |
 
-(1) datos de interpretación
-
-1,
-
-(2) datos de interpretación 2,
-
-(3) datos de interpretación 3,
-
+(1) datos de interpretación 1
+(2) datos de interpretación 2
+(3) datos de interpretación 3
 (4) datos de interpretación 4
 
 ## Interpretación de los datos obtenidos en el plan de tesorería de Julio y Miguel Martínez, S.L
 
 1. Las cifras de ventas han ido creciendo, salvo en los meses finales del año. Habrá que analizar la razón de este descenso y, en función de ello, establecer medidas correctoras.
-2. En este caso, los socios creen que se debe al aumento de las compras navideñas, ya que conlleva una disminución del gasto en otros aspectos menos necesarios, como es el tu neado. Se proponen lanzar algún tipo de oferta para el año como descuentos o acumula ción de puntos y canjearlo por un regalo de Reyes Magos.
-3. La fila de Entradas-Salidas muestra que todos los meses los ingresos han ido cubriendo los gastos, salvo el mes de junio, en que los gastos superaron los ingresos. Esto se debe a la carga que supone la amortización de una parte del préstamo de forma anual y al incre mento de los costes salariales, debido a que en estos meses se abonan las pagas extras. No se puede establecer ninguna medida correctiva para ahorrar costes en este caso.
-
-4. El dato final de Saldo en el banco informa de que ningún mes ha habido problemas de liquidez, por lo que no ha sido necesario acudir a fuentes de financiación externa. Sin embargo, tienen abierta una línea de crédito con su entidad bancaria, ya que la apertura y el mantenimiento no tiene ningún coste financiero y será de ayuda para cubrir posibles imprevistos o una reducción drástica e inesperada de la facturación.
-5. A pesar de finalizar con un saldo positivo de 155 338 euros, hay que tener en cuenta que, entre el capital social y el importe del préstamo, la empresa se inició con 60000 euros, además de que hay una deuda pendiente de devolución por valor de 78000 (= 90000 - 12000), por tanto, hay que ser prudentes a la hora de dar uso a este exceso de liquidez.
+   En este caso, los socios creen que se debe al aumento de las compras navideñas, ya que conlleva una disminución del gasto en otros aspectos menos necesarios, como es el tuneado. Se proponen lanzar algún tipo de oferta para el año como descuentos o acumulación de puntos y canjearlo por un regalo de Reyes Magos.
+2. La fila de Entradas-Salidas muestra que todos los meses los ingresos han ido cubriendo los gastos, salvo el mes de junio, en que los gastos superaron los ingresos. Esto se debe a la carga que supone la amortización de una parte del préstamo de forma anual y al incremento de los costes salariales, debido a que en estos meses se abonan las pagas extras. No se puede establecer ninguna medida correctiva para ahorrar costes en este caso.
+3. El dato final de Saldo en el banco informa de que ningún mes ha habido problemas de liquidez, por lo que no ha sido necesario acudir a fuentes de financiación externa. Sin embargo, tienen abierta una línea de crédito con su entidad bancaria, ya que la apertura y el mantenimiento no tiene ningún coste financiero y será de ayuda para cubrir posibles imprevistos o una reducción drástica e inesperada de la facturación.
+4. A pesar de finalizar con un saldo positivo de 155 338 euros, hay que tener en cuenta que, entre el capital social y el importe del préstamo, la empresa se inició con 60000 euros, además de que hay una deuda pendiente de devolución por valor de 78000 (= 90000 - 12000), por tanto, hay que ser prudentes a la hora de dar uso a este exceso de liquidez.
 
 ## Fase 3. Elaboración de la cuenta de resultados o cuenta de pérdidas y ganancias
 
@@ -5172,24 +5165,24 @@ La cuenta de resultados o cuenta de pérdidas y ganancias es el documento contab
 - Las pérdidas son operaciones que disminuyen el valor patrimonial de la empresa, por lo que la empresa buscará recuperar o compensar esa merma. En este segundo caso, el valor de la empresa es menor que al iniciar el ejercicio, de manera que si los socios quisieran vender sus participaciones o acciones, estas tendrían menos valor.
 - El resultado ordinario será la cantidad resultante de descontar los gastos a los ingresos, bien entendido que solo se habrán anotado aquellos que supongan ganancia o pérdida de patrimonio para la empresa. Puede venir expresado también como resultados recurrentes.
 
-El dato que los analistas suelen preferir para analizar los resultados empresariales y su evolu ción es el de Beneficio antes de intereses e impuestos (BASI), aunque es más conocido por sus siglas en inglés: EBIT o Eamings Befare Interest andTaxes.
+El dato que los analistas suelen preferir para analizar los resultados empresariales y su evolución es el de Beneficio antes de intereses e impuestos (BASI), aunque es más conocido por sus siglas en inglés: EBIT o Earnings Before Interest and Taxes.
 
 Con la intención de permitir un análisis más profundo sobre las causas de estos resultados, los datos se presentan diferenciados según se deban al resultado de explotación o al resultado financiero.
 
-- Resultado de explotación. Son los originados por el desarrollo de las actividades ordina rias de la empresa, es decir, por la actividad mercantil propia de la empresa.
+- Resultado de explotación. Son los originados por el desarrollo de las actividades ordinarias de la empresa, es decir, por la actividad mercantil propia de la empresa.
 - Resultado financiero. Son los generados por las inversiones financieras de la empresa y por la financiación ajena de la empresa.
 
 ## Ejemplo 6. Anotaciones en la cuenta de resultados
 
 Una empresa que compra materias primas por valor de un millón de euros y abona solo la mi tad, tiene que efectuar estas anotaciones.
 
-En la cuenta de resultados de ese ejercicio no se realizará ninguna anotación en ingresos, pero en astos se registrará el millón de euros, puesto que supone una pérdida, aunque no se haya pagado.
+En la cuenta de resultados de ese ejercicio no se realizará ninguna anotación en ingresos, pero en gastos se registrará el millón de euros, puesto que supone una pérdida, aunque no se haya pagado.
 
-Se incluye la cantidad total porque es el gasto que supone para la empresa y hay que cons tatarlo porque representa una pérdida de su patrimonio. Si no se hiciera así, el dato contable induciría a error. Por ejemplo, si solo hubiéramos detallado medio millón de euros como astos y, supongamos, que en el resultado final tuviéramos 400000 euros, esto nos haría creer que hemos tenido beneficios por ese valor, pero es un dato erróneo, ya que tenemos una deuda de medio millón. Por el contrario, es mucho más exacto contar con el resultado negativo final de -100000 euros.
+Se incluye la cantidad total porque es el gasto que supone para la empresa y hay que constatarlo porque representa una pérdida de su patrimonio. Si no se hiciera así, el dato contable induciría a error. Por ejemplo, si solo hubiéramos detallado medio millón de euros como gastos y, supongamos, que en el resultado final tuviéramos 400000 euros, esto nos haría creer que hemos tenido beneficios por ese valor, pero es un dato erróneo, ya que tenemos una deuda de medio millón. Por el contrario, es mucho más exacto contar con el resultado negativo final de -100000 euros.
 
-La cuenta de resultados tiene como finalidad fundamental conocer con anticipación si ob tendremos beneficios o pérdidas y si estas se deberán a la actividad empresarial o a cues tiones financieras. Adicionalmente, los datos nos ofrecerán información que dará respuesta a estos interrogantes:
+La cuenta de resultados tiene como finalidad fundamental conocer con anticipación si ob tendremos beneficios o pérdidas y si estas se deberán a la actividad empresarial o a cuestiones financieras. Adicionalmente, los datos nos ofrecerán información que dará respuesta a estos interrogantes:
 
-Tabla 5.5. Información adicional que ofrece la cuenta de resultados.
+## Tabla 5.5. Información adicional que ofrece la cuenta de resultados.
 
 | ¿Se gana o se pierde cuota de mercado?                    | Respuesta deducible según la evolución de las ventas.                                                       |
 | --------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
@@ -5201,13 +5194,13 @@ Tabla 5.5. Información adicional que ofrece la cuenta de resultados.
 | ¿Se pueden reducir las pérdidas?                          | Analizando cómo disminuir los gastos.                                                                       |
 | ¿Es viable la empresa, desde un punto de vista económico? | Según la evolución de los datos en tres años.                                                               |
 
-Para elaborar una cuenta de resultados prevlsional se tienen en cuenta los datos obtenidos en el plan de tesorería, si bien, no todos se incluirán. Solo se registran los datos que producen un incremento o decremento de patrimonio en la empresa, por ejemplo, si mi familia me presta 100000 euros, no anotaré nada ya que no se trata de una ganancia, sino de una canti dad que será devuelta. Es por este motivo que no todos los datos que aparecen en el plan de tesorería tienen su correlato en la cuenta de resultados.
+Para elaborar una cuenta de resultados previsional se tienen en cuenta los datos obtenidos en el plan de tesorería, si bien, no todos se incluirán. Solo se registran los datos que producen un incremento o decremento de patrimonio en la empresa, por ejemplo, si mi familia me presta 100000 euros, no anotaré nada ya que no se trata de una ganancia, sino de una cantidad que será devuelta. Es por este motivo que no todos los datos que aparecen en el plan de tesorería tienen su correlato en la cuenta de resultados.
 
 ## Ejemplo 7. Elementos del plan de tesorería en la cuenta de resultados
 
 Para ayudarte a entender mejor el sentido de la cuenta de resultados, puedes ir razonando en cada elemento del plan de tesorería si debería aparecer reflejado en la cuenta de resultados o no.
 
-- El préstamo recibido por un banco no debe incluirse ya que ese dinero no supone una ga nancia, puesto que habrá de ser devuelto. En cambio, los intereses sí suponen una pérdida y sí deben constatarse.
+- El préstamo recibido por un banco no debe incluirse ya que ese dinero no supone una ganancia, puesto que habrá de ser devuelto. En cambio, los intereses sí suponen una pérdida y sí deben constatarse.
 
 - Un razonamiento similar al anterior podemos atribuirlo al por qué no se incluye el capital social aportado en este documento.
 - El alquiler de un local se anotaría, ya que supone una pérdida, no así la fianza que, con el tiempo, se recuperará. En caso de no hacerlo, sí habría que anotar este montante de dinero como pérdida.
@@ -5222,7 +5215,7 @@ Amortización, desde una perspectiva financiera, es la reducción gradual de una
 
 Elabora la cuenta de resultados de tu empresa creando una tabla Excel,y luego extrae las conclusiones que se desprenden.
 
-## Ayuda práctica:
+Ayuda práctica:
 
 Para elaborar la cuenta de resultados de vuestra empresa, retoma el plan de tesorería y razona qué datos deberían incluirse en la cuenta de resultados. La pregunta clave para determinar si los datos deben ser incluidos o no es: ¿produce un beneficio o una pérdida o ninguna de ellas, ya que el dinero se devolverá o recuperará más adelante?
 
@@ -5230,7 +5223,7 @@ Recuerda que los datos que se incluyen son anuales, por lo que tienes que realiz
 
 Y no olvides anotar el valor de las amortizaciones para los activos fijos u ordenadores adquiridos. Para ello, es preciso conocer el dato de que el activo fijo se amortizará en diez años, lo que significa que la maquinaria tendrá una vida útil de diez años y, por ello, se reparte su coste proporcionalmente cada año. Es una manera de reflejar la pérdida de va lor o depreciación del bien. En este caso, al adquirir maquinaria por 15 000 euros, durante diez años se anotaría en la casilla de amortización los 1 500 (= 15000 / 10)
 
-A continuación se propone la resolución de las cuentas de resultados de los dos Casos prácti cos resueltos en los planes de tesorería, para que tengáis una referencia concreta. El consejo, igual que antes, es que tratéis de realizarlos vosotros solos antes de consultar la solución.
+A continuación se propone la resolución de las cuentas de resultados de los dos Casos prácticos resueltos en los planes de tesorería, para que tengáis una referencia concreta. El consejo, igual que antes, es que tratéis de realizarlos vosotros solos antes de consultar la solución.
 
 ## Caso práctico 1. Aurora Moreno, S.LU. (Parte 2: Cuenta de resultados previsional)
 
@@ -5238,7 +5231,7 @@ A continuación se propone la resolución de las cuentas de resultados de los do
 | ------------------------------- | ------ |
 | Intereses de la cuenta bancaria |        |
 | Ingresos financieros            | 0      |
-| astos                           |        |
+| Gastos                          |        |
 | Compras de materias primas      | 130000 |
 | Alquiler                        | 0      |
 | Seguros                         | 0      |
@@ -5246,14 +5239,14 @@ A continuación se propone la resolución de las cuentas de resultados de los do
 | Suministros                     | 11200  |
 | Tributos (impuestos)            | 2000   |
 | Sueldos de personal             | 26000  |
-| astos de Seguridad Social       | 3250   |
+| Gastos de Seguridad Social      | 3250   |
 | Amortizaciones                  | 1500   |
-| astos de explotación            | 178450 |
+| Gastos de explotación           | 178450 |
 | Intereses de préstamos          | 2200   |
-| astos financieros               | 2200   |
+| Gastos financieros              | 2200   |
 | Resultado de explotación        | -90450 |
 | Resultado financiero            | -2200  |
-| Resultado final                 | «92650 |
+| Resultado final                 | -92650 |
 
 ## Caso práctico 2. Julio y Miguel Martínez, S.L (Parte 2: Cuenta de resultados previsional)
 
@@ -5261,7 +5254,7 @@ A continuación se propone la resolución de las cuentas de resultados de los do
 | ------------------------------- | --------- |
 | Intereses de la cuenta bancaria |           |
 | Ingresos financieros            | 48        |
-| astos                           |           |
+| Gastos                          |           |
 | Compras de materias primas      | 60000     |
 | Alquiler                        | 12000     |
 | Seguros                         | 950       |
@@ -5269,35 +5262,36 @@ A continuación se propone la resolución de las cuentas de resultados de los do
 | Suministros                     | 7560      |
 | Tributos (impuestos)            | 2000      |
 | Sueldos de personal             | 36400     |
-| astos de Seguridad Social       | 4200      |
+| Gastos de Seguridad Social      | 4200      |
 | Amortizaciones                  | 1200      |
-| astos de explotación            | 134310    |
+| Gastos de explotación           | 134310    |
 | Intereses de préstamos          | 600       |
-| astos financieros               | 600       |
-| Resultado de explotación        | 30690 <1> |
-| Resultado financiero            | - 552 &   |
-| Resultado final                 | 30138 (3> |
+| Gastos financieros              | 600       |
+| Resultado de explotación        | 30690 (1) |
+| Resultado financiero            | - 552 (2) |
+| Resultado final                 | 30138 (3) |
 
+(1) datos de interpretación 1,
 (2) datos de interpretación 2,
-
 (3) datos de interpretación 3
 
-## Interpretación de los datos obtenidos en la cuenta de resultados de Julio y Miguel Mar tínez, SI.
+## Interpretación de los datos obtenidos en la cuenta de resultados de Julio y Miguel Martínez, S.L
 
 1. Como puede observarse, el resultado final es positivo, lo que significa que la empresa está obteniendo beneficios.
 
-- a) Este dato debería contrastarse con el de años anteriores, para comprobar si la ten dencia es alcista o si, por el contrario, a pesar de haber obtenido ganancias estas han disminuido.
+- a) Este dato debería contrastarse con el de años anteriores, para comprobar si la tendencia es alcista o si, por el contrario, a pesar de haber obtenido ganancias estas han disminuido.
 - b) También debe compararse con el contexto, ya que no es lo mismo este resultado en una época de crisis generalizada, como la actual, que en un momento de expansión económica.
-- c) El valor de esta cifra debe analizarse bajo el prisma de la situación propia de la em presa, ya que una empresa de reciente creación podría tener un resultado deficitario el primer año y estar dentro de lo esperable.
+- c) El valor de esta cifra debe analizarse bajo el prisma de la situación propia de la empresa, ya que una empresa de reciente creación podría tener un resultado deficitario el primer año y estar dentro de lo esperable.
 
 2. El resultado de explotación es positivo, lo que significa que los buenos resultados se deben a la actividad de la empresa en sí misma.
+
 3. El resultado financiero es negativo, lo que entra dentro de lo esperable, puesto que la mayoría de las empresas utilizan financiación ajena que hay que devolver. Sin embargo, el valor del resultado financiero es insignificante en comparación con el resultado de explotación, lo que significa que la empresa puede cubrir sin dificultades esta deuda. Un resultado positivo implicaría dos posibilidades: una, que la empresa no tiene pendiente de pago ninguna deuda y además tiene saldo positivo en el banco; dos, que los intereses por el dinero invertido son mayores a los que se pagan por el dinero prestado, por lo que la gestión financiera de la empresa está siendo excelente.
 
 ## Fase 4. Elaboración del Balance de situación
 
-El Balance de situación es el documento contable que refleja los activos y los pasivos de la empresa, que resume el patrimonio de la empresa, de manera que siempre muestra un equi librio entre sus posesiones y sus deudas. Se representa con una sencilla fórmula:
+El Balance de situación es el documento contable que refleja los activos y los pasivos de la empresa, que resume el patrimonio de la empresa, de manera que siempre muestra un equilibrio entre sus posesiones y sus deudas. Se representa con una sencilla fórmula:
 
-## Activo - Patrimonio neto - Pasivo
+- Activo = Patrimonio neto - Pasivo
 
 Que traducido en palabras expresaría esta relación: «lo que se posee = lo que se tiene - lo que se debe».
 
@@ -5309,7 +5303,7 @@ Continuando con el ejemplo de la empresa que compró materias primas por valor d
 
 - En el Activo se incluiría el millón de euros, ya que las materias primas han pasado a formar parte del patrimonio de la empresa.
 
-- En el Pasivo, también se anotaría el millón de euros, ya que el pago de esta cantidad se habrá obtenido o bien de los recursos propios de la empresa o bien a través de algún meca nismo de financiación, por lo que representará una deuda de la compañía.
+- En el Pasivo, también se anotaría el millón de euros, ya que el pago de esta cantidad se habrá obtenido o bien de los recursos propios de la empresa o bien a través de algún mecanismo de financiación, por lo que representará una deuda de la compañía.
 
 De esta manera, el balance refleja siempre un equilibrio entre el activo y el pasivo.
 
@@ -5319,19 +5313,20 @@ El balance es muy útil para tener una fotografía sencilla del estado patrimoni
 
 Tabla 5.6. Balance de situación de Zinkia antes de su salida a bolsa en julio de 2009.
 
-| Activo no corriente   | 13206825 €   | 12048414€   |
-| --------------------- | ------------ | ----------- |
-| Activo corriente      | 6549401 €    | 5972202 €   |
-| TotalActivo           | 19756226 €   | 18020616€   |
-| Patrimonio neto       | 6534609 €    | 11843891 €  |
-| Pasivo no corriente   | 2763212€     | 2 751 842 € |
-| Pasivo corriente      | 10458 404 €  | 3 424884 €  |
-| total recursos ajenos | 13221616C    | 6176J26€    |
-| Fondo de maniobra     | -3 903 003 € | 2547318€    |
+| Balance (en euros)    | Previsión 2009 | Real 2009  |
+| --------------------- | -------------- | ---------- |
+| Activo no corriente   | 13206825 €     | 12048414€  |
+| Activo corriente      | 6549401 €      | 5972202 €  |
+| TotalActivo           | 19756226 €     | 18020616€  |
+| Patrimonio neto       | 6534609 €      | 11843891 € |
+| Pasivo no corriente   | 2763212€       | 2751842 €  |
+| Pasivo corriente      | 10458404 €     | 3424884 €  |
+| total recursos ajenos | 13221616C      | 6176J26€   |
+| Fondo de maniobra     | -3903003 €     | 2547318€   |
 
 Fuente: http://www.rankia.com/blog/mab/etiquetas/zinkia-znk
 
-De manera general, se obtendrá respuesta a estas cuestiones.
+## De manera general, se obtendrá respuesta a estas cuestiones.
 
 - ¿Cuál es el patrimonio de la empresa?
 - ¿Cuál es su nivel de endeudamiento?
@@ -5344,48 +5339,108 @@ De manera general, se obtendrá respuesta a estas cuestiones.
 
 Un elemento de gran relevancia a calcular es el fondo de maniobra. Se basa en un supuesto lógico que no es del todo correcto: si el activo representa las inversiones y el pasivo el dinero empleado para ello, entonces el activo corriente debe financiarse con pasivo corriente y el activo fijo debe utilizar como financiación el pasivo a largo plazo, es decir, el patrimonio neto y el activo no corriente. Sin embargo, no es así.
 
-Por ese motivo, parte del activo corriente se financia con pasivo no corriente. Cuanto mayor sea este montante más margen de actuación tendrá la empresa, razón por lo que esta canti dad se denomina fondo de maniobra.
+Por ese motivo, parte del activo corriente se financia con pasivo no corriente. Cuanto mayor sea este montante más margen de actuación tendrá la empresa, razón por lo que esta cantidad se denomina fondo de maniobra.
 
-El fondo de maniobra es el excedente de activos corrientes frente a los pasivos corrien tes. Es una medida de la capacidad que tiene una empresa para continuar con el normal desarrollo de sus actividades en el corto plazo. Se calcula restando, al total de activos de corto plazo, el total de pasivos de corto plazo.
+El fondo de maniobra es el excedente de activos corrientes frente a los pasivos corrientes. Es una medida de la capacidad que tiene una empresa para continuar con el normal desarrollo de sus actividades en el corto plazo. Se calcula restando, al total de activos de corto plazo, el total de pasivos de corto plazo.
 
 ## Ejemplo 10. Ejemplos de fondo de maniobra
 
-Un retraso en el cobro de las deudas a corto plazo podría suponer una paralización de la acti vidad económica por no disponer de fondos para adquirir nuevas materias primas. Asimismo, una reducción de las ventas incrementaría el coste financiero de la deuda inmediata que hay que devolver.
+Un retraso en el cobro de las deudas a corto plazo podría suponer una paralización de la actividad económica por no disponer de fondos para adquirir nuevas materias primas. Asimismo, una reducción de las ventas incrementaría el coste financiero de la deuda inmediata que hay que devolver.
 
 ## Actividad de simulación 4
 
-Elabora el balance de tu empresa creando una tabla Excel,y luego extrae las conclusiones que se desprenden.
+Elabora el balance de tu empresa creando una tabla Excel, y luego extrae las conclusiones que se desprenden.
 
-## Ayuda práctica:
+Ayuda práctica:
 
-- a) A la hora de enfrentarte a la confección de vuestro balance de empresa, debes dife renciar entre activos y pasivos. La clave es discernir si forman parte del patrimonio de la empresa o son derechos de cobro, lo que constituirá el Activo, y cuáles suponen una deuda, que se anotarán en la columna de Pasivo.
-- b) Después, hay que ordenar los datos en cada columna. Para los activos, se considerará qué elementos tienen más dificultad en convertirse en líquido y, sobre esa base, se anotarán de arriba abajo. Por ejemplo, una patente es menos líquida que el stock acu mulado, razón por la que se anotará más arriba. De esta manera, el dinero en efectivo (el dato final del plan de tesorería) siempre está en la parte inferior y los inmuebles en la parte superior.
-- c) En el caso del Pasivo se tendrá en cuenta si la deuda es a largo o corto plazo, para decidir el orden de colocación de arriba abajo. Así, el capital aportado por los socios se situará en la parte superior, ya que es una deuda permanente, mientras que el dinero pendiente de pago a proveedores se situará en la parte inferior. De la misma manera, las reservas se situarán en la parte superior del pasivo y ese dato se obtiene del resul tado final de la cuenta de ganancias y pérdidas.
+- a) A la hora de enfrentarte a la confección de vuestro balance de empresa, debes diferenciar entre activos y pasivos. La clave es discernir si forman parte del patrimonio de la empresa o son derechos de cobro, lo que constituirá el Activo, y cuáles suponen una deuda, que se anotarán en la columna de Pasivo.
+- b) Después, hay que ordenar los datos en cada columna. Para los activos, se considerará qué elementos tienen más dificultad en convertirse en líquido y, sobre esa base, se anotarán de arriba abajo. Por ejemplo, una patente es menos líquida que el stock acumulado, razón por la que se anotará más arriba. De esta manera, el dinero en efectivo (el dato final del plan de tesorería) siempre está en la parte inferior y los inmuebles en la parte superior.
+- c) En el caso del Pasivo se tendrá en cuenta si la deuda es a largo o corto plazo, para decidir el orden de colocación de arriba abajo. Así, el capital aportado por los socios se situará en la parte superior, ya que es una deuda permanente, mientras que el dinero pendiente de pago a proveedores se situará en la parte inferior. De la misma manera, las reservas se situarán en la parte superior del pasivo y ese dato se obtiene del resultado final de la cuenta de ganancias y pérdidas.
 - d) Otro dato relevante a tener en cuenta es que el dato que se anota en el préstamo es el saldo que está pendiente de pago a final de año, de manera que si el préstamo era de 90000 euros, pero se ha amortizado (devuelto) 12000 euros, la deuda pendiente será de 78000 euros.
 
-A continuación se propone la resolución de los balances de los dos Casos prácticos plan teados anteriormente, para que tengáis una referencia concreta. Como ya se ha aconsejado anteriormente, tratad de realizarlos vosotros solos antes de consultar la solución.
+A continuación se propone la resolución de los balances de los dos Casos prácticos planteados anteriormente, para que tengáis una referencia concreta. Como ya se ha aconsejado anteriormente, tratad de realizarlos vosotros solos antes de consultar la solución.
 
 ## Caso práctico 1. Aurora Moreno, S.LU. (Parte 3: Balance de situación)
 
-| Patrimonio neto                     | 100000              |
-| ----------------------------------- | ------------------- |
-| Capital socios                      | 100000              |
-| Reservas (beneficios no invertidos) | -92650              |
-| Pasivo no corriente                 | Pasivo no corriente |
-| Préstamo                            | 35000               |
-| Crédito                             | 73400               |
-| Pasivo corriente                    | Pasivo corriente    |
-| Total                               | 115750              |
+- ACTIVO
 
-## Caso práctico Z.Julio y Miguel Martínez, S.L (Parte 3: Balance de situación)
+| Activo no corriente                 |        |
+| ----------------------------------- | ------ |
+| Inmovilizado intangible             |        |
+| Inmovilizado material               | 15000  |
+| Amortización de inmovilizado        | -1500  |
+| Inversiones inmobiliarias           |        |
+| Inmovilizado financiero             |        |
+| ----------------------------------- | ------ |
+| Activo corriente                    |        |
+| ----------------------------------- | ------ |
+| Existencias                         | 87400  |
+| Créditos cobrar                     |        |
+| Efectivo                            | 14850  |
+| ----------------------------------- | ------ |
+| Total                               | 115750 |
 
+- PASIVO + PATRIMONIO NETO
+
+| Patrimonio neto                     | 100000  |
+| ----------------------------------- | ------- |
+| Capital socios                      | 100000  |
+| Reservas (beneficios no invertidos) | -92650  |
+| ----------------------------------- | ------- |
+| Pasivo no corriente                 |
+| ----------------------------------- | ------- |
+| Préstamo                            | 35000   |
+| Crédito                             | 73400   |
+| ----------------------------------- | ------- |
+| Pasivo corriente                    |         |
+| ----------------------------------- | ------- |
+| Total                               | 115750  |
+
+## Caso práctico 2. Julio y Miguel Martínez, S.L (Parte 3: Balance de situación)
+
+- ACTIVO
+
+| Activo no corriente                 |        |
+| ----------------------------------- | ------ |
+| Inmovilizado intangible             |        |
+| Inmovilizado material               | 12000  |
+| Amortización de inmovilizado        | -1200  |
+| Inversiones inmobiliarias           |        |
+| Inmovilizado financiero             |        |
+| ----------------------------------- | ------ |
+| Activo corriente                    |        |
+| ----------------------------------- | ------ |
+| Existencias                         | 0      |
+| Créditos cobrar                     |        |
+| Efectivo(2)                         | 155338 |
+| ----------------------------------- | ------ |
+| Total(1)                            | 168138 |
+
+- PASIVO + PATRIMONIO NETO
+
+| Patrimonio neto                       | 100000  |
+| ------------------------------------- | ------- |
+| Capital socios                        | 60000   |
+| Reservas(beneficios no invertidos)(3) | 30138   |
+| -----------------------------------   | ------- |
+| Pasivo no corriente                   |
+| -----------------------------------   | ------- |
+| Préstamo                              | 78000   |
+| -----------------------------------   | ------- |
+| Pasivo corriente                      |         |
+| -----------------------------------   | ------- |
+| Total(1)                              | 168138  |
+
+(1) datos de interpretación 1,
 (2) datos de interpretación 2,
+(3) datos de interpretación 3
 
 ## Interpretación de los datos obtenidos en el balance de Julio y Miguel Martínez, S.L
 
 1. El total del Activo y del Pasivo son iguales, lo que significa que el balance es correcto, puesto que los activos se han financiado con los recursos del pasivo.
 
 2. La mayoría del Activo procede del dinero en efectivo existente, dato que se extrae del plan de tesorería. En función del sector económico de la empresa, habría que plantearse mantener este capital disponible, o bien, dotarle de menos liquidez, invirtiéndolo en un producto financiero que ofrezca una rentabilidad.
+
 3. Los beneficios obtenidos en la cuenta de resultados se incluyen como patrimonio, ya que es una deuda de la empresa con los socios, puesto que no se han repartido estas reservas. Por otra parte, la financiación externa no es muy alta, por lo que la empresa parece estar realizando una buena gestión económico-financiera. No obstante, es preciso calcular los ratios para profundizar en la interpretación de un balance, ya que los datos por sí solos no arrojan tanta información como en los dos documentos anteriores analizados.
 
 ## Fase 5. Análisis de la viabilidad de la empresa
@@ -5394,11 +5449,11 @@ A continuación se propone la resolución de los balances de los dos Casos prác
 
 Analiza la viabilidad de tu empresa desde todos los puntos de vista que se han analizado en esta unidad.
 
-## Ayuda práctica:
+Ayuda práctica:
 
-- a) La viabilidad económica y financiera se obtiene con el cálculo de los ratios. Debido a que los balances que estamos confeccionando son muy sencillos, es posible que no sea necesario calcularlos. En su lugar, puedes deducir la solvencia de tu empresa, el nivel de endeudamiento, la rentabilidad económica y financiera en función de los datos que aporta el balance. Para ello, piensa qué está midiendo cada uno de los ra tios, a través de qué cálculo se realiza y extrae las conclusiones que se desprenden. En caso de que algún dato sea negativo, propon medidas específicas a desarrollar en los próximos meses para reducir o corregir su impacto.
-- b) La viabilidad comercial se puede concluir a partir de los datos extraídos en la Simu lación de la Unidad 2, cuando realizaste un estudio de mercado y un análisis DAFO.
-- c) La viabilidad ambiental y la viabilidad técnica son fáciles de analizar. En el primer caso habrá que razonar si vuestra actividad produce o es susceptible de producir un daño ambiental. En el segundo, habrá que razonar si los medios que empleáis son seguros y no hay situaciones de peligro para los trabajadores. Analiza qué riesgos se pueden presentar en el lugar de trabajo de vuestros trabajadores y qué medidas pre ventivas vais a establecer para evitarlos o reducir su impacto.
+- a) La viabilidad económica y financiera se obtiene con el cálculo de los ratios. Debido a que los balances que estamos confeccionando son muy sencillos, es posible que no sea necesario calcularlos. En su lugar, puedes deducir la solvencia de tu empresa, el nivel de endeudamiento, la rentabilidad económica y financiera en función de los datos que aporta el balance. Para ello, piensa qué está midiendo cada uno de los ratios, a través de qué cálculo se realiza y extrae las conclusiones que se desprenden. En caso de que algún dato sea negativo, propon medidas específicas a desarrollar en los próximos meses para reducir o corregir su impacto.
+- b) La viabilidad comercial se puede concluir a partir de los datos extraídos en la Simulación de la Unidad 2, cuando realizaste un estudio de mercado y un análisis DAFO.
+- c) La viabilidad ambiental y la viabilidad técnica son fáciles de analizar. En el primer caso habrá que razonar si vuestra actividad produce o es susceptible de producir un daño ambiental. En el segundo, habrá que razonar si los medios que empleáis son seguros y no hay situaciones de peligro para los trabajadores. Analiza qué riesgos se pueden presentar en el lugar de trabajo de vuestros trabajadores y qué medidas preventivas vais a establecer para evitarlos o reducir su impacto.
 - d) La viabilidad legal es más complicada, ya que debe tener en cuenta toda la normativa relativa a la actividad en sí misma, lo que podéis localizar en una búsqueda online, así como la regulación sobre todos los elementos implicados, como normativa sobre obras y reformas o sobre protección de datos o sobre comercio electrónico. Para ello, tendréis que realizar varias búsquedas en Internet.
 
 Es importante realizar una búsqueda relativa a los riesgos profesionales del sector y, so bre esa base, elaborar un sencillo plan de prevención de riesgos laborales.
@@ -5411,181 +5466,227 @@ Las conclusiones que podemos obtener de esta empresa, teniendo en cuenta que, co
 
 1. Buena rentabilidad económica, debido a que los beneficios han sido elevados.
 2. Rentabilidad financiera también satisfactoria, porque los beneficios obtenidos en relación con los recursos han sido muy buenos.
-3. No se presentan problemas de liquidez ya que el activo corriente supera el valor del pa sivo corriente, de hecho, no hay datos en el pasivo corriente porque no se tienen deudas a corto plazo.
+3. No se presentan problemas de liquidez ya que el activo corriente supera el valor del pasivo corriente, de hecho, no hay datos en el pasivo corriente porque no se tienen deudas a corto plazo.
 4. No hay problemas para el abono de la deuda a corto plazo, ya que esta es inexistente pero, además, el nivel de efectivo disponible es alto.
-5. Distancia considerable a la quiebra. La empresa ofrece garantías de solvencia total y re sultará creíble, de cara a potenciales inversores o nuevos acreedores.
+5. Distancia considerable a la quiebra. La empresa ofrece garantías de solvencia total y resultará creíble, de cara a potenciales inversores o nuevos acreedores.
 6. El nivel de endeudamiento es muy bajo, ya que el préstamo se puede devolver con seguridad.
 7. La autonomía financiera de la empresa está asegurada de momento, puesto que hay un equilibrio entre los recursos propios y el nivel de endeudamiento.
 
 ## Ejemplo 11. Datos contables de Mercadona y su interpretación
 
-Como colofón a esta unidad ofrecemos los datos contables de Mercadona y una interpreta ción de los mismos. Verás que la complejidad de estas cifras es mayor, pero que el esquema a seguir para analizarlas e interpretarlas es el mismo.
+Como colofón a esta unidad ofrecemos los datos contables de Mercadona y una interpretación de los mismos. Verás que la complejidad de estas cifras es mayor, pero que el esquema a seguir para analizarlas e interpretarlas es el mismo.
 
-| Consumo de mercaderías                                            | -76,1 | -76,1 | -75,6 | -75,1  | -75,7  | -76,1  | -74,9  | -75,1   |
+- Tabla 5.7. Cuenta de resultados de Mercadona de los últimos años.
+
+Fuente: http://www.4upress.com/index.php/economia/item/1628-mercadona-ventajas-competitivas-duraderas-que-emanan-de-la-cuenta-de-p-y-g#.ULMyT4eWa7N
+
+| % Estructura de explotación/Ventas                                | 2004  | 2005  | 2006  | 2007   | 2008   | 2009   | 2010   | 2011    |
 | ----------------------------------------------------------------- | ----- | ----- | ----- | ------ | ------ | ------ | ------ | ------- |
+| Consumo de mercaderías                                            | -76,1 | -76,1 | -75,6 | -75,1  | -75,7  | -76,1  | -74,9  | -75,1   |
 | Otros ingresos de explotación                                     | 0,1   | 0,1   | 0,1   | 0,1    | 0,1    | 0,1    | 0,2    | 0,2     |
 | Margen                                                            | 24,0  | 24,0  | 24,5  | 25,1   | 24,4   | 24,1   | 25,3   | 25,0    |
-| astos de personal                                                 | -12,2 | -12,4 | -12,5 | -12,2  | -12,2  | -12,6  | -12,3  | -12,4   |
+| Gastos de personal                                                | -12,2 | -12,4 | -12,5 | -12,2  | -12,2  | -12,6  | -12,3  | -12,4   |
 | Otros gastos de explotación                                       | -6,4  | -6,2  | -6,2  | -6,3   | -6,4   | -6,5   | -6,6   | -6,4    |
 | Amortización del inmovilizado                                     | -2,8  | -2,9  | -2,9  | -3,0   | -2,7   | -2,4   | -2,7   | -2,3    |
 | Imputación de subvenciones no financieras                         | 0,1   | 0,1   | 0,0   | 0,0    | 0,0    | 0,1    | 0,0    | 0,0     |
 | Deterioro y resultado por enajenación del inmovilizado            | 0,0   | 0,0   | 0,0   | 0,0    | 0,0    | 0,0    | 0,0    | 0,0     |
-|                                                                   |       |       | filis | itilii | lili»! |        | KI^    | m       |
+| Resultado de explotación                                          | 2,6   | 2,5   | 2,9   | 3,5    | 3,0    | 2,6    | 3,7    | 3,9     |
 | Ingresos financieros                                              | 0,2   | 0,2   | 0,3   | 0,3    | 0,4    | 0,2    | 0,3    | 0,4     |
-| astos financieros                                                 | -0,2  | -0,2  | -0,2  | -0,2   | -0,2   | -0,2   | -0,2   | -0,2    |
+| Gastos financieros                                                | -0,2  | -0,2  | -0,2  | -0,2   | -0,2   | -0,2   | -0,2   | -0,2    |
 | Deterioro y resultado por enajenación de instrumentos financieros | 0,0   | 0,0   | 0,0   | 0,0    | -0,1   | 0,0    | -0,1   | -0,1    |
-|                                                                   |       | ülSi  | lili  | lili!  | ilifit |        | failP  | >;K:%2; |
-|                                                                   | Km®   |       |       | siif   | lili   | iiüi   | ilif;; | Kí\*t:  |
+| Resultado financiero                                              | 0,0   | 0,0   | 0,1   | 0,1    | 0,1    | -0,1   | 0,0    | 0,2     |
+| Resultado antes de impuestos                                      | 2,6   | 2,6   | 3,0   | 3,6    | 3,1    | 2,5    | 3,7    | 4,1     |
 | Impuesto sobre beneficio                                          | -0,7  | -0,7  | -0,9  | -1,0   | -0,9   | -0,6   | -1,1   | -1,2    |
-|                                                                   |       |       |       | gfii§  | flus   |        |        |         |
-| lililí                                                            |       |       |       | lili.  |        | ¿lili. |        |         |
+| Resultado ejercicio                                               | 1,9   | 1,9   | 2,1   | 2,6    | 2,2    | 1,9    | 2,6    | 2,9     |
+| EBITDA                                                            | 5,4   | 5,4   | 5,8   | 6,6    | 5,9    | 5,0    | 6,4    | 6,3     |
+| ----------------------------------------------------------------- | ----- | ----- | ----- | ------ | ------ | ------ | ------ | ------- |
+| Gastos de personal                                                | -12,2 | -12,4 | -12,5 | -12,2  | -12,2  | -12,6  | -12,3  | -12,4   |
+| Otros gastos de explotación                                       | -6,4  | -6,2  | -6,2  | -6,3   | -6,4   | -6,5   | -6,6   | -6,4    |
+| Amortización del inmovilizado                                     | -2,8  | -2,9  | -2,9  | -3,0   | -2,7   | -2,4   | -2,7   | -2,3    |
+| Imputación de subvenciones no financieras                         | 0,1   | 0,1   | 0,0   | 0,0    | 0,0    | 0,1    | 0,0    | 0,0     |
+| Deterioro y resultado por enajenación del inmovilizado            | 0,0   | 0,0   | 0,0   | 0,0    | -0,1   | 0,0    | 0,0    | 0,0     |
+| Impuesto sobre beneficios                                         | -0,7  | -0,7  | -0,9  | -1.0   | -0,9   | -0,6   | -1,1   | -1,2    |
+| Financieros                                                       | -0,02 |       |       |        |        | -0,06  |        |         |
+| % Total coste empresas sobre ventas                               | -22,1 | -22,2 | -22,4 | -22,6  | -22,3  | -22,2  | -22,7  | -22,3   |
+| Margen                                                            | 24,0  | 24,0  | 24,5  | 25,1   | 24,4   | 24,1   | 25,3   | 25,0    |
+| Financieros                                                       |       | 0,05  | 0,07  | 0,10   | 0,10   |        | 0,02   | 0,17    |
+| % Total ingresos sobre ventas                                     | 24,0  | 24,1  | 24,6  | 25,1   | 24,5   | 24,1   | 25,3   | 25,2    |
+| Resultado del ejercicio                                           | 1,9   | 1,9   | 2,1   | 2,6    | 2,2    | 1,9    | 2,6    | 2,9     |
+| EBITDA                                                            | 5,4   | 5,4   | 5,8   | 6,6    | 5,9    | 5,0    | 6,4    | 6,3     |
 
-(continúa)
+- Tabla 5.8. Balance de Mercadona, obtenido de su Memoria Anual 2011.
 
-Tabla 5.7. Cuenta de resultados de Mercadona de los últimos años.
+| A) Activo no corriente                                        | 2552140  |
+| ------------------------------------------------------------- | -------- |
+| I. Inmovilizado intangible                                    | 62518    |
+| 1. Concesiones                                                | 50903    |
+| 2. Aplicaciones informáticas                                  | 6840     |
+| 3. Otro inmovilizado intangible                               | 4775     |
+| ------------------------------------------------------------- | -------  |
+| II. Inmovilizado material                                     | 2372204  |
+| 1. Terrenos y construcciones                                  | 1540480  |
+| 2. Instalaciones técnicas y otro inmovilizado material        | 750769   |
+| 3. Inmovilizado en curso y anticipos                          | 71955    |
+| ------------------------------------------------------------- | -------  |
+| III. Inversiones en empresas del grupo a L/P                  | 33200    |
+| ------------------------------------------------------------- | -------  |
+| IV. Inversiones financieras a L/P                             | 67064    |
+| 1. Instrumentos de patrimonio                                 | 1577     |
+| 2. Valores representativos de deuda                           | 52464    |
+| 3. Créditos y otros activos financieros                       | 13003    |
+| ------------------------------------------------------------- | -------  |
+| V. Activos por impuesto diferido                              | 27154    |
+| ------------------------------------------------------------- | -------  |
+| B) Activo corriente                                           | 3226153  |
+| ------------------------------------------------------------- | -------  |
+| I. Existencias                                                | 558503   |
+| ------------------------------------------------------------- | -------  |
+| II. Deudores comerciales y otras cuentas a cobrar             | 78470    |
+| ------------------------------------------------------------- | -------  |
+| III. Inversiones financieras a C/P                            | 8884     |
+| ------------------------------------------------------------- | -------  |
+| IV. Periodificaciones a C/P                                   | 4245     |
+| ------------------------------------------------------------- | -------  |
+| V. Efectivo y otros activos líquidos equivalentes             | 2576051  |
+| 1. Tesorería                                                  | 1501051  |
+| 2. Otros activos líquidos equivalentes                        | 1075000  |
+| ------------------------------------------------------------- | -------  |
+| A) Patrimonio neto                                            | 2672886  |
+| ------------------------------------------------------------- | -------  |
+| A.1) Fondos propios                                           | 2186237  |
+| ------------------------------------------------------------- | -------- |
+| I. Capital escriturado                                        | 15921    |
+| ------------------------------------------------------------- | -------- |
+| II. Prima de emisión                                          | 1735     |
+| ------------------------------------------------------------- | -------- |
+| III. Reservas                                                 | 2183053  |
+| 1. Legal y estatutarios                                       | 3184     |
+| 2. Otras reservas                                             | 2183053  |
+| ------------------------------------------------------------- | -------  |
+| IV. Acciones en patrimonio propias                            | (6958)   |
+| ------------------------------------------------------------- | -------- |
+| V. Resultado del ejercicio                                    | 474192   |
+| ------------------------------------------------------------- | -------  |
+| A.2) Subvenciones, donaciones y legados recibidos             | 1768     |
+| ------------------------------------------------------------- | -------  |
+| B) Pasivo no corriente                                        | 253263   |
+| ------------------------------------------------------------- | -------  |
+| I. Provisiones a L/P                                          | 13824    |
+| ------------------------------------------------------------- | -------- |
+| II. Deudas a L/P                                              | 18044    |
+| 1. Deudas con entidades de crédito                            | 5621     |
+| 2. Otros pasivos financieros                                  | 12423    |
+| ------------------------------------------------------------- | -------  |
+| III. Pasivos por impuesto diferido                            | 221395   |
+| ------------------------------------------------------------- | -------  |
+| I. Deudas a C/P con entidades de crédito                      | 2852144  |
+| ------------------------------------------------------------- | -------- |
+| II. Acreedores comerciales y otras cuentas a pagar            | 2412     |
+| 1. Proveedores                                                | 2091246  |
+| 2. Acreedores varios                                          | 365459   |
+| 3. Personal                                                   | 178062   |
+| 4. Pasivos por impuesto corriente                             | 23131    |
+| 5. Otras deudas con las Admin. Públ.                          | 201834   |
 
-Fuente: http://vynAnv.4upress.com/index.php/economia/item/1628-mercadona-ventajas-competitivas-duraderasque-emanan-de-la-cuenta-de-p-y-g#.ULMyT4eWa7N
+- Tabla 5.8. Balance de Mercadona, obtenido de su Memoria Anual 2011 (Continuación).
 
-| astos de personal                                      | -12,2 | -12,4 | -12,5 | -12,2     | -12,2 | -12,6     | -12,3 | -12,4 |
-| ------------------------------------------------------ | ----- | ----- | ----- | --------- | ----- | --------- | ----- | ----- |
-| Otros gastos de explotación                            | -6,4  | -6,2  | -6,2  | -6,3      | -6,4  | -6,5      | -6,6  | -6,4  |
-| Amortización del inmovilizado                          | -2,8  | -2,9  | -2,9  | -3,0      | -2,7  | -2,4      | -2,7  | -2,3  |
-| Imputación de subvenciones no financieras              | 0,1   | 0,1   | 0,0   | 0,0       | 0,0   | 0,1       | 0,0   | 0,0   |
-| Deterioro y resultado por enajenación del inmovilizado | 0,0   | 0,0   | 0,0   | 0,0       | -0,1  | 0,0       | 0,0   | 0,0   |
-| Impuesto sobre beneficios                              | -0,7  | -0,7  | -0,9  | -1.0      | -0,9  | -0,6      | -1,1  | -1,2  |
-| Financieros                                            | -0,02 |       |       |           |       | -0,06     |       |       |
-| rMTotaíi^ ■; ■■'{'■;■.                                 | -22,1 | -22,2 | -22,4 | -22,6     |       | §§ii      |       |       |
-| Margen                                                 | 24,0  | 24,0  | 24,5  | 25,1      | 24,4  | 24,1      | 25,3  | 25,0  |
-| Financieros                                            |       | 0,05  | 0,07  | 0,10      | 0,10  |           | 0,02  | 0,17  |
-| %Total ingresos sobre ventas I                         | 24,0  | 24,1  | 24,6  | 25,1      | ■mm   | s§&#124;é | mm    |       |
-| Resultado delejercicio' .- <• -mS0^'^                  | 1,9   | 1,9   | 2,1   | :::-: 2,6 | liil  | iifitil   | iii»  | mm    |
-| .iw^^,,,,^,,,,^£,.. ,.;,,,,, MMA^y                     | 5,4   | 5,4   | 5,8   | 6,6       |       | wsm       |       |       |
-
-Tabla 5.7. Cuenta de resultados de Mercadona de los últimos años (Continuación).
-
-| I. Inmovilizado intangible                                    | 62518             |
-| ------------------------------------------------------------- | ----------------- |
-| 1. Concesiones                                                | 50903             |
-| 2. Aplicaciones informáticas                                  | 6840              |
-| 3. Otro inmovilizado intangible                               | 4 775             |
-| II. Inmovilizado material                                     | 2372204           |
-| 1. Terrenos y construcciones 2. Instalaciones técnicas y otro | 1 540 480         |
-| inmovilizado material                                         | 750769            |
-| 3. Inmovilizado en curso y anticipos                          | 71 955            |
-| III. Inversiones en empresas del grupo aL/P                   | 33200             |
-| IV. Inversiones financieras a L/P                             | 67064             |
-| 1. Instrumentos de patrimonio                                 | 1 577             |
-| 2. Valores representativos de deuda                           | 52 464            |
-| 3. Créditos y otros activos financieros                       | 13 003            |
-| V. Activos por impuesto diferido                              | 27154             |
-| 1. Existencias                                                | 558503            |
-| II. Deudores comerciales y otras cuentas a cobrar             | 78470             |
-| III. Inversiones financieras a C/P                            | 8884              |
-| IV. Periodificaciones a C/P                                   | 4245              |
-| V. Efectivo y otros activos líquidos equivalentes             | 2576051           |
-| 1. Tesorería 2. Otros activos líquidos equivalentes           | 1501051 1 075 000 |
-
-| A.1) Fondos propios                                | 2186237       |
-| -------------------------------------------------- | ------------- |
-| 1. Capital escriturado                             | 15921         |
-| II. Prima de emisión                               | 1735          |
-| III. Reservas                                      | 2183053       |
-| 1. Legal y estatutarios 2. Otras reservas          | 3 184 2183053 |
-| IV. Acciones en patrimonio propias                 | (6958)        |
-| V. Resultado del ejercicio                         | 474192        |
-| A.2) Subvenciones, donaciones y legados recibidos  | 1768          |
-| B) Pasivo no corriente                             | 253263        |
-| I. Provisiones a L/P                               | 13824         |
-| II. Deudas a L/P                                   | 18044         |
-| 1. Deudas con entidades de crédito                 | 5 621         |
-| 2. Otros pasivos financieros                       | 12 423        |
-| III. Pasivos por impuesto diferido                 | 221 395       |
-| I. Deudas a C/P con entidades de crédito           | 2852144       |
-| II. Acreedores comerciales y otras cuentas a pagar | 2412          |
-| 1. Proveedores                                     | 2 091 246     |
-| 2. Acreedores varios                               | 365 459       |
-| 3. Personal                                        | 178062        |
-| 4. Pasivos por impuesto corriente                  | 23 131        |
-| 5. Otras deudas con las Admin. Públ.               | 201 834       |
-
-(continúa)
-
-Tabla 5.8. Balance de Mercadona, obtenido de su Memoria Anual 2011 (Continuación).
-
-| $&. :C&#124;i>eiá:É^                                                                              | $&. :C&#124;i>eiá:É^ |
-| ------------------------------------------------------------------------------------------------- | -------------------- |
-| 1. Importe neto de la cifra de negocios Ventas                                                    | 16448101 16448101    |
-| 2. Aprovisionamientos                                                                             | (12358854)           |
-| Consumo de mercaderías                                                                            | (12 358854)          |
-| 3. Otros ingresos de explotación                                                                  | 28232                |
-| Ingresos accesorios y otros de gestión corriente Subvenciones de explotación incorp. al resultado | 20 962               |
-| del ejercicio                                                                                     | 7270                 |
-| 4. astos de personal                                                                              | (2042672)            |
-| Sueldos y salarios                                                                                | (1588401)            |
-| Cargas sociales                                                                                   | (454271)             |
-| 5. Otros gastos de explotación Servicios exteriores                                               | (1048349) (1016013)  |
-| Tributos                                                                                          | (24921)              |
-| Otros gastos de gestión corriente                                                                 | (7382)               |
-| 6.Amortización del inmovilizado                                                                   | (380342)             |
-| 7. Imputación de subvenciones de inmovilizado no financiero y otras                               | 629                  |
-| 8. Deterioro y resultado por enajenaciones del inmovilizado                                       | (5974)               |
-| Deterioros y pérdidas                                                                             | (6 799)              |
-| Resultados por enajenaciones y otros                                                              | 825                  |
-
-| 9. Ingresos financieros                                                  | 73379           |
-| ------------------------------------------------------------------------ | --------------- |
-| De participaciones en instrumentos de patrimonio de terceros             | 448             |
-| De valores negociables y otros instrumen tos financieros de terceros     | 72931           |
-| 10. astos financieros Por deudas con terceros y otros gastos financieros | (26311) (26311) |
-| 11. Deterioro y resultado por enajena ciones de instrumentos financieros |                 |
-| Deterioros y pérdidas                                                    | (19102)         |
-|                                                                          | (18859)         |
-| Resultados por enajenaciones y otras                                     | (243)           |
-| A.2) Resultado financiero                                                | 27966           |
-| A.3) Resultado antes de impuestos 12. Impuesto sobre beneficios          | 668737 (194545) |
-| A.4) Resultado del ejercicio                                             | 474192          |
+| A) Operaciones continuadas                                              |            |
+| ----------------------------------------------------------------------- | ---------- |
+| 1. Importe neto de la cifra de negocios                                 | 16448101   |
+| Ventas                                                                  | 16448101   |
+| ----------------------------------------------------------------------- | ---------- |
+| 2. Aprovisionamientos                                                   | (12358854) |
+| Consumo de mercaderías                                                  | (12358854) |
+| ----------------------------------------------------------------------- | ---------- |
+| 3. Otros ingresos de explotación                                        | 28232      |
+| Ingresos accesorios y otros de gestión corriente                        | 20962      |
+| Subvenciones de explotación incorp. al resultado del ejercicio          | 7270       |
+| ----------------------------------------------------------------------- | ---------- |
+| 4. Gastos de personal                                                   | (2042672)  |
+| Sueldos y salarios                                                      | (1588401)  |
+| Cargas sociales                                                         | (454271)   |
+| ----------------------------------------------------------------------- | ---------- |
+| 5. Otros gastos de explotación                                          | (1048349)  |
+| Servicios exteriores                                                    | (1016013)  |
+| Tributos                                                                | (24921)    |
+| Pérdidas, deterioro variación de provisiones por op. com.               | (26)       |
+| Otros gastos de gestión corriente                                       | (7382)     |
+| ----------------------------------------------------------------------- | ---------- |
+| 6. Amortización del inmovilizado                                        | (380342)   |
+| ----------------------------------------------------------------------- | ---------- |
+| 7. Imputación de subvenciones de inmovilizado no financiero y otras     | 629        |
+| -------------------------------------------------------------------     | ---------- |
+| 8. Deterioro y resultado por enajenaciones del inmovilizado             | (5974)     |
+| Deterioros y pérdidas                                                   | (6799)     |
+| Resultados por enajenaciones y otros                                    | 825        |
+| ----------------------------------------------------------------------- | ---------- |
+| A.1) Resultado de explotación                                           |            |
+| ----------------------------------------------------------------------- | ---------- |
+| 9. Ingresos financieros                                                 | 73379      |
+| De participaciones en instrumentos de patrimonio de terceros            | 448        |
+| De valores negociables y otros instrumentos financieros de terceros     | 72931      |
+| ----------------------------------------------------------------------- | ---------- |
+| 10. Gastos financieros                                                  | (26311)    |
+| Por deudas con terceros y otros gastos financieros                      | (26311)    |
+| ----------------------------------------------------------------------- | ---------- |
+| 11. Deterioro y resultado por enajenaciones de instrumentos financieros | (19102)    |
+| Deterioros y pérdidas                                                   | (18859)    |
+| Resultados por enajenaciones y otras                                    | (243)      |
+| ----------------------------------------------------------------------- | ---------- |
+| A.2) Resultado financiero                                               | 27966      |
+| ----------------------------------------------------------------------- | ---------- |
+| A.3) Resultado antes de impuestos                                       | 668737     |
+| 12. Impuesto sobre beneficios                                           | (194545)   |
+| ----------------------------------------------------------------------- | ---------- |
+| A.4) Resultado del ejercicio                                            | 474192     |
+| ----------------------------------------------------------------------- | ---------- |
 
 Tabla 5.9. Comparación de diferentes balances de Mercadona.
+Fuente: http://analisisbalances.wordpress.com/2011/11/17/analisis-economico-financiero-mercadona-2/
 
-| Activo no corriente                 | 2242713  | 58,54%    | 1999723 | 55,86%  | 1770138 | 59,17%  |
+| Balances de situación               | 2007     | 2006      | 2005    |
 | ----------------------------------- | -------- | --------- | ------- | ------- | ------- | ------- |
+| Activo no corriente                 | 2242713  | 58,54%    | 1999723 | 55,86%  | 1770138 | 59,17%  |
 | Inmovilizado intangible             | 66247    | 2,95 %    | 34807   | 1,74%   | 23714   | 1,34%   |
 | Inmovilizado tangible               | 2144863  | 95,64 %   | 1933640 | 86,22 % | 1717172 | 97,01 % |
 | Inmovilizado financiero             | 31603    | 1,41 %    | 31276   | 1,39%   | 29252   | 1,65%   |
+| ----------------------------------- | -------- | --------- | ------- | ------- | ------- | ------- |
 | Activo corriente                    | 1588424  | 41,46%    | 1580012 | 44,14%  | 1221630 | 40,83%  |
 | Existencias                         | 485022   | 30,53 %   | 469476  | 29,71 % | 391917  | 32,08 % |
 | Clientes                            | 60651    | 3,82 %    | 82646   | 5,23 %  | 87793   | 7,19%   |
 | Otros activos líquidos              | 1042 751 | 65,65 %   | 1027890 | 65,06 % | 741 920 | 60,73 % |
 | Tesorería                           | 951459   | 59,90 %   | 1020495 | 64,59 % | 730467  | 59,79 % |
-| TotalActivo                         | 3831137  |           | 3579735 |         | 2991768 |         |
+| ----------------------------------- | -------- | --------- | ------- | ------- | ------- | ------- |
+| Total Activo                        | 3831137  |           | 3579735 |         | 2991768 |         |
+| ----------------------------------- | -------- | --------- | ------- | ------- | ------- | ------- |
 | Fondos propios                      | 1343225  | 35,06%    | 1035098 | 28,92%  | 811249  | 27,12%  |
 | Capital suscrito                    | 15921    | 1,19%     | 15921   | 1,54%   | 15921   | 1,96%   |
 | Reservas                            | 996336   | 74,17%    | 775636  | 74,93 % | 610789  | 75,29 % |
 | Ingresos y gastos imputados en P.N. | 330968   | 24,64 %   | 243 541 | 23,53 % | 184539  | 22,75 % |
-| Pasivo nocorriente                  | 39224    | 1,02%     | 42702   | 1,19%   | 35473   | 1,19%   |
-| Deudas finacieras a L/P             | 23 558   | 60,06 %   | 29162   | 68,29 % | 29474   | 83,09 % |
+| ----------------------------------- | -------- | --------- | ------- | ------- | ------- | ------- |
+| Pasivo no corriente                 | 39224    | 1,02%     | 42702   | 1,19%   | 35473   | 1,19%   |
+| Deudas financieras a L/P            | 23558    | 60,06 %   | 29162   | 68,29 % | 29474   | 83,09 % |
 | Otros pasivos no corrientes         | 15666    | 39,94 %   | 13 540  | 31,71 % | 5999    | 16,91 % |
+| ----------------------------------- | -------- | --------- | ------- | ------- | ------- | ------- |
 | Pasivo corriente                    | 2448608  | 63,92%    | 2501935 | 68,89%  | 2145046 | 71,70%  |
-| Deudas finacieras a C/P             | 2149     | 0,09 %\_j | 2124    | 0,08 %  | 2129    | 0,10%   |
+| Deudas financieras a C/P            | 2149     | 0,09 %    | 2124    | 0,08 %  | 2129    | 0,10%   |
 | Proveedores                         | 2163273  | 88,34 %   | 1906627 | 76,21 % | 1659122 | 77,35 % |
-| Otros pasivos corrientes            | 283266   | 11,57%    | 593184  | 23,71 % | 483 795 | 22,55 % |
+| Otros pasivos corrientes            | 283266   | 11,57%    | 593184  | 23,71 % | 483795  | 22,55 % |
+| ----------------------------------- | -------- | --------- | ------- | ------- | ------- | ------- |
 | Total Pasivo y capital propio       | 3831137  |           | 3579735 |         | 2991768 |         |
 
-Fuente: http://analisisbalances.wordpress.com/2011/11/17/analisis-economico-financiero-mercadona-2/
+## Tabla 5.10. Conclusiones extraídas de las cuentas de resultados de Mercadona.
 
-Algunas de las conclusiones que se pueden extraer de sus cuentas son las siguientes (Ta bla 5.10):
+Algunas de las conclusiones que se pueden extraer de sus cuentas son las siguientes (Tabla 5.10):
 
-Tabla 5.9. Conclusiones extraídas de las cuentas de resultados de Mercadona.
-
-| Jj &#124; :1           | Mercadona vende más que otros gigantes empresariales españoles: 16448 millones de euros en 2010 frente a los 16413 del rupo El Corte Inglés y los 12 526 millones de Inditex.                                                                                                                                             |
-| ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <\ <j0 ^ '¿j           | Juan Roig es una persona meticulosa en lo referente al control del inventario y de su rotación. Este elemento es fundamental en un negocio que cuenta con tan poco margen de beneficio sobre el precio de venta. Las existencias representan el 6 % del beneficio, lo que contrasta con el 23,5 % de Inditex en 2010. Vj- |
-| ■y í-!Í                | Las deudas a corto plazo no son altas, un 0,47 % sobre las ventas totales. El Fondo de Maniobra es, por tanto, positivo.                                                                                                                                                                                                  |
-| íáj S&#124;Ml:?^       | Mantiene en caja, es decir en dinero en efectivo o en productos de alta liquidez, una cantidad importante, lo que significa que su solvencia a corto plazo está garantizada.                                                                                                                                              |
-| U^k^MSl                | lnsignificante Para las cifras que se manejan. La empresa mantiene un alto nivel de auto nomía financiera.                                                                                                                                                                                                                |
-| ^-ACi^' ^í~K"v?;i      | Los beneficios obtenidos han sido siempre positivos, incluso durante la época de crisis, lo 9ue constata que es una empresa capaz de adaptarse a las circunstancias del mercado y a los elementos macroeconómicos.                                                                                                        |
-| *ot&$Mj*É(§\_^^        | La mayoría de los beneficios pasan a ser reservas voluntarias, es decir, que se reinvierten                                                                                                                                                                                                                               |
-| IIÉS^Í^ ffífftfa-í :vm | El Patrimonio inmobiliario del grupo asciende a 2 372 millones de euros, lejos de los 10622 millones de El Corte Inglés, pero aun así una cifra nada desdeñable.                                                                                                                                                          |
+| Ventas | Mercadona vende más que otros gigantes empresariales españoles: 16448 millones de euros en 2010 frente a los 16413 del Grupo El Corte Inglés y los 12 526 millones de Inditex. |
+| Existencias | Juan Roig es una persona meticulosa en lo referente al control del inventario y de su rotación. Este elemento es fundamental en un negocio que cuenta con tan poco margen de beneficio sobre el precio de venta. Las existencias representan el 6 % del beneficio, lo que contrasta con el 23,5 % de Inditex en 2010. |
+| Fondo de maniobra | Las deudas a corto plazo no son altas, un 0,47 % sobre las ventas totales. El Fondo de Maniobra es, por tanto, positivo. |
+| Liquidez | Mantiene en caja, es decir en dinero en efectivo o en productos de alta liquidez, una cantidad importante, lo que significa que su solvencia a corto plazo está garantizada. |
+| Endeudamiento | Insignificante para las cifras que se manejan. La empresa mantiene un alto nivel de autonomía financiera. |
+| Rentabilidad económica | Los beneficios obtenidos han sido siempre positivos, incluso durante la época de crisis, lo que constata que es una empresa capaz de adaptarse a las circunstancias del mercado y a los elementos macroeconómicos. |
+| Rentabilidad financiera | La mayoría de los beneficios pasan a ser reservas voluntarias, es decir, que se reinvierten. |
+| Inmuebles | El Patrimonio inmobiliario del grupo asciende a 2372 millones de euros, lejos de los 10622 millones de El Corte Inglés, pero aun así una cifra nada desdeñable. |
 
 Fuente: http://wwwxotizalia.com/opinion/valor-anadido/2012/03/08/impresionante-diez-datos-brutales-enlas-cuentas-de-mercadona-6745
 
@@ -5595,11 +5696,36 @@ Ha llegado el momento de sintetizar las ideas obtenidas en estas fases de la Sim
 
 Las actividades de simulación efectuadas en esta unidad te han servido para realizar un estudio económico financiero de la empresa, de manera que vuestro plan de empresa incluirá un apartado denominado plan financiero en el que se adjuntarán todos los datos tratados en esta unidad.
 
-## Plan financiero
+- Plan financiero
 
-- a) Incluye el plan de tesorería, la cuenta de resultados y el balance, junto a las conclu siones extraídas de cada uno de estos documentos.
-- b) Incorpora todas las reflexiones realizadas sobre estas cuestiones económicas y finan cieras.
+- a) Incluye el plan de tesorería, la cuenta de resultados y el balance, junto a las conclusiones extraídas de cada uno de estos documentos.
+- b) Incorpora todas las reflexiones realizadas sobre estas cuestiones económicas y financieras.
 - c) Finaliza con un apartado que especifique los resultados del análisis de la viabilidad de vuestra empresa.
+
+## Síntesis
+
+- Plan financiero: Plan de tesorería(Entradas y salidas), Cuenta de resultados(Pérdidas y ganancias) y Balance de situación(Activo y pasivo)
+
+- Análisis de viabilidad: Viabilidad económica, Viabilidad financiera, Viabilidad comercial, Viabilidad legal jurídica, Viabilidad medioambiental, Viabilidad técnica,Viabilidad de gestión profesional
+
+- Cálculo del punto muerto
+
+- Ratios económico-financieros: Rentabilidad económica, Rentabilidad financiera, Ratio de liquidez, Ratio de tesorería, Ratio de disponibilidad, Ratio de garantía estructural, Ratio de endeudamiento financiero, Ratio de autonomía financiera, Fondo de maniobra
+
+- Plan de empresa:
+
+- Idea del negocio
+- Socios trayectoria profesional
+- Estudio de mercado
+- Plan de producción
+- --> Plan financiero
+- Plan de aprovisionamiento
+- Obligaciones fiscales
+- Plan de marketing
+- Plan de RR.HH.
+- Acciones para la Internacionalización
+
+## Test de repaso
 
 1. El plan de tesorería sirve para conocer:
 
@@ -5639,7 +5765,7 @@ Las actividades de simulación efectuadas en esta unidad te han servido para rea
 26. 6o Si el dato final de la cuenta de resultados es negativo, significa que:
 
 - a) La empresa arroja pérdidas.
-- b) Hay que analizar si este dato se debe a la propia actividad de la empresa o a cuestio nes financieras.
+- b) Hay que analizar si este dato se debe a la propia actividad de la empresa o a cuestiones financieras.
 - c) La empresa puede ver comprometida su supervivencia.
 - d) Todas son correctas.
 
@@ -5734,6 +5860,8 @@ Las actividades de simulación efectuadas en esta unidad te han servido para rea
 - c) El balance y la cuenta de resultados.
 - d) El balance solamente.
 
+## Comprueba tu aprendizaje
+
 1. ¿Qué utilidad tiene el plan de tesorería?
 2. ¿Qué determina que un elemento se anote en la cuenta de resultados o no?
 3. ¿Para qué sirve la cuenta de resultados?
@@ -5746,19 +5874,20 @@ Las actividades de simulación efectuadas en esta unidad te han servido para rea
 10. Piensa por qué motivo el resultado final de la cuenta de resultados se incorpora al balance.
 11. Una empresa de electrodomésticos realizó quince ventas por valor de un millón de euros. Sin embargo, algunos clientes se han acogido a la compra a plazos y han dejado a deber un importe considerable que se pagará en cuotas mensuales durante todo el año.
 
-## Analiza si estas afirmaciones son verdaderas o falsas.
+Analiza si estas afirmaciones son verdaderas o falsas.
 
-1. En el plan de tesorería se anotarán solo las cantidades que se cobran en el momento en que se produce este hecho.
-2. En el plan de tesorería se anotará el millón de euros porque son ventas realizadas, aun que aún no se hayan cobrado, puesto que el cliente se ha comprometido a pagarlas.
-3. En la cuenta de resultados se anotarán las cantidades vendidas ya que han supuesto una merma patrimonial, aunque aún no se hayan cobrado.
-4. En la cuenta de resultados se anotarán las cantidades cobradas, ya que se impone el criterio de prudencia contable, por el que un beneficio no se anota hasta que no sea fehaciente.
-5. Una empresa solicita un crédito por valor de 30000 € en julio para hacer frente a un posible déficit de tesorería en los meses de verano, ya que la previsión es de un bajo nivel de facturación. Finalmente, el verano transcurre con más ventas de las esperadas y no es necesario utilizar este capital, por lo que se cancela esta línea de crédito abierta en sep tiembre. Señala qué respuesta es la adecuada en cada apartado, para cada uno de estos documentos.
+- 1. En el plan de tesorería se anotarán solo las cantidades que se cobran en el momento en que se produce este hecho.
+- 2. En el plan de tesorería se anotará el millón de euros porque son ventas realizadas, aun que aún no se hayan cobrado, puesto que el cliente se ha comprometido a pagarlas.
+- 3. En la cuenta de resultados se anotarán las cantidades vendidas ya que han supuesto una merma patrimonial, aunque aún no se hayan cobrado.
+- 4. En la cuenta de resultados se anotarán las cantidades cobradas, ya que se impone el criterio de prudencia contable, por el que un beneficio no se anota hasta que no sea fehaciente.
+
+12. Una empresa solicita un crédito por valor de 30000 € en julio para hacer frente a un posible déficit de tesorería en los meses de verano, ya que la previsión es de un bajo nivel de facturación. Finalmente, el verano transcurre con más ventas de las esperadas y no es necesario utilizar este capital, por lo que se cancela esta línea de crédito abierta en sep tiembre. Señala qué respuesta es la adecuada en cada apartado, para cada uno de estos documentos.
 
 - a) ¿Qué se anotará en el Plan de tesorería?
 - b) ¿Qué se incluirá en la Cuenta de resultados?
 - c) ¿Qué dato/s se incorporará/n al Balance?
 
-## estión de la actividad comercial y financiera
+# 6. Gestión de la actividad comercial y financiera
 
 ## En esta unidad aprenderemos a:
 
@@ -5771,26 +5900,26 @@ Las actividades de simulación efectuadas en esta unidad te han servido para rea
 ## Y estudiaremos:
 
 - El plan de aprovisionamiento.
-- estión de la contabilidad como toma de decisiones.
+- Gestión de la contabilidad como toma de decisiones.
 - Evaluación de las inversiones realizadas y de sus fuentes de financiación.
 - Control de tesorería.
-- estión de impagados.
+- Gestión de impagados.
 - Relaciones con intermediarios financieros.
-- estión de las obligaciones fiscales.
+- Gestión de las obligaciones fiscales.
 
-«Cuando soplan vientos de cambio, unos buscan refugios y se ponen a salvo. Otros construyen molinos y se hacen ricos.» Claus Moller, experto en management y calidad.
+## Claus Moller, experto en management y calidad.
+
+«Cuando soplan vientos de cambio, unos buscan refugios y se ponen a salvo. Otros construyen molinos y se hacen ricos.»
+
+## Emprendedores
 
 En este apartado vamos a analizar el caso de Nueva Rumasa como paradigma de gestión financiera no sustentada en fondos propios, y lo que adolece cuando la supervivencia finan ciera se sujeta en fondos ajenos.
 
 ## Nueva Rumasa: el resurgir de las cenizas
 
-La empresa Nueva Rumasa surge en 1996, cuando el empresario jerezano José María RuizMateos intenta reavivar las cenizas de su anterior empresa, Rumasa, más conocida por su famoso logotipo de abeja. Al cabo de veinte años, la empresa entró en fase de preconcurso,
-
-lo que antaño se conocía como suspensión de pagos, paso previo antes de entrar en concurso de acreedores y liquidar todos los bienes de la empresa.
+La empresa Nueva Rumasa surge en 1996, cuando el empresario jerezano José María RuizMateos intenta reavivar las cenizas de su anterior empresa, Rumasa, más conocida por su famoso logotipo de abeja. Al cabo de veinte años, la empresa entró en fase de preconcurso, lo que antaño se conocía como suspensión de pagos, paso previo antes de entrar en concurso de acreedores y liquidar todos los bienes de la empresa.
 
 La empresa abarcaba más de 100 firmas distintas, agrupadas en diferentes sectores económieos, como puede verse en la imagen. ¿Cómo es posible que cayeran todas en picado en tan poco tiempo?
-
-"
 
 Nueva Rumasa se constituyó como una agrupación de empresas, 117 en concreto, que se gestionaban coordinadamente pero sin dependencia financiera. A diferencia de la Rumasa original que era un holding, es decir, una empresa matriz que poseía mayoría de acciones de otras empresas.
 
@@ -5802,7 +5931,7 @@ El capital obtenido se emplea en cubrir necesidades de circulante. En ningún mo
 
 Podríamos decir que el grupo empresarial carecía de una viabilidad de gestión o de una buena estrategia de gestión empresarial, ya que su manera de funcionar era posible en un momento de crecimiento económico, pero inadecuada si las circunstancias empeoraban, tal como pasó. Endeudarse con la emisión de pagarés para obtener liquidez con la que devolver las deudas bancarias, en lugar de utilizarse para invertir en la compra de nuevos activos, supone entrar en un círculo vicioso del que es muy difícil salir: al ofrecer un tipo de interés elevado, se condiciona el abono de esos intereses al ingreso que se obtiene con nuevas apor taciones, lo que se denomina estafa piramidal y que fue lo ocurrido con Fórum Filatélico, Afinsa o Madoff.
 
-## I El principio del fin
+## El principio del fin
 
 En el año 2009 surgen los primeros síntomas de alerta:
 
@@ -5822,7 +5951,7 @@ En este contexto de mayor competencia, ausencia de financiación bancaria, caren
 
 A pesar de buscar inversores extranjeros y de vender algunas firmas del grupo empresarial, no se obtuvieron resultados. En el año 2011 Nueva Rumasa entró en situación de preconcurso. Se la concedió cuatro meses (según la propia ley concursal) para renegociar sus deudas con proveedores y acreedores. Tampoco hubo éxito.
 
-En el año 2012, Back in Business formalizó la compra del grupo Nueva Rumasa, que se encon traba ya en concurso de acreedores, en una operación valorada en 1 500 millones de euros, el equivalente total del Pasivo que acumulaban las empresas del grupo.
+En el año 2012, Back in Business formalizó la compra del grupo Nueva Rumasa, que se encontraba ya en concurso de acreedores, en una operación valorada en 1 500 millones de euros, el equivalente total del Pasivo que acumulaban las empresas del grupo.
 
 ## Reflexiona
 
@@ -5831,9 +5960,11 @@ En el año 2012, Back in Business formalizó la compra del grupo Nueva Rumasa, q
 3. Propon medidas correctivas que podrían haberse dado para evitar el desenlace final.
 4. Es habitual que las empresas emitan títulos de deuda privada. ¿Conoces a alguien que haya comprado pagarés de una empresa?
 
+## Conceptos básicos
+
 En este apartado vamos a recordar algunos conceptos que te serán útiles para realizar la Simulación, tales como:
 
-gestión empresarial pagarés VANyTIR eficiencia aprovisionamiento inversión y ahorro crédito comercial Iinp3CJ3CjOS morosos tributos recursos humanos superávit déficit
+gestión empresarial, pagarés, VAN y TIR, eficiencia, aprovisionamiento, inversión y ahorro, crédito comercial, impagados, morosos, tributos, recursos humanos, superávit, déficit
 
 ## A. Plan de aprovisionamiento
 
@@ -5858,7 +5989,7 @@ Por eso, los responsables del plan de aprovisionamiento de cualquier empresa tra
 
 Fuente: Qué! Sevilla, 14 de noviembre de 2012 [en línea]
 
-## B. estión de la contabilidad
+## B. Gestión de la contabilidad
 
 estionar una empresa con eficacia conlleva tomar las decisiones necesarias para el correcto funcionamiento de la compañía, teniendo en cuenta lo que ocurre en su entorno.
 
@@ -5876,39 +6007,15 @@ Adicionalmente, hay que garantizar la credibilidad de esta información, por lo 
 
 En ocasiones, las auditorías persiguen, además de contrastar el cumplimiento de la normativa contable, analizar el grado de respeto a la legislación laboral o medioambiental existente.
 
-B
+## La auditoría
 
-i
+la realizará una empresa externa a la empresa auditada, que se encargará de verificar si la contabilidad de dicha empresa refleja la imagen fiel del patrimonio y de los resultados.
 
-b
-
-La auditoría la realizará una empresa externa a la empresa auditada, que se encargará de verificar si la contabilidad de dicha empresa refleja la imagen fiel del patrimonio y de los resultados.
-
-o
-
-b
-
-b
-
-J
-
-s
-
-i
-
-i
-
-E
-
-b
-
-e
-
-Actualmente, hay cuatro grandes empresas mundiales dedicadas al negocio de la auditoría, son conocidas como las Bigfour: Deloitte, PricewaterhouseCoopers, Ernst &amp; Young yKPM .
+Actualmente, hay cuatro grandes empresas mundiales dedicadas al negocio de la auditoría, son conocidas como las Big four: Deloitte, PricewaterhouseCoopers, Ernst & Young y KPMG.
 
 ## Actividades
 
-- 2, Lee la noticia siguiente y explica qué interés tiene Samsung en realizar una auditoría en las empresas subcontratadas en China, y por qué se centra únicamente en cues tiones laborales y no en temas contables.
+2. Lee la noticia siguiente y explica qué interés tiene Samsung en realizar una auditoría en las empresas subcontratadas en China, y por qué se centra únicamente en cuestiones laborales y no en temas contables.
 
 «Samsung volvió a ser criticada el martes por un grupo de defensa de derechos la borales, debido a las prácticas de trabajo ilegales en las fábricas de sus proveedores de China.
 
@@ -5916,7 +6023,9 @@ La compañía admitió haber encontrado malas condiciones laborales y afirmó qu
 
 Fuente: Expansión. Madrid, 28 de noviembre de 2012 [en línea]
 
-La contabilidad interna pretende facilitar la toma de decisiones. Para ello, cuenta con dos funciones:
+## La contabilidad interna pretende facilitar la toma de decisiones.
+
+Para ello, cuenta con dos funciones:
 
 - a) Contabilidad de gestión. Consiste en llevar un registro de los recursos disponibles en la compañía para que puedan administrarse de forma eficaz.
 
@@ -5930,7 +6039,7 @@ No persigue, por tanto, la cuantificación de costes, sino que busca el procesam
 
 Con el desarrollo de la informática, la función contable de la empresa se ha visto muy facilitada, dejando a un lado la tediosa tarea de realizar cálculos para centrarse en su inter pretación.
 
-## C. estión de la inversión y financiación
+## C. Gestión de la inversión y financiación
 
 La inversión consiste en aplicar recursos financieros líquidos para obtener activos que con tribuyan al logro de los objetivos de la empresa, tales como: inmueble, vehículo, maquinaría, ordenadores, elementos de trabajo. La financiación consiste en la aportación de capital para llevar a cabo las inversiones necesarias.
 
@@ -5940,21 +6049,29 @@ Desde el punto de vista empresarial, la inversión supone la compra de activos f
 
 Desde una perspectiva financiera, la inversión se refiere a la compra de productos financie ros, como acciones, bonos, cuentas bancarias a plazos fijos, etc., para obtener una rentabi lidad, es decir, el intercambio de un capital disponible por un activo de menor liquidez. El beneficio económico esperado de esta inversión se puede producir por:
 
-La decisión sobre la conveniencia o no de una inversión está determinada por diferentes fac tores, aunque el binomio rentabilidad/riesgo es uno de los más decisivos.
+- Intereses: Al igual como sucede en un plazo fijo.
 
-## D Rentabilidad
+- Reparto de beneficios: Se denominan dividendos, en el caso de las acciones de una sociedad anónima; retorno coopera tivo, en una sociedad cooperativa; simplemente reparto de beneficios, en caso de una sociedad limitada.
+
+- Plusvalías: Es fruto de la venta de un activo financiero un precio superior al que se adquirió, como puede suceder al vender acciones compradas.
+
+La decisión sobre la conveniencia o no de una inversión está determinada por diferentes factores, aunque el binomio rentabilidad/riesgo es uno de los más decisivos.
+
+## La inflación
+
+es el incremento general y mantenido de los precios. Una medida frecuente de la inflación es el índice de precios al consumo (IPC), que indica mediante un porcentaje la variación anual de precios en un país.
+
+Como efecto negativo, la capacidad de compra se ve reducida, es decir, se produce una disminución del poder adquisitivo. Como efecto positivo, se origina una activación del ahorro y una posible reducción de los tipos de interés para incentivar el consumo.
+
+## Rentabilidad
 
 La rentabilidad se define como la obtención de un valor superior al de los recursos utilizados. Esta comparación entre dos capitales diferentes para ver cuál tiene más valor debe tener en cuenta el paso del tiempo, puesto que el nivel de vida se incrementa. De manera que una cierta cantidad de dinero tendrá menos valor al cabo de un año y esa pérdida coincidirá con el incremento del precio de la vida o del índice de precios al consumo.
 
-## Ejemplo 2. Valor del capital
+Ejemplo 2. Valor del capital
 
 Si tenemos un millón de euros y la inflación se incrementa un 3% en un año, al cabo de ese tiempo el valor actualizado de ese millón de euros será de 1 000000/1,03 = 970873,78 euros. No significa que nuestro millón haya menguado, puesto que seguimos teniéndolo en nuestro poder, lo que ha sucedido es que ha decrecido su capacidad de compra, que ahora es equivalente a algo más de 970000 euros.
 
 Por eso se dice que cierto nivel de inflación es positivo para la economía de un país, puesto que evita que el dinero se quede inmovilizado y, al utilizarlo para compra de activos o para inversiones financieras, la economía se activa y, con ello, se crea trabajo y se producen bienes.
-
-La inflación es el incremento general y mantenido de los precios. Una medida frecuente de la inflación es el índice de precios al consumo (IPC), que indica mediante un porcen taje la variación anual de precios en un país.
-
-Como efecto negativo, la capacidad de compra se ve reducida, es decir, se produce una disminución del poder adquisitivo. Como efecto positivo, se origina una activación del ahorro y una posible reducción de los tipos de interés para incentivar el consumo.
 
 Por otra parte, la rentabilidad está asociada al plazo de tiempo durante el cual el dinero no estará disponible para el prestamista, de manera que cuanto más largo sea el periodo de tiempo para el que se solicita un préstamo, mayor interés habrá que pagar por él.
 
@@ -5964,13 +6081,13 @@ Teniendo en cuenta los dos efectos anteriores, el tipo de interés real que se p
 
 Si se solicita un crédito a un año con un tipo de interés del 3% y la inflación se incrementa durante ese tiempo un 3 %, significa que el interés real que estamos pagando es 0.
 
-- [ ] D Riesgo - Seguridad
+- Riesgo - Seguridad
 
 El nivel de riesgo de una inversión está definido por la seguridad con la que se puede re cuperar el capital invertido. A mayor inseguridad, mayor riesgo y, por regla general, mayor rentabilidad. El riesgo es un elemento inherente a la inversión.
 
 Aunque este riesgo se puede reducir contratando productos seguros de rentabilidad fija, pese a que el beneficio no será muy alto.
 
-## D Liquidez
+## Liquidez
 
 La liquidez se refiere a la facilidad con la que la inversión efectuada se puede convertir en líquido; es decir, la canjeabilidad del producto por dinero o la recuperación del capital inicial. Por ejemplo, la compra de un inmueble es menos líquida que un depósito a plazo fijo de un año y, a su vez, este es menos líquido que unas acciones compradas en bolsa, que pueden venderse rápidamente.
 
@@ -5980,38 +6097,60 @@ La correcta identificación de las necesidades financieras supone uno de los asp
 
 La planificación financiera representa un proceso de reflexión donde se cuantifican los proyectos de la empresa en términos de costes de inversión y necesidades de financia ción para tales inversiones. No solo incluye decidir qué acciones llevar a cabo, a través de la elaboración de un presupesto, sino también una verificación posterior de la eficiencia de tales medidas.
 
-Se puede distinguir entre una planificación financiera a corto plazo o táctica, y una plani ficación financiera a largo plazo o estratégica. A corto plazo, se trata de valorar cuestiones de liquidez, gestión del circulante, política de precios, presupuesto de compras o inversiones, la cuenta de resultados prevista, etc. A largo plazo, la planificación financiera se preocupa de cuestiones como posible expansión, evolución tecnológica, localización o diversificación, presupuesto de l+D+i o de publicidad, etc.
+Se puede distinguir entre una planificación financiera a corto plazo o táctica, y una planificación financiera a largo plazo o estratégica. A corto plazo, se trata de valorar cuestiones de liquidez, gestión del circulante, política de precios, presupuesto de compras o inversiones, la cuenta de resultados prevista, etc. A largo plazo, la planificación financiera se preocupa de cuestiones como posible expansión, evolución tecnológica, localización o diversificación, presupuesto de l+D+i o de publicidad, etc.
 
-Las empresas buscan mantener un equilibrio en su dependencia financiera, de manera que so licitan recursos ajenos para apalancarse y mejorar su eficiencia, a la vez que controlan que esta dependencia externa no sea excesiva ni suponga demasiados costes financieros. Algunas medidas que pueden adoptar para ello son:
+## Las empresas buscan mantener un equilibrio en su dependencia financiera,
+
+de manera que solicitan recursos ajenos para apalancarse y mejorar su eficiencia, a la vez que controlan que esta dependencia externa no sea excesiva ni suponga demasiados costes financieros. Algunas medidas que pueden adoptar para ello son:
 
 - a) Priorizar las necesidades de financiación. Las necesidades económicas de la empresa varían según el momento, ya que no es lo mismo iniciar el negocio que estar en fase de expansión económica o de internacionalización. Por eso, una buena gestión financiera pasa por decidir en cada momento qué inversiones son necesarias y cuáles pueden posponerse o eliminarse, sin poner en riesgo la rentabilidad de la empresa.
-- b) Mejorar la eficiencia. Con el cambio de ciclo económico, las empresas tienen que adaptar su actividad a las circunstancias. Una buena gerencia revisará todas las decisiones y com probará si se están optimizando los recursos disponibles. A modo de ejemplo, señalamos algunos aspectos a considerar:
+- b) Mejorar la eficiencia. Con el cambio de ciclo económico, las empresas tienen que adaptar su actividad a las circunstancias. Una buena gerencia revisará todas las decisiones y comprobará si se están optimizando los recursos disponibles. A modo de ejemplo, señalamos algunos aspectos a considerar:
+
+- Ajuste del nivel de stock: Si las ventas se reducen, pero no las compras de materias primas, se habrán generado unos excedentes innecesarios, que consumen recursos para su adquisición pero también para su almacena￾V: miento custodia. Las empresas que no pueden devolver el stock tratan de liquidarlo con ofertas o de negociar un retraso en el pago los proveedores.
+
+- Reducción de gastos fijos: La caída de ventas no produce un merma en los constes fijo, pero sí en los ingresos. Por ese motivo, hay que reajsutar los recursos tanto como materiales como humanos a los nuevos requerimientos. Es decir, hay que valorar la eficiendica de la empresa.
+
+- Coste social de las medidas: Antes de decidir en qué costes fijos ahorrar, habrá que tener en cuenta el impacto social negativo de algunas acciones, como despidos colectivos. Si la empresa es grande, esta noticia atraerá los medios de comunicación y repercutirá negativamente en la imagen de la empresa.
+
+- Puntualidad en pagos: Los pagos fuera de plazo a la Seguridad Social, impuestos vencimientos de deuda pueden generar gastos adicionales, como penalizaciones o intereses de demora.
 
 ## Evaluación de las inversiones realizadas
 
-Las empresas deben guardar un equilibrio entre los recursos que destinan al ahorro y los que emplean en la Inversión financiera, ambos son aspectos necesarios en la actividad empresarial
+Las empresas deben guardar un equilibrio entre los recursos que destinan al ahorro y los que emplean en la Inversión financiera, ambos son aspectos necesarios en la actividad empresarial.
 
-Las empresas, al igual que los gobiernos, pueden emitir deuda para tratar de captar este aho rro privado. En el caso de los estados se habla de deuda pública, que son las letras, bonos y obligaciones del Estado.
+- Ahorros: Sirven para financiar imprevistos necesidades corto plazo. El dinero se deposita en productos financieros de gran liquidez, como depósitos plazo, cuentas de ahorro, cuentas la vista, etc. A cambio de la seguridad de la inversión de la disponibilidad del dinero, la rentabilidad de estos productos es baja, por lo que la empresa debe destinar solo los recursos necesarios al ahorro y valorando siempre el coste de oportunidad, no emplearlos en alternativas más rentables.
 
-En el caso de las empresas se denominan títulos de deuda o empréstitos, y pueden ser pa garés o bonos y obligaciones.
+- Inversión financiera: Se basa en emplear los recursos monetarios excedentes en la adquisición de productos financieros que ofrezcan una alta rentabilidad. Para ello, o bien se inmovilizan durante un plazo de tiempo considerable, como letras, bonos obligaciones, o bien, se asume un riesgo de pérdida, como compra de acciones o fondos de inversión. La inversión financiera es tan necesaria como el ahorro ya que facilita el crecimiento largo plazo. La inversión financiera tiene una utilidad social muy importante, ya que permite el traspaso de fondos económicos desde los ahorradores las entidades que tienen necesidad de ellos, como las empresas los organismos públicos. Expresado en términos económicos, la inversión financiera permite el traspaso de unidades económicas con superávit a las que presentan déficits.
 
-Son títulos de deuda a corto plazo emitidos por una empresa privada para cubrir sus necesida des temporales de financiación. Las personas que adquieren pagarés de una empresa se convierten en acreedores de la misma. Una vez transcurrido el plazo de tiempo, la empresa está comprome tida a devolver la cantidad solicitada, junto con un interés. Estos pagarés pueden ser adquiridos tanto por particulares como por otras empresas o entidades financieras.
+## Las empresas, al igual que los gobiernos, pueden emitir deuda
 
-Son títulos de deuda a más largo plazo, que ofrecen una rentabilidad fija. En España, cuando se emiten por un plazo inferior a cinco años se denominan bonos, y superando ese tiempo, obliga ciones. En otros países, el término bono es genérico para todos los plazos de vencimiento. El inte rés en bonos y obligaciones suele ser mayor que en pagarés, para compensar la mayor cantidad de tiempo que el acreedor no dispone de su dinero.
+para tratar de captar este ahorro privado. En el caso de los estados se habla de deuda pública, que son las letras, bonos y obligaciones del Estado.
 
-Unos y otros son activos financieros negociables, es decir, que se pueden vender o comprar en los mercados financieros secundarios.
+En el caso de las empresas se denominan títulos de deuda o empréstitos, y pueden ser pagarés o bonos y obligaciones.
+
+- Pagarés: Son títulos de deuda a corto plazo emitidos por una empresa privada para cubrir sus necesida des temporales de financiación. Las personas que adquieren pagarés de una empresa se convierten en acreedores de la misma. Una vez transcurrido el plazo de tiempo, la empresa está comprome tida a devolver la cantidad solicitada, junto con un interés. Estos pagarés pueden ser adquiridos tanto por particulares como por otras empresas o entidades financieras.
+
+Bonos y obligaciones: Son títulos de deuda a más largo plazo, que ofrecen una rentabilidad fija. En España, cuando se emiten por un plazo inferior a cinco años se denominan bonos, y superando ese tiempo, obliga ciones. En otros países, el término bono es genérico para todos los plazos de vencimiento. El inte rés en bonos y obligaciones suele ser mayor que en pagarés, para compensar la mayor cantidad de tiempo que el acreedor no dispone de su dinero.
+
+## Unos y otros son activos financieros negociables,
+
+es decir, que se pueden vender o comprar en los mercados financieros secundarios.
 
 Un mercado financiero primario es aquel en el que se emiten unos títulos (bonos, acciones, etc.). Está integrado, por tanto, por las empresas y los organismos públicos que ofrecen su deuda para que sea adquirida por ahorradores que quieren conseguir una rentabilidad a su dinero.
 
 Un mercado financiero secundario es aquel en el que se realizan intercambios de com praventa de los títulos ya existentes. Por ejemplo, las bolsas de valores o el MAB, como ya vimos en la Unidad 4, son mercados secundarios. La inmensa mayoría de las tran sacciones financieras se realiza en los mercados secundarios.
 
-Las empresas con exceso de recursos monetarios pueden optar por diferentes productos de inversión.Todos ellos se rigen por el binomio rentabilidad/riesgo, de manera que cuanto mayor sea el riesgo de una inversión, mayor tendrá que ser su rentabilidad para que resulte atractiva.
+## Las empresas con exceso de recursos monetarios
 
-La diferencia de rentabilidad potencial entre una inversión considerada libre de riesgo y otra con riesgo se [lama prima de riesgo. Con frecuencia, se utiliza el tipo de interés de emisión de las letras del Tesoro a un año como referencia de una inversión libre de riesgo.
+pueden optar por diferentes productos de inversión. Todos ellos se rigen por el binomio rentabilidad/riesgo, de manera que cuanto mayor sea el riesgo de una inversión, mayor tendrá que ser su rentabilidad para que resulte atractiva.
+
+La diferencia de rentabilidad potencial entre una inversión considerada libre de riesgo y otra con riesgo se llama prima de riesgo. Con frecuencia, se utiliza el tipo de interés de emisión de las letras del Tesoro a un año como referencia de una inversión libre de riesgo.
 
 Cuando se habla de la prima de riesgo de un país, información recurrente durante la crisis económica, se está comparando la diferencia de interés entre el bono a diez años de ese país con el bono alemán al mismo tiempo. Se compara con Alemania por tratar se del país europeo que ofrece más seguridad a la hora de invertir en ese momento.
 
-A la hora de invertir es importante tener definidos los objetivos, el plazo y la tolerancia al riesgo. De este modo, se delimita si se van a emplear recursos ociosos que se pueden inmo vilizar a medio plazo o si simplemente se espera mejorar el rendimiento de un capital que debe estar disponible.
+## A la hora de invertir
+
+es importante tener definidos los objetivos, el plazo y la tolerancia al riesgo. De este modo, se delimita si se van a emplear recursos ociosos que se pueden inmovilizar a medio plazo o si simplemente se espera mejorar el rendimiento de un capital que debe estar disponible.
 
 Invertir en la bolsa es una opción de riesgo, ya que el rendimiento obtenido al capital depen derá del acierto en la compra y venta de acciones, así como del momento en que se realicen.
 
@@ -6021,7 +6160,7 @@ Eso si se compran valores seguros y se esquivan las burbujas especulativas que g
 
 ## Control de tesorería
 
-Una buena gestión de tesorería o cash rnanagement supone asegurar el pago puntual e incrementar la rentabilidad de los excedentes monetarios. En definitiva, implica el control y buen uso del activo corriente y de los pasivos a corto plazo del balance contable.
+Una buena gestión de tesorería o cash management supone asegurar el pago puntual e incrementar la rentabilidad de los excedentes monetarios. En definitiva, implica el control y buen uso del activo corriente y de los pasivos a corto plazo del balance contable.
 
 Su actuación se evalúa con criterios económicos, de manera que, al finalizar el ejercicio con table, los gastos financieros abonados han debido ser menores que los ingresos financieros generados.
 
@@ -6029,34 +6168,24 @@ Compete al departamento o personal encargado de la tesorería la gestión de:
 
 - Flujos de cobro y pago.
 - Posiciones bancarías.
-- e Inversión de excedentes de tesorería.
+- Inversión de excedentes de tesorería.
 - Financiación de necesidades de tesorería.
 
-## estión de impagados
+## Gestión de impagados
 
 Las deudas que no se pagan constituyen un Impago. Las empresas pueden no cobrar de sus clientes o pueden no pagar a tiempo sus deudas con proveedores, con entidades financieras o con sus trabajadores.
 
-## Ejemplo 4. Datos sobre impagos
-
-Según los datos del Instituto Nacional de Estadística (!NE), de septiembre de 2012:
-
-- El 3,2% del importe de efectos vencidos resulta impagado, lo que asciende a un total de 533 millones de euros.
-- De este importe, el 63,6% corresponde a los bancos, el 29,8% a las cajas de ahorro y el 6,6% a las cooperativas de crédito. No obstante, el importe total ha disminuido un 16,2% respecto a 2011.
-- Canarias presenta el mayor porcentaje de importe de efectos impagados sobre vencidos (5,3%), mientras que la Comunidad de Madrid registra el menor (2,5%). La comunidad con mayor crecimiento anual del importe de los efectos de comercio impagados es Cantabria (13,4%), mientras que las islas Baleares presenta el mayor descenso (-37,1 %).
-
-Según el Banco de España, la tasa de morosidad de los créditos del sistema financiero espa ñol (bancos, cajas de ahorros, cooperativas y establecimientos financieros de crédito) cerró septiembre en el 10,7%, un nuevo máximo histórico desde 1994, cuando la mora se situó en un alarmante 9,15%. En diciembre de 2011, los créditos de dudoso cobro ascendían a más de 135000 millones de euros.
-
-Las compañías pueden defenderse de impagos por parte de los clientes contratando un servi cio deFactoring sin recurso que le exime de tramitar la reclamación, aunque a cambio pagará una comisión más alta a la empresa defactoring.
+Las compañías pueden defenderse de impagos por parte de los clientes contratando un servicio de Factoring sin recurso que le exime de tramitar la reclamación, aunque a cambio pagará una comisión más alta a la empresa defactoring.
 
 Algunas empresas recurren a los servicios de una agencia de gestión de cobros, y pueden registrar a sus clientes en un fichero de morosos, como el fichero ASNEF Industrial de la Asociación Española para la Prevención de Impagados y Morosos (AEPIM). El fichero ASNEF incluye a los morosos que han sido declarados así por un acreedor que es miembro de esta asociación; el coste del proceso son 15 euros. Una vez se ha incorporado en el fichero, la AEPIM notifica al deudor su inclusión en el registro ASNEF.
 
 Además, la AEPIM cuenta con otros servicios, tales como la gestión de cobros o la realización de informes de solvencia.
 
-Este servicio se desarrolla en dos fases: primero, se realiza una gestión amistosa en nombre de la empresa que solicita el servicio y, de ser insuficiente, el departamento jurídico valorará la opción de presentar una demanda judicial, realizando una estimación del coste del proceso. El servicio solo se cobra en caso de ganarse el juicio.
+- Gestión de cobros: Este servicio se desarrolla en dos fases: primero, se realiza una gestión amistosa en nombre de la empresa que solicita el servicio y, de ser insuficiente, el departamento jurídico valorará la opción de presentar una demanda judicial, realizando una estimación del coste del proceso. El servicio solo se cobra en caso de ganarse el juicio.
 
-Es un documento acerca del deudor que indica si este tiene notificaciones judiciales, algún tipo de impago, bienes susceptibles de ser embargados o si está incluido en registros de insolvencia o morosidad. El servicio tiene un coste de 22 euros.
+- Informe de solvencia: Es un documento acerca del deudor que indica si este tiene notificaciones judiciales, algún tipo de impago, bienes susceptibles de ser embargados o si está incluido en registros de insolvencia o morosidad. El servicio tiene un coste de 22 euros.
 
-En el caso de que sea la empresa la deudora, estos impagos pueden poner en riesgo su fun cionamiento.
+En el caso de que sea la empresa la deudora, estos impagos pueden poner en riesgo su funcionamiento.
 
 Para garantizar el pago puntual a proveedores y tener así asegurado el aprovisionamiento necesario, lo mejor es contratar un servicio de confirming, o bien, negociar un alargamiento del plazo de pago con los propios proveedores, que puede ser aceptado si la empresa compra grandes cantidades. No obstante, esta estrategia no es conveniente utilizarla repetidamente porque, además de conllevar un coste emocional, genera un sentimiento de desconfianza y traslada el peso de la deuda a otra empresa que puede, a su vez, verse afectada con problemas económicos o de liquidez.
 
@@ -6066,34 +6195,45 @@ Las entidades bancadas se protegen de los deudores a través de un estudio inici
 
 Los salarios no cobrados por parte de los trabajadores son reclamados ante un juzgado de lo social.
 
-El Registro de Aceptaciones Impagadas (RAÍ) es una base de datos de morosos man tenido por el Centro de Cooperación interbancaria (CCI). Solo puede ser consultado por bancos, cajas de ahorro, cajas rurales y cooperativas de crédito asociadas al CCI, si además aportan al fichero los datos de sus propios impagados.
+## El Registro de Aceptaciones Impagadas (RAI)
+
+es una base de datos de morosos man tenido por el Centro de Cooperación interbancaria (CCI). Solo puede ser consultado por bancos, cajas de ahorro, cajas rurales y cooperativas de crédito asociadas al CCI, si además aportan al fichero los datos de sus propios impagados.
 
 El propósito de este registro es intercambiar información para facilitar la gestión de ries gos en el sistema financiero. El sistema incluye el número de impagados, el importe total y la fecha de la última deuda sin satisfacer, siempre y cuando el importe del impago sea de, al menos, 300 euros. El afectado permanece inscrito en el sistema por un tiempo li mitado, y debe ser informado de su inclusión en tal fichero.
 
-Además del RAÍ y del ASNEF hay más ficheros, como el EQUIFAX, EXPERIAN, CIRBE, BADEXCU , o incluso el FSJ (Ficheros de Incidencias Judiciales). Con la actual crisis, estas bases de datos comienzan a ser más utilizadas.
+Además del RAI y del ASNEF hay más ficheros, como el EQUIFAX, EXPERIAN, CIRBE, BADEXCUG, o incluso el FIJ (Ficheros de Incidencias Judiciales). Con la actual crisis, estas bases de datos comienzan a ser más utilizadas.
 
 La inclusión en uno de estos ficheros puede significar que, a la hora de pedir un crédito o cualquier otro producto bancario o de servicios privados, le sean denegados.
 
-## I Intermediarios financieros
+## Ejemplo 4. Datos sobre impagos
 
-Los intermediarios financieros (bancos, cajas de ahorro, etc.) reciben el dinero de los ahorra dores y lo ofrecen a empresas con déficits que necesitan recursos económicos. Básicamente se distinguen dos tipos de intermediarios: los hancarios y los no hancarios.
+Según los datos del Instituto Nacional de Estadística (INE), de septiembre de 2012:
+
+- El 3,2% del importe de efectos vencidos resulta impagado, lo que asciende a un total de 533 millones de euros.
+- De este importe, el 63,6% corresponde a los bancos, el 29,8% a las cajas de ahorro y el 6,6% a las cooperativas de crédito. No obstante, el importe total ha disminuido un 16,2% respecto a 2011.
+- Canarias presenta el mayor porcentaje de importe de efectos impagados sobre vencidos (5,3%), mientras que la Comunidad de Madrid registra el menor (2,5%). La comunidad con mayor crecimiento anual del importe de los efectos de comercio impagados es Cantabria (13,4%), mientras que las islas Baleares presenta el mayor descenso (-37,1 %).
+
+Según el Banco de España, la tasa de morosidad de los créditos del sistema financiero español (bancos, cajas de ahorros, cooperativas y establecimientos financieros de crédito) cerró septiembre en el 10,7%, un nuevo máximo histórico desde 1994, cuando la mora se situó en un alarmante 9,15%. En diciembre de 2011, los créditos de dudoso cobro ascendían a más de 135000 millones de euros.
+
+## Intermediarios financieros
+
+Los intermediarios financieros (bancos, cajas de ahorro, etc.) reciben el dinero de los ahorra dores y lo ofrecen a empresas con déficits que necesitan recursos económicos. Básicamente se distinguen dos tipos de intermediarios: los bancarios y los no bancarios.
 
 - Intermediarios financieros bancarios. Está integrado por el Banco Central, la banca pri vada, las cajas de ahorro y las cooperativas de crédito. Captan los recursos de las unidades económicas con superávit, con productos que combinan distinto nivel de riesgo y rentabi lidad.
-- Intermediarios financieros no bancarios. Está compuesto por compañías aseguradoras, fondos de pensiones, sociedades de inversión, fondos de inversión, sociedades de crédito hipotecario, entidades de leasing, compañías deFactoring, sociedades mediadoras del mer cado de dinero y sociedades de garantía recíproca.
 
-Se caracterizan porque sus pasivos no son dinero, por lo que su actividad es más mediadora que la de los anteriores.
+- Intermediarios financieros no bancarios. Está compuesto por compañías aseguradoras, fondos de pensiones, sociedades de inversión, fondos de inversión, sociedades de crédito hipotecario, entidades de leasing, compañías deFactoring, sociedades mediadoras del mer cado de dinero y sociedades de garantía recíproca. Se caracterizan porque sus pasivos no son dinero, por lo que su actividad es más mediadora que la de los anteriores.
 
 Los productos que han creado las entidades bancarias para atraer el dinero de los agentes económicos con superávit son variados:
 
-Permite rebasar el 4% de rentabilidad, cuya ventaja estriba en no tener que invertir o depositar el dinero en ningún producto bancario.
+- Cuenta corriente: Permite rebasar el 4% de rentabilidad, cuya ventaja estriba en no tener que invertir o depositar el dinero en ningún producto bancario.
 
-Persigue el ahorro en las operaciones habituales con el banco, como exención en el pago de comisiones por la admi nistración y mantenimiento. En general, la remuneración gira en torno al 3 %, un interés superior al de otras cuentas corrientes.También dan derecho a la solicitud de tarjetas de débito y crédito sin cuota de mantenimiento. A partir de aquí, los bancos y cajas de ahorro diseñan productos más personalizados para competir con el resto, tales como tarifa cero para operar en bolsa o exención de comisiones por el uso de cualquier cajero.
+- Cuenta especial: Persigue el ahorro en las operaciones habituales con el banco, como exención en el pago de comisiones por la administración y mantenimiento. En general, la remuneración gira en torno al 3 %, un interés superior al de otras cuentas corrientes.También dan derecho a la solicitud de tarjetas de débito y crédito sin cuota de mantenimiento. A partir de aquí, los bancos y cajas de ahorro diseñan productos más personalizados para competir con el resto, tales como tarifa cero para operar en bolsa o exención de comisiones por el uso de cualquier cajero.
 
-Una de las alternativas para conseguir más rentabilidad en productos bancarios.ya que producen entre un 4%-5% de remuneración, con plazos variables de tres a veinticuatro meses.
+- Pagaré bancario: Una de las alternativas para conseguir más rentabilidad en productos bancarios.ya que producen entre un 4%-5% de remuneración, con plazos variables de tres a veinticuatro meses.
 
-Se trata de la renta fija más tradicional, con una rentabilidad que no supera el 4% pero que ofrece menor riesgo
+- Depósito bancario: Se trata de la renta fija más tradicional, con una rentabilidad que no supera el 4% pero que ofrece menor riesgo.
 
-Se puede obtener la mejor remuneración de todas, con imposiciones que generan hoy entre un 4,2 % y un 8%, y con plazos de permanencia que van desde un mes a doce meses. El principal problema de esta propuesta bancaria es que está vinculada a otros productos financieros, casi siempre de la renta variable. Son menos seguros, ya que se basan en el buen comportamiento de un índice o activo financiero, que bajo ningún aspecto está asegurado.
+- Depósito combinado: Se puede obtener la mejor remuneración de todas, con imposiciones que generan hoy entre un 4,2 % y un 8%, y con plazos de permanencia que van desde un mes a doce meses. El principal problema de esta propuesta bancaria es que está vinculada a otros productos financieros, casi siempre de la renta variable. Son menos seguros, ya que se basan en el buen comportamiento de un índice o activo financiero, que bajo ningún aspecto está asegurado.
 
 Antes de contratar ningún producto financiero es preciso conocer si la cancelación parcial o total del mismo conllevará comisiones. En tal caso, habría que invertir solo el dinero exce dente que no vaya a ser necesario de manera inmediata. En caso contrario, sería preferible mantenerlo en una cuenta corriente.
 
@@ -6101,7 +6241,7 @@ Los pagarés bancaríos son los productos más penalizados, ya que no se pueden 
 
 En los depósitos a plazo, siempre se pueden hacer rescates parciales o totales. No obstante, están penalizados por comisiones de hasta el 2% o por bajadas en la rentabilidad.
 
-## D. estión de las obligaciones fiscales
+## D. Gestión de las obligaciones fiscales
 
 Las empresas, al igual que las personas físicas, están obligadas al pago de impuestos. Es una manera de repartir la riqueza y de contribuir de forma solidaria para la creación de bienes y servicios asequibles a la sociedad, como la creación de hospitales y escuelas, servicios públi cos, cuerpos de seguridad del estado, infraestructuras, etc.
 
@@ -6109,7 +6249,7 @@ La planificación fiscal que llevan a cabo las compañías busca reducir su carg
 
 ## Ejemplo 5. Reducir cargas tributarias
 
-Una empresa podría preguntarse si es preferible comprar un vehículo y soportar el IVA y el IVTM (Impuesto de Vehículos de Tracción Mecánica) o si bien es mejor contratar un leasingy beneficiarse de las ventajas fiscales que ello ofrece.
+Una empresa podría preguntarse si es preferible comprar un vehículo y soportar el IVA y el IVTM (Impuesto de Vehículos de Tracción Mecánica) o si bien es mejor contratar un leasing y beneficiarse de las ventajas fiscales que ello ofrece.
 
 ## Ejemplo 6. Rebajas en pagos anticipados
 
@@ -6125,34 +6265,39 @@ Para facilitar el pago y la información a los contribuyentes, la Agencia Tribut
 
 Este calendario también está disponible en inglés, como ayuda a las empresas internacionales que tienen obligaciones tributarias en España.
 
-B
+## Los pagos a cuenta
 
-Los pagos a cuenta son pagos anticipados de un impuesto que se abonará después en la liquidación final. Existen tres modalidades de pagos a cuenta: pagos fraccionados, retenciones e ingresos a cuenta.
+son pagos anticipados de un impuesto que se abonará después en la liquidación final. Existen tres modalidades de pagos a cuenta: pagos fraccionados, retenciones e ingresos a cuenta.
 
-Son pagos parciales realizados por el contribuyente que, más adelante, estará obligado a realizar la liquidación total del impuesto.
+- Pagos fraccionados: Son pagos parciales realizados por el contribuyente que, más adelante, estará obligado a realizar la liquidación total del impuesto.
 
-## Ejemplo
+Ejemplo: El Impuesto sobre Sociedades exige el pago fraccionado trimestral.
 
-El Impuesto sobre Sociedades exige el pago fraccionado trimestral.
+- Retenciones: Son las cantidades retenidas por las empresas, del salario de sus trabajadores o de los pagos a profesionales.
 
-Son las cantidades retenidas por las empresas, del salario de sus trabajadores o de los pagos a profesionales.
+Ejemplo: Los pagos a profesionales como: abogados o gestores.
 
-## Ejemplo
+- Ingresos a cuenta: Es la cantidad estimada de impuestos que debe ingresar en Hacienda el receptor de un cobro en especie.
 
-Los pagos a profesionales como: abogados o gestores.
+Ejemplo: El ganador de un coche en un sorteo o rifa.
 
-Es la cantidad estimada de impuestos que debe ingresar en Hacienda el receptor de un cobro en especie.
+## Simulación empresarial
 
-## Ejemplo
+El objetivo de esta unidad es que apliquéis a vuestra empresa medidas gerenciales básicas, relativas a la organización del stock, a la toma de decisiones basada en datos con tables, a la administración de los recursos financieros en función de las necesidades de inversión necesarias y, por último, al cumplimiento puntual de las obligaciones fiscales.
 
-El ganador de un coche en un sorteo o rifa.
-
-El objetivo de esta unidad es que apliquéis a vuestra empresa medidas gerenciales bá sicas, relativas a la organización del stock, a la toma de decisiones basada en datos con tables, a la administración de los recursos financieros en función de las necesidades de inversión necesarias y, por último, al cumpli miento puntual de las obligaciones fiscales.
-
-Al finalizar el tema, recogerás toda esta in formación para el plan de empresa en dos apartados denominados:
+Al finalizar el tema, recogerás toda esta información para el plan de empresa en dos apartados denominados:
 
 1. Plan de aprovisionamiento.
 2. Obligaciones fiscales.
+
+## Fases de la Simulación empresarial
+
+- Fase 1. Plan de aprovisionamiento
+- Fase 2. Gestión de contabilidad
+- Fase 3. Evaluación de las inversiones realizadas
+- Fase 4. Control de tesorería y gestión de impagados
+- Fase 5. Intermediarios financieros
+- Fase 6. Gestión de las obligaciones fiscales
 
 ## Fase 1. Plan de aprovisionamiento
 
@@ -6162,63 +6307,55 @@ El objetivo es la organización y adquisición de las existencias que se generan
 
 En suma, genera dos grandes bloques de actividad:
 
-- estión de stocks o de inventarios. Esta función persigue organizar y llevar el control de las existencias que permanecen en stock o de los productos en proceso, así como realizar el recuento de las existencias y determinar su almacenamiento en óptimas condiciones de conservación y al menor coste posible.
-- estión de compras. Este cometido conlleva la relación con proveedores, la búsqueda de las mejores ofertas, la comparativa del precio de las mercancías con su calidad, el tiempo de entrega y plazo para el pago, así como la realización de pedidos, asegurar la recepción a tiempo, el control del estado de la mercancía, la administración de los pagos y la comuni cación con el servicio posventa.
+- Gestión de stocks o de inventarios. Esta función persigue organizar y llevar el control de las existencias que permanecen en stock o de los productos en proceso, así como realizar el recuento de las existencias y determinar su almacenamiento en óptimas condiciones de conservación y al menor coste posible.
 
-## estión de stocks o de inventarios
+- Gestión de compras. Este cometido conlleva la relación con proveedores, la búsqueda de las mejores ofertas, la comparativa del precio de las mercancías con su calidad, el tiempo de entrega y plazo para el pago, así como la realización de pedidos, asegurar la recepción a tiempo, el control del estado de la mercancía, la administración de los pagos y la comuni cación con el servicio posventa.
+
+## Gestión de stocks o de inventarios
 
 Los gastos de almacenamiento son más importantes de lo que pudiera pensarse a priori. Incluyen gastos de personal y gastos de espacio físico:
 
 - El personal. Su función es asegurar el traslado de los bienes de fábrica al almacén y de aquí al punto de venta, además del mantenimiento en cuanto a limpieza y control de su calidad, la custodia para evitar robos o deterioros accidentales y la gestión administrativa de todo el proceso.
+
 - Espacio físico. Los gastos que genera incluyen tanto el valor del terreno y del inmueble que los acumula, como el precio de alarmas y seguros, del mobiliario específico para un almacenaje ordenado, de la maquinaría para su colocación en altura, etc.
-
-## Fases de la Simulación empresarial
-
-- Fase 1. Plan de aprovisionamiento
-- Fase 2. estión de contabilidad
-- Fase 3. Evaluación de las inversiones realizadas
-- Fase 4. Control de tesorería y gestión de impagadqs
-- Intermediarios financieros Fase 5.
-- Fase 6. estión de las obligaciones fis cales
 
 - Costes financieros y de oportunidad. Estos gastos se producen por tener el dinero in movilizado en unos excedentes que durante un tiempo resultan improductivos, en lugar de emplearlos en otras inversiones más rentables. Sin embargo, en ocasiones los descuentos obtenidos por volumen de pedido o el coste del transporte de un gran volumen de mercan cías compensan la inmovilización de esta mercancía.
 
 Para la gestión adecuada del stock es importante delimitar algunos conceptos:
 
-| §2\S Es la cantidad máxima de existencias que se van a almacenar.                                                                                                                                               |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| \*'I 1 Es el límite de stock por debajo del cual se encargará un nuevo pedido.                                                                                                                                  |
-| Es la cantidad de existencias innecesarias para un ciclo productivo pero que se acumulan intencionalmente para evitar problemas posteriores de abastecimiento, que generarían unos costes de ruptura de stocks. |
-| Son los gastos que se generan al detener la producción por carecer de materias primas necesarias.                                                                                                               |
+- Stock máximo: Es la cantidad máxima de existencias que se van a almacenar.
+- Punto de pedido: Es el límite de stock por debajo del cual se encargará un nuevo pedido.
+- Stock de seguridad: Es la cantidad de existencias innecesarias para un ciclo productivo pero que se acumulan intencionalmente para evitar problemas posteriores de abastecimiento, que generarían unos costes de ruptura de stocks.
+- Costes de ruptura de stocks: Son los gastos que se generan al detener la producción por carecer de materias primas necesarias.
 
-## estión de compras
+## Gestión de compras
 
-La toma de decisiones debe estar fundamentada en una correcta información sobre las ne cesidades de existencias y sobre el stock acumulado. De entre todos los enfoques gerenciales posibles, hay uno que ha despuntado desde finales de los años setenta por su probada efica cia: el modeloJustin time.
+La toma de decisiones debe estar fundamentada en una correcta información sobre las ne cesidades de existencias y sobre el stock acumulado. De entre todos los enfoques gerenciales posibles, hay uno que ha despuntado desde finales de los años setenta por su probada eficacia: el modelo Just in time.
 
-- D ModeloJustin time (JIT) o Justo a tiempo
+## Modelo Just in time (JIT) o Justo a tiempo
 
 Este sistema de organización de la producción surgió en Japón como alternativa al taylo rismo, el modelo clásico de gestión de una fábrica.
 
-El taylorismo, término derivado de su creador FrederickWinslowTaylor, se basa en la pro ducción en cadena gracias a un sistema de secuencialización de la tarea productiva y de la especialización de los trabajadores en una parte de la misma. Fue un método de organización industrial muy eficaz durante la Revolución industrial, cuando el mayor volumen de produc ción de las fábricas exigía aumentar el ritmo y la productividad de los trabajadores. De esta manera, se arrinconaba el sistema artesanal de fabricación en el que un trabajador es res ponsable de todo el proceso productivo de un bien, para incorporar un proceso industrial de fabricación, en el que cada obrero es una parte de la cadena productiva.
+El taylorismo, término derivado de su creador FrederickWinslowTaylor, se basa en la pro ducción en cadena gracias a un sistema de secuencialización de la tarea productiva y de la especialización de los trabajadores en una parte de la misma. Fue un método de organización industrial muy eficaz durante la Revolución industrial, cuando el mayor volumen de producción de las fábricas exigía aumentar el ritmo y la productividad de los trabajadores. De esta manera, se arrinconaba el sistema artesanal de fabricación en el que un trabajador es res ponsable de todo el proceso productivo de un bien, para incorporar un proceso industrial de fabricación, en el que cada obrero es una parte de la cadena productiva.
 
-En el modelo JIT o toyotismo, término que alude a la fábrica de coches donde se implantó por primera vez, se centra en reducir el coste de la producción reduciendo el stock a cero. De esta forma, la producción está sujeta a la demanda realizada y no tanto a la esperada, es decir, se producen los bienes necesarios, en las cantidades requeridas, en el momento en que se solicitan. El ahorro en los costes de almacenamiento genera una ventaja com petitiva.
+En el modelo JIT o toyotismo, término que alude a la fábrica de coches donde se implantó por primera vez, se centra en reducir el coste de la producción reduciendo el stock a cero. De esta forma, la producción está sujeta a la demanda realizada y no tanto a la esperada, es decir, se producen los bienes necesarios, en las cantidades requeridas, en el momento en que se solicitan. El ahorro en los costes de almacenamiento genera una ventaja competitiva.
 
 Este nuevo sistema se debe a Taiichi Ohno, ingeniero de Toyota, que enfocó el proceso de producción de manera que el último eslabón de la cadena definiría las necesidades del paso previo. El sistema requiere un nivel de coordinación excepcional, para evitar parones en el proceso productivo, razón por la que Ohno inventó un sencillo sistema de comunicación basado en tarjetas donde se apuntaba la cantidad de material que se solicitaba al al macén.
 
 Junto a la idea básica de stock cero, el modelo persigue la máxima eficiencia de la produc ción, a través de un control de calidad exhaustivo que reduzca la producción de productos defectuosos y una precisión por parte de los proveedores en los plazos de entrega.
 
-Durante la crisis de los años setenta las empresas japonesas experimentaron un crecimiento inesperado, gracias a la aplicación de este sistema, razón por la cual las empresas de otras par tes del mundo imitaron este modelo de gestión; en España, Superlópez lo implantó en la fá brica de general Motors.
+Durante la crisis de los años setenta las empresas japonesas experimentaron un crecimiento inesperado, gracias a la aplicación de este sistema, razón por la cual las empresas de otras par tes del mundo imitaron este modelo de gestión; en España, Superlópez lo implantó en la fábrica de General Motors.
 
 ## Actividad de simulación 1
 
 Realiza un plan de aprovisionamiento para vuestra empresa.
 
-## Ayuda práctica:
+Ayuda práctica:
 
 - a) Comienza por elaborar un listado de todos los suministros que necesitaréis para desa rrollar vuestra actividad. Después, enumera los proveedores que mejor podrían abas teceros, según el conocimiento que tengáis del sector y según las condiciones de venta que ofrecen, si es preciso puedes localizarlos en Internet.
 - b) Por último, debes tener en consideración la estimación de ventas efectuada en unida des anteriores, para realizar la previsión de compras (número de unidades y periodici dad del pedido).
 
-## Fase 2. estión de contabilidad
+## Fase 2. Gestión de contabilidad
 
 La gestión de contabilidad se encarga del análisis económico de una empresa con la inten ción de facilitar la toma de decisiones por parte de la gerencia. Vamos a ejemplificar la impor tancia de esta labor con un caso fallido de gestión de contabilidad. Una mala práctica puede ser tan ilustrativa como una buena gestión directiva, ya que pone de manifiesto los errores a evitar y sus gravísimas consecuencias.
 
@@ -6228,17 +6365,17 @@ Lehman Brothers Holdings Inc, fundada en 1850, llegó a ser el cuarto banco de i
 
 El holding tenía su sede social en Nueva York, pero poseía sucursales en todo el mundo. En 2008, la compañía anunció suspensión de pagos y, unos años después, la quiebra definitiva.
 
-## Pinceladas históricas
+- Pinceladas históricas
 
 En 1844, los hijos de un comerciante alemán de ganado emigraron a Estados Unidos y abrie ron un comercio, que se denominó Lehman Brothers.
 
-Aprovechando el alto valor del algodón, la empresa comenzó a aceptar este elemento como forma de pago, algo equivalente a aceptar el oro en lugar del dinero, solo que en este caso se trataba de una materia prima que luego se podía comercializar. De esta manera, la firma acabó convirtiéndose en un negocio de algodón tratado y de ahí fue evolucionando hasta convertirse en banca de inversión, es decir, en una entidad financiera especializada en inver siones, gestión de activos financieros, banca comercial y servicios bancarios en general.
+Aprovechando el alto valor del algodón, la empresa comenzó a aceptar este elemento como forma de pago, algo equivalente a aceptar el oro en lugar del dinero, solo que en este caso se trataba de una materia prima que luego se podía comercializar. De esta manera, la firma acabó convirtiéndose en un negocio de algodón tratado y de ahí fue evolucionando hasta convertirse en banca de inversión, es decir, en una entidad financiera especializada en inversiones, gestión de activos financieros, banca comercial y servicios bancarios en general.
 
 La compañía superó momentos económicos difíciles, como la uerra de Secesión, la crisis bancaria de 1907-tan parecida a la actual-, la ran Depresión o la crisis de la década de 1980.
 
 Sin embargo, no sobrevivió a la crisis de finales del año 2000, originada por la crisis inmobi liaria y las hipotecas subprime («hipotecas basura»).
 
-## Hipotecas suhprírne
+- Hipotecas subprime
 
 Las hipotecas subprime, hipotecas tóxicas, hipotecas de alto riesgo o hipotecas basura son aquellos préstamos otorgados a personas con pocas garantías de solvencia. El crecimiento económico de los años previos hizo creer que las personas que presentaban un nivel de ries go alto podían ser candidatos a recibir un préstamo. En Estados Unidos se oían voces que defendían el derecho de cualquier ciudadano a tener acceso a una vivienda en propiedad. El momento de expansión económica que se vivía mostraba datos optimistas, como un bajo nivel de desempleo y salarios elevados.
 
@@ -6248,7 +6385,7 @@ Sin embargo, la estimación se quedó corta. Mientras que en el año 2003 las hi
 
 Lehman Brothers experimentó las consecuencias de este exceso de confianza. Acumuló enor mes pérdidas por hipotecas impagadas. En 2008 la empresa anunció la suspensión de pagos. En el año 2012 se declaró la quiebra total y comenzó el concurso de acreedores. Se llevó a cabo la liquidación total de sus activos, logrando reunir 65000 millones de dólares, que no podían cubrir los 450000 millones de deuda que reclamaban los acreedores. Muchas voces sitúan esta caída como el inicio de la crisis económica mundial, una crisis caracterizada por la ausencia de liquidez global.
 
-## Contabilidad engañosa
+- Contabilidad engañosa
 
 La quiebra de Lehman Brothers tuvo una gran repercusión mediática. No solo por tratarse de una entidad financiera tan grande, sino porque cuando la entidad tuvo conocimiento de sus malos resultados, maquilló su balance para evitar que trascendieran estos datos.
 
@@ -6258,15 +6395,19 @@ Las pérdidas, no obstante, fueron más severas de lo esperable y la entidad no 
 
 Además, la adulteración de los datos contables y su aceptación por parte de la empresa auditora escandalizó a los mercados, que vieron cómo se supeditaban los valores éticos a los económicos.
 
-## Conclusiones finales
+- Conclusiones finales
 
 Lehman Brothers era una de las empresas que más invertía en la selección y atracción de talento. Recorría las escuelas de negocios reclutando a los mejores MBA del mundo, ofrecién doles sueldos un 50% más altos que otras firmas. Con tanto talento, ¿cómo pudieron llegar a una situación como la que se acaba de describir?
 
-La respuesta es compleja y no puede simplificarse con un único argumento de codicia o de afán especulativo. Hay más elementos que entran en juego en una organización tan grande y -210- tan bien posicionada en el mercado, como la presión por la expansión, la exigencia de man tener la ventaja competitiva en el sistema, la cultura organizacional de incentivar resultados a corto plazo, el abono de comisiones por la cantidad de transacciones financieras efectuadas más que por su calidad, etc.
+La respuesta es compleja y no puede simplificarse con un único argumento de codicia o de afán especulativo. Hay más elementos que entran en juego en una organización tan grande y tan bien posicionada en el mercado, como la presión por la expansión, la exigencia de mantener la ventaja competitiva en el sistema, la cultura organizacional de incentivar resultados a corto plazo, el abono de comisiones por la cantidad de transacciones financieras efectuadas más que por su calidad, etc.
 
 Si bien ya no se puede remediar la quiebra de esa entidad, sí es posible prevenir situaciones venideras similares. La clave es recordar siempre esta premisa: es imposible obtener rentabi lidades enormes con bajo nivel de riesgo, de la misma manera que los altos rendimientos, a la larga, suelen llevar a la ruina.
 
-Un hoiding es un conglomerado de empresas en el que una compañía controla las acti vidades de las demás porque posee la totalidad o una parte significativa de sus acciones.
+## Holding
+
+Un holding es un conglomerado de empresas en el que una compañía controla las acti vidades de las demás porque posee la totalidad o una parte significativa de sus acciones.
+
+## MBA
 
 MBA alude a Master Business Administration, es decir, a personal con formación especializada en administración de empresas.
 
@@ -6274,7 +6415,7 @@ MBA alude a Master Business Administration, es decir, a personal con formación 
 
 En esta fase debes tomar decisiones de gestión empresarial respecto a los resultados contables obtenidos en la unidad anterior.
 
-## Ayuda práctica:
+Ayuda práctica:
 
 Revisa vuestro balance y analiza con detenimiento los datos. Luego, reflexiona si la em presa está progresando como esperabais o si, por el contrario, hay que introducir algunos cambios y cuáles serían. Si ya han sido recogidos en la unidad anterior, no hace falta que los repitas.
 
@@ -6286,21 +6427,13 @@ Las empresas evalúan la rentabilidad de los activos financieros en los que tien
 
 Entre los métodos dinámicos se encuentran:
 
-Es una vanante del Flujo neto de caja, ya que se calcula el valor actualizado de todos los datos que se anotan. Un VAN positivo predice que el proyecto será rentable. Incluso en un proyecto empresarial suele analizarse la rentabilidad potencial de la idea de negocio, comparando el beneficio obtenido por la actividad empresarial con el que se lograría en una inversión de poco riesgo, como letras del Estado. En caso de VAN negativo, sería preferible invertir el dinero en dichos productos en lugar de dedicar tiempo y esfuerzo a la creación empresarial.
+1. Valor Actual Neto (VAN): Es una variante del Flujo neto de caja, ya que se calcula el valor actualizado de todos los datos que se anotan. Un VAN positivo predice que el proyecto será rentable. Incluso en un proyecto empresarial suele analizarse la rentabilidad potencial de la idea de negocio, comparando el beneficio obtenido por la actividad empresarial con el que se lograría en una inversión de poco riesgo, como letras del Estado. En caso de VAN negativo, sería preferible invertir el dinero en dichos productos en lugar de dedicar tiempo y esfuerzo a la creación empresarial.
 
-Calcula la tasa de interés con la cual el VAN es igual a cero, de forma que una inversión es aconsejable si laTIR es supe rior a la tasa exigida por el inversor. Para ello, la TIR se compara con una tasa de corte, que será el coste de oportunidad de la inversión.
+2. Tasa Interna de Retorno (TIR): Calcula la tasa de interés con la cual el VAN es igual a cero, de forma que una inversión es aconsejable si laTIR es supe rior a la tasa exigida por el inversor. Para ello, la TIR se compara con una tasa de corte, que será el coste de oportunidad de la inversión.
 
-Es una vanante del método del pay-hack estático. Calcula el tiempo necesario para que se recupere el valor actualizado de una inversión.
+3. Payback dinámico o descontado: Es una variante del método del pay-hack estático. Calcula el tiempo necesario para que se recupere el valor actualizado de una inversión.
 
-El valor actualizado de un bien considera su valor en moneda comente, es decir, teniendo en cuenta la pérdida de valor del dinero a consecuencia del paso del tiempo.
-
-f
-
-i
-
-i
-
-i
+- El valor actualizado de un bien considera su valor en moneda comente, es decir, teniendo en cuenta la pérdida de valor del dinero a consecuencia del paso del tiempo.
 
 Los tres métodos dinámicos analizados son complementarios. Cada uno de ellos contempla un aspecto diferente del problema, por lo que al usarse simultáneamente dan una visión más global.
 
@@ -6308,17 +6441,17 @@ Los tres métodos dinámicos analizados son complementarios. Cada uno de ellos c
 
 Los métodos estáticos más utilizados son:
 
-Se calcula el tiempo que transcurre hasta que se recupera el valor de la inversión inicial. Es decir, se trata de estimar en cuánto tiempo los beneficios logrados con el uso del bien igualan el precio de compra. Se intenta siempre que el periodo de retorno sea el más breve posible.
+- Periodo de retorno o de reucperación o pay-back estático: Se calcula el tiempo que transcurre hasta que se recupera el valor de la inversión inicial. Es decir, se trata de estimar en cuánto tiempo los beneficios logrados con el uso del bien igualan el precio de compra. Se intenta siempre que el periodo de retorno sea el más breve posible.
 
-Se trata de incorporar al valor de compra del activo (en negativo) los saldos positivos que se van obteniendo al utilizar el activo.
+- Flujo neto de caja o cash-flow estático: Se trata de incorporar al valor de compra del activo (en negativo) los saldos positivos que se van obteniendo al utilizar el activo.
 
-Todos los métodos estadísticos adolecen de un mismo defecto: no contemplan el diferente valor del dinero según el paso del tiempo. Por ello, el dato obtenido puede resultar erróneo. Por el contrario, los métodos dinámicos sí que incluyen este aspecto. Al igualar todas las can tidades monetarias al mismo momento de tiempo, el cálculo resulta más preciso.
+Todos los métodos estadísticos adolecen de un mismo defecto: no contemplan el diferente valor del dinero según el paso del tiempo. Por ello, el dato obtenido puede resultar erróneo. Por el contrario, los métodos dinámicos sí que incluyen este aspecto. Al igualar todas las cantidades monetarias al mismo momento de tiempo, el cálculo resulta más preciso.
 
 ## Actividad de simulación 3
 
 Calcula el pay-back estático y el flujo neto de caja de un activo cualquiera que hayáis comprado.
 
-## Ayuda práctica:
+Ayuda práctica:
 
 A modo de ejemplo, imagina que tu empresa adquiere una máquina industrial por 900000 euros que permite producir móviles que luego comercializará. Obtendrá un be neficio de 300000 euros al año.
 
@@ -6338,11 +6471,11 @@ En el año 2004, España aprobó la ley de lucha contra la morosidad para proteg
 
 Para evitar el impacto negativo de estos impagos, las compañías pueden contratar una línea de descuento comercial, como ya se vio en la Unidad 4. Los efectos comerciales más usados son las letras de cambio, cheques y pagarés.
 
-Es un documento emitido por una empresa contra uno de sus clientes, donde se expresa el importe y el plazo para el abono de unas cantidades adeudadas.
+- Letras de cambio: Es un documento emitido por una empresa contra uno de sus clientes, donde se expresa el importe y el plazo para el abono de unas cantidades adeudadas.
 
 Es decir, es emitido por quien debe cobrar la deuda. Tiene la ventaja adicional de ser negociable y de poderse endo sar, es decir, que se puede trasladar el cobro a un tercero, por ejemplo, a una entidad financiera.
 
-Es un documento que incluye la obligación de pago a un beneficiario de una suma de dinero, en un plazo de tiempo establecido.
+- Pagarés: Es un documento que incluye la obligación de pago a un beneficiario de una suma de dinero, en un plazo de tiempo establecido.
 
 Es decir, el pagaré no deja de ser una promesa incondicional de pagar una suma de dinero y sus respectivos intereses, emitida por el deudor. El pago queda determinado en el momento a partir del cual se podrá hacer efectivo su cobro, eso es, no existe obligación de cobro o de pago hasta dicho momento.
 
@@ -6356,7 +6489,9 @@ Ahora bien, para poder obtener el importe avanzado antes de los 90 días de plaz
 
 A pesar de todas las precauciones y medidas legales adoptadas, el porcentaje de efectos de comercio impagados alcanza ya el 6,1 %. Según un estudio de la UE, la principal causa de esta morosidad no son las dificultades financieras (23% de los casos), ni la ineficacia administra tiva (17% del total), sino la intencionalidad, que alcanza el 35% en Europa y en España llega hasta el 62%. La reclamación por vía amistosa consigue satisfacer un 95% de las deudas antes de los 180 días. Y la vía judicial llega al 34%, aunque el coste en términos económicos y de tiempo es alto.
 
-En caso de impago, la reclamación inicial se realiza en términos cordiales a través de una llamada telefónica, una carta o un correo electrónico, al cabo de una semana de demora en el pago.
+## En caso de impago,
+
+la reclamación inicial se realiza en términos cordiales a través de una llamada telefónica, una carta o un correo electrónico, al cabo de una semana de demora en el pago.
 
 La ineficacia de esta medida da paso a una segunda notificación, en la que se apremie al pago, indicando el nuevo plazo y la forma de liquidar la deuda, así como se informa de las medidas legales a llevar a cabo. Este requerimiento se puede hacer por medios tradicionales o por medios telemáticos.
 
@@ -6371,7 +6506,7 @@ Junto a ello han surgido otros tipos de comunicación a través de los medios te
 - El certimail o mail certificado. Es un envío de correo electrónico que queda certificado y sirve de prueba de su expedición y de su contenido. Es posible, además, realizar un se guimiento online continuado de todas las notificaciones emitidas, ya que el emisor recibe información de todos los acuses de recibo o del rechazo de la notificación.
 - Burotext. Envía mensajes cortos certificados (SMS o MMS, si llevan imágenes incorpora das) a través de un móvil. Tiene validez legal, de manera que puede usarse como prueba legítima de comunicación. enera un acuse de recibo en PDF, en el que se certifica el envío y el contenido.
 
-## Ejemplo 9, Los cobradores de morosos. ¿Cómo funcionan?
+## Ejemplo 9. Los cobradores de morosos. ¿Cómo funcionan?
 
 «Las agencias de gestión de cobros son contratadas por un acreedor para tratar de conseguir el cobro de su deuda. España es el único país de la UE donde no está regulada la actividad de recobro extrajudicial de deudas, lo que les permite flexibilidad en sus actuaciones.
 
@@ -6379,15 +6514,15 @@ Según denuncia la Asociación de Afectados por Embargos y Subastas (AFES), sus 
 
 No todas las empresas, sin embargo, traspasan los límites éticos. Algunas compañías han fija do un código ético y deontológico para que sea respetado por sus trabajadores.
 
-Por ejemplo, la Asociación Nacional de Entidades de estión de Cobros (Angeco) ha establecido un código ético que incluye puntos sobre la moralidad de sus colaboradores, la confidencialidad de las informaciones, la aplicación de las tarifas convenidas y la rendición regular de las cuentas. Además establece un código deontológico sobre las obligaciones de los acreedores, que incluye no reclamar más que el importe de las sumas contractuales y legalmente debidas, identificarse claramente, sin ambigüedad y sin atribuirse otra personalidad, y respetar la vida privada de los deudores.
+Por ejemplo, la Asociación Nacional de Entidades de Gestión de Cobros (Angeco) ha establecido un código ético que incluye puntos sobre la moralidad de sus colaboradores, la confidencialidad de las informaciones, la aplicación de las tarifas convenidas y la rendición regular de las cuentas. Además establece un código deontológico sobre las obligaciones de los acreedores, que incluye no reclamar más que el importe de las sumas contractuales y legalmente debidas, identificarse claramente, sin ambigüedad y sin atribuirse otra personalidad, y respetar la vida privada de los deudores.
 
 Y desde las asociaciones de afectados se lucha por evitar estas prácticas vergonzantes y acosadoras. No obstante, aunque perseguir a una persona vestido de frac, fraile, oso o torero puede llegar a ser un delito de coacción y amenazas, no es fácil llevar a juicio estas conductas, por la falta de una legislación clara.
 
-En 2009 hubo un intento del Congreso de los Diputados para regular las empresas de recla mación de deudas. Aunque se reconocía la existencia de profesionales competentes que uti lizan métodos legales, también es cierto que existen otros que con sus actuaciones lesionan gravemente los derechos más fundamentales de la persona. Y para evitar que estos actúen impunemente, se pedían medidas de protección frente a aquellas actuaciones que atenta ran a la dignidad de las personas o invadieran su intimidad, así como que los acreedores pudieran ver acortados los plazos en la resolución de reclamaciones. Desgraciadamente, la iniciativa no llegó a nada y decayó con el cambio de legislatura.
+En 2009 hubo un intento del Congreso de los Diputados para regular las empresas de recla mación de deudas. Aunque se reconocía la existencia de profesionales competentes que uti lizan métodos legales, también es cierto que existen otros que con sus actuaciones lesionan gravemente los derechos más fundamentales de la persona. Y para evitar que estos actúen impunemente, se pedían medidas de protección frente a aquellas actuaciones que atentaran a la dignidad de las personas o invadieran su intimidad, así como que los acreedores pudieran ver acortados los plazos en la resolución de reclamaciones. Desgraciadamente, la iniciativa no llegó a nada y decayó con el cambio de legislatura.
 
 De momento, el único recurso efectivo es interponer una reclamación ante la Agencia Espa ñola de Protección de Datos (AEPD), por la divulgación de datos privados, vulnerando así el deber de secreto y la protección de datos.
 
-La AEPD ha denunciado prácticas ilegales y ha impuesto sanciones. Así, contra Cetelem, un banco especializado en créditos al consumo, a quien sancionó con una multa de 80000 euros por divulgar a familiares y vecinos los datos de un deudor; contra Cofidis, una entidad espe cializada en préstamos personales, con una multa de 60000 euros; y contra general Electric Money Bank, una multa de 3000 euros por enviar faxes con detalles de la persona deudora a su lugar de trabajo; y a Movistar, con multa de 50000 euros por incluir a un deudor en una base de datos de morosos antes de reclamar el impago.»
+La AEPD ha denunciado prácticas ilegales y ha impuesto sanciones. Así, contra Cetelem, un banco especializado en créditos al consumo, a quien sancionó con una multa de 80000 euros por divulgar a familiares y vecinos los datos de un deudor; contra Cofidis, una entidad especializada en préstamos personales, con una multa de 60000 euros; y contra general Electric Money Bank, una multa de 3000 euros por enviar faxes con detalles de la persona deudora a su lugar de trabajo; y a Movistar, con multa de 50000 euros por incluir a un deudor en una base de datos de morosos antes de reclamar el impago.»
 
 Fuente: 20 minutos. Madrid, 29 de enero de 2012 [en línea]
 
@@ -6395,7 +6530,7 @@ Fuente: 20 minutos. Madrid, 29 de enero de 2012 [en línea]
 
 Redacta una carta en la que exijáis a un cliente el pago de una deuda.
 
-## Ayuda práctica:
+Ayuda práctica:
 
 - a) La primera vez que se inicia la comunicación se suele realizar en términos cordiales, ya que puede haber sido un error o un despiste. Por ello, en el encabezado se puede poner «Estimado Sr.», y en la despedida «Reciba un cordial saludo», en lugar de las formalidades «Muy señor mío» y «Atentamente», que se usarán en próximas comu nicaciones.
 - b) La argumentación debe ser breve y asertiva, sin amenazas ni ambages. Es preferible no usar el subjuntivo ni el condicional porque transmiten duda.
@@ -6412,19 +6547,15 @@ El sistema financiero se ha desarrollado para dar respuesta a todas las necesida
 
 Como vimos al analizar el caso de Nueva Rumasa, al inicio de esta unidad, y al estudiar los ratios financieros en la Unidad 5, para que las necesidades de financiación de la empresa no comprometan su supervivencia, es preciso que buena parte de la financiación esté sustentada en fondos propios. Al menos, los gastos permanentes y de activo fijo deberían estar respalda dos por un patrimonio neto de cierta magnitud.
 
-Los intermediarios financieros bancarios han creado una serie de productos para favorecer la actividad económica de las empresas.
+## Los intermediarios financieros bancarios han creado una serie de productos para favorecer la actividad económica de las empresas.
 
-Integran varios productos financieros en uno solo, como la contratación de una cuenta corriente sin gastos de mante nimiento, tarjeta de crédito y de débito, así como descubiertos bancarios con un tipo de interés menor que el aplicable en otras cuentas corrientes. En algunos casos se ofrece una bonificación de varios meses si el autónomo se encuentra de baja por enfermedad grave. A cambio, la cuenta tiene que contar con un saldo trimestral mínimo y un número determi nado de recibos domiciliados. El precio se fija como una tarifa fija y global, a partir de 8 euros al mes.
+1. Planes integrales para trbajadores por cuenta propia: Integran varios productos financieros en uno solo, como la contratación de una cuenta corriente sin gastos de mantenimiento, tarjeta de crédito y de débito, así como descubiertos bancarios con un tipo de interés menor que el aplicable en otras cuentas corrientes. En algunos casos se ofrece una bonificación de varios meses si el autónomo se encuentra de baja por enfermedad grave. A cambio, la cuenta tiene que contar con un saldo trimestral mínimo y un número determinado de recibos domiciliados. El precio se fija como una tarifa fija y global, a partir de 8 euros al mes.
 
-Permite financiación para la adquisición de inmuebles, maquinaria, mobiliario, ordenadores, etc., en condiciones prefe rentes y con el añadido de canjear puntos por billetes de avión, plazas de hotel, alquiler de coche, etc.
+2. Préstamos preferentes para constituir una empresa: Permite financiación para la adquisición de inmuebles, maquinaria, mobiliario, ordenadores, etc., en condiciones preferentes y con el añadido de canjear puntos por billetes de avión, plazas de hotel, alquiler de coche, etc.
 
-Tiene una bonificación en el tipo de interés. Esta medida del ICO persigue facilitar la financiación de empresas y autó nomos, para que realicen inversiones productivas en España, con un máximo de 10 millones de euros.
+3. Créditos que emjoran las condiciones de la línea ICO Inversión 20212: Tiene una bonificación en el tipo de interés. Esta medida del ICO persigue facilitar la financiación de empresas y autónomos, para que realicen inversiones productivas en España, con un máximo de 10 millones de euros.
 
-Es habitual que las empresas suscriban distintos tipos de productos financieros, como un crédito, una línea de des cuento, un leasing, etc., con lo que la cuantía de su financiación con el banco es significativa. En caso de tratarse de una sociedad, la responsabilidad de los socios está limitada al patrimonio mercantil de la empresa, por lo que la entidad financiera solicitará algún tipo de aval para garantizarse el cobro de las deudas.
-
-En estas circunstancias, es habitual firmar una póliza de afianzamiento mercantil, según la cual los socios u otras empre sas del grupo se constituyen como avalistas de las cantidades crediticias de la empresa, es decir, los socios se compro meten a responder con sus bienes personales del pago de esas deudas.
-
-Esta herramienta es de máxima utilidad para obtener dinero de una manera rápida y para garantizar multitud de opera ciones mercantiles, ya que sirve como garantía extrajudicial, lo que significa que el mecanismo para reclamar la deuda en caso de impago es muy rápido y eficaz.
+4. Pólizas de Afianzamiento Mercantil (PAM): Es habitual que las empresas suscriban distintos tipos de productos financieros, como un crédito, una línea de des cuento, un leasing, etc., con lo que la cuantía de su financiación con el banco es significativa. En caso de tratarse de una sociedad, la responsabilidad de los socios está limitada al patrimonio mercantil de la empresa, por lo que la entidad financiera solicitará algún tipo de aval para garantizarse el cobro de las deudas. En estas circunstancias, es habitual firmar una póliza de afianzamiento mercantil, según la cual los socios u otras empre sas del grupo se constituyen como avalistas de las cantidades crediticias de la empresa, es decir, los socios se compro meten a responder con sus bienes personales del pago de esas deudas. Esta herramienta es de máxima utilidad para obtener dinero de una manera rápida y para garantizar multitud de opera ciones mercantiles, ya que sirve como garantía extrajudicial, lo que significa que el mecanismo para reclamar la deuda en caso de impago es muy rápido y eficaz.
 
 La principal ventaja es la rapidez en la tramitación de estas líneas financieras y el poco coste de la acción. Como inconvenientes, destacar el carácter indefinido de la póliza, puesto que al pasar el tiempo puede caer en el olvido la vigencia de este compromiso. Además, el afian zamiento es personal, por tanto, no quedaría exento el socio que dejara de formar parte de la empresa; ya que habría que cancelar la póliza y, para eso, el banco debe estar conforme.
 
@@ -6432,22 +6563,23 @@ La principal ventaja es la rapidez en la tramitación de estas líneas financier
 
 Los socios de una empresa avalan un millón de euros con una entidad financiera. A partir de ese momento, firman un crédito de 600000 euros y una línea de descuento de 250000 euros y un leasing por valor de 50000 euros/año, sin necesidad de presentar avales para cada producto, puesto que el millón de la PAM cubriría el importe de todos estos productos financieros.
 
-## ■ Banca a distancia
+## Banca a distancia
 
 En los últimos años, la prestación de servicios financieros por las entidades bancarias ha ex perimentado un gran desarrollo en lo referente a la banca a distancia, al ofertar sus servicios a través de medios telefónicos o telemáticos.
 
-## D Banca telefónica
+## Banca telefónica
 
 El servicio complementario de operar en banca a través de un teléfono puede realizarse de dos modos:
 
 - Operadores programados. uía al cliente hacia la operación que quiere realizar mediante la pulsación de distintas teclas del teléfono. En caso de ser insuficiente, la llamada pasa a ser atendida por un operador.
+
 - Operador. Permite la personalización de las operaciones y la consecución de información no realizable en el modo automático.
 
 Ambas comunicaciones quedan grabadas y, al igual que en la banca online, se opera con con traseña. La ventaja frente a esta es que las operaciones pueden realizarse cuando no se tiene un ordenador disponible, como en viajes o desplazamientos.
 
 Una práctica habitual de las entidades bancarias es el uso de mensajes SMS para facilitar información a sus clientes.
 
-## D Banca online
+## Banca online
 
 Implica la posibilidad de utilizar los servicios de una entidad bancaria vía Internet. La mayo ría ofrece este servicio de manera complementaria a su red de oficinas físicas, aunque algunas entidades tienen presencia solo online para resultar más competitivas, al ahorrarse todos los gastos de mantenimiento del local, razón por la cual sus servicios y productos son más bara tos. Así, se cobran menos comisiones e intereses más bajos para los préstamos y créditos, y se abonan intereses más elevados para los productos de ahorro e inversión.
 
@@ -6459,9 +6591,11 @@ El inconveniente mayor es la falta de interacción directa con un profesional qu
 
 Uno de los riesgos habituales es conocido como phishing, un término anglosajón muy apro piado, que proviene de la palabra fishing («pesca»), haciendo alusión al intento de hacer que los usuarios «muerdan el anzuelo».
 
+## Phishing
+
 El phishing es un tipo de delito cibernético, caracterizado por intentar adquirir información confidencial de forma fraudulenta a través de Internet o medios móviles. Lo más habitual es que el estafado reciba un correo electrónico, una llamada de teléfono o un SMS fraudulen to de su supuesta entidad bancaria, instándole a introducir su contraseña, información deta llada de sus tarjetas de crédito o cualquier otro dato bancario. En este caso, los efectos del fraude recaerán sobre el cliente, por ser el responsable del mal uso o de la imprudencia en el uso de sus datos personales.
 
-## □ Cajeros automáticos
+## Cajeros automáticos
 
 Los cajeros automáticos son máquinas expendedoras, por lo general, situadas en el exterior de una entidad de crédito, que funcionan con tarjeta de crédito o de débito o con una li breta de ahorro. España es el país con más cajeros automáticos por habitantes del mundo.
 
@@ -6485,9 +6619,9 @@ De manera adicional, las entidades aplican otra serie de medidas para incrementa
 
 Tradicionalmente, el robo en cajeros automáticos se realizaba mediante la amenaza a aque llos clientes que acababan de extraer dinero de su cuenta. A día de hoy, con el desarrollo de los medios tecnológicos, el robo se ha vuelto más sofisticado y, con ello, más difícil de perse guir y de prevenir. Sin embargo, las entidades se defienden igualmente con métodos tecnoló gicos. A medida que unos avanzan, los otros también, y así se incrementa la perspicacia para el fraude, como lo hace el ingenio para evitarlo.
 
-La Agencia Europea de Seguridad de las Redes y de la Información (ENÍSA) advirtió hace poco del alarmante aumento de fraude en cajeros automáticos, que creció un 149% en 2008 y dejó unas pérdidas de 500 millones de euros en Europa.
+La Agencia Europea de Seguridad de las Redes y de la Información (ENISA) advirtió hace poco del alarmante aumento de fraude en cajeros automáticos, que creció un 149% en 2008 y dejó unas pérdidas de 500 millones de euros en Europa.
 
-Los delincuentes obtienen los números PIN con una amplia gama de técnicas que van desde el shouldersurfing, que consiste en espiar por encima del hombro del usuario cuando intro duce el PIN en el cajero, a técnicas de skimming complejo, cuando instalan algún mecanismo en el lector de tarjetas para clonar la tarjeta. La tecnología bluetooth es utilizada para trans mitir información, tanto de la tarjeta como de su PIN, a un ordenador cercano, puesto que los ladrones están apostados fuera con su portátil.
+Los delincuentes obtienen los números PIN con una amplia gama de técnicas que van desde el shoulder surfing, que consiste en espiar por encima del hombro del usuario cuando intro duce el PIN en el cajero, a técnicas de skimming complejo, cuando instalan algún mecanismo en el lector de tarjetas para clonar la tarjeta. La tecnología bluetooth es utilizada para trans mitir información, tanto de la tarjeta como de su PIN, a un ordenador cercano, puesto que los ladrones están apostados fuera con su portátil.
 
 En ocasiones, la trampa consiste en colocar elementos extraños en la ranura que libera los billetes para capturar el dinero dispensado. El usuario no consigue ver los billetes y cree que no han sido dispensados.
 
@@ -6496,24 +6630,26 @@ Tan solo durante el año 2008, un total de 10302 incidentes deskimming se regist
 Desde los primeros intentos de fraude que copiaban la banda magnética de las tarjetas, hasta la actual infección de los terminales con virus, los métodos de prevención han evolucionado hasta rozar el límite de la ciencia ficción.
 
 - Biometría en cajeros automáticos. A través de la forma de la mano, el iris o las huellas dactilares, la máquina detecta si es el propio usuario o un suplantador quien está acce diendo a los servicios. En un procedimiento más complejo, se analiza el sistema vascular. Aunque parezca extraño, el examen de las venas permite desvelar la identidad del individuo. En España, su grado de implantación es mínimo.
+
 - Sistemas anticopia de la banda magnética de las tarjetas. Los estafadores sitúan, para lograr su objetivo, una pequeña cámara sobre el terminal o superponen un falso teclado y un falso lector en el cajero. Para evitarlo, muchos cajeros cuentan con dispositivos que de tectan estos elementos extraños y los inutilizan. Es frecuente que el propio cajero aconseje al usuario tapar su mano con la otra, mientras teclea el número secreto.
 
-* Extensión del chip. La mayoría de las tarjetas cuentan ya con un chip de seguridad, que pretende evitar la copia de la banda magnética de la tarjeta. Europay, Mastercard y Visa han diseñado el sistema EMV, que detecta si la tarjeta introducida en el cajero es la auténtica o no. Este sistema también obliga al usuario a teclear la clave en las tiendas donde utilice la tarjeta, en lugar de la firma del recibo, lo que incrementa la seguridad en caso de robo.
-* Antivirus. Los cajeros automáticos son, como los ordenadores, vulnerables ante la intro ducción en su sistema operativo de un programa malicioso, con el que pueden acceder a las claves y los datos personales de los clientes. Para evitarlo, algunos programas mejoran su sistema defensivo.
+- Extensión del chip. La mayoría de las tarjetas cuentan ya con un chip de seguridad, que pretende evitar la copia de la banda magnética de la tarjeta. Europay, Mastercard y Visa han diseñado el sistema EMV, que detecta si la tarjeta introducida en el cajero es la auténtica o no. Este sistema también obliga al usuario a teclear la clave en las tiendas donde utilice la tarjeta, en lugar de la firma del recibo, lo que incrementa la seguridad en caso de robo.
 
-Fuente: Eroski Consumen Elorrio, 19 de enero de 2012 [en línea]
+- Antivirus. Los cajeros automáticos son, como los ordenadores, vulnerables ante la intro ducción en su sistema operativo de un programa malicioso, con el que pueden acceder a las claves y los datos personales de los clientes. Para evitarlo, algunos programas mejoran su sistema defensivo.
+
+Fuente: Eroski Consumer. Elorrio, 19 de enero de 2012 [en línea]
 
 ## Actividad de simulación 5
 
 Reúnete con tus socios. Seleccionad razonadamente una entidad bancaria a través de la cual realizaréis las operaciones mercantiles. Si en la Unidad 3 ya indicasteis cuál era, al abrir una cuenta corriente, ahora deberéis justificar los motivos de tal elección.
 
-## Ayuda práctica:
+Ayuda práctica:
 
-Compara las ofertas y productos bancarios de varias entidades comerciales. Puedes rea lizarlo basándote en las condiciones fijadas en una cuenta remunerada a la vista, com parando el tipo de interés al que remuneran (TIN), la tasa anual equivalente (TAE), pero también las comisiones y penalizaciones que conllevan.
+Compara las ofertas y productos bancarios de varias entidades comerciales. Puedes realizarlo basándote en las condiciones fijadas en una cuenta remunerada a la vista, com parando el tipo de interés al que remuneran (TIN), la tasa anual equivalente (TAE), pero también las comisiones y penalizaciones que conllevan.
 
 O puedes buscar si ofrece algún producto financiero específico para emprendedores, tales como planes integrales o cuentas especiales. En ocasiones, la ventaja competitiva entre una entidad y otra no es el interés, sino la inclusión de algún producto adicional, como algún seguro que cubra al autónomo ante una situación de incapacidad temporal.
 
-## Fase 6. estión de las obligaciones fiscales
+## Fase 6. Gestión de las obligaciones fiscales
 
 Las empresas tienen que liquidar unos impuestos antes de constituir la sociedad, como ya vimos en la Unidad 3.
 
@@ -6525,46 +6661,44 @@ Al constituir la sociedad, las empresas tienen obligación de realizar las sigui
 - Alta en el Impuesto sobre el Valor Añadido.
 - Presentar la declaración censal de inicio de actividad.
 
-## D Obligaciones fiscales periódicas
+## Obligaciones fiscales periódicas
 
 De manera adicional, las obligaciones fiscales se mantienen periódicamente durante toda la vida de la empresa.
 
-Declarar e ingresar las retenciones realizadas a los trabajadores a cuenta del IRPF y las retenciones a profesionales, tales como abogados, asesores, etc. Igualmente, declarar e ingresar las retenciones por rendimientos de capital mobiliario, en caso de que se haya alquilado algún inmueble o se hayan repartido dividendos.
+- Retenciones a cuenta: Declarar e ingresar las retenciones realizadas a los trabajadores a cuenta del IRPF y las retenciones a profesionales, tales como abogados, asesores, etc. Igualmente, declarar e ingresar las retenciones por rendimientos de capital mobiliario, en caso de que se haya alquilado algún inmueble o se hayan repartido dividendos.
 
-## lililí^
+- IS (en caso de tratarse de sociedades): Pagos fraccionados en abril, octubre y diciembre a cuenta del Impuesto sobre Sociedades. Una vez al año se realiza la declaración de dicho impuesto, que suele ser en julio.
 
-Pagos fraccionados en abril, octubre y diciembre a cuenta del Impuesto sobre Sociedades. Una vez al año se realiza la declaración de dicho impuesto, que suele ser en julio.
+- IRPF (en caso de tratarse de un empresario individual): Los pagos trimestrales se realizan en abril, julio, octubre y enero. En los meses de mayo-junio se lleva a cabo la liquida ción del impuesto, conocida como la declaración de la renta.
 
-Los pagos trimestrales se realizan en abril, julio, octubre y enero. En los meses de mayo-junio se lleva a cabo la liquida ción del impuesto, conocida como la declaración de la renta.
+- IVA: Pagos fraccionados en abril, julio y octubre del Impuesto sobre el Valor Añadido. Además, en enero hay que realizar un resumen anual y la liquidación del cuarto trimestre.
 
-Pagos fraccionados en abril, julio y octubre del Impuesto sobre el Valor Añadido. Además, en enero hay que realizar un resumen anual y la liquidación del cuarto trimestre.
+- Declaración anual de operaciones con terceras personas: Concierne a aquellas operaciones efectuadas por importe superior a 3000 euros. Se realiza durante el mes de febrero.
 
-Concierne a aquellas operaciones efectuadas por importe superior a 3000 euros. Se realiza durante el mes de febrero.
+- IAE: Se abona una vez al año siempre que la empresa no esté exenta.
 
-ifóffifeV\*:.^ -^-^^S&amp;&amp;i
-
-Se abona una vez al año siempre que la empresa no esté exenta.
-
-- [ ] D Obligaciones fiscales no periódicas
+## Obligaciones fiscales no periódicas
 
 De manera adicional, la empresa puede estar obligada a nuevas obligaciones tributarias, si se dan ciertas circunstancias:
 
-Se paga una vez al año por la posesión de un inmueble. Su cuantía suele ser del orden de un 0,5 % a un 1 % del valor catastral del bien.
+- Impuesto de Bienes Inmuebles: Se paga una vez al año por la posesión de un inmueble. Su cuantía suele ser del orden de un 0,5 % a un 1 % del valor catastral del bien.
 
-Se paga una vez al año por la posesión de un vehículo. Su importe depende del tamaño del auto, potencia, cilindrada, etc.
+- Impuesto sobre vehículos de tracción mecánica: Se paga una vez al año por la posesión de un vehículo. Su importe depende del tamaño del auto, potencia, cilindrada, etc.
 
-Solo se exigen en algunas localidades o ciudades. Se suele establecer por edificio completo o por casa, y a veces se incluye el consumo de agua.
+- Tasas municipales de basura: Solo se exigen en algunas localidades o ciudades. Se suele establecer por edificio completo o por casa, y a veces se incluye el consumo de agua.
 
-Se procede al pago si se adquiere un inmueble nuevo o si se aumenta el capital de la sociedad.
+- Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados: Se procede al pago si se adquiere un inmueble nuevo o si se aumenta el capital de la sociedad.
 
-En caso de que se haya vendido un inmueble y haya incrementado de valor desde que fue adquirido.
+- Incremento del Valor de los Terrenos de Naturaleza Urbana: En caso de que se haya vendido un inmueble y haya incrementado de valor desde que fue adquirido.
 
 El abono de los impuestos puede realizarse en período voluntario o en período ejecutivo. El periodo voluntario consiste en el cumplimiento de la obligación tributaria en el plazo reque rido. En caso de no satisfacer con la obligación en el plazo determinado, se inicia el periodo ejecutivo para llevar a cabo la recaudación de la deuda. En este supuesto, la Administración notifica al afectado el inicio de un procedimiento o providencia de apremio.
 
 El procedimiento de apremio es un acto por el cual la Administración puede proceder al embar go de los bienes del patrimonio del deudor para satisfacer el cobro de la deuda. En caso de que el deudor proceda al pago de la misma, se le aplica un recargo que incrementa la cuantía a pagar:
 
 - Recargo ejecutivo: es un incremento del 5% y se aplica cuando se abona la deuda, antes de la notificación de la providencia de apremio.
+
 - Recargo de apremio reducido: es un aumento del 10%, aplicable cuando se satisface la totalidad de la deuda y del propio recargo, antes de que finalice el plazo de la providencia de apremio.
+
 - Recargo de apremio ordinario: se aplica un recargo del 20% cuando el abono se produ ce después de haber finalizado el plazo para el pago en periodo de apremio. De manera adicional, se aplicarán intereses de demora, lo que implica actualizar el importe a liquidar, añadiéndole el incremento en el nivel de vida (el aumento en el IPC).
 
 Si finalizado el plazo estipulado en la providencia de apremio el contribuyente no abona su deuda, se dicta una providencia de embargo de sus bienes, que pretenderán el cobro de las cantidades tributarias debidas, más el recargo de apremio, los intereses y, en su caso, las costas del procedimiento de apremio producidas. El embargo se aplicará siguiendo un orden en el que, por ejemplo, primero se embarga el dinero en efectico o en cuentas bancarias y, como último recurso, los bienes muebles, como vehículos, embarcaciones, etc. Hay algunos bienes que son inembargables.
@@ -6573,7 +6707,7 @@ Si finalizado el plazo estipulado en la providencia de apremio el contribuyente 
 
 Realiza un calendario sencillo en el que señales las fechas en las que tenéis que responder del pago de las obligaciones fiscales que genera vuestra empresa.
 
-## Ayuda práctica:
+Ayuda práctica:
 
 Si tienes alguna duda, puedes entrar en la página web de la Agencia Tributaria, www. agenciatributariaces y localizar el enlace denominado «Calendario del contribuyente». Te dirigirá a un calendario del año en curso donde están especificados todos los plazos en los que corresponde llevar a cabo la liquidación parcial o total de los impuestos.
 
@@ -6581,16 +6715,45 @@ Si tienes alguna duda, puedes entrar en la página web de la Agencia Tributaria,
 
 Ha llegado el momento de sintetizar las ideas obtenidas en estas fases de la Simulación empresarial e incorporarlas a vuestro plan de empresa.
 
-Las actividades de simulación realizadas en esta unidad te han servido para hacer un plan de aprovisionamiento, así como la supervisión de su gestión contable y la obligación tributaria de la misma. Así pues, vuestro plan de empresa incluirá dos apartados denomi nados plan de aprovisionamiento y obligacionesfiscales.
+Las actividades de simulación realizadas en esta unidad te han servido para hacer un plan de aprovisionamiento, así como la supervisión de su gestión contable y la obligación tributaria de la misma. Así pues, vuestro plan de empresa incluirá dos apartados denominados plan de aprovisionamiento y obligaciones fiscales.
 
-## 1. Plan de aprovisionamiento
+1. Plan de aprovisionamiento
 
 - a) Especifica las medidas tomadas para organizar y gestionar el stock.
 - b) Incluye el plan de producción donde se contemplen las decisiones adoptadas con vuestros proveedores.
 
-## 2. Obligaciones fiscales
+2. Obligaciones fiscales
 
 Realiza el calendario fiscal en el que se contemplen los plazos en los cuales vuestra empresa está obligada a liquidar los impuestos correspondientes.
+
+## Síntesis
+
+- Gestión de la contabilidad: Externa o financiera (Para informar a terceros o Analizar fiabilidad de la información contable) o Interna (Gestión de control o Contabilidad directiva).
+
+- Gestión de la inversión: Para obtener beneficio, mediante: Intereses, Dividendos, Reparto de beneficios y Plusvalías pero Decisión condicionada por : Rentabilidad, Riesgo/Seguridad y Liquidez.
+
+- Financiación: Priorizar necesidades, Mejorar eficiencia, Emitir deuda empréstitos -> Pagarés, Bonos y Obligaciones
+
+- Control de tesorería: Pago puntual, Mejorar la rentabilidad de los excendentes
+
+- Impagos: Productos financieros para compensar evitar registros de impagados
+
+- Intermediarios financieros: Bancarios --> Cuenta corriente de ahorro, Cuenta especial, Pagaré bancario, Depósito bancario, Depósito combinado
+
+Plan de empresa:
+
+- Idea del negocio
+- Socios trayectoria profesional
+- Estudio de mercado
+- Plan de producción
+- Plan financiero
+- --> Plan de aprovisionamiento
+- --> Obligaciones fiscales
+- Plan de marketing
+- Plan de RR.HH.
+- Acciones para la Internacionalización
+
+## Test de repaso
 
 ## 1. Las existencias son:
 
@@ -6631,18 +6794,16 @@ Realiza el calendario fiscal en el que se contemplen los plazos en los cuales vu
 
 - a) Se emite en forma de títulos de deuda.
 - b) Se denomina letras, bonos u obligaciones, según el plazo temporal.
-- c) arantiza al final del contrato la devolución del dinero junto con una rentabilidad, solo si la empresa obtuvo beneficios.
+- c) Garantiza al final del contrato la devolución del dinero junto con una rentabilidad, solo si la empresa obtuvo beneficios.
 - d) Todas son correctas.
 
 22. Busca una noticia de actualidad relacionada con una auditoría realizada a una empresa u organización social. Responde luego a estas cuestiones:
 
 - a) Resume qué objetivo pretendía la auditoría.
 - b) ¿Era obligatoria la realización de la auditoría o había sido solicitada por la empresa voluntariamente?
-- c) ¿ uarda alguna relación empresarial la auditoría con la empresa auditada o, por el contrario, se trata de compañías independientes?
+- c) ¿Guarda alguna relación empresarial la auditoría con la empresa auditada o, por el contrario, se trata de compañías independientes?
 - d) ¿Recuerdas qué tipo de sociedad, de los estudiados en otra unidad didáctica previa, tenía como obligatoriedad la realización de una auditoría de cuentas?
-
-6. ej ¿Qué impacto crees que tiene en los consumidores el conocimiento de que una compañía ha sido auditada?
-
+- e) ¿Qué impacto crees que tiene en los consumidores el conocimiento de que una compañía ha sido auditada?
 - f) Averigua si también los partidos políticos, las asociaciones empresariales o los sin dicatos pueden o deben someterse a una auditoría de cuentas de forma periódica. Justifica tu respuesta.
 
 23. Encuentra una relación de empresas de auditorías. ¿Has encontrado alguna compañía de este tipo que sea española?
@@ -6654,11 +6815,13 @@ Realiza el calendario fiscal en el que se contemplen los plazos en los cuales vu
 29. Inventa tres formas diferentes por las cuales una empresa puede reducir su nivel de stock acumulado.
 30. Averigua qué recargo tiene el pagar con retraso una deuda a la Seguridad Social o una deuda en los impuestos. Si no te resulta fácil, trata de localizar esta información referida a cualquier organismo público, como, por ejemplo, el recargo que se añade a una multa de tráfico no satisfecha dentro del plazo temporal establecido.
 31. Piensa qué inconvenientes puede tener el no resolver a tiempo una deuda con la Seguri dad Social o con cualquier otro organismo público.
-32. Después de haber respondido a la pregunta anterior, lee el artículo http://www.pymes yautonomos.com/legalidad/es-posible-cobrar-la-pension-de-jubilacion-si-setienen-deudas-con-la-seguridad-socsal y razona si tu contestación anterior habría sido diferente de haber conocido el contenido del artículo con antelación. ¿Crees que hay muchos autónomos que se encuentran en esa situación al llegar a su jubilación?
+32. Después de haber respondido a la pregunta anterior, lee el artículo http://www.pymesyautonomos.com/legalidad/es-posible-cobrar-la-pension-de-jubilacion-si-se-tienen-deudas-con-la-seguridad-social y razona si tu contestación anterior habría sido diferente de haber conocido el contenido del artículo con antelación. ¿Crees que hay muchos autónomos que se encuentran en esa situación al llegar a su jubilación?
 
-## y de los recursos humanos
+# 7. Gestión del marketing y de los recursos humanos
 
-«Un hombre inteUgente es aqtid ^ como para contratar ge^ John F. Kennedy, ^^í^i
+## John F. Kennedy, presidente de los EEUU(1961 - 1963)
+
+Un hombre inteligente es aquel que sabe ser tan inteligente como para contratar gente más inteligente que él.
 
 ## En esta unidad aprenderemos a:
 
@@ -6669,21 +6832,21 @@ Realiza el calendario fiscal en el que se contemplen los plazos en los cuales vu
 
 ## Y estudiaremos:
 
-- estión del marketing en la empresa.
+- Gestión del marketing en la empresa.
 - Análisis de las actuaciones llevadas a cabo por la empresa.
 - Fijación de estrategias, objetivos, etc.
 - Elaboración de presupuestos provisionales.
 - El nuevo marketing en Internet, a través de telefonía móvil, cartelería digital, etc.
-- estión de los recursos humanos.
+- Gestión de los recursos humanos.
 - Equipos y grupos de trabajo.
+
+## Emprendedores
 
 En este apartado vamos a analizar la importancia de llevar a cabo una buena campaña pu blicitaria y la necesidad de incorporar las nuevas tendencias de marketing digital, que van surgiendo acorde con las nuevas tecnologías.
 
 ## Freixenet: un referente publicitario
 
-Freixenet es una empresa española productora de cava. En sus orígenes, a finales del s. xix se dedicaba a la pro ducción de vinos, pero pronto se interesó por el vino espumoso. Después de la uerra Civil española lanzaron un producto estrella: el cava «Carta Nevada», embote llado momentos antes de la primera fermentación. Años
-
-después, sale al mercado su segundo gran éxito: el «Cordón Negro». A partir de los años setenta comienza su expansión internacional. A día de hoy, Freixenet está presente tanto en el mercado asiático como en el americano.
+Freixenet es una empresa española productora de cava. En sus orígenes, a finales del s. xix se dedicaba a la producción de vinos, pero pronto se interesó por el vino espumoso. Después de la Guerra Civil española lanzaron un producto estrella: el cava «Carta Nevada», embotellado momentos antes de la primera fermentación. Años después, sale al mercado su segundo gran éxito: el «Cordón Negro». A partir de los años setenta comienza su expansión internacional. A día de hoy, Freixenet está presente tanto en el mercado asiático como en el americano.
 
 Parte de su prestigio se debe, sin duda, a sus anuncios. Desde el año 1997, susspots televisivos durante las fiestas navideñas han sido emitidos solo durante momentos de máxima audiencia (prime-time), especialmente al finalizar el año. Han sido protagonizados por numerosas figu ras de renombre tanto internacional, como Paúl Newman o Shakira, como nacionales, como Plácido Domingo, Nacho Duato o Alejandro Sanz, acompañados de las famosas «burbujas de Freixenet»; unas mujeres de trajes dorados que bailan y sonríen simulando ser burbujas de cava. Uno de los anuncios más admirados fue el emitido en el año 2008. Fue realizado por la selección española de natación sincronizada, después de la doble medalla de plata conse guida en los Juegos Olímpicos de Pekín.
 
@@ -6725,9 +6888,11 @@ El formato ha recibido galardones, como el primer premio WorldStar de diseño 20
 2. ¿Qué crees que pretende Freixenet cuando cada año compra el espacio publicitario prime-time que antecede a las campanadas de final de año. ¿Por qué son protagoni zados por estrellas de gran repercusión mediática?
 3. ¿Qué otros medios de comunicación online se te ocurre que puede utilizar la marca?
 
+## Conceptos básicos
+
 En este apartado vamos a recordar algunos conceptos que te serán útiles para realizar la Simulación, tales como:
 
-faxing publicidad e-maiiing presupuesto récord manager telemarketing community manager recursos humanos mark ting IT1ÍX
+faxing, publicidad, e-maiiing, presupuesto, récord, manager, telemarketing, community manager, recursos humanos, marketing mix
 
 ## A. Concepto y ejemplo de marketing
 
@@ -6738,40 +6903,34 @@ Como se deduce de la definición inicial, el marketing tiene presentes dos eleme
 - El público objetivo. Hay que saber comunicarle los beneficios de los productos basándose en la satisfacción de sus deseos y necesidades.
 - La competencia. Las acciones comerciales deben transmitir las fortalezas propias y desta car indirectamente las debilidades de las compañías rivales.
 
-En España la publicidad comparativa está permitida, sin embargo debe atenerse a unas normas, que son: respetar la objetividad, comparar productos que satisfagan el mismo tipo de necesidad y no denigrar ni dar lugar a confusión. No es fácil ajustarse a estos paráme tros, por lo que las empresas no suelen aludir directamente a la competencia, sino que lanzan mensajes genéricos.
+En España la publicidad comparativa está permitida, sin embargo debe atenerse a unas normas, que son: respetar la objetividad, comparar productos que satisfagan el mismo tipo de necesidad y no denigrar ni dar lugar a confusión. No es fácil ajustarse a estos parámetros, por lo que las empresas no suelen aludir directamente a la competencia, sino que lanzan mensajes genéricos.
 
-## Ejemplo 1. Don Simón versas ranini
+## Ejemplo 1. Don Simón versus Granini
 
-Don Simón defiende en todos sus anuncios que sus zumos de naranjas están elaborados con naranjas recién exprimidas en lugar de concentrado de naranja. Para reforzar esta carac terística distintiva de su marca, lanzó varias campañas comparativas contra la competencia. Cransni denunció estos anuncios a Autocontrol, el mecanismo español autorregulador de la publicidad. El organismo concluyó que la publicidad de Don Simón inducía al engaño y que debía ser retirada de inmediato.
+Don Simón defiende en todos sus anuncios que sus zumos de naranjas están elaborados con naranjas recién exprimidas en lugar de concentrado de naranja. Para reforzar esta característica distintiva de su marca, lanzó varias campañas comparativas contra la competencia. Granini denunció estos anuncios a Autocontrol, el mecanismo español autorregulador de la publicidad. El organismo concluyó que la publicidad de Don Simón inducía al engaño y que debía ser retirada de inmediato.
 
-La resolución del jurado afirmó que las expresiones «¿Dónde están sus naranjos en España?» y «¿Dónde están los naranjos de ranini?» son denigratorias, al incidir en el descrédito inne cesario del competidor.
+La resolución del jurado afirmó que las expresiones «¿Dónde están sus naranjos en España?» y «¿Dónde están los naranjos de Granini?» son denigratorias, al incidir en el descrédito innecesario del competidor.
 
 ## Actividades
 
 1. indica a qué empresas o productos combaten las marcas cuando señalan en sus anuncios la frase genérica «no fabricamos para otras marcas».
 2. Averigua qué es el organismo Autocontrol y quiénes lo integran.
 
-El diseño de las estrategias de marketing se ha centrado tradicionalmente en cuatro elemen tos del negocio:producto, precio, promoción y distribución. Este enfoque suele denominarse marketing mix, o «las Ap del marketing», por sus siglas en inglés (Product, Príce, Promotion, Placernent).
+## Marketing Mix
+
+El diseño de las estrategias de marketing se ha centrado tradicionalmente en cuatro elementos del negocio: producto, precio, promoción y distribución. Este enfoque suele denominarse marketing mix, o «las 4 p del marketing», por sus siglas en inglés (Product, Price, Promotion, Placement).
 
 ## Ejemplo 2. Algunas acciones de marketing-mix
 
 Algunas acciones de marketing-mix centradas en una de estas cuatro variables podrían ser:
 
-- Producto.
+- Producto: Incluir nuevas características al producto; por ejemplo, darle nuevas utilidades o una nueva apariencia.
 
-Incluir nuevas características al producto; por ejemplo, darle nuevas utilidades o una nueva apariencia.
+- Precio: Reducir el precio del producto para mejorar la competitividad, o bien, lanzar productos más caros para penetrar en un segmento del mercado de mayor poder adquisitivo.
 
-- 9 Precio.
+- Promoción: Crear ofertas 2 x 1 o incluir un 30% del producto como extra.
 
-Reducir el precio del producto para mejorar la competitividad, o bien, lanzar productos más caros para penetrar en un segmento del mercado de mayor poder adquisitivo.
-
-- Promoción.
-
-Crear ofertas 2 x 1 o incluir un 30% del producto como extra.
-
-- Distribución.
-
-Ofrecer nuestros productos vía Internet o envíos a domicilio.
+- Distribución: Ofrecer nuestros productos vía Internet o envíos a domicilio.
 
 ## Actividades
 
@@ -6790,15 +6949,20 @@ El cambio experimentado se puede sintetizar en un cambio del marco conceptual, d
 - Conveniencia y contexto, en lugar de la distribución.
 - Conexión en lugar de la comunicación, destacando el papel interactivo de esta.
 
+## Focos de atención del nuevo marketing.
+
 Tabla 7.1. Focos de atención del nuevo marketing.
 
-| El contenido generado tiene que ser enriquecedor y relevante para los potenciales clientes, que ahora son activos protagonistas y están mejor informados.                                                                                                                                                                   |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| El contenido debe conectar con los intereses del público objetivo.                                                                                                                                                                                                                                                          |
-| El contenido debe transmitirse por los medios más convenientes, bien sea una página web, un blog, una red social, etc.                                                                                                                                                                                                      |
-| Los medios de transmisión deben utilizar un contexto multicanal, con contenidos multimedia.                                                                                                                                                                                                                                 |
-| El mensaje debe transmitir también el coste del producto, lo que incluye informar a la audiencia de aquellos costes menos tangibles que incrementan el precio pero también el valor añadido del producto, como unos mayores controles de calidad, gestión responsable de residuos, garantía de los derechos laborales, etc. |
-| Como resultado de la información del coste, la audiencia conectará con la marca puesto que se generará una esfera de credibilidad y de confianza, dando paso a una comunidad online vinculada por intereses comunes e intercambios enriquecedores, creando una lealtad hacia la marca.                                      |
+- Contenido: El contenido generado tiene que ser enriquecedor y relevante para los potenciales clientes, que ahora son activos protagonistas y están mejor informados.
+- Conexión: El contenido debe conectar con los intereses del público objetivo.
+
+- Conveniencia: El contenido debe transmitirse por los medios más convenientes, bien sea una página web, un blog, una red social, etc.
+
+- Contexto: Los medios de transmisión deben utilizar un contexto multicanal, con contenidos multimedia.
+
+- Coste: El mensaje debe transmitir también el coste del producto, lo que incluye informar a la audiencia de aquellos costes menos tangibles que incrementan el precio pero también el valor añadido del producto, como unos mayores controles de calidad, gestión responsable de residuos, garantía de los derechos laborales, etc.
+
+- Cliente: Como resultado de la información del coste, la audiencia conectará con la marca puesto que se generará una esfera de credibilidad y de confianza, dando paso a una comunidad online vinculada por intereses comunes e intercambios enriquecedores, creando una lealtad hacia la marca.
 
 ## Ejemplo 3. Un pequeño gesto, para conseguir algo muy grande
 
@@ -6806,17 +6970,15 @@ Actimel desarrolló en el año 2011 la campaña «Un pequeño gesto, para conseg
 
 Para incentivar la participación, Acti mel se propuso donar un euro a dife rentes proyectos de investigación so bre el sistema inmunitario por cada recomendación realizada.
 
-La acción se difundió a través de te levisión, contando con la participa
-
-ción de Pedro Piqueras y Lola Herrera, y a través deTwitter y otras redes sociales. Además, se envió a los blogueros de contenidos relacionados, un pack con un CD explicativo de la acción para que contribuyeran a su difusión.
+La acción se difundió a través de te levisión, contando con la participación de Pedro Piqueras y Lola Herrera, y a través deTwitter y otras redes sociales. Además, se envió a los blogueros de contenidos relacionados, un pack con un CD explicativo de la acción para que contribuyeran a su difusión.
 
 ## Actividades
 
-4. Entra en la página web: http://wwwJnstitutodelafeIicIdadxom/instituto y averi gua qué compañía está detrás de esta campaña, qué objetivos persigue y qué medios utiliza para difundir sus acciones. Reflexiona, por otra parte, si hay otras intenciones no explícitas que pretendan conseguir y expresa tu opinión al respecto.
+4. Entra en la página web: http://www.institutodelafelicidad.com/instituto y averigua qué compañía está detrás de esta campaña, qué objetivos persigue y qué medios utiliza para difundir sus acciones. Reflexiona, por otra parte, si hay otras intenciones no explícitas que pretendan conseguir y expresa tu opinión al respecto.
 
-## I Publicidad ilícita
+## Publicidad ilícita
 
-Las acciones de marketing no siempre respetan los límites éticos. La Ley general de Publici dad considera ilícita la publicidad que:
+Las acciones de marketing no siempre respetan los límites éticos. La Ley general de Publicidad considera ilícita la publicidad que:
 
 - Atenta contra la dignidad de la persona o vulnera los derechos reconocidos en la Consti tución.
 - Está dirigida a menores y les incita a la compra de un bien o servicio, explotando su inexpe riencia o credulidad, o en la que aparezcan persuadiendo de la compra a padres o tutores.
@@ -6828,7 +6990,7 @@ Las acciones de marketing no siempre respetan los límites éticos. La Ley gener
 
 ## Ejemplo 4. Publicidad perjuiciosa
 
-La última campaña de Danone en Alemania ha presentado eslóganes renovados. En lugar de «Actimel activa tus defensas» se anuncia «Comienza más fuerte el día» y, en vez de «Acti via mejora tu salud intestinal», se dice «Activia: tu estómago decide». Estas modificaciones responden a las quejas reiteradas de una organización de consumidores contra la empresa por valerse de mentiras publicitarias. Aunque Danone desmiente esta afirmación ha preferido zanjar la polémica con una afirmación que no pueda interpretarse como publicidad enga ñosa.
+La última campaña de Danone en Alemania ha presentado eslóganes renovados. En lugar de «Actimel activa tus defensas» se anuncia «Comienza más fuerte el día» y, en vez de «Activia mejora tu salud intestinal», se dice «Activia: tu estómago decide». Estas modificaciones responden a las quejas reiteradas de una organización de consumidores contra la empresa por valerse de mentiras publicitarias. Aunque Danone desmiente esta afirmación ha preferido zanjar la polémica con una afirmación que no pueda interpretarse como publicidad engañosa.
 
 A su vez, la compañía ha tenido que desmentir un bulo que circula por Internet, según el cual el consumo prolongado de Actimel es perjudicial para la salud. Además de informar a través de su web, habilitaron un teléfono, un correo electrónico y facilitaron datos de asociaciones profesionales desmintiendo tal afirmación para defenderse de esta publicidad desleal.
 
@@ -6845,18 +7007,20 @@ A su vez, la compañía ha tenido que desmentir un bulo que circula por Internet
 6. Busca información sobre qué se entiende por publicidad verde engañosa.
 7. Averigua qué requisitos deben cumplir los productos agrícolas o ganaderos para po der llevar la etiqueta «producto ecológico».
 
-## C. estión de los recursos humanos
+## C. Gestión de los recursos humanos
 
 La función o gestión de los recursos humanos de una empresa se ocupa de seleccio nar, formar y retener a los empleados o colaboradores que trabajan como freetance o autónomos.
 
-Lo más habitual es que las compañías cuenten con un departamento de personal o de Re cursos humanos, cuyas funciones principales son:
+Lo más habitual es que las compañías cuenten con un departamento de personal o de Recursos humanos, cuyas funciones principales son:
 
 - El diseño depuestos de trabajo, de manera que se identifiquen las funciones de ese cargo, así como las habilidades requeridas para ocuparlo y su jerarquía con respecto a otros pues tos o áreas departamentales de la organización.
 - La evaluación de puestos de trabajo, en orden a señalar los perfiles profesionales óptimos para ocuparlos y las políticas salariales para retribuir de forma justa y equilibrada cada cargo.
 - La selección de personal idóneo, así como el desarrollo de planes de motivación, de mejora de la comunicación interna, de formación continua, de organización de equipos de trabajo, etcétera.
 - Tareas administrativas de contratación, nóminas y despidos.
 
-La evolución de las políticas de recursos humanos ha ido restando relevancia a las fun ciones administrativas, frente a las de gestión.
+## Coaching
+
+La evolución de las políticas de recursos humanos ha ido restando relevancia a las funciones administrativas, frente a las de gestión.
 
 Aunque las tareas administrativas siguen ocupando parte del tiempo de estos departa mentos, ahora también se desarrollan otras funciones más creativas, como mejorar la adecuación del puesto al trabajador o implementar medidas que mejoren la satisfacción de los empleados con la empresa. Entre estas técnicas destaca el coaching o entrena miento.
 
@@ -6866,24 +7030,27 @@ El coaching puede llevarse a cabo a través de seminarios, talleres, prácticas 
 
 Desde los departamentos de personal, el coaching persigue el desarrollo íntegro de las personas, con vistas a mejorar su autoestima y favorecer el mejor desempeño de las tareas del puesto de trabajo.
 
-@
-
-@
-
-## sj^y ! J 'C)jAi OJ ¿/52V í'u
+## Simulación empresarial
 
 El objetivo en esta unidad es elaborar el plan de marketing y dar forma al plan de recursos humanos. Ambos planteamientos fueron ini ciados en la Unidad 2 y seguidos en unida des posteriores, al tomar decisiones respecto al mercado, así como relativas al número de trabajadores necesarios para llevar a cabo el plan de producción.
 
 Al finalizar el tema, recogerás toda esta in formación para el plan de empresa, en dos apartados denominados:
 
 1. Plan de marketing
-2. PlandeRR.HH.
+2. Plan de RR.HH.
 
 El plan de marketing debe incorporar la mayor parte de acciones virtuales posibles, primero por cuestión de abaratamiento y, segundo, por mayor eficacia en la difusión. Además, debe implementar las nuevas técnicas que el desarrollo de Internet y sus aplicaciones hacen po sible, no solo para modernizar la imagen de la empresa, sino también, y sobre todo, por el reducido coste y la amplia difusión.
 
+## Fases de la Simulación empresarial
+
+- Fase 1. Elaboración del plan de marketing
+- Fase 2. Marketing y medios de promoción
+- Fase 3. Creación de página web y compra de dominios
+- Fase 4. Gestión de RR.HH.
+
 ## Fase 1. Elaboración del Plan de marketing
 
-Para el diseño de las estrategias de marketing idóneas hay que retomar las decisiones adop tadas en unidades previas, ya que el proceso de constitución de vuestra empresa está muy avanzado y las nuevas decisiones se apoyarán en las que se efectuaron en fases anteriores.
+Para el diseño de las estrategias de marketing idóneas hay que retomar las decisiones adoptadas en unidades previas, ya que el proceso de constitución de vuestra empresa está muy avanzado y las nuevas decisiones se apoyarán en las que se efectuaron en fases anteriores.
 
 En la Unidad 2 iniciasteis la mayor parte del plan de marketing al tomar decisiones respecto a estos elementos:
 
@@ -6894,7 +7061,7 @@ En la Unidad 2 iniciasteis la mayor parte del plan de marketing al tomar decisio
 - Competidores posibles que ejercen competencia directa y los que ofrecen productos sustitutivos o se dirigen a otros segmentos del mercado.
 - Análisis DAFO, integrando el estudio del entorno general y las variables internas del negocio.
 
-Además, en la Unidad 5 analizasteis la viabilidad económico-financiera de la empresa y rea lizasteis un estudio de los recursos económicos disponibles, aspecto a tener en cuenta para saber de cuánto presupuesto se dispone para diseñar acciones comerciales.
+Además, en la Unidad 5 analizasteis la viabilidad económico-financiera de la empresa y realizasteis un estudio de los recursos económicos disponibles, aspecto a tener en cuenta para saber de cuánto presupuesto se dispone para diseñar acciones comerciales.
 
 Por tanto, queda por establecer en vuestros planes de marketing:
 
@@ -6902,103 +7069,66 @@ Por tanto, queda por establecer en vuestros planes de marketing:
 - Planificación de acciones de marketing que incluyan tos medios de promoción a emplear.
 - Realización de un presupuesto estimado y fuentes de financiación, en caso de no contar con los recursos necesarios.
 
-W1
-
-5TO
-
-flB
-
-52n gg&gt;
-
-WW
-
-Wg PP
-
-b"^;
-
-ef- r"Ti wr- r\*z?m r^¿
-
-nr, c?;
-
-f^b rra,
-
-## Fases de la Simulación empresarial
-
-- Fase 1. Elaboración del plan de marketing
-- Fase 2. Marketing y medios de promo ción
-- Fase 3. Creación de página web y com pra de dominios
-- Fase 4. estión de RRJHH.
-
-_-----------------_
-
-m
-
 ## Actividad de simulación 1
 
 Reúnete con tus socios. Diseñad conjuntamente el mensaje comunicativo que queráis transmitir, para ello inventad un buen eslogan. El eslogan tiene que sintetizar las bonda des de vuestro producto o empresa, así como sus ventajas frente a la competencia.
 
-## Ayuda práctica:
+Ayuda práctica:
 
 Piensa qué es lo más relevante de vuestra empresa o producto desde la perspectiva de un cliente potencial.
 
 ## Fase 2. Marketing y medios de promoción
 
-La manera de llevar a cabo las acciones comerciales puede ser a través de métodos tradicio nales o por acciones de marketing directo.
+La manera de llevar a cabo las acciones comerciales puede ser a través de métodos tradicionales o por acciones de marketing directo.
+
+Tabla 7.2. Tipos de marketing:
+
+1. Marketing tradicional
 
 - Objetivo. El marketing tradicional pretende llegar a un amplio segmento de la población.
 - Público objetivo. Es masivo e indiferenciado puesto que no tiene definido el perfil de su cliente potencial.
 - Campaña publicitaria. La comunicación se realiza a través de medios masivos sin discriminar a quiénes van dirigidos, restando efectividad a esta acción.
 - Medios de comunicación. Las herramientas más habituales para llevar a cabo el marketing tradicional son:
-- -Canales masivos. Prensa, radio, televisión, vallas publicitarias.
-- -Buzoneo. Envío indiscriminado al buzón de la vivienda, ofertando publicidad e información de las promociones efectuadas en los puntos de venta.
-- -Boca a boca. Se basa en las recomendaciones efectuadas por amigos, asociaciones o especialistas. Esta fuente de marketing no ha sido muy explotada desde los medios tradicionales.
+- - Canales masivos. Prensa, radio, televisión, vallas publicitarias.
+- - Buzoneo. Envío indiscriminado al buzón de la vivienda, ofertando publicidad e información de las promociones efectuadas en los puntos de venta.
+- - Boca a boca. Se basa en las recomendaciones efectuadas por amigos, asociaciones o especialistas. Esta fuente de marketing no ha sido muy explotada desde los medios tradicionales.
+
+2. Marketing directo
+
 - Objetivo. El marketing directo surgió como una forma de realizar acciones de comunicación dirigidas a un público segmentado concreto.
 - Público objetivo. Su público objetivo es el consumidor potencial del producto o servicio a ofertar.
 - Campaña publicitaria. La comunicación se realiza a través de medios masivos enviados únicamente a los clientes hipotéticamente interesados. De este modo se aumenta la probabilidad de la eficacia de la comunicación, al contac tar directamente con el consumidor potencial.
 - Medios de comunicación. Las herramientas más habituales para llevar a cabo el marketing directo son:
-- -Mailing. Envío masivo de correo postal a las direcciones de potenciales clientes ofertando publicidad. Actualmente, este tipo de comunicación también se hace a través del correo electrónico, conocido como e-mailing.
-- -Faxing. Consiste en la utilización del fax para comunicar ofertas o publicidad. Entre sus ventajas estaba el resultar más económico que el mailing, pero actualmente este procedimiento ha quedado sustituido por el e-mailing.
-- -E-mailing. Envío masivo de correos electrónicos a potenciales clientes que han manifestado su conformidad con que se les envíe publicidad a su e-mail. En España, estas acciones personalizadas solo están permitidas cuando el cliente ha manifestado su conformidad a recibir publicidad en su e-mail o cuando sus datos se encuentran en un directorio público, como la guía de teléfonos. Cuando estas acciones se llevan a cabo con intenciones maliciosas o sin contar con la autorización previa del cliente, estos correos electrónicos se denominan spam. Actualmente, muchos servicios de mensajería establecen unos filtros para detectar el spam y enviarlos automáticamente a la papelera, con la intención de que el usuario no sea molestado. Se detectan fácilmente porque son enviados en cantidades masivas a muchas personas diferentes.
+- - Mailing. Envío masivo de correo postal a las direcciones de potenciales clientes ofertando publicidad. Actualmente, este tipo de comunicación también se hace a través del correo electrónico, conocido como e-mailing.
+- - Faxing. Consiste en la utilización del fax para comunicar ofertas o publicidad. Entre sus ventajas estaba el resultar más económico que el mailing, pero actualmente este procedimiento ha quedado sustituido por el e-mailing.
+- - E-mailing. Envío masivo de correos electrónicos a potenciales clientes que han manifestado su conformidad con que se les envíe publicidad a su e-mail. En España, estas acciones personalizadas solo están permitidas cuando el cliente ha manifestado su conformidad a recibir publicidad en su e-mail o cuando sus datos se encuentran en un directorio público, como la guía de teléfonos. Cuando estas acciones se llevan a cabo con intenciones maliciosas o sin contar con la autorización previa del cliente, estos correos electrónicos se denominan spam. Actualmente, muchos servicios de mensajería establecen unos filtros para detectar el spam y enviarlos automáticamente a la papelera, con la intención de que el usuario no sea molestado. Se detectan fácilmente porque son enviados en cantidades masivas a muchas personas diferentes.
+- - Telemarketing. Este tipo de comunicación consiste en que un comercial contacta por teléfono con clientes poten ciales para tratar de formalizar una venta, aunque en ocasiones se ha utilizado para realizar encuestas de opinión que ayudan a valorar la penetración de un producto en el mercado. Es una técnica que se ha quedado desfasada y actualmente solo se utiliza como un medio de marketing relaciónal, es decir, una manera de estrechar la relación con el cliente. En este caso, el teleoperador únicamente interviene cuando el cliente solicita información o expresa una queja a través de la página web corporativa, o bien, cuando ha desplazado su compra a la competencia y la compañía contacta con él para conocer los motivos del cambio y buscar la manera de volver a captarle, algo muy frecuente hoy en día entre las operadoras de telefonía móvil, por ejemplo.
 
-- -Telemarketing. Este tipo de comunicación consiste en que un comercial contacta por teléfono con clientes poten ciales para tratar de formalizar una venta, aunque en ocasiones se ha utilizado para realizar encuestas de opinión que ayudan a valorar la penetración de un producto en el mercado. Es una técnica que se ha quedado desfasada y actualmente solo se utiliza como un medio de marketing relaciónal, es decir, una manera de estrechar la relación con el cliente. En este caso, el teleoperador únicamente interviene cuando el cliente solicita información o expresa una queja a través de la página web corporativa, o bien, cuando ha desplazado su compra a la competencia y la compañía contacta con él para conocer los motivos del cambio y buscar la manera de volver a captarle, algo muy frecuente hoy en día entre las operadoras de telefonía móvil, por ejemplo.
-
-## Éiilcetiñg alternativo o marketing 3.0
+3. Marketing alternativo o marketing 3.0
 
 - Objetivo. Este nuevo concepto de mercadotecnia surge gracias al desarrollo de Internet, puesto que permite mante ner acciones masivas e indiferenciadas junto a las dirigidas específicamente a un segmento poblacional concreto.
 - Público objetivo. El consumidor potencial que ha dado su consentimiento para recibir publicidad.
 - Campaña publicitaria. Utiliza cualquier medio que le permita la interactividad con el consumidor, a fin de sustituir la publicidad intrusiva por un marketing de permiso, de manera que se evita bombardear al consumidor con mensajes permanentes para provocar que sea este quien busque y pida información sobre el producto.
 - Medios de comunicación. Las herramientas más utilizadas por el marketing 3.0 son cualquiera de los sistemas tra dicionales y cualquiera de las técnicas de nueva implantación que han surgido con el uso de Internet y las nuevas tecnologías.
 - Resultado. El marketing alternativo se está mostrando el más eficaz por varios motivos:
-- -Los consumidores están hastiados del marketing de interrupción. Se cambia de canal de televisión, se cierran ventanas emergentes en el ordenador y, cuando esto no es posible, el usuario se exaspera. No solo no se presta atención a la publicidad sino que esta intromisión se penaliza con un sentimiento de rechazo hacia la marca.
-- -El consumidor desconfía del mensaje de las marcas, se muestra escéptico ante la información o los datos que seña lan las bondades de un producto y hasta desconfía de las acciones de responsabilidad corporativa o de sensibilidad ambiental o social.
-- -Los medios de comunicación tradicionales (prensa, televisión, radio) están siendo sustituidos por sus versiones gratuitas o por medios más rápidos e interactivos, como blogs o microblogs.
-- -La competencia es tan amplia que las empresas deben cuidar la relación con sus clientes para fidelizarlos. Es menos costoso conservar clientes que captar nuevos.
+- - Los consumidores están hastiados del marketing de interrupción. Se cambia de canal de televisión, se cierran ventanas emergentes en el ordenador y, cuando esto no es posible, el usuario se exaspera. No solo no se presta atención a la publicidad sino que esta intromisión se penaliza con un sentimiento de rechazo hacia la marca.
+- - El consumidor desconfía del mensaje de las marcas, se muestra escéptico ante la información o los datos que seña lan las bondades de un producto y hasta desconfía de las acciones de responsabilidad corporativa o de sensibilidad ambiental o social.
+- - Los medios de comunicación tradicionales (prensa, televisión, radio) están siendo sustituidos por sus versiones gratuitas o por medios más rápidos e interactivos, como blogs o microblogs.
+- - La competencia es tan amplia que las empresas deben cuidar la relación con sus clientes para fidelizarlos. Es menos costoso conservar clientes que captar nuevos.
 
-Tabla 7.2. Tipos de marketing (Continuación).
+## Público segmentado
 
-i
+Público segmentado se refiere a la agrupación que realizan los especialistas de marketing de los potenciales consumidores que presentan características similares, con el fin de diseñar acciones comunes a todos ellos.
 
-Público segmentado se refiere a la agrupación que realizan los especialistas de marke- ting de los potenciales consumidores que presentan características similares, con el fin de diseñar acciones comunes a todos ellos.
+## Spam
 
-!
+El spam, correo basura o mensaje basura son diferentes formas de referirse a mensajes no deseados o de remitente desconocido, habitualmente de tipo publicitario.
 
-i
-
-i
-
-Elspam, correo basura o mensaje basura son diferentes formas de referirse a mensa- jes no deseados o de remitente desconocido, habitualmente de tipo publicitario.
-
-!
-
-i
-
-|
-
-## ■ Técnicas de marketing alternativo
+## Técnicas de marketing alternativo
 
 A raíz de la irrupción de las nuevas tendencias tecnológicas, han ido surgiendo nuevas formas de hacer marketing que comportan un cambio en la estrategia comunicativa de las empresas. A continuación se analizan las técnicas más usuales del marketing digital.
 
-## D Vídeo marketing
+## Vídeo marketing
 
 El vídeo marketing se vale de recursos audiovisuales para transmitir el mensaje comercial, principalmente a través de la red. Lo más frecuente es que se difunda en la web corporativa o se inserte en YouTube y portales similares.
 
@@ -7008,9 +7138,9 @@ Al parecer, los vídeos o el contenido multimedia son, en general, uno de los el
 
 El porcentaje de popularidad de YouTube, unido a la gratuidad de sus servicios, lo convierte en el portal estrella para este tipo de contenidos. Además, si el vídeo goza de interés, su difusión será promovida por los mismos potenciales clientes a través de sus propios blogs, o por el envío masivo a sus contactos de e-mail o por su difusión desde las redes sociales.
 
-## D Código QR o código BIDI
+## Código QR o código BIDI
 
-Los códigos QuickResponse Code o bidimensional.es son un medio de almacenamiento de información en una matriz de puntos o un código de barras bidimensional creado por la com pañía japonesa Denso Wave, subsidiaria de Toyota, en 1994. El nombre de Quick Response («respuesta rápida») alude a la rapidez en acceder al contenido de esta información.
+Los códigos QuickResponse Code o bidimensionales son un medio de almacenamiento de información en una matriz de puntos o un código de barras bidimensional creado por la com pañía japonesa Denso Wave, subsidiaria de Toyota, en 1994. El nombre de Quick Response («respuesta rápida») alude a la rapidez en acceder al contenido de esta información.
 
 Los datos señalan que las empresas españolas están convencidas de la utilidad de los códigos QR y, sin embargo, solo un 30% se sirven de ellos como herramienta de marketing y, de ese pequeño porcentaje de empresas, más de la mitad los utilizan sin tener una estrategia clara de cómo implementarlos y sin disponer de los mecanismos necesarios para medir su eficacia. Esto se debe a que la tecnología y la inversión necesarias para utilizarlos son escasas.
 
@@ -7023,7 +7153,7 @@ La utilidad de estos códigos es diversa, se caracterizan por:
 - enerar información relevante para el cliente y valiosa para la empresa.
 - Interaccionar con el cliente.
 
-Sin embargo, el uso de esta herramienta está en manos de profesionales que no se han pues to al día y, por tanto, no saben cómo aprovechar todo el potencial de este nuevo medio de promoción. Mayoritariamente los utilizan en folletos y carteles, anuncios en prensa y tarjetas de visita.
+Sin embargo, el uso de esta herramienta está en manos de profesionales que no se han puesto al día y, por tanto, no saben cómo aprovechar todo el potencial de este nuevo medio de promoción. Mayoritariamente los utilizan en folletos y carteles, anuncios en prensa y tarjetas de visita.
 
 ## Ejemplo 5. Uso insólito del código QR
 
@@ -7033,9 +7163,9 @@ Para ello, sobreponen una plantilla sobre el lomo del animal al que rocían con 
 
 Esta granja recibe una gran cantidad de visitas al día, razón por la cual se les ocurrió implantar esta tecnología a fin de facilitar toda la información que los visitantes requerían, así como dar valor a un trabajo y a una calidad en el hacer que no siempre es apreciado por el visitante. La iniciativa se convirtió en todo un éxito, las visitas a la web se incrementaron en un 150 % y el fenómeno llamó la atención de los medios de comunicación y de muchos visitantes.
 
-## D Mobile marketing
+## Mobile marketing
 
-El motile marketing utiliza el móvil o smartphone del usuario como vehículo de promoción.
+El mobile marketing utiliza el móvil o smartphone del usuario como vehículo de promoción.
 
 ## Ejemplo 6. Aplicación qlikBar
 
@@ -7043,15 +7173,11 @@ En Valencia, unos jóvenes publicistas, desarrolladores y consultores, han idead
 
 La aplicación funciona gracias a la tecnología de geolocalización y los códigos QR. La idea muestra que la sinergia creada por pequeños hosteleros con inquietud y jóvenes desarro lladores de ideas con dominio de las nuevas tecnologías, puede dar lugar a un producto de gran potencial. En estos momentos la aplicación se encuentra en fase de prueba, lo que los entendidos llaman fase beta, mientras se están acometiendo las rondas de financiación. De momento, han contado con el apoyo de la aceleradora de ideas StartNewTech.
 
-## D Marketing viral
+## Marketing viral
 
 El marketing viral pretende difundir una campaña publicitaria de manera exponencial a través de las redes sociales y de otros medios electrónicos, contando con la participación del público objetivo, que distribuirá el mensaje entre sus contactos.
 
 Su nombre se debe a la similitud con un proceso de autorreplicación viral, donde el virus se reproduce con facilidad y contagia zonas adyacentes, de manera que en un breve lapso de tiempo la infección se ha extendido a una gran área. Esta analogía ya se utilizaba para hablar de infección viral de un sistema informático.
-
-## Ejemplo 7. La crema de Isabel Preysler
-
-Una de las campañas más conocidas en España de marketing viral es la «crema de Isabel Preysler» (la exmujer de Julio Iglesias) una crema antiarrugas de venta en farmacias. Su aso ciación con ese icono de belleza se realizó a través de varios blogs que se hicieron eco de una inusual noticia, según la cual, una azafata siguió a Isabel Preysler cuando descendía del avión y vio que tiraba en una papelera el envase de cartón de la crema que acababa de utilizar. Lo recogió y lo buscó en una farmacia. Su sorpresa fue grande al comprobar que era una crema de precio asequible, uno de los motivos por el que se incrementó el nivel de ventas de esta crema, una vez conocido este rumor. La extensión del bulo fue tal que era posible comprar la crema sin conocer su nombre ni su aspecto, simplemente indicando en la farmacia que se deseaba comprar la crema de la Preysler.
 
 El marketing viral se basa en la difusión boca a boca, en sus múltiples variantes online, como de e-mail a e-mail, de SMS a SMS, etc. mediante el uso de las redes sociales y de servicios de telefonía móvil. Su principal ventaja consiste en su capacidad de conseguir a un bajo coste una gran cantidad de posibles clientes interesados. Por ejemplo, si se envían 100 e-mails y cada uno lo reenvía a 200 contactos, el grado de expansión es exponencial. Eventualmente, la campaña se extinguirá, pero el coste final habrá sido el gasto de enviar 100 e-mails.
 
@@ -7063,21 +7189,27 @@ En ocasiones los mensajes que se transmiten difunden un rumor falso y, aunque no
 
 Así sucedió con el lanzamiento de Coca-Cola Zero, a la que se le atribuyeron efectos can cerígenos. Otras veces, son las propias compañías las que dejan correr un falso rumor para crear cierta expectativa ante el lanzamiento de un producto nuevo, como hizo Apple antes de lanzar al mercado el iPhone 5, cuyo prototipo, se dijo, había sido extraviado en un bar.
 
+## Ejemplo 7. La crema de Isabel Preysler
+
+Una de las campañas más conocidas en España de marketing viral es la «crema de Isabel Preysler» (la exmujer de Julio Iglesias) una crema antiarrugas de venta en farmacias. Su aso ciación con ese icono de belleza se realizó a través de varios blogs que se hicieron eco de una inusual noticia, según la cual, una azafata siguió a Isabel Preysler cuando descendía del avión y vio que tiraba en una papelera el envase de cartón de la crema que acababa de utilizar. Lo recogió y lo buscó en una farmacia. Su sorpresa fue grande al comprobar que era una crema de precio asequible, uno de los motivos por el que se incrementó el nivel de ventas de esta crema, una vez conocido este rumor. La extensión del bulo fue tal que era posible comprar la crema sin conocer su nombre ni su aspecto, simplemente indicando en la farmacia que se deseaba comprar la crema de la Preysler.
+
 ## Ejemplo 8. Incentivos para activar el marketing viral
 
 Hay empresas que ofrecen algún tipo de incentivo para contribuir a la difusión de su men saje. Este fue el caso de Burger King con su reciente campaña «Elimina un amigo y gana un Whopper», que regalaba una hamburguesa por cada diez contactos eliminados de la red social de Facebook del usuario.
 
 La difusión del mensaje estaba asegurada porque cada contacto suprimido recibía un men saje en su muro comentando que su amigo había preferido una hamburguesa antes que a él. Esto favorecía la replicación. El éxito de la campaña fue tal que Facebook tuvo que restringirla ya que se valía de su propia red para atentar contra sus propios intereses corporativos.
 
-Hay acciones de marketing viral que ocultan su intención comercial y cualquier referencia que les identifique. Estas comunicaciones son ingenuamente transmitidas por usuarios debi do a lo inusual y extraño de tal mensaje. Se trata de estrategias de marketing encubierto, que persiguen generar una gran cobertura mediática con un coste muy bajo.
-
 ## Ejemplo 9. ¿Has soñado con este hombre?
+
+Hay acciones de marketing viral que ocultan su intención comercial y cualquier referencia que les identifique. Estas comunicaciones son ingenuamente transmitidas por usuarios debido a lo inusual y extraño de tal mensaje. Se trata de estrategias de marketing encubierto, que persiguen generar una gran cobertura mediática con un coste muy bajo.
 
 Hace años tuvo una gran repercusión la campaña «¿Has soñado con este hombre?» que, a día de hoy, muchos siguen ignorando que era una estrategia de marketing viral. A través de fotocopias pegadas en multitud de espacios urbanos, como farolas, papeleras o marquesinas de autobús, se mostraba la imagen de un señor de mediana edad y aspecto extraño junto a un texto no menos sorprendente.
 
 La historia, rayando la frontera de lo paranorrnal, contaba que ese hombre se había aparecido en sueños a multitud de personas en todo el mundo. Una página web instaba a la gente a contar su experiencia si también habían visto esa cara en sueños. A pesar de ser una historia inventada la repercusión fue tal que aún hoy en día esa web sigue existiendo y se cuentan por miles los usua rios que han relatado anécdotas sobre extrañas apariciones de ese rostro. Detrás de ese bulo, no obstante, la historia era de lo más normal. Una empresa de marketing acababa de demostrar a sus potenciales clientes -empresas necesitadas de campañas de publicidad exitosas- cuan eficaz puede ser para una empresa crear una campaña de gran repercusión mediática y de extensión mundial.
 
-## D Vending
+www.thisman.org
+
+## Vending
 
 Vendinges un neologismo inglés que se utiliza para denominar el sistema de ventas por medio de máquinas expendedoras accionadas por diversos medios de pago, generalmen te monedas o tarjetas.
 
@@ -7099,9 +7231,9 @@ La compañía Coca-Cola ha encontrado la manera de rentabilizar este medio como 
 
 La marca sudafricana de té helado BOS ha lanzado, por su parte, una máquina vendedora denominada Bev, que se activa a través de Twitter, de manera que el medio de pago son tuits. Esta innovadora máquina cuenta con cámaras, micrófonos y LED, de modo que permite rega lar una lata de té cuando alguna persona tuitee el hashtag que se muestre en ese momento en la pantalla.
 
-Un hashtag o etiqueta de almohadilla (#) es una cadena de palabras concatenadas y precedidas por una almohadilla. Sirve para iniciar un tema de conversación en Twitter u otros medios similares. Cualquier usuario puede seguir este hilo de conversación y manifestar en él una opinión, simplemente con buscar el hashtag en el servicio de microhlogging.
+Un hashtag o etiqueta de almohadilla (#) es una cadena de palabras concatenadas y precedidas por una almohadilla. Sirve para iniciar un tema de conversación en Twitter u otros medios similares. Cualquier usuario puede seguir este hilo de conversación y manifestar en él una opinión, simplemente con buscar el hashtag en el servicio de microblogging.
 
-## D Marketing olfativo
+## Marketing olfativo
 
 El marketing olfativo, también llamado odomarketing o marketing aromático, se basa en estimular el sentido del olfato para aumentar la experiencia placentera del con sumidor en relación con el producto.
 
@@ -7109,7 +7241,7 @@ Según algunos estudios, las personas recordamos un 35% de los olores que se asp
 
 De igual forma, el olor es el reclamo habitual que se intuye en la publicidad de fragancias y desodorantes. Las últimas tendencias, sin embargo, apuntan más lejos. No se trata de resaltar el olor de un producto de por sí aromático, sino crear esencias agradables y placenteras para asociarlos a una marca, un establecimiento comercial o a experiencias agradables de con sumo. Ya existen empresas especializadas en crear fragancias de marca, e incluso se venden difusores industriales de grandes dimensiones para asegurarse de que el establecimiento se impregna de ese aroma, como sería el caso del hotel Al-Andalus, de Sevilla, que tiene un olor corporativo basado en la fragancia de azahar, la flor del naranjo que tanto abunda en esa ciudad.
 
-- [ ] □ Marketing social
+## Marketing social
 
 Su propósito es la aplicación de las técnicas del marketing para desarrollar acciones que me joren el bienestar personal de los clientes y de la sociedad en general. Se utiliza también para comunicar las acciones de responsabilidad social corporativa. Además, es un tipo de marketing del que se sirven las entidades sin ánimo de lucro, como ON o fundaciones, para erradicar de terminadas conductas perjudiciales para las personas o para concienciar de problemas sociales.
 
@@ -7119,11 +7251,11 @@ Así, se encuadrarían en acciones de marketing social: acciones publicitarias p
 
 En noviembre de 2012, Metro de Madrid consiguió reunir en un mes a más de 3000 donantes en una campaña con Cruz Roja y Coca-Cola. El lema de la iniciativa fue «Estás a un metro de salvar muchas vidas». Cuatro estaciones se convirtieron en puntos de extracción de sangre, de las cuales, Ciudad Universitaria fue la más solidaria consiguiendo la donación de 1 300 viajeros.
 
-## D Marketing de contenidos
+## Marketing de contenidos
 
 El marketing de contenidos consiste en centrar la atención comercial en la distribución de contenido relevante para potenciales clientes, con el fin de atraer su atención y, si es posible, crear una relación más permanente con ellos. Puede ser en forma deposts, tuits, actualizacio nes en redes sociales, artículos en revistas corporativas físicas u online -newsletters-, vídeos, podcasts, etc.
 
-## Ejemplo 13.Aquarius
+## Ejemplo 13. Aquarius
 
 En la campaña publicitaria «Huérfanos de pueblo», de Aquarius, la compañía Coca-Cola quiso contribuir a la repoblación de pueblos que estuvieran perdiendo habitantes, para lo cual puso en contacto a cincuenta pueblos españoles, previamente seleccionados, con personas que carecían de pueblo en el que veranear y estaban interesados en ello. La campaña se di fundió a través de YouTube y en la propia web de la compañía, donde debían registrarse las personas interesadas en ser aceptadas como «hijos adoptivos». Esta inscripción daba derecho a disfrutar de descuentos en bares, restaurantes y alojamientos de la localidad asignada.
 
@@ -7131,7 +7263,7 @@ A través de Facebook, los participantes podían dar a conocer su experiencia, c
 
 Aquarius se ha caracterizado por hacer siempre campañas muy adaptadas al gusto español. Algunas de ellas han sido conmovedoras, como aquella en la que dio difusión a la iniciativa de un ciudadano anónimo que, pese a carecer de conocimientos arquitectónicos, está cons truyendo una catedral. Puedes leer más sobre esta historia en Wikipedia: «Catedral de Justo».
 
-## D Marketing relacional o marketing de atracción
+## Marketing relacional o marketing de atracción
 
 El marketing relacional o marketing de atracción busca fidelizar la relación con el cliente y ganar nueva clientela, a base de una comunicación permanente y bidireccional; es decir, se espera que sean los usuarios los que accedan al contenido online de la empresa, ya sea en busca de información relevante, para participar en foros o para acceder a un posible premio. La empresa no se detiene en la creación de este contenido relevante, sino que avanza un paso más, ya que analiza la repercusión de los mensajes en la potencial clientela. Engloba, por tanto, herramientas de marketing social, de marketing de contenidos y de SEO, esto es, de mejorar el posicionamiento web.
 
@@ -7145,19 +7277,19 @@ La posibilidad de compartir el vídeo era un elemento clave en la campaña. Se u
 
 Los resultados de la campaña mostraron que cerca de dos millones de usuarios vieron el vídeo en las dos primeras semanas de campaña, que más de medio millón visitaron la aplicación Social UfeAudit y que el vídeo fue número uno entre los más vistos en los EE.UU. Los mejores datos son los índices de satisfacción de la propia marca, que considera que de este modo había logrado un mayor impacto entre los consumidores que con un típico anuncio, ya que los usuarios de estos medios han llegado a la marca gracias a la recomendación de amigos y han asociado la marca con una buena experiencia.
 
-## ■ Otros medios de promoción
+## Otros medios de promoción
 
 En el mundo del marketing se alude a otras variantes de marketing que, sin tener tanta re percusión, sí es frecuente que aparezcan en los medios de comunicación, razón por la que procederemos a su análisis.
 
-## D Street marketing
+## Street marketing
 
 Se trata de realizar acciones promocionales inesperadas en una calle céntrica para asegurarse una gran audiencia. Lo más habitual es que se revelen pocos datos o ninguno de la compañía que desarrolla la campaña, para generar intriga y expectación, y así incrementar y prolongar el efecto.
 
-## Ejemplo 15. Street marketingf acciones inesperadas
+## Ejemplo 15. Street marketing, acciones inesperadas
 
 La promoción de la película Chronicle se efectuó con una acción inusitada. Durante más de media hora, unos maniquís teledirigidos volaron y planearon sobre la ciudad de Nueva York. No hubo aviso previo, ni información que diera pistas sobre el propósito de esta acción, lo que generó una gran afluencia de público detenido mientras señalaban el cielo. Incluso hay quien imaginó que seres extraterrestres estaban invadiendo la Tierra. Puedes ver el vídeo en YouTube, titulado Hombres volando BY: Chronicle.
 
-La ciudad de Barcelona también fue escenario de unas acciones de street marketing hace años, cuando la compañía Converse quiso dar a conocer los nuevos colores de las zapatillas - 246 - ChuckTaylor All-Stars. Durante cuatro días, se dejaron en diversos puntos de la ciudad 300 bicis pintadas de llamativos colores para que la gente se las llevara gratis. Las bicicletas se loca lizaban a través del perfil de Converse en Facebook. Como fin de fiesta, se realizó un mosaico de colores en la playa de Barcelona con sombrillas, esterillas, balones y bolsas de playa, que también se regalaron.
+La ciudad de Barcelona también fue escenario de unas acciones de street marketing hace años, cuando la compañía Converse quiso dar a conocer los nuevos colores de las zapatillas ChuckTaylor All-Stars. Durante cuatro días, se dejaron en diversos puntos de la ciudad 300 bicis pintadas de llamativos colores para que la gente se las llevara gratis. Las bicicletas se loca lizaban a través del perfil de Converse en Facebook. Como fin de fiesta, se realizó un mosaico de colores en la playa de Barcelona con sombrillas, esterillas, balones y bolsas de playa, que también se regalaron.
 
 ## D Dance marketing
 
@@ -7169,7 +7301,7 @@ La primera iniciativa tuvo lugar en la estación de Liverpool de Londres, realiz
 
 En España, la empresa IKEA realizó esta actividad en sus instalaciones de Alcorcón (Madrid) de manera aparentemente improvisada, aunque las cámaras de televisión estuvieron presentes para grabar la escena y mostrarlo en el telediario.
 
-## D Co-marketing o marketing de cooperación
+## Co-marketing o marketing de cooperación
 
 El co-marketing o marketing de cooperación es una unión, generalmente temporal, de em presas para realizar una campaña promocional conjunta, de manera que se incrementa el impacto de la acción publicitaria, ya que con menos recursos económicos se llega a más audiencia.
 
@@ -7177,13 +7309,13 @@ El co-marketing o marketing de cooperación es una unión, generalmente temporal
 
 En ocasiones, las compañías no son rivales, como sucede en la reciente campaña realizada por Magnum. A través de la web http://pleasurehunt.mymagnum.com se accede a un original juego en el que una mujer, dirigida con los cursores del teclado del ordenador, va moviéndose por diferentes páginas web para atrapar bombones Magnum. El juego dura en torno a veinte minutos, lo que da idea de la cantidad de empresas integradas en esta campaña publicitaria. Al acabar el juego, el jugador obtiene una puntuación final que se incluye en un ranking con el resultado de otros jugadores online.
 
-Otras veces, se unen empresas que se dedican al mismo sector y es precisamente esta con vergencia la que asegura un mayor índice de audiencia, del mismo modo que los centros co merciales atraen a más compradores por la concentración en un mismo espacio de diferentes marcas, lo que amplía las posibilidades de compra.
+Otras veces, se unen empresas que se dedican al mismo sector y es precisamente esta con vergencia la que asegura un mayor índice de audiencia, del mismo modo que los centros comerciales atraen a más compradores por la concentración en un mismo espacio de diferentes marcas, lo que amplía las posibilidades de compra.
 
-## Ejemplo 18e Co-marketing de empresas del mismo sector
+## Ejemplo 18. Co-marketing de empresas del mismo sector
 
-Un ejemplo clásico de este tipo de posibilidad es la distribución de tickets descuentos en una misma libreta, a usar en diferentes negocios. O la asociación Coca-Cola con Telepizza, Burger Kingy otros restaurantes. O el recién portal de bodas creado por El Corte Inglés en el que se integran los servicios de cerca de 1 500 empresas, con el propósito de competir con la empresa Bodaclick.
+Un ejemplo clásico de este tipo de posibilidad es la distribución de tickets descuentos en una misma libreta, a usar en diferentes negocios. O la asociación Coca-Cola con Telepizza, Burger King y otros restaurantes. O el recién portal de bodas creado por El Corte Inglés en el que se integran los servicios de cerca de 1500 empresas, con el propósito de competir con la empresa Bodaclick.
 
-## D Marketing de guerrilla
+## Marketing de guerrilla
 
 Esta estrategia comercial aplica al mundo del marketing los conocimientos militares de Sun Tzu, un general, estratega y filósofo chino, de alrededor del año 500 a.C. Sus ideas están re cogidas en el libro El arte de la guerra, se trata de tácticas sencillas pero eficaces que han sido reinterpretadas para adaptarse al mundo empresarial.
 
@@ -7193,18 +7325,21 @@ Aplicado al campo de los negocios, se trataría de:
 
 Tabla 7.3. Marketing de guerrilla en la empresa.
 
-| Tomar posiciones en el mercado según las intenciones de la competencia, cono cer sus debilidades y nuestras fortalezas. Sun Tzu afirma: «Si quieres ganar, ataca un lugar que tu enemigo no defienda».                                                                                                                                                                                      |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Conocer bien el terreno y el clima donde se librará la batalla, es decir, conocer el mercado y los factores del entorno que lo influyen.                                                                                                                                                                                                                                                    |
-| Anticiparse a la reacción de la competencia, actuar con iniciativa atacando a sus puntos vulnerables, por ejemplo, segmentos desatendidos, mala distribución, ser vicio posventa insatisfactorio, escasa calidad de los productos, etc. Se trata de concentrar fuerzas para mostrar superioridad, siempre es posible ya que siempre puede detectarse un aspecto donde el otro es más débil. |
-| Meditar cada paso y sus consecuencias, funcionar como un todo coordinado. No se trata de emplear demasiadas estrategias, sino una estrategia con una alterna tiva y, a ser posible, la más sencilla.                                                                                                                                                                                        |
-| Sun Tzu afirma: «La mejor política en la guerra es tomar un estado intacto; arrui narlo es inferior». Así pues, esta máxima indica que la esencia del marketing de guerrillas no debe basarse en la publicidad desleal para desbancar a la compe tencia.                                                                                                                                    |
+- Posicionarse en el mercado: Tomar posiciones en el mercado según las intenciones de la competencia, cono cer sus debilidades y nuestras fortalezas. Sun Tzu afirma: «Si quieres ganar, ataca un lugar que tu enemigo no defienda».
+
+- Conocer el mercado y los factores del entorno: Conocer bien el terreno y el clima donde se librará la batalla, es decir, conocer el mercado y los factores del entorno que lo influyen.
+
+- Actuar con iniciativa: Anticiparse a la reacción de la competencia, actuar con iniciativa atacando a sus puntos vulnerables, por ejemplo, segmentos desatendidos, mala distribución, servicio posventa insatisfactorio, escasa calidad de los productos, etc. Se trata de concentrar fuerzas para mostrar superioridad, siempre es posible ya que siempre puede detectarse un aspecto donde el otro es más débil.
+
+- Meditar la estrategia: Meditar cada paso y sus consecuencias, funcionar como un todo coordinado. No se trata de emplear demasiadas estrategias, sino una estrategia con una alternativa y, a ser posible, la más sencilla.
+
+- Desmarcarse de la publicidad desleal: Sun Tzu afirma: «La mejor política en la guerra es tomar un estado intacto; arruinarlo es inferior». Así pues, esta máxima indica que la esencia del marketing de guerrillas no debe basarse en la publicidad desleal para desbancar a la competencia.
 
 ## Ejemplo 19. Caso: Banco Santander y su marketing de guerrilla
 
-Emilio Botín, presidente del Banco Santander, asegura «admirar las estrategias militares des critas por Sun Tzu en £/ arte de la guerra, uno de mis libros de cabecera». La historia de su grupo ha seguido las máximas que se destacan en ese libro.
+Emilio Botín, presidente del Banco Santander, asegura «admirar las estrategias militares descritas por Sun Tzu en El arte de la guerra, uno de mis libros de cabecera». La historia de su grupo ha seguido las máximas que se destacan en ese libro.
 
-Así, destacó tres ideas clave que han dado al banco el liderazgo mundial que tiene en el mo mento presente:
+Así, destacó tres ideas clave que han dado al banco el liderazgo mundial que tiene en el momento presente:
 
 - Estrategia planificada. En el año 1986, cuando España ingresó en la Unión Europea, se fijaron como objetivo ser el primer banco comercial del mundo. Entonces ocupaban el sép timo lugar en España. Para escalar posiciones analizaron los puntos fuertes de la compañía y diseñaron una estrategia. Así, se acordó la estrategia en tres fases: ser fuerte en España, después convertirse en el primer banco de Iberoamérica y, por último, ser el mejor banco de Europa. Sus fortalezas eran dos: el mejor ejército, en clara alusión a los empleados, y un modelo de negocio que prestaba especial atención a la prudencia en riesgos.
 - Cumplir los objetivos fijados. Estas líneas estratégicas se fueron desarrollando con pe queños pasos, como la apertura de la Supercuenta, que remuneraba las cuentas corrientes con un interés del 11%, frente al 1 % de la competencia. Para minimizar los riesgos de este producto, se revisó la intendencia y la retaguardia, es decir, se aseguraron altos niveles de capital para garantizar la rentabilidad ofrecida y se sopesaron las posibles respuestas de los adversarios. Los resultados fueron mejor de lo previsto: la competencia tardó seis meses en reaccionar, lo que permitió al Banco Santander duplicar su cuota de mercado.
@@ -7212,7 +7347,7 @@ Así, destacó tres ideas clave que han dado al banco el liderazgo mundial que t
 
 Como conclusión, Botín reconoce que el Banco Santander ha logrado su objetivo: «Es el tercer banco del mundo por resultados, el primero de la zona euro por capitalización y la mayor red de banca comercial internacional».
 
-- [ ] D Neuromarketing
+## Neuromarketing
 
 Esta modalidad de marketing aprovecha los últimos avances en neurociencia para extraer conclusiones sobre los patrones de consumo de los clientes, que no es más que un proceso de elección de compra regulado por procesos mentales. Así, por ejemplo, los estudios muestran que el 95 % de las compras son de forma inconsciente. O que las personas optan por comprar un producto que incluye un 50% gratis, antes que el mismo bien rebajado un 33%, a pesar de que la segunda alternativa sería más ventajosa desde un punto de vista económico.
 
@@ -7222,55 +7357,51 @@ El neuromarketing también explica la importancia de elementos ambientales que p
 - Una sensación térmica acorde con la ropa que se está vendiendo incita al consumo. Así, es habitual que cuando en agosto se expone la campaña otoño-invierno, las superficies comerciales reduzcan significativamente la temperatura de la tienda.
 - Los colores amarillos captan la atención, de manera que es el color preferido para las eti quetas de descuentos o para señalar promociones u ofertas, tipo 3x2.
 
-El merchandising es una parte del marketing que pretende presentar el producto en las mejores condiciones, tanto materiales como psicológicas, al comprador potencial. Tien de a sustituir la presentación pasiva del producto por aquellos elementos que resalten su atractivo, como presentación, envasado, exposición, decoración, etc.
+## El merchandising
 
-## D Marketing verde
+Es una parte del marketing que pretende presentar el producto en las mejores condiciones, tanto materiales como psicológicas, al comprador potencial. Tien de a sustituir la presentación pasiva del producto por aquellos elementos que resalten su atractivo, como presentación, envasado, exposición, decoración, etc.
+
+## Marketing verde
 
 Está orientado al lanzamiento de productos ecológicos o a acciones corporativas que mejoren el cuidado del medioambiente.
-
-## Ejemplo 20.Toshiba y su compromiso con el medio ambiente
-
-La compañía Toshiba ha sorprendido con el lanzamiento de un equipo multifuncional, deno minado e-STUDIO 36QLP, que puede borrar el papel impreso y reutilizarlo hasta cinco veces, con una velocidad de borrado de treinta páginas por minuto. Afirma que se reduce en un 80% el gasto del papel en una oficina. Además, es un producto sostenible, puesto que ahorra en un 57% las emisiones de CO2 tanto para producirla, ya que se fabrica con plásticos procedentes de plantas en vez de petróleo, como para reciclarla, ya que sus componentes son biológicos.
-
-Algunas prácticas ilícitas en este tipo de publicidad han generado escepticismo entre los ciudadanos, razón por la cual han empezado a surgir empresas que se dedican a acreditar la autenticidad de este tipo de comunicados.
-
-## Ejemplo 21. «Made in Creen», certificación ecológica
-
-La compañía Made in reen certifica que el material utilizado por las empresas textiles no es nocivo para la salud de los consumidores, es respetuoso con el medio ambiente y con los derechos humanos, tanto de sus trabajadores como de los que trabajan para sus proveedores. La certificación se expide anualmente.
-
-La empresa afirma que hasta que la sostenibilidad no esté implícita en la productividad, son necesarias este tipo de medidas.
 
 Los estudios llevados a cabo sobre el consumo verde afirman que el 82% de las empresas tienen «buenas intenciones» a este respecto, pero solo el 16% está dispuesto a cumplirlas. Los factores que más propician el cambio de comportamiento son, por este orden, la presión del grupo y del entorno, los efectos sobre la salud y el sentimiento de culpabilidad por la situación ambiental.
 
 En línea con esta preocupación han surgido iniciativas ciudadanas para el consumo colaborativo. Se trata de pequeñas acciones de economía compartida que permiten reducir el consumo, al compartir vivienda o coche, por ejemplo.
 
-La plataforma Where ood rows («Donde crece lo bueno») es un espacio de comunica ción y reflexión sobre las prácticas de las empresas que contribuyen a la sostenibilidad del planeta. Su fundador defiende la práctica del greenwashing como alternativa al no hacer nada ya que, aunque las acciones verdes que promueven algunas empresas sean solo un reclamo para atraer consumidores, considera que a medio plazo consolidarán un cambio actitudinal y de comportamiento en la organización.
+La plataforma Where Good Grows («Donde crece lo bueno») es un espacio de comunicación y reflexión sobre las prácticas de las empresas que contribuyen a la sostenibilidad del planeta. Su fundador defiende la práctica del greenwashing como alternativa al no hacer nada ya que, aunque las acciones verdes que promueven algunas empresas sean solo un reclamo para atraer consumidores, considera que a medio plazo consolidarán un cambio actitudinal y de comportamiento en la organización.
 
 El greenwashing consiste en una práctica poco ética de algunas compañías que presentan sus productos como respetuosos con el medio ambiente, cuando no es del todo cierto o cuando se oculta información que haría valorar esas acciones de manera diferente. Así, por ejemplo, sería una información confusa llamar algodón ecológico al que no usó pesticidas en su producción. Sin embargo, se cultiva tan lejos del punto de venta que conlleva una gran contaminación en su transporte, por lo que la etiqueta de producto ecológico deja de tener sentido.
 
 Sin embargo, el marketing verde usado de manera engañosa puede, además de desplazar el interés del consumidor hacia otras marcas por sentirse engañado, dar lugar a denuncias de los competidores por competencia desleal.
 
-- [ ] D Marketing de afiliación
+## Ejemplo 20.Toshiba y su compromiso con el medio ambiente
+
+La compañía Toshiba ha sorprendido con el lanzamiento de un equipo multifuncional, denominado e-STUDIO 36QLP, que puede borrar el papel impreso y reutilizarlo hasta cinco veces, con una velocidad de borrado de treinta páginas por minuto. Afirma que se reduce en un 80% el gasto del papel en una oficina. Además, es un producto sostenible, puesto que ahorra en un 57% las emisiones de CO2 tanto para producirla, ya que se fabrica con plásticos procedentes de plantas en vez de petróleo, como para reciclarla, ya que sus componentes son biológicos.
+
+## Ejemplo 21. «Made in Green», certificación ecológica
+
+Algunas prácticas ilícitas en este tipo de publicidad han generado escepticismo entre los ciudadanos, razón por la cual han empezado a surgir empresas que se dedican a acreditar la autenticidad de este tipo de comunicados.
+
+La compañía Made in Green certifica que el material utilizado por las empresas textiles no es nocivo para la salud de los consumidores, es respetuoso con el medio ambiente y con los derechos humanos, tanto de sus trabajadores como de los que trabajan para sus proveedores. La certificación se expide anualmente.
+
+La empresa afirma que hasta que la sostenibilidad no esté implícita en la productividad, son necesarias este tipo de medidas.
+
+## Marketing de afiliación
 
 El marketing de afiliación es un tipo de marketing especializado en la obtención de resul tados, es decir, que la empresa no paga por las acciones promocionales, sino por aquellas medidas que son efectivas por alguna acción realizada por el cliente, como registrarse en un formulario, hacer un clic, realizar una compra, etc. A esta práctica se le denomina coste por acción (CPA).
 
 Este tipo de marketing permite que personas ajenas a la empresa participen de su promoción. Así, un bloguero puede insertar hanners de publicidad en su página y cobrará un porcentaje cada vez que el usuario realice la acción que se haya previamente acordado. Es una modalidad muy aceptada entre las empresas ya que el coste de las acciones promocionales está condi cionado a los resultados. Además, hay toda una variedad de opciones y precios, lo que lo hace viable hasta para las pymes.
 
-í
-
-i
-
-Un banneres un anuncio normalmente rectangular colocado arriba, abajo o en los lados del contenido principal de un sitio web y que enlaza con el sitio web del anunciante.
-
-!
-
-i
-
 Ejemplos de este tipo de marketing son los ofrecidos por Google a través de sus servicios de pago Google AdWords y Google AdSense.
 
 - Google AdWords. Es el programa de Google para incluir enlaces patrocinados en los re sultados de búsquedas. Pueden estar situados en la columna derecha o entre los primeros puestos de los resultados mostrados, aparecen sombreados para diferenciarlos del resto de enlaces que no pagan a Google para salir en la búsqueda de resultados que realiza.
 
-* Google AdSense. Es el programa de publicidad de Google que permite insertar banners de publicidad en páginas web, blogs, plataformas de vídeo, etc., y pueden incluir texto, imágenes o vídeos.
+- Google AdSense. Es el programa de publicidad de Google que permite insertar banners de publicidad en páginas web, blogs, plataformas de vídeo, etc., y pueden incluir texto, imágenes o vídeos.
+
+## Banner
+
+Un banner es un anuncio normalmente rectangular colocado arriba, abajo o en los lados del contenido principal de un sitio web y que enlaza con el sitio web del anunciante.
 
 ## Sobre Google AdWords
 
@@ -7282,18 +7413,20 @@ Así pues, existen desde anunciantes que han pagado 0,03 dólares por clic, hast
 
 Con estas herramientas Google ha podido garantizar la independencia en sus resultados de búsqueda, al tiempo que puede generar ingresos por su actividad asegurando la gratuidad del servicio del buscador.
 
-Los servicios de Google siguen incrementándose con el desarrollo de una aplicación para móviles, denominada&gt;4dMo¿&gt;Ac/sSD/C, y con su servicio de Google Ad Planner.
+## AdMob Ads SDK
 
-- Google AdHob. Es una herramienta de muy reciente creación que posibilita a los anun ciantes insertar publicidad en aplicaciones para móviles.
+Los servicios de Google siguen incrementándose con el desarrollo de una aplicación para móviles, denominada AdMob Ads SDK, y con su servicio de Google Ad Planner.
+
+- Google AdMob. Es una herramienta de muy reciente creación que posibilita a los anun ciantes insertar publicidad en aplicaciones para móviles.
 - Google Ad Planner. Es un programa gratuito que permite planificar y seleccionar los me dios más adecuados para anunciarse. Para ello, se suministran estadísticas y datos demo gráficos sobre el perfil de los usuarios que navegan y sobre las búsquedas que realizan.
 
 ## D Marketing B2B
 
-Las siglas B2B (business-to-business) se refieren a las empresas que ofrecen sus servicios a otras empresas en lugar de tener a los consumidores como cliente final, que serían los ne gocios denominados B2C (business-to-consumer). El marketing B2B se refiere, por tanto, a las estrategias comerciales que una empresa dirige a otras, como sería el caso de la campaña expuesta en el ejemplo 9, «¿Has soñado con este hombre?».
+Las siglas B2B (business-to-business) se refieren a las empresas que ofrecen sus servicios a otras empresas en lugar de tener a los consumidores como cliente final, que serían los negocios denominados B2C (business-to-consumer). El marketing B2B se refiere, por tanto, a las estrategias comerciales que una empresa dirige a otras, como sería el caso de la campaña expuesta en el ejemplo 9, «¿Has soñado con este hombre?».
 
-Ya hay ejemplos de marketing aplicado a esta tendencia, como la empresa A&amp;A Commodities, especializada en la compra y venta de oro y metales preciosos que ha creado una plataforma digital bussines-to-bussines para facilitar el encuentro entre empresas, entidades financieras e inversores particulares.
+Ya hay ejemplos de marketing aplicado a esta tendencia, como la empresa A&A Commodities, especializada en la compra y venta de oro y metales preciosos que ha creado una plataforma digital bussines-to-bussines para facilitar el encuentro entre empresas, entidades financieras e inversores particulares.
 
-Encontrarás más ejemplos de marketing y sobre las tendencias actuales de las empresas en el blog de Mc raw-Hill, www.fpemprendedores.es, que se actualiza periódicamente.
+Encontrarás más ejemplos de marketing y sobre las tendencias actuales de las empresas en el blog de McGraw-Hill, www.fpemprendedores.es, que se actualiza periódicamente.
 
 ## El comercio electrónico
 
@@ -7301,13 +7434,13 @@ El comercio electrónico o e-commerce (electronic commerce) consiste en la compr
 
 Lo más habitual es utilizar el comercio electrónico para comprar bienes tangibles, sin em bargo, también se usa para adquirir servicios e, incluso, artículos virtuales. Asimismo, está demostrando su eficacia en el comercio entre empresas (B2B).
 
-- Adquisición de servicios. La adquisición del servicio se hace mediante la compra de un bono que el cliente canjea en el momento en que se beneficia del servicio contratado. El bono tiene un tiempo de validez, finalizado dicho período el cliente pierde la posibilidad de usarlo y consiguientemente pierde el servicio contratado. Así pues, para poder disfru tarlo tendrá que solicitar cita previa durante la validez del mismo. Los usuarios destacan la ventaja de acordar una fecha previa para obligarse a asistir, sin posponerlo por pereza o por obligaciones personales.
-- Compra de artículos virtuales. Este tipo de demanda va incrementándose paulatinamen te hacia software, juegos online y acceso a contenido Premium de un sitio web.
-- B2B. El comercio electrónico también se usa entre empresas y dispone de múltiples ven tajas:
+1. Adquisición de servicios. La adquisición del servicio se hace mediante la compra de un bono que el cliente canjea en el momento en que se beneficia del servicio contratado. El bono tiene un tiempo de validez, finalizado dicho período el cliente pierde la posibilidad de usarlo y consiguientemente pierde el servicio contratado. Así pues, para poder disfru tarlo tendrá que solicitar cita previa durante la validez del mismo. Los usuarios destacan la ventaja de acordar una fecha previa para obligarse a asistir, sin posponerlo por pereza o por obligaciones personales.
+2. Compra de artículos virtuales. Este tipo de demanda va incrementándose paulatinamen te hacia software, juegos online y acceso a contenido Premium de un sitio web.
+3. B2B. El comercio electrónico también se usa entre empresas y dispone de múltiples ventajas:
+
 - Permite a los proveedores incrementar los medios de distribución de sus productos, eli minando intermediarios y abaratando costes.
 - Posibilita una comunicación fluida y una disponibilidad de 24 horas. Reduce errores al re sultar accesible la información, como sería la relativa a los precios u ofertas, por ejemplo.
 - Permite las transacciones internacionales sin tener en cuenta la diferencia horaria. Las operaciones de compra-venta se pueden llevar a cabo de manera asincrónica e, incluso, se facilita estos intercambios comerciales, sin necesidad de instalar una oficina o un es tablecimiento comercial.
-
 - Se crea un mercado fácilmente accesible, es el Marketspace. Se pueden realizar compras a cualquier parte del mundo, gracias a que la tecnología es similar y compatible. Ello conlleva una mejoría de la conveniencia para el cliente y de la calidad de los productos, al incrementarse la competitividad entre las empresas.
 - Posibilita la comunicación directa con los clientes, mediante mensajes de texto, audio y vídeo, además de generar un soporte técnico ininterrumpido.
 
@@ -7315,20 +7448,25 @@ Los medios de pago más habituales son mediante tarjeta de crédito, por transfe
 
 PayPal es una empresa que permite la transferencia de dinero mediante el uso del correo electrónico. La facilidad de la transacción, así como la privacidad y seguridad de los datos ha impulsado el crecimiento de este tipo de empresa.
 
-## D Antecedentes del comercio electrónico: la venta por catálogo
+## Antecedentes del comercio electrónico: la venta por catálogo
 
 La venta por catálogo surgió en Estados Unidos a finales del siglo xix, con la intención de lograr una mayor difusión de los productos. Así pues, el envío de catálogos a los hoga res logró, no únicamente difundir los artículos, sino también propició el incremento de las ventas puesto que no requería que los clientes se desplazaran hasta el punto de venta, ya que con una simple llamada telefónica podían adquirir el producto deseado, sin el engorro de tener un vendedor en la puerta que presiona para poder realizar la venta.
 
 A partir de los años ochenta del siglo xx, la venta por catálogo tomó mayor impulso con la aparición de las tarjetas de crédito y de una nueva modalidad de venta: la teletienda,. Esta modalidad consiste en ofertar los productos a través de televisión, lo cual permite hacer una muestra con todo detalle de las cualidades del producto en cuestión, refrendado por el testi monio de personas que avalan las cualidades del artículo. La compra se materializa mediante un teléfono y una tarjeta de crédito.
 
-## D Evolución del comercio electrónico
+## Evolución del comercio electrónico
 
 La irrupción de Internet ha propiciado la aparición de nuevas fórmulas de comercialización que están revolucionando el sector.
 
-- Compra social. El comercio electrónico ha creado una nueva manera de comprar en la que un grupo de usuarios desconocidos se unen para realizar una misma compra, consiguiendo un precio reducido. El modelo de negocio consiste en ofertar un determinado producto con un nivel de descuento del 50% al 90% por un plazo de tiempo limitado, generalmente muy breve. La caducidad de la oferta genera miedo en el consumidor de no beneficiarse de dicha oportunidad, favoreciendo así la compra impulsiva. Incluso los pequeños negocios locales están haciendo uso de estas herramientas por los beneficios que genera y su bajo coste. Las empresas más conocidas que ofertan cupones son Letsbonus o roupon.
-- Comercio social Supone el uso de las redes sociales para comprar y vender productos a través de Internet, sirviéndose de herramientas como foros, comunidades, lista de valora ciones de productos, etc. Además, en estas redes colaborativas se intercambian opiniones, consejos y recomendaciones entre clientes potenciales de un producto y consumidores del mismo. A veces, las empresas tratan de mejorar la reputación de su marca insertando ellos mismos comentarios positivos sin desvelar su identidad. En otras ocasiones pagan a blogueros de reconocido prestigio para que incluyan un post (artículo) favorable a su compañía.
+- Compra social. El comercio electrónico ha creado una nueva manera de comprar en la que un grupo de usuarios desconocidos se unen para realizar una misma compra, consiguiendo un precio reducido. El modelo de negocio consiste en ofertar un determinado producto con un nivel de descuento del 50% al 90% por un plazo de tiempo limitado, generalmente muy breve. La caducidad de la oferta genera miedo en el consumidor de no beneficiarse de dicha oportunidad, favoreciendo así la compra impulsiva. Incluso los pequeños negocios locales están haciendo uso de estas herramientas por los beneficios que genera y su bajo coste. Las empresas más conocidas que ofertan cupones son Letsbonus o Groupon.
+
+- Comercio social. Supone el uso de las redes sociales para comprar y vender productos a través de Internet, sirviéndose de herramientas como foros, comunidades, lista de valora ciones de productos, etc. Además, en estas redes colaborativas se intercambian opiniones, consejos y recomendaciones entre clientes potenciales de un producto y consumidores del mismo. A veces, las empresas tratan de mejorar la reputación de su marca insertando ellos mismos comentarios positivos sin desvelar su identidad. En otras ocasiones pagan a blogueros de reconocido prestigio para que incluyan un post (artículo) favorable a su compañía.
+
+## Foro
 
 Un foro es una aplicación web que da soporte al intercambio de opiniones en línea. Para las empresas esto supone un medio informal de publicidad, aunque no pueden controlar que toda sea positiva, ya que los usuarios expresan libremente su opinión.
+
+## Comunidades online
 
 Las comunidades online son grupos de personas que comparten intereses y se ponen en contacto para intercambiar conocimientos, experiencias, etc., algunos se han creado sobre la base de intereses de compra concretos, como ropa de segunda mano.
 
@@ -7346,18 +7484,16 @@ El patrocinio persigue también un beneficio intangible para la empresa, que con
 ## Ejemplo 22. Ejemplos de asociaciones entre valores y patrocinio
 
 - Los últimos spots del Banco Santander están protagonizados por Fernando Alonso y giran en torno a la idea del equipo de trabajo, de esforzarse por ganar y de superarse a uno mis mo, con lo que se quiere reforzar la imagen corporativa del Banco Santander. Es interesante constatar que el rojo corporativo del Banco Santander es fácilmente asociable al rojo de la escudería Ferrari.
+
 - El concierto Coca-Cola Music Experience asocia su bebida con la felicidad, el ocio, la mú sica, la juventud, la amistad, etc., valores que la empresa está reforzando siempre a través de sus campañas publicitarias. De hecho, la compañía Coca-Cola ha creado una fundación para la felicidad, a través de la cual apoya los trabajos y las investigaciones relacionados con el tema que llevan a cabo reconocidos científicos.
+
 - No es casualidad que fuera la marca Red Bull la que patrocinara el salto estratosférico pro tagonizado por Félix Baumgartner, que consiguió romper la barrera del sonido en una caída libre desde 39 kilómetros de altura.
 
-§
-
-i
-
-Precisamente, a raíz de esta vinculación, la empresa puede estar interesada en cortar el patro cinio cuando los valores se invierten, tal como sucedió con el ciclista Luis Amstrong cuando fue acusado de dopaje. Tanto Nike como el resto de las marcas que durante años le patroci naron, retiraron su apoyo en cuanto se tuvo noticia del fraude deportivo.
+Precisamente, a raíz de esta vinculación, la empresa puede estar interesada en cortar el patrocinio cuando los valores se invierten, tal como sucedió con el ciclista Luis Amstrong cuando fue acusado de dopaje. Tanto Nike como el resto de las marcas que durante años le patrocinaron, retiraron su apoyo en cuanto se tuvo noticia del fraude deportivo.
 
 Nike había bautizado uno de sus edificios en Oregon con el nombre del ciclista, que cambió de inmediato. Dar nombre a edificios o espacios públicos es una forma más de patrocinio, de la que existen más ejemplos, como el Teatro Kodak -donde se lleva a cabo la gala de los premios Óscar-, el Teatro Háagen Dazs en Madrid, la Volvo Ocean Race o el San Miguel Primavera Sound, en Barcelona, que lleva más de doce ediciones reuniendo en conciertos a diversos artistas.
 
-Esta técnica se conoce con el término de namingríghts. Una aplicación de esta estrategia de marketing tuvo lugar en Madrid cuando la estación de metro Sol cambió su nombre tempo ralmente por el de Sol alaxy Note, para promocionar un móvil de esta compañía.
+Esta técnica se conoce con el término de naming rights. Una aplicación de esta estrategia de marketing tuvo lugar en Madrid cuando la estación de metro Sol cambió su nombre tempo ralmente por el de Sol alaxy Note, para promocionar un móvil de esta compañía.
 
 ## Curiosidad: las consecuencias del patrocinio olímpico
 
@@ -7367,15 +7503,15 @@ El Comité Organizador de Londres 2012 notificó a la empresa que debía retirar
 
 Entre los patrocinadores olímpicos figuraban Coca-Cola, McDonald's, Adidas, Heineken y Visa, razón por la que las entradas solo se podían pagar con tarjetas Visa, que la oferta alimenticia dependía de un enorme McDonald's (el mayor del mundo) y que las bebidas más frecuentes eran de las marcas Coca-Cola y Heineken.
 
-La explicación a estas restricciones se remonta al año 1996, cuando Nike compró las vallas publicitarias alrededor del estadio olímpico y logró más reconocimiento que el patrocinador, Reebok. Desde entonces, el Comité Olímpico Internacional (COI) exige que cada ciudad anfitriona apruebe una normativa estricta que prohiba el uso de este reclamo turístico si no se es colaborador oficial de los Juegos. La razón es que sin el apo yo económico de los patrocinadores, las Olimpiadas no podrían realizarse, como fue el caso de Londres, cuyos patrocinadores aportaron 1 775 millones de euros.
+La explicación a estas restricciones se remonta al año 1996, cuando Nike compró las vallas publicitarias alrededor del estadio olímpico y logró más reconocimiento que el patrocinador, Reebok. Desde entonces, el Comité Olímpico Internacional (COI) exige que cada ciudad anfitriona apruebe una normativa estricta que prohiba el uso de este reclamo turístico si no se es colaborador oficial de los Juegos. La razón es que sin el apo yo económico de los patrocinadores, las Olimpiadas no podrían realizarse, como fue el caso de Londres, cuyos patrocinadores aportaron 1775 millones de euros.
 
 ## Los nuevos profesionales del marketing online
 
 Las nuevas tendencias en marketing han conducido al desarrollo de nuevos profesionales que integran el departamento de marketing en las empresas.
 
-Ücommunitymanager o responsable de la comunidad digital es la persona responsable de la comunicación de una empresa, encargada de crear, gestionar y dinamizar una comu nidad de usuarios en Internet; en otras palabras, gestiona la reputación de la marca en los medios virtuales.
+- El community manager o responsable de la comunidad digital es la persona responsable de la comunicación de una empresa, encargada de crear, gestionar y dinamizar una comunidad de usuarios en Internet; en otras palabras, gestiona la reputación de la marca en los medios virtuales.
 
-El record manager es el encargado de gestionar la publicidad online de la marca, en los di ferentes medios como redes sociales, blogs, páginas web, Google Adwords, etc., así como de evaluar sus efectos.
+- El record manager es el encargado de gestionar la publicidad online de la marca, en los di ferentes medios como redes sociales, blogs, páginas web, Google Adwords, etc., así como de evaluar sus efectos.
 
 ## Presupuestos de marketing
 
@@ -7385,9 +7521,9 @@ Un presupuesto de marketing prevé una cantidad de recursos determinados para re
 
 Diseña junto a tus socios una campaña de marketing. Tenéis que definir qué acciones promocionales vais a llevar a cabo, además de presupuestarlas. Asimismo, debéis especi ficar de dónde obtendréis la financiación necesaria.
 
-## Ayuda práctica:
+Ayuda práctica:
 
-## Criterios sobre el presupuesto
+Criterios sobre el presupuesto
 
 Hay varios criterios para decidir qué cantidad del presupuesto debe asignarse al departa mento de marketing. Los dos criterios más habituales son:
 
@@ -7399,11 +7535,12 @@ Otros criterios que pueden usarse, aunque no son aconsejables son:
 - Según la experiencia del departamento.
 - Presupuesto en base cero, supone financiar todas las actividades que se estiman con venientes.
 - Mantener la cantidad asignada en años previos.
-- igualar el gasto de la competencia.
+- Igualar el gasto de la competencia.
 
-## Errores a evitar
+Errores a evitar
 
 1. Centrarse en el producto. El mejor de los productos puede ser un fracaso si no se tienen en cuenta las necesidades de los clientes o lo que están dispuestos a pagar por él. Analizamos un ejemplo práctico sobre esto en la Unidad 1, al hablar de la fregona.
+
 2. Dirigirse a todo el mercado. Hay que definir un segmento de mercado y focalizar en él las campañas de marketing y todo el planteamiento empresarial. Esto no ex cluye a cualquier comprador, sino que concentra los esfuerzos en atraer y mantener a un público objetivo concreto. Para determinar la importancia de esta afirmación, procede a realizar el siguiente ejercicio: responde a estas preguntas y luego compara tus respuestas con las de tus compañeros.
 
 - a) ¿Utilizas el mismo móvil que tus padres?
@@ -7420,15 +7557,11 @@ Otros criterios que pueden usarse, aunque no son aconsejables son:
 
 A la hora de elegir un dominio (nombre de la web) hay que tener en cuenta varios criterios. El primordial es conceder la misma importancia a la elección del dominio como a la que se desempeña al seleccionar la denominación social de la empresa o del logotipo. Un nombre de dominio atractivo y elegante facilitará el tráfico por su página. Es una carta de presenta ción, igual que lo es cualquier otro aspecto del negocio, así que no debe descuidarse.
 
-Una vez decidido el nombre, hay que comprobar si está ocupado. En la web www.whois. org es posible comprobarlo y, en caso de estar ocupado, quién lo ostenta. Algunas empresas muy interesadas en un dominio concreto son capaces de pagar elevadas cifras por adquirir la propiedad del mismo. Por ejemplo, el dominio realstate.net {agencia inmobiliaria, en inglés) fue vendido por 300000 dólares.
+Una vez decidido el nombre, hay que comprobar si está ocupado. En la web www.whois. org es posible comprobarlo y, en caso de estar ocupado, quién lo ostenta. Algunas empresas muy interesadas en un dominio concreto son capaces de pagar elevadas cifras por adquirir la propiedad del mismo. Por ejemplo, el dominio realstate.net (agencia inmobiliaria, en inglés) fue vendido por 300000 dólares.
 
-Existen empresas especializadas en comprar dominios de compañías importantes y uti lizarlos para contenidos ilícitos. El impacto social negativo que puede generar en una marca tal hecho provoca que la compañía acceda a comprar ese dominio por cantidades astronómicas, aunque también hay quien toma medidas ante la justicia y lo denuncia a los tribunales.
+Existen empresas especializadas en comprar dominios de compañías importantes y utilizarlos para contenidos ilícitos. El impacto social negativo que puede generar en una marca tal hecho provoca que la compañía acceda a comprar ese dominio por cantidades astronómicas, aunque también hay quien toma medidas ante la justicia y lo denuncia a los tribunales.
 
-## Ejemplo 23. El dominio Hipercor
-
-Hipercor en el año 2005 ganó la demanda interpuesta a un particular que utilizaba el do minio hipercor.to para divulgar contenido pornográfico. En la demanda, Hipercor denunció la violación de derechos, de propiedad industrial y de competencia desleal por el uso de la denominación y marca denominativa y gráfica Hipercor como nombre de dominio.
-
-En caso de que el dominio esté libre, hay que registrarlo antes de comenzar a realizar el di seño de la web mediante el pago de una cantidad y renovarlo anualmente para garantizar el derecho de uso. Si el dominio no se renueva su uso caduca. Un dominio caducado pasa por varios estados:
+En caso de que el dominio esté libre, hay que registrarlo antes de comenzar a realizar el diseño de la web mediante el pago de una cantidad y renovarlo anualmente para garantizar el derecho de uso. Si el dominio no se renueva su uso caduca. Un dominio caducado pasa por varios estados:
 
 - On hold (en espera), el dominio queda bloqueado por el registrador y puede renovarse sin problemas.
 - Redemption period (periodo de gracia), periodo durante el cual todavía se puede renovar el dominio, no sin dificultad, y con un coste mayor al del estado on hold.
@@ -7436,13 +7569,17 @@ En caso de que el dominio esté libre, hay que registrarlo antes de comenzar a r
 
 El seguimiento de los dominios caducados mueve millones cada año. Snapnames, Pool y Namewinner son algunas de las empresas especializadas en capturar dominios caducados que luego subastan, obteniendo un beneficio de ello.
 
+## Ejemplo 23. El dominio Hipercor
+
+Hipercor en el año 2005 ganó la demanda interpuesta a un particular que utilizaba el do minio hipercor.to para divulgar contenido pornográfico. En la demanda, Hipercor denunció la violación de derechos, de propiedad industrial y de competencia desleal por el uso de la denominación y marca denominativa y gráfica Hipercor como nombre de dominio.
+
 ## Actividad de simulación 3
 
 Reúnete con tus socios. Pensad un dominio para vuestra empresa, según las recomenda ciones dadas. Incluso, podéis iniciar la creación de una página web. Hay muchas páginas que ofrecen un espacio gratuito y que tienen plantillas prediseñadas para que la activi dad resulte fácil y rápida. Cada vez se desarrollan más este tipo de iniciativas.
 
-## Ayuda práctica:
+Ayuda práctica:
 
-La primera opción para escoger el dominio es la de utilizar el mismo nombre que el de la marca del negocio a promocionar, por ser el criterio de búsqueda que usarán los clientes. Por ejemplo, la editorial Mc raw-Hill mantiene el nombre del negocio en su dominio web: www.mcgraw-hill.es.
+La primera opción para escoger el dominio es la de utilizar el mismo nombre que el de la marca del negocio a promocionar, por ser el criterio de búsqueda que usarán los clientes. Por ejemplo, la editorial McGraw-Hill mantiene el nombre del negocio en su dominio web: www.mcgraw-hill.es.
 
 En caso contrario, habría que seguir estos consejos:
 
@@ -7451,7 +7588,6 @@ En caso contrario, habría que seguir estos consejos:
 3. Evitar nombres ostentosos, tipo www.lamejorbisuteria.com, ya que suelen generar mala sensación.
 4. Es preferible un nombre corto. Aunque es posible contratar hasta 64 caracteres en un dominio, pero requerirá más esfuerzo de teclear y de memorizar.
 5. No debe cambiarse el nombre una vez elegido, puesto que confundiría a los usuarios y se perdería el valor de ranking que otorga Google, así como los enlaces que hayan hecho otros internautas.
-
 6. Incluir palabras clave en el dominio puede ayudar al buscador. Un ejemplo lo encon tramos en la web de ayuda a la creación de empresas, www.crearempresas.com.
 7. Procurar incluir juegos de palabras o doble sentidos. Demuestra ingenio y resulta divertido, algo que nuestra clientela agradecerá. Por ejemplo, del.icio.us o www. lawebera.es.
 8. Evitar incluir guiones medios o bajos en el nombre. La norma es escribir todo junto, lo que da menos problemas en los buscadores y es más fácil de transmitir de forma verbal
@@ -7460,11 +7596,11 @@ En caso contrario, habría que seguir estos consejos:
 11. Entre la extensión .es o .com, es preferible la segunda ya que permite la internacionalización más rápida, llegado el caso. Sin embargo, sería deseable, si la economía de la empresa lo permite, registrar todas las variantes posibles .es, .com, .net, .org, .biz, .net, etc., para evitar futuros conflictos con otras web.
 12. Antes de decidir, es bueno pedir opinión a otras personas.
 
-## Fase 4. estión de RR.HH.
+## Fase 4. Gestión de RR.HH.
 
 Las tendencias directivas actuales (management) apuntan hacia la calidad total, mediante la creación de sistemas participativos, la fomentación de equipos de trabajo, el trabajo orienta do a resultados, la captación del talento y la gestión informatizada de los recursos humanos.
 
-## I Tendencias gerenciales
+## Tendencias gerenciales
 
 El Ambiente de trabajo orientado a resultados o ATOR (en inglés ROWE, Results oriented workenvironment) consiste en retribuir a los trabajadores mediante un salario mixto integra do de una parte fija, denominada salario base, y de otra variable, según los resultados obteni dos, que suele reflejarse en la nómina como plus de productividad o incentivos o comisiones.
 
@@ -7481,17 +7617,25 @@ No obstante, la principal dificultad de esta gestión de personal es cuantificar
 
 Además, hay que procurar que el sistema valore o retribuya de alguna manera el esfuerzo aunque no haya producido un resultado, ya que la opción de compra no solo depende de la empresa, sino también del comprador, de variables económicas, etc. Las gerencias de las grandes empresas incorporan alguna forma de evaluar a los trabajadores.
 
+## Evaluación del desempeño
+
 La evaluación del desempeño es un proceso sistemático y periódico por el que se valoran, tanto cuantitativa como cualitativamente, el grado de eficacia de los trabajadores en su pues to mediante una serie de instrumentos, como encuestas, observación, etc. Una variante de esta técnica es la denominada evaluación del desempeño 360° o feedback 360grados.
+
+## Feedback 360 grados
 
 El feedback 360 grados se comenzó a utilizar para evaluar a los mandos superiores, por parte de sus iguales jerárquicos, sus subordinados, clientes y proveedores. La idea de partida rompía con el paradigma de que el jefe es la única persona que puede evaluar las competencias de sus subordinados. En la práctica se utiliza para evaluar el desempeño de cualquier miembro de la organización con vistas a mejorar sus competencias, habilidades y comportamientos, así como a desarrollar su potencial en la organización. Los instrumentos que se utilizan son vanados, pero el proceso incluye siempre la comunicación de los resultados al afectado, para que tenga la oportunidad de modificar o cambiar.
 
 El principal hándicap de esta herramienta es el esfuerzo que supone la recogida y análisis de los datos, aunque se ha mejorado mucho con la incorporación de técnicas informáticas. Como consecuencia de esta evaluación, las empresas detectan trabajadores que son de espe cial relevancia para la compañía.
 
+## Gestión del talento
+
 La gestión del talento busca destacar a aquellos trabajadores con una gran competencia o un alto potencial dentro de su sector profesional. El proceso de atraer pero también de retener a colaboradores productivos, se ha tornado cada vez más prioritario en las empresas, puesto que tan difícil es identificar personas válidas como fidelizarlas. Con esa intención se busca motivarles a través de procesos de promoción, autonomía de tareas, sueldos compe titivos, funciones de liderazgo, flexibilidad laboral y oportunidades de satisfacer sus moti vaciones personales. Las empresas o los profesionales especializados en captar talentos se denominan headhunters.
 
-## ■ Trabajo en equipo
+## Trabajo en equipo
 
 Los modelos teóricos de gestión de personal han avanzado desde el taylorismo hasta el toyotismo, como ya analizamos en unidades anteriores. La última tendencia está más orientada a favorecer el trabajo en equipos autónomos y autogestionablesf lo que resulta coherente con la aplicación de las ideas expuestas de ambiente orientado al resultado, evaluación del desempeño y gestión del talento.
+
+## Fractal teams o equipos fractales
 
 El fractal teams o equipos fractales es un modelo de organización de empresa que centra su énfasis en la dirección de las personas como clave del funcionamiento de las organizacio nes, integrando los actuales conocimientos y teorías sobre liderazgo, motivación, trabajo en equipo, etc.
 
@@ -7507,11 +7651,15 @@ La idea subyacente no es instaurar un ambiente de trabajo jocoso, sino implement
 
 Google es una empresa que aplica esta filosofía empresarial. Para su fundador, el trabajo debe suponer un reto y los logros deben valorarse. En esta empresa se fomenta el trabajo en equipo, la relación interpersonal a través de zonas que permiten el juego grupal, las reuniones en espacios informales y la autogestión del tiempo de trabajo para alcanzar un único fin: la mejora del trabajo. Google siempre busca personas que compartan su obsesivo compromiso por lograr la perfección y que se diviertan haciéndolo.
 
+## Gestión de la calidad total
+
 La gestión de la calidad total (TQM, del inglés Total Quality Management) es una estrategia de gestión enfocada a mejorar la calidad en todos los procesos organizacionales. Una de las técnicas que incorpora es la que se denomina círculos de calidad.
+
+## Círculo de calidad
 
 El círculo de calidad es una técnica que pretende resolver los problemas generados por la interacción de los trabajadores. Para ello, un grupo voluntario de trabajadores se reúne periódicamente con la intención de gestionar de manera satisfactoria los problemas detec tados en sus áreas de desempeño laboral. Tras la discusión y propuesta de soluciones, se elevan las conclusiones a las instancias superiores que las estudiarán e implementarán, en la medida de lo posible. Esta técnica procede de Japón y se ha incorporado en las empresas orientales, no así en las occidentales que tienen un método de gestión del personal menos abierto y flexible.
 
-## I estión informatizada de los RR.HH.
+## Gestión informatizada de los RR.HH.
 
 Los sistemas de administración de recursos humanos o sistemas de información de recursos humanos son una manera de llevar a cabo las tareas administrativas de la gestión de personal con programas y aplicaciones informáticas, como los utilizados para la realización de nómi nas, cálculo de deducciones e impuestos u operaciones de contabilidad.
 
@@ -7525,7 +7673,7 @@ Los programas informáticos permiten realizar estos cálculos teniendo en cuenta
 
 Realiza un plan de recursos humanos en el que queden identificados los puestos de trabajo, sus funciones, el perfil profesional requerido, el salario, la jornada de trabajo y la modalidad de contrato a realizar.
 
-## Ayuda práctica:
+Ayuda práctica:
 
 El primer paso es considerar todas las actividades y funciones que deben realizarse en vuestra empresa. Después, repartidlas entre los socios, con la intención de evitar la con tratación innecesaria. En caso de que no fuera suficiente o de que hubiera aspectos que los socios no pueden realizar por falta de conocimientos, tendríais que plantearos la contratación o subcontratación de personal.
 
@@ -7535,10 +7683,28 @@ En otras ocasiones, es preferible contar con personal asalariado para la realiza
 
 Con la intención de facilitaros la realización de esta actividad de simulación, os propo nemos un ejemplo inventado de la previsión de empleados que realiza una empresa que promociona cursos de formación online y que, además, actúa como plataforma para que otras empresas anuncien y difundan sus ofertas de cursos.
 
-| Desarrollador web y community manager | Su función es crear y mantener la página web, así como posicionar nuestro portal en los primeros pues tos de los motores de búsqueda más utilizados y mejorar la imagen cor porativa que se encuentra en Inter net.          | 30000 € brutos                                                                                    | Técnico superior infor mático con experien cia en posicionamiento web y en la gestión de un blog personal. |
-| ------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
-| Director de formación                 | Su cometido es coordinar todos los cursos que ofertamos y diferen ciarlos de los de la competencia. Así como integrar otra formación de otras empresas en nuestra web. Lleva también la parte administra tiva de la empresa. | 21 000 € brutos                                                                                   | Técnico superior infor mático o superior con experiencia en coordi nación de equipos de trabajo.           |
-| Director comercial                    | Se encarga de buscar clientes, bien sean alumnos, bien sean empresas que se van a promocionar desde nuestro dominio.                                                                                                         | Salario mixto: 17000 € brutos, como parte fija e incentivos variables según clientes conseguidos. | rado superior o grado medio con experiencia en comercio online y con conocimiento de idiomas.              |
+- Salario incluye las cargas sociales, es decir, las cuotas a la Seguridad Social
+
+1. Ejemplo 1
+
+- Trabajador: Desarrollador web y community manager
+- Función: Su función es crear y mantener la página web, así como posicionar nuestro portal en los primeros puestos de los motores de búsqueda más utilizados y mejorar la imagen corporativa que se encuentra en Internet.
+- Salario: 30000 € brutos
+- Perfil profesional: Técnico superior infor mático con experiencia en posicionamiento web y en la gestión de un blog personal.
+
+2. Ejemplo 2
+
+- Trabajador: Director de formación
+- Función: Su cometido es coordinar todos los cursos que ofertamos y diferenciarlos de los de la competencia. Así como integrar otra formación de otras empresas en nuestra web. Lleva también la parte administrativa de la empresa.
+- Salario: 21 000 € brutos
+- Perfil profesional: Técnico superior informático o superior con experiencia en coordinación de equipos de trabajo.
+
+3. Ejemplo 3
+
+- Trabajador: Director comercial
+- Función: Se encarga de buscar clientes, bien sean alumnos, bien sean empresas que se van a promocionar desde nuestro dominio.
+- Salario: Salario mixto: 17000 € brutos, como parte fija e incentivos variables según clientes conseguidos.
+- Perfil profesional: Grado superior o grado medio con experiencia en comercio online y con conocimiento de idiomas.
 
 ## Plan de empresa
 
@@ -7550,17 +7716,53 @@ Las actividades de simulación realizadas en esta unidad os han servido para del
 
 El plan de empresa incluirá en esta unidad dos apartados denominados plan de marke ting y plan de RR.HH.
 
-## 1. Plan de marketing
+1. Plan de marketing
 
 Anota todas las acciones de marketing que vais a realizar, especificando los objeti vos, los medios de promoción y el presupuesto a utilizar.
 
-## 2. PlandeRR.HH.
+2. Plan de RR.HH.
 
 Enumera los trabajadores que vais a contratar, el perfil profesional requerido, sus condiciones de trabajo (jornada, salario, funciones, tipo de contrato, etc.), así como el modelo organizacional y gerencial de vuestra empresa.
 
-v^..-&gt;;
+## Síntesis
 
-·'.
+1. Plan de marketing
+
+2. Marketing mix:
+
+- Tradicional: Producto, Precio, Promoción Distribución
+- Actual: Cliente, Contenido, Coste, Conveniencia, Contexto, Conexión
+
+3. Medios de promoción:
+
+- Maketing tradicional: Medios de comunicación de masas
+- Mareketing directo: Mailing, faxing, e-mailing, telemarketing
+- Marketing alternativo:
+- a) Técnicas mas usuales: Vídeo marketing, Código QR o código BIDI, Mobile marketing, Marketing viral, Vending, Marketing olfativo, Marketing social, Marketing de contenidos, Marketing relacional
+- b) Otro tipo de técnicas: Street marketing, Dance marketing, Co-marketing, Marketing de guerrilla, Neuromarketing, Marketing verde, Marketing de afiliación, Marketing B2B
+- c) Comercio electrónico
+- d) Patrocinio
+
+4. Gestión RR.HH.
+
+- Tendencias gerenciales
+- Trabajo en equipo
+- Gestión informatizada de los RR.HH.
+
+5. Plan de empresa:
+
+- Idea del negocio
+- Socios trayectoria profesional
+- Estudio de mercado
+- Plan de producción
+- Plan financiero
+- Plan de aprovisionamiento
+- Obligaciones fiscales
+- --> Plan de marketing
+- --> Plan de RR.HH.
+- Acciones para la Internacionalización
+
+## Test de repaso
 
 1. El marketing persigue como objetivos:
 
@@ -7660,6 +7862,8 @@ v^..-&gt;;
 - c) Compra-venta por medios electrónicos.
 - d) Ninguna es correcta.
 
+## Comprueba tu aprendizaje
+
 1. Expon los objetivos del marketing.
 2. Señala cuáles son las 4Cs del nuevo enfoque de marketing mix y explica a qué se debe el cambio conceptual
 3. Señala qué criterios se siguen para designar una publicidad como ilícita.
@@ -7681,7 +7885,6 @@ v^..-&gt;;
 19. Busca un ejemplo de marketing verde.
 20. Indica qué ventajas tiene el marketing de afiliación, tanto para la empresa que se anuncia como para el propietario del blog o del dominio web, en cuyo soporte se incluye este tipo de publicidad.
 21. Busca información sobre los precios para anunciarse por medio de Google AdWords y de Google AdSense. Razona cuál estarías más predispuesto a utilizar si trabajaras en una agencia de viajes.
-
 22. Explica el significado de esta frase y si estás de acuerdo con ella o no: «A pesar de la real importancia de las redes sociales y la casi obligada presencia de las empresas en ellas, el mundo del social media se siente permanentemente envuelto en el debate de la espe culación, los falsos gurús, los oportunistas y el menosprecio a las figuras emergentes de algunos profesionales como el Community Manager». Si necesitas consultar la fuente original, visita este enlace: http://www.puromarketing.com/42/15425/communitymanagers-merecen-mucho-recooocimiento-respeto.html
 23. Realizar una campaña de marketing vía e-mail tiene gran complejidad, si queremos que la acción resulte efectiva. Lee la información contenida en este artículo http://www. pysnnoticias.com/2013/03/03/como-optimizar-sus-campanas-de-email-marketing y señala las cuatro características más importantes que deben ser tenidas en cuenta por cualquier empresa que quiera realizar una acción de este tipo.
 24. Un diseño «verde» persigue obtener productos con el menor impacto posible en el eco sistema a lo largo de su ciclo de vida, logrando una producción sostenible y un consumo racional de recursos. Basándote en esta definición, busca ejemplos de acciones que hayan realizado hoteles, casas rurales, campings y demás oferta turística considerando esta pre misa a la hora de ofertar sus plazas de alojamiento.
@@ -7699,7 +7902,7 @@ v^..-&gt;;
 
 31. Busca información sobre Amazon y escribe un resumen de cuándo se constituyó y cómo surgió la idea.
 
-## I nternacionalización y globalización
+# 8. Internacionalización y globalización
 
 ## En esta unidad aprenderemos a:
 
@@ -7715,27 +7918,29 @@ v^..-&gt;;
 - Herramientas para la innovación empresarial.
 - Influencia de Internet en la organización de la empresa.
 
-«El único lugar donde el éxito viene iiites qtitet trabajo es Ir» il diccionario.» Donald M. Kendall, CIÓ éñ a 1986.
+## Donald M. Kendall, CEO de Pepsi de 1971 a 1986.
+
+«El único lugar donde el éxito viene antes que el trabajo es en el diccionario.»
+
+## Emprendedores
 
 En este apartado vamos a analizar, de la mano de Zara, las distintas estrategias que las em presas utilizan para introducirse y afianzarse en el mercado internacional.
 
 ## Zara: un ejemplo de internacionalización
 
-Zara pertenece al grupo Inditex, al igual que Pulí &amp; Bear, Massimo Dutti, Bershka, Stradivarius, Oysho y Üterque. La compañía inició su proceso de interna cionalización en 1988, apenas trece años después de que se abriera la primera tienda Zara en Arteixo, ali
-
-cia. Inditex es un ejemplo de cómo una empresa puede llegar a convertirse en multinacional sin contar con tecnologías punteras ni marcas de reconocido prestigio.
+Zara pertenece al grupo Inditex, al igual que Pull&Bear, Massimo Dutti, Bershka, Stradivarius, Oysho y Üterque. La compañía inició su proceso de internacionalización en 1988, apenas trece años después de que se abriera la primera tienda Zara en Arteixo, Galicia. Inditex es un ejemplo de cómo una empresa puede llegar a convertirse en multinacional sin contar con tecnologías punteras ni marcas de reconocido prestigio.
 
 La expansión internacional se inició en Portugal, apenas 35 años después el grupo Inditex está presente en mercados tan diversos como Estados Unidos, Canadá, México, Venezuela, Japón, China, Israel, Líbano, Kuwait, Emiratos Árabes, Jordania, Bahrein, etc.
 
 En la mayoría de las ocasiones, la entrada en el nuevo mercado es iniciada por Zara; el resto de las firmas del grupo se incorporan gradualmente. En estos momentos, Zara es la marca más valiosa del mundo en el sector de la confección.
 
-## I Abriéndose paso en el mercado internacional
+## Abriéndose paso en el mercado internacional
 
-En Europa, los países con mayor presencia de Inditex son Francia, Bélgica y recia. El éxito en Francia supuso un gran respaldo, por tratarse de un mercado de relevancia internacional en el ámbito de la moda. Los últimos países donde se ha incorporado su presencia han sido Alemania, Reino Unido e Italia y en cada uno de ellos se ha seguido una estrategia de ex pansión diferente. En los mercados alemán e italiano se ha optado por la fórmula dejoint venturo, en el Reino Unido por la implantación directa, creando la filial Zara UK. En cambio, en Oriente Medio se ha optado mayoritariamente por la fórmula de la franquicia.
+En Europa, los países con mayor presencia de Inditex son Francia, Bélgica y recia. El éxito en Francia supuso un gran respaldo, por tratarse de un mercado de relevancia internacional en el ámbito de la moda. Los últimos países donde se ha incorporado su presencia han sido Alemania, Reino Unido e Italia y en cada uno de ellos se ha seguido una estrategia de ex pansión diferente. En los mercados alemán e italiano se ha optado por la fórmula de joint venturo, en el Reino Unido por la implantación directa, creando la filial Zara UK. En cambio, en Oriente Medio se ha optado mayoritariamente por la fórmula de la franquicia.
 
-lajointventure consiste en acuerdos con socios locales que aporten un conocimiento previo del país. Por ejemplo, la asociación con la alemana Otto Versand ha permitido aprovechar la experiencia de esta firma en ese país, razón por la que el crecimiento en Alemania está siendo muy rápido.
+- La joint venture consiste en acuerdos con socios locales que aporten un conocimiento previo del país. Por ejemplo, la asociación con la alemana Otto Versand ha permitido aprovechar la experiencia de esta firma en ese país, razón por la que el crecimiento en Alemania está siendo muy rápido.
 
-La franquicia se realiza con un solo socio para todo el país, que debe ser un gran grupo nacional con una consolidada tradición y experiencia en la distribución de moda, que cuente con los recursos necesarios para implantar el modelo Inditex en su país. Los franquiciados tienen la posibilidad de devolver mercancía durante la temporada, si las ventas no son adecuadas. Y son ellos los que corren con la inversión en activos fijos y la contratación del personal. A cambio, se le otorga la exclusividad geográfica de la franqui cia, por lo que no podrá haber otro franquiciado en la misma zona.
+- La franquicia se realiza con un solo socio para todo el país, que debe ser un gran grupo nacional con una consolidada tradición y experiencia en la distribución de moda, que cuente con los recursos necesarios para implantar el modelo Inditex en su país. Los franquiciados tienen la posibilidad de devolver mercancía durante la temporada, si las ventas no son adecuadas. Y son ellos los que corren con la inversión en activos fijos y la contratación del personal. A cambio, se le otorga la exclusividad geográfica de la franqui cia, por lo que no podrá haber otro franquiciado en la misma zona.
 
 En un sector que estaba caracterizado por la fortaleza de marcas elitistas, con creaciones glamurosas de reconocidos diseñadores, Inditex apostó por otro modelo. Su originalidad estuvo en «democratizar la moda», en saber imitar las tendencias de las pasarelas para crear pren das propias, diseñadas, fabricadas, distribuidas y vendidas por ellos mismos. Es un proceso de integración vertical donde no hay intermediarios y, con ello, se abarata el encarecimiento del producto.
 
@@ -7761,9 +7966,11 @@ Entonces, si la estrategia empresarial es tan exitosa, ¿por qué no se imita? S
 2. Identifica la estrategia de marketing mix del grupo Inditex, para lo que tienes que analizar cuál es su estrategia en relación con las cuatro variables siguientes: produc to, precio, promoción y distribución.
 3. Realiza una búsqueda en Internet con las palabras «clones de Zara», ¿qué páginas se muestran? Comenta el resultado.
 
+## Conceptos básicos
+
 En este apartado vamos a recordar algunos conceptos que te serán útiles para realizar la Simulación, tales como:
 
-mercado global franquicia filial alianzas internacionales comercio exterior joint Wentüfe multinacionales
+mercado global, franquicia, filial, alianzas internacionales, globalización, comercio exterior, joint venture, multinacionales
 
 ## A. Internacionalización de empresas
 
@@ -7773,6 +7980,8 @@ La forma de acceder a otros mercados que no estén en el país de origen puede e
 
 La exportación es el proceso de comercializar bienes o servicios en otro país. Los métodos más comunes son la comercialización indirecta o la comercialización directa por medio de intermediarios.
 
+## Comercialización indirecta
+
 Se realiza sin contar con la presencia de la empresa en el país donde quiere introducirse, ya que trabaja con interme diarios locales, esto es, con empresas ya consolidadas en ese mercado. Es una forma más segura de iniciar negocios en otro mercado, al contar con la experiencia de una compañía ya asentada, con conocimientos propios del sector y del país, como costumbres culturales o dominio del idioma. Representa una gran oportunidad para pymes que quieren expandirse internacionalmente,ya que requiere menor inversión que si se contara con presencia directa. Aunque genera una relación de dependencia con los socios locales y limita los beneficios, ya que cuantos más agentes intervengan en el proceso, más beneficios habrá que repartir.
 
 La comercialización indirecta puede llevarse a cabo mediante un agente, un distribuidor local o un consorcio de expor tación.
@@ -7780,6 +7989,8 @@ La comercialización indirecta puede llevarse a cabo mediante un agente, un dist
 - Agente. Mantiene una relación mercantil con la empresa, ya que trabaja a comisión. Las condiciones del contrato mercantil han de ajustarse a la legislación de cada país, si bien la Cámara de Comercio Internacional tiene un modelo estándar de contrato de agente comercial que es aceptado en la mayoría de los países.
 - Distribuidor local. Se convierte en un elemento de la cadena de comercialización de la empresa, al adquirir los pro ductos de la compañía para venderlos en su país. La empresa que quiere internacionalizarse pasa así a convertirse en proveedor del intermediario local y este en su cliente.
 - Consorcio de exportación. Es una coalición de empresas que tiene como objetivo promover los bienes y servicios de sus miembros en el extranjero y exportar dichos productos mediante acciones conjuntas. A veces estos consorcios están promovidos por las cámaras de comercio de las comunidades autónomas a las que pertenecen las empresas asociadas.
+
+## Globalización
 
 La globalización es el proceso por el cual los distintos países del mundo están cada vez más conectados e interdependientes unos de otros, unificando sus mercados, socie dades y culturas, a través de una serie de transformaciones económicas, tecnológicas, sociales, culturales y políticas a gran escala.
 
@@ -7795,27 +8006,27 @@ Desde la Comunidad Autónoma de Murcia se han llevado a cabo contactos y viajes 
 
 José Abad es un empresario español afincado en Israel, donde regenta un bar de tapas. Afirma que la marca España es muy popular en el extranjero, cuyos mejores embajadores son: la comida, la forma de vida y el carácter español. Razón por la cual, en Israel es fácil comprar cualquier artículo español puesto que existen muchos distribuidores que venden desde aza frán, pimentón o ventresca, hasta vinos de cualquier denominación de origen.
 
-## órnerciatización directa
+## Comercialización directa
 
-Supone la presencia directa de la empresa en el nuevo mercado, ya sea implantando una sucursal, mediante fusionesy adquisiciones de empresas, por un acuerdo óejointventure, o a través de un consorcio de exportación. Estas estrategias de comercialización directa exigen mayor dedicación de tiempo, recursos económicos y personales, puesto que hay que llevar a cabo previamente un estudio de mercado e identificar las oportunidades del país. Por ello, resulta una opción más accesible para las grandes empresas.
+Supone la presencia directa de la empresa en el nuevo mercado, ya sea implantando una sucursal, mediante fusionesy adquisiciones de empresas, por un acuerdo de joint venture, o a través de un consorcio de exportación. Estas estrategias de comercialización directa exigen mayor dedicación de tiempo, recursos económicos y personales, puesto que hay que llevar a cabo previamente un estudio de mercado e identificar las oportunidades del país. Por ello, resulta una opción más accesible para las grandes empresas.
 
 - Sucursal. Implica abrir oficinas o establecimientos comerciales en el nuevo país, de modo que es una división de la propia empresa la que se instala en ese marco geográfico. La sucursal no tiene personalidad jurídica propia, de modo que la contabilidad, responsabilidad, fiscalidad... de su actividad se integran como una parte más de la empresa.
-- F&amp;A (Fusiones y adquisiciones de empresas). Consiste en adquirir otras compañías.
-- -Fusión. Es la unión de dos o más personas jurídicamente independientes que deciden juntar sus patrimonios y formar una nueva sociedad.
-- -Adquisición. Consiste en la compra de acciones de otra empresa, en cantidad tal que permita convertirse en el socio mayoritario y, por ello, se posea el control de la sociedad; no conlleva la fusión de patrimonios. La empresa adquirida, en su totalidad o en parte, se denomina filial, mientras que la empresa compradora se convierte en la empresa matriz o madre.
+- F&A (Fusiones y adquisiciones de empresas). Consiste en adquirir otras compañías.
+- - Fusión. Es la unión de dos o más personas jurídicamente independientes que deciden juntar sus patrimonios y formar una nueva sociedad.
+- - Adquisición. Consiste en la compra de acciones de otra empresa, en cantidad tal que permita convertirse en el socio mayoritario y, por ello, se posea el control de la sociedad; no conlleva la fusión de patrimonios. La empresa adquirida, en su totalidad o en parte, se denomina filial, mientras que la empresa compradora se convierte en la empresa matriz o madre.
 - Jointventure. Es un acuerdo de colaboración con una empresa local, donde ninguna de las dos empresas pierde su independencia jurídica.
 
 ## Ejemplo 3. Abriendo sucursales
 
-El estudio de arquitectura A-Cero se dedica a la construcción de viviendas de lujo en Es paña, como la casa de Amancio Ortega, fundador de Zara, o los chalets exclusivos de la zona de La Finca, en Pozuelo de Alarcón, Madrid, donde residen estrellas del fútbol y artistas, entre otros. Durante la crisis optó por abrir una sucursal en otros países o regiones de alto poder adquisitivo, como Miami o los países del olfo. «Si te sitúas en un mercado alto o muy alto, eres mucho menos sensible a la crisis», afirma su fundador.
+El estudio de arquitectura A-Cero se dedica a la construcción de viviendas de lujo en España, como la casa de Amancio Ortega, fundador de Zara, o los chalets exclusivos de la zona de La Finca, en Pozuelo de Alarcón, Madrid, donde residen estrellas del fútbol y artistas, entre otros. Durante la crisis optó por abrir una sucursal en otros países o regiones de alto poder adquisitivo, como Miami o los países del olfo. «Si te sitúas en un mercado alto o muy alto, eres mucho menos sensible a la crisis», afirma su fundador.
 
 ## Ejemplo 4. Fusión de empresas
 
 lnternationalConsolidatedAirlines roup,S.A.f también conocida como IntemationalAirlines roup o IA , es la compañía resultante de la fusión de Iberia y British Airways, que se realizó en 2010. Esta sociedad es la quinta aerolínea más grande del mundo por ingresos y la tercera en Europa. No obstante, la denominación de Intemational Airlines no se utiliza como marca comercial, sino que se mantienen las originales denominaciones de Iberia y British Airways, aunque sí sirve para denominar la sociedad holding propietaria de ambas aerolíneas, que es la que cotiza en bolsa.
 
-## Ejemplo 5. Momi &amp;Toy's y eljointventure
+## Ejemplo 5. Momi&Toy's y el joint venture
 
-La empresa Momi &amp;Toy's ha optado por la estrategia de lajointventure para expandirse por España, con la colaboración de un máster franquiciado español, que tiene una participación del 40% en el acuerdo de colaboración firmado, frente al 60 % que se reserva la firma nipona.
+La empresa Momi&Toy's ha optado por la estrategia de la joint venture para expandirse por España, con la colaboración de un máster franquiciado español, que tiene una participación del 40% en el acuerdo de colaboración firmado, frente al 60 % que se reserva la firma nipona.
 
 El negocio consiste en abrir un determinado número de puntos de venta, durante cinco años, en los mercados de España y Portugal, bien sea con locales propios o en franquicias, o bien, a través del concepto defoodtruck, que consiste en roulottes móviles desde las cuales se sirve la oferta gastronómica al consumidor. Estas roulottes móviles son habituales en Japón.
 
@@ -7831,7 +8042,11 @@ En ocasiones, un consorcio de exportación está constituido por varias empresas
 
 Una fusión implica la integración de dos o más empresas en una única entidad. Existen dos tipos de fusiones:
 
+1. Fusión pura:
+
 Desaparecen las empresas iniciales y traspasan todo su patrimonio (activos y pasivos) a la nueva sociedad que se cons tituye. Las nuevas acciones/participaciones se reorganizan entre los nuevos socios para que mantengan la propiedad que será proporcional al capital aportado. La plantilla de trabajadores se mantiene y se integran en la nueva sociedad. En caso de que sea necesaria una reducción de personal, afectará por igual a todas las empresas constituyentes.
+
+2. Fusión por absoricón:
 
 En este tipo de fusión, una empresa domina el proceso y absorbe a la otra, que le traspasará su patrimonio. La empresa que continúa mantiene su funcionamiento e integra en su organización al personal y a los directivos de la empre sa absorbida, aunque sus contratos o sus convenios pueden sufrir modificaciones y están más expuestos a un recorte de plantilla, en caso de llevarse a cabo. Asimismo, la empresa reorganizará sus acciones, según el capital aportado, para repartirlas entre los socios de la sociedad que ha desaparecido.
 
@@ -7851,16 +8066,23 @@ Una filial goza de personalidad jurídica propia, por lo que su organización y 
 
 2. Averigua qué filiales tiene Telefónica repartidas por el mundo y qué nombre reciben.
 
-La empresa matriz puede tener diversos motivos para decidirse por una filial:
-
-| Adquirir un negocio rentable que no está relacionado con su actividad principal.                                                                                                                       |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Comprar una empresa para asegurarse la provisión de ciertas mercaderías o materias primas.                                                                                                             |
-| Contar con presencia en otro mercado, pero limitando su riesgo en caso de que la filial obtenga resultados negativos.                                                                                  |
-| Desarrollar negocios en otro país pero que por cuestiones legales, económicas o por desconocimiento del mercado, es conveniente adquirir una filial más que fijar una presencia permanente en el país. |
-| Ofrecer una mayor imagen de confianza para los proveedores o clientes locales.                                                                                                                         |
+## Motivos para decidirse por una filial
 
 Tabla 8.1. Motivos para adquirir una filial por parte de una empresa matriz.
+
+La empresa matriz puede tener diversos motivos para decidirse por una filial:
+
+1. Adquirir un negocio ajeno a su actividad principal: Adquirir un negocio rentable que no está relacionado con su actividad principal.
+
+2. Asegurar la provisión de productos: Comprar una empresa para asegurarse la provisión de ciertas mercaderías o materias primas.
+
+3. Introducirse en nuevos mercados limitando el riesgo: Contar con presencia en otro mercado, pero limitando su riesgo en caso de que la filial obtenga resultados negativos.
+
+4. Abrirse a mercados totalmente desconocidos: Desarrollar negocios en otro país pero que por cuestiones legales, económicas o por desconocimiento del mercado, es conveniente adquirir una filial más que fijar una presencia permanente en el país.
+
+5. Mejorar la imagen: Ofrecer una mayor imagen de confianza para los proveedores o clientes locales.
+
+## Filial
 
 La filial puede generar conocimientos propios o abrir nuevos mercados que beneficien a la empresa matriz, aspectos que podrían no haberse logrado si la matriz no hubiera contado con socios locales. Por su parte, la empresa filial se beneficia de la matriz por el aporte de capital, de nuevas ideas o por la transferencia de tecnología.
 
@@ -7874,21 +8096,23 @@ La globalización y el crecimiento del comercio internacional de bienes, servici
 
 Una empresa que tiene filiales o sucursales en varios países se denomina empresa multina cional, o simplemente, multinacional.
 
+## Economía de escala
+
 La economía de escala alude a la reducción en el coste medio por unidad producida. La disminución de gastos aumenta a medida que se incrementa el volumen de produc ción, ya que los costes fijos se reparten entre más unidades producidas y, por eso, se reducen.
 
 Las empresas aprovechan la economía de escala para aumentar la compra de productos a proveedores, incrementar la especialización de los factores, y reducir así el interés a pagar por fuentes de financiación externa o disminuir los gastos de publicidad y marketing.
 
 El concepto de economía de escala explicaría el porqué están tan extendidos los proce sos de comercio internacional y de globalización.
 
-## I Joint venture
+## Joint venture
 
-Una joínt venture o empresa conjunta supone un compromiso de colaboración entre dos o más empresas, por el que ninguna de ellas pierde su identidad ni su individualidad desde un punto de vista jurídico. Por tanto, no conlleva fusión ni absorción de una empresa por parte de la otra, sino el compromiso de una alianza estratégica concretado a través de un contrato de colaboración, tal como una franquicia, o bien, con la constitución de una Unión temporal de empresas (UTE) o de una Agrupación de interés económico (AIE), o bien, mediante una sociedadparticipada por ambas.
+Una joint venture o empresa conjunta supone un compromiso de colaboración entre dos o más empresas, por el que ninguna de ellas pierde su identidad ni su individualidad desde un punto de vista jurídico. Por tanto, no conlleva fusión ni absorción de una empresa por parte de la otra, sino el compromiso de una alianza estratégica concretado a través de un contrato de colaboración, tal como una franquicia, o bien, con la constitución de una Unión temporal de empresas (UTE) o de una Agrupación de interés económico (AIE), o bien, mediante una sociedadparticipada por ambas.
 
-Es un contrato entre dos empresas jurídica y financieramente independientes. El franquiciador otorga ciertos derechos e impone la obligación de desarrollar el negocio según su criterio. Esto le permite expandirse rápidamente sin incurrir en grandes desembolsos de capital. La responsabilidad del nuevo negocio es asumida por ei franquiciado, lo cual permite al franquiciador dedicarse a su propia empresa, al tiempo que recoge parte de los beneficios que genera la franquicia. La inversión conjunta en publicidad reduce gastos y genera más impacto.
+- Franquicia: Es un contrato entre dos empresas jurídica y financieramente independientes. El franquiciador otorga ciertos derechos e impone la obligación de desarrollar el negocio según su criterio. Esto le permite expandirse rápidamente sin incurrir en grandes desembolsos de capital. La responsabilidad del nuevo negocio es asumida por ei franquiciado, lo cual permite al franquiciador dedicarse a su propia empresa, al tiempo que recoge parte de los beneficios que genera la franquicia. La inversión conjunta en publicidad reduce gastos y genera más impacto.
 
 El franquiciado, por su parte, tiene la garantía de crear una empresa con el respaldo de una marca conocida y valorada por el mercado, sin preocuparse de realizar estudios de viabilidad. A pesar del desembolso inicial, los gastos suelen ser menores que los que se hubieran contraído de iniciarse un negocio propio, gracias a la economía de escala que permite una franquicia. La responsabilidad del franquiciado en denuncias realizadas por el consumidor es mínima, y siempre tiene la opción de dar por finalizado el contrato una vez superado el periodo mínimo fijado por el franquiciador.
 
-## |¿!tpi^
+- Unión temporal de empresas (UTE)
 
 Consiste en la colaboración de dos o más empresas, por un tiempo determinado, para realizar de manera conjunta un proyecto de gran volumen que resulta inviable para una sola empresa. Esta cooperación empresarial favorece el abara tamiento de costes, aprovecha sinergias comunes entre empresas y distribuye mejor los riesgos implícitos. Al finalizar la obra o servicio, la unión llega a su fin.
 
@@ -7896,17 +8120,17 @@ Esta fórmula jurídica de colaboración está muy extendida en grandes empresas
 
 La creación de una UTE requiere la intervención notarial para dar fe de la escritura pública del acuerdo, así como la ins cripción en el Registro Mercantil. Carece de personalidad jurídica propia, lo que significa que la responsabilidad de la unión temporal de empresas recae solidaria e ilimitadamente sobre los integrantes de la UTE.
 
-## ^gry^|ióji &lt;íé interés éeonórnico (AJE)
+## Agrupación de interés económico (AJE)
 
 Es una asociación mercantil sin ánimo de lucro y con personalidad jurídica propia, creada por varios empresarios para mejorar los resultados de sus actividades económicas.
 
-## Las características de esta fórmula son:
+Las características de esta fórmula son:
 
 - El objeto de la agrupación se limitará exclusivamente a una actividad económica auxiliar de la que desarrollen sus socios.
 - La agrupación no puede poseer participaciones de las sociedades que sean miembros suyos, ni dirigir o controlar las actividades de sus socios o de terceros.
 - Los socios de una AIE responden personal y solidariamente, aunque de manera subsidiaria, de las deudas de la agru pación.
 
-## Ejemplo
+Ejemplo
 
 El objetivo de promover un conjunto turístico residencial de calidad con instalaciones hoteleras de, al menos, cuatro estrellas en la zona andaluza Campo de ibraltar, se va a llevar a cabo gracias a la constitución de una Agrupación de interés económico (AIE) promovida por el ayuntamiento entre los propietarios del suelo.
 
@@ -7916,7 +8140,7 @@ Se trata de aquella sociedad cuyo capital pertenece también a otra sociedad o g
 
 Los socios siguen operando en sus respectivas empresas de manera independiente y en ellas integran los beneficios o pérdidas de la sociedad participada, como resultados de una línea más del negocio. En la sociedad participada, el reparto de beneficios entre las empresas se efectúa de manera proporcional al porcentaje de propiedad.
 
-## Ejemplo
+Ejemplo
 
 Camerdata es una sociedad participada por la Cámara de Comercio de Madrid, que ofrece a las sociedades y empre sarios de la ciudad informes de mercado geoposicionados que mejoran sus conocimientos a la hora de elegir el lugar donde abrir locales o establecimientos comerciales.
 
@@ -7927,23 +8151,29 @@ En función de su coste, puede tratarse de un informe simple sobre la competenci
 3. Selecciona una franquicia que te parezca atractiva para iniciar un negocio y averigua cuáles son sus condiciones y qué obligación temporal mínima es exigida.
 4. Accede al siguiente enlace y lee el artículo que hay en él. Señala qué ventajas tiene formar parte de una AIE: http://www.cincodias.com/artRcuSo/emprencSedores/ agrupacion-interes-economico-red empresas/20110415cdsepdepd_14/
 
-El propósito de unajointventure puede ser el de llevar a cabo la producción de manera con junta o la búsqueda de nuevos mercados o cualquier otro objetivo estratégico. Asimismo, la aportación de cada empresa admite múltiples variantes como el intercambio de materia prima o de productos semiacabados, la cesión de tecnología, la intervención en los canales de distribución, la contribución con financiación, la colaboración con el know-how específico o el conocimiento del mercado, la cesión de personal, etc.
+## Propósito de una jointventure
+
+El propósito de una jointventure puede ser el de llevar a cabo la producción de manera con junta o la búsqueda de nuevos mercados o cualquier otro objetivo estratégico. Asimismo, la aportación de cada empresa admite múltiples variantes como el intercambio de materia prima o de productos semiacabados, la cesión de tecnología, la intervención en los canales de distribución, la contribución con financiación, la colaboración con el know-how específico o el conocimiento del mercado, la cesión de personal, etc.
+
+## Know-how
 
 El know-how («saber cómo») es una forma de denominar los conocimientos necesarios para gestionar un negocio, que se adquieren a base de años de experiencia. No se trata, por tanto, de conocimientos académicos, sino experienciales, tales como la manera de atender al cliente, la forma de negociar con proveedores, etc. Son la clave de por qué un negocio funciona y otros parecidos fracasan.
 
 El know-how es uno de los principales elementos que se obtienen al firmar un contrato con una franquicia.
 
-Lo relevante no son los elementos que intercambian, ni los objetivos empresariales que per siguen, sino que se asocian de manera temporal para reducir el riesgo y obtener beneficios mutuos. Esta colaboración suele establecerse a medio y largo plazo, puesto que las acciones a desarrollar requieren de grandes esfuerzos de planificación y puesta en práctica, razón por la que no compensaría una unión breve.
+## Lo relevante de joint venture
 
-Lasjointventure no solo tienen lugar en el ámbito internacional, pero es ahí donde más be neficiosas resultan. Así, es muy habitual que se realice en sectores donde se requieren grandes inversiones iniciales como el sector petrolífero.
+Lo relevante no son los elementos que intercambian, ni los objetivos empresariales que persiguen, sino que se asocian de manera temporal para reducir el riesgo y obtener beneficios mutuos. Esta colaboración suele establecerse a medio y largo plazo, puesto que las acciones a desarrollar requieren de grandes esfuerzos de planificación y puesta en práctica, razón por la que no compensaría una unión breve.
+
+Las joint venture no solo tienen lugar en el ámbito internacional, pero es ahí donde más be neficiosas resultan. Así, es muy habitual que se realice en sectores donde se requieren grandes inversiones iniciales como el sector petrolífero.
 
 Resulta igualmente interesante para pymes que quieren adentrarse en un país diferente al propio. Al aliarse con empresas locales reducen problemas legales, dificultades con el idioma o barreras comerciales, aunque también se benefician de conocimientos específicos para ga nar cuota de mercado en ese país, por ejemplo, al recibir apoyo en la búsqueda de provee dores, al contratar empleados locales, etc. Estas alianzas estratégicas les permiten lograr sin gran esfuerzo ventajas competitivas a corto plazo, ventajas que no alcanzarían por sí mismas.
 
-## Ejemplo 6. Imaginarium y el shop in shop
+## Ejemplo 6. Imaginarium y el Shop in shop
 
-Imaginarium ha entrado en el mercado francés mediante una alianza estratégica con la mar ca francesa Vertbaudet, líder en el segmento de venta a distancia de ropa. El acuerdo con templa la comercialización de los productos Imaginarium a través de los principales canales de venta de Vertbaudet (página web y catálogo de venta a distancia), además de la apertura de formatos shop in shop de Imaginarium en algunas de las tiendas Vertbaudet.
+Imaginarium ha entrado en el mercado francés mediante una alianza estratégica con la mar ca francesa Vertbaudet, líder en el segmento de venta a distancia de ropa. El acuerdo con templa la comercialización de los productos Imaginarium a través de los principales canales de venta de Vertbaudet (página web y catálogo de venta a distancia), además de la apertura de formatos Shop in shop de Imaginarium en algunas de las tiendas Vertbaudet.
 
-Shopinshop define un nuevo concepto de venta, por el cual una tienda distribuye productos de otra marca. En este caso, mediante colocación de expositores con juguetes Imaginarium en las tiendas de Vertbaudet.
+Shop in shop define un nuevo concepto de venta, por el cual una tienda distribuye productos de otra marca. En este caso, mediante colocación de expositores con juguetes Imaginarium en las tiendas de Vertbaudet.
 
 Otro ejemplo de esta forma de colaboración comercial la encontramos en la sección Espacio MoviStar Fusión, que lleva a cabo El Corte Inglés en sus plantas de electrónica.
 
@@ -7959,7 +8189,7 @@ Brevemente, se exponen los motivos que justifican la expansión internacional:
 - El crecimiento en mercado local es limitado. No solo se internacionalizan las empresas, también los clientes y la competencia.
 - Las compañías internacionales diversifican riesgos y son más rentables.
 
-## I Ayudas públicas
+## Ayudas públicas
 
 Diversos organismos públicos convocan premios o ayudas para favorecer la internacionaliza ción de las empresas españolas.
 
@@ -7971,11 +8201,11 @@ Las comunidades autónomas también ofrecen ayudas, como es el caso del programa
 
 El ICO (Instituto de Crédito Oficial) cuenta con una línea de financiación abierta para favore cer la internacionalización de autónomos y empresas. Se trata de préstamos con condiciones ventajosas para acometer la compra o leasing de activos fijos, gastos de tramitación de la creación de una empresa, ayudas al pago del IVA o impuestos análogos. Como máximo se conceden diez millones €/año por cliente.
 
-## I Ayudas a acciones inespecíficas
+## Ayudas a acciones inespecíficas
 
 También los apoyos a la expansión internacional de empresas se pueden dirigir a colectivos que aún no han constituido su empresa o que tienen poca trayectoria emprendedora; o tam bién, pueden llevarse a cabo acciones promocionales para facilitar la red de contactos o para mejorar la imagen de España.
 
-## Ejemplo 8. Casos ele ayudas inespecíficas
+## Ejemplo 8. Casos de ayudas inespecíficas
 
 - La división internacional de IFEMA tiene entre sus objetivos convocar, al menos, dos ferias anuales en el extranjero.
 - El programa Erasmus para Jóvenes Emprendedores fomenta intercambios transnacionales a emprendedores noveles o a aquellos que desean tener su empresa, por medio de estancias con empresarios experimentados que dirigen pequeñas empresas en otros países de la Unión Europea, durante las cuales los nuevos emprendedores podrán adquirir conocimientos, habi lidades y crear una red social. Los anfitriones se benefician de una nueva perspectiva sobre su negocio y mejoran su red de contactos para iniciar nuevas relaciones comerciales y acceder a mercados extranjeros.
@@ -7997,7 +8227,7 @@ La marca «España» o las marcas «Jamón serrano español», «Jamón ibérico
 
 Pero esos valores, esas percepciones, se deben construir partiendo de una realidad, y esa realidad se llama calidad. Si conseguimos obtener un producto con una calidad real di ferenciada y a ese producto le llamamos «Jamón serrano español», llegará un momento en el que el consumidor percibirá ese valor, llegará a diferenciarlo de los otros jamones cu rados que va a encontrar en el mercado y llegará a estar dispuesto a pagar más por él. Por que la marca, el apellido, no se construye solo a base de deseos sino a base de realidades, a base de un esfuerzo y de un trabajo duro, constante y coherente».
 
-Fuente: artículo del gerente del Consorcio del Jamón Serrano Español para lnterempresas.net
+Fuente: artículo del gerente del Consorcio del Jamón Serrano Español para Interempresas.net
 
 ## Incubadora internacional de empresas
 
@@ -8037,11 +8267,11 @@ Otro de los errores comunes es no contar con la denominada prueba de la contrata
 
 Fuente: Expansión. Madrid, 8 de enero de 2012 [en línea]
 
-## Factores; lingüísticos
+## Factores lingüísticos
 
 Los traductores automáticos como Google Transíate no se indexan en los buscadores, por lo que su uso no sería muy bueno. Tampoco es aconsejable confiar todo el contenido web a una traducción automática. En el caso de presentarse la página web en varios idiomas, normalmente la versión idiomática que aparece en pantalla se genera automáticamente según la dirección IP detectada, es lo que se denomina eoTargeting. En contrapartida, esta estrategia no discierne si el idioma propio del usuario corresponde al del país en donde está instalado el ordenador.
 
-## Lidérázgd&lt; oritme
+## Liderazgo online
 
 Google, a pesar de su impresionante cuota de mercado mundial, no es líder en algunos mercados como China, Rusia o Japón. Lo mismo sucede con Facebook, puesto que no es líder en las redes sociales de Brasil y China.
 
@@ -8053,27 +8283,21 @@ El contenido debe ser relevante y aportar valor a los clientes. Hay que prestar 
 
 En España, pocas empresas se preocupan por su reputación internacional tanto como para realizar un seguimiento periódico. Entre las excepciones a este caso podemos encontrar: NH Hoteles, Meliá Hoteles, Movistar y Telefónica, Banco Santander, IE Business Schooly Unión Fenosa- as natural.
 
-## Ppsicionartíiéritp SEO
+## Posicionamiento SEO
 
 Se refiere a lograr un buen posicionamiento en los buscadores, sin pagar por ello. SEO es el acrónimo de Search Engine Optimization y se logra eligiendo determinadas palabras clave relacionadas con la actividad de un sitio para conseguir que aparezca en una buena posición cuando un usuario busca dichas palabras clave.
 
-El objetivo de esta unidad es que reflexio nes sobre la posibilidad de internacionalizar vuestro proyecto. Aunque parezca una acción remota, no lo es tanto entre los emprendedores que constituyen su empresa, sobre todo si el producto es original y fácilmente exportable a otros mercados. Además, debes
+## Simulación empresarial
+
+El objetivo de esta unidad es que reflexio nes sobre la posibilidad de internacionalizar vuestro proyecto. Aunque parezca una acción remota, no lo es tanto entre los emprendedores que constituyen su empresa, sobre todo si el producto es original y fácilmente exportable a otros mercados. Además, debes recordar que era un criterio establecido por el capital riesgo para invertir en proyectos.
+
+Al finalizar el tema, recogerás toda esta información para el plan de empresa en un apartado, denominado: Acciones para la internacionalización.
 
 ## Fases de la Simulación empresarial
 
 Fase 1. Estrategias de internacionalización
 
-i
-
-§
-
-i
-
-recordar que era un criterio establecido por el capital riesgo para invertir en proyectos.
-
-Al finalizar el tema, recogerás toda esta información para el plan de empresa en un apartado, denominado: Acciones para la internacionalización.
-
-## Ejemplo 9. El caso ele Ergonomic Product Design
+## Ejemplo 9. El caso de Ergonomic Product Design
 
 Podemos tomar, por ejemplo, el caso de Ergonomic Product Design. Esta empresa fabrica y comercializa una mochila con un innovador sistema de respaldo anatómico, de manera que el usuario puede transportar la carga diaria sin sufrir lesiones de espalda.
 
@@ -8093,7 +8317,7 @@ Al tratarse de una posibilidad remota en vuestras circunstancias actuales, abord
 
 Describe qué acciones realizaríais en caso de plantearos una internacionalización de vuestra empresa en un medio o largo plazo.
 
-## Ayuda práctica:
+Ayuda práctica:
 
 Analiza qué mecanismo resultaría más interesante para la intemacionalización de vues tra empresa, según la clasificación que hemos analizado en la sección Conceptos. Jus tifica cada una de vuestras decisiones.
 
@@ -8101,7 +8325,7 @@ Analiza qué mecanismo resultaría más interesante para la intemacionalización
 
 Ahora únicamente queda incorporar al plan de empresa las últimas decisiones adop tadas en esta unidad que se incluirán en un único apartado denominado Acciones para la internacionalización.
 
-## Acciones para la internacionalización
+Acciones para la internacionalización
 
 - a) Incorpora las conclusiones a las que hayáis llegado en esta última actividad de Si mulación.
 - b) Razona qué fórmula pondríais en marcha para proceder a la internacionalización de vuestra empresa.
@@ -8116,7 +8340,41 @@ Si consultas periódicos de tipo económico, comprobarás que hay ejemplos de j�
 
 Te animamos a consultar el blog: www.fpemprendedores.es, donde encontrarás noti cias de ese tipo y otras curiosidades del mundo empresarial.
 
-!
+## Síntesis
+
+1. Exportación:
+
+- Comercialización indirecta: Agente, Distribuidor local, Consorcio de exportación
+
+- Comercialización directa:
+- a) Sucursal
+- b) F&A: Fusión pura, Fusión por absorción, Adquisición
+- c) Joint venture: Franquicia, UTE, AIE , Sociedad participada
+
+2. Ayudas internacionalización
+
+- Públicas
+- Acciones inespecíficas
+- Incubadora internacional de empresas
+
+3. Internet como herramienta de internacionalización
+
+- Factores: Legales, Lingüísticos, Liderazgo online, Reputación online, Posicionamiento SEO
+
+4. Plan de empresa
+
+- Idea del negocio
+- Socios trayectoria profesional
+- Estudio de mercado
+- Plan de producción
+- Plan financiero
+- Plan de aprovisionamiento
+- Obligaciones fiscales
+- Plan de marketing
+- Plan de RR.HH.
+- --> Acciones para la internacionalización
+
+## Test de repaso
 
 1. La globalización es un proceso que conduce a la:
 
@@ -8167,12 +8425,6 @@ Te animamos a consultar el blog: www.fpemprendedores.es, donde encontrarás noti
 - c) Firma un acuerdo de colaboración con otra empresa.
 - d) Integra una empresa en otra, de manera que esta última desaparece.
 
-.
-
-·
-
-'"''-",'i
-
 ## 8. Una fusión por absorción consiste en un proceso por el cual una empresa:
 
 - a) Se une a otra para formar una empresa nueva.
@@ -8222,6 +8474,8 @@ Te animamos a consultar el blog: www.fpemprendedores.es, donde encontrarás noti
 - c) Un acuerdo de colaboración entre dos empresas diferentes.
 - d) Todas son correctas.
 
+## Comprueba tu aprendizaje
+
 1. Explica por qué un proceso de globalización implica la transformación económica, social y política de los países que se ven afectados por este proceso.
 2. Analiza si algún país puede voluntariamente quedarse al margen de la globalización y qué consecuencias tendría esa acción. Expon tu punto de vista.
 3. Señala qué ventajas y qué inconvenientes tiene la globalización. Explica cuál es tu opi nión al respecto.
@@ -8241,16 +8495,14 @@ Te animamos a consultar el blog: www.fpemprendedores.es, donde encontrarás noti
 17. Localiza el nombre de alguna incubadora internacional de empresas y busca información sobre algún proyecto que hayan apoyado. Emite una opinión crítica sobre las ventajas e inconvenientes de esta forma de apoyo.
 18. Averigua qué cantidad máxima de financiación ofrece la línea ICO internacionalización y qué requisitos deben cumplir los proyectos para ello.
 
-\
+## Simulación empresarial: «La base de tu futuro»
 
-## Simulación empresarial
-
-«La base de tu futuro»
-
-El proyecto editorial de Mc raw-Hill par desarrollado según tres principios básicos: -Hill para la formación profesional ha sido básicos:
+El proyecto editorial de McGraw-Hill para la formación profesional ha sido desarrollado según tres principios básicos:
 
 - Una metodología basada en la práctica y en la adecuación de contenidos y procedimientos a tu realidad profesional.
+
 - Unos materiales desarrollados para conseguir las destrezas, habilidades y resultados de aprendizaje que necesitarás para conseguir tu título y desenvolverte en el mercado laboral.
+
 - Una presentación de los contenidos clara y atractiva, con variedad de recursos gráficos y multimedia que facilitarán tu aprendizaje.
 
 El proyecto para el módulo profesional Simulación empresarial ha sido desarrollado para dar respuesta a la necesidad de proporcionar al alumno conocimientos sobre la génesis de una idea de negocio y el modo de implementarla en un proyecto empresarial viable.

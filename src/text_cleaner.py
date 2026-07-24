@@ -2,7 +2,10 @@
 
 import re
 from pathlib import Path
-
+from config import (
+    CARPETA_MARKDOWN_RAW,
+    CARPETA_MARKDOWN_CLEAN,
+)
 
 CABECERAS_PIES_RUIDO = {
     "Lean Startup en Educación",
@@ -21,36 +24,38 @@ SIMBOLOS_OCR = {
 }
 
 
+LIMPIEZAS = (
+    lambda texto: eliminar_marcadores_imagen(texto),
+    lambda texto: eliminar_cabeceras_y_pies(texto),
+    lambda texto: eliminar_numeros_pagina(texto),
+    lambda texto: eliminar_simbolos_ocr(texto),
+    lambda texto: eliminar_isbn(texto),
+    lambda texto: unir_palabras_partidas(texto),
+    lambda texto: unir_parrafos_partidos(texto),
+    lambda texto: normalizar_formato(texto),
+    lambda texto: eliminar_lineas_vacias(texto),
+)
+
+
 def limpiar_texto(texto: str) -> str:
     """
     Limpia y normaliza el contenido de un documento Markdown.
     """
 
-    texto = eliminar_marcadores_imagen(texto)
-    texto = eliminar_cabeceras_y_pies(texto)
-    texto = eliminar_numeros_pagina(texto)
-    texto = eliminar_simbolos_ocr(texto)
-    texto = eliminar_isbn(texto)
-    texto = unir_palabras_partidas(texto)
-    texto = unir_parrafos_partidos(texto)
-    texto = normalizar_formato(texto)
-    texto = eliminar_lineas_vacias(texto)
+    for limpieza in LIMPIEZAS:
+        texto = limpieza(texto)
 
     return texto.strip()
 
 
 def eliminar_marcadores_imagen(texto: str) -> str:
-    """
-    Elimina los marcadores de imagen generados al convertir el PDF.
-    """
+    """Elimina los marcadores de imagen generados al convertir el PDF."""
 
     return texto.replace("<!-- image -->", "")
 
 
 def eliminar_cabeceras_y_pies(texto: str) -> str:
-    """
-    Elimina cabeceras y pies de página repetidos.
-    """
+    """Elimina cabeceras y pies de página repetidos."""
 
     lineas_limpias = []
 
@@ -66,9 +71,7 @@ def eliminar_cabeceras_y_pies(texto: str) -> str:
 
 
 def eliminar_numeros_pagina(texto: str) -> str:
-    """
-    Elimina líneas que contienen únicamente un número de página.
-    """
+    """Elimina líneas que contienen únicamente un número de página."""
 
     lineas_limpias = []
 
@@ -84,9 +87,7 @@ def eliminar_numeros_pagina(texto: str) -> str:
 
 
 def eliminar_simbolos_ocr(texto: str) -> str:
-    """
-    Elimina símbolos extraños introducidos durante la extracción OCR.
-    """
+    """Elimina símbolos extraños introducidos durante la extracción OCR."""
 
     for simbolo in SIMBOLOS_OCR:
         texto = texto.replace(simbolo, "")
@@ -95,9 +96,7 @@ def eliminar_simbolos_ocr(texto: str) -> str:
 
 
 def eliminar_isbn(texto: str) -> str:
-    """
-    Elimina las líneas que contienen códigos ISBN.
-    """
+    """Elimina las líneas que contienen códigos ISBN."""
 
     patron_isbn = re.compile(
         r"\bISBN(?:-1[03])?\s*:?\s*[\dXx\- ]{10,20}\b",
@@ -119,13 +118,6 @@ def eliminar_isbn(texto: str) -> str:
 def unir_palabras_partidas(texto: str) -> str:
     """
     Une palabras cortadas mediante un guion y un salto de línea.
-
-    Ejemplo:
-        emprendi-
-        miento
-
-    Resultado:
-        emprendimiento
     """
 
     return re.sub(
@@ -148,6 +140,7 @@ def unir_parrafos_partidos(texto: str) -> str:
     parrafo_actual = ""
 
     for linea in lineas:
+
         contenido = linea.strip()
 
         if not contenido:
@@ -181,8 +174,7 @@ def unir_parrafos_partidos(texto: str) -> str:
 
 def es_elemento_markdown(linea: str) -> bool:
     """
-    Comprueba si una línea es un elemento Markdown que no debe unirse
-    con otros párrafos.
+    Comprueba si una línea es un elemento Markdown que no debe unirse.
     """
 
     patrones_markdown = (
@@ -205,9 +197,7 @@ def es_elemento_markdown(linea: str) -> bool:
 
 
 def normalizar_formato(texto: str) -> str:
-    """
-    Normaliza espacios y caracteres especiales sin destruir el Markdown.
-    """
+    """Normaliza espacios sin destruir el Markdown."""
 
     texto = texto.replace("\u2003", " ")
     texto = texto.replace("\u00a0", " ")
@@ -215,18 +205,11 @@ def normalizar_formato(texto: str) -> str:
 
     texto = re.sub(r"[ ]{2,}", " ", texto)
 
-    texto = "\n".join(
-        linea.strip()
-        for linea in texto.splitlines()
-    )
-
-    return texto
+    return "\n".join(linea.strip() for linea in texto.splitlines())
 
 
 def eliminar_lineas_vacias(texto: str) -> str:
-    """
-    Conserva como máximo una línea vacía entre bloques.
-    """
+    """Conserva como máximo una línea vacía entre bloques."""
 
     return re.sub(r"\n{3,}", "\n\n", texto)
 
@@ -234,28 +217,20 @@ def eliminar_lineas_vacias(texto: str) -> str:
 def limpiar_archivo_markdown(
     ruta_entrada: Path,
     ruta_salida: Path,
-) -> None:
+) -> Path:
     """
-    Lee un archivo Markdown, limpia su contenido y guarda el resultado.
+    Limpia un archivo Markdown y devuelve la ruta del archivo generado.
     """
 
     if not ruta_entrada.exists():
-        raise FileNotFoundError(
-            f"No existe el archivo: {ruta_entrada}"
-        )
+        raise FileNotFoundError(f"No existe el archivo: {ruta_entrada}")
 
     if ruta_entrada.suffix.lower() != ".md":
-        raise ValueError(
-            f"El archivo no es Markdown: {ruta_entrada}"
-        )
+        raise ValueError(f"El archivo no es Markdown: {ruta_entrada}")
 
-    texto_original = ruta_entrada.read_text(
-        encoding="utf-8"
-    )
+    texto_original = ruta_entrada.read_text(encoding="utf-8")
 
-    texto_limpio = limpiar_texto(
-        texto_original
-    )
+    texto_limpio = limpiar_texto(texto_original)
 
     ruta_salida.parent.mkdir(
         parents=True,
@@ -267,61 +242,41 @@ def limpiar_archivo_markdown(
         encoding="utf-8",
     )
 
-    print(
-        f"Archivo limpio creado: {ruta_salida}"
-    )
+    print(f"Archivo limpio creado: {ruta_salida}")
+
+    return ruta_salida
 
 
-def limpiar_carpeta_markdown(
-    carpeta_raw: str = "data/markdown_raw",
-    carpeta_clean: str = "data/markdown_clean",
-) -> None:
+def limpiar_markdowns(
+    rutas_markdown: list[Path],
+) -> list[Path]:
     """
-    Recorre todos los Markdown de markdown_raw y guarda los archivos
-    limpios en markdown_clean, conservando la estructura de carpetas.
+    Limpia una lista de archivos Markdown.
+
+    Conserva la estructura de carpetas dentro de
+    data/markdown_clean.
     """
 
-    ruta_raw = Path(carpeta_raw)
-    ruta_clean = Path(carpeta_clean)
+    rutas_limpias = []
 
-    if not ruta_raw.exists():
-        raise FileNotFoundError(
-            f"No existe la carpeta: {ruta_raw}"
+    for ruta_entrada in rutas_markdown:
+
+        ruta_relativa = ruta_entrada.relative_to(CARPETA_MARKDOWN_RAW)
+
+        ruta_salida = CARPETA_MARKDOWN_CLEAN / ruta_relativa
+
+        ruta_limpia = limpiar_archivo_markdown(
+            ruta_entrada,
+            ruta_salida,
         )
 
-    if not ruta_raw.is_dir():
-        raise NotADirectoryError(
-            f"La ruta no es una carpeta: {ruta_raw}"
-        )
+        rutas_limpias.append(ruta_limpia)
 
-    archivos_md = list(
-        ruta_raw.rglob("*.md")
-    )
+    print(f"\nSe han limpiado {len(rutas_limpias)} archivos Markdown.")
 
-    if not archivos_md:
-        print(
-            f"No se encontraron archivos Markdown en {ruta_raw}"
-        )
-        return
-
-    for ruta_entrada in archivos_md:
-
-        ruta_relativa = ruta_entrada.relative_to(
-            ruta_raw
-        )
-
-        ruta_salida = ruta_clean / ruta_relativa
-
-        limpiar_archivo_markdown(
-            ruta_entrada=ruta_entrada,
-            ruta_salida=ruta_salida,
-        )
-
-    print(
-        f"\nSe han limpiado {len(archivos_md)} archivos Markdown."
-    )
+    return rutas_limpias
 
 
 if __name__ == "__main__":
 
-    limpiar_carpeta_markdown()
+    print("Este módulo proporciona funciones para limpiar " "archivos Markdown.")

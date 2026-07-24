@@ -7,10 +7,8 @@ encontrar los chunks más relacionados con una pregunta.
 """
 
 from functools import lru_cache
-
 import numpy as np
 from sentence_transformers import SentenceTransformer
-
 from models import Chunk
 
 
@@ -89,6 +87,10 @@ def crear_embeddings_textos(
             dtype=np.float32,
         )
 
+        # Esto en vez de empty si lo consideras mejor
+        # raise ValueError(
+        # "La lista de textos está vacía."
+
     textos_limpios: list[str] = []
 
     for texto in textos:
@@ -146,49 +148,51 @@ def crear_embeddings_chunks(
 
 if __name__ == "__main__":
 
-    textos_prueba = [
-        (
-            "Lean Startup permite validar "
-            "ideas mediante experimentos."
-        ),
-        (
-            "La metodología ayuda a aprender "
-            "de los clientes."
-        ),
-        (
-            "El alumnado debe preparar "
-            "un presupuesto empresarial."
-        ),
-    ]
+    print("Este módulo proporciona funciones para generar embeddings.")
 
-    embeddings = crear_embeddings_textos(
-        textos_prueba
-    )
+    # textos_prueba = [
+    #     (
+    #         "Lean Startup permite validar "
+    #         "ideas mediante experimentos."
+    #     ),
+    #     (
+    #         "La metodología ayuda a aprender "
+    #         "de los clientes."
+    #     ),
+    #     (
+    #         "El alumnado debe preparar "
+    #         "un presupuesto empresarial."
+    #     ),
+    # ]
 
-    print(
-        "\nEmbeddings creados correctamente."
-    )
+    # embeddings = crear_embeddings_textos(
+    #     textos_prueba
+    # )
 
-    print(
-        f"Número de textos: "
-        f"{embeddings.shape[0]}"
-    )
+    # print(
+    #     "\nEmbeddings creados correctamente."
+    # )
 
-    print(
-        f"Dimensiones por vector: "
-        f"{embeddings.shape[1]}"
-    )
+    # print(
+    #     f"Número de textos: "
+    #     f"{embeddings.shape[0]}"
+    # )
 
-    print(
-        f"Tipo de dato: "
-        f"{embeddings.dtype}"
-    )
+    # print(
+    #     f"Dimensiones por vector: "
+    #     f"{embeddings.shape[1]}"
+    # )
 
-    print(
-        "\nPrimeros 10 valores "
-        "del primer embedding:"
-    )
+    # print(
+    #     f"Tipo de dato: "
+    #     f"{embeddings.dtype}"
+    # )
 
-    print(
-        embeddings[0][:10]
-    )
+    # print(
+    #     "\nPrimeros 10 valores "
+    #     "del primer embedding:"
+    # )
+
+    # print(
+    #     embeddings[0][:10]
+    # )
