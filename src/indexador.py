@@ -34,14 +34,24 @@ CARPETA_MARKDOWN_RAW = Path("data/markdown_raw")
 CARPETA_MARKDOWN_CLEAN = Path("data/markdown_clean")
 
 
-def indexar_documentos():
-    """FC ppal"""
+def indexar_documentos() -> None:
+    """
+    Ejecuta el pipeline completo de indexación.
+
+    Coordina todas las etapas necesarias para transformar los documentos
+    en registros almacenados en la base vectorial.
+    """
 
     try:
-        
+
         print("Iniciando indexación...")
 
         markdowns = _obtener_markdowns_limpios()
+        
+        if not markdowns:
+            print("No hay documentos para indexar.")
+            return
+        
         print("Markdowns obtenidos")
         print("----------------------------------")
 
@@ -67,7 +77,7 @@ def indexar_documentos():
 
         print("Indexación finalizada.")
         print("----------------------------------")
-    
+
     except Exception as error:
         print(f"[ERROR] La indexación ha fallado: {error}")
         raise
@@ -136,6 +146,6 @@ def _obtener_markdowns_limpios() -> list[Path]:
 
         markdowns_limpios.append(ruta_clean)
 
-    print(f"[OK] Markdown limpio generado: " f"{ruta_clean.name}")
+        print(f"[OK] Markdown limpio generado: " f"{ruta_clean.name}")
+        
     return markdowns_limpios
-
