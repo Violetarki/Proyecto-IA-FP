@@ -9,7 +9,7 @@ encontrar los chunks más relacionados con una pregunta.
 from functools import lru_cache
 import numpy as np
 from sentence_transformers import SentenceTransformer
-from models import Chunk
+from src.models import Chunk
 
 
 NOMBRE_MODELO = (

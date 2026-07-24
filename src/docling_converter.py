@@ -9,9 +9,10 @@ La metodología se obtiene automáticamente a partir del nombre
 de la carpeta donde se encuentra el PDF.
 """
 
+
 from pathlib import Path
 from docling.document_converter import DocumentConverter
-from config import CARPETA_MARKDOWN_RAW
+from src.config import CARPETA_MARKDOWN_RAW
 
 converter = DocumentConverter()
 

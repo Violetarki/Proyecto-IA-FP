@@ -2,7 +2,7 @@
 
 import re
 from pathlib import Path
-from config import (
+from src.config import (
     CARPETA_MARKDOWN_RAW,
     CARPETA_MARKDOWN_CLEAN,
 )
