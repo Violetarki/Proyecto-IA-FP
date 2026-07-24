@@ -24,6 +24,10 @@ Base vectorial
 from pathlib import Path
 from docling_converter import convertir_pdf_a_markdown
 from text_cleaner import limpiar_archivo_markdown
+from document_loader import cargar_documentos
+from chunker import crear_chunks_documentos
+from embeddings import crear_embeddings_chunks
+from vector_store import VectorStore
 
 CARPETA_DOCUMENTOS = Path("documents")
 CARPETA_MARKDOWN_RAW = Path("data/markdown_raw")
@@ -38,12 +42,20 @@ def indexar_documentos():
         print("Iniciando indexación...")
 
         markdowns = _obtener_markdowns_limpios()
+        print("Markdowns obtenidos")
+        print("----------------------------------")
 
         documentos = cargar_documentos(markdowns)
+        print("Documentos creados")
+        print("----------------------------------")
 
         chunks = crear_chunks_documentos(documentos)
+        print("Chunks de los documentos creados")
+        print("----------------------------------")
 
         embeddings = crear_embeddings_chunks(chunks)
+        print("Embeddings creados")
+        print("----------------------------------")
 
         vector_store = VectorStore()
 
@@ -51,8 +63,10 @@ def indexar_documentos():
             chunks,
             embeddings,
         )
+        print("Vectores indexados")
 
         print("Indexación finalizada.")
+        print("----------------------------------")
     
     except Exception as error:
         print(f"[ERROR] La indexación ha fallado: {error}")
@@ -125,49 +139,3 @@ def _obtener_markdowns_limpios() -> list[Path]:
     print(f"[OK] Markdown limpio generado: " f"{ruta_clean.name}")
     return markdowns_limpios
 
-
-# FCs privadas
-
-# │
-# ├── obtener_markdowns()
-# │
-# ├── limpiar_markdowns()
-# │
-# ├── cargar_documentos()
-# │
-# ├── crear_chunks()
-# │
-# ├── crear_embeddings()
-# │
-# └── guardar_vectores()
-
-
-
-# FLUJO TIPO NARRACIÓN
-# ===== Inicio de la indexación =====
-
-# Comprobando Markdown limpio...
-# ✔ Se reutilizarán 2 archivos.
-
-# Comprobando Markdown sin limpiar...
-# ✔ Se reutilizará 1 archivo.
-
-# Convirtiendo PDFs restantes...
-# ✔ 1 PDF convertido.
-
-# Limpiando Markdown...
-# ✔ 1 archivo limpiado.
-
-# Cargando documentos...
-# ✔ 3 documentos.
-
-# Creando chunks...
-# ✔ 156 chunks.
-
-# Generando embeddings...
-# ✔ 156 embeddings.
-
-# Guardando en la base vectorial...
-# ✔ Indexación completada.
-
-# ===== Fin =====
