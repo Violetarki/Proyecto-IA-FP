@@ -1716,7 +1716,7 @@ Una vez que comenzamos a trabajar, en esta unidad os presentamos apps para reali
 
 Wunderlist es un fantástico gestor de listas. Permite capturar ideas, tareas pendientes y lugares que visitar. Permite de forma sencilla compartir listas y colaborar con los compañeros de grupo. Wunderlist sincroniza instantáneamente móvil, tablet y ordenador para poder acceder a las listas desde cualquier parte.
 
-### 8.2. IMÁGENES: INSTAGRAM
+### 6.2. IMÁGENES: INSTAGRAM
 
 Instagram se concibe como una manera sencilla de capturar y compartir momentos de tu vida con el resto, ya sea personal o profesional. Permite transformar fotos y vídeos cotidianos en obras de arte y compartirlos con el resto del mundo.
 
@@ -1724,7 +1724,7 @@ La idea de Instagram es "ver el mundo a través de los ojos de otra persona sigu
 
 Es una de la redes sociales más populares y goza de un uso muy habitual por parte de nuestros alumnos. Por ello, constituye un recurso de uso obligado.
 
-### 8.3. TAREAS: TRELLO
+### 6.3. TAREAS: TRELLO
 
 Trello es una herramienta clave para la gestión de tareas en un equipo de trabajo o proyecto que pretenda funcionar de forma agile . La propia aplicación señala:
 
