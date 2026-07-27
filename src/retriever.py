@@ -22,7 +22,7 @@ class Retriever:
     Recupera los chunks más relevantes para una consulta dada.
     """
 
-    def recuperar_contexto(
+    def recuperar_contexto(self,
         pregunta,
         metodologia,
         k=5,) -> str:
@@ -39,7 +39,7 @@ class Retriever:
             str: Texto combinado de los chunks recuperados, separado por saltos de línea.
         """
 
-        chunks = recuperar_chunks(pregunta,metodologia, k)
+        chunks = self.recuperar_chunks(pregunta,metodologia, k)
 
         # Unir los textos
         texto_respuesta = ""
