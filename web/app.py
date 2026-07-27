@@ -25,9 +25,10 @@ from flask import (
 from werkzeug.utils import secure_filename
 
 from src.ingestion.indexador import indexar_documentos
+from src.rag.rag_pipeline import RAG
 
 app = Flask(__name__)
-
+rag = RAG()
 # La clave secreta permite que Flask gestione las sesiones.
 #
 # Primero intenta leerla desde una variable de entorno.
@@ -180,14 +181,11 @@ def inicio():
 
     return render_template("inicio.html")
 
-
 @app.route("/chat", methods=["GET", "POST"])
 def chat():
     """
-    Muestra la interfaz pública del chatbot.
-
-    Por ahora devuelve una respuesta provisional.
-    Más adelante se conectará con src/chatbot.py.
+    Muestra la interfaz pública del chatbot y procesa
+    las preguntas realizadas por el alumnado.
     """
 
     pregunta = ""
@@ -199,22 +197,31 @@ def chat():
             "",
         ).strip()
 
-        if pregunta:
-            respuesta = (
-                "La conexión con el modelo de lenguaje "
-                "todavía está en desarrollo."
-            )
-        else:
+        if not pregunta:
             flash(
                 "Debes escribir una pregunta.",
                 "error",
             )
+
+        else:
+            try:
+                respuesta = rag.responder(
+                    pregunta=pregunta,
+                    metodologia="lean_startup",
+                )
+
+            except Exception as error:
+                flash(
+                    f"No se ha podido generar la respuesta: {error}",
+                    "error",
+                )
 
     return render_template(
         "chatbot.html",
         pregunta=pregunta,
         respuesta=respuesta,
     )
+
 @app.route("/login", methods=["GET", "POST"])
 def login():
     """
