@@ -1,7 +1,7 @@
-from embeddings import crear_embedding_texto
-from vector_store import VectorStore
-from prompts import ConstructorPrompts
-from llm_client import LLMClient
+from src.embeddings import crear_embedding_texto
+from src.vector_store import VectorStore
+from src.prompt_builder import ConstructorPrompts
+from src.llm_client import LLMClient
 
 
 class Chatbot:
