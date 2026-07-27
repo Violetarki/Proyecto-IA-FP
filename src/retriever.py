@@ -41,7 +41,7 @@ def recuperar_contexto(
     metodologia,
     k=5,
 ):
-    """De esta forma, recuperar_contexto() queda muy limpia: 
+    """Queda muy limpia: 
     valida la entrada, 
     crea el embedding de la pregunta, 
     consulta el VectorStore y 
@@ -54,9 +54,6 @@ def _validar_consulta(
     metodologia,
     k,
 ):
-    pass
-    
-
     if not pregunta.strip():
         raise ValueError(...)
 
