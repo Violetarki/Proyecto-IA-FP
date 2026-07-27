@@ -188,8 +188,8 @@ class VectorStore:
     def buscar(
         self,
         embedding: np.ndarray,
-        metodologia,
-        k,
+        metodologia: str,
+        k: int = 5,
     ) -> list[Chunk]:
         """
         Recupera los chunks más similares a un embedding.
@@ -207,10 +207,15 @@ class VectorStore:
 
         if k <= 0:
             raise ValueError("El número de resultados debe ser mayor que cero.")
+        
+        # Temporal para pruebas
+        print(self.collection.count())
 
         resultado = self.collection.query(
             query_embeddings=[embedding.tolist()],
-            where={"metadatas.metodologia": metodologia},
+            where={
+                "metodologia": metodologia,
+            },
             n_results=k,
             include=[
                 "documents",
@@ -222,17 +227,19 @@ class VectorStore:
         distancias = resultado["distances"][0]
         documentos = resultado["documents"][0]
         metadatos = resultado["metadatas"][0]
+        
+        for distancia in distancias:
+            print(distancia)
 
         return [
             self._chunk_desde_resultado(
                 texto,
                 metadata,
-                distancia,
             )
-            for texto, metadata, distancia in zip(
+            
+            for texto, metadata in zip(
                 documentos,
-                metadatos,
-                distancias,
+                metadatos,  
             )
         ]
 
