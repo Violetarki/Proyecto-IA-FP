@@ -10,7 +10,7 @@ from ollama import chat
 from src.config import MODELO_LLM
 
 
-class LLM:
+class LLMClient:
     """
     Gestiona la comunicación con el modelo de lenguaje.
     """
@@ -79,7 +79,7 @@ class LLM:
 
 if __name__ == "__main__":
 
-    llm = LLM()
+    llm = LLMClient()
 
     while True:
 
