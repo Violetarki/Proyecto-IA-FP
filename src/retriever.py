@@ -19,6 +19,7 @@ from src.vector_store import VectorStore
 
 def recuperar_contexto(
     pregunta,
+    metodologia,
     k=5,) -> str:
     """Recupera el contexto relevante para una pregunta dada.
 
@@ -33,7 +34,7 @@ def recuperar_contexto(
         str: Texto combinado de los chunks recuperados, separado por saltos de línea.
     """
 
-    chunks = recuperar_chunks(pregunta, k)
+    chunks = recuperar_chunks(pregunta,metodologia, k)
 
     # Unir los textos
     texto_respuesta = ""
@@ -47,6 +48,7 @@ def recuperar_contexto(
 # función privada para validar los parámetros
 def recuperar_chunks(
     pregunta,
+    metodologia,
     k):
     """Obtiene los chunks más relevantes para una consulta.
 
