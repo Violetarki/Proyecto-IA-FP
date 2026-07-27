@@ -17,15 +17,12 @@ def main():
 
     print(f"\nSe han recuperado {len(chunks)} chunks.\n")
 
-    for i, chunk in enumerate(chunks, start=1):
-        print(f"----- Chunk {i} -----")
+    for i, (chunk, distancia) in enumerate(zip(chunks, distancias), start=1):
+        print(f"\n----- Chunk {i} -----")
+        print(f"Distancia: {distancia:.3f}")
         print(f"Título: {chunk.titulo}")
-
-        if chunk.subtitulo:
-            print(f"Subtítulo: {chunk.subtitulo}")
-
+        print(f"Subtítulo: {chunk.subtitulo}")
         print(chunk.texto[:250])
-        print()
 
     prompt = ConstructorPrompts().construir_prompt(
         pregunta,

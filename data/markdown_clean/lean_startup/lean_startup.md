@@ -129,7 +129,7 @@ Pablo Peñalver @ppenalvera
 
 - Secuencia del aprendizaje: partir de lo general, pasar al detalle, y finalizar con una síntesis
 
-- Niveles de conocimiento: Previos, Internet, Observación, Entrevistas, COntraste hipótesis
+- Niveles de conocimiento: Previos, Internet, Observación, Entrevistas, Contraste hipótesis
 
 - Programación: Comenzar con actividades sencillas, e ir incrementando el nivel de dificultad
 
