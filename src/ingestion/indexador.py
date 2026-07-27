@@ -22,14 +22,14 @@ Base vectorial
 """
 
 from pathlib import Path
-from src.docling_converter import convertir_pdf_a_markdown
-from src.text_cleaner import limpiar_archivo_markdown
-from src.document_loader import cargar_documentos
-from src.chunker import crear_chunks_documentos
-from src.embeddings import crear_embeddings_chunks
-from src.vector_store import VectorStore
+from src.ingestion.docling_converter import convertir_pdf_a_markdown
+from src.ingestion.text_cleaner import limpiar_archivo_markdown
+from src.ingestion.document_loader import cargar_documentos
+from src.ingestion.chunker import crear_chunks_documentos
+from src.rag.embeddings import crear_embeddings_chunks
+from src.rag.vector_store import VectorStore
 
-from src.config import (
+from src.core.config import (
     CARPETA_DOCUMENTOS,
     CARPETA_MARKDOWN_RAW,
     CARPETA_MARKDOWN_CLEAN,

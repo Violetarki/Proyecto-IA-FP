@@ -24,7 +24,7 @@ from flask import (
 )
 from werkzeug.utils import secure_filename
 
-from src.indexador import indexar_documentos
+from src.ingestion.indexador import indexar_documentos
 
 app = Flask(__name__)
 

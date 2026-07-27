@@ -1,5 +1,5 @@
-from src.retriever import Retriever
-from src.prompt_builder import ConstructorPrompts
+from src.rag.retriever import Retriever
+from src.rag.prompt_builder import ConstructorPrompts
 
 
 def main():

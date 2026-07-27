@@ -1,6 +1,6 @@
 from pathlib import Path
 
-RAIZ_PROYECTO = Path(__file__).resolve().parent.parent
+RAIZ_PROYECTO = Path(__file__).resolve().parent.parent.parent
 
 CARPETA_DOCUMENTOS = RAIZ_PROYECTO / "documents"
 CARPETA_DATA = RAIZ_PROYECTO / "data" 
@@ -11,3 +11,4 @@ CARPETA_VECTOR_STORE = CARPETA_DATA / "vector_store"
 # Constantes RAG
 UMBRAL_DISTANCIA = 1.0
 MODELO_LLM = "gemma3:4b"
+

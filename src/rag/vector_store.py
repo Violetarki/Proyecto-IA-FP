@@ -19,8 +19,8 @@ necesario modificar este módulo.
 import chromadb
 import numpy as np
 from pathlib import Path
-from src.models import Chunk, Documento, Metodologia
-from src.config import CARPETA_VECTOR_STORE, UMBRAL_DISTANCIA
+from src.core.models import Chunk, Documento, Metodologia
+from src.core.config import CARPETA_VECTOR_STORE, UMBRAL_DISTANCIA
 
 class VectorStore:
     """

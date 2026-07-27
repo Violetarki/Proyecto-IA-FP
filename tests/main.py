@@ -1,4 +1,4 @@
-from src.indexador import indexar_documentos
+from src.ingestion.indexador import indexar_documentos
 
 
 def boton_actualizar_base_datos():

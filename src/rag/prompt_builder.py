@@ -12,7 +12,7 @@ pipeline RAG, facilitando modificar las instrucciones o el formato
 sin afectar al chatbot ni al retriever.
 """
 
-from src.models import Chunk
+from src.core.models import Chunk
 
 INSTRUCCIONES = (
     "Eres un profesor de Formación Profesional.\n"
