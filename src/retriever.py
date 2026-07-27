@@ -73,11 +73,16 @@ def recuperar_chunks(
     if k <= 0:
         raise ValueError(...)
 
+    
+    if not metodologia.strip():
+        raise ValueError(...)
+
+
     embedding = crear_embedding_texto(pregunta)
 
     vector_store = VectorStore()
 
-    chunks = vector_store.buscar(embedding, k)
+    chunks = vector_store.buscar(embedding, metodologia, k)
 
     return chunks
 
