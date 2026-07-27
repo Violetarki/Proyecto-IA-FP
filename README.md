@@ -131,6 +131,21 @@ ollama run gemma3:4b
 
 ---
 
+# Funcionamiento interno
+
+El sistema sigue una arquitectura RAG (Retrieval-Augmented Generation):
+
+1. Los documentos PDF se convierten a Markdown.
+2. El texto se limpia automáticamente.
+3. Se divide en chunks.
+4. Cada chunk se transforma en un embedding.
+5. Los embeddings se almacenan en ChromaDB.
+6. Cuando el usuario realiza una pregunta:
+   - se genera el embedding de la consulta;
+   - se recuperan los chunks más similares;
+   - se construye un prompt con ese contexto;
+   - el LLM genera la respuesta utilizando únicamente la información recuperada.
+
 # Flujo de indexación
 
 Para generar la base vectorial:
