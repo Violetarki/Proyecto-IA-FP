@@ -15,37 +15,29 @@ Este módulo desacopla el chatbot del sistema de almacenamiento vectorial.
 
 from src.embeddings import crear_embedding_texto
 from src.vector_store import VectorStore
-from src.models import Chunk
 
-# Pregunta
-#     │
-#     ▼
-# crear_embedding_texto()
-
-#     │
-#     ▼
-# VectorStore()
-
-#     │
-#     ▼
-# buscar()
-
-#     │
-#     ▼
-# Chunks
-
-# PSEUDOCODIGO
 
 def recuperar_contexto(
     pregunta,
     metodologia,
     k=5,
-):
+) -> str:
     """Queda muy limpia: 
     valida la entrada, 
     crea el embedding de la pregunta, 
     consulta el VectorStore y 
     devuelve la lista de Chunk."""
+
+    chunks = _validar_consulta(pregunta, metodologia, k)
+
+    #Unir los textos
+    texto_respuesta = ""
+
+    for chunk in chunks:
+        texto_respuesta += f"{chunk.texto}\n"
+        
+
+    return texto_respuesta
 
 
 # función privada para validar los parámetros

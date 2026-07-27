@@ -2,6 +2,7 @@ from embeddings import crear_embedding_texto
 from vector_store import VectorStore
 from prompts import ConstructorPrompts
 from llm_client import LLMClient
+import retriever
 
 
 class Chatbot:
@@ -18,10 +19,12 @@ class Chatbot:
         self.vector_store = vector_store
         self.llm = llm
 
-    def responder(self, pregunta: str) -> str:
+
+    def responder(self, pregunta: str, metodologia: str) -> str:
         """Devuelve una respuesta para la pregunta usando contexto recuperado."""
-        
-        contexto = self._generar_contexto(pregunta)
+
+        # Recuperamos el contexto
+        contexto = retriever.recuperar_contexto(pregunta, metodologia)
 
         # Construimos el prompt
         prompt = ConstructorPrompts().construir_prompt(pregunta, contexto)
@@ -31,26 +34,6 @@ class Chatbot:
 
         return respuesta
 
-
-
-
-    def _generar_contexto(self, pregunta:str) -> str:
-        """
-        A partir de la pregunta del usuario, obtener el texto del documento que será enviado al LLM como contexto
-        """
-        # Generar embedding de la pregunta
-        embedding_pregunta = self.embedder(pregunta)
-
-        # Buscar los chunks
-        chunks_respuesta = self.vector_store.buscar(embedding_pregunta, 5)
-
-        #Unir los textos
-        texto_respuesta = ""
-
-        for chunk in chunks_respuesta:
-            texto_respuesta += f"{chunk.texto}\n"
-
-        return texto_respuesta
 
 
 if __name__ == "__main__":
