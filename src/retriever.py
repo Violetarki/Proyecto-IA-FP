@@ -17,72 +17,77 @@ from src.embeddings import crear_embedding_texto
 from src.vector_store import VectorStore
 
 
-def recuperar_contexto(
-    pregunta,
-    metodologia,
-    k=5,) -> str:
-    """Recupera el contexto relevante para una pregunta dada.
-
-    Esta función genera el embedding de la pregunta, consulta el almacén
-    vectorial para obtener los chunks más relevantes y concatena sus
-    textos en un solo bloque de contexto.
-
-    Args:
-        pregunta (str): Consulta del usuario cuya información de apoyo se desea recuperar.
-
-    Returns:
-        str: Texto combinado de los chunks recuperados, separado por saltos de línea.
+class Retriever:
+    """
+    Recupera los chunks más relevantes para una consulta dada.
     """
 
-    chunks = recuperar_chunks(pregunta,metodologia, k)
+    def recuperar_contexto(
+        pregunta,
+        metodologia,
+        k=5,) -> str:
+        """Recupera el contexto relevante para una pregunta dada.
 
-    # Unir los textos
-    texto_respuesta = ""
+        Esta función genera el embedding de la pregunta, consulta el almacén
+        vectorial para obtener los chunks más relevantes y concatena sus
+        textos en un solo bloque de contexto.
 
-    for chunk in chunks:
-        texto_respuesta += f"{chunk.texto}\n"
+        Args:
+            pregunta (str): Consulta del usuario cuya información de apoyo se desea recuperar.
 
-    return texto_respuesta
+        Returns:
+            str: Texto combinado de los chunks recuperados, separado por saltos de línea.
+        """
 
+        chunks = recuperar_chunks(pregunta,metodologia, k)
 
-# función privada para validar los parámetros
-def recuperar_chunks(
-    pregunta,
-    metodologia,
-    k):
-    """Obtiene los chunks más relevantes para una consulta.
+        # Unir los textos
+        texto_respuesta = ""
 
-    Primero valida que la pregunta no esté vacía, luego crea el embedding de
-    la pregunta y finalmente consulta el VectorStore para recuperar los chunks
-    similares.
+        for chunk in chunks:
+            texto_respuesta += f"{chunk.texto}\n"
 
-    Args:
-        pregunta (str): Texto de la consulta del usuario.
-        k (int): Número de chunks a recuperar
-
-    Returns:
-        list: Lista de objetos chunk ordenados por relevancia.
-
-    Raises:
-        ValueError: Si la pregunta está vacía o contiene sólo espacios.
-    """
-
-    if not pregunta.strip():
-        raise ValueError("La pregunta no puede estar vacía.")
-    
-    if k <= 0:
-        raise ValueError(...)
-
-    
-    if not metodologia.strip():
-        raise ValueError(...)
+        return texto_respuesta
 
 
-    embedding = crear_embedding_texto(pregunta)
+    # función privada para validar los parámetros
+    def recuperar_chunks(
+        pregunta,
+        metodologia,
+        k):
+        """Obtiene los chunks más relevantes para una consulta.
 
-    vector_store = VectorStore()
+        Primero valida que la pregunta no esté vacía, luego crea el embedding de
+        la pregunta y finalmente consulta el VectorStore para recuperar los chunks
+        similares.
 
-    chunks = vector_store.buscar(embedding, metodologia, k)
+        Args:
+            pregunta (str): Texto de la consulta del usuario.
+            k (int): Número de chunks a recuperar
 
-    return chunks
+        Returns:
+            list: Lista de objetos chunk ordenados por relevancia.
+
+        Raises:
+            ValueError: Si la pregunta está vacía o contiene sólo espacios.
+        """
+
+        if not pregunta.strip():
+            raise ValueError("La pregunta no puede estar vacía.")
+        
+        if k <= 0:
+            raise ValueError(...)
+
+        
+        if not metodologia.strip():
+            raise ValueError(...)
+
+
+        embedding = crear_embedding_texto(pregunta)
+
+        vector_store = VectorStore()
+
+        chunks = vector_store.buscar(embedding, metodologia, k)
+
+        return chunks
 
