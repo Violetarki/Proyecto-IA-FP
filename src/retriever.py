@@ -22,6 +22,10 @@ class Retriever:
     Recupera los chunks más relevantes para una consulta dada.
     """
 
+    def __init__(self):
+        self.vector_store = VectorStore()
+
+
     def recuperar_contexto(self,
         pregunta,
         metodologia,
@@ -51,7 +55,7 @@ class Retriever:
 
 
     # función privada para validar los parámetros
-    def recuperar_chunks(
+    def recuperar_chunks(self,
         pregunta,
         metodologia,
         k):
@@ -85,9 +89,7 @@ class Retriever:
 
         embedding = crear_embedding_texto(pregunta)
 
-        vector_store = VectorStore()
-
-        chunks = vector_store.buscar(embedding, metodologia, k)
+        chunks = self.vector_store.buscar(embedding, metodologia, k)
 
         return chunks
 
