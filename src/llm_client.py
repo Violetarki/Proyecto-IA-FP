@@ -1,52 +1,94 @@
+"""
+Módulo encargado de comunicarse con el modelo de lenguaje.
+
+Su única responsabilidad es enviar un prompt al LLM y devolver
+la respuesta generada.
+"""
+
 from ollama import chat
 
+from src.config import MODELO_LLM
 
-class LLMClient:
 
+class LLM:
+    """
+    Gestiona la comunicación con el modelo de lenguaje.
+    """
 
-    def __init__(self, modelo: str = "gemma3:4b"):
+    def __init__(
+        self,
+        modelo: str = MODELO_LLM,
+    ) -> None:
         """
-        inicializamos el modelo (?)
+        Inicializa el cliente del modelo.
+
+        Args:
+            modelo: Nombre del modelo disponible en Ollama.
         """
+
         self.modelo = modelo
-    
 
-        
-
-    def generar_respuesta(self, prompt:str) -> str:
+    def _consultar_modelo(
+        self,
+        prompt: str,
+    ):
         """
-        Recibir un prompt y devolver la respuesta del modelo.
+        Envía un prompt al modelo de lenguaje.
+
+        Args:
+            prompt: Prompt que se enviará al modelo.
+
+        Returns:
+            Respuesta completa devuelta por Ollama.
         """
 
-        respuesta = chat(
+        return chat(
             model=self.modelo,
             messages=[
                 {
-                    'role': 'user', 
-                    'content': prompt
-                }],)
+                    "role": "user",
+                    "content": prompt,
+                }
+            ],
+        )
+
+    def generar_respuesta(
+        self,
+        prompt: str,
+    ) -> str:
+        """
+        Genera una respuesta a partir de un prompt.
+
+        Args:
+            prompt: Prompt que se enviará al modelo.
+
+        Returns:
+            Texto generado por el modelo.
+        """
+
+        if not prompt.strip():
+            raise ValueError("El prompt no puede estar vacío.")
+
+        try:
+            respuesta = self._consultar_modelo(prompt)
+        except Exception as e:
+            raise RuntimeError("Error al comunicarse con el modelo de lenguaje.") from e
 
         return respuesta.message.content
 
 
-
-
 if __name__ == "__main__":
-    """Prueba interactiva de LLMClient desde la línea de comandos."""
-    client = LLMClient()
-    print("Escribe tu prompt (o deja vacío para salir):")
+
+    llm = LLM()
+
     while True:
-        prompt = input("> ").strip()
-        if not prompt:
-            print("Saliendo...")
+
+        pregunta = input("\nPregunta: ").strip()
+
+        if not pregunta:
             break
 
-        try:
-            respuesta = client.generar_respuesta(prompt)
-            print("\nRespuesta del modelo:\n")
-            print(respuesta)
-            print("\n---\n")
-        except Exception as exc:
-            print(f"Error al generar respuesta: {exc}")
-            break
+        respuesta = llm.generar_respuesta(pregunta)
 
+        print("\nRespuesta:\n")
+        print(respuesta)

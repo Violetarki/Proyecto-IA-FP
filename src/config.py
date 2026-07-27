@@ -8,4 +8,6 @@ CARPETA_MARKDOWN_RAW = CARPETA_DATA / "markdown_raw"
 CARPETA_MARKDOWN_CLEAN = CARPETA_DATA / "markdown_clean"
 CARPETA_VECTOR_STORE = CARPETA_DATA / "vector_store"
 
+# Constantes RAG
 UMBRAL_DISTANCIA = 1.0
+MODELO_LLM = "gemma3:4b"
