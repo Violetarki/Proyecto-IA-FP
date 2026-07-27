@@ -22,7 +22,6 @@ INSTRUCCIONES = (
     "No copies grandes fragmentos del contexto.\n"
     "Explica la información con tus propias palabras manteniendo el mismo significado.\n"
     "Si distintas partes del contexto contienen información complementaria, combínalas en una única respuesta."
-
 )
 
 
