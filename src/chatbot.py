@@ -24,7 +24,7 @@ class Chatbot:
         """Devuelve una respuesta para la pregunta usando contexto recuperado."""
 
         # Recuperamos el contexto
-        contexto = retriever.recuperar_contexto(pregunta, metodologia)
+        contexto = recuperar_contexto(pregunta, metodologia)
 
         # Construimos el prompt
         prompt = ConstructorPrompts().construir_prompt(pregunta, contexto)
