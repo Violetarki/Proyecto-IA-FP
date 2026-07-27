@@ -20,11 +20,11 @@ class Chatbot:
         self.llm = llm
 
 
-    def responder(self, pregunta: str, metodologia: str) -> str:
+    def responder(self, pregunta: str) -> str:
         """Devuelve una respuesta para la pregunta usando contexto recuperado."""
 
         # Recuperamos el contexto
-        contexto = recuperar_contexto(pregunta, metodologia)
+        contexto = recuperar_contexto(pregunta)
 
         # Construimos el prompt
         prompt = ConstructorPrompts().construir_prompt(pregunta, contexto)

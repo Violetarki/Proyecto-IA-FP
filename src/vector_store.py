@@ -188,7 +188,7 @@ class VectorStore:
     def buscar(
         self,
         embedding: np.ndarray,
-        k: int = 5,
+        k,
     ) -> list[Chunk]:
         """
         Recupera los chunks más similares a un embedding.
@@ -213,9 +213,11 @@ class VectorStore:
             include=[
                 "documents",
                 "metadatas",
+                "distances",
             ],
         )
 
+        distancias = resultado["distances"][0]
         documentos = resultado["documents"][0]
         metadatos = resultado["metadatas"][0]
 
@@ -223,10 +225,12 @@ class VectorStore:
             self._chunk_desde_resultado(
                 texto,
                 metadata,
+                distancia,
             )
-            for texto, metadata in zip(
+            for texto, metadata, distancia in zip(
                 documentos,
                 metadatos,
+                distancias,
             )
         ]
 

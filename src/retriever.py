@@ -19,39 +19,55 @@ from src.vector_store import VectorStore
 
 def recuperar_contexto(
     pregunta,
-    metodologia,
-    k=5,
-) -> str:
-    """Queda muy limpia: 
-    valida la entrada, 
-    crea el embedding de la pregunta, 
-    consulta el VectorStore y 
-    devuelve la lista de Chunk."""
+    k=5,) -> str:
+    """Recupera el contexto relevante para una pregunta dada.
 
-    chunks = _validar_consulta(pregunta, metodologia, k)
+    Esta función genera el embedding de la pregunta, consulta el almacén
+    vectorial para obtener los chunks más relevantes y concatena sus
+    textos en un solo bloque de contexto.
 
-    #Unir los textos
+    Args:
+        pregunta (str): Consulta del usuario cuya información de apoyo se desea recuperar.
+
+    Returns:
+        str: Texto combinado de los chunks recuperados, separado por saltos de línea.
+    """
+
+    chunks = recuperar_chunks(pregunta, k)
+
+    # Unir los textos
     texto_respuesta = ""
 
     for chunk in chunks:
         texto_respuesta += f"{chunk.texto}\n"
-        
 
     return texto_respuesta
 
 
 # función privada para validar los parámetros
-def _validar_consulta(
+def recuperar_chunks(
     pregunta,
-    metodologia,
-    k,
-):
+    k):
+    """Obtiene los chunks más relevantes para una consulta.
+
+    Primero valida que la pregunta no esté vacía, luego crea el embedding de
+    la pregunta y finalmente consulta el VectorStore para recuperar los chunks
+    similares.
+
+    Args:
+        pregunta (str): Texto de la consulta del usuario.
+        k (int): Número de chunks a recuperar
+
+    Returns:
+        list: Lista de objetos chunk ordenados por relevancia.
+
+    Raises:
+        ValueError: Si la pregunta está vacía o contiene sólo espacios.
+    """
+
     if not pregunta.strip():
-        raise ValueError(...)
-
-    if not metodologia.strip():
-        raise ValueError(...)
-
+        raise ValueError("La pregunta no puede estar vacía.")
+    
     if k <= 0:
         raise ValueError(...)
 
@@ -59,10 +75,7 @@ def _validar_consulta(
 
     vector_store = VectorStore()
 
-    chunks = vector_store.buscar(
-        embedding,
-        metodologia,
-        k,
-    )
+    chunks = vector_store.buscar(embedding, k)
 
     return chunks
+
