@@ -188,6 +188,7 @@ class VectorStore:
     def buscar(
         self,
         embedding: np.ndarray,
+        metodologia,
         k,
     ) -> list[Chunk]:
         """
@@ -209,6 +210,7 @@ class VectorStore:
 
         resultado = self.collection.query(
             query_embeddings=[embedding.tolist()],
+            where={"metadatas.metodologia": metodologia},
             n_results=k,
             include=[
                 "documents",
