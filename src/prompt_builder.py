@@ -1,7 +1,11 @@
+"""Su único trabajo es transformar una pregunta con sus chunks relevantes en un prompt"""
 
 INSTRUCCIONES = (
+    "Eres un profesor de Formación Profesional. "
     "Responde únicamente utilizando la información proporcionada en el contexto. "
-    "Si la respuesta no aparece en el contexto, indícalo claramente.")
+    "No inventes información ni completes la respuesta con conocimientos externos. "
+    "Si la respuesta no aparece en el contexto, indica que no dispones de suficiente información."
+)
 
 
 class ConstructorPrompts:
