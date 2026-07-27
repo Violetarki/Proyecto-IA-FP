@@ -53,25 +53,27 @@ def _validar_consulta(
     pregunta,
     metodologia,
     k,
-)
+):
+    pass
+    
 
-if not pregunta.strip():
-    raise ValueError(...)
+    if not pregunta.strip():
+        raise ValueError(...)
 
-if not metodologia.strip():
-    raise ValueError(...)
+    if not metodologia.strip():
+        raise ValueError(...)
 
-if k <= 0:
-    raise ValueError(...)
+    if k <= 0:
+        raise ValueError(...)
 
-embedding = crear_embedding_texto(pregunta)
+    embedding = crear_embedding_texto(pregunta)
 
-vector_store = VectorStore()
+    vector_store = VectorStore()
 
-chunks = vector_store.buscar(
-    embedding,
-    metodologia,
-    k,
-)
+    chunks = vector_store.buscar(
+        embedding,
+        metodologia,
+        k,
+    )
 
-return chunks
+    return chunks
