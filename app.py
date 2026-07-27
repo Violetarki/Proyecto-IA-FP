@@ -24,6 +24,7 @@ from flask import (
 )
 from werkzeug.utils import secure_filename
 
+from src.indexador import indexar_documentos
 
 app = Flask(__name__)
 
@@ -513,10 +514,8 @@ def eliminar_documento():
 @login_requerido
 def reconstruir_base_vectorial():
     """
-    Muestra un mensaje provisional.
-
-    Más adelante esta ruta se conectará con el pipeline
-    de lectura, limpieza, chunking y vectorización.
+    Actualiza la base de conocimiento ejecutando
+    el proceso completo de indexación.
     """
 
     metodologia = request.form.get("metodologia")
@@ -535,13 +534,22 @@ def reconstruir_base_vectorial():
             url_for("gestionar_documentos")
         )
 
-    flash(
-        (
-            "La reconstrucción de la base vectorial "
-            "se implementará próximamente."
-        ),
-        "informacion",
-    )
+    try:
+        indexar_documentos()
+
+        flash(
+            "Base de conocimiento actualizada correctamente.",
+            "exito",
+        )
+
+    except Exception as error:
+        flash(
+            (
+                "No se ha podido actualizar la base "
+                f"de conocimiento: {error}"
+            ),
+            "error",
+        )
 
     return redirect(
         url_for(
@@ -549,7 +557,6 @@ def reconstruir_base_vectorial():
             metodologia=metodologia,
         )
     )
-
 
 if __name__ == "__main__":
     app.run(debug=True)
