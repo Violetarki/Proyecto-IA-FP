@@ -15,9 +15,9 @@ PABLO PEÑALVER ALONSO es profesor de Administración de Empresas en el IES Cons
 
 Coautor del libro "España Lean Startup 2015". Realiza ponencias y formación sobre Design Thinking y Lean Startup aplicados a Educación.
 
-3° PremioNacional en elaboracion de materiales curriculares en soporte informatico (2011), Mencion de Honor en Innovacion Educativa con "Aprendizaje Basado en Proyectos 2.0" (2011), y 3º Premio Nacional de Innovacion y Calidad en Formacion Profesional por "Emprender con Lean Startup" (2014).
+3° PremioNacional en elaboración de materiales curriculares en soporte informático (2011), Mención de Honor en Innovación Educativa con "Aprendizaje Basado en Proyectos 2.0" (2011), y 3º Premio Nacional de Innovación y Calidad en Formación Profesional por "Emprender con Lean Startup" (2014).
 
-UNETE A NUESTRO CANAL:
+ÚNETE A NUESTRO CANAL:
 www.telegram.me/pablopenalver
 
 30 dinámicas para profesores innovadores y generadores del cambio en el aula
@@ -28,12 +28,12 @@ ANNA CLEMENTS, Directora General y cofundadora de SOS Galgos.
 
 Anna fue profesora durante nueve años y formadora de profesores durante cuatro años .
 
-Durante años simultaneó su trabajo con charlas en colegios sobre la protección de animales, actividad que a dia de hoy sigue haciendo junto con la Policia Local de Esplugues. Dejó la ensenanza para dedicarse en cuerpo y alma a la proteccion de los galgos, aunque su formación como educadora es muy importante para conseguir uno de los objetivos de SOS Galgos: que las futuras generaciones sean más respetuosas con los animales.
+Durante años simultaneó su trabajo con charlas en colegios sobre la protección de animales, actividad que a dia de hoy sigue haciendo junto con la Policía Local de Esplugues. Dejó la enseñanza para dedicarse en cuerpo y alma a la protección de los galgos, aunque su formación como educadora es muy importante para conseguir uno de los objetivos de SOS Galgos: que las futuras generaciones sean más respetuosas con los animales.
 
 ## ÍNDICE
 
 | Prólogo por Nestor Guerra | 6 |
-| Reflexion previa | 9 |
+| Reflexión previa | 9 |
 | Modulo O. Justificación | 17 |
 | Modulo 1. Emprender | 41 |
 | Modulo 2. Idear | 65 |
@@ -41,7 +41,7 @@ Durante años simultaneó su trabajo con charlas en colegios sobre la protecció
 | Modulo 4. Prototipar | 119 |
 | Modulo 5. Validar | 144 |
 | Modulo 6. Comunicar | 157 |
-| Anexo I. Un ejemplo de Programación Didactica | 164 |
+| Anexo I. Un ejemplo de Programación Didáctica | 164 |
 | Agradecimientos | 181 |
 
 ## Prólogo por Néstor Guerra
@@ -50,7 +50,7 @@ Los emprendedores tenemos muchas virtudes, las cuales no podría describir breve
 
 Así que un emprendedor, en principio, no es alguien a quien deseas tener a tu lado, ni siquiera un poco cerca, porque ya sabemos que todo se pega menos la hermosura.
 
-Y por si todo esto no fuera suficiente, la inmortalidad de los planes de negocio parece no tener más que pequeños rasguños. Este implacable sistema de imaginar el futuro ha fomentado una espiral de locura otorgando una jerga de negocios al emprendedor, que astutamente ha aprendido a utilizar como envoltura aurea para todas aquellas iniciativas que por mucho esfuerzo que supusieran, como cuadrar el balance o el resultado de meses o años de sacrificio, se reducían al resultado más frecuente en una startup, que es el cero. Cero patatero, señoras y señores, ese es el resultado más probable en una startup por muy listos que nos creamos y por muy hábiles que podamos llegar a ser.
+Y por si todo esto no fuera suficiente, la inmortalidad de los planes de negocio parece no tener más que pequeños rasguños. Este implacable sistema de imaginar el futuro ha fomentado una espiral de locura otorgando una jerga de negocios al emprendedor, que astutamente ha aprendido a utilizar como envoltura áurea para todas aquellas iniciativas que por mucho esfuerzo que supusieran, como cuadrar el balance o el resultado de meses o años de sacrificio, se reducían al resultado más frecuente en una startup, que es el cero. Cero patatero, señoras y señores, ese es el resultado más probable en una startup por muy listos que nos creamos y por muy hábiles que podamos llegar a ser.
 
 Desde que el movimiento Lean Startup empezó su andadura han sido muchas las etiquetas, iniciativas y adaptaciones que este enfoque ha generado a lo largo y ancho del mundo académico y empresarial internacional. Pero somos nosotros, sois vosotros, los emprendedores los que más hemos ganado con esta mecánica basada en el método científico y la experimentación. Lean Startup nos ayuda a descubrir lo más importante, aquello que no sabíamos de nosotros, de nuestra idea, de nuestros clientes, del mundo en el que estamos o mucho mejor aún, de todo aquello que pensábamos que si sabíamos y que en realidad era mentira, demostrándonos que estábamos equivocados.
 
@@ -78,7 +78,7 @@ Porque por mucho que los emprendedores nos creamos nuestras mentiras, cuando apr
 
 ## Reflexión previa
 
-"La gente que dice que no se puede hacer, no debería de interrumoir a quienes lo están haciendo" -Thomas Edison
+"La gente que dice que no se puede hacer, no debería de interrumpir a quienes lo están haciendo" -Thomas Edison
 
 A vosotros y vosotras, que leéis amablemente:
 
@@ -105,7 +105,7 @@ Por todo ello, os propongo la visualización de cuatro infografías que son clav
    - b. Aprendizaje basado en retos. El curso no se compone de temas o unidades. Se compone de retos. Retos difíciles pero superables, que inciden de forma clave en la motivación del alumnado. Y todo ello, mediante aprendizaje cooperativo .
    - c. Design Thinking. El fomento de la creatividad y la generación de respuestas innovadoras a problemas actuales es uno de los ejes básicos del manual. Para ello nos apoyamos en una de las herramientas de innovación más usadas en la empresas, y la adaptamos a nuestro aula.
    - d. Lean Startup. El verdadero eje del curso, y de la secuencia de contenidos del manual. Constituye otra herramienta de innovación de las empresas, está muy ligada a Design Thinking, y supone una verdadera tendencia de la educación del futuro.
-   - e. Mobile Learning. Porque hoy en día no podemos entender la educación si no es conectada, líquida, en cualquier sitio o lugar. Y en este sentido, el uso de smartphone ofrece utilidad, motivación y realismo al proceso de enseñanzaaprendizaje.
+   - e. Mobile Learning. Porque hoy en día no podemos entender la educación si no es conectada, líquida, en cualquier sitio o lugar. Y en este sentido, el uso de smartphone ofrece utilidad, motivación y realismo al proceso de enseñanza-aprendizaje.
 
 3. Dinámicas de trabajo . En lugar de actividades o ejercicios, se proponen 30 dinámicas que constituyen la base de un programa de emprendimiento actual. Así:
    - a. Las dinámicas siguen una secuencia que se ajusta a las pautas de todo proceso educativo .
@@ -129,11 +129,11 @@ Pablo Peñalver @ppenalvera
 
 - Secuencia del aprendizaje: partir de lo general, pasar al detalle, y finalizar con una síntesis
 
-- Niveles de conocimiento: Previos, Internet, Observaión, Entrevistas, COntraste hipóstesis
+- Niveles de conocimiento: Previos, Internet, Observación, Entrevistas, COntraste hipótesis
 
 - Programación: Comenzar con actividades sencillas, e ir incrementando el nivel de dificultad
 
-- Niveles edicativos: Primaria, Secundaria, Bachillerato, FP
+- Niveles educativos: Primaria, Secundaria, Bachillerato, FP
 
 - Profesor mentor: Guía, orienta, aconseja en el proceso de enseñanza-aprendizaje
 
@@ -153,7 +153,7 @@ Pablo Peñalver @ppenalvera
 
 - Contenidos: son un instrumento de trabajo
 
-## METODOLOGIA
+## METODOLOGÍA
 
 1. Learning by doing: aprender haciendo
 2. Aprendizaje B. retos: aprendizaje cooperativo
@@ -164,14 +164,14 @@ Pablo Peñalver @ppenalvera
 ## 30 DINÁMICAS basadas en las 4Cs
 
 - CREATIVIDAD
-- COMUNICACION
-- COOPERACION
+- COMUNICACIÓN
+- COOPERACIÓN
 - CONFIANZA
 
 1. Debates con vídeos e infografías
 2. Selfie emprendedor
 3. Test emprendedor
-4. Presentacion
+4. Presentación
 5. Startups
 6. Reto de los 5 euros
 7. Contrato de aprendizaje
@@ -180,7 +180,7 @@ Pablo Peñalver @ppenalvera
 10. Brainstorming
 11. Cardsorting
 12. Maduración de ideas
-13. Eleccion idea
+13. Elección idea
 14. La historia
 15. El prototipo
 16. Feedback y retoque I
@@ -189,13 +189,13 @@ Pablo Peñalver @ppenalvera
 19. Matriz DAFO
 20. Mapa de empatía
 21. Cuadro estratégico
-22. Vías de exploracion
+22. Vías de exploración
 23. Matriz ERIC
 24. Estrategia competitiva
 25. Lienzo de la propuesta de valor
 26. Lienzo del modelo de negocios
-27. Producto minimo viable
-28. Entrevista cliente-problema-solucion
+27. Producto mínimo viable
+28. Entrevista cliente-problema-solución
 29. Test A/B
 30. Foro de Inversión Creativo
 
@@ -203,21 +203,21 @@ Pablo Peñalver @ppenalvera
 
 Autor: Pablo Peñalver
 
-Son muchas las cuestiones que se van a tratar en los proximos modulos que componen este libro. Por eso, pienso que es necesario establecer una serie de recomendaciones que ayudaran a interpretar los contenidos o propuestas de mejor forma.
+Son muchas las cuestiones que se van a tratar en los próximos módulos que componen este libro. Por eso, pienso que es necesario establecer una serie de recomendaciones que ayudaran a interpretar los contenidos o propuestas de mejor forma.
 
 Recomendaciones para aplicar Lean Startup en el aula
 
-1. ¡Lánzate!, pero con paracaidas: Se recomienda no poner en marcha toda la propuesta al 100% el primer curso. Empezar primero con aquellas cuestiones con las que se trabaje con mas seguridad, e ir profundizando curso a curso.
+1. ¡Lánzate!, pero con paracaídas: Se recomienda no poner en marcha toda la propuesta al 100% el primer curso. Empezar primero con aquellas cuestiones con las que se trabaje con mas seguridad, e ir profundizando curso a curso.
 
-2. No hay formulas secretas: La propuesta que presento refleja la experiencia de aula de 4 años. En el manual se ofrecen aquellas dinamicas que ofrecen buenos resultados.
+2. No hay formulas secretas: La propuesta que presento refleja la experiencia de aula de 4 años. En el manual se ofrecen aquellas dinámicas que ofrecen buenos resultados.
 
-3. Interioriza el proceso Lean: Creo que lo verdaderamente util del libro es el proceso llevado a cabo para su redaccion. Han sido muchos los docentes, y sobre todo, los mas innovadores, los que me han aportado su valioso punto de vista para redactar este manual. Te aconsejo seguir ese proceso con tu experiencia en aula.
+3. Interioriza el proceso Lean: Creo que lo verdaderamente util del libro es el proceso llevado a cabo para su redacción. Han sido muchos los docentes, y sobre todo, los mas innovadores, los que me han aportado su valioso punto de vista para redactar este manual. Te aconsejo seguir ese proceso con tu experiencia en aula.
 
 4. Mentalidad en beta permanente: Recomiendo llevar a la practica las actividades que mas te gusten y probar. Al final, cada maestrillo tiene su librillo.
 
-5. Pasar a la accion: En el fondo, si lees este manual, te estoy invitando para pasar a la accion, para cambiar la metodologiay hacer del proceso educativo una experiencia memorable para el alumnado.
+5. Pasar a la acción: En el fondo, si lees este manual, te estoy invitando para pasar a la acción, para cambiar la metodología y hacer del proceso educativo una experiencia memorable para el alumnado.
 
-6. y se flexible: Debes tener claro lo que quieres conseguir. No hay que obsesionarse con las dinamicas, sino trabajar las que se consideren adecuadas para el objetivo final.
+6. y se flexible: Debes tener claro lo que quieres conseguir. No hay que obsesionarse con las dinámicas, sino trabajar las que se consideren adecuadas para el objetivo final.
 
 ## Twitter dice: (ver manual p.16)
 
@@ -260,11 +260,11 @@ Nuestro sistema educativo, como he citado anteriormente, no es ajeno al protagon
 Autor: @ppenalvera
 
 - Lingüística: Uso de la lengua, expresar ideas e interactuar con otras personas
-- Matemática, ciencia y tecnologia: Razonamiento matemático, metodologia científica y competencia tecnológica
+- Matemática, ciencia y tecnología: Razonamiento matemático, metodología científica y competencia tecnológica
 - Digital: Uso seguro y crítico de las TIC
 - Aprender a aprender: Capacidad de iniciar su propio aprendizaje
 - Conciencia y expresiones culturales: Apreciar la importancia de la expresión a través de la música, artes plásticas o literatura
-- Sociales y civicas: Capacidad de relación y participación activa
+- Sociales y cívicas: Capacidad de relación y participación activa
 - Iniciativa y espíritu emprendedor:
   - 1. En el centro de las competencias clave, recogiendo y sintetizando las demás
   - 2. Implica las habilidades necesarias para convertir las ideas en actos, como la creatividad o las capacidades para asumir riesgos y planificar y gestionar proyectos.
@@ -323,7 +323,7 @@ La caja de herramientas de todo alumno/a emprendedor/a
 
 1. 1C Creatividad: Todos somo creativos. Solo hace falta aprender a ser creativo. Sin miedo, Educación integral, Crecimiento personal
 2. 2C Comunicación: Una limitación a nivel comunicativo implica limitación a nivel personal y profesional. Formas de comunicación, Medios de comunicación, Práctica
-3. 3C Cooperación: Emprender se hace en grupo. El trabajo del futuro derá por proyectos. Normas comunes, Formas de trabajo, Realización de tareas
+3. 3C Cooperación: Emprender se hace en grupo. El trabajo del futuro será por proyectos. Normas comunes, Formas de trabajo, Realización de tareas
 4. 4C Confianza: Pilar básico de la vida social moderna. Agente socializador, relaciones interpersonales, Experiencias memorables
 
 www.pablopenalver.com
@@ -378,7 +378,7 @@ Metodologías activas y ágiles
 - Titulación
 - Emplearse
 - Futuro profesional
-- Desmotivación
+- desmotivación
 - Pasividad
 - Alejado de la realidad
 
@@ -392,7 +392,7 @@ Metodologías activas y ágiles
 - Cooperación
 - Confianza
 
-La mayoría de los alumnos mejoran. Abordar las clases de emprendimiento mediante LeanStartup cambia la metodología didáctica, y este hecho supone una mejora del rendimento e implicación del alumnado.
+La mayoría de los alumnos mejoran. Abordar las clases de emprendimiento mediante LeanStartup cambia la metodología didáctica, y este hecho supone una mejora del rendimiento e implicación del alumnado.
 
 1. El problema
 2. El reto
@@ -406,10 +406,10 @@ El esquema básico explicado se puede representar mediante la siguiente infograf
 
 ## ELS2015
 
-ESO, Bachillerato y Formacion Profesional
+ESO, Bachillerato y Formación Profesional
 Pablo Peñalver Alonso -@ppenalvera
 
-### Ejes basicos
+### Ejes básicos
 
 Habilidades
 
@@ -421,23 +421,23 @@ Habilidades
 ### Habilidades
 
 - Creatividad
-- Comunicacion
+- Comunicación
 - Cooperacion
 - Confianza
 
-- Educación Líquida- Multicanal
+- Educación Líquida - Multicanal
 - Enseñanza Individualizada - Infoxicación
 - Formación Flexible - Aprendizaje mixto y ubicuo
 
 ### ELS España Lean Startup
 
 1. Inicio del curso
-2. EMPRENDER: Cualidades, Selfie, Autoevaluacion, Presentacion, Startups
-3. IDEAR: Idea de negocio, Storytelling, Debate, Prototipo basico, Entrevista, Validacion inicial
-4. CONTEXTUALIZAR: Analisis DAFO, Mapa empatia, Oceanos azules
+2. EMPRENDER: Cualidades, Selfie, Autoevaluación, Presentación, Startups
+3. IDEAR: Idea de negocio, Storytelling, Debate, Prototipo básico, Entrevista, Validación inicial
+4. CONTEXTUALIZAR: Análisis DAFO, Mapa empatía, Océanos azules
 5. PROTOTIPAR: Lienzo propuesta de valor, Lienzo modelo negocios, PMV
-6. VALIDAR: Entrevista C-P-S, Analisis, Perseverar, Pivotar
-7. COMUNICAR: Competicion, Foro de inversion, Elevator Pitch
+6. VALIDAR: Entrevista C-P-S, Análisis, Perseverar, Pivotar
+7. COMUNICAR: Competición, Foro de inversion, Elevator Pitch
 8. Final de curso
 
 ## 4. EMPRENDER
@@ -467,19 +467,19 @@ A continuación se muestra una infografía donde se visualiza el trabajo a reali
 
 El primer reto de todo alumno emprendedor
 
-1. EL EMPRENDEDOR - TEORIA
+1. EL EMPRENDEDOR - TEORÍA
    - Concepto
    - Cualidades
-   - Casos de exito
+   - Casos de éxito
 
-- EN ESPECIAL: Ampliacion de contenidos
+- EN ESPECIAL: Ampliación de contenidos
   - Tipos de emprendedor
   - Emprendedor social
   - Competencias directivas
 
-- 7 SECRETOS: Emprendedor de exito
+- 7 SECRETOS: Emprendedor de éxito
   - Elige
-  - Pasion
+  - Pasión
   - Talento
   - Innova
   - Dar para recibir
@@ -492,24 +492,24 @@ El primer reto de todo alumno emprendedor
    - Aspectos + y -
    - Consejo
 
-3. AUTOEVALUACION - OBJETIVO
+3. AUTOEVALUACIÓN - OBJETIVO
    - Confebask
    - Ceaje
    - Ipyme
 
-4. PRESENTACION - SUBJETIVO
-   - Exposicion
+4. PRESENTACIÓN - SUBJETIVO
+   - Exposición
    - Mercado de emprendedores
 
 5. STARTUPS - ACELERADORA
 
 - El aula se convierte en una aceleradora de startups
 
-6. RET0 DE L0S 5€ - SINTESIS DEL CURSO
+6. RET0 DE L0S 5€ - SÍNTESIS DEL CURSO
 
-- Creatividad, comunicacion, cooperacion y confianza desde el primer dia
+- Creatividad, comunicación, cooperación y confianza desde el primer dia
 
-### Formacion de startups
+### Formación de startups
 
 Grupo-clase --> Grupos de trabajo
 
@@ -583,10 +583,10 @@ Por @ppenalvera
 (libro p.34)
 
 1. Fase inicial: ¿Qué sabemos del problema/necesidad?
-2. Analisis DAFO: Analisis del entorno lejano y su comparativa con nuestra startup: debilidades, fortalezas, oportunidades y amenazas
-3. Mapa de empatía: Analisis onjetivo y subjetvo de nuestro cliente, Un dia en la vida del cliente, Customer Journey map
-4. Estrategias de OCeanos Azules: Feria visual estrategica, Vias de exploración, Matriz ERIC, Foco, divergencia y mensaje contundente
-5. Secuencia estrategica correcta: Propuesta de valor excepcional, Precio a pagar, Costes < precio, Prototipo
+2. Análisis DAFO: Análisis del entorno lejano y su comparativa con nuestra startup: debilidades, fortalezas, oportunidades y amenazas
+3. Mapa de empatía: Análisis objetivo y subjetivo de nuestro cliente, Un dia en la vida del cliente, Customer Journey map
+4. Estrategias de Océanos Azules: Feria visual estratégica, Vias de exploración, Matriz ERIC, Foco, divergencia y mensaje contundente
+5. Secuencia estratégica correcta: Propuesta de valor excepcional, Precio a pagar, Costes < precio, Prototipo
 6. A prototipar
 
 Fuente: www.pablopenalver.com
@@ -613,7 +613,7 @@ Tras la fase anterior, pasamos a un nuevo reto, en el que damos forma a nuestro 
      - ii. Impresión en 3D
      - iii. Lego
      - iv. Power Point
-     - v. Customer Jorney Map
+     - v. Customer Journey Map
      - vi. Storyboard
      - vii. Vídeo
      - viii. Infografía
@@ -640,7 +640,7 @@ Fidelidad: Baja, Media, Alta
    - Fuentes de ingresos
    - Actividades, recursos, socios clave y estructura de costes
 
-3. PMV - Producto minimo viable
+3. PMV - Producto mínimo viable
    - Iterar
    - Técnicas:
      1. Papel y cartón
@@ -650,11 +650,11 @@ Fidelidad: Baja, Media, Alta
      5. Customer Journey Map
      6. Storyboard
      7. Video
-     8. Infografia
+     8. Infografía
      9. Roleplaying
      10. Web + app
    - Pasos:
-     1. Hipotesis a comprobar
+     1. Hipótesis a comprobar
      2. Métricas
      3. Aprender
      4. Con Early Adopters
@@ -689,15 +689,15 @@ Customer Segments
 
 1. Entrevista de problema
    1. Bienvenida
-   2. Datos demograficos
+   2. Datos demográficos
    3. Identificar el problema
    4. Ranking de problemas
-   5. Especificacion problemas
+   5. Especificación problemas
    6. Nuestro pitch
    7. Compromiso
 
 Encaje Problema-solución
-Value propositions 2. Entrevista de solución 1. Bienvenida 2. Datos demograficos 3. Relevancia del problema 4. Prototipo 5. Compromiso
+Value propositions 2. Entrevista de solución 1. Bienvenida 2. Datos demográficos 3. Relevancia del problema 4. Prototipo 5. Compromiso
 
 Encaje Producto-Mercado
 Customer Relationships 3. La venta 1. Venta (con descuento) 2. Depósito 3. Carta de intenciones
@@ -752,7 +752,7 @@ Por último, y como hemos hecho en epígrafes anteriores, veamos este esquema me
 8. Ahora: como captar clientes: Previsiones de como va a evolucionar el negocio con las variables dadas
 9. Relaciones con clientes: Como captar, fidelizar y aumentar ventas:
    - Motor del modelo de negocio
-     1. Coste de adquisisción de clientes
+     1. Coste de adquisición de clientes
      2. Valor del ciclo de vida del cliente
 10. Pasamos a la práctica
 11. Tracción: resultados de la validación de la idea con clientes potenciales
@@ -787,8 +787,8 @@ Fuente: www.pablopenalver.com
 5. Evaluación del emprendedor
 6. De interés: la taxonomía de Bloom
 7. Aplicaciones de escritorio
-   1. Autoveluación como emprendedor: Confebask
-   2. Autoveluación como emprendedor: DGPYME
+   1. Autoevaluación como emprendedor: Confebask
+   2. Autoevaluación como emprendedor: DGPYME
    3. Tablero online: Padlet
    4. Mapa conceptual: Mindomo
    5. Presentaciones: Emaze y Haiku Deck
@@ -878,11 +878,11 @@ Es muy interesante abordar el concepto de emprendedor social en el aula. Y son m
 
 El emprendedor social no es alguien que impulsa un proyecto en una red social, o el líder de un movimiento ciudadano, o el fundador de una ONG, o un empresario que hace donaciones a causas sociales.
 
-El emprendedor social es emprendedor, pero que resuleve un problema muy concreto: un problema social. Las personas a las que beneficia con su gestión, son sus cuentas de resultados. Suma oportunidad de negocio y oportunidad de progreso social. Hombre o mujer con una visión movilizadora, que quiere crear valor para los que le rodean con esfuerzo, ingenio y tenacidad.
+El emprendedor social es emprendedor, pero que resuelve un problema muy concreto: un problema social. Las personas a las que beneficia con su gestión, son sus cuentas de resultados. Suma oportunidad de negocio y oportunidad de progreso social. Hombre o mujer con una visión movilizadora, que quiere crear valor para los que le rodean con esfuerzo, ingenio y tenacidad.
 
 Fuente: YouTube - BBVA Banca responsable
 
-Las notas básicas de un emprendendedor social son:
+Las notas básicas de un emprendedor social son:
 
 - Un emprendimiento social tiene que ser rentable para poder existir, porque no puede vivir de subvenciones.
 - Un emprendimiento tradicional tiene una cuenta de resultados. Uno social tiene dos: económica y social.
@@ -917,8 +917,8 @@ Muchas ideas hoy en día nacen del enfoque de ayudar a alguien, pero sin perder 
 
 ### Puntos clave :
 
-1. Quiénes son: empleados, consumidores, clientes, gobiernos. Mapéalos .
-2. Quiénes son prioritarios: quiénes son los más importantes. Priorízalos .
+1. Quiénes son: empleados, consumidores, clientes, gobiernos. Mapéalos.
+2. Quiénes son prioritarios: quiénes son los más importantes. Priorízalos.
 3. Expectativas de cada uno de ellos: qué espera de nosotros cada uno de ellos.
 4. Genera una expectativa/propuesta de valor para cada uno de ellos, algo que les quieras transmitir, vender, y que satisfaga sus expectativas.
 5. Generarás valor socio-empresarial : beneficio para tí, y riqueza para los demás.
@@ -1181,7 +1181,7 @@ En materia de fotografía os sugiero tres apps, y os facilito la información qu
 
 ### 8.2. CREACIÓN DE COLLAGES: PHOTO GRID
 
-En materia de collages hay muchas apps, si bien, a mi me gusta mucho PhtoGrid. Las características de la misma son:
+En materia de collages hay muchas apps, si bien, a mi me gusta mucho PhotoGrid. Las características de la misma son:
 
 - Es el creador de collages fotográficos más popular.
 - Puedes combinar fotos normales en un interesante collage para compartir y decorar tus imágenes aplicando fantásticos filtros y agregando adhesivos y textos.
@@ -1246,7 +1246,7 @@ En materia de sonido puede resultar muy interesante dejar evidencia del trabajo 
    4. Preparar una entrevista
    5. Validación inicial
 5. Aplicaciones de escritorio
-   1. Muarles: Murally
+   1. Murales: Murally
    2. Líneas del tiempo: Dipity
    3. Presentaciones dinámicas y colaborativas: Prezi
    4. Ofimática online y disco duro virtual: Google Drive
@@ -1448,7 +1448,7 @@ Para ello se establecen, al menos, los siguientes aspectos a conocer de cada ide
 
 - Descripción detallada de la actividad , teniendo en cuenta la información que se tiene al comienzo del proyecto. Esta descripción variará en mayor o menor medida según avance el estudio del proyecto.
 - Problemas que resuelve la idea tal y como está planteada, ya sea en la zona, ya sea a nivel empresarial.
-- Tipo de necesidades de cubre. Es importante conocer la Teoría de Maslow , en cuanto a la jerarquía de necesidades que establece.
+- Tipo de necesidades de cubre. Es importante conocer la Teoría de Maslow, en cuanto a la jerarquía de necesidades que establece.
 - Mercado al que va dirigida. Nos referimos al tipo de cliente que consumirá el producto.
 - Posible prototipo . También se pueden pensar diferentes y posibles prototipos de la idea de negocio.
 - Inversión aproximada.
@@ -1539,7 +1539,7 @@ A continuación, debemos haceros preguntas sobre la idea/problema elegida/o usan
 
 "La inspiración existe, pero tiene que encontrarte trabajando"
 
-www.pablopenañver.com
+www.pablopenalver.com
 
 ## 4.2. CREAR HISTORIAS: EL STORYTELLING
 
@@ -1781,7 +1781,7 @@ Para ello vamos a usar varias herramientas. La primera de ellas es el análisis 
 
 ## 2. EL ENTORNO GENERAL O LEJANO
 
-El Análisis DAFO (en inglés, SWOT -Strengths, Weaknesses, Opportunities, Threats ), también conocido como Análisis FODA , es una metodología de estudio de la situación competitiva de una empresa en su mercado (situación externa) y de las características internas (situación interna) de la misma, a efectos de determinar sus D ebilidades, A menazas, F ortalezas y O portunidades.
+El Análisis DAFO (en inglés, SWOT -Strengths, Weaknesses, Opportunities, Threats ), también conocido como Análisis FODA, es una metodología de estudio de la situación competitiva de una empresa en su mercado (situación externa) y de las características internas (situación interna) de la misma, a efectos de determinar sus Debilidades, Amenazas, Fortalezas y Oportunidades.
 
 La situación interna se compone de dos factores controlables: fortalezas y debilidades, mientras que la situación externa se compone de dos factores no controlables: oportunidades y amenazas.
 
@@ -1964,7 +1964,7 @@ Pasos para realizar un mapa de empatía :
 
 En el apartado anterior hemos visto el concepto genérico de mapa de empatía. Ahora lo vamos a aplicar a nuestro cliente.
 
-Cualquiera que observe un modelo de negocio debe diseñar el perfil del segmento de clientes al que éste está dirigido. Una herramienta muy útil es el denominado mapa de empatía (empathy map), una herramienta desarrollada por XPLANE , una empresa especializada en el visual thinking.
+Cualquiera que observe un modelo de negocio debe diseñar el perfil del segmento de clientes al que éste está dirigido. Una herramienta muy útil es el denominado mapa de empatía (empathy map), una herramienta desarrollada por XPLANE, una empresa especializada en el visual thinking.
 
 Esta herramienta nos ayuda a profundizar en el segmento de clientes deseado más allá de ciertas características demográficas y nos permite centrarnos en su entorno, su comportamiento, preocupaciones y aspiraciones.
 
@@ -2061,7 +2061,7 @@ Se compone de dos ejes :
 1. El eje horizontal refleja la gama de variables en las cuales invierte la industria y alrededor de las cuales gira la competencia. Responde a la pregunta ¿qué aspectos valora el cliente?
 2. En el eje vertical se refleja el nivel de lo que se ofrece a los compradores en lo relacionado con todas las variables clave de la competencia. Una puntuación elevada significa que una compañía ofrece más a los compradores y, por consiguiente, invierte más en la variable en cuestión. Responde a la pregunta, ¿qué nivel de valor obtiene de cada competidor?
 
-Por otra parte, la curva de valor es el componente básico del cuadro estratégico y constituye una representación grafica del desempeño relativo de una compañía en lo referente a las variables de la competencia en su industria.
+Por otra parte, la curva de valor es el componente básico del cuadro estratégico y constituye una representación gráfica del desempeño relativo de una compañía en lo referente a las variables de la competencia en su industria.
 
 Podemos concluir que sirve de poco lanzarse en una trayectoria de crecimiento fuerte y rentable si toma como referencia comparativa sus competidores y trata de vencerlos ofreciendo un poco mas por un poco menos. Tampoco se llega al océano azul con investigaciones exhaustivas del mercado. Los clientes tienden a pensar en lo que ya conocen y a pedir más por menos. Y por lo general desean más de las mismas características que la industria ofrece actualmente en sus productos y servicios.
 
@@ -2182,7 +2182,7 @@ El doble análisis debe ser exhaustivo, porque el resultado final debe dar una e
 
 - EVALUACIÓN: en esta actividad podemos comprobar cómo el grupo va consolidando la dinámica de trabajo, la organización y el trabajo en equipo . Esta tarea exige una motivación adicional por la dureza de su realización.
 
-## ACTIVIDAD NÚMERO 24. ESTRETAGIA COMPETITIVA
+## ACTIVIDAD NÚMERO 24. ESTRATEGIA COMPETITIVA
 
 - DEFINICIÓN: A continuación pasamos a construir de nuevo el cuadro estratégico, pero ahora, además de trazar la curva estratégica de la competencia, pasaremos a trazar también la definida a través de la matriz ERIC.
 
@@ -2567,7 +2567,7 @@ Los recursos económicos se refieren a qué vamos a hacer para poner en marcha n
 1. A nivel más básico:
    1. Fondos propios, o de amigos o familiares.
    2. Financiación colectiva o micromecenazgo o Crowdfunding.
-   3. Busines Angels (Asociación de Business Angels, Directorio de Business Angels y Red de Business Angels de CLM) e incubadoras de negocios.
+   3. Business Angels (Asociación de Business Angels, Directorio de Business Angels y Red de Business Angels de CLM) e incubadoras de negocios.
 2. Si pensamos además en crecer, conseguir, conservar y aumentar clientes: otras necesidades de capital que precisemos más adelante: compañías de capital riesgo (regulación) o socios empresariales.
 3. Una vez que la empresa está operativa, hay otras posibilidades: préstamo, crédito, leasing, renting, factoring, pago aplazado, etc.
 
@@ -2656,7 +2656,7 @@ Podemos establecer una serie de principios sobre prototipado, y lo haremos sigui
 9. El primer prototipo va a ser gratis, así que tranquilo
 10. Trata de terminar tu primer prototipo en un día y con menos de 100 euros
 
-A continuación os ofrezco un link que explica un ejemplo concreto sobre cómo hacer un PMV: Ponencia ' Si llega la inspiración, que te pille prototipando', por Belén Rodríguez de Alba de Mimuso, de FUNDACION CTIC.
+A continuación os ofrezco un link que explica un ejemplo concreto sobre cómo hacer un PMV: Ponencia 'Si llega la inspiración, que te pille prototipando', por Belén Rodríguez de Alba de Mimuso, de FUNDACIÓN CTIC.
 
 Para hacer el PMV, tenemos varias técnicas de prototipado que podemos establecer en la lista siguiente:
 
@@ -2741,7 +2741,7 @@ Con POP puedes dibujar tu prototipo de app en papel. Posteriormente la aplicaci�
 - Tome fotografías y relaciónelas entre sí.
 - ¡A jugar y obtener retroalimentación!
 
-### 6.3. MAPAS MENSTALES: MINDMEISTER
+### 6.3. MAPAS MENTALES: MINDMEISTER
 
 Con MindMeister puedes crear y compartir mapas mentales fácilmente, siendo una de las herramientas de visualización de datos y mapas mentales líder en el mercado.
 
@@ -2869,7 +2869,7 @@ En el caso de tratarse de una entrevista de solución se proponen las siguientes
 - Prototipo: enseña tu prototipo aunque sea en papel y pregunta cómo podría este prototipo ayudar a solucionar el problema
 - Compromiso. Al igual que en el otro tipo de entrevistas, pide los datos y permiso para volver a llamar al entrevistado en el futuro.
 
-## ACTIVIDAD NÚMERO 28. ENTREVISTA CLIENTE-PROBLEMASOLUCIÓN
+## ACTIVIDAD NÚMERO 28. ENTREVISTA CLIENTE-PROBLEMA-SOLUCIÓN
 
 - DEFINICIÓN: Esta dinámica trata de validar las hipótesis clave establecidas para nuestro segmentos de clientes.
 
@@ -3055,13 +3055,13 @@ En este módulo se propone el uso de las siguientes apps:
 
 Periscope te permite transmitir video en directo a todo el mundo. Al salir al aire se notificará de inmediato a tus seguidores, que pueden unirse, comentar y enviarte corazones en tiempo real. Cuantos más corazones recibas, más alto revolotearán en la pantalla.
 
-### 5.2. CRONÓMETO CUENTA REGRESIVA
+### 5.2. CRONÓMETRO CUENTA REGRESIVA
 
 Hybrid Stopwatch and Timer es una aplicación sencilla, precisa y fácil de usar para android que te ayudará a medir el tiempo en cualquier situación, como en deportes , cocina, juegos , educación, etc.
 
 Puedes iniciar y detener el cronómetro pulsando el botón central; podrás ver el tiempo transcurrido en la pantalla digital ubicado en la zona superior y también en la vista analógica. Para marcar una vuelta presiona el botón izquierdo, se agregará una aguja en el cronómetro analógico indicando, para reiniciar el cronometro presiona el botón derecho. Los botones están situados de tal forma que sólo es necesario una mano para controlar el cronómetro.
 
-# ANÉXO I: PROGRAMACIÓN DIDÁCTICA
+# ANEXO I: PROGRAMACIÓN DIDÁCTICA
 
 ## ÍNDICE
 
@@ -3565,21 +3565,21 @@ Mago More
 ConfeBask
 Emprendedores
 BBVA Banca Responsable
-Fundacion CTIC
+Fundación CTIC
 Mimuso
 
 - GRACIAS ESPECIALES
 
-"A LOS PROFESORES DE FOL, ECONOMIA y ADMINISTRACION DE EMPRESAS Y ALUMNOS QUE TANTO ME HAN ENSEÑADO"
+"A LOS PROFESORES DE FOL, ECONOMÍA y ADMINISTRACION DE EMPRESAS Y ALUMNOS QUE TANTO ME HAN ENSEÑADO"
 
 - NO OLVIDAR
 
-PROVERVIO HOLANDES
+PROVERBIO HOLANDÉS
 
 "Cuando soplan los vientos de tempestad, unos corren a refugiarse... y otros construyen molinos"
 
 www.pablopenalver.com
 
-UNETE A NUESTRO CANAL:
+ÚNETE A NUESTRO CANAL:
 
 www.telegram.me/pablopenalver
