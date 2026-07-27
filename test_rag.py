@@ -4,31 +4,39 @@ from src.prompt_builder import ConstructorPrompts
 
 def main():
 
-    pregunta = input("Pregunta: ")
+    retriever = Retriever()
+    prompt_builder = ConstructorPrompts()
 
     metodologia = "lean_startup"
 
-    retriever = Retriever()
+    pregunta = input("Pregunta: ")
 
     chunks = retriever.recuperar_contexto(
         pregunta=pregunta,
         metodologia=metodologia,
+        k=5,
     )
 
-    print(f"\nSe han recuperado {len(chunks)} chunks.\n")
+    print(f"\nSe han recuperado {len(chunks)} chunks.")
 
-    for i, (chunk, distancia) in enumerate(zip(chunks, distancias), start=1):
+    if not chunks:
+        print("No se ha encontrado contexto relevante.")
+        return
+
+    for i, chunk in enumerate(chunks, start=1):
+
         print(f"\n----- Chunk {i} -----")
-        print(f"Distancia: {distancia:.3f}")
         print(f"Título: {chunk.titulo}")
         print(f"Subtítulo: {chunk.subtitulo}")
-        print(chunk.texto[:250])
+        print(chunk.texto[:300])
+        print("...")
 
-    prompt = ConstructorPrompts().construir_prompt(
-        pregunta,
-        chunks,
+    prompt = prompt_builder.construir_prompt(
+        pregunta=pregunta,
+        chunks=chunks,
     )
 
+    print("\n")
     print("=" * 80)
     print("PROMPT GENERADO")
     print("=" * 80)

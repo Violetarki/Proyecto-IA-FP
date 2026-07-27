@@ -20,7 +20,7 @@ import chromadb
 import numpy as np
 from pathlib import Path
 from src.models import Chunk, Documento, Metodologia
-from src.config import CARPETA_VECTOR_STORE
+from src.config import CARPETA_VECTOR_STORE, UMBRAL_DISTANCIA
 
 class VectorStore:
     """
@@ -223,25 +223,38 @@ class VectorStore:
                 "distances",
             ],
         )
-
+        
         distancias = resultado["distances"][0]
         documentos = resultado["documents"][0]
         metadatos = resultado["metadatas"][0]
         
-        for distancia in distancias:
-            print(distancia)
+        # Temporal para depuración
+        print("\nDistancias obtenidas:")
+        for i, (distancia, metadata) in enumerate(
+            zip(distancias, metadatos),
+            start=1,
+        ):
+            print(
+                f"Chunk {i}: {distancia:.3f} - "
+                f"{metadata.get('titulo')} > {metadata.get('subtitulo')}"
+            )
+        
+        chunks = []
+        
+        for texto, metadata, distancia in zip(
+            documentos,
+            metadatos,
+            distancias,
+        ):
+            if distancia <= UMBRAL_DISTANCIA:
+                chunks.append(
+                    self._chunk_desde_resultado(
+                        texto,
+                        metadata,
+                    )
+                )
 
-        return [
-            self._chunk_desde_resultado(
-                texto,
-                metadata,
-            )
-            
-            for texto, metadata in zip(
-                documentos,
-                metadatos,  
-            )
-        ]
+        return chunks
 
     def eliminar_documento(
         self,
