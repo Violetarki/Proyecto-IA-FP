@@ -15,6 +15,7 @@ Este módulo desacopla el chatbot del sistema de almacenamiento vectorial.
 
 from src.embeddings import crear_embedding_texto
 from src.vector_store import VectorStore
+from src.models import Chunk
 
 
 class Retriever:
@@ -29,7 +30,7 @@ class Retriever:
     def recuperar_contexto(self,
         pregunta,
         metodologia,
-        k=5,) -> str:
+        k=5,) -> list[Chunk]:
         """Recupera el contexto relevante para una pregunta dada.
 
         Esta función genera el embedding de la pregunta, consulta el almacén
@@ -45,13 +46,8 @@ class Retriever:
 
         chunks = self.recuperar_chunks(pregunta,metodologia, k)
 
-        # Unir los textos
-        texto_respuesta = ""
 
-        for chunk in chunks:
-            texto_respuesta += f"{chunk.texto}\n"
-
-        return texto_respuesta
+        return chunks
 
 
     # función privada para validar los parámetros
