@@ -20,7 +20,7 @@ import chromadb
 import numpy as np
 from pathlib import Path
 from src.core.models import Chunk, Documento, Metodologia
-from src.core.config import CARPETA_VECTOR_STORE, UMBRAL_DISTANCIA
+from src.core.config import CARPETA_VECTOR_STORE, K_BUSQUEDA, UMBRAL_ACEPTABLE, UMBRAL_BUENO, UMBRAL_EXCELENTE, MINIMO_CHUNKS, MAXIMO_CHUNKS
 
 class VectorStore:
     """
@@ -185,11 +185,59 @@ class VectorStore:
             metadatas=metadatos,
         )
 
+    def _filtrar_chunks(
+        self,
+        documentos,
+        metadatos,
+        distancias,
+    ):
+        resultados = []
+
+        for texto, metadata, distancia in zip(
+            documentos,
+            metadatos,
+            distancias
+        ):
+
+            resultados.append(
+                (
+                    self._chunk_desde_resultado(
+                        texto,
+                        metadata,
+                    ),
+                    distancia,
+                )
+            )
+
+        excelentes = [
+            chunk
+            for chunk, distancia in resultados
+            if distancia <= UMBRAL_EXCELENTE
+        ]
+
+        if len(excelentes) >= MINIMO_CHUNKS:
+            return excelentes[:MAXIMO_CHUNKS]
+
+        buenos = [
+            chunk for chunk, distancia in resultados if distancia <= UMBRAL_BUENO
+        ]
+
+        if len(buenos) >= MINIMO_CHUNKS:
+            return buenos[:MAXIMO_CHUNKS]
+
+        aceptables = [
+            chunk
+            for chunk, distancia in resultados
+            if distancia <= UMBRAL_ACEPTABLE
+        ]
+
+        return aceptables[:MAXIMO_CHUNKS]
+
     def buscar(
         self,
         embedding: np.ndarray,
         metodologia: str,
-        k: int = 5,
+        k: int = K_BUSQUEDA,
     ) -> list[Chunk]:
         """
         Recupera los chunks más similares a un embedding.
@@ -207,7 +255,7 @@ class VectorStore:
 
         if k <= 0:
             raise ValueError("El número de resultados debe ser mayor que cero.")
-        
+
         # Temporal para pruebas
         print(self.collection.count())
 
@@ -223,11 +271,11 @@ class VectorStore:
                 "distances",
             ],
         )
-        
+
         distancias = resultado["distances"][0]
         documentos = resultado["documents"][0]
         metadatos = resultado["metadatas"][0]
-        
+
         # Temporal para depuración
         print("\nDistancias obtenidas:")
         for i, (distancia, metadata) in enumerate(
@@ -238,23 +286,12 @@ class VectorStore:
                 f"Chunk {i}: {distancia:.3f} - "
                 f"{metadata.get('titulo')} > {metadata.get('subtitulo')}"
             )
-        
-        chunks = []
-        
-        for texto, metadata, distancia in zip(
+
+        return self._filtrar_chunks(
             documentos,
             metadatos,
             distancias,
-        ):
-            if distancia <= UMBRAL_DISTANCIA:
-                chunks.append(
-                    self._chunk_desde_resultado(
-                        texto,
-                        metadata,
-                    )
-                )
-
-        return chunks
+        )
 
     def eliminar_documento(
         self,
