@@ -14,9 +14,9 @@ El resto de la aplicación (por ejemplo, el chatbot web) únicamente
 debe interactuar con esta clase.
 """
 
-from src.retriever import Retriever
-from src.prompt_builder import ConstructorPrompts
-from src.llm_client import LLMClient
+from src.rag.retriever import Retriever
+from src.rag.prompt_builder import ConstructorPrompts
+from src.rag.llm_client import LLMClient
 
 
 class RAG:

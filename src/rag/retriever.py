@@ -13,9 +13,9 @@ Responsabilidades:
 Este módulo desacopla el chatbot del sistema de almacenamiento vectorial.
 """
 
-from src.embeddings import crear_embedding_texto
-from src.vector_store import VectorStore
-from src.models import Chunk
+from src.rag.embeddings import crear_embedding_texto
+from src.rag.vector_store import VectorStore
+from src.core.models import Chunk
 
 
 class Retriever:

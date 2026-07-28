@@ -7,7 +7,7 @@ la respuesta generada.
 
 from ollama import chat
 
-from src.config import MODELO_LLM
+from src.core.config import MODELO_LLM
 
 
 class LLMClient:

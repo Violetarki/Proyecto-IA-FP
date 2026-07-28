@@ -12,7 +12,7 @@ de la carpeta donde se encuentra el PDF.
 
 from pathlib import Path
 from docling.document_converter import DocumentConverter
-from src.config import CARPETA_MARKDOWN_RAW
+from src.core.config import CARPETA_MARKDOWN_RAW
 
 converter = DocumentConverter()
 

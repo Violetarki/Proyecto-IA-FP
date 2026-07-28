@@ -3,7 +3,7 @@ Se encarga de dividir un Documento en una lista de Chunk,
 procurando que cada uno represente una unidad coherente de conocimiento.
 """
 
-from src.models import Chunk, Documento
+from src.core.models import Chunk, Documento
 
 
 def _guardar_chunk(

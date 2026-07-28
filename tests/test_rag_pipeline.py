@@ -1,6 +1,6 @@
 """Test para probar el pipeline RAG con Ollama"""
 
-from src.rag_pipeline import RAG
+from src.rag.rag_pipeline import RAG
 
 
 def main():

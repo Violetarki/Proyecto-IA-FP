@@ -24,8 +24,8 @@ from flask import (
 )
 from werkzeug.utils import secure_filename
 
-from src.indexador import indexar_documentos
-from src.rag_pipeline import RAG
+from src.ingestion.indexador import indexar_documentos
+from src.rag.rag_pipeline import RAG
 
 app = Flask(__name__)
 rag = RAG()
