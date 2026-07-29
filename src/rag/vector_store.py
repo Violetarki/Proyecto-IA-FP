@@ -48,7 +48,10 @@ class VectorStore:
 
         self.client = chromadb.PersistentClient(path=persist_directory)
 
-        self.collection = self.client.get_or_create_collection(name=collection_name)
+        self.collection = self.client.get_or_create_collection(
+            name=collection_name,
+            metadata={"hnsw:space": "cosine"},
+        )
 
     def _crear_id(
     self,
@@ -93,6 +96,12 @@ class VectorStore:
         if chunk.subtitulo:
             metadata["subtitulo"] = chunk.subtitulo
 
+        if chunk.seccion:
+            metadata["seccion"] = chunk.seccion
+
+        if chunk.subseccion:
+            metadata["subseccion"] = chunk.subseccion
+
         return (
             self._crear_id(chunk),
             chunk.texto,
@@ -129,6 +138,8 @@ class VectorStore:
             texto=texto,
             titulo=metadata.get("titulo"),
             subtitulo=metadata.get("subtitulo"),
+            seccion=metadata.get("seccion"),
+            subseccion=metadata.get("subseccion"),
         )
 
     def indexar_chunks(
@@ -282,10 +293,15 @@ class VectorStore:
             zip(distancias, metadatos),
             start=1,
         ):
-            print(
-                f"Chunk {i}: {distancia:.3f} - "
-                f"{metadata.get('titulo')} > {metadata.get('subtitulo')}"
+            ruta = " > ".join(
+                parte for parte in [
+                    metadata.get("titulo"),
+                    metadata.get("subtitulo"),
+                    metadata.get("seccion"),
+                    metadata.get("subseccion"),
+                ] if parte
             )
+            print(f"Chunk {i}: {distancia:.3f} - {ruta}")
 
         return self._filtrar_chunks(
             documentos,

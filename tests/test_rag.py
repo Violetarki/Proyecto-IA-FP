@@ -14,7 +14,7 @@ def main():
     chunks = retriever.recuperar_contexto(
         pregunta=pregunta,
         metodologia=metodologia,
-        k=5,
+        k=8,
     )
 
     print(f"\nSe han recuperado {len(chunks)} chunks.")
@@ -28,7 +28,9 @@ def main():
         print(f"\n----- Chunk {i} -----")
         print(f"Título: {chunk.titulo}")
         print(f"Subtítulo: {chunk.subtitulo}")
-        print(chunk.texto[:300])
+        print(f"Sección: {chunk.seccion}")
+        print(f"Subsección: {chunk.subseccion}")
+        print(chunk.texto[:400])
         print("...")
 
     prompt = prompt_builder.construir_prompt(

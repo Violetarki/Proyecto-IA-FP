@@ -40,14 +40,8 @@ class ConstructorPrompts:
 
         for chunk in chunks:
 
-            encabezado = chunk.titulo or "Sin título"
-
-            if chunk.subtitulo:
-                encabezado += f" > {chunk.subtitulo}"
-
-            partes.append(
-                f"[{encabezado}]\n{chunk.texto}"
-            )
+            encabezado = " > ".join(chunk.jerarquia()) or "Sin contexto"
+            partes.append(f"[{encabezado}]\n{chunk.texto}")
 
         return "\n\n".join(partes)
 

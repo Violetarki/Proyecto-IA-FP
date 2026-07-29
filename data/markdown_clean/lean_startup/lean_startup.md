@@ -1828,14 +1828,28 @@ Díaz Mortera nos dice en su frase "Un imperio no cae por fuerzas externas sino 
 
 ### 2.3. MATRIZ DAFO
 
-| ANÁLISIS DAFO    | FORTALEZAS                                                     | DEBILIDADES                                                |
-| ---------------- | -------------------------------------------------------------- | ---------------------------------------------------------- |
-| ANÁLISIS INTERNO | Capacidades distintas, Ventajas naturales, Recursos superiores | Resistencia al cambio Problemas de motivación del personal |
-| ---------------- | -------------------------------------------------------------- | ---------------------------------------------------------- |
+ANÁLISIS DAFO
 
-| ANÁLISIS DAFO    | OPORTUNIDADES                                                                   | AMENAZAS                          |
-| ---------------- | ------------------------------------------------------------------------------- | --------------------------------- |
-| ANÁLISIS EXTERNO | Nuevas tecnologías, Debilitamiento de competidores, Posicionamiento estratégico | Alto riego: cambios en el entorno |
+ANÁLISIS INTERNO
+
+- FORTALEZAS
+  - Capacidades distintas
+  - Ventajas naturales
+  - Recursos superiores
+
+- DEBILIDADES
+  - Resistencia al cambio
+  - Problemas de motivación del personal
+
+ANÁLISIS EXTERNO
+
+- OPORTUNIDADES
+  - Nuevas tecnologías
+  - Debilitamiento de competidores
+  - Posicionamiento estratégico
+
+- AMENAZAS
+  - Alto riego: cambios en el entorno
 
 De la combinación de fortalezas con oportunidades surgen las potencialidades, las cuales señalan las líneas de acción más prometedoras para la organización.
 

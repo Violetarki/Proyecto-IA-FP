@@ -59,3 +59,14 @@ class Chunk:
     subtitulo: str | None = None
     seccion: str | None = None
     subseccion: str | None = None
+
+    def jerarquia(self) -> list[str]:
+        """Devuelve los niveles de contexto disponibles (titulo, subtitulo, seccion, subseccion), sin los que sean None."""
+        return [
+            parte
+            for parte in [self.titulo, self.subtitulo, self.seccion, self.subseccion]
+            if parte
+        ]
+
+    def texto_embedding(self) -> str:
+        return "\n".join(self.jerarquia() + [self.texto]).lower()

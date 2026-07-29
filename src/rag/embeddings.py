@@ -60,7 +60,7 @@ def crear_embedding_texto(
     modelo = cargar_modelo()
 
     embedding = modelo.encode(
-        texto.strip(),
+        texto.strip().lower(),
         convert_to_numpy=True,
         normalize_embeddings=True,
         show_progress_bar=False,
@@ -101,7 +101,7 @@ def crear_embeddings_textos(
             )
 
         textos_limpios.append(
-            texto.strip()
+            texto.strip().lower()
         )
 
     if tamanio_lote <= 0:
@@ -133,12 +133,11 @@ def crear_embeddings_chunks(
     Convierte una lista de objetos Chunk en una matriz de embeddings.
 
     El orden de los vectores será el mismo que el orden de los chunks.
+    Se usa texto_embedding() para incluir el contexto jerárquico
+    (titulo, subtitulo, seccion, subseccion) junto con el texto del chunk.
     """
 
-    textos = [
-        chunk.texto
-        for chunk in chunks
-    ]
+    textos = [chunk.texto_embedding() for chunk in chunks]
 
     return crear_embeddings_textos(
         textos=textos,
