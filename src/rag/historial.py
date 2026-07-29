@@ -1,3 +1,11 @@
+
+"""
+    Gestiona el historial de conversaciones guardado en un archivo JSON.
+    Permite recuperar los mensajes de una conversación por su identificador
+    y preparar la estructura para futuras operaciones de almacenamiento,
+    limpieza o actualización del historial.
+"""
+
 import json
 from src.core.config import CARPETA_HISTORIAL
 from pathlib import Path
@@ -30,11 +38,94 @@ class Historial:
 
         return conversaciones.get(id_conversacion, [])
 
-    def añadir_mensaje_usuario():
+    def obtener_contexto(self, id_conversacion: str):
         ...
 
-    def añadir_respuesta():
-        ...
+
+    def agregar_mensaje(
+        self,
+        id_conversacion: str,
+        rol: str,
+        contenido: str
+    ) -> None:
+        """
+        Agrega un mensaje al historial de una conversación.
+
+        Args:
+            id_conversacion: Identificador de la conversación.
+            rol: "user" o "assistant".
+            contenido: Texto del mensaje.
+        """
+
+        if self.ruta.exists():
+            with self.ruta.open("r", encoding="utf-8") as f:
+                conversaciones = json.load(f)
+        else:
+            conversaciones = {}
+
+        if id_conversacion not in conversaciones:
+            conversaciones[id_conversacion] = []
+
+        conversaciones[id_conversacion].append({
+            "rol": rol,
+            "contenido": contenido
+        })
+
+        with self.ruta.open("w", encoding="utf-8") as f:
+            json.dump(conversaciones, f, ensure_ascii=False, indent=4)
+
+    def agregar_respuesta(self, id_conversacion: str, rol: str, contenido: str) -> None:
+        """
+        Agrega una respuesta al historial de una conversación.
+
+        Args:
+            id_conversacion: Identificador de la conversación.
+            rol: Rol del emisor del mensaje.
+            contenido: Texto del mensaje.
+        """
+
+        if self.ruta.exists():
+            with self.ruta.open("r", encoding="utf-8") as f:
+                conversaciones = json.load(f)
+        else:
+            conversaciones = {}
+
+        if id_conversacion not in conversaciones:
+            conversaciones[id_conversacion] = []
+
+        conversaciones[id_conversacion].append({
+            "rol": rol,
+            "contenido": contenido
+        })
+
+        with self.ruta.open("w", encoding="utf-8") as f:
+            json.dump(conversaciones, f, ensure_ascii=False, indent=4)
 
     def limpiar_historial():
         ...
+
+
+
+# MEJORAS PARA MÁS TARDE 
+
+def _cargar_historial():
+    ...
+
+
+def _guardar_historial():
+    ...
+
+
+"""
+    Una pequeña mejora que haría
+
+    En lugar de devolver diccionarios, yo devolvería objetos de una clase Mensaje (como ya hacéis con Documento y Chunk).
+
+    Algo como:
+
+    @dataclass
+    class Mensaje:
+        rol: str
+        contenido: str
+
+"""
