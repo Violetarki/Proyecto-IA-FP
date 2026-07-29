@@ -53,33 +53,6 @@ class Historial:
 
         Args:
             id_conversacion: Identificador de la conversación.
-            rol: "user" o "assistant".
-            contenido: Texto del mensaje.
-        """
-
-        if self.ruta.exists():
-            with self.ruta.open("r", encoding="utf-8") as f:
-                conversaciones = json.load(f)
-        else:
-            conversaciones = {}
-
-        if id_conversacion not in conversaciones:
-            conversaciones[id_conversacion] = []
-
-        conversaciones[id_conversacion].append({
-            "rol": rol,
-            "contenido": contenido
-        })
-
-        with self.ruta.open("w", encoding="utf-8") as f:
-            json.dump(conversaciones, f, ensure_ascii=False, indent=4)
-
-    def agregar_respuesta(self, id_conversacion: str, rol: str, contenido: str) -> None:
-        """
-        Agrega una respuesta al historial de una conversación.
-
-        Args:
-            id_conversacion: Identificador de la conversación.
             rol: Rol del emisor del mensaje.
             contenido: Texto del mensaje.
         """
@@ -101,8 +74,27 @@ class Historial:
         with self.ruta.open("w", encoding="utf-8") as f:
             json.dump(conversaciones, f, ensure_ascii=False, indent=4)
 
-    def limpiar_historial():
-        ...
+
+
+    def eliminar_conversacion(self, id_conversacion: str) -> None:
+        """
+        Elimina una conversación completa del historial.
+
+        Args:
+            id_conversacion: Identificador de la conversación a borrar.
+        """
+
+        if not self.ruta.exists():
+            return
+
+        with self.ruta.open("r", encoding="utf-8") as f:
+            conversaciones = json.load(f)
+
+        if id_conversacion in conversaciones:
+            del conversaciones[id_conversacion]
+
+            with self.ruta.open("w", encoding="utf-8") as f:
+                json.dump(conversaciones, f, ensure_ascii=False, indent=4)
 
 
 
