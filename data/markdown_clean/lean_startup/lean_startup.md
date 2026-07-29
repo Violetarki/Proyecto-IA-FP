@@ -1,25 +1,20 @@
 # INTRODUCCIÓN
 
-## Emprender no es una opción
-
-ESO y BACH
-CCFF GM/GS
-
-Prólogo de Nestor Guerra
-
-Ilustración de Andy Baraja
-
-PABLO PEÑALVER ALONSO
+## Autor
 
 PABLO PEÑALVER ALONSO es profesor de Administración de Empresas en el IES Consaburum de Consuegra (Toledo).
 
 Coautor del libro "España Lean Startup 2015". Realiza ponencias y formación sobre Design Thinking y Lean Startup aplicados a Educación.
 
-3° PremioNacional en elaboración de materiales curriculares en soporte informático (2011), Mención de Honor en Innovación Educativa con "Aprendizaje Basado en Proyectos 2.0" (2011), y 3º Premio Nacional de Innovación y Calidad en Formación Profesional por "Emprender con Lean Startup" (2014).
+3° Premio Nacional en elaboración de materiales curriculares en soporte informático (2011), Mención de Honor en Innovación Educativa con "Aprendizaje Basado en Proyectos 2.0" (2011), y 3º Premio Nacional de Innovación y Calidad en Formación Profesional por "Emprender con Lean Startup" (2014).
 
+## Datos libro
+
+\#EmprenderNoEsUnaOpción
 ÚNETE A NUESTRO CANAL:
 www.telegram.me/pablopenalver
-
+Lean Startup en Educación
+Emprender no es una opción
 30 dinámicas para profesores innovadores y generadores del cambio en el aula
 
 ## Un ejemplo de emprendimiento
@@ -30,27 +25,17 @@ Anna fue profesora durante nueve años y formadora de profesores durante cuatro 
 
 Durante años simultaneó su trabajo con charlas en colegios sobre la protección de animales, actividad que a dia de hoy sigue haciendo junto con la Policía Local de Esplugues. Dejó la enseñanza para dedicarse en cuerpo y alma a la protección de los galgos, aunque su formación como educadora es muy importante para conseguir uno de los objetivos de SOS Galgos: que las futuras generaciones sean más respetuosas con los animales.
 
-## ÍNDICE
-
-| Prólogo por Nestor Guerra | 6 |
-| Reflexión previa | 9 |
-| Modulo O. Justificación | 17 |
-| Modulo 1. Emprender | 41 |
-| Modulo 2. Idear | 65 |
-| Modulo 3. Contextualizar | 94 |
-| Modulo 4. Prototipar | 119 |
-| Modulo 5. Validar | 144 |
-| Modulo 6. Comunicar | 157 |
-| Anexo I. Un ejemplo de Programación Didáctica | 164 |
-| Agradecimientos | 181 |
-
 ## Prólogo por Néstor Guerra
+
+### Las dos enfermedades del emprendedor
 
 Los emprendedores tenemos muchas virtudes, las cuales no podría describir brevemente en estas líneas. Sin embargo, de lo que pocos os hablaran es de que sufrimos dos grandes enfermedades: una bastante grave, que es creernos nuestras propias mentiras, y la otra, mortal por necesidad, que es poseer la habilidad de distorsionar la realidad hasta dar sentido a esas mentiras.
 
 Así que un emprendedor, en principio, no es alguien a quien deseas tener a tu lado, ni siquiera un poco cerca, porque ya sabemos que todo se pega menos la hermosura.
 
 Y por si todo esto no fuera suficiente, la inmortalidad de los planes de negocio parece no tener más que pequeños rasguños. Este implacable sistema de imaginar el futuro ha fomentado una espiral de locura otorgando una jerga de negocios al emprendedor, que astutamente ha aprendido a utilizar como envoltura áurea para todas aquellas iniciativas que por mucho esfuerzo que supusieran, como cuadrar el balance o el resultado de meses o años de sacrificio, se reducían al resultado más frecuente en una startup, que es el cero. Cero patatero, señoras y señores, ese es el resultado más probable en una startup por muy listos que nos creamos y por muy hábiles que podamos llegar a ser.
+
+### El origen y el valor de Lean Startup
 
 Desde que el movimiento Lean Startup empezó su andadura han sido muchas las etiquetas, iniciativas y adaptaciones que este enfoque ha generado a lo largo y ancho del mundo académico y empresarial internacional. Pero somos nosotros, sois vosotros, los emprendedores los que más hemos ganado con esta mecánica basada en el método científico y la experimentación. Lean Startup nos ayuda a descubrir lo más importante, aquello que no sabíamos de nosotros, de nuestra idea, de nuestros clientes, del mundo en el que estamos o mucho mejor aún, de todo aquello que pensábamos que si sabíamos y que en realidad era mentira, demostrándonos que estábamos equivocados.
 
@@ -66,9 +51,15 @@ Así que si la pregunta que subyace a esa crítica del efecto moda es si el mét
 
 El Lean Startup está cambiando muchas cosas, no sólo como los emprendedores nos aproximamos a la búsqueda de un modelo de negocio, sino al sano ejercicio de experimentar, medir y aprender, siempre en un entorno incierto e inestable, donde las reglas son tan dinámicas y tan imprevisibles que es difícil pronosticar con éxito cualquier estrategia o evento. La única certeza es que no podemos dejar de aprender.
 
+### La educación, la asignatura pendiente
+
 Para que esta transformación sea profunda, permanente y sustancial la educación es la clave, y esta era una de las asignatura pendientes del movimiento Lean Startup; como llegar no sólo a las aceleradoras, las escuelas de negocio y las universidades sino también a los centro de enseñanza media, que son la pieza fundamental en la creación de empleo de este país. Y donde como no podría ser de otra manera, se cultivan las nuevas generaciones de emprendedores que son a su vez los actores principales de la innovación local que transformará nuestro país a medio y largo plazo. Ellos son los que nos mostrarán a nosotros el futuro del Lean Startup y los que de verdad podrán enseñarnos su verdadero valor.
 
+### El emprendimiento como asignatura obligatoria
+
 En las últimas décadas del siglo XX hubo un esfuerzo institucional por mejorar nuestro posicionamiento en el mundo del deporte, con una enorme batería de acciones e iniciativas, pero la transformación real sucedió en el momento en el que esto llegó a los centros de enseñanza. Entonces, la Educación Física se convirtió en aquella asignatura obligatoria, que tanto recuerdos nos trae a todos, y que facilitó que surgieran las mejores generaciones de deportistas de élite de nuestra historia, pero sobre todo se convirtió en una declaración de intenciones dónde los valores que transmite el deporte se nos inculcaron de forma indestructible. El deporte nos hace mejores y nos ayuda a desarrollarnos física y mentalmente y lo sabemos desde que tenemos uso de razón. Al igual que entonces, el emprendimiento debe ser una de esas asignaturas obligatorias que nos marcan para siempre, no porque vayamos a generar al próximo Steve Jobs (que también) sino porque los valores que transmite el emprendimiento son válidos para todas las facetas de nuestra vida. Arranques o no un negocio.
+
+### Cierre: Pablo y el libro
 
 Pablo es sin duda una de esas personas que hacen historia silenciosa, desde la trinchera, desde las aulas, transformando una generación entera de alumnos que crearán el futuro tejido de pequeñas y medianas empresas creando valor, riqueza y puestos de trabajo.
 
@@ -84,9 +75,11 @@ A vosotros y vosotras, que leéis amablemente:
 
 Seguramente habrá quien piense que estamos manual de emprendimiento que puede solucionar los problemas que tenemos en educación. De antemano, y antes de leer el libro, puedo decir que está equivocado desde el primer momento. Y ello por varios motivos.
 
+### Cómo usar el manual
+
 En primer lugar no es un manual al uso. No se trata de redactar contenidos y proponer actividades para el aula. No es un libro de alumno. Es un manual de instrucciones para el profesor. Y es un manual de instrucciones porque propone y sugiere una serie de dinámicas que tienen como fin último el desarrollo de habilidades emprendedoras, y con ello, el de las competencias de los alumnos.
 
-En segundo lugar, la lectura del manual no garantiza ningún resultado. La clave es entender la propuesta metodológica, para después, pasar a la acción . Entender que el aprendizaje se genera en el aula, y sobre todo fuera de ella. Entender que se aprende en el aula, en la biblioteca, en los pasillos, en la cafetería, en cualquier lugar del centro, pero también fuera del mismo. Entender que el aprendizaje se da de forma individual, pero sobre todo en grupo. Entender que es preciso integrar en entorno más cercano del alumno dentro del espacio educativo. Y entender que el alumno es un agente activo del proceso, y por lo tanto debe ser y sentirse protagonista del mismo. Y por ello, el docente de hoy debe pasar a la acción, arriesgar y apostar por metodologías activas que proporcionen el mayor protagonismo al alumno.
+En segundo lugar, la lectura del manual no garantiza ningún resultado. La clave es entender la propuesta metodológica, para después, pasar a la acción. Entender que el aprendizaje se genera en el aula, y sobre todo fuera de ella. Entender que se aprende en el aula, en la biblioteca, en los pasillos, en la cafetería, en cualquier lugar del centro, pero también fuera del mismo. Entender que el aprendizaje se da de forma individual, pero sobre todo en grupo. Entender que es preciso integrar en entorno más cercano del alumno dentro del espacio educativo. Y entender que el alumno es un agente activo del proceso, y por lo tanto debe ser y sentirse protagonista del mismo. Y por ello, el docente de hoy debe pasar a la acción, arriesgar y apostar por metodologías activas que proporcionen el mayor protagonismo al alumno.
 
 En tercer lugar, y derivado del párrafo anterior, es fundamental que la motivación del alumno sea máxima. Sólo si está motivado se implica; sólo si se implica aprende; y sólo si aprende, estamos consiguiendo los objetivos educativos. La motivación implica que debe trabajar en un contexto cercano a sus intereses y capacidades; la motivación implica que debe servirle lo que aprende, y cómo aprende. La motivación implica que se sienta respaldado por el docente, que más que actuar como tal, debe actuar como mentor, guiando su proceso de aprendizaje, y dando respuesta a cada alumno.
 
@@ -94,66 +87,42 @@ En tercer lugar, y derivado del párrafo anterior, es fundamental que la motivac
 
 Por todo ello, os propongo la visualización de cuatro infografías que son claves para entender este manual:
 
-1. Radiografía del profesor emprendedor. Considero que si queremos impartir emprendimiento hoy, debemos ser profesores emprendedores. Lo que supone:
-   - a. Planificar y programar el curso, dejando muy claro cómo se produce el aprendizaje y los distintos niveles para generar conocimiento.
-   - b. Se puede emprender en cualquier nivel educativo . La clave está es, como decimos, pasar a la acción, y salir fuera del aula, porque es dónde están los hechos. En el aula, sólo podemos trabajar con suposiciones. Y en este sentido, los contenidos son nuestra herramienta de trabajo.
-   - c. Estar en beta permanente . Como nuestros alumnos, aprendemos todos los días. Creatividad, comunicación, cooperación y confianza también deben ser habilidades básicas de todo docente. Pero en cualquier caso, la propuesta de este manual debe entenderse de forma flexible.
-   - d. El papel del docente debe ser el de mentor , que guía el proceso de aprendizaje del alumno, se ajusta a sus características, y sobre todo le motiva para conseguir lo máximo dentro de sus posibilidades.
+#### 1. Radiografía del profesor emprendedor.
 
-2. Metodología es la que se basa este manual. Propongo cinco aspectos clave que constituyen los pilares de este libro:
-   - a. Learning by doing. Trabajar las dinámicas que se plantean en este manual supone aprender haciendo . Y aquí, de nuevo, es clave la actividad del alumno.
-   - b. Aprendizaje basado en retos. El curso no se compone de temas o unidades. Se compone de retos. Retos difíciles pero superables, que inciden de forma clave en la motivación del alumnado. Y todo ello, mediante aprendizaje cooperativo .
-   - c. Design Thinking. El fomento de la creatividad y la generación de respuestas innovadoras a problemas actuales es uno de los ejes básicos del manual. Para ello nos apoyamos en una de las herramientas de innovación más usadas en la empresas, y la adaptamos a nuestro aula.
-   - d. Lean Startup. El verdadero eje del curso, y de la secuencia de contenidos del manual. Constituye otra herramienta de innovación de las empresas, está muy ligada a Design Thinking, y supone una verdadera tendencia de la educación del futuro.
-   - e. Mobile Learning. Porque hoy en día no podemos entender la educación si no es conectada, líquida, en cualquier sitio o lugar. Y en este sentido, el uso de smartphone ofrece utilidad, motivación y realismo al proceso de enseñanza-aprendizaje.
+Considero que si queremos impartir emprendimiento hoy, debemos ser profesores emprendedores. Lo que supone:
 
-3. Dinámicas de trabajo . En lugar de actividades o ejercicios, se proponen 30 dinámicas que constituyen la base de un programa de emprendimiento actual. Así:
-   - a. Las dinámicas siguen una secuencia que se ajusta a las pautas de todo proceso educativo .
-   - b. Las dinámicas permiten el desarrollo de habilidades emprendedoras del alumnado.
-   - c. Las dinámicas suponen en la mayoría de las veces juegos adaptados a la edad del alumno. Percibir el aprendizaje como un juego ayuda en gran medida en nuestro trabajo como docentes.
-   - d. Las dinámicas incluyen el uso de las Tecnologías de la Información y Comunicación , como no podía ser de otra forma. Para cada reto se proponen aplicaciones de escritorio y apps móviles que facilitarán en gran medida el proceso educativo.
-   - e. las dinámicas deben entenderse de forma flexible . El docente tiene la capacidad para profundizar más o menos en cada una de las fases o módulos.
+- a. Planificar y programar el curso, dejando muy claro cómo se produce el aprendizaje y los distintos niveles para generar conocimiento.
+- b. Se puede emprender en cualquier nivel educativo . La clave está es, como decimos, pasar a la acción, y salir fuera del aula, porque es dónde están los hechos. En el aula, sólo podemos trabajar con suposiciones. Y en este sentido, los contenidos son nuestra herramienta de trabajo.
+- c. Estar en beta permanente . Como nuestros alumnos, aprendemos todos los días. Creatividad, comunicación, cooperación y confianza también deben ser habilidades básicas de todo docente. Pero en cualquier caso, la propuesta de este manual debe entenderse de forma flexible.
+- d. El papel del docente debe ser el de mentor , que guía el proceso de aprendizaje del alumno, se ajusta a sus características, y sobre todo le motiva para conseguir lo máximo dentro de sus posibilidades.
 
-4. Recomendaciones. No hay formulas secretas para llevar al aula y garantizar el éxito. La propuesta que os hago recoge el trabajo en aula de 5 cursos (2012-2017), y la sintetizo con el fin de que aquel que así lo considere, pueda tener más seguridad para su aplicación en clase. A mi experiencia hay que añadirle el importante punto de vista de varios profesores innovadores interesados en la cuestión, que me han ampliado y enriquecido los contenidos, y que han permitido que yo mismo, siga un proceso "lean" en la redacción del libro. La cuarta infografía recoge de forma clara estas recomendaciones.
-
-Finalizo esta reflexión con una serie de tuits sobre mi participación en el evento España Lean Startup 2015 , y la incidencia que supuso para diferentes profesionales conocer que en educación estamos interesados en innovar en emprendimiento aplicando Lean Startup.
-
-Muchas gracias por acompañarme.
-
-PABLO PEÑALVER ALONSO
-28 de febrero de 2017
-
-## Radiografía del Profesor emprendedor
-
-Pablo Peñalver @ppenalvera
+Radiografía del Profesor emprendedor (Libro p.12)
 
 - Secuencia del aprendizaje: partir de lo general, pasar al detalle, y finalizar con una síntesis
-
 - Niveles de conocimiento: Previos, Internet, Observación, Entrevistas, Contraste hipótesis
-
 - Programación: Comenzar con actividades sencillas, e ir incrementando el nivel de dificultad
-
 - Niveles educativos: Primaria, Secundaria, Bachillerato, FP
-
 - Profesor mentor: Guía, orienta, aconseja en el proceso de enseñanza-aprendizaje
-
 - Atención a la diversidad: Tanto en el propio grupo como en el papel del docente
-
 - Gamificación: Diversión, pasión por trabajar, hacer
-
 - Flexibilidad: quitar, poner, adaptar
-
 - Caja de herramientas: Creatividad, comunicación, cooperación y confianza
-
 - En Beta permanente: Siempre aprendiendo
-
 - Acción: pasar a la acción
-
 - Get out of the building: Sal a la calle, los hechos están fuera
-
 - Contenidos: son un instrumento de trabajo
 
-## METODOLOGÍA
+#### 2. Metodología es la que se basa este manual.
+
+Propongo cinco aspectos clave que constituyen los pilares de este libro:
+
+- a. Learning by doing. Trabajar las dinámicas que se plantean en este manual supone aprender haciendo . Y aquí, de nuevo, es clave la actividad del alumno.
+- b. Aprendizaje basado en retos. El curso no se compone de temas o unidades. Se compone de retos. Retos difíciles pero superables, que inciden de forma clave en la motivación del alumnado. Y todo ello, mediante aprendizaje cooperativo .
+- c. Design Thinking. El fomento de la creatividad y la generación de respuestas innovadoras a problemas actuales es uno de los ejes básicos del manual. Para ello nos apoyamos en una de las herramientas de innovación más usadas en la empresas, y la adaptamos a nuestro aula.
+- d. Lean Startup. El verdadero eje del curso, y de la secuencia de contenidos del manual. Constituye otra herramienta de innovación de las empresas, está muy ligada a Design Thinking, y supone una verdadera tendencia de la educación del futuro.
+- e. Mobile Learning. Porque hoy en día no podemos entender la educación si no es conectada, líquida, en cualquier sitio o lugar. Y en este sentido, el uso de smartphone ofrece utilidad, motivación y realismo al proceso de enseñanza-aprendizaje.
+
+METODOLOGÍA (Libro p.13)
 
 1. Learning by doing: aprender haciendo
 2. Aprendizaje B. retos: aprendizaje cooperativo
@@ -161,12 +130,17 @@ Pablo Peñalver @ppenalvera
 4. Lean Startup: emprendimiento ágil
 5. Mobile learning: educación conectada
 
-## 30 DINÁMICAS basadas en las 4Cs
+#### 3. Dinámicas de trabajo.
 
-- CREATIVIDAD
-- COMUNICACIÓN
-- COOPERACIÓN
-- CONFIANZA
+En lugar de actividades o ejercicios, se proponen 30 dinámicas que constituyen la base de un programa de emprendimiento actual. Así:
+
+- a. Las dinámicas siguen una secuencia que se ajusta a las pautas de todo proceso educativo.
+- b. Las dinámicas permiten el desarrollo de habilidades emprendedoras del alumnado.
+- c. Las dinámicas suponen en la mayoría de las veces juegos adaptados a la edad del alumno. Percibir el aprendizaje como un juego ayuda en gran medida en nuestro trabajo como docentes.
+- d. Las dinámicas incluyen el uso de las Tecnologías de la Información y Comunicación , como no podía ser de otra forma. Para cada reto se proponen aplicaciones de escritorio y apps móviles que facilitarán en gran medida el proceso educativo.
+- e. las dinámicas deben entenderse de forma flexible . El docente tiene la capacidad para profundizar más o menos en cada una de las fases o módulos.
+
+30 DINÁMICAS basadas en las 4Cs: CREATIVIDAD, COMUNICACIÓN, COOPERACIÓN, CONFIANZA (Libro p.14)
 
 1. Debates con vídeos e infografías
 2. Selfie emprendedor
@@ -199,65 +173,62 @@ Pablo Peñalver @ppenalvera
 29. Test A/B
 30. Foro de Inversión Creativo
 
-## Recomendaciones
+#### 4. Recomendaciones para aplicar Lean Startup en el aula.
 
-Autor: Pablo Peñalver
+No hay formulas secretas para llevar al aula y garantizar el éxito. La propuesta que os hago recoge el trabajo en aula de 5 cursos (2012-2017), y la sintetizo con el fin de que aquel que así lo considere, pueda tener más seguridad para su aplicación en clase. A mi experiencia hay que añadirle el importante punto de vista de varios profesores innovadores interesados en la cuestión, que me han ampliado y enriquecido los contenidos, y que han permitido que yo mismo, siga un proceso "lean" en la redacción del libro. La cuarta infografía recoge de forma clara estas recomendaciones.
+
+Recomendaciones (Libro p.15)
 
 Son muchas las cuestiones que se van a tratar en los próximos módulos que componen este libro. Por eso, pienso que es necesario establecer una serie de recomendaciones que ayudaran a interpretar los contenidos o propuestas de mejor forma.
 
-Recomendaciones para aplicar Lean Startup en el aula
-
 1. ¡Lánzate!, pero con paracaídas: Se recomienda no poner en marcha toda la propuesta al 100% el primer curso. Empezar primero con aquellas cuestiones con las que se trabaje con mas seguridad, e ir profundizando curso a curso.
-
 2. No hay formulas secretas: La propuesta que presento refleja la experiencia de aula de 4 años. En el manual se ofrecen aquellas dinámicas que ofrecen buenos resultados.
-
 3. Interioriza el proceso Lean: Creo que lo verdaderamente util del libro es el proceso llevado a cabo para su redacción. Han sido muchos los docentes, y sobre todo, los mas innovadores, los que me han aportado su valioso punto de vista para redactar este manual. Te aconsejo seguir ese proceso con tu experiencia en aula.
-
 4. Mentalidad en beta permanente: Recomiendo llevar a la practica las actividades que mas te gusten y probar. Al final, cada maestrillo tiene su librillo.
-
 5. Pasar a la acción: En el fondo, si lees este manual, te estoy invitando para pasar a la acción, para cambiar la metodología y hacer del proceso educativo una experiencia memorable para el alumnado.
-
 6. y se flexible: Debes tener claro lo que quieres conseguir. No hay que obsesionarse con las dinámicas, sino trabajar las que se consideren adecuadas para el objetivo final.
 
-## Twitter dice: (ver manual p.16)
+### Conclusión reflexión
+
+Finalizo esta reflexión con una serie de tuits sobre mi participación en el evento España Lean Startup 2015, y la incidencia que supuso para diferentes profesionales conocer que en educación estamos interesados en innovar en emprendimiento aplicando Lean Startup.
+
+Muchas gracias por acompañarme.
+
+"Twitter dice:" (ver tuits en libro p.16)
 
 # MÓDULO O. JUSTIFICACIÓN
-
-## ÍNDICE
-
-1. El problema
-2. La solución
-3. Ajuste metodología-alumno
-4. Emprender
-5. Idear
-6. Contextualizar
-7. Prototipar
-8. Validar
-9. Comunicar
 
 ## 1. EL PROBLEMA
 
 Emprender está de moda. Estamos en el siglo del emprendimiento. Es una realidad. Y como tal, nuestro sistema educativo recoge la demanda de la sociedad para trabajar y desarrollar las competencias básicas de los emprendedores. Pero, ¿cómo lo hace?
 
+### Definición emprender
+
 En primer lugar me gustaría definir qué entendemos por emprender. La RAE establece como primera acepción 'acometer y comenzar una obra, un negocio, un empeño, especialmente si encierran dificultad o peligro'. De esta forma, y desde el punto de vista educativo, emprender debería considerarse como la planificación y organización de recursos para conseguir unos objetivos. Emprendimiento se constituye así, como un auténtico ejemplo de desarrollo de capacidades para la resolución de las situaciones que se nos puedan presentar. En este sentido, todos deberíamos desarrollar esa capacidad de autonomía e iniciativa personal para hacer frente a las demandas de la sociedad actual.
+
+### Sistema educativo actual
 
 Si algo caracteriza a la sociedad actual, es que es vertiginosamente cambiante. En educación llevamos varias décadas hablando de este fenómeno. Pero actualmente, lo más peculiar es que el ritmo del cambio cada vez es mayor, tan rápido que nos hace vivir en un estado de cambio permanente.
 
 Y es este hecho al que el sistema educativo no está dando respuesta como merece. En el siglo XIX se concibe la educación como un sistema para formar a trabajadores para las líneas de producción propias de la Revolución Industrial. Se trataba de tareas repetitivas. Se trataba de una sociedad estable. Pero hoy, como hemos dicho, el ritmo de cambio es vertiginoso, y sin embargo, el sistema educativo sigue anclado en el pasado. Mantenemos que la causa principal de la crisis en educación no está en el nuevo modelo de familias, o el nuevo arquetipo de alumnado o profesorado, básicamente el gran error es que ha cambiado el mundo cuando la educación sigue siendo, en general, la misma.
 
+### Cambio necesario en la metodología docente
+
 Podemos afirmar que se precisa un cambio urgente de la metodología docente de tal manera que se forme a los alumnos para los problemas que se van a encontrar cuando salgan del sistema educativo. Problemas que, insistiendo en el ritmo frenético de cambio, ni siquiera conocemos. En palabras de Tina Seelig, docente de la Universidad de Stanford, de trata de que cada alumno que sale del sistema educativo, tenga su propia 'caja de herramientas' con la que hará frente a los problemas que se le presenten:
 
-'Your knowledge is the toolbox for imagination' - Tina Seelig
+'Your knowledge is the toolbox for imagination' -Tina Seelig
 
-Puesta de manifiesto nuestra tesis, la metodología del Aprendizaje basado en Proyectos/Retos/Problemas se convierte en el medio clave para hacer realidad la misma. Estamos hablando de plantear en aula, o fuera de ella, retos reales y atractivos para los alumnos. Retos que resulten motivadores. De esta forma contaremos con la participación activa del alumnado. Y es así porque a grandes rasgos, despierta el interés del alumnado, lleva a cabo un aprendizaje significativo, permite integrar conocimientos y además favorece el desarrollo de habilidades. A partir de ahí, se trata de proporcionarles las herramientas necesarias para poder superar esos retos, y es ahí, sobre todo, cuando hablamos de emprendimiento, cuando cobran protagonismo: Design Thinking, Lean Startup , Customer Journey Map, Business Model Canvas, etc.
+### Metodología del Aprendizaje basado en Proyectos/Retos/Problemas
 
-De esta forma vamos a entender que supone exactamente emprender en educación . La nueva manera de aprender no es recibiendo educación, sino interactuando . Lo más importante es tener capacidad emprendedora , y no para montar una empresa, que también, sino para dirigir tu propia vida. Se trata de tener sueños y hacer todo lo que está en tus manos para hacerlos realidad. Así se produce el cambio.
+Puesta de manifiesto nuestra tesis, la metodología del Aprendizaje basado en Proyectos/Retos/Problemas se convierte en el medio clave para hacer realidad la misma. Estamos hablando de plantear en aula, o fuera de ella, retos reales y atractivos para los alumnos. Retos que resulten motivadores. De esta forma contaremos con la participación activa del alumnado. Y es así porque a grandes rasgos, despierta el interés del alumnado, lleva a cabo un aprendizaje significativo, permite integrar conocimientos y además favorece el desarrollo de habilidades. A partir de ahí, se trata de proporcionarles las herramientas necesarias para poder superar esos retos, y es ahí, sobre todo, cuando hablamos de emprendimiento, cuando cobran protagonismo: Design Thinking, Lean Startup, Customer Journey Map, Business Model Canvas, etc.
+
+De esta forma vamos a entender que supone exactamente emprender en educación. La nueva manera de aprender no es recibiendo educación, sino interactuando. Lo más importante es tener capacidad emprendedora , y no para montar una empresa, que también, sino para dirigir tu propia vida. Se trata de tener sueños y hacer todo lo que está en tus manos para hacerlos realidad. Así se produce el cambio.
+
+### Mejora de la calidad educativa
 
 Nuestro sistema educativo, como he citado anteriormente, no es ajeno al protagonismo del emprendimiento. Pero, ¿cómo se trabaja el emprendimiento en educación? A continuación, podemos apreciar una infografía con las 7 competencias clave de la actual ley educativa, la Ley Orgánica 8/2013, de 9 de diciembre, para la mejora de la calidad educativa (LOMCE):
 
-## Competencias clave con la LOMCE
-
-Autor: @ppenalvera
+#### Competencias clave con la LOMCE (Libro p.20)
 
 - Lingüística: Uso de la lengua, expresar ideas e interactuar con otras personas
 - Matemática, ciencia y tecnología: Razonamiento matemático, metodología científica y competencia tecnológica
@@ -269,9 +240,6 @@ Autor: @ppenalvera
   - 1. En el centro de las competencias clave, recogiendo y sintetizando las demás
   - 2. Implica las habilidades necesarias para convertir las ideas en actos, como la creatividad o las capacidades para asumir riesgos y planificar y gestionar proyectos.
 
-Infografía para ELS20115: "Lean Startup en Educación"
-Fuente: www.pablopenalver.com
-
 De forma más concreta, tenemos:
 
 1. Competencia en comunicación lingüística.
@@ -282,53 +250,67 @@ De forma más concreta, tenemos:
 6. Sentido de la iniciativa y espíritu emprendedor.
 7. Conciencia y expresiones culturales.
 
-En educación trabajamos todas las competencias clave, en mayor o menor medida. Sin embargo, nos vamos a centrar especialmente la competencia clave de sentido de la iniciativa y espíritu emprendedor. El propio legislador señala que esta competencia clave "implica las habilidades necesarias para convertir las ideas en actos, como la creatividad o las capacidades para asumir riesgos y planificar y gestionar proyectos" . Por consiguiente, el punto de vista de la propia norma coincide con el expresado por nosotros en el primer punto. Pero, ¿cómo se hace realidad esa competencia clave?
+#### Competencia clave de sentido de la iniciativa y espíritu emprendedor
 
-Para dar respuesta la pregunta citada, conviene examinar el currículo de las materias de emprendimiento . En este sentido, hay que tener en cuenta que la educación es una competencia delegada a las Comunidades Autónomas. Esto supone que, en la práctica, cada autonomía establece la educación emprendedora en el nivel educativo que considera oportuno, dentro del nivel de secundaria, obligatoria o no, y en Formación Profesional de Grado Medio y Superior.
+En educación trabajamos todas las competencias clave, en mayor o menor medida. Sin embargo, nos vamos a centrar especialmente la competencia clave de sentido de la iniciativa y espíritu emprendedor. El propio legislador señala que esta competencia clave "implica las habilidades necesarias para convertir las ideas en actos, como la creatividad o las capacidades para asumir riesgos y planificar y gestionar proyectos". Por consiguiente, el punto de vista de la propia norma coincide con el expresado por nosotros en el primer punto. Pero, ¿cómo se hace realidad esa competencia clave?
+
+Para dar respuesta la pregunta citada, conviene examinar el currículo de las materias de emprendimiento. En este sentido, hay que tener en cuenta que la educación es una competencia delegada a las Comunidades Autónomas. Esto supone que, en la práctica, cada autonomía establece la educación emprendedora en el nivel educativo que considera oportuno, dentro del nivel de secundaria, obligatoria o no, y en Formación Profesional de Grado Medio y Superior.
 
 Pero con independencia de lo legislado por cada comunidad, el punto clave es cómo aborda el tema. Y si bien, en la exposición de motivos, las líneas expositivas son muy vanguardistas, la decepción viene al analizar los contenidos con los que hay que trabajar para el desarrollo de las competencias clave citadas. ¿Por qué? Porque el Plan de Empresa sigue siendo el eje de trabajo bajo el que se sustenta el curso. Es impresionante que a día de hoy, sigamos defendiendo la utilidad de un Plan de Negocios para emprender. No discutimos su utilidad en determinada fase del proceso emprendedor, pero si de lo que se trata es de desarrollar la creatividad, la comunicación, el liderazgo o el trabajo en equipo, abordar un Plan de Empresa no ayuda nada. Lo único que consigue es la desmotivación general del alumnado por su lejanía a la realidad empresarial.
 
 El resultado es desmotivación total. El resultado es que el alumnado está desmotivado, y por ende, el profesorado también se desmotiva por la dificultad para abordar la situación. Al alumnado no le interesa el ámbito empresarial a edades tempranas, e incluso en edades superiores. Y sin embargo, estamos hablando que es necesario ser emprendedor, en el sentido de hacer realidad tus sueños. Entonces, ¿qué hacemos?
 
-Lo que nosotros planteamos es establecer un curso de educación emprendedora donde el eje de trabajo sea Lean Startup . Es decir, aprovechando la flexibilidad del currículo, organizar los contenidos siguiendo Lean Startup, y abordarlos en aula mediante metodologías activas , donde la clave será establecer proyectos, retos o problemas que los alumnos deben superar. Nuestra experiencia demuestra que el éxito está garantizado. ¿Sabes cómo lo hacemos? En los próximos módulos te comentamos cómo lo trabajamos.
+Lo que nosotros planteamos es establecer un curso de educación emprendedora donde el eje de trabajo sea Lean Startup. Es decir, aprovechando la flexibilidad del currículo, organizar los contenidos siguiendo Lean Startup, y abordarlos en aula mediante metodologías activas, donde la clave será establecer proyectos, retos o problemas que los alumnos deben superar. Nuestra experiencia demuestra que el éxito está garantizado. ¿Sabes cómo lo hacemos? En los próximos módulos te comentamos cómo lo trabajamos.
 
 ## 2. LA SOLUCIÓN
 
 Debemos tener claro que lo que queremos trabajar con el alumnado cuando hablamos de emprendimiento en educación, es 'caja de herramientas' de las que hacer uso cuando la vida te ponga en situación. Esa caja de herramientas la podemos denominar como las 4 Cs del alumno emprendedor. Nuestro reto es proporcionarles esas herramientas, y podríamos explicarlas de la siguiente forma:
 
-- Creatividad. Todos somos creativos, y es clave desarrollar la creatividad en nuestro alumnado. La creatividad comporta cuatro elementos básicos: la persona, el proceso que lleva a cabo, el resultado, el producto, y el medio en el que todo sucede. Educar en la creatividad supone:
-  - a) Ser consciente de que el cambio forma parte de nuestras vidas , y en este sentido, no tener miedo al cambio, sino más bien lo contrario, sentirse bien y disfrutar cuando estás en ese proceso.
-  - b) Desarrollar la persona en todos sus componentes . Este siempre ha sido uno de los grandes retos del sistema educativo, pero no se trabaja. No se desarrolla de forma plena la personalidad del alumno si nos dejamos un elemento tan importante como la creatividad.
-  - c) Crecimiento personal . Una persona creativa tiene más recursos, y por lo tanto, más posibilidades de crecimiento y de autorealización personal.
+### Las 4 Cs del alumno emprendedor
 
-- Comunicación. La comunicación es un proceso que un alumno que sale del sistema educativo tiene que tener perfectamente desarrollado. Una limitación en este contexto implica una importante limitación en su vida futura, tanto personal como profesional. Por ello, entendemos que:
-  - a) Han de trabajarse las diferentes formas de comunicación , tanto verbal como no verbal, oral y escrita, individual y en grupo.
-  - b) Han de trabajarse los diferentes medios de comunicación , haciendo especial hincapié en las tecnologías de la información y comunicación, tanto por su actualidad, como por su poder motivador.
-  - c) Todo lo anterior, sólo se puede desarrollar de forma práctica . No caben contenidos teóricos.
+#### Creatividad
 
-- Cooperación. Emprender se hace en grupo. El trabajo del futuro se realizará en base a proyectos. Por esto, el aprendizaje cooperativo implica:
-  - a) La realización de tareas de forma conjunta para obtener un aprendizaje conjunto.
-  - b) Asumir que el principal objetivo del mismo es que el alumnado adquiera las normas y forma de trabajo oportuno para trabajar en equipo de manera organizada y garantizando ayuda recíproca al resto de compañeros de su grupo.
+Todos somos creativos, y es clave desarrollar la creatividad en nuestro alumnado. La creatividad comporta cuatro elementos básicos: la persona, el proceso que lleva a cabo, el resultado, el producto, y el medio en el que todo sucede. Educar en la creatividad supone:
 
-- Confianza. La confianza es uno de los pilares básicos de la vida social moderna, e implica la generación de redes sociales necesarias para la realización personal. De esta forma:
-  - a) El sistema educativo, y en concreto, la educación emprendedora supone un importante agente socializador y promotor de confianza o desconfianza.
-  - b) La educación emprendedora ofrece contenidos y lo que es más importante, trabaja de lleno en lo relativo a las relaciones interpersonales, las vivencias y experiencias .
-  - c) En este sentido, hemos de proporcionar experiencias de aprendizaje memorables , que motiven al alumnado a aprender, a mejorar, y a crecer como persona, tanto individualmente como en grupo.
+- a) Ser consciente de que el cambio forma parte de nuestras vidas , y en este sentido, no tener miedo al cambio, sino más bien lo contrario, sentirse bien y disfrutar cuando estás en ese proceso.
+- b) Desarrollar la persona en todos sus componentes . Este siempre ha sido uno de los grandes retos del sistema educativo, pero no se trabaja. No se desarrolla de forma plena la personalidad del alumno si nos dejamos un elemento tan importante como la creatividad.
+- c) Crecimiento personal . Una persona creativa tiene más recursos, y por lo tanto, más posibilidades de crecimiento y de autorealización personal.
+
+#### Comunicación
+
+La comunicación es un proceso que un alumno que sale del sistema educativo tiene que tener perfectamente desarrollado. Una limitación en este contexto implica una importante limitación en su vida futura, tanto personal como profesional. Por ello, entendemos que:
+
+- a) Han de trabajarse las diferentes formas de comunicación , tanto verbal como no verbal, oral y escrita, individual y en grupo.
+- b) Han de trabajarse los diferentes medios de comunicación , haciendo especial hincapié en las tecnologías de la información y comunicación, tanto por su actualidad, como por su poder motivador.
+- c) Todo lo anterior, sólo se puede desarrollar de forma práctica . No caben contenidos teóricos.
+
+#### Cooperación
+
+Emprender se hace en grupo. El trabajo del futuro se realizará en base a proyectos. Por esto, el aprendizaje cooperativo implica:
+
+- a) La realización de tareas de forma conjunta para obtener un aprendizaje conjunto.
+- b) Asumir que el principal objetivo del mismo es que el alumnado adquiera las normas y forma de trabajo oportuno para trabajar en equipo de manera organizada y garantizando ayuda recíproca al resto de compañeros de su grupo.
+
+#### Confianza
+
+La confianza es uno de los pilares básicos de la vida social moderna, e implica la generación de redes sociales necesarias para la realización personal. De esta forma:
+
+- a) El sistema educativo, y en concreto, la educación emprendedora supone un importante agente socializador y promotor de confianza o desconfianza.
+- b) La educación emprendedora ofrece contenidos y lo que es más importante, trabaja de lleno en lo relativo a las relaciones interpersonales, las vivencias y experiencias .
+- c) En este sentido, hemos de proporcionar experiencias de aprendizaje memorables , que motiven al alumnado a aprender, a mejorar, y a crecer como persona, tanto individualmente como en grupo.
+
+### Infografía de Las 4 Cs de Educación Emprendedora
 
 A continuación se ofrece una infografía explicativa de esa 'caja de herramientas':
 
-## Las 4 Cs de Educación Emprendedora
-
-La caja de herramientas de todo alumno/a emprendedor/a
+La caja de herramientas de todo alumno/a emprendedor/a (Libro p.24)
 
 1. 1C Creatividad: Todos somo creativos. Solo hace falta aprender a ser creativo. Sin miedo, Educación integral, Crecimiento personal
 2. 2C Comunicación: Una limitación a nivel comunicativo implica limitación a nivel personal y profesional. Formas de comunicación, Medios de comunicación, Práctica
 3. 3C Cooperación: Emprender se hace en grupo. El trabajo del futuro será por proyectos. Normas comunes, Formas de trabajo, Realización de tareas
 4. 4C Confianza: Pilar básico de la vida social moderna. Agente socializador, relaciones interpersonales, Experiencias memorables
 
-www.pablopenalver.com
-
-Una vez que tenemos planteado el problema sobre cómo desarrollar el espíritu emprendedor entre el alumnado, y traducido a reto , trabajar y cultivar esas herramientas básicas para enfrentarte a la vida , nos corresponde abordar cómo hacerlo. Ahí, Lean Startup es la clave.
+Una vez que tenemos planteado el problema sobre cómo desarrollar el espíritu emprendedor entre el alumnado, y traducido a reto, trabajar y cultivar esas herramientas básicas para enfrentarte a la vida, nos corresponde abordar cómo hacerlo. Ahí, Lean Startup es la clave.
 
 ## 3. AJUSTE METODOLOGÍA-ALUMNO
 
@@ -338,30 +320,37 @@ Hemos comprobado que si trabajamos la educación emprendedora con Lean Startup d
 
 Ahora bien, para poder realizarlo, tenemos que tener presentes una serie de condicionantes que afectan al proceso educativo, y que, obviamente, Lean Startup tiene que respetar:
 
-## Condicionantes que afectan al proceso educativo
+### Condicionantes que afectan al proceso educativo
 
-1. La secuencia básica del proceso educativo : partir de lo general, análisis del contenido, y sacar conclusiones de lo aprendido. Del análisis de este condicionante, podemos establecer 3 fases en la aplicación de Lean Startup en Educación:
-   - a. Partir de lo general : en este apartado se abordará la figura del emprendedor, y lo que es más importante, conocerse como emprendedor, con sus fortalezas y debilidades. A la vez, se determinará el ámbito de trabajo: el problema a resolver. Y aplicaremos Design Thinking para entenderlo, fijar el reto, y proponer soluciones innovadoras.
-   - b. Análisis : en esta segunda parte se abordaría Lean Startup en su versión didáctica. A partir de una idea de negocio previamente validada, se procedería a su contextualización para poder prototiparla. Posteriormente se llevaría a cabo una validación del prototipo mediante experimentos con el fin de aprender.
-   - c. Síntesis : realizadas una serie de iteraciones en función del tiempo disponible, y con lo aprendido, el alumno debe ser capaz de hacer un speech sobre su modelo de negocio con el fin de defenderlo y presentarlo a un determinado acto (concurso, ronda de financiación, etc).
+#### 1. La secuencia básica del proceso educativo:
 
-2. El currículo básico : a pesar de la crítica efectuada al currículo actual, es norma preceptiva y por lo tanto de obligado cumplimiento. El profesorado de emprendimiento debe reflexionar sobre cómo abordar el mismo, y a la vez dar respuesta a las exigencias que nos hemos planteado. Una propuesta de solución sería la siguiente:
-   - a. El eje de un currículo de emprendimiento sigue siendo un Plan de Empresa . En este sentido, se puede abordar de forma teórica al plantear al alumno el proceso de Customer Development. En algunos currículos será suficiente. Si el docente considera necesario abordarlo, puede optar por el denominado Plan de Negocios Ágil, y abordarlo una vez validado el modelo de negocio.
-   - b. Entendido un Plan de Negocios como hemos citado en el punto anterior, es preciso un proceso de aprendizaje rápido, ágil , constituido por Lean Startup para definir y validar el modelo de negocio previo a la elaboración de un Plan de Empresa.
+partir de lo general, análisis del contenido, y sacar conclusiones de lo aprendido. Del análisis de este condicionante, podemos establecer 3 fases en la aplicación de Lean Startup en Educación:
 
-3. Cambio de la metodología educativa . Es obligado y urgente un cambio radical y una actualización de la metodología docente. En este sentido, nuestra experiencia se basa en una metodología que alterna diferentes métodos de enseñanza-aprendizaje, pero que ante todo se basa en metodologías activas, es decir:
-   - a. Aprendizaje Basado en Proyectos. El eje de la metodología aplicada en el aula se basa en el ABP o PBL. Y es así, porque a grandes rasgos despierta el interés del alumnado, lleva a cabo un aprendizaje significativo, permite integrar conocimientos y además favorece el desarrollo de habilidades. Puedes acceder a mi portfolio sobre ABP para profundizar en esta cuestión.
-   - b. Learning by doing. Se trata de aprender haciendo cosas, o el denominado aprendizaje natural . En palabras de Schank, nadie aprende a patinar o a montar en bicicleta leyendo un libro sino efectuando dichas acciones y, por supuesto, cayéndose. El fallo o el error es una clave del aprendizaje natural para Schank.
-   - c. Design Thinking. Se trata de usar la sensibilidad y métodos de los diseñadores para hacer coincidir las necesidades de las personas con lo que es tecnológicamente factible y con lo que una estrategia viable de negocios puede convertir en valor para el cliente y en una oportunidad para el mercado. Es clave: trabajar duro, nada es gratis, y por supuesto, trabajar en equipo , donde el pensamiento lateral se configura como una herramienta clave.
-   - d. Storytelling. Para nosotros será clave contar historias. Y el Storytelling es contar historias . Ha sido una forma de expresión y transmisión del conocimiento de toda la vida. Ha estado presente siempre. Aplicado a la empresa, el modelo de negocios y el marketing, el storytelling consiste en contar una historia relacionada con la empresa, el producto o servicio para que genere una conexión emocional con sus clientes.
-   - e. Gamificación. Se trata de aprender jugando, una de las formas más efectivas (y divertidas) que existen para obtener aprendizajes. La gamificación es una forma de aplicar el concepto de juego en diferentes ámbitos, logrando así 'potenciar la motivación, la concentración, el esfuerzo y la fidelización' a través de mecánicas de juegos. Es ideal la combinación de seriedad y juego.
-   - f. Flipped Classroom. Muy relacionado con el ABP está la clase inversa, y esto lo hacemos en algunas fases del curso. Literalmente, es poner la clase 'al revés '. Esto implica que el alumnado trabaja y hace lo que, habitualmente, entendemos por 'tareas' o 'deberes' en la clase: Las explicaciones del docente las verá o escuchará en casa , bien a través de vídeos o podcasts; los trabajos en el aula son principalmente grupales (colaborativo )
+- a. Partir de lo general : en este apartado se abordará la figura del emprendedor, y lo que es más importante, conocerse como emprendedor, con sus fortalezas y debilidades. A la vez, se determinará el ámbito de trabajo: el problema a resolver. Y aplicaremos Design Thinking para entenderlo, fijar el reto, y proponer soluciones innovadoras.
+- b. Análisis : en esta segunda parte se abordaría Lean Startup en su versión didáctica. A partir de una idea de negocio previamente validada, se procedería a su contextualización para poder prototiparla. Posteriormente se llevaría a cabo una validación del prototipo mediante experimentos con el fin de aprender.
+- c. Síntesis : realizadas una serie de iteraciones en función del tiempo disponible, y con lo aprendido, el alumno debe ser capaz de hacer un speech sobre su modelo de negocio con el fin de defenderlo y presentarlo a un determinado acto (concurso, ronda de financiación, etc).
 
-A continuación muestro una infografía sobre cómo quedaría el ajuste metodología-alumno:
+#### 2. El currículo básico :
 
-## Infografía ajuste método-alumno
+a pesar de la crítica efectuada al currículo actual, es norma preceptiva y por lo tanto de obligado cumplimiento. El profesorado de emprendimiento debe reflexionar sobre cómo abordar el mismo, y a la vez dar respuesta a las exigencias que nos hemos planteado. Una propuesta de solución sería la siguiente:
 
-Lean Startup en Educación
+- a. El eje de un currículo de emprendimiento sigue siendo un Plan de Empresa. En este sentido, se puede abordar de forma teórica al plantear al alumno el proceso de Customer Development. En algunos currículos será suficiente. Si el docente considera necesario abordarlo, puede optar por el denominado Plan de Negocios Ágil, y abordarlo una vez validado el modelo de negocio.
+- b. Entendido un Plan de Negocios como hemos citado en el punto anterior, es preciso un proceso de aprendizaje rápido, ágil, constituido por Lean Startup para definir y validar el modelo de negocio previo a la elaboración de un Plan de Empresa.
+
+#### 3. Cambio de la metodología educativa.
+
+Es obligado y urgente un cambio radical y una actualización de la metodología docente. En este sentido, nuestra experiencia se basa en una metodología que alterna diferentes métodos de enseñanza-aprendizaje, pero que ante todo se basa en metodologías activas, es decir:
+
+- a. Aprendizaje Basado en Proyectos. El eje de la metodología aplicada en el aula se basa en el ABP o PBL. Y es así, porque a grandes rasgos despierta el interés del alumnado, lleva a cabo un aprendizaje significativo, permite integrar conocimientos y además favorece el desarrollo de habilidades. Puedes acceder a mi portfolio sobre ABP para profundizar en esta cuestión.
+- b. Learning by doing. Se trata de aprender haciendo cosas, o el denominado aprendizaje natural . En palabras de Schank, nadie aprende a patinar o a montar en bicicleta leyendo un libro sino efectuando dichas acciones y, por supuesto, cayéndose. El fallo o el error es una clave del aprendizaje natural para Schank.
+- c. Design Thinking. Se trata de usar la sensibilidad y métodos de los diseñadores para hacer coincidir las necesidades de las personas con lo que es tecnológicamente factible y con lo que una estrategia viable de negocios puede convertir en valor para el cliente y en una oportunidad para el mercado. Es clave: trabajar duro, nada es gratis, y por supuesto, trabajar en equipo , donde el pensamiento lateral se configura como una herramienta clave.
+- d. Storytelling. Para nosotros será clave contar historias. Y el Storytelling es contar historias . Ha sido una forma de expresión y transmisión del conocimiento de toda la vida. Ha estado presente siempre. Aplicado a la empresa, el modelo de negocios y el marketing, el storytelling consiste en contar una historia relacionada con la empresa, el producto o servicio para que genere una conexión emocional con sus clientes.
+- e. Gamificación. Se trata de aprender jugando, una de las formas más efectivas (y divertidas) que existen para obtener aprendizajes. La gamificación es una forma de aplicar el concepto de juego en diferentes ámbitos, logrando así 'potenciar la motivación, la concentración, el esfuerzo y la fidelización' a través de mecánicas de juegos. Es ideal la combinación de seriedad y juego.
+- f. Flipped Classroom. Muy relacionado con el ABP está la clase inversa, y esto lo hacemos en algunas fases del curso. Literalmente, es poner la clase 'al revés '. Esto implica que el alumnado trabaja y hace lo que, habitualmente, entendemos por 'tareas' o 'deberes' en la clase: Las explicaciones del docente las verá o escuchará en casa , bien a través de vídeos o podcasts; los trabajos en el aula son principalmente grupales (colaborativos)
+
+### Infografía ajuste método-alumno
+
+A continuación muestro una infografía sobre cómo quedaría el ajuste metodología-alumno Lean Startup en Educación (Libro p.27)
 
 Esquema del emprendedor en España. Sexo, edad, formación y sobre todo situación laboral, definen el perfil de un emprendedor en España. Es fundamental conocer estos datos para poder mejorarlos.
 
@@ -398,62 +387,58 @@ La mayoría de los alumnos mejoran. Abordar las clases de emprendimiento mediant
 2. El reto
 3. La solución: el ajuste método-alumnado
 
-www.pablopenalver.com
-
 El correlato lógico de nuestro planteamiento consiste en conocer qué pasos vamos a dar, para, bajo la metodología explicada, aplicar la educación emprendedora en el aula. Y para ello establecemos 6 pasos, retos, proyectos o problemas: Emprender, Idear, Contextualizar, Prototipar, Validar y Comunicar.
 
-El esquema básico explicado se puede representar mediante la siguiente infografía:
+### Infografía Metodología Lean Startup en Educación
 
-## ELS2015
+El esquema básico explicado se puede representar mediante la siguiente infografía: (Libro p.28)
 
 ESO, Bachillerato y Formación Profesional
-Pablo Peñalver Alonso -@ppenalvera
 
-### Ejes básicos
+- Ejes básicos
+  - Habilidades
+  - Lean Startup
+  - Design Thinking
+  - PLE
+  - ABP
 
-Habilidades
+- Habilidades
+  - Creatividad
+  - Comunicación
+  - Cooperacion
+  - Confianza
+  - Educación Líquida - Multicanal
+  - Enseñanza Individualizada - Infoxicación
+  - Formación Flexible - Aprendizaje mixto y ubicuo
 
-- Lean Startup
-- Design Thinking
-- PLE
-- ABP
-
-### Habilidades
-
-- Creatividad
-- Comunicación
-- Cooperacion
-- Confianza
-
-- Educación Líquida - Multicanal
-- Enseñanza Individualizada - Infoxicación
-- Formación Flexible - Aprendizaje mixto y ubicuo
-
-### ELS España Lean Startup
-
-1. Inicio del curso
-2. EMPRENDER: Cualidades, Selfie, Autoevaluación, Presentación, Startups
-3. IDEAR: Idea de negocio, Storytelling, Debate, Prototipo básico, Entrevista, Validación inicial
-4. CONTEXTUALIZAR: Análisis DAFO, Mapa empatía, Océanos azules
-5. PROTOTIPAR: Lienzo propuesta de valor, Lienzo modelo negocios, PMV
-6. VALIDAR: Entrevista C-P-S, Análisis, Perseverar, Pivotar
-7. COMUNICAR: Competición, Foro de inversion, Elevator Pitch
-8. Final de curso
+- ELS2015 - España Lean Startup
+  1.  Inicio del curso
+  2.  EMPRENDER: Cualidades, Selfie, Autoevaluación, Presentación, Startups
+  3.  IDEAR: Idea de negocio, Storytelling, Debate, Prototipo básico, Entrevista, Validación inicial
+  4.  CONTEXTUALIZAR: Análisis DAFO, Mapa empatía, Océanos azules
+  5.  PROTOTIPAR: Lienzo propuesta de valor, Lienzo modelo negocios, PMV
+  6.  VALIDAR: Entrevista C-P-S, Análisis, Perseverar, Pivotar
+  7.  COMUNICAR: Competición, Foro de inversion, Elevator Pitch
+  8.  Final de curso
 
 ## 4. EMPRENDER
 
 Ante todo, señalar que todo reto supone tener, conseguir, alcanzar un objetivo concreto, tangible. En este reto, simulamos la formación de startups, con el requisito de equilibrio entre todas ellas, con el fin de que estén formadas por alumnos lo más heterogéneos posibles, y así los grupos sean, entre sí, lo más homogéneos posible. Para ello, analizamos la figura del emprendedor bajo cuatro puntos de vista:
 
-1. Teórico . Como todo aspecto curricular, ha de conocerse el alcance del concepto que tratamos de aplicar. En este caso, sería la figura del emprendedor, sus cualidades, destacando la pasión, la ilusión y el talento. Como no, también se aborda la figura del emprendedor social.
-2. Práctico . De la teoría se pasa a la práctica, y en este sentido salimos a conocer al emprendedor de nuestro entorno, mediante una breve entrevista. Esta dinámica se denomina Selfie Emprendedor , y es obra de las docentes de Formación y Orientación Laboral, Isabel González, Paz Fernández de la Vera y Elena Rodríguez . Puedes acceder a la dinámica en el siguiente link: http://selfieemprendedor.blogspot.com.es/ .
-3. Objetivo . Con los dos puntos anteriores estamos en condiciones de evaluarnos como emprendedores, mediante una app habilitada al efecto. Mediante este análisis, conseguimos conocernos mejor e información objetiva sobre el alumnado.
-4. Subjetivo . Con los puntos anteriores se pasa a una presentación de cada alumno, lo que nos permitirá aumentar el grado de información de cada alumno, esta vez, basada en su exposición directa.
+### 4 puntos de vista de la figura del emprendedor
+
+1. Teórico. Como todo aspecto curricular, ha de conocerse el alcance del concepto que tratamos de aplicar. En este caso, sería la figura del emprendedor, sus cualidades, destacando la pasión, la ilusión y el talento. Como no, también se aborda la figura del emprendedor social.
+2. Práctico. De la teoría se pasa a la práctica, y en este sentido salimos a conocer al emprendedor de nuestro entorno, mediante una breve entrevista. Esta dinámica se denomina Selfie Emprendedor , y es obra de las docentes de Formación y Orientación Laboral, Isabel González, Paz Fernández de la Vera y Elena Rodríguez . Puedes acceder a la dinámica en el siguiente link: http://selfieemprendedor.blogspot.com.es/ .
+3. Objetivo. Con los dos puntos anteriores estamos en condiciones de evaluarnos como emprendedores, mediante una app habilitada al efecto. Mediante este análisis, conseguimos conocernos mejor e información objetiva sobre el alumnado.
+4. Subjetivo. Con los puntos anteriores se pasa a una presentación de cada alumno, lo que nos permitirá aumentar el grado de información de cada alumno, esta vez, basada en su exposición directa.
+
+### Dinámica por grupos
 
 Con la información de los puntos anteriores se configuran los diversos grupos de clase que funcionarán a modo de startup en el aula, y convirtiendo ésta en una aceleradora simulada.
 
 Nuestro planteamiento, por tanto, supone convertir el aula de emprendimiento en una aceleradora. Convertir el aula tradicional en un espacio abierto, creativo, y donde los roles de profesor y alumno cambien completamente.
 
-Comenzaremos el rodaje de los grupos con el Reto de los 5 euros, adaptación del Reto de los 5 dólares, ideado por Tina Seelig , de la Universidad de Stanford:
+Comenzaremos el rodaje de los grupos con el Reto de los 5 euros, adaptación del Reto de los 5 dólares, ideado por Tina Seelig, de la Universidad de Stanford:
 
 https://www.youtube.com/watch?v=VVgIX0s1wY8
 
@@ -461,9 +446,9 @@ Esta dinámica pone en situación a los alumnos, y les deja claro el objetivo de
 
 Tras la realización de la dinámica del Reto de los 5 euros, los alumnos empiezan a ser conscientes de su potencial, de lo que pueden hacer, y estarán preparados para comenzar a trabajar en una idea propia, una idea que se trabajará a lo largo de todo el curso, y la que los convertirá en expertos en esa materia.
 
-A continuación se muestra una infografía donde se visualiza el trabajo a realizar en Emprender , como primer paso de educación emprendedora en el aula.
+### Historia visual de EMPRENDER EN EL AULA
 
-## Historia visual I de EMPRENDER EN EL AULA
+A continuación se muestra una infografía donde se visualiza el trabajo a realizar en Emprender, como primer paso de educación emprendedora en el aula.(Libro p.30)
 
 El primer reto de todo alumno emprendedor
 
@@ -471,22 +456,20 @@ El primer reto de todo alumno emprendedor
    - Concepto
    - Cualidades
    - Casos de éxito
+   - EN ESPECIAL: Ampliación de contenidos
+   - Tipos de emprendedor
+   - Emprendedor social
+   - Competencias directivas
+   - 7 SECRETOS: Emprendedor de éxito
+   - Elige
+   - Pasión
+   - Talento
+   - Innova
+   - Dar para recibir
+   - Oportunidad de negocio
+   - Otras cuestiones
 
-- EN ESPECIAL: Ampliación de contenidos
-  - Tipos de emprendedor
-  - Emprendedor social
-  - Competencias directivas
-
-- 7 SECRETOS: Emprendedor de éxito
-  - Elige
-  - Pasión
-  - Talento
-  - Innova
-  - Dar para recibir
-  - Oportunidad de negocio
-  - Otras cuestiones
-
-2. SELFIE EMPRENDEDOR - PRACTICA
+2. SELFIE EMPRENDEDOR - PRÁCTICA
    - Emprendedor
    - Empresa
    - Aspectos + y -
@@ -502,19 +485,15 @@ El primer reto de todo alumno emprendedor
    - Mercado de emprendedores
 
 5. STARTUPS - ACELERADORA
-
-- El aula se convierte en una aceleradora de startups
+   - El aula se convierte en una aceleradora de startups
 
 6. RET0 DE L0S 5€ - SÍNTESIS DEL CURSO
 
-- Creatividad, comunicación, cooperación y confianza desde el primer dia
+- Creatividad, comunicación, cooperación y confianza desde el primer día
 
-### Formación de startups
+Formación de startups
 
-Grupo-clase --> Grupos de trabajo
-
-Autor: Pablo Peñalver Alonso
-www.pablopenalver.com
+Grupo-clase >> Grupos de trabajo
 
 ## 5. IDEAR
 
@@ -523,6 +502,8 @@ Formados los grupos o startups, y puestos a prueba comenzamos con el proceso emp
 Para ello es clave elegir una idea de negocio que ante todo sea cercana a sus intereses y motivaciones. Idea de negocio que en principio sólo aparecerá sobre el papel, pero que irá creciendo a medida que pasan las semanas y el proyecto va tomando forma con Lean Startup.
 
 A partir de ahí, los alumnos trabajaran con herramientas fundamentales para un emprendedor, tales como creatividad, storytelling, prototipo, entrevista, roleplaying, y sobre todo, relacionando el aprendizaje dentro del aula con el que se produzca fuera de ella.
+
+### Pasos Idear
 
 Para ello, vamos a seguir los siguientes pasos:
 
@@ -535,11 +516,9 @@ Para ello, vamos a seguir los siguientes pasos:
 7. Entrevista para empatizar. El paso siguiente es la preparación de una entrevista para empatizar con el cliente. La idea básica consiste en validar una hipótesis: ¿existe realmente el problema? Tras preparar la entrevista, la ponemos a prueba, y tras refinarla, salimos del aula. Estamos ante una entrevista breve, pero que nos permitirá validar si realmente existe el problema, y además, empezaremos a conocer a nuestro cliente, ambos aspectos clave.
 8. Validación inicial de la idea. Tras validar la idea, retocamos la historia y prototipo y estamos en condiciones de dar el siguiente paso. Si realmente no existe el problema, aunque nosotros pensáramos que era así, pasaremos a repetir el proceso de validación con la segunda idea del ranking de ideas de negocio establecido en el punto 4.
 
-A continuación, recogemos una síntesis del proceso de ideación mediante una infografía:
+### Infografía Historia visual de Idear en el aula
 
-## Historia visual de Idear en el aula
-
-(ver libro p.32)
+A continuación, recogemos una síntesis del proceso de ideación mediante una infografía: (ver libro p.32)
 
 1. Brainstorming
 2. Cardsorting
@@ -559,6 +538,8 @@ Una vez que hemos validado la idea de negocio, es clave tener la máxima informa
 
 Ambas actuaciones las realizaremos en base al entorno de la idea de negocio, y lo haremos desde lo más lejano hasta lo más cercano. Así, analizaremos con detalle, desde el entorno general, al entorno específico, es decir, cliente potencial y competencia. Y para ello, manejamos tres herramientas:
 
+### 3 herramientas para CONTEXTUALIZAR
+
 1. Análisis DAFO
    - a. El análisis DAFO nos obliga a conseguir y valorar mucha información sobre nuestro entorno. Relacionado con el mismo, también valoramos los puntos fuertes y débiles de nuestra startup.
    - b. Ambos análisis nos permiten conocer la situación actual de nuestra startup con respecto a la idea elegida y el entorno en el que nos vamos a mover.
@@ -574,13 +555,11 @@ Ambas actuaciones las realizaremos en base al entorno de la idea de negocio, y l
 
    - b. En este sentido, la estrategia de océanos azules constituye una herramienta creativa muy importante a través del análisis y reflexión de diferentes vías de exploración , que hagan que podamos describir una propuesta de valor excepcional, basada en foco, divergencia y mensaje contundente.
 
+### Infografía Contextualizar
+
+El tercer reto de todo alumno emprendedor (libro p.34)
+
 A continuación puedes ver una infografía que sintetiza el proceso descrito:
-
-## Contextualizar
-
-EL tercer reto de todo alumno emprendedor
-Por @ppenalvera
-(libro p.34)
 
 1. Fase inicial: ¿Qué sabemos del problema/necesidad?
 2. Análisis DAFO: Análisis del entorno lejano y su comparativa con nuestra startup: debilidades, fortalezas, oportunidades y amenazas
@@ -589,12 +568,11 @@ Por @ppenalvera
 5. Secuencia estratégica correcta: Propuesta de valor excepcional, Precio a pagar, Costes < precio, Prototipo
 6. A prototipar
 
-Fuente: www.pablopenalver.com
-España Lean Startup 2015
-
 ## 7. PROTOTIPAR
 
 Tras la fase anterior, pasamos a un nuevo reto, en el que damos forma a nuestro modelo de negocio. Pero para ello, seguimos una secuencia lógica que ayuda mucho al alumnado a la hora del prototipado:
+
+### Secuencia lógica PROTOTIPADO
 
 1. Lienzo de la propuesta de valor
    - a. Derivado de la fase anterior, tenemos dos de los elementos clave de un modelo de negocio que han de encajar perfectamente: problema/necesidad del cliente y nuestra solución, nuestra propuesta de valor.
@@ -620,12 +598,11 @@ Tras la fase anterior, pasamos a un nuevo reto, en el que damos forma a nuestro 
      - ix. Role-playing
      - x. Aplicación web/móvil
 
+### Infografía Prototipar con Lean Startup
+
+El 4º reto de todo alumno emprendedor (Libro p.36)
+
 A continuación os mostramos una infografía que describe visualmente el proceso de prototipado:
-
-## Prototipar con Lean Startup
-
-El 4º reto de todo alumno emprendedor
-Autor: @ppenalvera
 
 Fidelidad: Baja, Media, Alta
 
@@ -661,13 +638,13 @@ Fidelidad: Baja, Media, Alta
    - Decisión:
      1. Perseverar o pivotar
 
-Fuente: www.pablopenalver.com (libro p.36)
-
 ## 8. VALIDAR
 
 Comenzamos la quinta fase de nuestro proyecto emprendedor. Una vez que hemos prototipado, y en definitiva, hemos construido un prototipo que refleja nuestras hipótesis, nos corresponde validarlas en el mercado. Estamos hablando de transformar nuestras opiniones o puntos de vista o primeras decisiones en verdaderos hechos.
 
 Para ello, seguimos un orden determinado, a saber:
+
+### Orden VALIDAR
 
 1. Validar el perfil del cliente y su problema. Para ello nos basamos en la entrevista de problema. Consiste en una de las actividades educativas más duras, pero también más motivadoras, porque aquí el alumnado es consciente dónde está el verdadero aprendizaje que debe tener un emprendedor. Entrevistas de 25-30 minutos consiguen un enriquecimiento tal, que no hay lienzo al que se le dé la vuelta tras esta dinámica.
 2. Validar nuestra propuesta de valor. A continuación, y constatado el problema del cliente, abordamos la solución que le ofrecemos, también mediante una entrevista de solución. Los resultados son mejores cuánto más nos creemos el trabajo que hemos hecho y nuestra implicación en el proyecto. A la vez comprobamos cómo nuestro prototipo no deja de ser eso, un producto que nos permite aprender.
@@ -681,10 +658,9 @@ Para ello, seguimos un orden determinado, a saber:
    - c. Tener margen suficiente,
    - d. Tener un tamaño de mercado lo suficientemente grande para el margen citado.
 
-A continuación os mostramos en una infografía el proceso de validación descrito:
+### Infografía Validación de un Modelo de Negocio
 
-## Validación de un Modelo de Negocio
-
+A continuación os mostramos en una infografía el proceso de validación descrito: (Libro p.38)
 Customer Segments
 
 1. Entrevista de problema
@@ -722,6 +698,8 @@ Podemos hablar de muchos puntos a tocar, todos ellos importantes, pero a nivel e
 
 En el aula trabajamos tanto la herramienta para llevar a cabo la presentación como el contenido. Nosotros nos vamos a centrar en el contenido, y en este sentido, destacamos los siguientes puntos:
 
+### Contenidos Comunicar
+
 1. Problema. Comenzamos nuestro pitch teniendo en cuenta que lo que realmente vamos a hacer es contar una historia; contaremos una historia sobre nuestro proyecto, ahondando en el concepto de storytelling que tanto se trabaja a lo largo del curso. Nuestra historia comenzará con la idea gancho para atraer desde el principio la atención del público.
 2. Solución. A continuación, y siguiendo nuestra historia abordamos la solución que ofrecemos al cliente para resolver su problema. Entendidos estos dos puntos, pasamos a abordar el modelo de negocio.
 3. Encaje producto-mercado . Dejamos claro que enlace producto-mercado en los términos marcados en el epígrafe anterior.
@@ -733,11 +711,10 @@ En el aula trabajamos tanto la herramienta para llevar a cabo la presentación c
 9. Roadmap. Todo lo anterior habla sobre lo realizado. Finalizando, abordaremos qué pretendemos en el futuro y lo ilustraremos con datos gráficos que muestren todo: pasado, actualidad y futuro, incluyendo datos financieros.
 10. Despedida. Por último debemos esforzarnos que destacar porqué somos importantes, clave en el sector en el que vamos a competir y qué nos diferencia del resto.
 
-Por último, y como hemos hecho en epígrafes anteriores, veamos este esquema mediante una infografía :
+## Infografía Comunicar:
 
-## Comunicar: 10 pasos de un elevator pitch
-
-@appenalvera
+10 pasos de un elevator pitch (Libro p.40)
+Por último, y como hemos hecho en epígrafes anteriores, veamos este esquema mediante una infografía:
 
 1. Presentación: gancho
 2. Problema: Problema a resolver, a través de storytelling
@@ -769,44 +746,23 @@ Por último, y como hemos hecho en epígrafes anteriores, veamos este esquema me
 19. Despedida: Frase de despedida indicando por que somos especiales. Frase para el recuerdo
 20. Fin/pacto
 
-Fuente: www.pablopenalver.com
-
 # MÓDULO 1. EMPRENDER
-
-## ÍNDICE
-
-1. Introducción
-2. El emprendedor: concepto y cualidades
-   1. La fórmula del éxito
-   2. Los 7 tipos de emprendedor
-3. El emprendedor social
-   1. Concepto y notas básicas: innovador y comprometido
-   2. Ejemplos
-   3. Pasos clave para ser un emprendedor social
-4. 7 secretos para ser un emprendedor de éxito
-5. Evaluación del emprendedor
-6. De interés: la taxonomía de Bloom
-7. Aplicaciones de escritorio
-   1. Autoevaluación como emprendedor: Confebask
-   2. Autoevaluación como emprendedor: DGPYME
-   3. Tablero online: Padlet
-   4. Mapa conceptual: Mindomo
-   5. Presentaciones: Emaze y Haiku Deck
-   6. Nube de palabras: Tagxedo
-8. Apps móviles
-   1. Fotografía: camera 360, Snapseed y Photo Editor Pro
-   2. Creación de collages: Photo Grid
-   3. Sonido: SoundCloud
 
 ## 1. INTRODUCCIÓN
 
-Como hemos citado en el capítulo anterior, emprender se podría definir como la capacidad para hacer los sueños realidad. Según la definición de la Real Academia de la Lengua Española, además, en su primera acepción figura cómo ' Acometer y comenzar una obra, un negocio, un empeño, especialmente si encierran dificultad o peligro.' Por lo tanto, el emprendimiento deberíamos considerarlo como la forma de organizar las capacidades y recursos propios para lograr unos objetivos, y no tanto en su vertiente económica o empresarial hacia la que no todas las personas podemos estar inclinados. Por lo tanto, la educación en emprendimiento habla más de competencias que de contenidos, más de actitudes y habilidades que de conocimientos técnicos particulares.
+### 1.1. Qué entendemos por emprender
+
+Como hemos citado en el capítulo anterior, emprender se podría definir como la capacidad para hacer los sueños realidad. Según la definición de la Real Academia de la Lengua Española, además, en su primera acepción figura cómo 'Acometer y comenzar una obra, un negocio, un empeño, especialmente si encierran dificultad o peligro.' Por lo tanto, el emprendimiento deberíamos considerarlo como la forma de organizar las capacidades y recursos propios para lograr unos objetivos, y no tanto en su vertiente económica o empresarial hacia la que no todas las personas podemos estar inclinados. Por lo tanto, la educación en emprendimiento habla más de competencias que de contenidos, más de actitudes y habilidades que de conocimientos técnicos particulares.
 
 Con esta afirmación no queremos dar por sentado que los contenidos no sean importantes. Lo son, y mucho. Pero constituyen una herramienta de trabajo para el logro de objetivos. En educación, los contenidos son la excusa para trabajar en el aula, con el fin de conseguir desarrollar las competencias del alumnado.
 
+### 1.2. Un contexto de cambio permanente
+
 Es patente que el mundo, la sociedad, la humanidad han cambiado en los últimos años a un nivel frenético. El progreso tecnológico ha influido en nuestras vidas de una forma radical desde la Revolución Industrial, pero dado el ritmo innovador al que tenemos acceso en la actualidad, lo que observamos es que nos encontramos, quizá de forma definitiva e irremediable, en un contexto de cambio continuo, de incertidumbre permanente si se quiere.
 
-Este primer capítulo con contenido real del curso, o primer reto , según se vea, pretende conocer los rasgos característicos de una persona emprendedora, con el fin de conocernos y posteriormente cultivarlos.
+### 1.3. Qué vamos a trabajar en este capítulo
+
+Este primer capítulo con contenido real del curso, o primer reto, según se vea, pretende conocer los rasgos característicos de una persona emprendedora, con el fin de conocernos y posteriormente cultivarlos.
 
 Es preciso señalar que no entendemos que una persona sea emprendedora necesariamente en el seno de una actividad empresarial. Ampliamos claramente ese concepto a toda persona que desarrolla una serie de habilidades y las ejercita, con independencia del ámbito en el que se desarrolle. Así, nosotros buscamos en concreto nuestra definición como alumnos emprendedores.
 
@@ -820,7 +776,9 @@ Comenzamos esta primera unidad con un vídeo muy motivador sobre lo que es empre
 
 Pasamos a definir qué entendemos por una persona emprendedora. Y qué mejor forma de hacerlo que a través de una infografía:
 
-## Perfil del emprendedor/a
+### Infografía Perfil del emprendedor/a
+
+(Libro p.44)
 
 - Edad: 35 años edad media
 - Sexo: 62% hombres, 38% mujeres
@@ -845,10 +803,7 @@ Pasamos a definir qué entendemos por una persona emprendedora. Y qué mejor for
   6. Problema a solucionar
   7. Foco
 
-Pablo Peñalver Alonso
-@appenalvera
-
-## 2.1. LA FÓRMULA DEL ÉXITO
+### 2.1. LA FÓRMULA DEL ÉXITO
 
 ¿Por qué hemos hablado de emprendedor y de emprendedor de éxito?
 
@@ -862,7 +817,7 @@ Así, el Mago More, en una ponencia de lujo, tanto por creatividad como por idea
 
 En definitiva, podemos hablar de que: pasión + ilusión + talento = éxito. Este es el camino del éxito . Más breve, en la misma línea, pero muy cercano a nuestros alumnos, tenemos este maravilloso vídeo (fuente: LuzuVlogs). ¿Tenemos perfectamente claro lo que es un emprendedor, al menos a nivel teórico? ¿Sí? Entonces pasamos a la práctica.
 
-## 2.2. LOS 7 TIPOS DE EMPRENDEDOR
+### 2.2. LOS 7 TIPOS DE EMPRENDEDOR
 
 Después de analizar cuáles son las notas básicas de un emprendedor nos toca abordar los distintos tipos de emprendedores.
 
@@ -872,7 +827,9 @@ En este sentido, la revista Emprendedores , dispone de un artículo muy actual s
 
 ## 3. EL EMPRENDEDOR SOCIAL
 
-## 3.1. CONCEPTO Y NOTAS BÁSICAS: INNOVADOR Y COMPROMETIDO
+### 3.1. CONCEPTO Y NOTAS BÁSICAS: INNOVADOR Y COMPROMETIDO
+
+#### Concepto
 
 Es muy interesante abordar el concepto de emprendedor social en el aula. Y son muy interesantes las experiencias de Aprendizaje-Servicio que pueden llevarse a cabo en educación.
 
@@ -881,6 +838,8 @@ El emprendedor social no es alguien que impulsa un proyecto en una red social, o
 El emprendedor social es emprendedor, pero que resuelve un problema muy concreto: un problema social. Las personas a las que beneficia con su gestión, son sus cuentas de resultados. Suma oportunidad de negocio y oportunidad de progreso social. Hombre o mujer con una visión movilizadora, que quiere crear valor para los que le rodean con esfuerzo, ingenio y tenacidad.
 
 Fuente: YouTube - BBVA Banca responsable
+
+#### Notas básicas
 
 Las notas básicas de un emprendedor social son:
 
@@ -897,7 +856,7 @@ Fuente: YouTube - ISDI TV
 
 Si quieres profundizar en este tema, puedes visualizar y descargarte la Guía del Emprendedor Social a continuación: Guía del emprendedor social
 
-## 3.2. EJEMPLOS
+### 3.2. EJEMPLOS
 
 Para inspirar a nuestro alumnado es muy importante que conocer ejemplos de éxito. A continuación analizamos casos muy claros de emprendedores sociales.
 
@@ -905,7 +864,7 @@ Si visitamos de nuevo la web de la revista "Emprendedores" tenemos 10 fantástic
 
 Fuente: http://www.emprendedores.es/casos-de-exito/premios-emprendedores-sociales-universidad-europea-2016
 
-## 3.3. PASOS CLAVE PARA SER UN EMPRENDEDOR SOCIAL
+### 3.3. PASOS CLAVE PARA SER UN EMPRENDEDOR SOCIAL
 
 Una empresa responsable siempre tiene ánimo de lucro. Si eres emprendedor, quieres ganar dinero, El tema es cómo.
 
@@ -915,7 +874,7 @@ Hablamos de una empresa social si es responsable hacia los accionistas, es decir
 
 Muchas ideas hoy en día nacen del enfoque de ayudar a alguien, pero sin perder de vista que creo riqueza para ganar, para crear riqueza para el conjunto de la sociedad, es decir generar relaciones positivas con quién te rodeas. Si eres de los piensan en los que te rodean, generas una propuesta de valor o beneficio para cada uno de ellos, el lucro se incrementará. En caso de voluntariado, el principal ayudado es el voluntario. Una empresa, un emprendedor, es social si hace el bien a los demás, y así hace un beneficio superior a los demás. Un emprendedor social obtiene lucro ayudando las expectativas de los Stakeholder , es decir, grupo de influencia entre los que me muevo.
 
-### Puntos clave :
+#### Puntos clave :
 
 1. Quiénes son: empleados, consumidores, clientes, gobiernos. Mapéalos.
 2. Quiénes son prioritarios: quiénes son los más importantes. Priorízalos.
@@ -943,31 +902,31 @@ El esquema básico que sigue la entrevista es el siguiente:
 
 Fuente: YouTube - Juan Haro
 
-## ACTIVIDAD NÚMERO 1. ANÁLISIS DE VÍDEOS E INFOGRAFÍAS
+### ACTIVIDAD NÚMERO 1. ANÁLISIS DE VÍDEOS E INFOGRAFÍAS
 
-- DEFINICIÓN : a lo largo de esta unidad hemos visualizado varios vídeos y observado varias infografías sobre el emprendedor, tipos, rasgos y características. Planteamos debatir en clase sobre los contenidos que consideremos relevantes. Estamos hablando de información teórica .
+- DEFINICIÓN: a lo largo de esta unidad hemos visualizado varios vídeos y observado varias infografías sobre el emprendedor, tipos, rasgos y características. Planteamos debatir en clase sobre los contenidos que consideremos relevantes. Estamos hablando de información teórica .
 
-- META : el objetivo persigue empezar a trabajar las cualidades de un emprendedor , tales como creatividad, comunicación, trabajo en grupo y confianza, pero en sus fases iniciales, y teniendo en cuenta que es previsible que no se haya hecho con anterioridad.
+- META: el objetivo persigue empezar a trabajar las cualidades de un emprendedor , tales como creatividad, comunicación, trabajo en grupo y confianza, pero en sus fases iniciales, y teniendo en cuenta que es previsible que no se haya hecho con anterioridad.
 
-- ESPACIO : el trabajo se desarrolla en aula . Para ello el profesor puede decidir trabajar previamente en pequeño grupo o directamente con el gran grupo.
+- ESPACIO: el trabajo se desarrolla en aula . Para ello el profesor puede decidir trabajar previamente en pequeño grupo o directamente con el gran grupo.
 
-- RECURSOS : para trabajar esta actividad se plantean como recursos varios vídeos e infografías a modo de ejemplo dentro de este dossier, si bien, en la red, podemos encontrar múltiples materiales de similar uso didáctico. Para ello es fundamental contar con cañón en aula.
+- RECURSOS: para trabajar esta actividad se plantean como recursos varios vídeos e infografías a modo de ejemplo dentro de este dossier, si bien, en la red, podemos encontrar múltiples materiales de similar uso didáctico. Para ello es fundamental contar con cañón en aula.
 
-- EVALUACIÓN : estas primer actividades sirven para tomar contacto con el grupo. Son vitales para integrar a los distintos alumnos dentro de una dinámica muy activa dentro del aula, y constituyen la base del buen funcionamiento del grupo a lo largo del curso escolar.
+- EVALUACIÓN: estas primer actividades sirven para tomar contacto con el grupo. Son vitales para integrar a los distintos alumnos dentro de una dinámica muy activa dentro del aula, y constituyen la base del buen funcionamiento del grupo a lo largo del curso escolar.
 
-## ACTIVIDAD NÚMERO 2. SELFIE EMPRENDEDOR
+### ACTIVIDAD NÚMERO 2. SELFIE EMPRENDEDOR
 
-- DEFINICIÓN : pasamos a la parte práctica en el análisis del emprendedor. Y apara ello, recurrimos a una fantástica actividad que ponen a nuestra disposición 3 docentes de FOL: Isabel González (Madrid), Elena Rodríguez (Salamanca) y Paz Fernández de la Vera (Asturias), y su proyecto Selfie Emprendedor.
+- DEFINICIÓN: pasamos a la parte práctica en el análisis del emprendedor. Y apara ello, recurrimos a una fantástica actividad que ponen a nuestra disposición 3 docentes de FOL: Isabel González (Madrid), Elena Rodríguez (Salamanca) y Paz Fernández de la Vera (Asturias), y su proyecto Selfie Emprendedor.
 
 Nos proponen hacer una breve entrevista a un emprendedor de nuestro entorno. Tras la misma, se procede a sintetizar los resultados en una especie de nube de palabras que señalará cómo es realmente el emprendedor de nuestra zona. A la vez, cada alumno, puede enviar, vía email, la entrevista realizada junto con el selfie realizado con el entrevistado. Ahora estamos hablando de información práctica .
 
-- META : el objetivo persigue conocer las cualidades de un emprendedor reales , es decir, la de los emprendedores de nuestra zona o entorno, algo que sin duda, conecta con la realidad de los chicos.
+- META: el objetivo persigue conocer las cualidades de un emprendedor reales , es decir, la de los emprendedores de nuestra zona o entorno, algo que sin duda, conecta con la realidad de los chicos.
 
-- ESPACIO : el trabajo se desarrolla fuera del aula . Para ello, los alumnos saldrán a la calle para hacer el trabajo de campo.
+- ESPACIO: el trabajo se desarrolla fuera del aula . Para ello, los alumnos saldrán a la calle para hacer el trabajo de campo.
 
-- RECURSOS : para trabajar esta actividad el alumno grabará en vídeo y/o audio la entrevista, y al finalizar la misma se hará un selfie con el entrevistado.
+- RECURSOS: para trabajar esta actividad el alumno grabará en vídeo y/o audio la entrevista, y al finalizar la misma se hará un selfie con el entrevistado.
 
-- EVALUACIÓN : en esta actividad podemos comprobar en qué medida maneja las habilidades de un emprendedor, y empezamos a valorar cómo trabaja fuera del aula , dinámica que debe ser habitual en un alumno emprendedor.
+- EVALUACIÓN: en esta actividad podemos comprobar en qué medida maneja las habilidades de un emprendedor, y empezamos a valorar cómo trabaja fuera del aula , dinámica que debe ser habitual en un alumno emprendedor.
 
 ## 5. EVALUACIÓN DEL EMPRENDEDOR
 
@@ -980,9 +939,9 @@ El test aborda los distintos temas tratados anteriormente y en forma de pregunta
 - Competencias intelectuales
 - Habilidades sociales
 
-(ver libro pp.51-52 para gráficos)
+### Desglose competencias y habilidades emprendedor
 
-Posteriormente cada competencia y habilidad se desglosa en otras de carácter menor, dando lugar a un análisis exhaustivo, como el que podéis ver a continuación:
+Posteriormente cada competencia y habilidad se desglosa en otras de carácter menor, dando lugar a un análisis exhaustivo, como el que podéis ver a continuación: (ver libro pp.51-52 para gráficos)
 
 Tras realizar el test, que consta de cuatro pasos, arroja, por ejemplo, los siguientes comentarios:
 
@@ -1009,7 +968,7 @@ Y finaliza con un consejo :
 
 También te proponemos que visites la sección de Cultura Emprendedora de la web de Formación de Confebask'.
 
-## ACTIVIDAD NÚMERO 3. TEST EMPRENDEDOR
+### ACTIVIDAD NÚMERO 3. TEST EMPRENDEDOR
 
 - DEFINICIÓN: una vez que conocemos las cualidades y características de un emprendedor, y además, el perfil de un emprendedor de nuestro entorno, nos toca evaluarnos como emprendedores. Para ello, recurrimos a una aplicación de escritorio que permita analizar el perfil de cada alumno de la forma más objetiva posible.
 
@@ -1021,7 +980,7 @@ También te proponemos que visites la sección de Cultura Emprendedora de la web
 
 - EVALUACIÓN: la actividad deberá ser incorporada al portfolio personal de cada alumno, con el fin de tener información relevante y objetiva del perfil de cada chico.
 
-## ACTIVIDAD NÚMERO 4. PRESENTACIÓN
+### ACTIVIDAD NÚMERO 4. PRESENTACIÓN
 
 - DEFINICIÓN: a modo de síntesis de las actividades que hemos realizado, nos corresponde ahora presentarnos al resto del grupo. La idea es suponer un mercado de emprendedores que pueden prestar sus servicios en diferentes startups . Para ello, cada alumno debe presentarse al resto de la clase en un tiempo aproximado de un minuto, destacando sus virtudes y con el uso de toda ayuda que estimen oportuna. Estamos hablando de presentar una información relevante del alumno emprendedor pero de tipo subjetivo .
 
@@ -1045,13 +1004,12 @@ Se identificaron tres Dominios de Actividades Educativas: el Cognitivo, el Afect
 
 Fuente: Eduteka
 
-## Un modelo para la definición de objetivos de aprendizaje en base a la Taxonomia de Bloom revisada
+### Infografía de Un modelo para la definición de objetivos de aprendizaje en base a la Taxonomia de Bloom revisada
 
 (ver infografía libro p.55)
-Raúl Santiago
-Traducido y adaptado de Fuente: http://www.theflippedclassroom.es/wp-content/uploads/2013/07/bloom.001.jpg
+Raúl Santiago - Traducido y adaptado de Fuente: http://www.theflippedclassroom.es/wp-content/uploads/2013/07/bloom.001.jpg
 
-## ACTIVIDAD NÚMERO 5. FORMACIÓN DE EQUIPOS
+### ACTIVIDAD NÚMERO 5. FORMACIÓN DE EQUIPOS
 
 - DEFINICIÓN: con la información recogida de las actividades anteriores, procedemos a la formación de grupos. Existen muchos criterios para la formación de grupos, todos ellos con sus ventajas e inconvenientes. Por mi experiencia, me gusta cómo funciona el siguiente: si vamos a formar grupos de 5 alumnos, confeccionamos 5 grupos e incluimos a los alumnos que tengan un perfil similar dentro de cada uno de ellos. Por ejemplo: un grupo con los mejores comunicadores, un grupo con aquellos más creativos, un grupo con aquellos a los que más les haya costado hacer las actividades previas, etc. Realizados los grupos, se comunica al alumnado, para que ahora, por acuerdo entre ellos, formen equipos de trabajo, con una única limitación: cada startup simulada sólo podrá tener un alumno de cada grupo. De esta forma, nos aseguramos startups de trabajo que cuenten con un alumno brillante en creatividad, otro en comunicación, etc.
 
@@ -1063,7 +1021,7 @@ Traducido y adaptado de Fuente: http://www.theflippedclassroom.es/wp-content/upl
 
 - EVALUACIÓN: esta actividad no tiene una evaluación concreta. Será el paso del curso, y la realización de dinámicas y actividades las que permitan evaluar el funcionamiento del grupo.
 
-## ACTIVIDAD NÚMERO 6. EL RETO DE LOS 5€
+### ACTIVIDAD NÚMERO 6. EL RETO DE LOS 5€
 
 - DEFINICIÓN: formados los equipos pasamos a probar cómo funcionan. Para ello, vamos a proponer una actividad que puede perfectamente sintetizar el curso. Se denomina "el reto de los 5€", y consiste en idear y llevar a la práctica una actividad con el fin de rentabilizar 5€. Esta dinámica ha sido creada por Tina Seelig, y puedes verla en el siguiente enlace:
 
@@ -1079,11 +1037,11 @@ Con alguna modificación, en la práctica realizamos: una presentación de la di
 
 - EVALUACIÓN: en esta actividad podemos comprobar en qué medida maneja las habilidades de un emprendedor, pero ahora dentro de un grupo. Se puede observar como habrá grupos muy conjuntados, y otros menos, pero en cualquier caso, información muy relevante para orientar a los distintos grupos desde el comienzo.
 
-## ACTIVIDAD NÚMERO 7. CONTRATO DE APRENDIZAJE
+### ACTIVIDAD NÚMERO 7. CONTRATO DE APRENDIZAJE
 
 - DEFINICIÓN: Los grupos han comenzado a funcionar y la gran mayoría del alumnado comienza a ser consciente de lo que pueden llegar a hacer. Es momento de explicarles que nuestro aula se va a convertir en una aceleradora de startups . Les explicaremos el concepto de startup y de aceleradora. Posteriormente les acercamos al concepto Lean Startup como metodología a seguir en nuestro curso de emprendimiento.
 
-Lo normal será que el alumnado muestre curiosidad por el trabajo propuesto y los retos que pueden conseguirse. Con el fin de que sea más fácil entender los principios básicos de Lean Startups, esta actividad propone que cada alumno firme un contrato de aprendizaje , mediante el cual aceptan las clausulas básicas de funcionamiento, es decir, los pilares fundamentales Lean Startup.
+Lo normal será que el alumnado muestre curiosidad por el trabajo propuesto y los retos que pueden conseguirse. Con el fin de que sea más fácil entender los principios básicos de Lean Startups, esta actividad propone que cada alumno firme un contrato de aprendizaje (ver libro p.57), mediante el cual aceptan las clausulas básicas de funcionamiento, es decir, los pilares fundamentales Lean Startup.
 
 - META: El objetivo de esta dinámica en facilitar que el alumnado interiorice los principios básicos Lean Startup que sustentan la metodología. Al darles forma de contrato, a la vez, suponen dar más compromiso al alumnado.
 
@@ -1202,7 +1160,7 @@ En materia de sonido puede resultar muy interesante dejar evidencia del trabajo 
   - Geoetiquetar las grabaciones con información sobre la ubicación
   - Escuchar listas de reproducción o crear las tuyas propias y compartir
 
-## ACTIVIDAD NÚMERO 8. MARCA PERSONAL
+### ACTIVIDAD NÚMERO 8. MARCA PERSONAL
 
 - DEFINICIÓN: Para rematar el tema, es preciso hacer saber a los alumnos la importancia de que nuestra imagen virtual, en la red, sea acorde al papel que vamos a desempeñar en el proyecto. Vamos a ser alumnos emprendedores , y es preciso tener un perfil en la red que refleje el mismo. Por ello, en esta actividad analizaremos que tipo de emprendedor queremos ser, en qué contenidos especializarnos, con el fin de trabajar en esta línea a partir de ahora.
 
@@ -1214,7 +1172,7 @@ En materia de sonido puede resultar muy interesante dejar evidencia del trabajo 
 
 - EVALUACIÓN : en esta actividad podemos comprobar en qué medida maneja las habilidades de un emprendedor, pero ahora para comunicar y difundir de forma creativa todo lo relacionado con su perfil. Es sumamente interesante analizar los logros que van realizando los alumnos en términos de seguidores en la redes sociales, calidad de los contactos, y crecimiento a nivel profesional.
 
-## ACTIVIDAD NÚMERO 9. PORTFOLIO DIGITAL
+### ACTIVIDAD NÚMERO 9. PORTFOLIO DIGITAL
 
 - DEFINICIÓN: Todo aprendizaje conseguido es preciso que conste en algún sitio. De esta forma, se propone crear un portfolio digital que sea la base de todos los conocimientos conseguidos, trabajos realizados, así como las valoraciones y recomendaciones que el propio alumno pueda realizar como prescriptor de un tema concreto.
 
@@ -1227,34 +1185,6 @@ En materia de sonido puede resultar muy interesante dejar evidencia del trabajo 
 - EVALUACIÓN : en esta actividad podemos comprobar en qué medida maneja las habilidades de un emprendedor, pero ahora para crear contenidos originales y con formato atractivo y original. La evaluación de esta actividad está íntimamente relacionada con la de la actividad anterior, referida a la marca personal.
 
 # MÓDULO 2. IDEAR
-
-## ÍNDICE
-
-1. Introducción
-2. Fase de diseño: ideación
-   1. La idea de negocio
-   2. Generación de ideas de negocio
-3. Proceso de selección de una idea de negocio
-   1. Brainstorming
-   2. Cardsorting
-   3. Maduración
-   4. Elección
-4. Proceso de validación de una idea de negocio
-   1. La técnica de las preguntas
-   2. Crear historias: el storytelling
-   3. Prototipar historias
-   4. Preparar una entrevista
-   5. Validación inicial
-5. Aplicaciones de escritorio
-   1. Murales: Murally
-   2. Líneas del tiempo: Dipity
-   3. Presentaciones dinámicas y colaborativas: Prezi
-   4. Ofimática online y disco duro virtual: Google Drive
-   5. Disco duro virtual: Dropbox
-6. Apps móviles
-   1. Listas: Wunderlist
-   2. Imágenes: Instagram
-   3. Tareas: Trello
 
 ## 1. INTRODUCCIÓN
 
@@ -1271,7 +1201,7 @@ Este módulo implica empezar a trabajar en equipo, lo que supone: compartir punt
 
 ## 2. FASE DE DISEÑO: IDEACIÓN
 
-## 2.1. LA IDEA DE NEGOCIO
+### 2.1. LA IDEA DE NEGOCIO
 
 Tener una buena idea es fundamental para el desarrollo del negocio. Varela señala que 'la identificación y creación de una oportunidad de negocio es la chispa que enciende el proceso y es el combustible que lo mantiene vivo'.
 
@@ -1281,7 +1211,7 @@ Teniendo en cuenta lo anterior, ya se puede generar la búsqueda de ideas y opor
 
 "La idea de producto o servicio debe proporcionar un 'valor agregado' al potencial cliente, sino será difícil desplazar a la competencia existente. Lo ideal sería ofrecer algo novedoso, mejorando lo existente, o bien satisfacer de mejor forma las necesidades del cliente."
 
-## 2.2. GENERACIÓN DE IDEAS
+### 2.2. GENERACIÓN DE IDEAS
 
 El hecho de crear una empresa y, en concreto, una pequeña o mediana empresa, se ve acompañado de un alto grado de incertidumbre , tanto por la rapidez en los cambios que se producen en el entorno económico, como por la alta competencia existente en cada uno de los sectores de actividad.
 
@@ -1289,7 +1219,7 @@ El proyecto empresarial debe despejar en lo posible dicha incertidumbre, tratand
 
 Todo proyecto de empresa se desarrolla en torno a una idea , que surge como consecuencia de la detección de una oportunidad de negocio , o lo que es lo mismo, por la identificación de un «nicho» o «hueco» de mercado. Incluso de forma más actual, un emprendedor detecta problemas, un verdadero problema, siendo éste la causa de la idea de negocio o solución al mismo.
 
-### ¿Dónde está el origen de las ideas o proyectos que se convierten en empresas de éxito?
+#### ¿Dónde está el origen de las ideas o proyectos que se convierten en empresas de éxito?
 
 Se tiende a pensar que, para poner en marcha una empresa, es necesario descubrir algún producto o servicio absolutamente novedoso o hacer algo que nadie más haga, como única opción para el éxito en un proyecto empresarial. Evidentemente, ésta es una estrategia para el éxito (ser el único ), pero si observamos a nuestro alrededor, es mínimo el porcentaje de empresas que ofrecen productos o servicios exclusivos, siendo lo habitual que muchas empresas compitan en un mismo mercado.
 
@@ -1300,6 +1230,8 @@ En gran parte de los casos, esta idea empresarial surge como consecuencia lógic
 Y, por último, es posible incluso que la idea no surja siquiera de una de estas situaciones, sino que sea buscada expresamente por quien ha tomado la decisión de poner en marcha su propia actividad empresarial.
 
 En definitiva, se trata de mantener una actitud emprendedora ante el mundo que nos rodea, y analizar con la perspectiva de una actividad empresarial gran parte de las situaciones cotidianas.
+
+#### Cuestiones sobre las que reflexionar para idea de negocio
 
 A modo de ejemplo, se señalan a continuación algunas cuestiones sobre las que reflexionar, que pueden conducir a la formulación de una idea de negocio. La idea es plantearnos un reto a partir del problema, y dar respuesta al mismo con preguntas como:
 
@@ -1318,9 +1250,9 @@ Nuestra primera recomendación es empezar a testar las posibilidades de nuestra 
 
 Si tras estos primeros contactos las «sensaciones» que hemos percibido son buenas, ha llegado el momento de empezar a dedicar tiempo y esfuerzos a nuestro proyecto.
 
-Por lo tanto, hay varios motivos que nos llevan a tener mayor capacidad para generar ideas de negocio. Estos motivos darían respuesta a la pregunta
+#### Motivos para tener mayor capacidad para generar ideas de negocio
 
-### ¿Por qué crear UNA empresa?
+Por lo tanto, hay varios motivos que nos llevan a tener mayor capacidad para generar ideas de negocio. Estos motivos darían respuesta a la pregunta ¿Por qué crear UNA empresa?
 
 - Inquietud empresarial.
 - Autoempleo.
@@ -1334,6 +1266,8 @@ Y, ¿cómo surgen las ideas de negocio? Es decir, ¿por qué crear ESTA empresa?
 - Conocimientos.
 - Captación de nuevas necesidades.
 
+#### Otras fuentes de ideas por Arthur Kuriloff y John Hemphill
+
 Hay otras clasificaciones por las cuales se pueden generar ideas que complementar y amplían las anteriores. Así, Arthur Kuriloff y John Hemphill detallan, que son fuentes de ideas de negocio las siguientes:
 
 - La invención.
@@ -1344,6 +1278,8 @@ Hay otras clasificaciones por las cuales se pueden generar ideas que complementa
 - El descubrimiento de nuevos usos para cosas comunes.
 - La deserción del empleo actual.
 
+#### Otras fuentes de ideas por Peter Drucker
+
 Otra clasificación de fuentes de ideas de negocio es la que nos da Peter Drucker, recogiendo:
 
 - Lo inesperado.
@@ -1353,6 +1289,8 @@ Otra clasificación de fuentes de ideas de negocio es la que nos da Peter Drucke
 - La demografía.
 - Los cambios en la percepción de la gente.
 - Los nuevos conocimientos.
+
+#### Tabla síntesis de fuentes de ideas
 
 La literatura empresarial nos ofrece una tabla síntesis donde se recogen las fuentes de ideas de negocio :
 
@@ -1368,7 +1306,7 @@ La literatura empresarial nos ofrece una tabla síntesis donde se recogen las fu
 
 ## 3. PROCESO DE SELECCIÓN DE UNA IDEA DE NEGOCIO
 
-## 3.1. BRAINSTORMING
+### 3.1. BRAINSTORMING
 
 El brainstorming es una manera excelente de generar muchas ideas. El objetivo principal del brainstorming es impulsar el pensamiento colectivo del grupo por medio de la conversación, escuchando y construyendo sobre otras ideas. Dirigir un brainstorming también activa la creatividad ya que se trabaja con la parte generativa del cerebro.
 
@@ -1391,7 +1329,7 @@ Es fundamental seguir y hacer cumplir las reglas del brainstorming porque están
 
 Fuente: Institute of Design at Stanford
 
-## ACTIVIDAD NÚMERO 10. BRAINSTORMING
+### ACTIVIDAD NÚMERO 10. BRAINSTORMING
 
 - DEFINICIÓN: Comenzamos el módulo mediante la definición de posibles ideas que serán el origen de nuestro proyecto. Para ello, vamos a generar muchas posibilidades con el fin de elegir la mejor.
 
@@ -1414,7 +1352,7 @@ Este trabajo no es incompatible con el manejo de ejemplos de ideas de negocio tr
 
 - EVALUACIÓN: en esta actividad podemos comprobar ámbitos de interés para nuestros alumnos, una de las claves para elegir proyectos cercanos a los mismos, y así conseguir la motivación necesaria para hacer del emprendimiento un punto de partida clave en el aula, y enganchar al alumnado desde el primer día.
 
-## 3.2. CARDSORTING
+### 3.2. CARDSORTING
 
 Una vez que hemos hecho el brainstorming, lo normal es que haya generado una gran cantidad de diferentes ideas y ahora es necesario hacer una limpieza y cosecha para darle vida a las ideas. Se debe seleccionar una cantidad manejable de ideas bajo ciertos requerimientos de selección. Para ello usamos el Cardsorting.
 
@@ -1428,7 +1366,7 @@ Podemos establecer diferentes técnicas para realizar la clasificación de las i
 
 Fuente: Institute of Design at Stanford
 
-## ACTIVIDAD NÚMERO 11. CARDSORTING
+### ACTIVIDAD NÚMERO 11. CARDSORTING
 
 - DEFINICIÓN: Tal y como acabamos de señalar, se trata de seleccionar las ideas más atractivas para su posterior análisis. Realmente es un filtrado de ideas, toda vez que el la dinámica anterior se han generado ideas sin ningún tipo de limitación.
 
@@ -1440,7 +1378,7 @@ Fuente: Institute of Design at Stanford
 
 - EVALUACIÓN: en esta actividad podemos comprobar en qué medida el grupo de trabajo se va implicando en el proyecto y en la forma de trabajo colaborativa . Debate, discusión y acuerdos son comunes en este tipo de dinámicas.
 
-## 3.3. MADURACIÓN
+### 3.3. MADURACIÓN
 
 Una vez que hemos filtrado las ideas, ideas que provenían de la fase emocional, sin ningún límite en su generación, procederemos a estudiar cada idea. Nos estamos refiriendo a tener información sobre la misma con el fin de poder elegir la mejor y descartar aquellas ideas que sean menos interesantes.
 
@@ -1456,7 +1394,7 @@ Para ello se establecen, al menos, los siguientes aspectos a conocer de cada ide
 
 Una vez conocida esta información mínima se hace necesario valorar cada aspecto en cada una de las ideas. Fruto de esa valoración, sabremos qué idea tiene una mayor puntuación, y por lo tanto será, en principio, la elegida.
 
-## ACTIVIDAD NÚMERO 12. MADURACIÓN DE IDEAS
+### ACTIVIDAD NÚMERO 12. MADURACIÓN DE IDEAS
 
 - DEFINICIÓN: Con esta actividad buscamos información que esté relacionada con las ideas que han pasado el filtro del cardsorting. Lo ideal sería establecer unos items y tener información que sea comparable entre las distintas ideas. Después, cada grupo de alumnos puede valorar los items citados, o bien proponer otros. Se recomienda presentar la información en forma de tabla, recogiendo ideas/items.
 
@@ -1476,7 +1414,7 @@ Por otra parte, salimos nuevamente del aula, en este caso para buscar evidencias
 
 - EVALUACIÓN : en esta actividad podemos comprobar cómo el grupo va avanzando en varios aspectos: destacamos la coordinación , porque exige la división y reparto de tareas, puesta en común, trabajo de campo, etc.
 
-## 3.4. ELECCIÓN DE LA IDEA DE NEGOCIO
+### 3.4. ELECCIÓN DE LA IDEA DE NEGOCIO
 
 Ya tenemos información de cada una de las ideas que habían pasado el filtrado previo. Ahora toca valorar esa información y decidir la que, a priori, es la mejor idea de negocio para el grupo de trabajo.
 
@@ -1498,7 +1436,7 @@ En este sentido, el uso de una hoja de cálculo ayuda de forma muy relevante en 
 
 Tras la valoración de las diferentes ideas, tendremos un ranking de ideas, desde la más valorada a la menos valorada. En principio seguiremos con nuestro trabajo con la idea situada en primer lugar, es decir, la idea más valorada.
 
-## ACTIVIDAD NÚMERO 13. ELECCIÓN DE LA IDEA DE NEGOCIO
+### ACTIVIDAD NÚMERO 13. ELECCIÓN DE LA IDEA DE NEGOCIO
 
 - DEFINICIÓN: La actividad consiste en calificar las ideas de negocio en función de una serie de criterios establecidos y ponderados al efecto, con el fin de obtener un ranking de ideas, y sobre todo las idea más valorada.
 
@@ -1520,7 +1458,7 @@ En el momento en el que nos encontramos del proyecto, no podemos afirmar que la 
 
 Aún así, aplicamos el proceso básico de Design Thinking, con el fin de validar si nuestra idea tiene potencial para trabajar el resto del curso, y como educadores, nos permite la consecución de los objetivos educativos.
 
-## 4.1. LA TÉCNICA DE LAS PREGUNTAS
+### 4.1. LA TÉCNICA DE LAS PREGUNTAS
 
 Lo difícil cuando nos enfrentamos a un problema visto como un reto es encontrar las preguntas adecuadas que nos guíen en la solución del mismo. Una pregunta incorrecta nos llevará a una solución parcial o incorrecta.
 
@@ -1541,7 +1479,7 @@ A continuación, debemos haceros preguntas sobre la idea/problema elegida/o usan
 
 www.pablopenalver.com
 
-## 4.2. CREAR HISTORIAS: EL STORYTELLING
+### 4.2. CREAR HISTORIAS: EL STORYTELLING
 
 Una técnica de Design Thinking clave en todo proceso creativo es el storytelling . El storytelling consiste en contar historias, y por lo tanto, utilizar la técnica de formación más usada por nuestros mayores.
 
@@ -1562,7 +1500,7 @@ Es necesario tener en cuenta una serie de aspectos antes de crear tu historia, q
 
 Un ejemplo muy gráfico: LEGO. http://www.soyunamarca.com/2012/08/la-historia-de-legoy-el-poder-del-storytelling/
 
-## ACTIVIDAD NÚMERO 14. LA HISTORIA
+### ACTIVIDAD NÚMERO 14. LA HISTORIA
 
 - DEFINICIÓN: Con esta actividad proponemos idear una historia que cuente cómo aparece un problema determinado, y los pasos lógicos para su resolución. El reto del curso es que comprobar que nuestra solución es lo suficientemente buena, es extraordinaria. Pero desde el primer momento hay que enamorarse del problema a resolver, y contar una historia nos ayudará a transmitir esa pasión por el problema.
 
@@ -1574,11 +1512,11 @@ Un ejemplo muy gráfico: LEGO. http://www.soyunamarca.com/2012/08/la-historia-de
 
 - EVALUACIÓN: en esta actividad vamos a comprobar cómo transmiten nuestros alumnos, y sobre todo, el convencimiento en sus ideas y la creatividad en su presentación.
 
-## 4.3. PROTOTIPA HISTORIAS
+### 4.3. PROTOTIPA HISTORIAS
 
 El paso siguiente consiste en digitalizar nuestra historia. Para ello existen múltiples herramientas. Se puede indagar en algunas de ellas con el fin de seleccionar la que más se adapte a la historia que queremos contar. En el contenido que describe la actividad hay varias referencias:
 
-## ACTIVIDAD NÚMERO 15. EL PROTOTIPO
+### ACTIVIDAD NÚMERO 15. EL PROTOTIPO
 
 - DEFINICIÓN: Con esta actividad damos forma a los elementos básico s de cualquier idea de negocio, entendida como la solución a un problema. Así veremos que es preciso definir y entender muy bien el problema de fondo (qué), las causas que lo motivan (por qué), el lugar donde se desarrolla (dónde), el momento del tiempo (cuándo), a quién afecta o cuáles son los agentes implicados (quién) y el proceso que ha llevado desde que se genera hasta el momento actual (cómo). A partir de ahí tendremos que pensar en cómo dar forma a nuestro trabajo, y lo haremos con un prototipo.
 
@@ -1596,7 +1534,7 @@ En el siguiente enlace se puede acceder a un menú de mi blog, donde hay enlaces
 
 - EVALUACIÓN: en esta actividad vamos a comprobar cómo se inicia el proceso de investigación de nuestra idea , y cómo vamos sentando sus bases. A la vez, le daremos formas con un prototipo sencillo, pero que puede tener una gran acabado como producción final del alumnado.
 
-## ACTIVIDAD NÚMERO 16. FEEDBACK Y RETOQUE I
+### ACTIVIDAD NÚMERO 16. FEEDBACK Y RETOQUE I
 
 - DEFINICIÓN: Antes de salir a la calle con nuestro prototipo e historia, vamos a presentarlo en clase.
 
@@ -1618,7 +1556,7 @@ Esta actividad es obligada, y cambia el punto de vista del alumnado. Y empezamos
 
 - EVALUACIÓN: en esta actividad vamos a comprobar no sólo cómo transmiten nuestros alumnos, sino también su capacidad para argumentar, debatir, y sobre todo aprender cuando se fracasa.
 
-## 4.4. PREPARA UNA ENTREVISTA
+### 4.4. PREPARA UNA ENTREVISTA
 
 A continuación salimos a la calle , y le contamos este prototipo al cliente. Es fundamental saber a qué personas se lo vamos a contar, cuántas y dónde, es decir, tener una estrategia previa. También es clave ensayar y comprobar si nuestro esquema tipo es entendible.
 
@@ -1632,7 +1570,7 @@ El procedimiento a seguir sería:
   - Identificar y ordenar los temas . Consiste básicamente en identificar y agrupar los problemas en grandes áreas o temas relevantes. Una vez hecho esto se debe permitir que la conversación fluya para determinar una dirección específica para elegir. Esto hará posible estructurar la dirección o tema de la entrevista haciéndola más amigable con el usuario y más efectiva ya que evita componer una entrevista desordenada y sin enfoque.
   - Refinar las preguntas . Una vez que las preguntas se hayan agrupado por tema y orden se podrá encontrar que hay áreas de conversaciones redundantes o repetidas. También es probable que existan preguntas fuera de lugar. Es importante hacer una limpieza para asegurarse de llevar una entrevista bien planificada con suficientes preguntas del tipo ¿por qué?, cuéntame sobre la última vez que…? y suficientes preguntas directas de cómo el usuario se siente.
 
-## ACTIVIDAD NÚMERO 17. LA ENTREVISTA
+### ACTIVIDAD NÚMERO 17. LA ENTREVISTA
 
 - DEFINICIÓN: Con esta actividad queremos pasar a la última fase de nuestra investigación : preguntar a los verdaderos expertos de un problema determinado, sus usuarios.
 
@@ -1654,7 +1592,7 @@ El último paso consiste en analizar las entrevistas realizadas , y mediante la 
 
 - EVALUACIÓN: en esta actividad vamos a comprobar cómo van encajando las piezas: cómo los alumnos asumen errores , cómo aprenden del error , y cómo vamos moldeando su perfil para ser un verdadero emprendedor.
 
-## 4.5. VALIDACIÓN INICIAL
+### 4.5. VALIDACIÓN INICIAL
 
 Una vez realizada la entrevista , volvemos a nuestra historia para retocarla como proceda: en unos casos el cliente potencial nos hará aportado nueva información a valorar. Otras veces, nos invita a eliminar aspectos que hemos podido considerar idóneos, pero que su juicio no proceden.
 
@@ -1662,7 +1600,7 @@ Para ello matizamos nuestro mural quitando y poniendo los post-its correspondien
 
 Una vez contada de nuevo a la clase, la historia adquiere un aspecto clave: la idea de negocio ya tiene forma. Ahora, para completar el diseño, es necesario contextualizarla .
 
-## ACTIVIDAD NÚMERO 18. FEEDBACK Y RETOQUE II
+### ACTIVIDAD NÚMERO 18. FEEDBACK Y RETOQUE II
 
 - DEFINICIÓN: Después de realizar las entrevistas procede incorporar la información más valiosa obtenida a nuestra historia y a nuestro prototipo.
 
@@ -1749,23 +1687,6 @@ Perfectamente definida, constituye un recurso totalmente imprescindible en el au
 
 # MÓDULO 3. CONTEXTUALIZAR
 
-## ÍNDICE
-
-1. Introducción
-2. El entorno general o lejano
-   1. Análisis externo
-   2. Análisis interno
-   3. Matriz DAFO
-3. El cliente potencial
-   1. El mapa de empatía: concepto
-   2. El mapa de empatía: contenido
-4. La competencia
-   1. Estrategia de Océanos Azules
-   2. Procedimiento para trazar la estrategia de Océanos Azules
-5. Aplicaciones de escritorio
-   1. Matriz DAFO: Inghenia
-6. Apps móviles
-
 ## 1. INTRODUCCIÓN
 
 Con la idea esbozada, el paso siguiente consiste en contextualizar nuestra historia y nos vamos a preguntar si realmente nosotros podemos poner en marcha nuestro producto o servicio. Estamos hablando de:
@@ -1803,7 +1724,7 @@ El análisis consta de cuatro pasos:
 - Confección de la matriz DAFO
 - Determinación de la estrategia a emplear
 
-## 2.1. ANÁLISIS EXTERNO
+### 2.1. ANÁLISIS EXTERNO
 
 La organización no existe ni puede existir fuera de un ambiente, fuera de ese entorno que le rodea; así que el análisis externo permite fijar las oportunidades y amenazas que el contexto puede presentarle a una organización.
 
@@ -1848,7 +1769,7 @@ El proceso para determinar esas oportunidades o amenazas se puede realizar de la
 
 2. B. Determinando cuáles de esos factores podrían tener influencia sobre la organización en términos de facilitar o restringir el logro de objetivos . Es decir, hay circunstancias o hechos presentes en el ambiente que a veces representan una buena oportunidad que la organización podría aprovechar, ya sea para desarrollarse aún más o para resolver un problema. También puede haber situaciones que más bien representen amenazas para la organización y que puedan hacer más graves sus problemas.
 
-## 2.1.1. OPORTUNIDADES
+#### 2.1.1. OPORTUNIDADES
 
 Las oportunidades son aquellas situaciones externas, positivas, que se generan en el entorno y que, una vez identificadas, pueden ser aprovechadas.
 
@@ -1861,7 +1782,7 @@ Algunas de las preguntas que se pueden realizar y que contribuyen en el desarrol
 - ¿Qué cambios en la normatividad legal y/o política se están presentando?
 - ¿Qué cambios en los patrones sociales y de estilos de vida se están presentando?
 
-## 2.1.2. AMENAZAS
+#### 2.1.2. AMENAZAS
 
 Las amenazas son situaciones negativas, externas al programa o proyecto, que pueden atentar contra éste, por lo que llegado al caso, puede ser necesario diseñar una estrategia adecuada para poder sortearla.
 
@@ -1872,13 +1793,13 @@ Algunas de las preguntas que se pueden realizar y que contribuyen en el desarrol
 - ¿Se tienen problemas de recursos de capital?
 - ¿Puede algunas de las amenazas impedir totalmente la actividad de la empresa?
 
-## 2.2. ANÁLISIS INTERNO
+### 2.2. ANÁLISIS INTERNO
 
 Los elementos internos que se deben analizar durante el análisis DAFO corresponden a las fortalezas y debilidades que se tienen respecto a la disponibilidad de recursos de capital, personal, activos, calidad de producto, estructura interna y de mercado, percepción de los consumidores, entre otros.
 
 El análisis interno permite fijar las fortalezas y debilidades de la organización, realizando un estudio que permite conocer la cantidad y calidad de los recursos y procesos con que cuenta el ente.
 
-## 2.2.1. FORTALEZAS
+#### 2.2.1. FORTALEZAS
 
 Las fortalezas son todos aquellos elementos internos y positivos que diferencian al programa o proyecto de otros de igual clase.
 
@@ -1890,7 +1811,7 @@ Algunas de las preguntas que se pueden realizar y que contribuyen en el desarrol
 - ¿Qué percibe la gente del mercado como una fortaleza?
 - ¿Qué elementos facilitan obtener una venta?
 
-## 2.2.2. DEBILIDADES
+#### 2.2.2. DEBILIDADES
 
 Las debilidades se refieren, por el contrario, a todos aquellos elementos, recursos, habilidades y actitudes que la empresa ya tiene y que constituyen barreras para lograr la buena marcha de la organización. También se pueden clasificar: aspectos del servicio que se brinda, aspectos financieros, aspectos de marketing, aspectos organizacionales, aspectos de control.
 
@@ -1905,7 +1826,7 @@ Algunas de las preguntas que se pueden realizar y que contribuyen en el desarrol
 
 Díaz Mortera nos dice en su frase "Un imperio no cae por fuerzas externas sino por debilidades internas".
 
-## 2.3. MATRIZ DAFO
+### 2.3. MATRIZ DAFO
 
 | ANÁLISIS DAFO    | FORTALEZAS                                                     | DEBILIDADES                                                |
 | ---------------- | -------------------------------------------------------------- | ---------------------------------------------------------- |
@@ -1922,7 +1843,7 @@ Las limitaciones, determinadas por una combinación de debilidades y amenazas, c
 
 Mientras que los riesgos (combinación de fortalezas y amenazas) y los desafíos (combinación de debilidades y oportunidades), determinados por su correspondiente combinación de factores, exigirán una cuidadosa consideración a la hora de marcar el rumbo que la organización deberá asumir hacia el futuro deseable.
 
-## ACTIVIDAD NÚMERO 19. MATRIZ DAFO
+### ACTIVIDAD NÚMERO 19. MATRIZ DAFO
 
 - DEFINICIÓN: Llega el momento de realizar un análisis tanto de nuestro equipo de trabajo como de la idea que vamos a trabajar.
 
@@ -1942,7 +1863,7 @@ DAFO se convierte en una gran oportunidad para ello. Igualmente destacar la impo
 
 ## 3. EL CLIENTE POTENCIAL
 
-## 3.1. EL MAPA DE EMPATÍA: CONCEPTO
+### 3.1. EL MAPA DE EMPATÍA: CONCEPTO
 
 Una vez analizado nuestra posición en relación al entorno, continuamos con la contextualización de nuestra idea de negocio, pero ahora mucho más cerca: analizaremos con detalle a nuestro cliente potencial. Para ello nos basaremos en la herramienta mapa de empatía.
 
@@ -1960,7 +1881,7 @@ Pasos para realizar un mapa de empatía :
 
 - IDENTIFICA INSIGHTS: Un 'Insight' es descubrir algo inesperado o tener una idea para responder de mejor manera un desafío de diseño. Los insight generalmente nacen de dos contradicciones entre atributos del usuario (dentro de un cuadrante o entre cuadrantes distintos) o al preguntarse 'por qué" cuando notas un comportamiento particular. Escribe o anota potenciales insights a un lado del mapa de empatía. Una manera de despertar la creatividad es capturando 'tensiones' y 'contradicciones' durante el trabajo.
 
-## 3.2. EL MAPA DE EMPATÍA: CONTENIDO
+### 3.2. EL MAPA DE EMPATÍA: CONTENIDO
 
 En el apartado anterior hemos visto el concepto genérico de mapa de empatía. Ahora lo vamos a aplicar a nuestro cliente.
 
@@ -2004,7 +1925,7 @@ Después construimos su perfil contestando a las siguientes seis preguntas :
    1. ¿Qué es lo que realmente necesita o quiere conseguir?
    2. ¿De qué modo mide el éxito?. Piensa en algunas estrategias que podría utilizar para alcanzar sus metas.
 
-## ACTIVIDAD NÚMERO 20. MAPA DE EMPATÍA
+### ACTIVIDAD NÚMERO 20. MAPA DE EMPATÍA
 
 - DEFINICIÓN : Tras analizar el entorno lejano, pasamos al análisis del entorno más cercano a nuestra idea, y comenzamos con el cliente potencial.
 
@@ -2024,7 +1945,7 @@ Sin embargo hay que tener en cuenta que para trazar el mapa de empatía, nuestro
 
 ## 4. LA COMPETENCIA
 
-## 4.1. ESTRATEGIA DE OCÉANOS AZULES
+### 4.1. ESTRATEGIA DE OCÉANOS AZULES
 
 La estrategia de los océanos azules se resume en una frase: la única forma de vencer a la competencia es dejar de tratar de vencer a la competencia.
 
@@ -2033,7 +1954,7 @@ Se puede describir así. Hay dos tipos de océanos:
 - Océanos rojos : industrias altamente competidas, con guerra de precios intensa. La idea es saltar de éstas a nuevos espacios de mercado donde la competencia se torne irrelevante. Pero el problema es que el pensamiento estratégico tradicional, beckmarking, posicionamiento estratégico y análisis sectoriales, están diseñadas para competir. Sin embargo las empresas vienen creando océanos azules desde hace mucho tiempo.
 - Océanos azules : son descubiertos frutos de la inspiración, ideas innovadoras. Es una caja de herramientas que nos permite de forma sistemática diseñar y encontrar nuevas propuestas de valor y nuevos modelos de negocio donde la competencia se torna como irrelevante.
 
-## 4.2. PROCEDIMIENTO PARA TRAZAR LA ESTRATEGIA DE OCÉANOS AZULES
+### 4.2. PROCEDIMIENTO PARA TRAZAR LA ESTRATEGIA DE OCÉANOS AZULES
 
 Después de analizar en qué consiste la estrategia de los océanos azules, podemos destacar los pasos que vamos a dar:
 
@@ -2047,7 +1968,7 @@ Estos pasos están basados en una serie de posts de José Antonio de Miguel. La 
 
 Para ello vamos a dar diferentes pasos puestos de manifiesto en el párrafo anterior.
 
-## 1. Y el primer paso es confeccionar un cuadro estratégico.
+#### 1. Y el primer paso es confeccionar un cuadro estratégico.
 
 El cuadro estratégico es una herramienta de diagnóstico y un esquema práctico para construir una estrategia contundente de océanos azules.
 
@@ -2072,7 +1993,7 @@ Para modificar la curva de valor de la competencia es necesario comenzar por enf
 3. buscar tanto valor como coste, es decir,
 4. es preciso retirarse a la vieja lógica de compararse con los competidores existentes y de elegir entre ser líder en diferenciación o líder en coste.
 
-## 2. El paso siguiente consiste en analizar posibilidades de innovar a través de 6 vías de exploración.
+#### 2. El paso siguiente consiste en analizar posibilidades de innovar a través de 6 vías de exploración.
 
 A través de un excelente vídeo que nos muestra como explorar nuevos océanos azules a través de los grupos estratégicos, el procedimiento fundamental a seguir será:
 
@@ -2100,7 +2021,7 @@ Por ejemplo, Starbucks complementó la venta de café que tenía un atractivo fu
 
 La mayoría de las empresas se adaptan lenta y pasivamente a las tendencias, olvidando las oportunidades que surgen de la forma en que redefinirán el valor percibido.
 
-## 3. El paso siguiente consiste en diseñar nuestra propuesta de valor.
+#### 3. El paso siguiente consiste en diseñar nuestra propuesta de valor.
 
 Para ello tendremos en cuenta las curvas de valor de los grupos estratégicos así como las distintas vías de exploración analizadas con anterioridad. Mediante la matriz ERIC procederemos de la siguiente forma:
 
@@ -2111,21 +2032,21 @@ Para ello tendremos en cuenta las curvas de valor de los grupos estratégicos as
 
 Los puntos 1, 2 y 3 suponen reflexionar y valorar la variables estratégicas de la competencia. El punto 4 presenta como contenido las reflexiones realizadas con base en las vías de exploración.
 
-## 4. Para finalizar, tenemos que tener en cuenta que una buena estrategia debe tener las siguientes notas:
+#### 4. Para finalizar, tenemos que tener en cuenta que una buena estrategia debe tener las siguientes notas:
 
-1. Foco : toda gran estrategia tiene un foco y éste se debe reflejar en el perfil estratégico o la curva de valor de la compañía.
-2. Divergencia : cuando una compañía desarrolla su estrategia de manera reactiva para mantenerse a tono con la competencia, pierde su singularidad.
-3. Mensaje contundente : una buena estrategia tiene un mensaje claro y contundente. ¿Qué podrían decir sus competidores? Un buen mensaje no solo debe comunicar la idea claramente sino también anunciar la oferta con la verdad, o de lo contrario los clientes perderán la confianza y el interés. En efecto, una buena manera de someter a prueba la eficacia y fuerza de una estrategia consiste en mirar si contiene un mensaje fuerte y auténtico.
+1. Foco: toda gran estrategia tiene un foco y éste se debe reflejar en el perfil estratégico o la curva de valor de la compañía.
+2. Divergencia: cuando una compañía desarrolla su estrategia de manera reactiva para mantenerse a tono con la competencia, pierde su singularidad.
+3. Mensaje contundente: una buena estrategia tiene un mensaje claro y contundente. ¿Qué podrían decir sus competidores? Un buen mensaje no solo debe comunicar la idea claramente sino también anunciar la oferta con la verdad, o de lo contrario los clientes perderán la confianza y el interés. En efecto, una buena manera de someter a prueba la eficacia y fuerza de una estrategia consiste en mirar si contiene un mensaje fuerte y auténtico.
 
-Así las cosas, cuando la curva de valor de una compañía carece de foco , la estructura de costes tenderá a ser alta y la implantación y ejecución del modelo de negocios serán complejas. Cuando carece de divergencia es porque la estrategia de la compañía es imitativa y no ofrece razón alguna para destacarse en el mercado. Cuando carece de un mensaje contundente para comunicarse con los compradores, es probable que la compañía este encerrada en sí misma o que sea un ejemplo clásico de innovación por la innovación misma, sin potencial comercial y sin capacidad propia para despegar.
+Así las cosas, cuando la curva de valor de una compañía carece de foco, la estructura de costes tenderá a ser alta y la implantación y ejecución del modelo de negocios serán complejas. Cuando carece de divergencia es porque la estrategia de la compañía es imitativa y no ofrece razón alguna para destacarse en el mercado. Cuando carece de un mensaje contundente para comunicarse con los compradores, es probable que la compañía este encerrada en sí misma o que sea un ejemplo clásico de innovación por la innovación misma, sin potencial comercial y sin capacidad propia para despegar.
 
-### De una forma más detallada:
+- De una forma más detallada:
 
 1. Una compañía atrapada en un océano rojo se da cuando la curva de valor converge con la de sus competidores. La estrategia explícita o implícita de la competencia es tratar de vencer a los competidores sobre la base del coste o la calidad. Esa situación anuncia un crecimiento lento a menos que la compañía, por cosas del destino, pertenezca a una industria que crece por sí misma. Sin embargo, ese crecimiento no es producto de la estrategia de la compañía sino de la suerte.
 2. Ofrecer más sin nada a cambio . La compañía quizá se esté excediendo en lo que ofrece a sus clientes con respecto a los elementos que se traducen en mayor valor para ellos. Para innovar en valor, la compañía debe decidir cuáles variables ha de eliminar o reducir y no sólo cuales incrementar y crear, a fin de construir una curva de valor divergente.
 3. Una estrategia incoherente . Cuando la curva de valor de la compañía tiene altibajos no tiene una estrategia coherente. Es probable que su estrategia se base en estrategias secundarias independientes.
 
-## 5. Terminamos con la estrategia de los océanos azules, con la que Juan Antonio de Miguel denomina la secuencia estratégica correcta.
+#### 5. Terminamos con la estrategia de los océanos azules, con la que Juan Antonio de Miguel denomina la secuencia estratégica correcta.
 
 Esta secuencia tiene los siguientes pasos, todos ellos secuenciales, es decir, cada uno se ve precedido por otro que necesario cumplir:
 
@@ -2134,7 +2055,7 @@ Esta secuencia tiene los siguientes pasos, todos ellos secuenciales, es decir, c
 3. Conocer los costes del producto y/o servicio y si son inferiores al precio de venta.
 4. Hacer un prototipo que recoja estos aspectos y validarlo en el mercado.
 
-## ACTIVIDAD NÚMERO 21. CUADRO ESTRATÉGICO
+### ACTIVIDAD NÚMERO 21. CUADRO ESTRATÉGICO
 
 - DEFINICIÓN: Tras el cliente, toca abordar a la competencia . Para ello hay que tener en cuenta dos aspectos: el primero, que vamos a descomponer el análisis en varias actividades o dinámicas con el fin de facilitar su ejecución. El segundo, que nos vamos a centrar en mercados ya conocidos, no clonados, ni nuevos, porque las reglas del juego serían diferentes.
 
@@ -2152,7 +2073,7 @@ Ahora bien, de forma previa hay que buscar, investigar, y hasta en ocasiones, ob
 
 - EVALUACIÓN: en esta actividad insistimos en el grado de compromiso, trabajo y coordinación del grupo . La actividad exige trabajo, salidas a la calle y debate, y sobre todo, organización. El grupo ya está funcionando a pleno rendimiento, y esta actividad refleja en gran medida el talante del grupo.
 
-## ACTIVIDAD NÚMERO 22. VÍAS DE EXPLORACIÓN
+### ACTIVIDAD NÚMERO 22. VÍAS DE EXPLORACIÓN
 
 - DEFINICIÓN: A continuación procedemos al análisis exhaustivo de las diferentes vías de exploración .
 
@@ -2168,7 +2089,7 @@ Un análisis rico en esta cuestión, nos facilitará definir nuestra estrategia 
 
 - EVALUACIÓN en esta actividad podemos comprobar cómo el grupo va consolidando la dinámica de trabajo, la organización y el trabajo en equipo . Esta tarea exige una motivación adicional por la dureza de su realización.
 
-## ACTIVIDAD NÚMERO 23. MATRIZ ERIC
+### ACTIVIDAD NÚMERO 23. MATRIZ ERIC
 
 - DEFINICIÓN: El paso siguiente consiste en decidir qué es lo que vamos a hacer. Y para ello hay que analizar no sólo lo que hace la competencia, que eliminaremos, incrementaremos o reduciremos con carácter general, sino también las propuestas obtenidas a través de las vías de exploración.
 
@@ -2182,7 +2103,7 @@ El doble análisis debe ser exhaustivo, porque el resultado final debe dar una e
 
 - EVALUACIÓN: en esta actividad podemos comprobar cómo el grupo va consolidando la dinámica de trabajo, la organización y el trabajo en equipo . Esta tarea exige una motivación adicional por la dureza de su realización.
 
-## ACTIVIDAD NÚMERO 24. ESTRATEGIA COMPETITIVA
+### ACTIVIDAD NÚMERO 24. ESTRATEGIA COMPETITIVA
 
 - DEFINICIÓN: A continuación pasamos a construir de nuevo el cuadro estratégico, pero ahora, además de trazar la curva estratégica de la competencia, pasaremos a trazar también la definida a través de la matriz ERIC.
 
@@ -2210,42 +2131,13 @@ En este módulo se usarán las apps citadas en los módulos anteriores.
 
 # MÓDULO 4. PROTOTIPAR
 
-## ÍNDICE
-
-1. Introducción
-2. Lienzo de la propuesta de valor
-3. Business Model Canvas
-   1. Concepto
-   2. Bloques del lienzo de modelo de negocio
-   3. Bloques del lienzo de modelos de negocio al detalle
-      1. Segmentos de clientes
-      2. Propuesta de valor
-      3. Canales de distribución
-      4. Relaciones con clientes
-      5. Fuentes de ingresos
-      6. Actividades y recursos clave
-      7. Asociaciones clave
-      8. Estructura de costes
-4. Técnicas de prototipado
-5. Aplicaciones de escritorio
-   1. Aplicación web: Wix
-   2. App móvil: Mobincube
-   3. Vídeo animado: Pow Toon
-   4. Infografía: Easely
-   5. Comic: Pixton
-6. Apps móviles
-   1. Retoques: Skitch
-   2. Prototipado: POP
-   3. Mapas mentales: Mindmeister
-   4. Códigos QR: QR Droid
-
 ## 1. INTRODUCCIÓN
 
 Para el prototipado de modelos de negocio, utilizaremos el lienzo de modelo de negocios . Este término ya nos suena, porque en temas anteriores vimos las diferencias con Plan de Negocios, e incluso con Lean Startup.
 
 Y ¿qué es un modelo de negocio ? Es la forma de hacer negocios, mediante la cual una empresa genera ingresos. A priori es difícil, pero hay herramientas que lo permiten. Una de ellas es el lienzo de modelos de negocio . Es muy buena porque es visual . El objetivo es describir visualmente el modelo, utilizando post-it (si me equivoco lo retiro, y me obliga a sintetizar, y es visual, es colaborativo).
 
-Es importante destacar que este módulo permite "invertir la clase" o dicho de otra forma, aplicar metodologías activas mediante Flipped Classroom . Ello se debe a que tenemos en la red excelentes vídeos, de corta duración y explicados por el mismísimo Steve Blank .
+Es importante destacar que este módulo permite "invertir la clase" o dicho de otra forma, aplicar metodologías activas mediante Flipped Classroom . Ello se debe a que tenemos en la red excelentes vídeos, de corta duración y explicados por el mismísimo Steve Blank.
 
 ## 2. LIENZO DE LA PROPUESTA DE VALOR
 
@@ -2259,7 +2151,7 @@ Todo ello ya está visto. Pero ahora vamos a profundizar en todos y cada uno de 
 
 Para ello, y como venimos haciendo, generamos el lienzo sobre papel, lo colgamos en la pared, y a continuación tratamos de responder a las siguientes preguntas:
 
-## Paso 1. Define la necesidad del cliente
+### Paso 1. Define la necesidad del cliente
 
 Describe cual es la tarea o actividad que cada segmento de clientes está tratando de llevar a cabo y cómo lo hacen, qué soluciones prefieren y qué beneficios y riesgos asumen con cada solución. Podría tratarse de tareas que están intentando llevar a cabo, problemas que deben resolver o necesidades que desean satisfacer.
 
@@ -2268,7 +2160,7 @@ Describe cual es la tarea o actividad que cada segmento de clientes está tratan
 3. ¿Qué trabajos emocionales estás ayudando a tu cliente a realizar?
 4. ¿Qué necesidades básicas estás ayudando a tu cliente a satisfacer?
 
-## Paso 2. Comprende esa necesidad
+### Paso 2. Comprende esa necesidad
 
 1. Gains : alegrías o beneficios. Como decíamos, al elegir un producto o servicio para realizar una tarea, nos fijaremos en las ventajas e inconvenientes que nos aporta esa solución. Es decir, en las alegrías (gains) o frustraciones (pains) que nos genera. Decidir qué es más conveniente es algo subjetivo y dependerá de cada cliente. Por eso deberás preguntarte para cada segmento de clientes:
    - ¿En qué le gustaría más ahorrar a tu cliente?
@@ -2290,7 +2182,7 @@ Describe cual es la tarea o actividad que cada segmento de clientes está tratan
 - ¿Qué errores suele cometer repetitivamente al utilizarlo?
 - ¿Qué barreras le mantienen alejado de adoptar dichas soluciones?
 
-## Paso 3. Encuentra la forma de satisfacer esa necesidad
+### Paso 3. Encuentra la forma de satisfacer esa necesidad
 
 1. Productos y servicios . Realiza una lista con todos tus productos y servicios y la propuesta de valor que tienes pensada elaborar para cada uno de ellos.
    1. Los productos o servicios pueden ser tanto tangibles, como virtuales, o financieros.
@@ -2314,7 +2206,7 @@ Describe cual es la tarea o actividad que cada segmento de clientes está tratan
 
 A continuación puedes ver un ejemplo del lienzo de la propuesta de valor relacionado con nuestro módulo profesional, y como yo, como docente, ajusto mi intervención en función del alumnado.
 
-## ACTIVIDAD NÚMERO 25. LIENZO DE LA PROPUESTA DE VALOR
+### ACTIVIDAD NÚMERO 25. LIENZO DE LA PROPUESTA DE VALOR
 
 - DEFINICIÓN: comenzamos el reto de prototipado, pero lo vamos a trabajar de forma segura, enlazando los las producciones que hemos realizado en el reto anterior de contextualización.
 
@@ -2332,7 +2224,7 @@ Básicamente se trata de enfrentar el arquetipo del cliente a las característic
 
 ## 3. BUSINESS MODEL CANVAS
 
-## 3.1. CONCEPTO
+### 3.1. CONCEPTO
 
 Una vez que hemos cumplimentado el lienzo de la propuesta de valor, tenemos los dos ejes básicos del denominado lienzo de modelo de negocio o Business Model Canvas.
 
@@ -2342,7 +2234,7 @@ De forma más técnica, un modelo de negocios se refiere a la manera en que una 
 
 Hay herramientas que permiten fácilmente visualizar y definir un modelo de negocio. Una de ellas, la más conocida, es el lienzo de modelos de negocio .
 
-## 3.2. BLOQUES DEL LIENZO DE MODELO DE NEGOCIO
+### 3.2. BLOQUES DEL LIENZO DE MODELO DE NEGOCIO
 
 El Business Model Canvas presenta los siguientes bloques (ver padlet del lienzo del modelo de negocios):
 
@@ -2356,9 +2248,9 @@ El Business Model Canvas presenta los siguientes bloques (ver padlet del lienzo 
 - Socios clave : proveedores que requiero para construir mi propuesta de valor. Ver vídeo.
 - Estructura de costes : lo que me cuesta las actividades, recursos y socios clave. Ver vídeo.
 
-## 3.3. BLOQUES DEL BUSINESS MODEL CANVAS AL DETALLE
+### 3.3. BLOQUES DEL BUSINESS MODEL CANVAS AL DETALLE
 
-## 3.3.1. SEGMENTOS DE MERCADO
+#### 3.3.1. SEGMENTOS DE MERCADO
 
 Entramos de lleno en el primer gran bloque del lienzo de modelo de negocios. Nos corresponde conocer perfectamente la personalidad del cliente . Es muy importante saber que todo gira en torno a los clientes: quiénes son y por que compran el producto. En realidad tratamos de adaptar el producto al mercado. Si se invierte fuera de la empresa, haremos de una empresa algo realmente eficiente. El objetivo es ajustar la propuesta de valor a lo que vamos a descubrir. El objetivo es comenzar con una serie de hipótesis . Después, salimos a la calle y ponemos las hipótesis a prueba. Cuando salgamos a la calle veremos qué pasa. Vamos a profundizar, y ¿qué tareas funcionales o sociales tenemos que hacer? El cliente desea desempeñar una tarea específica o resolver un problema, o quieren verse bien, mejorar su status, o hay tareas emocionales: tener un aspecto mejor, sentirse más seguros, etc. Una forma sencilla de comenzar con las hipótesis del cliente es clasificar cada tarea según la importancia que consideremos que le da el cliente. A esto se le llama 'un día en la vida del cliente'. Se trata de ponerse en lugar del cliente un día cualquiera de su vida.
 
@@ -2374,7 +2266,7 @@ El objetivo de todo esto será definir la personalidad del cliente. La idea es s
 
 Un caso concreto, pero muy interesante, es el que se refiere a los segmentos múltiples. Vamos a analizar el caso de Google. A continuación se muestran las conclusiones de este ejemplo.
 
-## 3.3.2. PROPUESTA DE VALOR
+#### 3.3.2. PROPUESTA DE VALOR
 
 La propuesta de valor trata de analizar qué creamos y para quién . Se trata de definir la idea de negocio, pero sobre todo que satisface necesidades o resuelve problemas. La relación entre propuesta de valor y cliente es lo que hace fracasar a una startup o tener éxito.
 
@@ -2405,7 +2297,7 @@ Abordamos la propuesta de valor con más detalle. Y lo haremos diferenciando:
 
 En la propuesta de valor, además de las funcionalidades del producto o servicio, se trata de solucionar los problemas o eliminar el dolor. Es importante diferenciar entre resolver un problema respecto de una necesidad. A continuación utilizaremos varias tácticas para clasificar los problemas de los clientes. Y por último nos preguntaremos por los beneficios de los clientes. Y como en el caso anterior, procederemos a su clasificación mediante una táctica para clasificar los beneficios del cliente. Lo que nos hace falta no sólo es saber problemas y beneficios del cliente, sino la graduación cada uno de ellos.
 
-## 3.3.3. CANALES DE DISTRIBUCIÓN
+#### 3.3.3. CANALES DE DISTRIBUCIÓN
 
 A continuación nos ocuparemos de cómo llega el producto de nuestra empresa al cliente. Tradicionalmente las empresas se ocupaban de la fabricación y contrataban la distribución. El canal era físico . Actualmente, con Internet, existen canales web y móviles . Vamos a analizar las diferencias entre éstos. Para comprender los canales de distribución pensemos en cómo empezaron las primeras empresas. Ahora se trata de decidir qué canal es el óptimo para nuestra startup.
 
@@ -2432,7 +2324,7 @@ Ahora comentaremos el aspecto económico del canal, es decir, ¿cómo vamos a ga
 
 Para finalizar os facilito un nuevo padlet sobre canales de distribución.
 
-## 3.3.4. RELACIONES CON CLIENTES
+#### 3.3.4. RELACIONES CON CLIENTES
 
 Abordamos el cuarto bloque de nuestro lienzo de modelo de negocios, las relaciones con los clientes: cómo captarlos, fidelizarlos e incrementar su número. Diferenciaremos entre un canal físico y un canal web o móvil.
 
@@ -2500,7 +2392,7 @@ Y por último, finalizamos con el incremento del número de clientes. Hay varias
 1. Las mismas que en el canal físico.
 2. Además, hay que tener en cuenta el ciclo de vida del cliente . Se trata de hacer que los clientes vayan gastando cada vez más. Para ello, el dinero recogido durante el ciclo de vida del cliente ( LiveTime Value ) debe ser mayor que el coste de captación de clientes.
 
-## 3.3.5. FUENTES DE INGRESOS
+#### 3.3.5. FUENTES DE INGRESOS
 
 Llega el turno ahora a cómo ganar dinero, es decir, las fuentes de ingresos. Parecen algo sencillo, pero no lo es. Hay que diferenciar entre fuentes de ingresos y fijación de precios . Juntas nos dicen cómo la empresas gana dinero de cada segmento de mercado. Por ello, vamos a analizar:
 
@@ -2514,7 +2406,7 @@ Hay una serie de errores cuando fijamos precios y fuentes de ingresos. A veces p
 1. ¿Qué cantidad están dispuestos a pagar los clientes? Esta cifra es fundamental. Y hay que contrastarla en el mercado.
 2. ¿Cómo y cuánto pagan los productos hoy en día? Así veremos las opciones de ingresos en el nivel más alto posible.
 
-## Vamos a ver las distintas estrategias de ingresos:
+- Vamos a ver las distintas estrategias de ingresos:
 
 1. Venta del activo . El más conocido: coches.
 2. Cuota por uso : compañías telefónicas.
@@ -2538,7 +2430,7 @@ En resumen, las fuentes de ingresos son posibles formas de cobrar, pero no del p
 Ahora nos corresponde determinar fuente de ingresos y precio para cada segmento de mercado.
 Para terminar, veremos con más detalle errores a la hora de fijar precios.
 
-## 3.3.6. ACTIVIDADES Y RECURSOS CLAVE
+#### 3.3.6. ACTIVIDADES Y RECURSOS CLAVE
 
 En materia de actividades clave, se trata de conocer las acciones más importantes que ha de emprender una empresa para que su modelo de negocio funcione. Se trata de saber:
 
@@ -2584,7 +2476,7 @@ Por último, hablaremos de la propiedad intelectual. Generalmente son 5:
 4. Contratos y acuerdos de confidencialidad.
 5. Patentes.
 
-## 3.3.7. SOCIOS CLAVE
+#### 3.3.7. SOCIOS CLAVE
 
 Seguimos en el lado izquierdo del lienzo. Veremos quiénes son nuestros socios y proveedores clave.
 
@@ -2598,7 +2490,7 @@ Y ¿qué recursos pueden ofrecer los socios? Son varios los argumentos:
 2. Si es un producto o servicio complementario que no se pueda pagar u obtener antes. Así podemos obtener un portafolio de productos más amplio. Es más eficiente usar el producto de una empresa que se ha especializado en él, que intentar hacer todo.
 3. Ser socios del canal o en el extranjero, y así acceder a nuevos mercados.
 
-## 3.3.8. ESTRUCTURA DE COSTES
+#### 3.3.8. ESTRUCTURA DE COSTES
 
 Finalizamos el lienzo de modelo de negocios con el último bloque: la estructura de costes.
 
@@ -2619,7 +2511,7 @@ Antes, los inversores nos pedían cuentas: contabilidad y estados contables. Per
 6. Precio medio de venta. Cuánto tarda en cerrarse una venta.
 7. Cuánto se gasta al mes, y cuando se acabará el dinero.
 
-## ACTIVIDAD NÚMERO 26. LIENZO DEL MODELO DE NEGOCIO
+### ACTIVIDAD NÚMERO 26. LIENZO DEL MODELO DE NEGOCIO
 
 - DEFINICIÓN : Conseguido el encaje entre segmentos de clientes y propuesta de valor sobre el papel, pasamos a definir el resto de aspectos que configuran el modelo de negocio.
 
@@ -2673,7 +2565,7 @@ Para hacer el PMV, tenemos varias técnicas de prototipado que podemos establece
 
 Lo mejor para explicar cada una de ellas es recurrir a otro gran vídeo de Nestor Guerra, donde justifica y detalla cada técnica de prototipado de forma magistral.
 
-## ACTIVIDAD NÚMERO 27. PRODUCTO MÍNIMO VIABLE
+### ACTIVIDAD NÚMERO 27. PRODUCTO MÍNIMO VIABLE
 
 - DEFINICIÓN: Esta dinámica trata de crear el producto mínimo viable como primer prototipo de partida, e ir modificándolo en función de los aprendizajes experimentados.
 
@@ -2755,23 +2647,6 @@ Esta utilidad QR es intuitiva, muy completa, admite diversos idiomas y cambiará
 
 # MÓDULO 5. VALIDAR
 
-## ÍNDICE
-
-1. Introducción
-2. Customer Development
-3. Entrevistas de problema y de solución
-   1. Entrevista de problema
-   2. Entrevista de solución
-4. Test A/B
-5. Aplicaciones de escritorio
-   1. Analítica web: Google Analytics
-   2. Landing Page: LanderApp
-   3. Grabación en vídeo con pantalla de PC: Screencast-o-matic
-   4. Historia digital: Storify
-6. Apps móviles
-   1. Edición de vídeo: VidTrim
-   2. Tablón de notas: Linoit
-
 ## 1. INTRODUCCIÓN
 
 Tras el prototipado, la fase lógica es salir a la calle y hablar con el cliente. Tenemos que contrastar todas las hipótesis que hemos venido realizando, y lo vamos a hacer mediante experimentos.
@@ -2812,6 +2687,8 @@ En retos anteriores hemos trabajado sobre el primer punto. Ahora entramos en el 
 
 Lo cierto es que hacer investigación no suele gustar al alumnado, cuando hablamos de salir fuera del aula.
 
+### Recomendaciones entrevistas de problema y solución
+
 En este sentido recomendamos:
 
 - Haber salido con anterioridad, con el fin de que nos resulte conocido. Además, es bueno haber empezado con pequeños sondeos o trabajos para poder acometer ahora éste, de mayor envergadura.
@@ -2830,6 +2707,8 @@ Comienza en pequeño, y siempre en modo prueba. Conviene probar con algún famil
 
 Al principio cuesta mucho, pero poco a poco irás cogiendo confianza.
 
+### Orden entrevistas de problema y solución
+
 El orden correcto sería éste:
 
 1. Comienza con amigos o familia y testea el desarrollo de la entrevista
@@ -2847,7 +2726,7 @@ Es fundamental interiorizar que esta es fase es clave para todo emprendedor. Por
 
 Repite este proceso una y otra vez hasta llegar a dar con la solución precisa. Refina tus asunciones. Modifica tu prototipo y continua haciendo entrevistas. De este modo seguro que te atreves a emprender más seguro.
 
-## 3.1. ENTREVISTA DE PROBLEMA
+### 3.1. ENTREVISTA DE PROBLEMA
 
 Podríamos articular la entrevista de problema en las siguientes fases:
 
@@ -2859,7 +2738,7 @@ Podríamos articular la entrevista de problema en las siguientes fases:
 - Nuestro Pitch. Una vez concluida la entrevista es el momento de presentar nuestra solución, con una breve presentación en la que no está de más pedirle su opinión.
 - Establecer un compromiso. Es muy aconsejable intentar que, tras la entrevista, te dirija a otras personas con las que poder tratar la cuestión y así tener más opciones para poder contrastar opiniones. Además, es importante, convocarle a una entrevista de solución, demo de producto, presentación prototipo, etc.
 
-## 3.2. ENTREVISTA DE SOLUCIÓN
+### 3.2. ENTREVISTA DE SOLUCIÓN
 
 En el caso de tratarse de una entrevista de solución se proponen las siguientes fases:
 
@@ -2869,7 +2748,7 @@ En el caso de tratarse de una entrevista de solución se proponen las siguientes
 - Prototipo: enseña tu prototipo aunque sea en papel y pregunta cómo podría este prototipo ayudar a solucionar el problema
 - Compromiso. Al igual que en el otro tipo de entrevistas, pide los datos y permiso para volver a llamar al entrevistado en el futuro.
 
-## ACTIVIDAD NÚMERO 28. ENTREVISTA CLIENTE-PROBLEMA-SOLUCIÓN
+### ACTIVIDAD NÚMERO 28. ENTREVISTA CLIENTE-PROBLEMA-SOLUCIÓN
 
 - DEFINICIÓN: Esta dinámica trata de validar las hipótesis clave establecidas para nuestro segmentos de clientes.
 
@@ -2902,7 +2781,7 @@ Y luego, pasado un periodo de prueba planificado, los datos que obtengamos del t
 
 La cuestión de fondo antes de plantear un test A/B es precisamente tener claro cuál es el objetivo , no del sitio web, sino de la página específica sobre la que se va a ejecutar el test.
 
-## ACTIVIDAD NÚMERO 29. TEST A/B
+### ACTIVIDAD NÚMERO 29. TEST A/B
 
 - DEFINICIÓN: Esta dinámica se puede hacer para tantas variables como deseemos. Por ejemplo, pensemos en insertar un código QR en nuestro escaparate, pero ¿de tamaño, grande o pequeño? ¿En qué lugar, arriba o abajo, o derecha o izquierda? ¿Ó de qué color, ó sin color?
 
@@ -2962,18 +2841,6 @@ La interfaz es intuitiva, sigue los pasos para crear tu tablero: estilo, privaci
 
 # MÓDULO 6. COMUNICAR
 
-## ÍNDICE
-
-1. Introducción
-2. Foro de Inversión
-3. Elevator Pitch
-4. Aplicaciones de escritorio
-   1. Conferencias: TED
-   2. Presentaciones: Emaze
-5. Apps móviles
-   1. Transmitir en vídeo: Periscope
-   2. Cronómetro cuenta regresiva
-
 ## 1. INTRODUCCIÓN
 
 Finalizamos nuestro curso de emprendimiento con el reto de la comunicación. Y es que, además de ser una habilidad que hemos trabajado durante todo el curso, supone un aspecto clave al finalizar el mismo: debemos ser capaces en todo momento de transmitir las ideas fuerza de nuestro proyecto, porque sólo así, conseguiremos que llegue a nuestro público objetivo.
@@ -3021,7 +2888,7 @@ Una vez tienes tu elevator pitch preparado, toca llevarlo a la práctica; aquí 
 3. No entrar en detalles
 4. Las cifras justas
 
-## ACTIVIDAD NÚMERO 30. FORO DE INVERSIÓN CREATIVO
+### ACTIVIDAD NÚMERO 30. FORO DE INVERSIÓN CREATIVO
 
 - DEFINICIÓN Con esta dinámica damos por terminado el curso de emprendimiento. Se trata de simular un foro de inversión , donde cada grupo de alumnos debe exponer su proyecto para conseguir financiación, y en educación, para conseguir el mejor momento, la mejor situación, la mejor representación y mayor impacto entre el público, el exigente público de nuestro centro. Para ello, y como hemos venido trabajando durante todo el curso, la creatividad es clave. De ahí que le denominemos Foro de Inversión Creativo.
 
@@ -3062,21 +2929,6 @@ Hybrid Stopwatch and Timer es una aplicación sencilla, precisa y fácil de usar
 Puedes iniciar y detener el cronómetro pulsando el botón central; podrás ver el tiempo transcurrido en la pantalla digital ubicado en la zona superior y también en la vista analógica. Para marcar una vuelta presiona el botón izquierdo, se agregará una aguja en el cronómetro analógico indicando, para reiniciar el cronometro presiona el botón derecho. Los botones están situados de tal forma que sólo es necesario una mano para controlar el cronómetro.
 
 # ANEXO I: PROGRAMACIÓN DIDÁCTICA
-
-## ÍNDICE
-
-1. Introducción
-2. Resultados de aprendizaje
-3. Contenidos. Temporalización
-4. Evaluación
-   1. Resultados de aprendizaje y criterios de evaluación. Criterios de evaluación mínimos
-   2. Instrumentos de evaluación
-   3. Criterios de calificación
-   4. Procedimiento de evaluación y criterios de recuperación
-   5. Evaluación del proceso de enseñanza-aprendizaje
-5. Metodología y recursos
-6. Atención a la diversidad
-7. Actividades complementarias
 
 ## 1. INTRODUCCIÓN
 
@@ -3121,7 +2973,11 @@ Los resultados de aprendizaje de Simulación Empresarial son:
 
 ## 3. CONTENIDOS. TEMPORALIZACIÓN
 
-Para conseguir los resultados de aprendizaje, trabajaremos los contenidos que citamos a continuación. Son los establecidos en el currículo, ordenados por evaluaciones y proyectos. Así, durante la 1ª evaluación se abordarán los siguientes contenidos:
+Para conseguir los resultados de aprendizaje, trabajaremos los contenidos que citamos a continuación. Son los establecidos en el currículo, ordenados por evaluaciones y proyectos.
+
+### Contenidos 1ª evaluación
+
+Así, durante la 1ª evaluación se abordarán los siguientes contenidos:
 
 1. UUTT Nº 1. Emprender
    - El proceso innovador en la actividad empresarial
@@ -3164,6 +3020,8 @@ Para conseguir los resultados de aprendizaje, trabajaremos los contenidos que ci
    - Destrezas comunicativas.
    - Uso de herramientas informáticas en la elaboración y exposición del proyecto.
    - Exposición de proyectos empresariales.
+
+### Contenidos 2ª evaluación
 
 Durante la 2ª evaluación, se trabajarán los siguientes contenidos:
 
@@ -3218,7 +3076,7 @@ Cada uno de estos contenidos será ordenado, secuenciado y temporalizado en unid
 
 Proponemos la siguiente temporalización de los contenidos organizados anteriormente en unidades de trabajo, en número de sesiones:
 
-### Tabla 1
+### Tabla 1 - Número de sesiones
 
 | Nº  | UNIDAD DE TRABAJO    | 1ª evaluación | 2ª evaluación | Total  |
 | --- | -------------------- | ------------- | ------------- | ------ |
@@ -3248,13 +3106,13 @@ Desde el punto de vista del aprendizaje establecemos:
 
 Desde el punto de vista de la enseñanza, se establece un cuestionario online a realizar por el alumnado para valorar la actividad docente.
 
-## 4.1. RESULTADOS DE APRENDIZAJE Y CRITERIOS DE EVALUACIÓN. CRITERIOS DE EVALUACIÓN MÍNIMOS. INSTRUMENTOS DE EVALUACIÓN
+### 4.1. RESULTADOS DE APRENDIZAJE Y CRITERIOS DE EVALUACIÓN. CRITERIOS DE EVALUACIÓN MÍNIMOS. INSTRUMENTOS DE EVALUACIÓN
 
 En materia de evaluación tenemos diferentes elementos. Comenzaremos señalando la relación entre los resultados de aprendizaje y los criterios de evaluación, así como el peso de cada criterio de evaluación, y los que se consideran mínimos para el alumnado. En este sentido, al establecer una rúbrica por criterio de evaluación, será ésta la que indique el nivel mínimo.
 
 Señalar que los criterios de evaluación 6.g, 6.h y 6.f. se traban de manera común en los diferentes resultados de aprendizaje. También señalar que los criterios 4.c, 4.d, 4.e, 4.f, 6.c y 6.d no tienen valoración porque se incluyen en otros criterios:
 
-### Tabla 2 - Resultado de aprendizaje Nº 1
+#### Tabla 2 - Resultado de aprendizaje Nº 1
 
 Determina los factores de la innovación empresarial, relacionándolos con la actividad de creación de empresas | Determina los factores de la innovación empresarial, relacionándolos con la actividad de creación de empresas
 
@@ -3293,7 +3151,7 @@ Determina los factores de la innovación empresarial, relacionándolos con la ac
 - Criterios de evaluación: g) Se han definido ayudas y herramientas, públicas y privadas, para la innovación, creación e internacionalización de empresas, relacionándolas estructuradamente en un informe.
 - Peso: 6 |
 
-### Tabla 3: Resultado de aprendizaje Nº 2
+#### Tabla 3: Resultado de aprendizaje Nº 2
 
 Selecciona una idea de negocio, analizando el mercado
 
@@ -3308,7 +3166,7 @@ Selecciona una idea de negocio, analizando el mercado
 | 50%     | g) Se ha efectuado un análisis de mercado para comprobar si existe un nicho en el mismo.               | 10   |
 | 50%     | h) Se ha efectuado un análisis de la competencia para posicionar nuestro producto.                     | 10   |
 
-### Tabla 4: Resultado de aprendizaje Nº 3
+#### Tabla 4: Resultado de aprendizaje Nº 3
 
 Determina la organización interna de la empresa, la forma jurídica y los recursos necesarios, analizando las alternativas disponibles y los objetivos marcados con el proyecto
 
@@ -3324,7 +3182,7 @@ Determina la organización interna de la empresa, la forma jurídica y los recur
 | 50%     | h) Se han reconocido y seleccionado las posibles fuentes de financiación.                                                  | 5    |
 | 50%     | i) Se ha valorado la importancia de dotar a la empresa de la estructura adecuada para su pervivencia.                      | 10   |
 
-### Tabla 5: Resultado de aprendizaje Nº 4
+#### Tabla 5: Resultado de aprendizaje Nº 4
 
 Comprueba la viabilidad de la empresa mediante diferentes tipos de análisis, verificando los diversos factores que pueden influir en la misma
 
@@ -3339,7 +3197,7 @@ Comprueba la viabilidad de la empresa mediante diferentes tipos de análisis, ve
 | 50%  | g) Se ha comprobado la viabilidad económica por medio del análisis de proyectos de inversión.                                  | 15   |
 | 50%  | h) Se ha elaborado un plan de viabilidad a largo plazo para poder efectuar una mejor planificación en la empresa.              | 5    |
 
-### Tabla 6: Resultado de aprendizaje Nº 5
+#### Tabla 6: Resultado de aprendizaje Nº 5
 
 Gestiona la documentación necesaria para la puesta en marcha de una empresa, analizando los trámites legales y las actuaciones necesarias que conllevan la realización del PE
 
@@ -3355,7 +3213,7 @@ Gestiona la documentación necesaria para la puesta en marcha de una empresa, an
 | 50% | h) Se ha reconocido la existencia de trámites de carácter específico para determinado tipos de negocios.                        | 1    |
 | 50% | i) Se ha valorado la importancia del cumplimiento de los plazos legales para la tramitación y puesta en marcha de un negocio.   | 1    |
 
-### Tabla 7: Resultado de aprendizaje Nº 6
+#### Tabla 7: Resultado de aprendizaje Nº 6
 
 Realiza la gestión de la empresa-proyecto en sus diversos departamentos
 
@@ -3484,18 +3342,26 @@ Tras su realización, se extraerán los resultados del cuestionario y se comenta
 
 ## 5. METODOLOGÍA Y RECURSOS
 
+### 5.1. Principios metodológicos
+
 En materia de metodología se respetarán los principios metodológicos que establece la normativa como orientativos: principio de actividad, mediación, aprendizaje significativo, funcional, atención a la diversidad, aprendizaje en grupo y pedagogía del esfuerzo y del éxito.
 
 Sin embargo, el eje metodológico de Simulación empresarial será el Aprendizaje basado en Proyectos .
+
+### 5.2. Estructura del curso
 
 El curso comenzará con dos cuestiones teóricas: la figura del emprendedor y la metodología de trabajo, basada en el método Lean Startup, el uso de las TIC y el trabajo en equipo. Centrados estos aspectos, se plantean dos grandes retos/problemas/proyectos:
 
 1. Generación de un modelo de negocio de éxito (1ª evaluación).
 2. Diseño y simulación de un Plan de Negocios (2ª evaluación).
 
-Las Administraciones ha hecho un gran esfuerzo incluyendo el emprendimiento una de las competencias básicas . Programas como YPD y Escuela de Emprendedores buscan el trabajo y desarrollo de dicha competencia, fundamental para las demás competencias básicas. Sin embargo, en Formación Profesional la formación se limita simplemente a saber cómo crear una empresa, y conocer su gestión. Pero no se trabaja lo más importante: cómo plantear el modelo de negocio de esa hipotética empresa. De poco sirve saber gestionar una empresa, si no planteamos un negocio innovador, que llegue al mercado, que se diferencie de la competencia. Y para ello, hay un procedimiento sencillo, de bajo coste y muy ágil, muy realista, la metodología Lean Startup. El alumnado reflexiona sobre los distintos modelos de negocio, y a través de un procedimiento sencillo, en equipo e iterativo, importando de Silicon Valley, proponen el denominado Producto Mínimo Viable, como paso previo para lanzarse al mercado con muchas más garantías.
+### 5.3. Por qué Lean Startup
 
-La aplicación de este método tiene otras muchas e importantes implicaciones desde el punto de vista metodológico . Y decimos esto porque la aplicación de la metodología Lean Startup, implica casi la obligatoriedad de utilizar las nuevas metodologías activas con el alumnado, tales como:
+Las Administraciones ha hecho un gran esfuerzo incluyendo el emprendimiento una de las competencias básicas. Programas como YPD y Escuela de Emprendedores buscan el trabajo y desarrollo de dicha competencia, fundamental para las demás competencias básicas. Sin embargo, en Formación Profesional la formación se limita simplemente a saber cómo crear una empresa, y conocer su gestión. Pero no se trabaja lo más importante: cómo plantear el modelo de negocio de esa hipotética empresa. De poco sirve saber gestionar una empresa, si no planteamos un negocio innovador, que llegue al mercado, que se diferencie de la competencia. Y para ello, hay un procedimiento sencillo, de bajo coste y muy ágil, muy realista, la metodología Lean Startup. El alumnado reflexiona sobre los distintos modelos de negocio, y a través de un procedimiento sencillo, en equipo e iterativo, importando de Silicon Valley, proponen el denominado Producto Mínimo Viable, como paso previo para lanzarse al mercado con muchas más garantías.
+
+### 5.4. Metodologías activas asociadas
+
+La aplicación de este método tiene otras muchas e importantes implicaciones desde el punto de vista metodológico. Y decimos esto porque la aplicación de la metodología Lean Startup, implica casi la obligatoriedad de utilizar las nuevas metodologías activas con el alumnado, tales como:
 
 - la aplicación de design thinking en el aula,
 - learning by doing,
@@ -3505,7 +3371,11 @@ La aplicación de este método tiene otras muchas e importantes implicaciones de
 
 En conclusión, la aplicación de metodología Lean Startup implica formar al alumnado en la creación de negocios pero con mayores posibilidades de éxito (punto de vista profesional) y la aplicación de nuevas metodologías activas en el aula (punto de vista metodológico).
 
+### 5.5. Mobile learning y realidad aumentada
+
 El curso pasado nos iniciamos en el uso de dispositivos móviles en el aula. Este curso continuamos con la experimentación en esta materia, combinando el mobile learning con realidad aumentada. A final de curso extraeremos conclusiones al respecto.
+
+### 5.6. Programas y concursos
 
 Dentro de la metodología y recursos contamos con la participación en 3 programas:
 
@@ -3528,9 +3398,7 @@ De forma más concreta, vamos a tener en cuenta dos aspectos:
 
 ## 7. ACTIVIDADES COMPLEMENTARIAS
 
-Las actividades propuestas para el curso 2016/17 son las siguientes:
-
-Tabla 11
+Las actividades propuestas para el curso 2016/17 son las siguientes: Tabla 11
 
 1. - ACTIVIDAD: Jornadas de creatividad
 
@@ -3545,41 +3413,3 @@ Tabla 11
 - CONTENIDOS: La actividad empresarial. La organización funcional en la empresa. Gestión de los recursos humanos. Responsabilidad social de la empresa. Asignación de recursos. El plan de aprovisionamiento.
 - FECHA: 2ª evaluación
 - GRUPOS: 2º CCFF ADM
-
-## MI AGRADECIMIENTO
-
-A todos aquellos que han servido de inspiración para que este libro sea una realidad
-
-Steve Blank
-Tina Seelig
-Jorge ArÉvalo
-Lourdes Barroso
-Isabel Gonzalez
-Paz Fernandez
-Elena Rodriguez
-Nestor Guerra
-J. A. de Miguel
-Andy Baraja
-Sergio Fernandez
-Mago More
-ConfeBask
-Emprendedores
-BBVA Banca Responsable
-Fundación CTIC
-Mimuso
-
-- GRACIAS ESPECIALES
-
-"A LOS PROFESORES DE FOL, ECONOMÍA y ADMINISTRACION DE EMPRESAS Y ALUMNOS QUE TANTO ME HAN ENSEÑADO"
-
-- NO OLVIDAR
-
-PROVERBIO HOLANDÉS
-
-"Cuando soplan los vientos de tempestad, unos corren a refugiarse... y otros construyen molinos"
-
-www.pablopenalver.com
-
-ÚNETE A NUESTRO CANAL:
-
-www.telegram.me/pablopenalver
