@@ -7,6 +7,7 @@ CARPETA_DATA = RAIZ_PROYECTO / "data"
 CARPETA_MARKDOWN_RAW = CARPETA_DATA / "markdown_raw"
 CARPETA_MARKDOWN_CLEAN = CARPETA_DATA / "markdown_clean"
 CARPETA_VECTOR_STORE = CARPETA_DATA / "vector_store"
+CARPETA_HISTORIAL = CARPETA_DATA / "historial_conversaciones"
 
 # Constantes RAG
 K_BUSQUEDA = 8
