@@ -38,8 +38,30 @@ class Historial:
 
         return conversaciones.get(id_conversacion, [])
 
-    def obtener_contexto(self, id_conversacion: str):
-        ...
+
+
+    def obtener_contexto(
+    self,
+    id_conversacion: str,
+    max_mensajes: int = 6
+) -> list:
+        """
+        Devuelve los últimos mensajes de una conversación para utilizarlos
+        como contexto del LLM.
+
+        Args:
+            id_conversacion: Identificador de la conversación.
+            max_mensajes: Número máximo de mensajes a devolver.
+
+        Returns:
+            Lista con los últimos mensajes de la conversación.
+        """
+
+        historial = self.obtener_historial(id_conversacion)
+
+        return historial[-max_mensajes:]
+
+
 
 
     def agregar_mensaje(
