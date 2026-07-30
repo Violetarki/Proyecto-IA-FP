@@ -5,6 +5,8 @@ y representan únicamente el dominio de la aplicación."""
 
 from dataclasses import dataclass
 
+from src.core.aplanar_tablas import aplanar_tablas
+
 @dataclass
 class Metodologia:
     """Representa una metodología educativa.
@@ -68,5 +70,13 @@ class Chunk:
             if parte
         ]
 
+    def texto_plano(self) -> str:
+        """Devuelve el texto del chunk con las tablas convertidas a texto natural."""
+
+        return aplanar_tablas(self.texto)
+
     def texto_embedding(self) -> str:
-        return "\n".join(self.jerarquia() + [self.texto]).lower()
+        """Devuelve una representación optimizada del chunk para generar embeddings."""
+
+        texto_plano = self.texto_plano()
+        return "\n".join(self.jerarquia() + [texto_plano]).lower()
