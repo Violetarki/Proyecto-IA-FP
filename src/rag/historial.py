@@ -41,10 +41,10 @@ class Historial:
 
 
     def obtener_contexto(
-    self,
-    id_conversacion: str,
-    max_mensajes: int = 6
-) -> list:
+        self,
+        id_conversacion: str,
+        max_mensajes: int = 6
+    ) -> list:
         """
         Devuelve los últimos mensajes de una conversación para utilizarlos
         como contexto del LLM.
@@ -119,8 +119,6 @@ class Historial:
                 json.dump(conversaciones, f, ensure_ascii=False, indent=4)
 
 
-
-# MEJORAS PARA MÁS TARDE 
 
 def _cargar_historial():
     ...

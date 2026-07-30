@@ -80,3 +80,9 @@ class Chunk:
 
         texto_plano = self.texto_plano()
         return "\n".join(self.jerarquia() + [texto_plano]).lower()
+
+
+    @dataclass
+    class Mensaje:
+        rol: str
+        contenido: str
