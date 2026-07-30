@@ -12,7 +12,7 @@ pipeline RAG, facilitando modificar las instrucciones o el formato
 sin afectar al chatbot ni al retriever.
 """
 
-from src.core.models import Chunk
+from src.core.models import Chunk, Mensaje
 
 INSTRUCCIONES = (
     "Eres un profesor de Formación Profesional.\n"
@@ -45,13 +45,43 @@ class ConstructorPrompts:
 
         return "\n\n".join(partes)
 
-    def construir_prompt(self, pregunta: str, chunks: list[Chunk]) -> str:
+
+    def _formatear_historial(
+            self,
+            mensajes: list[Mensaje]
+        ) -> str:
         """
-        Une tres partes:
+        Formatea una lista de mensajes para el prompt.
+
+        Convierte cada objeto Mensaje en una línea del historial con el formato:
+        - <rol>: <contenido>
+
+        Args:
+            mensajes: Lista de objetos Mensaje que representan el historial.
+
+        Returns:
+            Una cadena con el historial formateado para incluir en el prompt.
+        """
+
+        if not mensajes:
+            return "(sin historial previo)"
+
+        lineas: list[str] = []
+
+        for mensaje in mensajes:
+            lineas.append(f"- {mensaje.rol}: {mensaje.contenido}")
+
+        return "\n".join(lineas)
+        
+
+    def construir_prompt(self, historial: list[Mensaje], pregunta: str, chunks: list[Chunk]) -> str:
+        """
+        Une cuatro partes:
 
         1. Instrucciones para el modelo.
         2. Contexto recuperado.
         3. Pregunta del usuario.
+        4. Historial de la conversación.
         """
 
         if not chunks:
@@ -63,7 +93,9 @@ class ConstructorPrompts:
             raise ValueError(
                 "La pregunta no puede estar vacía."
             )
+        
         contexto = self._formatear_contexto(chunks)
+        historial = self._formatear_historial(historial)
 
         return f"""
         {INSTRUCCIONES}
@@ -73,6 +105,10 @@ class ConstructorPrompts:
 
         Pregunta:
         {pregunta}
+
+        Historial:
+        {historial}
+
         """.strip()
 
 if __name__ == "__main__":
