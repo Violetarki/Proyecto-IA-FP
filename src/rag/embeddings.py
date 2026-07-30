@@ -133,8 +133,10 @@ def crear_embeddings_chunks(
     Convierte una lista de objetos Chunk en una matriz de embeddings.
 
     El orden de los vectores será el mismo que el orden de los chunks.
-    Se usa texto_embedding() para incluir el contexto jerárquico
-    (titulo, subtitulo, seccion, subseccion) junto con el texto del chunk.
+    
+    Cada Chunk proporciona su representación optimizada mediante
+    texto_embedding(), que incorpora el contexto jerárquico y adapta
+    el contenido para mejorar la calidad semántica de los embeddings.
     """
 
     textos = [chunk.texto_embedding() for chunk in chunks]
