@@ -25,7 +25,7 @@ from pathlib import Path
 from src.ingestion.docling_converter import convertir_pdf_a_markdown
 from src.ingestion.text_cleaner import limpiar_archivo_markdown
 from src.ingestion.document_loader import cargar_documentos
-from src.ingestion.chunker2 import crear_chunks_documentos
+from src.ingestion.chunker import crear_chunks_documentos
 from src.rag.embeddings import crear_embeddings_chunks
 from src.rag.vector_store import VectorStore
 
