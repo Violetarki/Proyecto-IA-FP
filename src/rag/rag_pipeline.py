@@ -57,10 +57,7 @@ class RAG:
 
         print("Recuperando contexto...")
 
-        self.historial.agregar_mensaje(
-            self.id_conversacion,
-            Mensaje("user", pregunta)
-        )
+        historial = self.historial.obtener_contexto(self.id_conversacion)
 
         chunks = self.retriever.recuperar_contexto(
             pregunta,
@@ -72,6 +69,7 @@ class RAG:
         print("Construyendo prompt...")
 
         prompt = self.prompt_builder.construir_prompt(
+            historial,
             pregunta,
             chunks,
         )
@@ -84,6 +82,13 @@ class RAG:
 
         respuesta = self.llm.generar_respuesta(prompt)
 
+        # Guardar la pregunta en historial
+        self.historial.agregar_mensaje(
+            self.id_conversacion,
+            Mensaje("user", pregunta)
+        )
+
+        # Guardar la respuesta en historial
         self.historial.agregar_mensaje(
             self.id_conversacion,
             Mensaje("bot", respuesta)
