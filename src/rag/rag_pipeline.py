@@ -14,10 +14,13 @@ El resto de la aplicación (por ejemplo, el chatbot web) únicamente
 debe interactuar con esta clase.
 """
 
+import uuid
+
 from src.rag.retriever import Retriever
 from src.rag.prompt_builder import ConstructorPrompts
 from src.rag.llm_client import LLMClient
-
+from src.rag.historial import Historial
+from src.core.models import Mensaje
 
 class RAG:
     """
@@ -32,6 +35,8 @@ class RAG:
         self.retriever = Retriever()
         self.prompt_builder = ConstructorPrompts()
         self.llm = LLMClient()
+        self.historial = Historial()
+        self.id_conversacion = str(uuid.uuid4())
 
     def responder(
         self,
@@ -51,6 +56,11 @@ class RAG:
         """
 
         print("Recuperando contexto...")
+
+        self.historial.agregar_mensaje(
+            self.id_conversacion,
+            Mensaje("user", pregunta)
+        )
 
         chunks = self.retriever.recuperar_contexto(
             pregunta,
@@ -73,6 +83,11 @@ class RAG:
         print("Consultando el modelo...")
 
         respuesta = self.llm.generar_respuesta(prompt)
+
+        self.historial.agregar_mensaje(
+            self.id_conversacion,
+            Mensaje("bot", respuesta)
+        )
 
         print("Respuesta recibida.")
         return respuesta
