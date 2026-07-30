@@ -9,6 +9,7 @@
 import json
 from src.core.config import CARPETA_HISTORIAL
 from pathlib import Path
+from src.core.models import Mensaje
 
 
 class Historial:
@@ -16,7 +17,7 @@ class Historial:
     def __init__(self, ruta_historial: str = CARPETA_HISTORIAL):
         self.ruta = Path(ruta_historial)
 
-    def obtener_historial(self, id_conversacion: str) -> list:
+    def obtener_historial(self, id_conversacion: str) -> list[Mensaje]:
         """
         Devuelve el historial de una conversación.
 
@@ -27,17 +28,12 @@ class Historial:
             id_conversacion: Identificador único de la conversación.
 
         Returns:
-            Lista de mensajes de la conversación.
+            Lista de objetos Mensaje que forman el historial de la conversación.
         """
 
-        if not self.ruta.exists():
-            return []
-
-        with self.ruta.open("r", encoding="utf-8") as f:
-            conversaciones = json.load(f)
-
-        return conversaciones.get(id_conversacion, [])
-
+        conversaciones = self._cargar_historial()
+        mensajes = conversaciones.get(id_conversacion, [])
+        return [self._mensaje_desde_dict(mensaje) for mensaje in mensajes]
 
 
     def obtener_contexto(
@@ -63,39 +59,26 @@ class Historial:
 
 
 
-
     def agregar_mensaje(
         self,
         id_conversacion: str,
-        rol: str,
-        contenido: str
+        mensaje: Mensaje
     ) -> None:
         """
         Agrega un mensaje al historial de una conversación.
 
         Args:
             id_conversacion: Identificador de la conversación.
-            rol: Rol del emisor del mensaje.
-            contenido: Texto del mensaje.
+            mensaje: Objeto Mensaje a agregar al historial.
         """
 
-        if self.ruta.exists():
-            with self.ruta.open("r", encoding="utf-8") as f:
-                conversaciones = json.load(f)
-        else:
-            conversaciones = {}
+        conversaciones = self._cargar_historial()
 
         if id_conversacion not in conversaciones:
             conversaciones[id_conversacion] = []
 
-        conversaciones[id_conversacion].append({
-            "rol": rol,
-            "contenido": contenido
-        })
-
-        with self.ruta.open("w", encoding="utf-8") as f:
-            json.dump(conversaciones, f, ensure_ascii=False, indent=4)
-
+        conversaciones[id_conversacion].append(self._mensaje_a_dict(mensaje))
+        self._guardar_historial(conversaciones)
 
 
     def eliminar_conversacion(self, id_conversacion: str) -> None:
@@ -106,38 +89,49 @@ class Historial:
             id_conversacion: Identificador de la conversación a borrar.
         """
 
-        if not self.ruta.exists():
-            return
-
-        with self.ruta.open("r", encoding="utf-8") as f:
-            conversaciones = json.load(f)
+        conversaciones = self._cargar_historial()
 
         if id_conversacion in conversaciones:
             del conversaciones[id_conversacion]
-
-            with self.ruta.open("w", encoding="utf-8") as f:
-                json.dump(conversaciones, f, ensure_ascii=False, indent=4)
+            self._guardar_historial(conversaciones)
 
 
+    def _cargar_historial(self) -> dict:
+        """
+        Lee el historial desde el archivo JSON y devuelve el diccionario
+        de conversaciones.
 
-def _cargar_historial():
-    ...
+        Si el archivo no existe, devuelve un diccionario vacío.
+        """
+
+        if not self.ruta.exists():
+            return {}
+
+        with self.ruta.open("r", encoding="utf-8") as f:
+            return json.load(f)
 
 
-def _guardar_historial():
-    ...
+    def _guardar_historial(self, conversaciones: dict) -> None:
+        """
+        Guarda el diccionario de conversaciones en el archivo JSON.
+        """
+
+        self.ruta.parent.mkdir(parents=True, exist_ok=True)
+        with self.ruta.open("w", encoding="utf-8") as f:
+            json.dump(conversaciones, f, ensure_ascii=False, indent=4)
 
 
-"""
-    Una pequeña mejora que haría
+    def _mensaje_desde_dict(self, mensaje: dict) -> Mensaje:
+        """Convierte un diccionario JSON en un objeto Mensaje."""
 
-    En lugar de devolver diccionarios, yo devolvería objetos de una clase Mensaje (como ya hacéis con Documento y Chunk).
+        return Mensaje(**mensaje)
 
-    Algo como:
 
-    @dataclass
-    class Mensaje:
-        rol: str
-        contenido: str
+    def _mensaje_a_dict(self, mensaje: Mensaje) -> dict:
+        """Convierte un objeto Mensaje en un diccionario JSON."""
 
-"""
+        return {
+            "rol": mensaje.rol,
+            "contenido": mensaje.contenido
+        }
+

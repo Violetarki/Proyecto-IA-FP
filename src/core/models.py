@@ -82,12 +82,12 @@ class Chunk:
         return "\n".join(self.jerarquia() + [texto_plano]).lower()
 
 
-    @dataclass
-    class Mensaje:
-        """
-            Representa un mensaje dentro del chatbot
-            
-            Guarda el contenido del mensaje y quién lo envió
-        """
-        rol: str
-        contenido: str
+@dataclass
+class Mensaje:
+    """Representa un mensaje dentro del chatbot.
+
+    Guarda el contenido del mensaje y quién lo envió.
+    """
+
+    rol: str
+    contenido: str

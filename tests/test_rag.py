@@ -34,6 +34,7 @@ def main():
         print("...")
 
     prompt = prompt_builder.construir_prompt(
+        [],
         pregunta=pregunta,
         chunks=chunks,
     )
