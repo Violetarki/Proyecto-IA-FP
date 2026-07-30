@@ -19,8 +19,8 @@ necesario modificar este módulo.
 import chromadb
 import numpy as np
 from pathlib import Path
-from models import Chunk, Documento, Metodologia
-from config import CARPETA_VECTOR_STORE
+from src.core.models import Chunk, Documento, Metodologia
+from src.core.config import CARPETA_VECTOR_STORE, K_BUSQUEDA, UMBRAL_ACEPTABLE, UMBRAL_BUENO, UMBRAL_EXCELENTE, MINIMO_CHUNKS, MAXIMO_CHUNKS
 
 class VectorStore:
     """
@@ -48,7 +48,10 @@ class VectorStore:
 
         self.client = chromadb.PersistentClient(path=persist_directory)
 
-        self.collection = self.client.get_or_create_collection(name=collection_name)
+        self.collection = self.client.get_or_create_collection(
+            name=collection_name,
+            metadata={"hnsw:space": "cosine"},
+        )
 
     def _crear_id(
     self,
@@ -93,6 +96,12 @@ class VectorStore:
         if chunk.subtitulo:
             metadata["subtitulo"] = chunk.subtitulo
 
+        if chunk.seccion:
+            metadata["seccion"] = chunk.seccion
+
+        if chunk.subseccion:
+            metadata["subseccion"] = chunk.subseccion
+
         return (
             self._crear_id(chunk),
             chunk.texto,
@@ -129,6 +138,8 @@ class VectorStore:
             texto=texto,
             titulo=metadata.get("titulo"),
             subtitulo=metadata.get("subtitulo"),
+            seccion=metadata.get("seccion"),
+            subseccion=metadata.get("subseccion"),
         )
 
     def indexar_chunks(
@@ -185,10 +196,59 @@ class VectorStore:
             metadatas=metadatos,
         )
 
+    def _filtrar_chunks(
+        self,
+        documentos,
+        metadatos,
+        distancias,
+    ):
+        resultados = []
+
+        for texto, metadata, distancia in zip(
+            documentos,
+            metadatos,
+            distancias
+        ):
+
+            resultados.append(
+                (
+                    self._chunk_desde_resultado(
+                        texto,
+                        metadata,
+                    ),
+                    distancia,
+                )
+            )
+
+        excelentes = [
+            chunk
+            for chunk, distancia in resultados
+            if distancia <= UMBRAL_EXCELENTE
+        ]
+
+        if len(excelentes) >= MINIMO_CHUNKS:
+            return excelentes[:MAXIMO_CHUNKS]
+
+        buenos = [
+            chunk for chunk, distancia in resultados if distancia <= UMBRAL_BUENO
+        ]
+
+        if len(buenos) >= MINIMO_CHUNKS:
+            return buenos[:MAXIMO_CHUNKS]
+
+        aceptables = [
+            chunk
+            for chunk, distancia in resultados
+            if distancia <= UMBRAL_ACEPTABLE
+        ]
+
+        return aceptables[:MAXIMO_CHUNKS]
+
     def buscar(
         self,
         embedding: np.ndarray,
-        k: int = 5,
+        metodologia: str,
+        k: int = K_BUSQUEDA,
     ) -> list[Chunk]:
         """
         Recupera los chunks más similares a un embedding.
@@ -207,28 +267,47 @@ class VectorStore:
         if k <= 0:
             raise ValueError("El número de resultados debe ser mayor que cero.")
 
+        # Temporal para pruebas
+        print(self.collection.count())
+
         resultado = self.collection.query(
             query_embeddings=[embedding.tolist()],
+            where={
+                "metodologia": metodologia,
+            },
             n_results=k,
             include=[
                 "documents",
                 "metadatas",
+                "distances",
             ],
         )
 
+        distancias = resultado["distances"][0]
         documentos = resultado["documents"][0]
         metadatos = resultado["metadatas"][0]
 
-        return [
-            self._chunk_desde_resultado(
-                texto,
-                metadata,
+        # Temporal para depuración
+        print("\nDistancias obtenidas:")
+        for i, (distancia, metadata) in enumerate(
+            zip(distancias, metadatos),
+            start=1,
+        ):
+            ruta = " > ".join(
+                parte for parte in [
+                    metadata.get("titulo"),
+                    metadata.get("subtitulo"),
+                    metadata.get("seccion"),
+                    metadata.get("subseccion"),
+                ] if parte
             )
-            for texto, metadata in zip(
-                documentos,
-                metadatos,
-            )
-        ]
+            print(f"Chunk {i}: {distancia:.3f} - {ruta}")
+
+        return self._filtrar_chunks(
+            documentos,
+            metadatos,
+            distancias,
+        )
 
     def eliminar_documento(
         self,

@@ -5,6 +5,8 @@ y representan únicamente el dominio de la aplicación."""
 
 from dataclasses import dataclass
 
+from src.core.aplanar_tablas import aplanar_tablas
+
 @dataclass
 class Metodologia:
     """Representa una metodología educativa.
@@ -57,4 +59,35 @@ class Chunk:
     texto: str
     titulo: str | None = None
     subtitulo: str | None = None
-    # subseccion: str | None = None
+    seccion: str | None = None
+    subseccion: str | None = None
+
+    def jerarquia(self) -> list[str]:
+        """Devuelve los niveles de contexto disponibles (titulo, subtitulo, seccion, subseccion), sin los que sean None."""
+        return [
+            parte
+            for parte in [self.titulo, self.subtitulo, self.seccion, self.subseccion]
+            if parte
+        ]
+
+    def texto_plano(self) -> str:
+        """Devuelve el texto del chunk con las tablas convertidas a texto natural."""
+
+        return aplanar_tablas(self.texto)
+
+    def texto_embedding(self) -> str:
+        """Devuelve una representación optimizada del chunk para generar embeddings."""
+
+        texto_plano = self.texto_plano()
+        return "\n".join(self.jerarquia() + [texto_plano]).lower()
+
+
+    @dataclass
+    class Mensaje:
+        """
+            Representa un mensaje dentro del chatbot
+            
+            Guarda el contenido del mensaje y quién lo envió
+        """
+        rol: str
+        contenido: str

@@ -120,12 +120,12 @@ h3 {
 }
 
 .boton-principal {
-    background-color: #252525;
+    background-color: #1e3a8a;
     color: #ffffff;
 }
 
 .boton-principal:hover {
-    background-color: #444444;
+    background-color: #1e40af;
 }
 
 .boton-eliminar {
@@ -177,21 +177,6 @@ h3 {
     line-height: 1.5;
 }
 
-@media (max-width: 600px) {
-    body {
-        padding: 25px 15px;
-    }
-
-    .listado-documentos li {
-        align-items: flex-start;
-        flex-direction: column;
-    }
-
-    .formulario-subida {
-        align-items: stretch;
-        flex-direction: column;
-    }
-}
 /* ===========================
    PORTADA PRINCIPAL
 =========================== */
@@ -251,6 +236,7 @@ h3 {
     display: inline-block;
     text-decoration: none;
 }
+
 /* ===========================
    LOGIN DE PROFESORES
 =========================== */
@@ -322,14 +308,21 @@ h3 {
     width: 100%;
     margin-top: 5px;
 }
+
 /* ===========================
    CHATBOT
 =========================== */
 
+.pagina-chat {
+    min-height: 100vh;
+    padding: 28px 20px;
+    background-color: #f5f7fa;
+}
+
 .contenedor-chat {
     width: 100%;
-    max-width: 900px;
-    min-height: calc(100vh - 80px);
+    max-width: 1000px;
+    min-height: calc(100vh - 56px);
     margin: 0 auto;
     display: flex;
     flex-direction: column;
@@ -337,81 +330,212 @@ h3 {
 
 .cabecera-chat {
     display: flex;
-    align-items: center;
+    align-items: flex-start;
     justify-content: space-between;
-    gap: 20px;
-    margin-bottom: 20px;
+    gap: 30px;
+    margin-bottom: 24px;
 }
 
 .cabecera-chat h1 {
     margin: 0;
+    color: #1e3a8a;
+    font-size: 44px;
+    line-height: 1.15;
+}
+
+.etiqueta-chat {
+    margin: 0 0 8px;
+    color: #1e3a8a;
+    font-size: 14px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+.descripcion-chat {
+    max-width: 650px;
+    margin: 12px 0 0;
+    color: #4b5563;
+    font-size: 18px;
+    line-height: 1.5;
+}
+
+.enlace-volver-chat {
+    flex-shrink: 0;
+    padding: 12px 18px;
+    border: 2px solid #1e3a8a;
+    border-radius: 8px;
+    background-color: #ffffff;
+    color: #1e3a8a;
+    font-size: 15px;
+    font-weight: 600;
+    text-decoration: none;
+    transition: background-color 0.2s ease;
+}
+
+.enlace-volver-chat:hover {
+    background-color: #eff6ff;
+}
+
+.panel-chat {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    min-height: 0;
+    overflow: hidden;
+    border: 1px solid #dbe4ef;
+    border-radius: 14px;
+    background-color: #ffffff;
+    box-shadow: 0 8px 24px rgba(30, 58, 138, 0.06);
 }
 
 .ventana-chat {
     flex: 1;
-    min-height: 480px;
-    padding: 25px;
-    border-radius: 12px;
-    background-color: #ffffff;
-    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.06);
+    min-height: 280px;
+    max-height: 500px;
+    padding: 22px 18px;
     overflow-y: auto;
+    background-color: #ffffff;
+}
+
+.fila-mensaje {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin-bottom: 18px;
+}
+
+.fila-mensaje:last-child {
+    margin-bottom: 0;
+}
+
+.fila-asistente {
+    align-items: flex-start;
+}
+
+.fila-usuario {
+    align-items: flex-end;
+}
+
+.identificador-mensaje {
+    margin-bottom: 7px;
+    color: #1e3a8a;
+    font-size: 12px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
 }
 
 .mensaje-chat {
-    max-width: 75%;
-    margin-bottom: 18px;
-    padding: 14px 16px;
+    width: fit-content;
+    max-width: 58%;
+    padding: 14px 18px;
     border-radius: 12px;
-    line-height: 1.5;
+    font-size: 15px;
+    line-height: 1.6;
+    overflow-wrap: anywhere;
     white-space: pre-wrap;
 }
 
 .mensaje-bot {
-    margin-right: auto;
-    background-color: #eef1f4;
-    color: #252525;
+    border: 1px solid #bfdbfe;
+    background-color: #eff6ff;
+    color: #1f2937;
 }
 
 .mensaje-usuario {
-    margin-left: auto;
-    background-color: #252525;
+    background-color: #1e3a8a;
     color: #ffffff;
 }
 
 .formulario-chat {
+    padding: 20px 24px;
+    border-top: 1px solid #dbe4ef;
+    background-color: #fafbfd;
+}
+
+.etiqueta-pregunta {
+    display: block;
+    margin-bottom: 9px;
+    color: #1e3a8a;
+    font-size: 15px;
+    font-weight: 700;
+}
+
+.contenedor-pregunta {
     display: flex;
-    gap: 15px;
-    margin-top: 20px;
+    align-items: flex-end;
+    gap: 14px;
 }
 
 .formulario-chat textarea {
     flex: 1;
-    min-height: 70px;
-    padding: 14px;
-    border: 1px solid #cccccc;
-    border-radius: 8px;
+    min-height: 74px;
+    max-height: 150px;
+    padding: 14px 15px;
+    border: 2px solid #d6dee8;
+    border-radius: 10px;
+    background-color: #ffffff;
+    color: #1f2937;
     font-family: Arial, sans-serif;
-    font-size: 16px;
+    font-size: 15px;
+    line-height: 1.5;
     resize: vertical;
+    transition:
+        border-color 0.2s ease,
+        box-shadow 0.2s ease;
 }
 
 .formulario-chat textarea:focus {
-    border-color: #555555;
+    border-color: #2563eb;
     outline: none;
+    box-shadow: 0 0 0 3px rgba(37, 99, 235, 0.12);
 }
 
-.formulario-chat .boton {
-    align-self: flex-end;
+.boton-enviar {
+    min-width: 120px;
+    min-height: 48px;
+    border-radius: 10px;
+    font-size: 15px;
+    font-weight: 600;
 }
 
-@media (max-width: 600px) {
+.ayuda-pregunta {
+    margin: 8px 0 0;
+    color: #6b7280;
+    font-size: 12px;
+}
+
+@media (max-width: 700px) {
+    .pagina-chat {
+        padding: 20px 12px;
+    }
+
+    .contenedor-chat {
+        min-height: calc(100vh - 40px);
+    }
+
     .cabecera-chat {
-        align-items: flex-start;
         flex-direction: column;
+        gap: 18px;
+    }
+
+    .cabecera-chat h1 {
+        font-size: 34px;
+    }
+
+    .descripcion-chat {
+        font-size: 16px;
+    }
+
+    .enlace-volver-chat {
+        align-self: flex-start;
     }
 
     .ventana-chat {
-        min-height: 420px;
+        min-height: 240px;
+        max-height: 460px;
+        padding: 20px;
     }
 
     .mensaje-chat {
@@ -419,10 +543,31 @@ h3 {
     }
 
     .formulario-chat {
+        padding: 18px;
+    }
+
+    .contenedor-pregunta {
+        align-items: stretch;
         flex-direction: column;
     }
 
-    .formulario-chat .boton {
+    .boton-enviar {
         width: 100%;
+    }
+}
+
+@media (max-width: 600px) {
+    body {
+        padding: 25px 15px;
+    }
+
+    .listado-documentos li {
+        align-items: flex-start;
+        flex-direction: column;
+    }
+
+    .formulario-subida {
+        align-items: stretch;
+        flex-direction: column;
     }
 }

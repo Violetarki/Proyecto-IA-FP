@@ -6,7 +6,7 @@ de la carpeta que contiene cada archivo Markdown.
 """
 
 from pathlib import Path
-from models import Documento, Metodologia
+from src.core.models import Documento, Metodologia
 
 
 def cargar_documento(

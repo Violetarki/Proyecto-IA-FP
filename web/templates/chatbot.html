@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+
+    <meta
+        name="viewport"
+        content="width=device-width, initial-scale=1.0"
+    >
+
+    <title>Asistente IA para FP</title>
+
+    <link
+        rel="stylesheet"
+        href="{{ url_for('static', filename='styles.css') }}"
+    >
+</head>
+
+<body class="pagina-chat">
+
+    <main class="contenedor-chat">
+
+        <header class="cabecera-chat">
+
+            <div>
+                <p class="etiqueta-chat">
+                    Formación Profesional
+                </p>
+
+                <h1>Asistente IA</h1>
+
+                <p class="descripcion-chat">
+                    Consulta información sobre las metodologías
+                    disponibles en el proyecto.
+                </p>
+            </div>
+
+            <a
+                href="{{ url_for('inicio') }}"
+                class="enlace-volver-chat"
+            >
+                Volver al inicio
+            </a>
+
+        </header>
+
+        <section class="panel-chat">
+
+            <div class="ventana-chat">
+
+                <div class="fila-mensaje fila-asistente">
+
+                    <div class="identificador-mensaje">
+                        Asistente
+                    </div>
+
+                    <div class="mensaje-chat mensaje-bot">
+                        Hola. Escribe una pregunta relacionada
+                        con las metodologías de Formación
+                        Profesional.
+                    </div>
+
+                </div>
+
+                {% if pregunta %}
+
+                    <div class="fila-mensaje fila-usuario">
+
+                        <div class="identificador-mensaje">
+                            Tú
+                        </div>
+
+                        <div class="mensaje-chat mensaje-usuario">
+                            {{ pregunta }}
+                        </div>
+
+                    </div>
+
+                {% endif %}
+
+                {% if respuesta %}
+
+                    <div class="fila-mensaje fila-asistente">
+
+                        <div class="identificador-mensaje">
+                            Asistente
+                        </div>
+
+                        <div class="mensaje-chat mensaje-bot">
+                            {{ respuesta }}
+                        </div>
+
+                    </div>
+
+                {% endif %}
+
+            </div>
+
+            <form
+                class="formulario-chat"
+                action="{{ url_for('chat') }}"
+                method="POST"
+            >
+
+                <label
+                    for="pregunta"
+                    class="etiqueta-pregunta"
+                >
+                    Escribe tu pregunta
+                </label>
+
+                <div class="contenedor-pregunta">
+
+                    <textarea
+                        id="pregunta"
+                        name="pregunta"
+                        rows="3"
+                        maxlength="500"
+                        placeholder="Por ejemplo: ¿Qué es Lean Startup?"
+                        required
+                    ></textarea>
+
+                    <button
+                        class="boton boton-principal boton-enviar"
+                        type="submit"
+                    >
+                        Enviar
+                    </button>
+
+                </div>
+
+                <p class="ayuda-pregunta">
+                    Máximo 500 caracteres.
+                </p>
+
+            </form>
+
+        </section>
+
+    </main>
+
+</body>
+</html>

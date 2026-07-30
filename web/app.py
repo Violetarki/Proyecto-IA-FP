@@ -24,9 +24,11 @@ from flask import (
 )
 from werkzeug.utils import secure_filename
 
+from src.ingestion.indexador import indexar_documentos
+from src.rag.rag_pipeline import RAG
 
 app = Flask(__name__)
-
+rag = RAG()
 # La clave secreta permite que Flask gestione las sesiones.
 #
 # Primero intenta leerla desde una variable de entorno.
@@ -179,14 +181,11 @@ def inicio():
 
     return render_template("inicio.html")
 
-
 @app.route("/chat", methods=["GET", "POST"])
 def chat():
     """
-    Muestra la interfaz pública del chatbot.
-
-    Por ahora devuelve una respuesta provisional.
-    Más adelante se conectará con src/chatbot.py.
+    Muestra la interfaz pública del chatbot y procesa
+    las preguntas realizadas por el alumnado.
     """
 
     pregunta = ""
@@ -198,22 +197,31 @@ def chat():
             "",
         ).strip()
 
-        if pregunta:
-            respuesta = (
-                "La conexión con el modelo de lenguaje "
-                "todavía está en desarrollo."
-            )
-        else:
+        if not pregunta:
             flash(
                 "Debes escribir una pregunta.",
                 "error",
             )
+
+        else:
+            try:
+                respuesta = rag.responder(
+                    pregunta=pregunta,
+                    metodologia="lean_startup",
+                )
+
+            except Exception as error:
+                flash(
+                    f"No se ha podido generar la respuesta: {error}",
+                    "error",
+                )
 
     return render_template(
         "chatbot.html",
         pregunta=pregunta,
         respuesta=respuesta,
     )
+
 @app.route("/login", methods=["GET", "POST"])
 def login():
     """
@@ -513,10 +521,8 @@ def eliminar_documento():
 @login_requerido
 def reconstruir_base_vectorial():
     """
-    Muestra un mensaje provisional.
-
-    Más adelante esta ruta se conectará con el pipeline
-    de lectura, limpieza, chunking y vectorización.
+    Actualiza la base de conocimiento ejecutando
+    el proceso completo de indexación.
     """
 
     metodologia = request.form.get("metodologia")
@@ -535,13 +541,22 @@ def reconstruir_base_vectorial():
             url_for("gestionar_documentos")
         )
 
-    flash(
-        (
-            "La reconstrucción de la base vectorial "
-            "se implementará próximamente."
-        ),
-        "informacion",
-    )
+    try:
+        indexar_documentos()
+
+        flash(
+            "Base de conocimiento actualizada correctamente.",
+            "exito",
+        )
+
+    except Exception as error:
+        flash(
+            (
+                "No se ha podido actualizar la base "
+                f"de conocimiento: {error}"
+            ),
+            "error",
+        )
 
     return redirect(
         url_for(
@@ -549,7 +564,6 @@ def reconstruir_base_vectorial():
             metodologia=metodologia,
         )
     )
-
 
 if __name__ == "__main__":
     app.run(debug=True)

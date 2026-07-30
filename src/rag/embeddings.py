@@ -9,7 +9,7 @@ encontrar los chunks más relacionados con una pregunta.
 from functools import lru_cache
 import numpy as np
 from sentence_transformers import SentenceTransformer
-from models import Chunk
+from src.core.models import Chunk
 
 
 NOMBRE_MODELO = (
@@ -60,7 +60,7 @@ def crear_embedding_texto(
     modelo = cargar_modelo()
 
     embedding = modelo.encode(
-        texto.strip(),
+        texto.strip().lower(),
         convert_to_numpy=True,
         normalize_embeddings=True,
         show_progress_bar=False,
@@ -101,7 +101,7 @@ def crear_embeddings_textos(
             )
 
         textos_limpios.append(
-            texto.strip()
+            texto.strip().lower()
         )
 
     if tamanio_lote <= 0:
@@ -133,12 +133,13 @@ def crear_embeddings_chunks(
     Convierte una lista de objetos Chunk en una matriz de embeddings.
 
     El orden de los vectores será el mismo que el orden de los chunks.
+    
+    Cada Chunk proporciona su representación optimizada mediante
+    texto_embedding(), que incorpora el contexto jerárquico y adapta
+    el contenido para mejorar la calidad semántica de los embeddings.
     """
 
-    textos = [
-        chunk.texto
-        for chunk in chunks
-    ]
+    textos = [chunk.texto_embedding() for chunk in chunks]
 
     return crear_embeddings_textos(
         textos=textos,
@@ -149,50 +150,3 @@ def crear_embeddings_chunks(
 if __name__ == "__main__":
 
     print("Este módulo proporciona funciones para generar embeddings.")
-
-    # textos_prueba = [
-    #     (
-    #         "Lean Startup permite validar "
-    #         "ideas mediante experimentos."
-    #     ),
-    #     (
-    #         "La metodología ayuda a aprender "
-    #         "de los clientes."
-    #     ),
-    #     (
-    #         "El alumnado debe preparar "
-    #         "un presupuesto empresarial."
-    #     ),
-    # ]
-
-    # embeddings = crear_embeddings_textos(
-    #     textos_prueba
-    # )
-
-    # print(
-    #     "\nEmbeddings creados correctamente."
-    # )
-
-    # print(
-    #     f"Número de textos: "
-    #     f"{embeddings.shape[0]}"
-    # )
-
-    # print(
-    #     f"Dimensiones por vector: "
-    #     f"{embeddings.shape[1]}"
-    # )
-
-    # print(
-    #     f"Tipo de dato: "
-    #     f"{embeddings.dtype}"
-    # )
-
-    # print(
-    #     "\nPrimeros 10 valores "
-    #     "del primer embedding:"
-    # )
-
-    # print(
-    #     embeddings[0][:10]
-    # )
