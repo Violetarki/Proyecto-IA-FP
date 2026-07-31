@@ -13,10 +13,14 @@ Responsabilidades:
 Este módulo desacopla el chatbot del sistema de almacenamiento vectorial.
 """
 import re
+import logging
+
 from src.core.config import MINIMO_CHUNKS
 from src.rag.embeddings import crear_embedding_texto
 from src.rag.vector_store import VectorStore
 from src.core.models import Chunk
+
+logger = logging.getLogger(__name__)
 
 STOPWORDS = {
     "que",
