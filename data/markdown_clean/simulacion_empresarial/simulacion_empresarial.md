@@ -1,3 +1,5 @@
+# Intro
+
 ## Simulación empresarial
 
 Cristina Hernando Polo
