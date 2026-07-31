@@ -13,6 +13,7 @@ sin afectar al chatbot ni al retriever.
 """
 
 from src.core.models import Chunk, Mensaje
+import logging
 
 INSTRUCCIONES = (
     "Eres un profesor de Formación Profesional.\n"
@@ -25,6 +26,7 @@ INSTRUCCIONES = (
     "Limita la respuesta a lo necesario para responder la pregunta."
 )
 
+logger = logging.getLogger(__name__)
 
 class ConstructorPrompts:
     """Construye los prompts que se envían al modelo."""
@@ -65,6 +67,7 @@ class ConstructorPrompts:
         """
 
         if not mensajes:
+            logger.warning("(sin historial previo)")
             return "(sin historial previo)"
 
         lineas: list[str] = []
@@ -113,4 +116,4 @@ class ConstructorPrompts:
         """.strip()
 
 if __name__ == "__main__":
-    print("Módulo encargado de construir el prompt para el LLM.")
+    logger.info("Módulo encargado de construir el prompt para el LLM.")
