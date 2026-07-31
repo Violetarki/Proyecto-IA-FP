@@ -61,6 +61,9 @@ class LLMClient:
                 }
             ],
             temperature=0,
+            reasoning_effort="none",
+            reasoning_format="hidden",
+            max_completion_tokens=300,
         )
 
     def generar_respuesta(
@@ -82,14 +85,14 @@ class LLMClient:
 
         try:
             respuesta = self._consultar_modelo(prompt)
-            
+
             logger.debug("=" * 50)
             logger.debug("Modelo: %s", self.modelo)
             logger.debug("Prompt: %d tokens", respuesta.usage.prompt_tokens)
             logger.debug("Respuesta: %d tokens", respuesta.usage.completion_tokens)
             logger.debug("Total: %d tokens", respuesta.usage.total_tokens)
             logger.debug("=" * 50)
-            
+
         except Exception as e:
             logger.exception("Error al comunicarse con el modelo de lenguaje.")
             raise RuntimeError("Error al comunicarse con el modelo de lenguaje.") from e
