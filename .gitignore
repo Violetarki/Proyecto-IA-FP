@@ -31,3 +31,7 @@ data/vector_store/*
 
 # API KEY env
 .env
+
+# historial de conversaciones
+data/historial_conversaciones
+
