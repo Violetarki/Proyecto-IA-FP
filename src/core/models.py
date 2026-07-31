@@ -6,6 +6,7 @@ y representan únicamente el dominio de la aplicación."""
 from dataclasses import dataclass
 
 from src.core.aplanar_tablas import aplanar_tablas
+from src.core.limpiar_encabezados import limpiar_encabezado
 
 @dataclass
 class Metodologia:
@@ -63,10 +64,21 @@ class Chunk:
     subseccion: str | None = None
 
     def jerarquia(self) -> list[str]:
-        """Devuelve los niveles de contexto disponibles (titulo, subtitulo, seccion, subseccion), sin los que sean None."""
+        """
+        Devuelve los niveles de contexto disponibles
+        (titulo, subtitulo, seccion, subseccion),
+        eliminando la numeración estructural de los encabezados.
+        """
+
         return [
-            parte
-            for parte in [self.titulo, self.subtitulo, self.seccion, self.subseccion]
+            limpiar_encabezado(parte)
+            
+            for parte in [
+                self.titulo,
+                self.subtitulo,
+                self.seccion,
+                self.subseccion,
+            ]
             if parte
         ]
 

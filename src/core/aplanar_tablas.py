@@ -11,6 +11,7 @@ concatenar o sustituir en texto_embedding().
 import re
 
 _FILA_TABLA_RE = re.compile(r"^\s*\|.*\|\s*$")
+UMBRAL_CELDAS_VACIAS = 0.15
 
 
 def _es_fila_separadora(fila: str) -> bool:
@@ -59,13 +60,13 @@ def _tabla_a_texto(bloque: list[str]) -> str:
     """
     Convierte un bloque de filas de tabla Markdown en frases naturales.
 
-    Detecta automáticamente el tipo de tabla:
-    - Si casi todas las celdas están rellenas, se asume que la primera
-      columna es una ETIQUETA DE FILA (ej. "ANÁLISIS INTERNO") y el resto
-      son atributos de esa fila: "{etiqueta_fila} - {columna}: {valor}."
-    - Si hay bastantes celdas vacías (columnas de distinta longitud), se
-      asume que cada columna es una CATEGORÍA con una lista de elementos:
-      "{columna}: valor1, valor2, valor3."
+    Se distinguen dos tipos de tablas:
+
+    - Tablas de categorías: cada columna representa una categoría y sus
+      filas contienen elementos de dicha categoría.
+    - Resto de tablas: cada fila representa un registro y se transforma
+      en frases del tipo:
+          "{contexto} - {etiqueta} - {columna}: {valor}."
     """
 
     filas = [fila for fila in bloque if not _es_fila_separadora(fila)]
@@ -104,7 +105,7 @@ def _es_tabla_por_columnas(cabecera: list[str], cuerpo: list[list[str]]) -> bool
     if total_celdas == 0:
         return False
 
-    return (celdas_vacias / total_celdas) > 0.15
+    return (celdas_vacias / total_celdas) > UMBRAL_CELDAS_VACIAS
 
 
 def _tabla_por_filas(cabecera: list[str], cuerpo: list[list[str]]) -> str:
@@ -114,12 +115,14 @@ def _tabla_por_filas(cabecera: list[str], cuerpo: list[list[str]]) -> str:
     frases = []
 
     for fila in cuerpo:
-        etiqueta_fila = fila[0]
+        if fila[0].isdigit() and len(fila) > 1:
+            etiqueta_fila = fila[1]
+        else:
+            etiqueta_fila = fila[0]
 
         for nombre_columna, valor in zip(cabecera[1:], fila[1:]):
             if valor:
-                if valor:
-                    frases.append(f"{contexto} - {etiqueta_fila} - {nombre_columna}: {valor}.")
+                frases.append(f"{contexto} - {etiqueta_fila} - {nombre_columna}: {valor}.")
 
     return "\n".join(frases)
 

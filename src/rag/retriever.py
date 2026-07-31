@@ -109,7 +109,10 @@ class Retriever:
         if not palabras:
             return chunks
 
-        minimo = min(2, len(palabras))
+        if len(palabras) <= 3:
+            minimo = len(palabras)
+        else:
+            minimo = 3
 
         filtrados = [
             chunk
