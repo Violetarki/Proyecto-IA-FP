@@ -9,10 +9,12 @@ concatenar o sustituir en texto_embedding().
 """
 
 import re
+import logging
 
 _FILA_TABLA_RE = re.compile(r"^\s*\|.*\|\s*$")
 UMBRAL_CELDAS_VACIAS = 0.15
 
+logger = logging.getLogger(__name__)
 
 def _es_fila_separadora(fila: str) -> bool:
     """Detecta filas del tipo | --- | --- | usadas para separar cabecera y cuerpo."""
@@ -146,4 +148,4 @@ def _tabla_por_columnas(cabecera: list[str], cuerpo: list[list[str]]) -> str:
 
 
 if __name__ == "__main__":
-    print("Esta utilidad no está pensada para ejecutarse directamente. Se importa desde src/core/models.py para aplanar tablas en chunks.")
+    logger.info("Esta utilidad no está pensada para ejecutarse directamente. Se importa desde src/core/models.py para aplanar tablas en chunks.")
