@@ -1121,22 +1121,22 @@ POSITIVO
 
 Como consecuencia de todo el análisis suscitado en el estudio del mercado, la empresa debe orientar su línea de negocio. Estas decisiones afectarán fundamentalmente a dos elementos: producción y marketing.
 
-## Plan de producción
+#### Plan de producción
 
 El plan de producción persigue concretar todos los aspectos técnicos y organizativos que conciernen a la elaboración de los productos o a la prestación de los servicios recogidos en el plan de empresa. La compañía establecerá sus productos según las necesidades detectadas y según la diferenciación que quiera marcar con su competencia.
 
-## Elementos del plan de producción
+#### Elementos del plan de producción
 
 - a) La descripción técnica incluirá todo lo necesario para el desarrollo y la producción del producto, o los procedimientos y las necesidades técnicas, si se tratara de un servicio, tales como: locales y equipos necesarios, descripción de puestos de trabajo, fases del proceso productivo, necesidades de personal, etc.
 - b) La descripción organizativa concreta las estrategias del proceso productivo, tales como costes laborales, volumen de producción, gestión de existencias, control de calidad, inventariado, etc.
 
-## Plan de marketing
+#### Plan de marketing
 
 El plan de mercado o de marketing es un documento escrito que detalla las acciones comunicativas, promocionales... necesarias para alcanzar un objetivo específico de mercado.
 
 La estrategia de marketing plantea acciones a cuatro niveles: producto, precio, promoción y distribución. Por ello se denomina también marketing mix, ya que mezcla las decisiones sobre estos cuatro elementos que están bajo el control de la empresa. Lo veremos más detenidamente en la Unidad 7.
 
-## E. El organigrama
+### E. El organigrama
 
 Un organigrama es la representación gráfica de la estructura de una empresa. Incluye los puestos de trabajo, agrupados en departamentos, los cargos directivos y las relaciones jerárquicas u horizontales existentes.
 
@@ -1153,28 +1153,28 @@ Las formas de representación gráfica han evolucionado con el tiempo, desde mod
 
 Fig. 2.3. Modelos de representaciones gráficas de organigramas.(ver libro p.43)
 
-## Ejemplo 7. Un organigrama de un IES
+#### Ejemplo 7. Un organigrama de un IES
 
 Te proponemos como ejemplo distintas formas de representar el organigrama de un instituto.(ver libro p.44)
 
-## F. Responsabilidad Social Corporativa
+### F. Responsabilidad Social Corporativa
 
 La Responsabilidad Social Corporativa (RSC) o ética empresarial se refiere a todas las acciones que desarrollan las empresas para contribuir al bienestar económico, social o medioambiental de la sociedad, más allá de la prescripción impuesta por las leyes y normas, con la intención de mejorar la imagen de la empresa y diferenciarse de la competencia.
 
 Las empresas satisfacen necesidades, crean riqueza, a través de los impuestos que pagan, y generan empleo; sin embargo, también son responsables de algunos problemas sociales, como la contaminación del aire o del agua. Algunos de estos problemas se trasladan a la sociedad como costes sociales.
 
-## Ejemplo 8. Algunas acciones de RSC de Marco Aldany
+#### Ejemplo 8. Algunas acciones de RSC de Marco Aldany
 
 1. Ofrece descuentos a sus trabajadores y clientes en Faunia, por su compromiso en la educación infantil sobre el trato a los animales.
 2. Colabora con la Fundación BestBuddies, dando clases a personas con discapacidad intelectual.
 3. Colabora con la ON ChildBright en acciones solidarias. En 2009, por ejemplo, abrió una nueva escuela en Nepal.
 4. Lidera el proyecto «Operación Patuco», para apoyar a jóvenes embarazadas, sin recursos y en riesgo de exclusión social, violencia o abuso.
 
-### Los costes sociales
+#### Los costes sociales
 
 Harían referencia a los gastos directos o indirectos soportados por la población a consecuencia de la actividad empresarial. Esta es la razón por la cual hoy en día las empresas demuestran una mayor sensibilidad en la protección al medio ambiente, el respeto a los derechos laborales, la promoción de la seguridad en el trabajo, el trato al cliente, etc. El documento en el que se recoge toda esa información es el balance social.
 
-### El balance social
+#### El balance social
 
 Es el documento voluntario que realiza una empresa para recoger los datos que resumen su quehacer social tales como prestaciones sociales complementarias, condiciones de higiene y seguridad en el trabajo, establecimiento de economatos o guarderías, instalación de dispositivos anticontaminantes, uso de energías alternativas, promoción educativa y cultural, etc. Se incluyen cifras para poder valorarlos tanto cualitativa como cuantitativamente.
 
@@ -1184,12 +1184,12 @@ Las empresas estarán convencidas de la conveniencia de gastar dinero en realiza
 
 Los consumidores cada vez son más conscientes del poder de influencia que tienen para obligar a las empresas a modificar aquellas políticas que sean contrarias a códigos éticos universales. Es el Social Confirming. El Social Confirming se define como el sistema de valoración ciudadana del cumplimiento de la responsabilidad social de las empresas. Actualmente, es un proceso más fácil gracias a las herramientas de la web.
 
-## Actividades
+#### Actividades
 
 8. Busca dos ejemplos de acciones de RSC de diferentes empresas. Puedes introducir esas palabras de búsqueda en tu navegador y proponer una empresa concreta.
 9. Piensa qué acciones pueden llevar a cabo las instituciones públicas y los consumido res para fomentar estas buenas prácticas corporativas.
 
-### Ejemplo 9. La eficacia del Social Confirming
+#### Ejemplo 9. La eficacia del Social Confirming
 
 En 1983, Nestlé inició una campaña para fomentar el uso de leche artificial en países en vías de desarrollo, promocionándola como de mejor calidad que la leche materna. La publicidad fue tan eficaz que se abandonó la lactancia materna por los biberones. Como consecuencia de ello, muchos niños murieron. El problema estuvo en que el agua utilizada para preparar los biberones era agua corriente, sin hervir, y se administraba en biberones no esterilizados. Muchos niños murieron, paradójicamente, deshidratados o desnutridos. Según UNICEF, cada año mueren un millón y medio de bebés por ser alimentados con leche en polvo.
 
@@ -1208,7 +1208,7 @@ Al finalizar la unidad, recogerás toda esa in formación para el plan de empres
 
 El plan de producción que elaboraréis al final de esta unidad incluirá unas decisiones u otras según se comercialice un producto que se elabora o bien según se ofrezca un servicio. En ocasiones, las empresas ofrecen tanto productos como servicios.
 
-## Fases de la Simulación empresarial
+### Fases de la Simulación empresarial
 
 - Fase 1. Decisiones sobre el producto
 - Fase 2. Determinación de los servicios
@@ -1221,15 +1221,15 @@ El plan de producción que elaboraréis al final de esta unidad incluirá unas d
 - Fase 9. Responsabilidad Social Corporativa
 - Fase 10. Análisis DAFO
 
-## Ejemplo 10. El caso de Mundopán
+### Ejemplo 10. El caso de Mundopán
 
 Mundopán es una empresa que funciona como panificadora pero también como empresa de reparto. A través de unos buzones térmicos, el cliente encuentra el pan solicitado al llegar a casa. Los buzones poseen una cerradura, de la que tienen llave tanto el repartidor como el cliente.
 
-## Fase 1. Decisiones sobre el producto
+### Fase 1. Decisiones sobre el producto
 
 Para sobrevivir en un contexto caracterizado por una gran proliferación de productos es necesario ser competitivo, esto es, ser diferente, incluso aunque parezca no haber posibilidades de diferenciación, las compañías tratan de crearlas o aparentarlas.
 
-## Ejemplo 11. Agua mineral embotellada
+#### Ejemplo 11. Agua mineral embotellada
 
 Las diferencias entre unas marcas y otras en cuanto al producto son mínimas. Por ello, mu chas de las decisiones que se adoptan se refieren a la apariencia exterior del objeto: forma de la botella, material y color del envase, color del tapón, tipo de cierre, tamaño, etc.
 
@@ -1251,14 +1251,14 @@ El agua Enselham se encierra en una botella elegante fabricada por la misma indu
 
 El agua OGO tiene 35 veces más oxígeno que otras aguas minerales. Podríamos decir que se acerca al concepto de bebida energética.
 
-## Decisiones relativas del plan de producción
+#### Decisiones relativas del plan de producción
 
 Sea cual sea el objeto de fabricación, el plan de producción recogerá las decisiones relativas al bien producido y al proceso de fabricación en sí, tales como:
 
 - Descripción del bien a fabrican forma, denominación, características físicas, color, ta maño, material, funcionalidad, estética, peso, volumen, envase, necesidad que satisface, elemento diferenciado, etc.
 - Proceso de producción: adquisición y almacenaje de materias primas, recursos materiales necesarios, contratación de personal, asignación de funciones, pasos y tiempos de cada fase del proceso, volumen de producción, costes, control de calidad, gestión de existencias, etc.
 
-## Ejemplo 12. La autoencuadernación de Bindo!
+#### Ejemplo 12. La autoencuadernación de Bindo!
 
 Bindo! es una empresa española que comercializa un sistema patentado de autoencuadernación en menos de un minuto. El cliente puede encuadernar al instante cualquier tipo de documento, entre 1 y 800 páginas, sin requerir maquinaria y en tapas duras o blandas.
 
@@ -1273,14 +1273,14 @@ Su plan de producción tendrá que considerar las siguientes cuestiones:
 7. Necesidad que satisface: la posibilidad de autoencuadernación inmediata por el usuario.
 8. Elemento diferencial: barato, inmediato, disponibilidad constante, novedad.
 
-## Denominación del producto
+#### Denominación del producto
 
 Algunas compañías deciden dar un nombre específico a sus productos. El propósito puede ser variado, te mostramos algunos:
 
 - Nombrar un producto nuevo en el mercado. Es el caso del Tipex, Kleenex, Post-it, iPad, iPod, iPhone, etc. La competencia intentará crear un nombre genérico, como «pañuelos de papel», «tableta» o «tablet», etc.
 - Prestigiar el producto con el poder de la marca. Tal podría ser la estrategia de Danone, cuando selecciona el nombre de todos sus productos como variantes del nombre de la mar ca: sus natillas se llaman Danet; su equivalente a Petit Suisse, Danonino; su yogur líquido DanUp; su yogur para la tensión, Danaten; y su yogur para el colesterol, Danacol.
 
-## Actividad de simulación 1
+#### Actividad de simulación 1
 
 Es el momento de tomar decisiones sobre el producto o productos que ofreces en vuestra empresa. Se tratará de elaborar un documento sencillo en el que solo se incluirán aquellos aspectos más relevantes de un plan de producción. En caso de que tu actividad empresarial esté relacionada con la prestación de un servicio, deberás completar la Actividad de simulación 2.
 
@@ -1294,7 +1294,7 @@ Deberás elaborar los siguientes apartados:
 - d) Identificación de las necesidades que satisfacen, los elementos que os diferencian de la competencia y las innovaciones incorporadas. No se trata de repetir las mismas ideas que elaborasteis en la Unidad 1, sino de añadir algunas nuevas si han ido surgiendo desde entonces.
 - e) Mención de los aspectos básicos del proceso de fabricación: consideraciones genera les a tener en cuenta antes de poner en marcha la actividad productiva. Dejaremos para otras unidades posteriores la estimación concreta de las necesidades materiales y humanas. El primero de estos aspectos lo desarrollaréis cuando abordemos el te ma de la viabilidad económica de la empresa; el segundo, cuando abordemos la unidad dedicada a la gestión del personal.
 
-## Fase 2. Determinación de los servicios
+### Fase 2. Determinación de los servicios
 
 Un servicio es una actividad que no produce objetos materiales, sino que satisface las necesidades de un cliente a través de la realización de unas actividades.
 
@@ -1303,7 +1303,7 @@ En este caso, el plan de empresa incluirá la descripción detallada de los serv
 - Características de la actividad: estilo, variedades, denominación, necesidad que satisface, elemento diferenciados etc.
 - Procedimiento para llevarlo a cabo: adquisición y almacenaje de mercancía, recursos materiales necesarios, contratación de personal, asignación de funciones, pasos y tiempos para cada tipo de servicio, ventas esperadas, costes, etc.
 
-## Ejemplo 13. Alquileres de iPad 3G
+#### Ejemplo 13. Alquileres de iPad 3G
 
 Pad in the city es una empresa española dedicada al alquiler de iPad 3G con conexión a Internet y de determinadas aplicaciones preinstaladas relacionadas con el turismo, como Metro de Madrid, Audio-guía del Museo del Prado, Google Earth, Weather+, Angry Birds HD, RMNews y Hertz, entre muchas otras, para disfrutar al máximo de una breve estancia turística en la capital.
 
@@ -1314,14 +1314,14 @@ Su plan de producción incluirá estas decisiones:
 3. Necesidad que satisface: la posibilidad de optimizar la visita turística a la capital de España.
 4. Elemento diferencial: recepción y entrega en el lugar elegido por el cliente.
 
-## Denominación del producto
+#### Denominación del producto
 
 Algunas compañías deciden dar un nombre específico a sus servicios. El propósito puede ser variado, te mostramos algunos:
 
 - Modernizar una actividad tradicional. La tendencia en los gimnasios actuales refleja este sentir. Ya no se practican pesas, series o yoga, sino vinyasa yoga, cycling, powerstrike, body pump, abd, cardio combat, body balance, dance style, etc.
 - Nombrar un servicio nuevo en el mercado. Como, por ejemplo, la empresa Twitter, que ha dado lugar a todo un glosario de términos a su alrededor, como: microblogging, tweet, tuiteros, retuitear, hashtag o trend topic.
 
-## Actividad de simulación 2
+#### Actividad de simulación 2
 
 Es el momento de tomar decisiones sobre el servicio o servicios que ofrecéis en vuestra empresa. Se tratará de elaborar un documento sencillo en el que solo se incluirán aquellos aspectos más relevantes de un plan de producción. En caso de que tu actividad empresarial esté relacionada con la elaboración de un producto, deberás completar la Actividad de simulación 1.
 
@@ -1333,7 +1333,7 @@ Ayuda práctica:
 - d) Nombre del servicio, en caso de tener una denominación concreta.
 - e) Concreción de los aspectos básicos de la actividad ofrecida: consideraciones generales a tener en cuenta antes de poner en marcha el negocio. Igual que en la Fase 1, dejare mos para unidades posteriores la estimación de las necesidades materiales y humanas.
 
-## Fase 3. Fijación del precio
+### Fase 3. Fijación del precio
 
 La siguiente fase consiste en determinar el precio del producto o servicio que ofrecemos. Las empresas se sirven de criterios diferentes a la hora de determinar el precio de sus productos, pero todos ellos pueden agruparse en una de las siguientes categorías.
 
@@ -1357,7 +1357,7 @@ El paso de un enfoque basado en el producto a otro basado en el cliente, no solo
 
 Ejemplo: Un ejemplo reciente nos lo proporciona la compañía Nintendo con el lanzamiento de la Wii. Antes de desarrollar el producto, se focalizaron en el precio que consideraron que los potenciales compradores estarían dispuestos a pagar. Al predeterminarse el precio de venta en unos 211 dólares, los diseñadores del producto rápidamente abandonaron la idea inicial de incorporar gráficos de alta definición. Como resultado, Nintendo puede vender la Wii a un precio menor que sus competidores: Sony (Playstation) o Microsoft (Xbox) y tener un margen de benéficos mayor. La estrategia de estos otros dos grandes fabricantes es vender la máquina con beneficios escasos o nulos, a cambio de generar ingresos por los videojuegos vendidos. Nintendo, por el contrario, ha logrado ganar dinero con uno y otro.
 
-## Actividad de simulación 3
+#### Actividad de simulación 3
 
 Es el momento de fijar el precio de venta al público para cada uno de los productos o servicios que ofrezca tu empresa.
 
@@ -1366,7 +1366,7 @@ Ayuda práctica:
 - a) Seleccionar uno de los tres criterios que suelen utilizarse y que acabamos de exponer, razonando el motivo de esta elección.
 - b) Una vez decidido, enumera el precio de cada uno de vuestros productos o servicios.
 
-## Fase 4. Elección del mercado objetivo
+### Fase 4. Elección del mercado objetivo
 
 Una empresa no puede atraer a todos los posibles compradores del mercado por dos motivos: porque son demasiados clientes y no puede abarcar tanta demanda o porque son heterogéneos y, por tanto, diversos en cuanto a sus necesidades y sus costumbres de compra.
 
@@ -1374,33 +1374,33 @@ Por ello, en lugar de planificar una estrategia global, tratan de ganar ventaja 
 
 De este modo, se divide a la población global o mercado potencial según distintos criterios, como se refleja a continuación.
 
-### Geográficos
+#### Geográficos
 
 Se segmenta por países, regiones, ciudades barrios, ya que las necesidades pueden ser
 diferentes según el área en la que resida el cliente.
 
 Ejemplo: El guante Skuuzi sirve para tomar una cerveza fría sin que la mano sufra. Este producto se comercializa en los países escandinavos se ofrece como la solución cuando se desea tomar una cerveza por la calle en invierno. Este producto no tendría gran acogida en España; en cambio, sí gozaría de gran aceptación la ropa con aire acondicionado que se comercializa en Japón. Llevan incorporados unos ventiladores que extraen el aire caliente del cuerpo evitan el sudor.
 
-### Demográficos
+#### Demográficos
 
 Se segmenta por edad, estado civil, sexo, estatus socioeconómico, religión, nivel de ingresos, tipo de familia, profesión, nivel educativo, orientación sexual...
 
 Ejemplo: El Trekstor USB es un abrebotellas que está incorporado un USB con una capacidad de 8 GB. Este invento está más enfocado una población joven, masculina, que utiliza el ordenador de manera habitual, por tanto, con nivel educativo medio-alto, que consume cerveza en casa que está estudiando empleada en trabajos poco absorbentes. En cambio, el salón de belleza-bar que se ha abierto en Texas (EE.UU.) se dirige personas de mediana edad, preferiblemente mujeres, desempleadas con nivel económico medio-alto, que están desocupadas pueden, por ello, estar buena parte de su tiempo libre en actividades de ocio.
 
-### Psicográficos
+#### Psicográficos
 
 Se segmenta según el estilo de la vida, la personalidad, los valores, las actitudes, los gus
 tos.
 
 Ejemplo: El sensor de muñeca desarrollado por Microsoft permite al usuario controlar cualquier dispositivo electrónico que esté cerca, tales como móvil. Este producto está dirigido los adictos las novedades tecnológicas que poseen portátil, Smartphone.Tablet, eBook y Ultrabook. el perfume Masclet n.° 5, con formato olor pólvora, que se ha presentado en Valencia con motivo de las Fallas. El producto busca llamar la atención, sin duda, pero también cautivar los aficionados esta fiesta tradicional, para rememorar los buenos momentos, ya que el olfato es uno de los sentidos que más rápidamente conecta con los recuerdos.
 
-### Conductuales
+#### Conductuales
 
 Se segmenta según los hábitos de compra: frecuencia, fidelidad la marca, búsqueda de beneficio, capacidad de toma de decisiones.
 
 Ejemplo: El chaleco Like-a-hug (juego de palabras, que puede traducirse «como un abrazo» «me gusta un abrazo»). Este chaleco se infla cuando un amigo del usuario clickea en el «Me gusta» del muro del usuario de Facebook. El abrazo simula un ligero abrazo está pensado para clientes habituales de esta red social, que necesitan sentir físicamente las demostraciones de cariño pasar un rato divertido.
 
-## Población objetivo
+#### Población objetivo
 
 Cada empresa trata de conocer a su población objetivo a partir de los distintos criterios seña lados. No siempre es fácil identificar todas las características de los potenciales usuarios. Sin embargo, cuanto más se acerquen las empresas, más beneficios pueden conseguir.
 
@@ -1418,11 +1418,11 @@ Esta valiosa información resulta vital para la empresa, ya que nos permitirá:
 - b) Analizar cómo promocionarlo: en qué medios anunciarlos, en qué momento del año, qué eslogan utilizar, etc.
 - c) Incrementarlas ventas, mediante el desarrollo de complementos a este producto o de nue vos objetos que satisfagan otras necesidades insatisfechas de este segmento del mercado.
 
-## Ejemplo 14. Auriculares por control mental
+#### Ejemplo 14. Auriculares por control mental
 
 Por ejemplo, EmotivSystem son unos revolucionarios auriculares que permiten utilizar el ordenador o escuchar música, mediante el control mental. El sistema puede identificar una variedad de emociones del usuario, como una sonrisa o el ceño fruncido y, en base a ello, trans formarlo en una instrucción para el ordenador. Este producto está pensado para usuarios habituales de nueva tecnología, acostumbra dos al móvil de pantalla táctil, al manos libres, al reproductor portátil de música, al ordenador y a los videojuegos que se controlan con el movimiento de las manos, por tanto, dirigido a adolescentes o jóvenes trabajadores, con poder adquisitivo, de nivel educativo medio-alto y aficionados a las novedades tecnológicas.
 
-## Actividad de simulación 4
+#### Actividad de simulación 4
 
 En esta fase deberás especificar cuál será tu mercado o público objetivo. Para ello, tus socios y tú debéis segmentar el mercado tomando como base los criterios estudiados y después elegir aquellos que os parezcan idóneos para vuestra línea de negocio.
 
@@ -1432,7 +1432,7 @@ Ayuda práctica:
 - b) Trata de describir, con el mayor nivel de concreción posible, a los clientes potenciales. Cuanto más lo concretes para cada segmento, más fácil te resultará tomar decisiones.
 - c) Revisa las decisiones adoptadas en las tres fases anteriores y comprueba que el planteamiento de vuestro negocio es coherente. Es posible que al concretar el mercado objetivo haya que introducir modificaciones respecto al precio o respecto a las características de los productos o servicios. Realiza estos cambios antes de continuar.
 
-## Fase 5. Análisis de la competencia
+### Fase 5. Análisis de la competencia
 
 Gracias a la competencia, las compañías tratan de optimizar sus procesos para ganar más clientela y así obtener el máximo beneficio. Sin embargo, el gran beneficiario es el consumidor, ya que el juego de la competencia asegura que la oferta y la demanda se equilibran en cantidad y en precio, es decir, la venta de productos crecerá hasta cubrir la demanda y la competitividad hará disminuir los precios a la vez que mejorará la calidad de los productos.
 
@@ -1442,7 +1442,7 @@ Una situación de fuerza en el mercado de un competidor frente a otro puede gene
 
 Las estrategias que pueden seguir las empresas para diferenciarse de la competencia ya he mos visto que pueden estar basadas en un factor económico, estético, práctico o tecnológico. En ocasiones, sin embargo, la diferenciación puede consistir en ofrecer un producto diferente, que se distancie de los que hay en el mercado.
 
-## Ejemplo 15. Diferenciación en base a un producto diferente
+#### Ejemplo 15. Diferenciación en base a un producto diferente
 
 - Diseñar un producto complementario a los que está desarrollando la competencia
 
@@ -1464,7 +1464,7 @@ Las gafas Google con conexión a Internet, que permiten navegar a través de sus
 
 Las marcas de coches están focalizadas en la apariencia o en las prestaciones de los coches. Nissan está focalizando su atención en el cliente. Así, trabaja en la idea de automóviles controlados por nuestros pensamientos. El vehículo sería capaz de entender lo que el conductor piensa y hacerlo por él, lo que elevaría la seguridad de sus coches.
 
-## Actividad de simulación 5
+#### Actividad de simulación 5
 
 En esta fase deberás realizar un estudio para conocer a tus competidores más cercanos. Encontrar información sobre ellos puede ser simple si realizas una búsqueda a través de Internet, o más complejo y descriptivo, si te desplazas personalmente hasta la zona don de piensas situar la empresa.
 
@@ -1481,23 +1481,23 @@ Ayuda práctica
 - d) Trata de averiguar cuál es la cuota de mercado de la compañía líder, realizando bús quedas concretas como «cuota de mercado de (...)». Junto a ese dato suele aparecer la cantidad de ventas en unidades que realizan para tener esa cuota. Anotad toda esa información.
 - e) Por último, analiza si alguna de las estrategias estudiadas en esta unidad puede aplicarse a vuestra empresa para diferenciarse de la competencia.
 
-## Fase 6. Estudio de mercado
+### Fase 6. Estudio de mercado
 
 En esta fase tendrás que analizar la aceptación de tus productos o servicios entre el público al que va dirigido, averiguando las intenciones consumistas de los clientes, la oferta de la competencia y, por tanto, la posibilidad de hacerse un hueco en el mercado. Básicamente, consta de tres grandes focos de análisis:
 
-### Análisis del consumidor
+#### Análisis del consumidor
 
 Persigue entender el comportamiento de los consumidores para detectar necesidades insatisfechas, hábitos de compra (lugares, momentos, preferencias, cantidades, motivos, etc.). En la Fase 4 has seleccionado tu mercado objetivo. Ahora es preciso averiguar más datos sobre él: qué compra, cuándo compra, por qué compra, cada cuánto tiempo, quién más influye en la decisión de compra, etc.
 
-### Análisis de la competencia
+#### Análisis de la competencia
 
 A partir de esta evaluación (realizada ya en la Fase 5) se valorará si es factible convivir con la competencia o si hay que neutralizarla captando parte de su mercado o bien convirtiéndonos en socios, a través de una fusión o una alianza estratégica.
 
-### Estrategia empresarial
+#### Estrategia empresarial
 
 Busca fijar el rumbo de la empresa. Puede implicar introducir cambios en nuestro producto para diferenciarlo más de los que ya están en el mercado, dirigirnos a otros consumidores no captados por la competencia, abandonar la idea de ofertar ese producto o servicio, etc.
 
-## Motivos para realizar un estudio de mercado
+#### Motivos para realizar un estudio de mercado
 
 - Para conseguir información sobre clientes y competencia. La información es tan importante que, según una investigación realizada por TheWall Streetjournal, redes sociales como Facebook o MySpace entregan información relevante de los consumidores a las empresas de publicidad sin el consentimiento del usuario.
 
@@ -1509,9 +1509,9 @@ Busca fijar el rumbo de la empresa. Puede implicar introducir cambios en nuestro
 
 - Para evitar inversiones infructuosas.
 
-## Métodos para realizar un estudio de mercado
+#### Métodos para realizar un estudio de mercado
 
-### Para conocer a los clientes
+1. Para conocer a los clientes
 
 - Visitar la zona donde se instalará el negocio. Consiste en hacer un recorrido a pie para hacerse una idea de los pea tones y de sus motivos para transitar por esa zona, tales como: ir camino al trabajo, realizar compras o por disfrutar del tiempo libre; así como valorar variables demográficas del público: edad, sexo, nivel adquisitivo, etc.
 
@@ -1521,13 +1521,13 @@ Busca fijar el rumbo de la empresa. Puede implicar introducir cambios en nuestro
 
 - A través de la propia web corporativa. Las páginas de las propias empresas suelen incluir alguna herramienta que analiza el tráfico y ofrece información sustancial del mismo: a qué hora acceden los usuarios, cuánto tiempo permanecen, qué páginas visitan, etc.
 
-### Para conocer a los competidores
+2. Para conocer a los competidores
 
 - Visitar la zona donde se instalará el negocio. El objetivo es identificar negocios cercanos similares o bien negocios que ofrecen servicios complementarios que puedan resultar beneficiosos para nuestro negocio.
 
 - Investigación directa sobre la competencia. Hacerse pasar por un cliente y acceder a los negocios rivales es una estrategia tan utilizada, que tiene hasta nombre: MisteryShopping. El objetivo es observar sus precios, la afluencia de clientes, la atención recibida, apariencia del local, calidad del producto, etc.
 
-### Para conocer la aceptación del producto
+3. Para conocer la aceptación del producto
 
 - Venta del producto en un ámbito geográfico limitado. Según la aceptación obtenida, se incrementará la demanda, se modificará el producto o se abandonará la idea.
 
@@ -1535,7 +1535,7 @@ Busca fijar el rumbo de la empresa. Puede implicar introducir cambios en nuestro
 
 Por ejemplo, Innovalley es una empresa española dedicada al diseño de ropa inteligente o, lo que es lo mismo, a combi nar tecnología y moda con el fin de facilitar la vida al usuario. Entre sus productos se encuentran un bolso que recarga móviles, unos zapatos con PS incorporado o una sudadera capaz de sincronizarse con el móvil o el reproductor de música y activar sus controles a través de las mangas.
 
-## Actividad de simulación 6
+#### Actividad de simulación 6
 
 En esta fase deberás elaborar un estudio de mercado con el objeto de averiguar toda la información posible sobre vuestros potenciales clientes, sobre la competencia y sobre la aceptación de vuestro producto.
 
@@ -1549,13 +1549,13 @@ Ayuda práctica:
 
 Si vuestro negocio solo tiene una línea de producto o servicio, o bien es muy novedoso, es posible que no tengas más información que aportar a lo realizado hasta el momento. También cabe la posibilidad de que hayáis concretado con mucho detalle las fa ses anteriores y, por tanto, quede poco más que añadir en esta fase. No te preocupes. En realidad, estas no son diferentes acciones, sino una misma línea de actuación que hemos graduado en objetivos más pequeños para facilitar su realización. Lo importante es que al finalizar esta unidad tu estudio de mercado esté completo y pormenorizado.
 
-## Fase 7. Análisis del entorno general
+### Fase 7. Análisis del entorno general
 
 El macroentorno no se puede controlar, aunque sí tratar de prever para reducir su impacto. Así, la crisis está afectando a todos los negocios. Sin embargo, mientras que a unos les afecta negativamente, a otros les beneficia, al desplazar la demanda de sus competidores indirectos hacia sus productos, que resultan más económicos.
 
 Del mismo modo, las acciones que realiza la empresa tendrán un efecto a largo plazo en el entorno general.
 
-## Ejemplo 16. IKEA ha variado la filosofía de compra de muebles
+#### Ejemplo 16. IKEA ha variado la filosofía de compra de muebles
 
 Hace décadas, las personas amueblaban sus viviendas con muebles caros, de madera maciza y duraderos. El concepto de «paquete plano» aplicado al mueble ha abaratado el precio de estos productos. Como vimos, un cambio en un elemento afecta a todos los aspectos de la empresa, de manera que una simple innovación en el proceso de empaquetado, influyó de manera positiva en el resto de la organización.
 
@@ -1567,7 +1567,7 @@ Hace décadas, las personas amueblaban sus viviendas con muebles caros, de mader
 
 Este sencillo cambio ha supuesto una revolución en el mercado de los muebles y en la mentalidad de las personas. El interés actual consiste en amueblar las casa con elementos funciona les, baratos y de diseño moderno, y se ha instalado la tendencia de. renovar el mobiliario cada cierto tiempo, por lo que ya no se buscan productos caros y permanentes.
 
-## Factores que influyen en el macroentorno
+#### Factores que influyen en el macroentorno
 
 - Económicos
 
@@ -1593,7 +1593,7 @@ Aluden a todas las cuestiones que tienen que ver con la sostenibilidad de la act
 
 Ejemplo: en el caso que estamos analizando, la mayor concienciación ciudadana hacia la protección del medioambiente y las políticas legislativas al respecto han influido en la gestión de residuos, como el reciclaje del aceite industrial, la reducción de plásticos, la sustitución de envases de cartón por envoltorios de papel, el uso de las energías renovables para mejorar la eficiencia y reducir el gasto, etc.
 
-## Actividad de simulación 7
+#### Actividad de simulación 7
 
 En esta fase vas a estudiar el entorno en el que se va a mover vuestra empresa. Es necesario que clarifiques el entorno general que os rodea, relativo a los factores económicos, socio-culturales, político-legales, tecnológicos y medioambientales.
 
@@ -1607,11 +1607,11 @@ Ayuda práctica:
 - b) Completa tus deducciones con información obtenida de Internet, utilizando varios criterios de búsqueda diferentes, tales como: «evolución del sector (...)», «características del sector (...)» o «situación del sector (...)». Prueba a acotar la búsqueda añadiendo «en España» para tener información del entorno cercano. Utiliza la información ex traída de la búsqueda más general para conocer qué tendencias se siguen en el sector en otras partes del mundo. Eso puede orientarte sobre ideas que pueden ser aplica bles en España.
 - c) En ocasiones, las asociaciones o federaciones del sector realizan informes, muchos de los cuales se publican en Internet. También puedes encontrar más información en las páginas web de las siguientes instituciones: INE (Instituto Nacional de Estadística), Ministerio de Economía, Ministerio de Industria, Cámaras de Comercio o en CEPYME. Cuantas más búsquedas realices, más información relevante encontrarás que te permitirá tomar decisiones de una manera más realista.
 
-## Fase 8. Elaboración del organigrama
+### Fase 8. Elaboración del organigrama
 
 En esta fase habrá que definir la estructura de la empresa (departamentos y su relación) y su jerarquía. Para ello habrá que elaborar un organigrama de la empresa.
 
-## Actividad de simulación 8
+#### Actividad de simulación 8
 
 En esta fase deberás identificar qué puestos de trabajo consideras necesarios en la em presa, organizados en departamentos y, por último, plasmarlos en un organigrama.
 
@@ -1624,11 +1624,11 @@ Ayuda práctica:
 - Si subcontratas una empresa, por ejemplo, una gestoría, esta se compromete a realizar el servicio que le encomiendas a cambio de una cantidad pactada. Tus obligaciones con Hacienda siguen existiendo, pero nada más. Por el contrarío, suele ser una opción más cara y que te deja menos margen de maniobra.
 - d) Por último, decide junto a tus socios la estructura jerárquica de la empresa y elaborad el organigrama.
 
-## Fase 9. Responsabilidad Social Corporativa
+### Fase 9. Responsabilidad Social Corporativa
 
 En esta fase deberás diseñar un plan de acciones de Responsabilidad Social Corporativa. Al tratarse de acciones voluntarias, no es obligatoria la realización de esta fase de la simulación.
 
-## Actividad de simulación 9
+#### Actividad de simulación 9
 
 Indica qué acciones pensáis llevar a cabo enmarcadas dentro del ámbito de la RSC, si es un ámbito que os gustaría incorporar en vuestra empresa.
 
@@ -1636,15 +1636,15 @@ Ayuda práctica:
 
 En caso de estar interesados, elige las acciones y concretadlas: qué acciones concretas se llevarán a cabo, cada cuánto tiempo, con qué duración, a quién se aplicarán, quiénes las llevaréis a cabo, quién las coordinará y evaluará, y qué objetivos se pretenden con seguir.
 
-## Fase 10. Análisis DAFO
+### Fase 10. Análisis DAFO
 
 En esta fase deberás realizar el análisis DAFO de tu proyecto empresarial basándote en las características del entorno interno y externo en el que anticipas que operará vuestra empresa.
 
-## Ejemplo 17. Análisis DAFO de Inditex
+#### Ejemplo 17. Análisis DAFO de Inditex
 
 En la página siguiente, http://modarapida.wordpress.com, podrás consultar un análisis DAFO realizado sobre la empresa Inditex.
 
-## Actividad de simulación 10
+#### Actividad de simulación 10
 
 Presenta de forma sintética y gráfica, a través de un análisis DAFO, toda la información obtenida en las fases anteriores, en las que hemos analizado el entorno general, los clientes y la competencia.
 
@@ -1660,7 +1660,7 @@ Ayuda práctica:
 - d) Después, repite la misma operación con la columna de la derecha. Los elementos negativos serán las amenazas, y los positivos, las oportunidades. Así obtendréis las cuatro variables de un análisis DAFO.
 - e) Después, señala qué vas a hacer para reducir o eliminar los elementos negativos. Céntrate primero en los que están bajo control. Luego, estudia de qué modo podrías reducir el impacto de los que no puedes controlar, esto es, de las amenazas. Por ejemplo, ante una situación de crisis como la actual puedes reducir su impacto evitando realizar inversiones, tratando de ahorrar costes, abaratando el precio de tus productos, etc. O ante una nueva normativa medioambiental que te obliga a gestionar los residuos de otra manera más costosa, puedes tratar de reducir el volumen de tus deshechos.
 
-## Plan de empresa
+#### Plan de empresa
 
 Ha llegado el momento de incorporar las ideas obtenidas en estas fases de la Simulación empresarial, en tu plan ele empresa. Recuerda cuidar la presentación y la formalidad en el estilo, así como revisar todo el planteamiento realizado en la Unidad 1 para comprobar la coherencia de todo lo que has reflexionado hasta ahora.
 
@@ -1867,7 +1867,9 @@ Plan de empresa:
 
 # 3. Trámites y documentación
 
-## En esta unidad aprenderemos a:
+## En esta unidad
+
+### aprenderemos a:
 
 - Reconocer los distintos tipos de empresas que existen.
 - Seleccionar la forma jurídica adecuada.
@@ -1882,7 +1884,7 @@ Plan de empresa:
 - Reconocer la existencia de trámites de carácter específico para determinados tipos de negocios.
 - Valorar la importancia del cumplimiento de los plazos.
 
-## Y estudiaremos:
+### Y estudiaremos:
 
 - La forma jurídica de la empresa.
 - Clasificación de empresas, según criterios jurídicos.
@@ -1893,7 +1895,7 @@ Plan de empresa:
 - Inscripciones en otros registros.
 - Carnés profesionales.
 
-## William George Ward, teólogo y matemático.
+### William George Ward, teólogo y matemático.
 
 «El pesimista se queja del viento. El optimista espera que cambie. El realista ajusta las velas.»
 
@@ -1901,7 +1903,7 @@ Plan de empresa:
 
 En este apartado vamos a analizar cómo surgieron dos importantes empresas españolas de proyección internacional, así como los pasos y trámites que siguieron para su constitución.
 
-## Llongueras: de botones a empresario
+### Llongueras: de botones a empresario
 
 Desde pequeño, Lluís Llongueras mostró tener dotes artísticas, razón por la cual su padre le matriculó en la Escuela de Bellas Artes, pero abandonó pronto los estudios por creer que nunca llegaría a la categoría de los genios que tanto admiraba, como Dalí o Picasso. Dolido, su padre le obligó a buscar un trabajo y Lluís fue contratado como botones en una peluquería de alto standing.
 
@@ -1913,7 +1915,7 @@ Abre su primer salón de peluquería y, desde entonces, el negocio no ha parado 
 
 Además, ha realizado exposiciones de escultura, de pintura y de fotografía, demostrando que su creatividad trasciende los límites de un salón de peluquería. Ha escrito más de veinte libros sobre su técnica y ha peinado a multitud de famosos, incluyendo a los reyes de España. Entre sus logros más comentados está la creación de la mayor peluca del mundo que le en cargó su gran amigo Dalí, de quien fue su peluquero personal, para colocarla en la sala Mae West del Teatro Museo en Figueras. Peluca que, por cierto, ha sido incluida en el Libro Guinness de los Récords por ser la más grande del mundo.
 
-## Forjando un nombre
+### Forjando un nombre
 
 En sus comienzos fue un empresario individual. Con este tipo de empresa, el emprendedor asume de manera personal e individual todos los riesgos de su actividad emprendedora, a la vez que los trámites de constitución resultan sencillos y rápidos.
 
@@ -1923,13 +1925,13 @@ Llongueras constituyó también una sociedad anónima: la empresa Peluquería y 
 
 Por último, Llongueras se decidió a constituir una franquicia. Es una forma segura y rentable para los principiantes de atraer clientela, reducir riesgos y generar beneficios desde el inicio ya que el nombre Llongeras, su prestigio de marca y toda su experiencia, su knowhow, respaldan el negocio. A cambio, Llongueras, como cualquier otro franquiciador, fija qué requisitos son necesarios para poder abrir un local con su nombre y recibe un beneficio económico por ello, al inicio por medio del canon de entrada, y posteriormente de forma periódica, a través de los royalties.
 
-## Kukuxumusu
+### Kukuxumusu
 
 Otra empresa española que también ha logrado prestigio den tro y fuera de nuestras fronteras por la creatividad de sus diseños es Kukuxumusu.
 
 El inicio fue casual Tres amigos intentaron conseguir algo de dinero para disfrutar los sanfermines vendiendo camisetas de recuerdo. Sin embargo, los plazos fallaron y no pu dieron distribuir su producto a través de las tiendas, por lo que decidieron vender ellos mismos las camisetas por la calle. El éxito fue tan sorprendente que surgió la idea de crear su propia empresa: un negocio al por mayor de prendas textiles.
 
-## Kukuxumusu, marca registrada
+### Kukuxumusu, marca registrada
 
 En concreto, Kukuxumusu registra cada uno de sus dibujos en el Registro de la Propiedad Industrial Un paso que encarece su producto final pero que resulta necesario pues, aunque no elimina en su totalidad el plagio, sí les confiere ciertas garantías y la tranquilidad de que pueden defenderse con instrumentos legales de quienes quieren explotar la rentabilidad de un diseño idea sin haberlo creado.
 
@@ -1937,7 +1939,7 @@ El Registro de la Propiedad Industrial garantiza que no se explota de forma ilí
 
 Tal vez convendría considerar cuál sería el precio a pagar si los autores, de cualquier ámbito profesional, renunciaran a hacer públicas sus creaciones. Ellos no tendrían una ganancia, mientras que los demás tendríamos una gran pérdida.
 
-## Reflexiona
+### Reflexiona
 
 1. ¿Por qué crees que PEYMA se constituyó como S.A. y no como S.L?
 2. ¿Qué riesgos supones que tiene para Llongueras constituir una franquicia?
@@ -1951,7 +1953,7 @@ En este apartado vamos a recordar algunos conceptos que te serán útiles para r
 
 hacienda, forma jurídica, seguridad social, licencias, capital social, permisos, registro mercantil, participaciones, documentación, obras, trámites, responsabilidad legal, sociedad, acciones, socios
 
-## A. Clasificación de las empresas
+### A. Clasificación de las empresas
 
 Las empresas se clasifican en función de la titularidad de quien la ostenta y la responsabilidad legal de sus propietarios. Según este criterio jurídico las empresas se dividen en:
 
@@ -1999,7 +2001,7 @@ Tabla 3.2. Estadística sobre creación de empresas en España para el periodo 2
 | Navarra              | 8    | 5    | 8    | 902   | 892   | 866   | 46           | 49           | 35           |
 | PaísVasco            | 42   | 42   | 34   | 1256  | 2975  | 2985  | 117          | 143          | 114          |
 
-## Franquicias
+#### Franquicias
 
 Una de las maneras de reducir el riesgo en el momento de iniciar un negocio es a través de una franquicia.
 
@@ -2007,7 +2009,7 @@ Una franquicia es la cesión por parte de un empresario franquiciador a una terc
 
 El franquiciado puede adoptar cualquier forma jurídica, salvo que el franquiciador marque entre sus condiciones la obligación de constituirse de una manera determinada.
 
-## Actividades
+#### Actividades
 
 1. Visita la web http://www.guiaespana.com.es, escoge un sector profesional y rea liza las siguientes actividades:
 
@@ -2017,7 +2019,7 @@ El franquiciado puede adoptar cualquier forma jurídica, salvo que el franquicia
 
 2. Explica por qué es más fácil constituir una empresa como empresario individual que con cualquier otro tipo de modalidad jurídica.
 
-## B. Trámites para la creación de la empresa
+### B. Trámites para la creación de la empresa
 
 La elección de una u otra forma jurídica tiene relevancia en el momento de realizar los trá mites de constitución de la empresa. En el caso del empresario individual, los trámites son sencillos y rápidos; en cambio, las sociedades tienen más formalidades que cumplir.
 
@@ -2038,12 +2040,12 @@ La Ventanilla Única Empresarial dispone de una red de centros presenciales de t
 
 Con el objetivo de realizar estos trámites de forma cómoda y segura, algunos emprendedores optan por contratar los servicios de una asesoría o gestoría para realizar el proceso, cuyo precio puede oscilar entre 700 y 800 euros.
 
-## Actividades
+#### Actividades
 
 3. Averigua la ubicación de la VUE de tu comunidad autónoma, seleccionando la opción «Oficinas VUE» de esta web: http://www.ventanillaempresariaLorg.
 4. ¿Se te ocurre algún inconveniente por el cual no sea aconsejable contratar una gestoría para la realización de los trámites?
 
-## Trámites para el inicio de una actividad empresarial.
+#### Trámites para el inicio de una actividad empresarial.
 
 En esta unidad se analizarán todos los trámites necesarios para el inicio de un negocio, distinguiendo entre trámites de constitución y trámites depuesta en marcha (Tabla 3.3).
 
@@ -2057,7 +2059,7 @@ Tabla 3.3. Trámites para el inicio de una actividad empresarial. (ver mejor en 
 - Trámites de constitución: Certificación negativa de la denominación social. • Apertura de cuenta bancaria. • Redacción de los estatutos. • Firma de la escritura. • Liquidación del ITP/AJD. • Solicitud del CIF. • Inscripción en el Registro Mercantil.
 - Trámites de puesta en marcha: • Obtención del CIF. • Legalización de los libros. • Alta en el IAE. • Alta en el IVA. • Declaración previa de inicio de actividad. • Alta en el RETA de los socios. • Inscripción de la empresa en la Seguridad Social (si contrata trabajadores). • Afiliación y alta de los trabajadores en el Régimen general. • Comunicación de apertura. • Sellado del libro de visitas. • Solicitud de licencias municipales. • Inscripción en el Registro de la Propiedad o Industrial.
 
-## Trámites de constitución
+#### Trámites de constitución
 
 Los trámites de constitución son los que hacen que la empresa tenga personalidad jurídica. La personalidad jurídica alude a la capacidad de obrar como empresa y de estar sujeta a unos derechos, pero también a unas obligaciones.
 
@@ -2067,7 +2069,7 @@ Estos trámites varían según la forma jurídica elegida:
 
 - Las sociedades deben cumplir varios requisitos que se detallan a continuación.
 
-### Certificación negativa de la denominación social
+#### Certificación negativa de la denominación social
 
 Documento expedido por el Registro Mercantil Central (RMC) donde se indica que el nombre elegido para nuestra sociedad no lo utiliza otra empresa. Una vez confirmado, el RMC reserva durante un tiempo el nombre mientras se cumplen el resto de los trámites. A este nombre se le añadirán obligatoriamente las siglas que indican la forma jurídica de la sociedad.
 
@@ -2082,7 +2084,7 @@ Actividades
 - b) Averigua qué coste tiene solicitar la Certificación negativa de la denominación social, para ello consulta la web http://www.rmc.es/Deno\_solicitud.aspx?lang=es.
 - c) Lee los consejos que propone el RMC para elegir una denominación social e indica cuál es el que más te ha sorprendido y por qué motivo http://www.rmc.es/denominaci©nesSocialeslnfo/Deno_informacion.aspx.
 
-### Apertura de cuenta bancaria
+#### Apertura de cuenta bancaria
 
 Los pagos y cobros que se realicen en nombre de la sociedad deben efectuarse a través de una cuenta bancaria a nombre de dicha empresa. Cualquier entidad financiera es válida, así que los socios elegirán aquella que les ofrezca unas mejores condiciones. La cantidad mínima para abrir la cuenta será la determinada según el requisito legal de cada tipo de sociedad constituida. No obstante, pueden aportarse cantidades superiores.
 
@@ -2090,7 +2092,7 @@ Actividades
 
 7. Indica la cantidad mínima de capital social que habrá que aportar en el caso de constituir las siguientes empresas: Sociedad Limitada Laboral, Sociedad Cooperativa, Sociedad Anónima Laboral y Sociedad Limitada Nueva Empresa.
 
-### Elaboración de los estatutos y firma de la escritura de constitución
+#### Elaboración de los estatutos y firma de la escritura de constitución
 
 Los estatutos son las normas que van a regir la sociedad y donde se especifica la naturaleza de la misma (el nombre, el objeto y el domicilio social, el capital inicial, los datos identificativos de los socios, el régimen de participación de cada uno, los acuerdos sobre el reparto de beneficios, el procedimiento para tomar decisiones, etc.), normalmente están redactados por un abogado.
 
@@ -2098,7 +2100,7 @@ Las sociedades laborales y las sociedades cooperativas precisan de una calificac
 
 Con posterioridad, los socios acudirán al notario para firmar la escritura pública de constitución de la sociedad. A través de este acto se revalidan delante del notario los acuerdos adoptados por los socios, con el fin de darles autenticidad y validez legal.
 
-### Liquidación del impuesto ITP/AJD
+#### Liquidación del impuesto ITP/AJD
 
 El Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados (ITP/AJD) grava la constitución de una sociedad y el incremento o disminución de su capital. En caso de disolución de la sociedad, o fusión, escisión o reducción de su capital social, los socios están obligados al pago de este impuesto por los bienes recibidos en dicha liquidación.
 
@@ -2106,11 +2108,11 @@ Ejemplo 1. El 1TP/ADJ
 
 En el caso de constituir una sociedad, la cuota a pagar del ITP/AJD es siempre del 1 % del capital social aportado. Pero en el R.D. 13/2010 se elimina la obligación de este pago para suprimir los obstáculos que dificultan la creación de empresas en la actual coyuntura económica.
 
-### Solicitud del CIF provisional
+#### Solicitud del CIF provisional
 
 El Código de Identificación Fiscal (CIF) sirve para identificar la sociedad ante la agencia tributaria. Inicialmente se otorga un CIF provisional y, una vez registrada la empresa, se debe canjear por el CIF definitivo. El empresario individual, por el contrario, se identifica con su NIF.
 
-### Inscripción de la sociedad en el Registro Mercantil
+#### Inscripción de la sociedad en el Registro Mercantil
 
 La sociedad adquiere plena capacidad jurídica cuando se inscribe en el Registro Mercantil de la provincia en que se encuentra domiciliada la razón social. Todas las sociedades deben realizar este trámite, salvo las cooperativas, ya que estas solamente deben inscribirse en el Registro General de Cooperativas de la comunidad a que pertenece. Las sociedades laborales, además, tienen que ser inscritas de forma previa en el Registro de Sociedades Laborales de la comunidad autónoma correspondiente.
 
@@ -2125,13 +2127,13 @@ Actividades
 10. Averigua el lugar donde debe solicitarse el CIF, la documentación necesaria para presentar la solicitud y el plazo de entrega.
 11. Averigua el plazo y la documentación necesaria a presentar para inscribir a la empre sa en el Registro Mercantil.
 
-## Trámites de puesta en marcha
+#### Trámites de puesta en marcha
 
 Los trámites de puesta en marcha son aquellos que la empresa debe realizar una vez adquirida la personalidad jurídica, para comenzar su actividad económica. Según el tipo de empresa elegido existen diferencias en los trámites a realizar, ya que en el caso de un empresario individual los trámites son menores.
 
 Estos trámites se agrupan en tres grandes categorías que seguidamente se analizarán: obligaciones fiscales con Hacienda, obligaciones con la Segundad Social y otros trámites.
 
-### Obligaciones fiscales con Hacienda
+#### Obligaciones fiscales con Hacienda
 
 - Obtención del CIF definitivo
 
@@ -2156,7 +2158,7 @@ Es un tributo de carácter local que grava el ejercicio de actividades empresari
 
 Consiste en darse de alta en este impuesto antes de iniciar la actividad empresarial. Es prescriptivo para los empresarios individuales y las sociedades.
 
-## Obligaciones con la Seguridad Social
+#### Obligaciones con la Seguridad Social
 
 - Alta de los socios en el Régimen de Autónomos
 
@@ -2183,7 +2185,7 @@ La empresa que vaya a contratar uno o más trabajadores debe notificarlo a la Se
 
 Los trabajadores contratados, si los hay, deben ser dados de alta en el Régimen General de la Seguridad Social. En el caso de que nunca antes hayan trabajado, será requisito imprescindible afiliarles previamente a la Segundad Social. A través de la afiliación se les inscribe por primera vez en la Seguridad Social y se les otorga un número que permanecerá invariable durante toda la vida aunque cambien de trabajo o de empresa.
 
-### Otros trámites
+#### Otros trámites
 
 - Comunicación de apertura del centro de trabajo
 
@@ -2221,21 +2223,21 @@ Algunas actividades que deben inscribirse en el Registro Industrial son:
 - Las industrias de fabricación de armas y explosivos y aquellas que se declaren de interés para la defensa nacional.
 - Las industrias alimentarias, agrarias, pecuarias, forestales y pesqueras.
 
-## Actividades
+#### Actividades
 
 12. El invento de la fregona no estuvo exento de polémica. La autoría del invento se atribuye a Manuel Jalón desde que la Audiencia Provincial de Zaragoza lo ratificara en abril de 2009, en virtud de la patente número 298240. No obstante, la autoría estuvo disputada por otra persona. Averigua con quién y por qué.
 13. Para ello, puedes consultar esta página web: http://queinventenellos.com/quieninvento-la-fregona.
 14. Entra en la web de la Oficina de Patentes y Marcas Españolas (www.oepm.es) y averigua: si una empresa puede registrar una marca, un nombre comercial, un diseño, un cambio estético de un producto, un eslogan o un logotipo, y las tasas a abonar.
 
-## C. Trámites específicos según la actividad
+### C. Trámites específicos según la actividad
 
 Algunas actividades empresariales requieren unas autorizaciones especiales para poder ope rar. Cada comunidad autónoma determina cuáles son, por lo que puede haber diferencias significativas según el área geográfica donde se constituya la empresa.
 
-## Carnés profesionales
+#### Carnés profesionales
 
 Algunas actividades profesionales están reguladas por reglamentos de seguridad industrial o minera que exigen una cualificación profesional determinada. Es una manera de establecer un control sobre aquellos profesionales que deben estar en posesión de unos conocimientos teórico-prácticos demostrables para realizar determinadas tareas peligrosas.
 
-## Ejemplo 4. Carné profesional
+#### Ejemplo 4. Carné profesional
 
 Será necesario disponer de un carné profesional para realizar las siguientes actividades:
 
@@ -2246,26 +2248,26 @@ Será necesario disponer de un carné profesional para realizar las siguientes a
 
 - Maquinista y palista minero.
 
-## Carnés y certificados de empresa: Documento de Calificación Empresarial
+#### Carnés y certificados de empresa: Documento de Calificación Empresarial
 
 Las empresas que realizan actividades de instalación, mantenimiento o revisión de equipos térmicos fijos (de refrigeración, aire acondicionado, bombas de calor) y sistemas de protección contra incendios requieren estar habilitadas para ello, por lo que necesitan acreditarlo mediante el Documento de Calificación Profesional, y las empresas que instalan, conservan o reparan aparatos a presión o aparatos de frío industrial tienen que estar en posesión de un certificado de empresa que las capacite para ello.
 
-## Actividades
+#### Actividades
 
 14. Resuelve las siguientes cuestiones relacionadas con los carnés profesionales:
 
 - a) Razona qué sentido tiene prescribir la tenencia de un carné profesional para unas actividades concretas.
 - b) Averigua qué requisitos son necesarios para conseguir un carné profesional de instalador de fontanería.
 
-## Ejemplo 5. Actividades que requieren el Documento de Calificación Profesional
+#### Ejemplo 5. Actividades que requieren el Documento de Calificación Profesional
 
 Entre las actividades de la construcción que requieren un Documento de Calificación Profesional encontramos: demoliciones, movimiento de tierras, albañilería, pintura y empapelados, fabricación de materiales de la construcción, instalaciones o reparaciones eléctricas, actividades del sector madera, parqués, corcho, carpintería, ebanistería, etc.
 
 El certificado de empresa o de instalador es solicitado por aquellas empresas que manipulan cámaras frigoríficas, aparatos de aire acondicionado, instalaciones de aire comprimido, calderas de calefacción, etc.
 
-## Autorizaciones de apertura, instalación o constitución
+#### Autorizaciones de apertura, instalación o constitución
 
-### Ejemplo 6. Actividades que requieren autorización inicial
+#### Ejemplo 6. Actividades que requieren autorización inicial
 
 Algunas de las actividades empresariales que requieren autorización inicial son:
 
@@ -2281,7 +2283,7 @@ Algunas de las actividades empresariales que requieren autorización inicial son
 
 El objetivo en esta unidad es que elijas la for ma jurídica más conveniente para constituir tu empresa y sepas realizar los trámites necesarios para su puesta en marcha.
 
-## Fase 1. Elegir la forma jurídica
+### Fase 1. Elegir la forma jurídica
 
 La elección de la forma jurídica es un aspecto fundamental ya que determina las exigencias en cuanto a: el número de socios, el capital inicial mínimo o máximo necesario, la protección del patrimonio personal de los socios en caso de deudas, los impuestos a pagar, los trámites exigibles para su constitución, la mayor o menor facilidad a la hora de transmitir a terceros el porcentaje de participación en la empresa y la imagen ante los clientes.
 
@@ -2344,7 +2346,7 @@ Sociedades: Dan mayor sensación de permanencia y, consiguientemente, de fiabili
 
 Tabla 3.4. Características de los distintos tipos de formas jurídicas de las empresas.(ver en libro pp.80-81)
 
-## Actividad de simulación 1
+#### Actividad de simulación 1
 
 Reúnete con tus socios para tomar una decisión respecto a la forma jurídica que adoptará la empresa. Si vais a optar por una personalidad jurídica que permita la constitución telemática, debes anotar los pasos a seguir y ponerlos por escrito, indicando los motivos que os han llevado a ello.
 
@@ -2353,7 +2355,7 @@ Ayuda práctica:
 - a) Puedes encontrar información adicional en la web siguiente: http://wwwxirce.es/ Circe.Publico.Web/Articulo.aspx?titulo=Como+realizar+un+tramite
 - b) Siempre es posible modificar la personalidad jurídica elegida, pero este trámite con lleva un coste de tiempo, dinero y papeleo que se puede evitar si escoges la elección más adecuada a vuestra empresa.
 
-## Fase 2. Decidirse por una franquicia
+### Fase 2. Decidirse por una franquicia
 
 Una franquicia se basa en un contrato de colaboración entre dos empresas jurídica y financieramente independientes, representadas por las figuras del franquiciador y el franquiciado.
 
@@ -2372,7 +2374,7 @@ Optar por una franquicia reduce los riesgos y la incertidumbre de constituir un 
 
 Tabla 3.5. Consejos antes de decidirse por un negocio de franquicia.
 
-### Ejemplo 7. Muestra de franquicia
+#### Ejemplo 7. Muestra de franquicia
 
 El taller Repara tu vehículo basa su negocio en alquilar coches por horas para que sus clientes puedan revisar y reparar ellos mismos sus vehículos. Pone a disposición de los usuarios todas las herramientas necesarias así como una tienda de recambios y un experto que les asesora.
 
@@ -2387,7 +2389,7 @@ Si finalmente optamos por constituir nuestro negocio a través de una franquicia
 
 Para ello es aconsejable tener presente las recomendaciones que se exponen a continuación en la Tabla 3.6.
 
-## Recomendaciones para elegir franquicia.
+#### Recomendaciones para elegir franquicia.
 
 - Conocimientos previos del sector: No es necesario tener conocimientos previos del negocio pero, aunque no sea un requisito imprescindible, es aconsejable elegir un sector del que se tenga conocimientos porque ayuda al despegue de la empresa.
 
@@ -2407,7 +2409,7 @@ Para ello es aconsejable tener presente las recomendaciones que se exponen a con
 
 Tabla 3.6. Recomendaciones para elegir franquicia.
 
-## Actividad de simulación 2
+#### Actividad de simulación 2
 
 Selecciona una franquicia relacionada con vuestro negocio y anota qué desembolso inicial es necesario, qué requisitos marcan y qué previsiones de ingresos anticipan.
 
@@ -2417,7 +2419,7 @@ Compáralo con los cálculos y las expectativas que has hecho en tu plan de empr
 
 A continuación, razona las ventajas y los inconvenientes de elegir una franquicia o de constituir un negocio por vuestra cuenta.
 
-## Fase 3. Certificación negativa de la denominación social
+### Fase 3. Certificación negativa de la denominación social
 
 La obtención de este certificado es necesaria para asegurarnos de que no existe ningún otro negocio que lleve el nombre que queremos poner a nuestra razón social. Para solicitarla hay que rellenar una solicitud en el RMC, bien en persona, bien enviándola por correo ordinario, o bien de forma telemática (online).
 
@@ -2427,7 +2429,7 @@ Transcurridos unos días se recibirá la contestación en persona si se acude di
 
 El RMC reserva el nombre durante un plazo de seis meses, tiempo suficiente para realizar los trámites de constitución. Transcurrido el plazo, la reserva finaliza y habrá que solicitar una nueva certificación negativa de nombre, volviendo a pagar las tasas requeridas. Por el contra rio, si transcurren más de tres meses desde su concesión y aún no hemos otorgado la Escritura de Constitución, habrá que renovarla, pagando las tasas fijadas para ello.
 
-## Consejos prácticos para decidir la denominación social
+#### Consejos prácticos para decidir la denominación social
 
 Antes de solicitar la denominación social es aconsejable leer atentamente las normas que edita el Registro Mercantil puesto que, si no se ajustan a ellas, el nombre no será válido.
 
@@ -2446,7 +2448,7 @@ Antes de solicitar la denominación social es aconsejable leer atentamente las n
 13. No usar palabras genéricas, como empresa o construcciones o administradores, porque carecen de posibilidad de diferenciación con respecto a negocios del mismo sector.
 14. No se pueden incluir las abreviaturas que indican dominios de Internet, como: .es, com, .net, etc.
 
-## Actividad de simulación 3
+#### Actividad de simulación 3
 
 Reúnete con tus socios. Tenéis que decidir el nombre que le queréis poner a vuestra em presa, así como el modo de hacer la solicitud: en persona, por correo ordinario o de forma telemática. A continuación, rellena el formulario para solicitar la Certificación negativa de denominación social que puedes descargarte en la siguiente web, http://www.rmc.es/solicitudcertificados/CertDenominaciones.aspx y que incluye la información so bre la documentación a entregar.
 
@@ -2454,7 +2456,7 @@ Ayuda práctica:
 
 Averigua dónde está ubicado el Registro Mercantil Central y el coste que supone solicitar la certificación según el modo como se realice (una gestoría cobra aproximadamente 40 euros por realizar este servicio). Es importante tener en cuenta el coste de este trámite, ya que en la siguiente unidad tendrás que presupuestar los gastos iniciales.
 
-## Fase 4. Elaboración de los estatutos y firma de la escritura
+### Fase 4. Elaboración de los estatutos y firma de la escritura
 
 Los estatutos sociales son las normas que van a regir la sociedad. Incluyen los datos de la empresa, de los socios y los acuerdos adoptados entre ellos, es decir, nombre, objeto social, capital social, domicilio social, régimen de participación de cada socio, etc. Es recomendable ponerse en manos de un abogado para que los redacte, o bien contactar con la notaría.
 
@@ -2473,7 +2475,7 @@ Todos los socios tienen que estar presentes en el momento de su firma y deberán
 
 Las escrituras las puede realizar el propio notario puesto que dispone de modelos que puede adaptar a las necesidades de cada sociedad. Para ello deberán formalizarse antes de proceder a su firma concertando una cita previa con la notaría.
 
-## Actividad de simulación 4
+#### Actividad de simulación 4
 
 Reúnete con tus socios y redacta los estatutos de vuestra sociedad cumplimentando el formulario correspondiente a la forma jurídica de vuestra empresa, que encontrarás en el enlace de la web Crear-Empresas.com: http://www.crear-empresas.com/formolarios.htm. A fin de evitar errores, rellena los datos sin prisa.
 
@@ -2481,11 +2483,11 @@ Ayuda práctica:
 
 En algunos casos, cuando la aportación de todos los socios no es similar, o su implicación en la marcha de la empresa no es equitativa, será necesario dialogar con detenimiento antes de redactar los estatutos para tener claras las normas de funcionamiento, el reparto de beneficios, etc.
 
-## Fase 5. Inscripción en el Registro Mercantil
+### Fase 5. Inscripción en el Registro Mercantil
 
 Las empresas están obligadas a inscribirse en el Registro Mercantil, mientras que las cooperativas están obligadas a hacerlo en el registro que existe para ellas. Sin embargo, antes de proceder a este trámite hay que solicitar el Código de Identificación Fiscal (CIF).
 
-## Solicitud del Código de Identificación Fiscal provisional
+#### Solicitud del Código de Identificación Fiscal provisional
 
 El Código de Identificación Fiscal (CIF) sirve para identificar la sociedad ante la agencia tributaria. En el caso del empresario individual este se identifica con su NIF.
 
@@ -2499,7 +2501,7 @@ Para solicitar un CIF provisional hay que acudir a la delegación de la Agencia 
 
 El plazo para solicitar el CIF provisional es de treinta días a partir del otorgamiento de la escritura, el cual será asignado por la Agencia Tributaria en un período máximo de diez días. Una vez en posesión del CIF provisional hay que proceder a la liquidación del primer impuesto exigible.
 
-## Pago del ITP/AJD
+#### Pago del ITP/AJD
 
 Una vez obtenido el CIF provisional ya se puede proceder al pago del Impuesto de Transmisiones Patrimoniales y Actos jurídicos documentados (ITP/AJD) que corresponde al 1 % del capital inicial que consta en los estatutos. Este trámite se realiza en la Consejería de Hacienda de la comunidad autónoma correspondiente, en el plazo de treinta días hábiles a partir del otorgamiento de la escritura.
 
@@ -2511,7 +2513,7 @@ Los documentos a presentar son:
 
 Una vez liquidado este pago la empresa ya puede ser inscrita en el registro correspondiente.
 
-## Inscripción de la empresa en el registro correspondiente
+#### Inscripción de la empresa en el registro correspondiente
 
 El Registro Mercantil es una base de datos de todas las empresas españolas, salvo las sociedades cooperativas, ya que el interés del comercio exige que se les dé publicidad.
 
@@ -2538,7 +2540,7 @@ Hay que tener en cuenta que esto solo es aplicable a los bienes comunes. Los bie
 
 Algunas empresas requieren de manera adicional estar inscritas en un registro especial. Entre ellas se encuentran: empresas de venta a distancia, franquiciadores, empresas editoriales, empresas cinematográficas, industrias y establecimientos alimentarios, centros de animales de compañía, embotelladores y envasadores de vinos y bebidas alcohólicas, e industrias electrónicas, de telecomunicación, informáticas o automovilísticas.
 
-## Legalización de los libros obligatorios
+#### Legalización de los libros obligatorios
 
 De manera adicional, hay que legalizar los libros obligatorios en el Registro Mercantil correspondiente al domicilio social de la empresa. Estos libros son diferentes según la forma jurídica elegida, pero el trámite de su sellado y legalización deben realizarlo tanto los empresarios individuales como las sociedades.
 
@@ -2546,7 +2548,7 @@ A modo de ejemplo, pueden legalizarse los siguientes libros: el libro de Inventa
 
 Una vez que la empresa está legalmente constituida y en funcionamiento, hay que realizar otro trámite más en el Registro Mercantil. Tanto los administradores de sociedades anónimas como los de responsabilidad limitada, que por prescripción legal están obligados a dar publicidad de sus Cuentas anuales, deberán presentar dichas cuentas ante el Registro Mercantil correspondiente para su depósito, dentro del mes siguiente a su aprobación. Estos trámites pueden realizarse de forma presencial o telemática.
 
-## Actividad de simulación 5
+#### Actividad de simulación 5
 
 Tienes que cumplimentar el formulario Modelo 600 para realizar el pago del impuesto ITP/AJD. El importe a pagar es del 1 % del capital inicial que pongáis en los estatutos y con el que hayáis abierto la cuenta bancaria. Anota estas cantidades para reflejarlas en el estado contable que realizaréis en la Unidad 5.
 
@@ -2557,13 +2559,13 @@ Ayuda práctica:
 - a) Consulta la web del Registro Mercantil para saber cuál está más cerca del domicilio social de vuestro negocio: http://www.rmc.es/DireccionesMercantileSoaspx.
 - b) Para saber si vuestra empresa pertenece a un registro especial y los consiguientes pasos a realizar, consulta la web: http://www.crear-empresasxonn/tramitesgrales.htm.
 
-## Fase 6. Trámites en Hacienda
+### Fase 6. Trámites en Hacienda
 
 La Administración Tributaria dispone de un Censo de Obligados Tributarios, es decir, de personas físicas o jurídicas obligadas al pago de impuestos.
 
 Dentro de este se encuentra el Censo de Empresarios, Profesionales y Retenedores, en el que deben darse de alta, entre otros, las personas o entidades que vayan a desarrollar actividades empresariales o profesionales. Asimismo, deben notificar la baja del mismo o las modificaciones que se produzcan.
 
-## Declaración censal del IVA
+#### Declaración censal del IVA
 
 La declaración censal se habrá de presentar antes del nacimiento de la obligación de retener, por ejemplo, antes de emitir una factura con el recargo del IVA. Las sociedades que se constituyan de forma telemática no deberán realizar este trámite, ya que se efectúa de manera automática al presentar el Documento Único Electrónico (DUE).
 
@@ -2580,13 +2582,13 @@ Con carácter general se presentará en la Delegación de la AEAT correspondient
 
 Para darse de alta, las sociedades deben utilizar el modelo 036 indicando como motivo de presentación: «Solicitud de NIF y alta» y marcando las casillas 110 y 111. Los empresarios individuales, en cambio, pueden optar por utilizar el modelo 037, un modelo simplificado, indicando como motivo «alta» y seleccionando la casilla 111.
 
-## Alta en el Impuesto sobre Actividades Económicas (IAE)
+#### Alta en el Impuesto sobre Actividades Económicas (IAE)
 
 El Impuesto sobre Actividades Económicas (IAE) es un tributo directo que grava el ejercicio de actividades empresariales, profesionales o artísticas, se ejerzan o no en un local determinado.
 
 Están exentos del pago los empresarios individuales y las sociedades que tengan un importe neto con una cifra de negocios inferior a 1000000 de euros. Pese a ello, están obligados a realizar la declaración de alta, de modificación o baja del IAE a través del modelo de declaración censal 036 o 037 para identificar las actividades económicas que desarrollan, así como los establecimientos y locales en los que se llevan a cabo dichas actividades.
 
-## Actividad de simulación 6
+#### Actividad de simulación 6
 
 Cumplimenta el Modelo 036 para proceder a la declaración censal de vuestra actividad empresarial y, al mismo tiempo, cumplir el requisito del alta en el IAE.
 
@@ -2596,9 +2598,9 @@ Puedes acceder al modelo a través del enlace:
 
 http://www.agenciatributaria.es/AEAT.internet/Modelos\_formularios/modelo\_ O36.shtml
 
-## Fase 7. Trámites en la Seguridad Social
+### Fase 7. Trámites en la Seguridad Social
 
-## Alta de los trabajadores en el RETA
+#### Alta de los trabajadores en el RETA
 
 Todos los trabajadores están obligados a darse de alta en la Seguridad Social. A través de este acto adquieren la obligación de cotizar mensualmente, es decir, de entregar un porcentaje de su salario a este organismo con el fin de estar cubiertos ante futuras situaciones que necesiten de asistencia médica o que les impidan trabajar, como incapacidad temporal, maternidad, desempleo, jubilación, etc. La cantidad a pagar se denomina cuota y se calcula aplicando un porcentaje (el tipo de cotización) a la base de cotización, que es la cantidad resultante de sumar los pagos recibidos por el trabajador, tanto en especie como en moneda, añadiendo la parte proporcional de las pagas extraordinarias y los demás pagos con vencimiento superior al mensual.
 
@@ -2626,19 +2628,19 @@ La solicitud ha de ir acompañada de los documentos siguientes:
 - Justificante de haber abonado el Impuesto so bre Actividades Económicas, si fuese necesario.
 - Copia de las licencias, permisos o autorizaciones administrativas que sean necesarios para el ejercicio de la actividad de que se trate.
 
-## Solicitud del número de patronal
+#### Solicitud del número de patronal
 
 Para poder contratar a un trabajador, los socios deben solicitar en la Tesorería general de la Seguridad Social los siguientes trámites: la inscripción de la empresa (si es la primera vez que contrata), la afiliación del trabajador (si es la primera vez que trabaja) y el alta del trabajador en el Régimen general de la Seguridad Social.
 
 Una vez concertado el contrato o bien la prórroga del mismo, debe ser comunicado al Servicio Público de Empleo en un plazo de diez días.
 
-## Inscripción de la empresa
+#### Inscripción de la empresa
 
 La inscripción de la empresa es el acto administrativo por el que la Tesorería general de la Seguridad Social le asigna a la empresa un número para su identificación y control de sus obligaciones con la Seguridad Social, denominado Código de Cuenta de Cotización Principal La solicitud se realizará con el Modelo TA.6.
 
 El empresario debe solicitar un Código de Cuenta de Cotización distinto en cada provincia donde ejerza la actividad, a través del Modelo TA.7.
 
-## Afiliación y alta del trabajador
+#### Afiliación y alta del trabajador
 
 La afiliación a la Segundad Social es un acto administrativo mediante el cual la Tesorería general de la Seguridad Social reconoce al trabajador la inclusión en el Sistema de Seguridad Social.
 
@@ -2658,11 +2660,11 @@ La Seguridad Social permite realizar varios trámites de forma telemática por m
 - Afiliación: altas, bajas, variaciones de datos de trabajadores, así como consultas.
 - Tramitación de los partes de alta y baja médica de Accidentes de Trabajo y Enfermedades Profesionales.
 
-## Comunicación de las contrataciones al Servicio de Empleo
+#### Comunicación de las contrataciones al Servicio de Empleo
 
 Una copia del contrato, firmado por el empresario y el trabajador, debe ser entregada al Servicio Público de Empleo en un plazo de diez días desde su firma. Asimismo, cuando dicha relación laboral finalice deberá comunicarse a la Seguridad Social. La comunicación puede realizarse por medios telemáticos, a través del sistema contrat@ que ha puesto en marcha el SEPE (Servicio Público de Empleo Estatal).
 
-## Actividad de simulación 7
+#### Actividad de simulación 7
 
 Rellena el formulario del Modelo TA.6 para proceder a la inscripción de la empresa en la Seguridad Social Accede al siguiente enlace para descargarte el documento:
 
@@ -2680,9 +2682,9 @@ Ayuda práctica:
 
 En la Unidad 2 has hecho una estimación sobre la necesidad de incorporar personal o no. Ahora toca proceder a la contratación de los empleados. En caso de que hayas decidido no contratar a nadie, este trámite no sería necesario llevarlo a cabo, pero como estamos trabajando en una simulación puedes realizarla a modo de ejemplo.
 
-## Fase 8. Otros trámites
+### Fase 8. Otros trámites
 
-## Comunicación de apertura del centro de trabajo
+#### Comunicación de apertura del centro de trabajo
 
 Es un trámite exigible para aquellas empresas que procedan a la apertura de un nuevo centro de trabajo o reanuden la actividad después de efectuar en el local modificaciones de importancia.
 
@@ -2695,7 +2697,7 @@ Los documentos a presentar son:
 
 El plazo para realizar el trámite es de treinta días siguientes al inicio o reanudación de la actividad y se consignará en la Dirección Provincial de Trabajo, en Seguridad Social y Asuntos Sociales.
 
-## Solicitud del libro de Visitas
+#### Solicitud del libro de Visitas
 
 El libro de Visitas es obligatorio para todas las empresas y autónomos, aunque no tengan trabajadores a su cargo, y debe presentarse al inspector siempre que este se personifique en la empresa para una inspección de trabajo. Debe tenerse un libro por cada centro de trabajo, antes del inicio de la actividad.
 
@@ -2705,7 +2707,7 @@ El libro de Visitas debe ser sellado por el Jefe de la Inspección de la provinc
 
 En caso de pérdida o destrucción del libro anterior, se justificará con las pruebas disponibles y a través de una declaración escrita del representante legal de la empresa. Actualmente se puede utilizar el libro de Visitas electrónico.
 
-## Solicitud de licencias municipales
+#### Solicitud de licencias municipales
 
 El Inicio de una nueva actividad en un local conlleva la obligación de solicitar algunas licencias ante el ayuntamiento correspondiente: licencia de apertura, licencia de obras o licencia por cambio de titularidad o de actividad.
 
@@ -2718,7 +2720,7 @@ El 27 de mayo de 2012 entró en vigor la llamada «auto licencia exprés» que r
 
 Los requisitos exigidos en la licencia de apertura varían según la actividad sea «ino cua», es decir, que no produce molestias ni daños, en cuyo caso la licencia es fácil de conseguir y más barata que para las actividades «calificadas», que son aquellas potencialmente molestas, insalubres, nocivas o peligrosas. El procedimiento para lograr la licencia es más complejo y resulta más caro.
 
-## Registro de patentes, marcas y nombres comerciales
+#### Registro de patentes, marcas y nombres comerciales
 
 Se puede registrar una patente de invención, un modelo de utilidad, un diseño industrial, una marca o un nombre comercial.
 
@@ -2766,7 +2768,7 @@ La documentación a presentar es la siguiente:
 
 El proceso de registro es lento, aunque la ley establece un tiempo máximo de doce meses.
 
-## Actividad de simulación 8
+#### Actividad de simulación 8
 
 Analiza qué elementos de vuestra empresa vais a registrar. A continuación, rellena los datos del formulario correspondiente, puedes descargártelo de la web de la Oficina de Patentes:
 
@@ -2774,7 +2776,7 @@ http://www.oepm.es/es/propiedadJndustrial/fonriulariQS
 
 Averigua cuánto cuestan las tasas para el registro de vuestra propiedad intelectual, consulta la web: http://www.oepm.es/es/propiedadjndustrial/tasas
 
-## Plan de empresa
+#### Plan de empresa
 
 Las actividades de simulación realizadas en esta unidad te han servido para conocer la multitud de trámites que hay que realizar, los plazos, la documentación requerida y la utilidad de cada una de estas fases.
 
@@ -2841,21 +2843,21 @@ Para facilitar la planificación en el desarrollo de todos estos trámites, pod�
 - c) Que se presenten todos los socios.
 - d) Todas son correctas.
 
-## 7. Los estatutos de una empresa:
+7. Los estatutos de una empresa:
 
 - a) Son redactados por el notario.
 - b) Se firman en la notaría, en presencia del abogado.
 - c) Incluyen las normas internas de funcionamiento de la sociedad.
 - d) Todas son correctas.
 
-## 8. La escritura de constitución:
+8. La escritura de constitución:
 
 - a) Es el documento legal por el cual los socios acuerdan constituir un negocio.
 - b) Se firman ante el notario.
 - c) Incluye los estatutos.
 - d) Todas son correctas.
 
-## 9. Están obligados al pago del ITP/AJD:
+9. Están obligados al pago del ITP/AJD:
 
 - a) Solo los empresarios individuales.
 - b) Las sociedades que facturen más de un millón de euros.
@@ -2869,21 +2871,21 @@ Para facilitar la planificación en el desarrollo de todos estos trámites, pod�
 - c) Los empresarios individuales y las sociedades.
 - d) Todas son correctas.
 
-## 11c Deben inscribirse en el Registro Mercantil:
+11. Deben inscribirse en el Registro Mercantil:
 
 - a) Todas las sociedades, pero no los empresarios individuales.
 - b) Todas las sociedades y empresarios individuales, menos las sociedades cooperativas.
 - c) Todas las sociedades y empresarios individuales, menos las sociedades laborales.
 - d) Ninguna es correcta.
 
-## 12. La afiliación de los trabajadores a la Segundad Social:
+12. La afiliación de los trabajadores a la Segundad Social:
 
 - a) Es un trámite obligatorio que deben realizar todos los empresarios.
 - b) Se realiza una vez en toda la vida laboral del trabajador.
 - c) Es responsabilidad del trabajador, aunque suele realizar este trámite el empresario.
 - d) Todas son correctas.
 
-5. 13» Las licencias municipales deben solicitarse al ayuntamiento correspondiente en caso de que:
+13. Las licencias municipales deben solicitarse al ayuntamiento correspondiente en caso de que:
 
 - a) Se vayan a efectuar obras.
 - b) Se abra un local o se reabra tras haber realizado modificaciones.

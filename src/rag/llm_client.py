@@ -5,10 +5,16 @@ Su única responsabilidad es enviar un prompt al LLM y devolver
 la respuesta generada.
 """
 
-from ollama import chat
+from dotenv import load_dotenv
+from groq import Groq
 import logging
+import os
+import re
+
 
 from src.core.config import MODELO_LLM
+
+load_dotenv()
 
 logger = logging.getLogger(__name__)
 
@@ -30,6 +36,8 @@ class LLMClient:
 
         self.modelo = modelo
 
+        self.client = Groq(api_key=os.getenv("GROQ_API_KEY"))
+
     def _consultar_modelo(
         self,
         prompt: str,
@@ -44,7 +52,7 @@ class LLMClient:
             Respuesta completa devuelta por Ollama.
         """
 
-        return chat(
+        return self.client.chat.completions.create(
             model=self.modelo,
             messages=[
                 {
@@ -52,6 +60,7 @@ class LLMClient:
                     "content": prompt,
                 }
             ],
+            temperature=0,
         )
 
     def generar_respuesta(
@@ -73,24 +82,41 @@ class LLMClient:
 
         try:
             respuesta = self._consultar_modelo(prompt)
+            
+            logger.debug("=" * 50)
+            logger.debug("Modelo: %s", self.modelo)
+            logger.debug("Prompt: %d tokens", respuesta.usage.prompt_tokens)
+            logger.debug("Respuesta: %d tokens", respuesta.usage.completion_tokens)
+            logger.debug("Total: %d tokens", respuesta.usage.total_tokens)
+            logger.debug("=" * 50)
+            
         except Exception as e:
             logger.exception("Error al comunicarse con el modelo de lenguaje.")
             raise RuntimeError("Error al comunicarse con el modelo de lenguaje.") from e
 
-        return respuesta.message.content
+        respuesta = respuesta.choices[0].message.content
+
+        respuesta = re.sub(
+            r"<think>.*?</think>",
+            "",
+            respuesta,
+            flags=re.DOTALL,
+        ).strip()
+
+        return respuesta
 
 
-if __name__ == "__main__":
+# if __name__ == "__main__":
 
-    llm = LLMClient()
+# llm = LLMClient()
 
-    while True:
+# while True:
 
-        pregunta = input("\nPregunta: ").strip()
+#     pregunta = input("\nPregunta: ").strip()
 
-        if not pregunta:
-            break
+#     if not pregunta:
+#         break
 
-        respuesta = llm.generar_respuesta(pregunta)
+#     respuesta = llm.generar_respuesta(pregunta)
 
-        logger.debug("\nRespuesta:\n%s", respuesta)
+#     logger.debug("\nRespuesta:\n%s", respuesta)

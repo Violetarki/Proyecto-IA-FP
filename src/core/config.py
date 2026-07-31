@@ -20,4 +20,4 @@ MINIMO_CHUNKS = 2
 MAXIMO_CHUNKS = 3
 
 # LLM
-MODELO_LLM = "gemma3:4b"
+MODELO_LLM = "qwen/qwen3.6-27b"
