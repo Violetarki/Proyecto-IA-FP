@@ -37,7 +37,12 @@ class Historial:
 
         conversaciones = self._cargar_historial()
         mensajes = conversaciones.get(id_conversacion, [])
-        logger.info("\nConversaciones cargadas\n")
+        
+        logger.debug(
+            "Se han recuperado %d mensajes para la conversación %s",
+            len(mensajes),
+            id_conversacion
+        )
         return [self._mensaje_desde_dict(mensaje) for mensaje in mensajes]
 
 
@@ -60,7 +65,10 @@ class Historial:
 
         historial = self.obtener_historial(id_conversacion)
 
-        logger.debug("Historial cargado:\n%S", historial[-max_mensajes:])
+        logger.debug(
+            "Historial cargado:\n%s",
+            historial[-max_mensajes:]
+        )
 
         return historial[-max_mensajes:]
 
