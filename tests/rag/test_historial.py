@@ -31,11 +31,11 @@ class TestHistorial(unittest.TestCase):
          )
 
         self.historial.agregar_mensaje(id_conversacion, mensaje)
-        self.historial.obtener_historial("123")
+        historial = self.historial.obtener_historial("123")
 
-        self.assertEqual(len(self.historial), 1)
-        self.assertIsInstance(self.historial[0], Mensaje)
-        self.assertEqual(self.historial[0], mensaje)
+        self.assertEqual(historial, [mensaje])
+        self.assertIsInstance(historial[0], Mensaje)
+        self.assertEqual(historial[0], mensaje)
 
         
     def test_agregar_varios_mensajes(self):
