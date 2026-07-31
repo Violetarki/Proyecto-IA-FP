@@ -1,12 +1,6 @@
-# Intro
+# 0. Introducción
 
-## Simulación empresarial
-
-Cristina Hernando Polo
-
-www.mhe.es/cf/administracion
-
-## Presentación
+## Presentación Simulación empresarial
 
 El futuro profesional de cualquier estudiante adoptará diferentes caminos, entre los cuales cada vez toma más fuerza la decisión de trabajar por cuenta propia. En este libro se da una respuesta clara y marcadamente orientada a la práctica, a las cuestiones con las que todo emprendedor se enfrenta, desde el inicio de la idea, hasta la meta más ambiciosa de internacionalizar su negocio.
 
@@ -30,7 +24,9 @@ Tu futuro profesional, a partir de este momento, tendrá solo los límites que t
 
 # 1. El emprendedor y el plan de empresa
 
-## En esta unidad aprenderemos a:
+## En esta unidad
+
+### aprenderemos a:
 
 - Evaluar las implicaciones que conlleva la elección de una idea de negocio.
 - Diferenciar entre lo que puede ser una simple idea de una idea de negocio factible.
@@ -44,7 +40,7 @@ Tu futuro profesional, a partir de este momento, tendrá solo los límites que t
 - Examinar las diversas facetas de la innovación empresarial (técnicas, materiales, de organización interna y externa, etc.), como fuentes de desarrollo económico y creación de empleo.
 - Seleccionar diferentes experiencias de innovación empresarial, describiendo y valorando los fac tores de riesgo asumidos en cada una de ellas.
 
-## Y estudiaremos:
+### Y estudiaremos:
 
 - La figura del empresario.
 - Factores que determinan la selección de ideas de negocio.
@@ -55,7 +51,7 @@ Tu futuro profesional, a partir de este momento, tendrá solo los límites que t
 - Factores de riesgo en la innovación empresarial: las facetas del emprendedor.
 - La tecnología como clave de la innovación empresarial.
 
-## Antoine de Saint-Exupery, autor de El Principito.
+### Antoine de Saint-Exupery, autor de El Principito.
 
 «Un montón de piedras dejan de ser un montón de piedras, desde que un solo hombre las contempla, dibujando dentro de sí la imagen de una catedral.»
 
@@ -63,7 +59,7 @@ Tu futuro profesional, a partir de este momento, tendrá solo los límites que t
 
 En este apartado vamos a analizar cómo distintos emprendedores de éxito fueron desarrollando una idea de negocio y los problemas a los que se enfrentaron para llevarla a cabo.
 
-## El Chupa Chups
+### El Chupa Chups
 
 Chupa Chups es una compañía dedicada a la fabricación y venta de caramelos con palo. La historia se remonta a 1958, cuando Enric Bernat, propietario de una tienda de caramelos en Asturias, tuvo la idea de añadirle un palo. La iniciativa surgió tras observar que los niños se sacaban los caramelos de la boca cada cierto tiempo, al notar un excesivo dulzor, pringándose las manos.
 
@@ -77,7 +73,7 @@ Hasta 1997 se han vendido 40000 millones de Chupa Chups en todo el mundo. Inclus
 
 Este caso ilustra que la innovación de un producto de éxito se basa en la observación de las necesidades insatisfechas. En este caso, tanto las necesidades de los niños, como de sus padres, ya que unos consumen el producto, pero son otros quienes lo compran.
 
-## La fregona
+### La fregona
 
 No siempre las ideas creativas y originales han sido un éxito. Tal fue el caso de la fregona en sus inicios.
 
@@ -97,7 +93,7 @@ Manuel Jalón, sin embargo, no se desanimó y siguió esforzándose para mejorar
 
 Igual que con el Chupa Chups, la fregona se inventó gracias a una necesidad detectada pero también al mejorar productos que ya había en el mercado. En ambos casos, el producto se mejoró, se añadieron cambios que los hicieron más prácticos y útiles. En eso consiste innovar. Innovar no siempre implica crear algo nuevo; de hecho, la mayor parte de las veces innovar supone mejorar lo que ya existe. Y esa es la base del progreso y del desarrollo humano.
 
-## La bombilla
+### La bombilla
 
 Thomas Alva Edison ha pasado a la historia como el inventor de la bombilla, sin embargo no es exacto. Muchos inventores habían trabajado previamente en esta idea, sin conseguir resultados satisfactorios. Los filamentos de la bombilla se quemaban, razón por la cual ni siquiera llegaron a registrar su idea.
 
@@ -109,7 +105,7 @@ Esa es la mentalidad de un emprendedor, no desanimarse ante las dificultades; pe
 
 Como dijo el mismo Edison en otra ocasión: «Muchos fracasos de la vida han sido de hombres que no supieron darse cuenta de lo cerca que estaban del éxito cuando se rindieron».
 
-## Reflexiona
+### Reflexiona
 
 1. ¿Cuál es la clave de que la idea inicial de Enríe Bernat funcionara y la de Manuel Jalón no?
 2. ¿Qué rasgos de personalidad comunes podemos atribuir a estos dos emprende dores?
@@ -121,23 +117,23 @@ En este apartado vamos a recordar algunos conceptos que te serán útiles para r
 
 iniciativa, creatividad, emprendedor, innovación, frustración, logotipo, idea, hueco de mercado, plan de empresa, necesidades, riesgo, utilidad, ubicación, tecnología
 
-## A. Emprendedor
+### A. Emprendedor
 
 Un emprendedor es una persona que identifica oportunidades de negocio y organiza los recursos necesarios para aprovechar estas circunstancias.
 
 Los emprendedores pueden ser trabajadores por cuenta propia, que crean su propia empresa y se convierten por tanto en empresarios; o trabajadores por cuenta ajena; esto es, trabaja dores asalariados de gran valía para la empresa, que realizan su actividad en el marco de la misma. Las empresas tratan de identificar a estos emprendedores internos o intraemprendedores y aprovechar su potencial en beneficio de la compañía.
 
-## Ejemplo 1. Emprendedores por cuenta ajena
+#### Ejemplo 1. Emprendedores por cuenta ajena
 
 Uno de los ejemplos de emprendedores por cuenta ajena en España, tenemos el conocido caso de José Ignacio López de Arriortúa, alias «Superlópez», ingeniero industrial vasco que trabajó para Firestone y Opel. Su buena gestión le llevó a ser contratado por General Motors, cuando esta empresa americana se instaló en nuestro país. En poco tiempo, Superlópez consiguió revertir la situación de números rojos de la empresa y mejorar su rentabilidad. Donde, gracias a la implantación del sistemaJustin time, Volkswagen advirtió su potencial y le contrató.
 
 Los emprendedores por cuenta ajena son muy valorados en las empresas, ya que vuelcan su potencial creativo y su iniciativa en la compañía para la que trabajan. Por eso, las empresas tratan de aprovechar e incentivar todo su potencial. Es el caso de Google, que permite a sus trabajadores disponer de un 20% de su tiempo laboral en proyectos personales que mejoren el funcionamiento de la compañía. O Hackaton, un concurso de Facebook que premia las mejores ideas de sus trabajadores.
 
-## Actividades
+#### Actividades
 
 1. Realiza una tabla con las ventajas e inconvenientes de emprender por cuenta propia frente a hacerlo por cuenta ajena.
 
-## Cualidades del emprendedor
+#### Cualidades del emprendedor
 
 Ser emprendedor es una cualidad esencial en un empresario, junto con la innovación y la capacidad de organización y gestión. Pero, ¿cuáles son las cualidades deseables en un emprendedor? (Fig. 1.1).
 
@@ -145,7 +141,7 @@ Con inquietudes Observador Tolera la frustración Previsor Auto-motivado Acepta 
 
 Fig. 1.1. Cualidades del emprendedor.
 
-## Ejemplo 2. Juventud y emprendeduría: Pep Gómez
+#### Ejemplo 2. Juventud y emprendeduría: Pep Gómez
 
 Entre las cualidades del emprendedor, aún no hemos mencionado la formación específica en su sector profesional, ni conocimientos de gestión, contabilidad, dirección de personal o las dificultades de la constitución de una empresa. Nada de eso es imprescindible, ya que se puede aprender a medida que la complejidad del negocio lo requiere. Así lo ilustra el caso de Pep Gómez, empresario español que se inició con tan solo 14 años creando una especie de Twitter para empresas. Con 18 años, Google le contrató y recientemente acaba de constituir su cuarta empresa, todas ellas vinculadas a Internet. Puedes leer más información acerca de este empresario en estos artículos de prensa:
 
@@ -157,35 +153,35 @@ El caso de Pep Gómez no es un caso frecuente en nuestro país, pero tampoco es 
 
 http://economia.elpais.com/economia/2012/09/21/actualidad/1348238953\_210022.html
 
-## B. Idea de negocio
+### B. Idea de negocio
 
 Una idea es el punto de partida de todo proyecto empresarial. Ahora bien, ¿cómo saber qué es una buena idea? Es difícil de decir, aunque hay cualidades de la idea o del emprendedor que pueden aumentar las posibilidades de éxito de la misma. Así, un emprendedor que observa las necesidades insatisfechas de la sociedad o que prevé los cambios en el entorno o que intuye las tendencias del mercado, tiene más posibilidades de detectar oportunidades de negocio. De la misma manera, una idea original, si además resulta útil, tiene más posibilidades de prosperar.
 
 Hay dos características que favorecen el éxito de una idea empresarial: que la idea sea útil y que sea innovadora.
 
-## Idea útil
+#### Idea útil
 
 Una idea útil es aquella que satisface necesidades en el consumidor. De esta manera, los clientes estarán dispuestos a comprar nuestro producto frente a otras opciones de la competencia. La observación o el estudio de mercado es, por tanto, un paso importante en la selección de una buena idea de negocio.
 
 Estas necesidades no tienen por qué ser reales; basta con que sean sentidas o percibidas como necesarias por el cliente. Incluso, en caso de no serlo, es la compañía quien creará esa necesidad subjetiva en el cliente. Así, sintetizaba Steve Jobs, uno de los creadores de Apple, este principio básico del marketing: «La gente no sabe lo que necesita hasta que se le muestra».
 
-## Ejemplo 3. Idea útil
+#### Ejemplo 3. Idea útil
 
 Una idea útil que está comercializándose actualmente es una tarjeta plástica que permite guardar todas las contraseñas que utilizamos para navegar por Internet. Están encriptadas por si fuera robada y también permite importar y exportar certificados digitales.
 
 Las necesidades insatisfechas generan oportunidades de negocio, en otras palabras, nichos o huecos de mercado. El emprendedor debe estar muy atento a la evolución de la sociedad para detectarlas.
 
-## Ejemplo 4. Los «solteros»
+#### Ejemplo 4. Los «solteros»
 
 Un hueco de mercado actual son los solteros. Se está convirtiendo en objeto de atención preferente para algunas empresas, que tratan de responder a su necesidad de buscar pareja o de resolver problemas de la vida cotidiana. Así, hay agencias de viaje especializadas en este colectivo o páginas web que facilitan encuentros sentimentales o empresas que se encargan de realizar la colada y la plancha a estas personas.
 
 Puedes leer más al respecto en el blog de Mc raw-Hill: http://www.fpemprendedores.es, en la entrada: «Solteros, un nuevo yacimiento de ideas emprendedoras».
 
-## Actividades
+#### Actividades
 
 2. Otro hueco de mercado son los kidadults. Busca información sobre quiénes integran este colectivo y sobre el tipo de productos o servicios que las empresas les ofrecen.
 
-## Idea innovadora
+#### Idea innovadora
 
 En unos mercados saturados de productos, es decir, con mucha competencia, la necesidad de diferenciarse es esencial para ganar terreno frente a la competencia. Por ejemplo, una cafetería puede ofrecer un bombón con cada café, tener un gran surtido de prensa diaria o una extensa carta de tés.
 
@@ -200,11 +196,11 @@ La innovación tiene tanta trascendencia que las empresas tratan de contar con u
 
 Fig. 1.2. Tipos de innovación.
 
-## Ejemplo 5. Idea innovadora que se comercializa en EE.UU.
+#### Ejemplo 5. Idea innovadora que se comercializa en EE.UU.
 
 Un inhalador de alimentos calóricos de la marca Vaportrim para personas que quieren controlar su peso. El aroma viene encerrado en un tubo hermético que se abre cuando las ganas de comer superan los buenos propósitos. El aroma engaña al cerebro reprimiendo las ganas de comer. O eso dicen...
 
-## Actividades
+#### Actividades
 
 3. Realiza una tabla con las ventajas e inconvenientes de lanzar un producto nuevo o modificar uno ya existente en el mercado.
 4. El método Just in time supuso una revolución en la producción de automóviles. Este innovador sistema de proceso se puso en marcha por primera vez en la fábrica japonesa de Toyota, relevando así el modelo clásico de producción en serie que se había implantado por primera vez en la empresa Ford y que había supuesto una verdadera revolución en el proceso de fabricación de un coche.
@@ -213,11 +209,11 @@ Lee la siguiente información e identifica cinco características de este sistem
 
 También puedes leer la biografía de Henry Ford para conocer más sobre el sistema de producción en serie: http://www.biografiasyvidas.com/monografia/ford/ford_t.htm
 
-## Recuerda
+#### Recuerda
 
 La originalidad y creatividad de una idea no garantizan su éxito. Tiene que ser útil, necesaria. Y si no lo es, hay que crear esa necesidad en el consumidor.
 
-## C. Plan de empresa
+### C. Plan de empresa
 
 Un plan de empresa es el documento donde se desarrolla de forma sintética pero exhaustiva toda idea de negocio. Este plan incluye a su vez, otros documentos adicionales, como: el estudio de mercado, el plan de producción, el plan de marketing o el plan financiero.
 
@@ -267,7 +263,7 @@ En esta primera unidad vamos a comenzar por pensar una idea y darle forma hasta 
 1. Elaboración de la idea de negocio.
 2. Socios y trayectoria profesional.
 
-## Fases de la Simulación empresarial
+### Fases de la Simulación empresarial
 
 - Fase 1. Generación de ideas
 
@@ -285,7 +281,7 @@ En esta primera unidad vamos a comenzar por pensar una idea y darle forma hasta 
 
 - Fase 8. Perfil de los socios
 
-## Fase 1. Generación de ideas
+### Fase 1. Generación de ideas
 
 Dar con una idea de negocio es la primera fase de trabajo en el desarrollo de un plan de empresa y una de las cuestiones más difíciles, en la que hay que poner en juego altas dosis de creatividad.
 
@@ -302,19 +298,19 @@ El brainstorming se basa en los siguientes principios:
 
 La idea de negocio puede consistir en la prestación de un servicio o en la comercialización de un producto. Se puede partir de una necesidad insatisfecha o de la implementación de una idea que funciona con éxito en otro país, aunque en este segundo caso hay que tener en cuenta las diferencias sociales y culturales.
 
-## Ejemplo 6. Empresas innovadoras en prestación de servicios
+#### Ejemplo 6. Empresas innovadoras en prestación de servicios
 
 - Rapimoto. Esta empresa ofrece un servicio de chófer para aquellas noches en que la in gesta de alcohol impida conducir de vuelta a casa. La empresa se encarga de enviar un conductor al lugar que se le indica. Este se presenta en una moto plegable que guarda en el maletero del coche del cliente y conduce para llevar al cliente a su domicilio. Una vez allí, la moto le permitirá volver a desplazarse a un nuevo servicio. Se trata de un original servicio que ya existía con éxito en Londres, pero aquí era novedoso.
 - 8belt. Es un portal español dedicado a la enseñanza del chino mandarín, una demanda que está en creciente auge.
 - SpartanBits. Esta empresa diseña aplicaciones para móviles. Su mayor éxito es la aplicación olChat, un chat para Facebook con características similares al WhatsApp.
 
-## Ejemplo 7. Empresas innovadoras en fabricación y venta de productos
+#### Ejemplo 7. Empresas innovadoras en fabricación y venta de productos
 
 - Bebés ecológicos. Esta empresa se dedica a la venta de ropa y pañales para bebé, realiza dos con algodón biológico y fácilmente degradable.
 - Lamejornaranja.com. Produce, distribuye y vende cítricos a través de la web, una manera creativa de mantener un modelo de negocio clásico, con una innovación de proceso que permite abaratar el coste del producto al reducir los intermediarios.
 - Flores frescasxorn. Se dedica al envío de un ramo de flores frescas a domicilio cada mes. El pedido se puede complementar con otros elementos, como champán, peluches o bombones.
 
-## Actividad de simulación 1
+#### Actividad de simulación 1
 
 Reúnete con tus socios y lanzad conjuntamente todas las propuestas de negocio que os surjan, siguiendo la técnica del brainstorming. Recuerda que el objetivo es generar ideas, no valorarlas ni descartarlas, lo que se realizará en la siguiente fase.
 
@@ -327,7 +323,7 @@ Podéis consultar las siguientes páginas web, si necesitáis inspiración:
 - www.emprendedores.es: sección Ideas, apartados Oportunidades de Negocio y Las últimas tendencias. Análisis de empresas de reciente aparición que aprovechan nichos del mercado en el área de la formación de idiomas, desarrollo de aplicaciones para móviles, etc.
 - http://www.rtve.es/television/fabricadeideasdetve: programa de televisión donde un emprendedor es entrevistado por potenciales inversores para que exponga y desarrolle las fortalezas de su idea de negocio.
 
-## Fase 2. Selección de la mejor idea
+### Fase 2. Selección de la mejor idea
 
 A continuación, hay que elegir la idea que se considera con más probabilidades de éxito. Para ello, habrá que valorarlas una a una en función de unos criterios previamente establecidos, según lo que prioricen los socios, como por ejemplo, alta rentabilidad o escasa competencia. A continuación, te presentamos una tabla que puede servir de muestra de cómo realizar este proceso.
 
@@ -343,7 +339,7 @@ A continuación, hay que elegir la idea que se considera con más probabilidades
 | Complejidad de la legislación aplicable: poca normativa que limite la actividad económica |
 | Puntuación total |
 
-## ¿Cómo sé que mi idea de negocio es buena?
+#### ¿Cómo sé que mi idea de negocio es buena?
 
 1. Piensa si tienes claro el producto o servicio que vas a poner en el mercado.
 2. Piensa en tus clientes, a quién le puede resultar útil tu producto o servicio.
@@ -353,17 +349,17 @@ A continuación, hay que elegir la idea que se considera con más probabilidades
 
 Fuente: Instituto Municipal de Empleo del Ayuntamiento de Valladolid.
 
-## Actividad de simulación 2
+#### Actividad de simulación 2
 
 Reúnete con tus socios y cread una tabla similar, en la que anotéis todas las ideas surgidas en la fase anterior y los criterios que consideréis más importantes. Valoradlas, una a una, en base a cada criterio, otorgándoles una puntuación de 0 a 10.
 
 La idea que tenga una mayor puntuación total será vuestra idea de negocio, que desarrollaréis a lo largo del resto de las unidades del libro.
 
-## Fase 3. Objeto social de la empresa
+### Fase 3. Objeto social de la empresa
 
 El propósito de esta fase es concretar la idea empresarial determinando a qué se va a dedicar la empresa. En la Unidad 2 habrá que enumerar todos los productos y servicios que ofrece, cuando se redacte el plan de producción. De momento, basta con una exposición razonada de la idea empresarial; es decir: las necesidades que satisface, las innovaciones que se aportarán y la situación que justifica este hueco del mercado.
 
-## Ejemplo 8. «Customización»
+#### Ejemplo 8. «Customización»
 
 Una idea de negocio en auge reciente es la personalización o «customización» de los productos. Es una idea que se aplica con éxito a los automóviles, el llamado tuneado, aunque también a otros objetos de consumo habitual. Es el caso de la empresa Nikeid, especializada en «customizar» las playeras Nike, o de Carmen Romero, que crea murales personalizados para las paredes de las casas de sus clientes.
 
@@ -376,21 +372,21 @@ Esta idea se aplica ya desde hace tiempo en el marketing, que deja de estar cent
 
 Además, es conveniente añadir las razones que llevaron a los socios a crear ese negocio. Esto ayuda a las personas que leerán el plan de empresa (es decir, a tus futuros inversores) a dar más credibilidad a la idea.
 
-## Ejemplo 9. Origen de Mi puf.es
+#### Ejemplo 9. Origen de Mi puf.es
 
 Un matrimonio se dedicaba a ofrecer productos originales en tiendas tradicionales de deco ración, pero no estaban satisfechos con la demanda que tenían sus productos. De modo que decidieron diseñarlos y distribuirlos ellos mismos, al tiempo que se focalizaban solo en pufs, sofás y taburetes con la característica de que cada producto es único, porque el cliente lo confecciona según sus preferencias.
 
-## Actividad de simulación 3
+#### Actividad de simulación 3
 
 Concreta el objeto social de vuestra empresa: qué bienes o servicios vais a comercializar, necesidades que se satisfacen, innovaciones que os diferenciarán de la competencia, situación que justifica este hueco del mercado y todo lo que se os ocurra que haga la idea más vendible de cara a futuros inversores.
 
-## Fase 4. Elección de nombre y logotipo
+### Fase 4. Elección de nombre y logotipo
 
 Es importante reflexionar despacio el nombre y el logotipo ya que ambos elementos, junto con el eslogan, identificarán a la empresa frente a los consumidores y crearán en su mente una determinada imagen corporativa (elegante, juvenil, divertida, actual, etc.).
 
 El eslogan o lema publicitario es una frase identificativa de un producto o marca, utiliza da con fines comerciales (aunque también pueden ser políticos). Se basa en la expresión repetitiva de una idea para afianzarla en la mente del consumidor.
 
-## Criterios para la elección del nombre
+#### Criterios para la elección del nombre
 
 El nombre debería seguir las siguientes reglas para ser eficaz:
 
@@ -399,7 +395,7 @@ El nombre debería seguir las siguientes reglas para ser eficaz:
 - c) La tipografía y los colores de la fuente deben estar acordes con la imagen corporativa.
 - d) Debe captar la atención.
 
-## Ejemplo 10. Modos de elección de nombres
+#### Ejemplo 10. Modos de elección de nombres
 
 - Acrónimos
 
@@ -425,7 +421,7 @@ Hay quien prefiere contravenir las normas establecidas para llamar la atención.
 
 A veces, el nombre es azaroso, como Apple, que surgió mientras Steve Jobs se comía una manzana, de ahí que el logotipo incluya hasta el mordisco. O Carrefour (término francés para encrucijada), ya que la primera tienda estaba en un cruce de caminos. O Lotus, inspirado en el loto, puesto que el fundador era profesor de meditación.
 
-## Criterios para el diseño del logotipo
+#### Criterios para el diseño del logotipo
 
 El logotipo debería seguir las siguientes reglas para ser eficaz:
 
@@ -438,11 +434,11 @@ El logotipo debería seguir las siguientes reglas para ser eficaz:
 
 Fig. 1.4. A veces, el nombre, logotipo y eslogan de la empresa están perfectamente coordinados, como en el caso de LG
 
-## Ejemplo 11. Modos de elección de logotipos
+#### Ejemplo 11. Modos de elección de logotipos
 
 Los ejemplos siguientes ilustran estas características. Observa cómo representan la idea de la empresa en blanco y negro y con asombrosa simplicidad y escasez de colores. (ver imágenes libro p.20)
 
-## Evolución de los logotipos
+#### Evolución de los logotipos
 
 La mayoría de las marcas han ido reduciendo la longitud de sus nombres, así como simplificando sus logotipos. Así, Hewlett Packard ahora es HP o Kentucky Fried Chicken prefiere ser KFC. Sus logotipos han evolucionado igualmente hacia formas más simples, de menor colorido y con un tipo de letra menos elaborada, lo que abarata los costes de reproducción y simplifica la imagen que se quiere que retenga el cliente.
 
@@ -466,7 +462,7 @@ Esta productora eligió como logotipo un carrete de 35 mm. También expresa la s
 
 Fig. 1.7. Algunos logotipos y su significado. (ver libro p. 21)
 
-## Actividad de simulación 4
+#### Actividad de simulación 4
 
 Reúnete con tus socios. Tenéis que elegir un nombre para vuestro negocio y después diseñar el logotipo. Podéis realizarlo a mano y escanearlo o ayudaros de herramientas informáticas, como estas páginas web gratuitas que posibilitan realizar multitud de diseños personalizados:
 
@@ -494,11 +490,11 @@ En Logoestslo, una compañía dedicada al diseño de la imagen corporativa de un
 - http://www.logoestilo.com/ejemplos-logos/compramix
 - http://www.logoestilo.com/ejemplos-manual-corporativo/lacommunite
 
-## Fase 5. Ubicación del negocio
+### Fase 5. Ubicación del negocio
 
 La localización de la empresa es un elemento a tener en cuenta. A veces, la ubicación es esencial; otras veces, sin embargo, puede ser intrascendente (como en los negocios on-line). Cuando elegimos qué producto vamos a comercializar, también estamos decidiendo a quién se lo vamos a vender. Conocer a nuestro cliente es fundamental para decidir dónde le con vendría más adquirir nuestro producto. La ubicación de la empresa puede representar el éxito o fracaso de un negocio, ya que acerca o aleja al cliente.
 
-### Ejemplo 12. La importancia de la ubicación
+#### Ejemplo 12. La importancia de la ubicación
 
 Ray Kroc, el fundador de McDonald's, comentaba que los tres factores más importantes para el éxito de un negocio son: «ubicación, ubicación y ubicación». Un producto estrella, una marca reconocida o precios competitivos no servirían de nada si el producto es difícil de adquirir o el comprador tiene que realizar un esfuerzo en conseguirlo. Ello puede suponer, por ejemplo, tiempo en llegar al lugar, en aparcar, en localizar el negocio, etc.
 
@@ -514,7 +510,7 @@ Estos son algunos de los factores que se deben tener en cuenta en la elección d
 - Proximidad a lugares de ocio (cines, museos, hoteles, restaurantes, etc.) o a zonas peatonales susceptibles de atraer personas con tiempo libre, ya que el negocio gana visibilidad y puede recibir visitas fortuitas de transeúntes desocupados. Analiza quiénes pasan por delante de tu futuro negocio, a qué horas y con qué motivo.
 - La originalidad es una premisa que puede garantizar el éxito si se cuida y no se lleva hasta la excentricidad. Un negocio sorprendente provocará un rápido boca a boca y atraerá a consumidores ávidos de probar algo nuevo y diferente.
 
-## Actividad de simulación 5
+#### Actividad de simulación 5
 
 Debes decidir dónde ubicar la empresa, especificando la calle, el número y la localidad. Al final de las actividades de simulación de esta unidad didáctica, en el apartado Plan de empresa tendrás que añadir una foto de Google Maps con vuestra localización.
 
@@ -522,7 +518,7 @@ Ayuda práctica:
 
 Decide primero quiénes son vuestros clientes objetivo y, en función de ello, dónde localizarás tu negocio. Es importante que la elección resulte justificada. Así, si se trata de una tienda de ropa puede ser adecuado situarlo en una zona urbana, céntrica y peatonal, con transporte público cercano o facilidad para el aparcamiento. En cambio, si se trata de una empresa de bricolaje, puede ser aconsejable situarla en las afueras de una ciudad, por el menor coste del solar y, por tanto, las posibilidades de tener un almacén grande sin gran desembolso económico. En este caso, habrá que considerar la accesibilidad de los camiones de reparto.
 
-## Fase 6. Diseño del espacio físico
+### Fase 6. Diseño del espacio físico
 
 La apariencia del local, interna y externa, influye en la decisión de compra, por lo que debe estar planificada.
 
@@ -532,7 +528,7 @@ En cuanto a la decoración del interior, debe reflejar el estilo del negocio, pr
 
 En lo que se refiere a la distribución del local, lo más importante es determinar qué áreas diferenciadas son necesarias, sin olvidar aquellos espacios menos evidentes que son también útiles, como el almacén, el cuarto de limpieza, los aseos privados, etc. En función de estas decisiones, habrá que plantearse las reformas precisas.
 
-## Ejemplo 13. Restaurantes de comida rápida
+#### Ejemplo 13. Restaurantes de comida rápida
 
 En las hamburgueserías de comida rápida, los rótulos exteriores están realizados en colores intensos: rojo, amarillo, azul. Se trata de los colores corporativos que fueron seleccionados porque llaman la atención del público joven a quien van dirigidos este tipo de establecimiento.
 
@@ -548,7 +544,7 @@ Los colores están divididos en fríos y calientes. Estos últimos son el amaril
 
 La elección de la música se hará acorde al gusto del cliente, lo que está bastante influido por su edad.También la Navidad condiciona un tipo de música tradicional que anima a la compra.
 
-## Actividad de simulación 6
+#### Actividad de simulación 6
 
 Dibuja el plano de vuestro negocio, teniendo en cuenta que debe ser proporcional a las dimensiones del local que hayáis decidido en la fase anterior. Realiza un boceto inicial en papel y después trata de hacerlo con alguna herramienta informática.
 
@@ -560,7 +556,7 @@ http://www.floorplanner.com/
 
 Después, busca fotos en Internet que se asemejen a la apariencia que queréis dar a vuestro local. Cuidad la elección de ambientes, de colores, mobiliario, iluminación, etc.
 
-## Fase 7. Motivos para emprender
+### Fase 7. Motivos para emprender
 
 Concretar los motivos que nos llevan a emprender un negocio, nos permite aclarar las diferentes expectativas que los socios pueden tener sobre este. Cuando hay varios socios, es importante aclararlo al inicio.
 
@@ -578,11 +574,11 @@ Algunas motivaciones para emprender pueden ser las que se exponen en la Tabla 1.
 
 Tabla 1.1. Motivos para emprender.
 
-## Actividad de simulación 7
+#### Actividad de simulación 7
 
 Comenta los motivos por los que desearías iniciar una actividad empresarial y busca puntos de encuentro con tus socios. Redacta una versión final que integre las coincidencias de la mayoría.
 
-## Fase 8. Perfil de los socios
+### Fase 8. Perfil de los socios
 
 Antes de seguir avanzando en la elaboración del plan de empresa, hay que valorar la idoneidad de los promotores. Y ello por dos motivos fundamentales:
 
@@ -602,7 +598,7 @@ La diferenciación y creatividad es una parte importante de la actividad empresa
 
 Tabla 1.2. Consejos para elaborar un curriculum vítae como socio de un negocio.
 
-## Actividad de simulación 8
+#### Actividad de simulación 8
 
 Elabora tu curriculum vitae y realízalo en la misma plantilla que tus socios, para dar coherencia al plan de empresa. Recuerda que no es un CV para una entrevista de selección, sino para que posibles inversores confíen en vuestra capacidad de dirigir un negocio.
 
@@ -610,7 +606,7 @@ Ayuda práctica:
 
 Aunque la juventud e inexperiencia puede ser una objeción, no es menos cierto que cada vez son más las empresas constituidas por gente joven, dada su creatividad, su gran capacidad de trabajo e implicación personal, su conocimiento de idiomas y de las nuevas tecnologías y su flexibilidad horaria, al carecer de cargas familiares.
 
-## Plan de empresa
+#### Plan de empresa
 
 Ha llegado el momento de sintetizar las ideas extraídas en estas primeras fases de la Simulación empresarial, para elaborar los primeros dos apartados de vuestro plan de empresa. Es el momento de cuidar la presentación y la formalidad en el estilo.
 
@@ -811,7 +807,9 @@ Plan de empresa:
 
 # 2. Estudio de mercado
 
-## En esta unidad aprenderemos a:
+## En esta unidad
+
+### aprenderemos a:
 
 - Identificar las principales características del sector empresarial en el que se desenvuelve la idea de negocio.
 - Señalar las oportunidades, amenazas, fortalezas y debilidades del negocio.
@@ -823,7 +821,7 @@ Plan de empresa:
 - Identificar las diferentes funciones dentro de la empresa.
 - Valorar la importancia de dotar a la empresa de la estructura adecuada para su pervivencia.
 
-## Y estudiaremos:
+### Y estudiaremos:
 
 - Entorno general.
 - La competencia.
@@ -834,7 +832,7 @@ Plan de empresa:
 - Responsabilidad social de la empresa: la ética en los negocios.
 - Análisis DAFO.
 
-## Steve Jobs, cofundador de Apple.
+### Steve Jobs, cofundador de Apple.
 
 «No puedes preguntarle a los consumidores qué quieren y luego pretender dárselo. En el tiempo que has estado fabricándolo, ellos querrán una cosa nueva.»
 
@@ -842,7 +840,7 @@ Plan de empresa:
 
 En este apartado vamos a analizar cómo la empresa Panrico ha tratado de adaptar su producto estrella, Donuts, a los requerimientos del mercado: las acciones de la competencia y las nuevas necesidades de los consumidores.
 
-## Donuts cambia su envase
+### Donuts cambia su envase
 
 Los Donuts fueron, desde el primer momento, el producto estrella de Panrico. Sus campañas publicitarias fueron igualmente populares. En una de las más conocidas, un colegial se olvidaba la cartera con los libros y la merienda en casa; de camino al colegio se daba cuenta y gritaba el conocido eslogan: «¡Anda, los Donuts! ¡Anda, la cartera!».
 
@@ -854,7 +852,7 @@ Muchos consumidores creen que se trata del mismo producto. Panrico reacciona den
 
 A pesar de ello, Panrico ve cómo la competencia va ganando terreno y opta por innovar. Ha observado que la bollería industrial se vende en paquetes individuales de plástico. Y deciden cambiar el tradicional envase de los Donuts por otro más duradero, higiénico, resistente e individual.
 
-## La empresa funciona como un todo
+### La empresa funciona como un todo
 
 Este cambio, en apariencia sencillo, supuso un problema para la empresa. Había que dar con un sistema donde todos los elementos funcionaran de manera coordinada, ya que el cambio de envasado no afecta solo al departamento de producción, sino a la totalidad de la empresa.
 
@@ -866,7 +864,7 @@ Este cambio, en apariencia sencillo, supuso un problema para la empresa. Había 
 
 La inversión final fue de 35 millones. Dos meses después del lanzamiento, las ventas habían crecido un 30%. Sin embargo, un año después, la empresa estaba al borde de la quiebra: no podía pagar sus deudas.
 
-## Las causas de un fracaso
+### Las causas de un fracaso
 
 Con este cambio, la marca había traicionado el atributo fundamental del Donut, el que llevaban repitiendo durante décadas: el «Donut tierno, elaborado cada día». El consumidor se preguntó:
 
@@ -880,7 +878,7 @@ Fueran percepciones reales o no, los consumidores dejaron de confiar en Donuts y
 2. Las campañas por una alimentación saludable y contra la obesidad infantil han supuesto un rechazo de la bollería industrial. El Donuts, con su nuevo envase, deja de percibirse como un producto «sano» de panadería y, en su lugar, se compran productos sustitutivos: cruasanes, magdalenas, etc.
 3. Las mejoras tecnológicas han posibilitado la venta de productos ultracongelados similares en grandes supermercados. De modo que el precio se abarata.
 
-## La reacción al rechazo: dar marcha atrás
+### La reacción al rechazo: dar marcha atrás
 
 En 2012 y aprovechando el 50 aniversario de la marca se inició una potente campaña mediática basada en la idea: «Donuts vuelve a hacerlo. Vuelve el original. Con todo su sabor. Donuts: 50 años, y tan frescos». El eslogan que resume su acción comunicativa es: vuelve el Donuts tradicional.
 
@@ -890,7 +888,7 @@ La campaña de marketing ideó un anuncio de televisión que revocara el sentimi
 
 Y continúan los esfuerzos. Panrico sigue luchando por cambiar la mala imagen generada en los consumidores. Cada año invierte alrededor de un 7% de sus ventas netas en publicidad, lo que suma más de 6 millones de euros al año en los últimos ejercicios. ¿Obtendrán los resultados esperados?
 
-## Reflexiona
+### Reflexiona
 
 1. En el texto se apuntan algunos beneficios del nuevo envase. Piensa otros motivos que afecten favorablemente al consumidor y no se hayan mencionado.
 2. Razona si, a priori, el cambio de envase parecía acertado y por qué.
@@ -902,7 +900,7 @@ En este apartado vamos a recordar algunos conceptos que te serán útiles para r
 
 departamentos, plan de producción, ética empresarial, plan de marketing, organigrama, mercado, DAFO, competencia, proveedores, clientes, distribuidores, entorno
 
-## A. La empresa es un sistema
+### A. La empresa es un sistema
 
 Entendemos un sistema como un conjunto integrado por varios elementos que actúan de manera sinérgica para conseguir unos mismos objetivos, influyendo y siendo influidos por el entorno.
 
@@ -916,11 +914,11 @@ Concebir a la empresa como un sistema implica aceptar tres principios fundamenta
 
 Esta perspectiva de la empresa como sistema es importante, ya que antes de tomar cualquier decisión, las empresas tendrán que analizar si el contexto es favorable, o no, a ese cambio, qué efecto va a tener a nivel interno y cuál va a ser la reacción del entorno cercano: dientes, competencia y proveedores.
 
-### Ejemplo 1. El caso de Donuts
+#### Ejemplo 1. El caso de Donuts
 
 En el caso analizado de Donuts en el apartado de Emprendedores, hemos visto cómo los resultados económicos fueron negativos, debido a que no se anticipó la reacción adversa de algunos clientes y a que no previo la crisis y la contracción económica que tuvo lugar.
 
-## Actividades
+#### Actividades
 
 1. En muchos supermercados se está implantando el sistema de autopago, de modo que son los clientes los que escanean su compra y luego pagan con tarjeta.
 
@@ -928,13 +926,13 @@ En el caso analizado de Donuts en el apartado de Emprendedores, hemos visto cóm
 - b) Señala los aspectos generales del contexto socio-económico y político que pudieron tener en cuenta para valorar la conveniencia del cambio.
 - c) Indica las reacciones más probables de los proveedores, competencia, clientes y distribuidores.
 
-## B. Entorno
+### B. Entorno
 
 La empresa es un sistema que, a su vez, forma parte de otro sistema más amplio, de un en torno complejo y dinámico que puede resultar beneficioso u hostil a la empresa.
 
 Con entorno hacemos referencia a todo aquello que rodea a la empresa (en el ámbito económico, sociocultural, político, legal, tecnológico o medioambiental). Generalmente se diferencia entre el macroentorno o entorno general y microentorno o entorno específico.
 
-## Macroentorno o entorno general
+#### Macroentorno o entorno general
 
 El macroentorno o entorno general se refiere a aquellos factores que influyen en la empresa y que esta no puede controlar, y que afecta por igual a todas las empresas de una misma área geográfica. Su influencia en los resultados empresariales no suele ser tan importante como la del entorno específico o microentorno, pero aun así hay que tener en cuenta estos factores. Recordemos que, a su vez, las empresas también influyen en el entorno general, por ejemplo, generando un cambio legal o modificando los hábitos de la sociedad.
 
@@ -948,25 +946,25 @@ Los factores que definen el macroentorno son: económicos, socioculturales, pol�
 
 Fig. 2.1. Factores del entorno general.
 
-## Microentorno o entorno específico
+#### Microentorno o entorno específico
 
 Representa al entorno inmediato de la empresa. Su influencia mutua es mucho más clara y directa. Sus principales componentes son: clientes, competencia, proveedores y distribuidores. El análisis de estos elementos constituye el estudio de mercado, como veremos a continuación.
 
-## Actividades
+#### Actividades
 
 2. Vuelve a leer los cinco factores que determinan el entorno general de la empresa y busca dos ejemplos de cada uno de ellos.
 
-## C. El estudio de mercado
+### C. El estudio de mercado
 
 El estudio de mercado permite realizar a la empresa un análisis del poder de compra de los consumidores, las acciones de la competencia y la disponibilidad de proveedores y distribuidores, con el objetivo de conocer la viabilidad de una actividad económica. Las conclusiones finales suelen reflejarse esquemáticamente en un análisis DAFO.
 
-## Consumidores
+#### Consumidores
 
 La empresa analiza a sus consumidores con el fin de poder acercar la oferta a la demanda. Para ello, agrupa a los posibles consumidores en segmentos similares, tales como edad, sexo, nivel económico, ocupación, valores culturales, hábitos de compra, etc. y selecciona aquel o aquellos segmentos que pueden estar más interesados en adquirir sus productos.
 
 Segmentar es una forma de dividir a los consumidores potenciales en grupos con características en común y que comparten necesidades similares.
 
-## Ejemplo 2. La segmentación de mercado de LEGO
+#### Ejemplo 2. La segmentación de mercado de LEGO
 
 Los productos de la empresa LEGO han estado tradicionalmente enfocados a un segmento de población muy concreto: niños de edades comprendidas entre los 6 y los 16 años. De forma que los segmentos establecidos por esta empresa serían:
 
@@ -975,7 +973,7 @@ Los productos de la empresa LEGO han estado tradicionalmente enfocados a un segm
 - Clase socio-económica: cualquiera, ya que su oferta incluye construcciones más modestas y otras más caras.
 - Ámbito geográfico: mundial, con mayor incidencia en zonas urbanas, donde los niños pasan menos tiempo en la calle y necesitan actividades entretenidas y tranquilas en casa.
 
-## Tipos de mercados
+#### Tipos de mercados
 
 Los tres tipos de mercados (consumidores) que contempla la empresa en el marco de un estudio de mercado, son:
 
@@ -987,29 +985,29 @@ Cuando el público objetivo compra su producto, dejan de ser mercado objetivo pa
 
 3. El mercado actual está compuesto por quienes, efectivamente, compran el producto de la empresa.
 
-## Ejemplo 3. Tipos de mercados
+#### Ejemplo 3. Tipos de mercados
 
 - El mercado potencial de una marca de secadores incluiría tanto los que compran secadores de otras marcas, como los que no los compran, tales como niños, personas calvas, etc.
 - El mercado objetivo de la empresa LEGO actualmente es el público infantil femenino. Por ello, han lanzado recientemente una línea exclusiva de LEGOS para niñas, denominada LEGO Friends, que está adaptada los gustos intereses de este segmento del mercado.
 - El mercado actual no siempre es fácil de mantener, como se percibe en el caso de LEGO, ya que los niños que hace 15 años compraban estas construcciones son ahora adultos. No obstante, la compañía trata de recuperarlos con el lanzamiento de unas construcciones más caras, ya que se trata de diseños complejos más cercanos su gusto, como son las inspiradas en la película la Guerra de las Galaxias.
 
-## Actividades
+#### Actividades
 
 3. La compañía Iberia ha decidido cerrar algunas de sus rutas habituales que ya está cubriendo el AVE, para ahorrar costes. ¿Cuál es el mercado potencial que espera conseguir Iberia con esta medida? Para responder la pregunta, puedes consultar el siguiente enlace: http://bitiy/SdykU9.
 
 Fuente: El Economista. Madrid, 31 de octubre de 2012 [en línea]
 
-## Cuota de mercado
+#### Cuota de mercado
 
 Dentro del mercado potencial, la empresa priorizará a los clientes de la competencia, puesto que ellos ya sienten la necesidad de adquirir el producto o servicio. Cuando la empresa gana parte de estos clientes aumenta su cuota de mercado.
 
 Cuota de mercado = Mercado objetivo x 100 / Mercado total
 
-## Ejemplo 4. Cálculo de la cuota de mercado en Movistar
+#### Ejemplo 4. Cálculo de la cuota de mercado en Movistar
 
 La cuota de mercado de Movistar se obtiene dividiendo el número de clientes de Movistar entre el número de clientes de cualquier operadora de móviles (incluyendo Movistar). El mercado actual son los clientes que utilizan Movistar. El mercado potencial, todos los que no utilizan Movistar e incluso aquellos que no tienen móvil pero podrían adquirirlo. El mercado objetivo es el segmento del mercado potencial al que Movistar dirigirá su estrategia comercial para intentar captarlos como clientes.
 
-## Actividades
+#### Actividades
 
 4. La filial española de Mercedes-Benz tiene la previsión a medio plazo de alcanzar una cuota de mercado del 10% en el segmento de los vehículos comerciales ligeros con el lanzamiento del nuevo Citan, del que prevé comercializar unas 8000 unidades anuales. Para más información puedes consultar este enlace: http://bit.ly/11bz543.
 
@@ -1017,7 +1015,7 @@ La cuota de mercado de Movistar se obtiene dividiendo el número de clientes de 
 
 Fuente: El Economista. Madrid, 29 de octubre de 2012 [en línea].
 
-## Competencia
+#### Competencia
 
 Hace referencia al conjunto de empresas con las que se rivaliza por el mismo producto o uno similar. En este último caso, hablamos de productos sustitutivos (Coca-cola es competencia de Pepsi, mientras que RedBull o un café serían productos sustitutivos de ambos).
 
@@ -1041,7 +1039,7 @@ Fig. 2.2. Factores diferenciales de las empresas.
 
 La diferenciación tecnológica tiene un peso decisivo hoy en día, sobre todo en lo referente al uso de herramientas informáticas, por lo que incluiremos en las Actividades de simulación el uso de programas y de páginas web para que te familiarices con ellas.
 
-## Ejemplo 5. Diferenciación en un centro de estética
+#### Ejemplo 5. Diferenciación en un centro de estética
 
 Un centro de estética puede diferenciarse de la competencia en base a uno o varios factores:
 
@@ -1050,17 +1048,17 @@ Un centro de estética puede diferenciarse de la competencia en base a uno o var
 - c) Estéticos: ofreciendo una imagen de cultura oriental a través de su decoración zen o de la realización de masajes con cuencos tibetanos.
 - d) Económicos: a través de precios superiores a los del mercado, para crearse una imagen de exclusividad o lujo, reduciendo precio o por medio de ofertas, bonos descuentos, etc.
 
-## Actividades
+#### Actividades
 
 5. ¿Cómo puede diferenciarse una tienda de ropa en base a los factores señalados?
 
-## Proveedores y distribuidores
+#### Proveedores y distribuidores
 
 Un proveedor es la empresa que suministra materias primas o mercancías a otra empresa para que pueda realizar su actividad empresarial. El tamaño de los proveedores y el grado de cumplimiento de sus compromisos determinan en parte los resultados de la empresa.
 
 Un distribuidor es aquella empresa que pone a disposición de los consumidores finales los bienes del fabricante, a través de tiendas o por medios telemáticos: compra online, pedido telefónico, venta por catálogo, etc.
 
-## Actividades
+#### Actividades
 
 6. Lee el extracto de la siguiente noticia aparecida en prensa y responde las cuestiones planteadas.
 
@@ -1076,13 +1074,13 @@ Fuente: Periodista digital. Madrid, 27 de mayo de 2010 [en línea].
 - b) Explica qué cambio propone Caballero para los distribuidores y justifica si es acertado su planteamiento.
 - c) Busca quién es el principal proveedor de El Corte Inglés y razona por qué ha sido incorporado dentro de la propia estructura de El Corte Inglés.
 
-## Análisis DAFO
+#### Análisis DAFO
 
 Las conclusiones del estudio de mercado y de las características de la empresa suelen reflejar se de forma esquemática a través de un análisis DAFO, que es una manera gráfica y simplificada de representar el estudio de la situación de una empresa, analizando sus características internas (Debilidades y Fortalezas) y su realidad externa (Amenazas y Oportunidades).
 
 Sirve como herramienta de diagnóstico pero también de cambio, al posibilitar la reflexión sobre aquellos aspectos que perjudican a la empresa. La empresa tiene cierta capacidad de control sobre los aspectos internos (debilidades y fortalezas) que podrán ser modificados por la empresa. Sin embargo, los aspectos externos (amenazas y oportunidades) identificados, escapan a nuestro control, por lo que solo se podrá intentar reducir su impacto negativo.
 
-## Ejemplo 6. Análisis DAFO ele la cafetería de un ÍES
+#### Ejemplo 6. Análisis DAFO ele la cafetería de un ÍES
 
 NEGATIVO:
 
@@ -1115,11 +1113,11 @@ POSITIVO
 - Comodidad para las familias: dar dinero a los hijos es más cómodo que prepararles un bocadillo.
 - Comodidad para los profesores: si van a un bar exterior hace frío, llueve, pierden más tiempo, etc.
 
-## Actividades
+#### Actividades
 
 7. Añade un ejemplo más en cada celda de la tabla del Ejemplo 6.
 
-## D. Concreción del plan de empresa
+### D. Concreción del plan de empresa
 
 Como consecuencia de todo el análisis suscitado en el estudio del mercado, la empresa debe orientar su línea de negocio. Estas decisiones afectarán fundamentalmente a dos elementos: producción y marketing.
 
