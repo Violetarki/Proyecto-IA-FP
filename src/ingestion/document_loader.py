@@ -7,6 +7,7 @@ de la carpeta que contiene cada archivo Markdown.
 
 from pathlib import Path
 from src.core.models import Documento, Metodologia
+import logging
 
 
 def cargar_documento(
@@ -79,4 +80,4 @@ def cargar_documentos(
 
 if __name__ == "__main__":
 
-    print("Este módulo proporciona funciones para cargar " "documentos Markdown.")
+    logging.info("Este módulo proporciona funciones para cargar " "documentos Markdown.")
