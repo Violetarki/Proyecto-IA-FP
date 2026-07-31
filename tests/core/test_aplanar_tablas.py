@@ -9,6 +9,7 @@ class TestAplanarTablas(unittest.TestCase):
         texto = "Esto es un párrafo."
 
         self.assertEqual(aplanar_tablas(texto), texto)
+        
 
     def test_tablas_por_filas(self):
         tabla = """| ANÁLISIS DAFO | FORTALEZAS | DEBILIDADES |
@@ -25,6 +26,7 @@ class TestAplanarTablas(unittest.TestCase):
             aplanar_tablas(tabla).strip(),
             esperado.strip(),
         )
+        
 
     def test_tabla_por_columnas(self):
         tabla = """| Pensar | Contactos |
