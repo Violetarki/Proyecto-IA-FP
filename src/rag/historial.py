@@ -6,6 +6,7 @@
     limpieza o actualización del historial.
 """
 
+import logging
 import json
 from src.core.config import CARPETA_HISTORIAL
 from pathlib import Path
@@ -33,6 +34,7 @@ class Historial:
 
         conversaciones = self._cargar_historial()
         mensajes = conversaciones.get(id_conversacion, [])
+        logging.info("\nConversaciones cargadas\n")
         return [self._mensaje_desde_dict(mensaje) for mensaje in mensajes]
 
 
@@ -54,6 +56,8 @@ class Historial:
         """
 
         historial = self.obtener_historial(id_conversacion)
+
+        logging.debug("Historial cargado:\n%S", historial[-max_mensajes:])
 
         return historial[-max_mensajes:]
 
