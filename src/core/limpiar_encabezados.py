@@ -17,7 +17,7 @@ dejando únicamente:
 
 import re
 
-_NUMERACION_RE = re.compile(r"^\d+(?:\.\d+)*\.?\s+")
+_NUMERACION_RE = re.compile(r"^\d+(?:\.\d+)*\.\s+")
 
 
 def limpiar_encabezado(texto: str) -> str:
