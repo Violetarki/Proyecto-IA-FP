@@ -72,5 +72,63 @@
             "rol": "bot",
             "contenido": "La creatividad es una capacidad inherente a todas las personas, pero requiere ser cultivada de forma intencional. Según el material de referencia, se estructura en torno a cuatro aspectos básicos: la persona, el proceso que realiza, el resultado o producto que obtiene y el entorno donde se desarrolla.\n\nPara fomentarla en el alumnado, el enfoque educativo se centra en tres ejes:\n- **Aceptación del cambio:** Reconocer que el cambio es parte de la vida, no temerle, sino disfrutar y sentirse cómodo durante el proceso creativo.\n- **Desarrollo integral:** Trabajar la creatividad como un componente esencial para el desarrollo pleno de la personalidad del estudiante, algo que a menudo queda pendiente en el sistema educativo.\n- **Crecimiento personal:** Dotar a la persona de más recursos internos, lo que amplía sus posibilidades de autorealización y adaptación.\n\nEn resumen, la creatividad no es un don exclusivo, sino una habilidad que se aprende a aplicar sin miedo. Su desarrollo contribuye directamente a una formación integral y a un crecimiento personal sólido, sentando las bases para afrontar los retos profesionales y vitales."
         }
+    ],
+    "946f31b9-74bc-4e5f-9ebf-be84898b99a8": [
+        {
+            "rol": "user",
+            "contenido": "qué es la matriz dafo?"
+        },
+        {
+            "rol": "bot",
+            "contenido": "La matriz DAFO (también conocida como FODA o SWOT) es una metodología estratégica utilizada para estudiar la situación competitiva de una empresa. Su función principal es analizar tanto los factores internos controlables, como las fortalezas y debilidades, como los factores externos no controlables, que son las oportunidades y amenazas.\n\nEsta herramienta, creada en la década de 1970, permite determinar las ventajas competitivas de una organización y definir la estrategia más adecuada según sus características propias y las del mercado. El proceso implica realizar un análisis externo e interno, confeccionar la matriz y, finalmente, establecer la estrategia a seguir para explotar fortalezas, aprovechar oportunidades, corregir debilidades y defenderse de las amenazas."
+        },
+        {
+            "rol": "user",
+            "contenido": "me puedes explicar las fortalezas?"
+        },
+        {
+            "rol": "bot",
+            "contenido": "Las fortalezas son los elementos internos y positivos que distinguen a un proyecto o empresa de sus competidores. Se tratan de capacidades únicas, ventajas naturales o recursos superiores que la organización ya posee.\n\nPara identificarlas, es útil preguntarse qué hace la empresa mejor que otras, qué ventajas competitivas tiene o a qué recursos exclusivos y de bajo coste tiene acceso. También es importante considerar qué percibe el mercado como un punto fuerte y qué factores facilitan la obtención de ventas."
+        },
+        {
+            "rol": "user",
+            "contenido": "y alguna actividad de matriz dafo?"
+        },
+        {
+            "rol": "bot",
+            "contenido": "Sí, el contexto describe una actividad específica para elaborar la matriz DAFO. Se realiza en el aula utilizando papel continuo y post-its para trazar la matriz y analizar tanto el equipo de trabajo como la idea validada, destacando sus aspectos positivos y negativos.\n\nEl objetivo es determinar el \"encaje\" entre el grupo y la idea, lo que ayuda a definir la estrategia a seguir. Durante el proceso, se pueden pausar las actividades para investigar temas curriculares como la normativa fiscal o las formas de constitución de empresas.\n\nUna vez completada la matriz en papel, se recomienda digitalizar la información mediante la aplicación de Inghenia. Esta herramienta valora las aportaciones, identifica el cuadrante con mayor peso y ofrece una representación gráfica de la situación de la empresa para guiar la dirección estratégica."
+        },
+        {
+            "rol": "user",
+            "contenido": "también había una actividad 19"
+        },
+        {
+            "rol": "bot",
+            "contenido": "El contexto proporcionado no contiene información sobre una \"actividad 19\".\n\nLa lista de dinámicas indica que el número 19 corresponde a la \"Matriz DAFO\", pero no se describe como una actividad complementaria numerada (como las actividades 1 y 2 detalladas en el anexo). Por lo tanto, no puedo responder a la pregunta basándome únicamente en la información disponible."
+        },
+        {
+            "rol": "user",
+            "contenido": "pues explicame esta"
+        },
+        {
+            "rol": "bot",
+            "contenido": "El contexto proporcionado no contiene información específica sobre una \"actividad 19\" ni describe dinámicas prácticas numeradas de esa forma.\n\nAunque la infografía menciona el número 19 en relación con los \"Datos financieros\" (mostrar líneas de ingresos y embudos de conversión) dentro de la estructura de un *elevator pitch*, no se detalla ninguna actividad práctica asociada a ese número. Por lo tanto, no puedo responder a la pregunta basándome únicamente en la información disponible."
+        },
+        {
+            "rol": "user",
+            "contenido": "sí que existe la actividad numero 19, explicamela"
+        },
+        {
+            "rol": "bot",
+            "contenido": "Sí, la actividad número 19 corresponde a la **Matriz DAFO**.\n\nEsta dinámica consiste en realizar un análisis de los aspectos positivos y negativos tanto del equipo de trabajo como de la idea emprendedora ya validada. El objetivo principal es determinar la situación actual y el \"encaje\" entre el grupo y la idea, lo cual servirá para definir la estrategia a seguir en los siguientes pasos.\n\nSe desarrolla en el aula utilizando papel continuo y post-its para trazar la matriz. Durante su elaboración, es una oportunidad para integrar contenidos curriculares, pudiendo pausar la actividad para investigar temas como la normativa fiscal o las formas de constitución de empresas. La evaluación se centra en conocer la opinión del grupo sobre sí mismo en relación con la idea, lo que permite al docente anticipar el funcionamiento del equipo durante el curso."
+        },
+        {
+            "rol": "user",
+            "contenido": "vale, qué es el mapa de empatía?"
+        },
+        {
+            "rol": "bot",
+            "contenido": "El mapa de empatía es una herramienta de *visual thinking*, desarrollada por XPLANE, que sirve para profundizar en el perfil del cliente potencial más allá de sus datos demográficos. Su objetivo es lograr un entendimiento profundo de la persona para la que se diseña, humanizándola (poniéndole nombre, hábitos, etc.) y centrándose en su entorno, comportamiento, preocupaciones y aspiraciones.\n\nEsta herramienta ayuda a sintetizar observaciones y descubrir *insights* inesperados, lo que permite crear modelos de negocio más robustos, definir mejores proposiciones de valor y entender qué valores están dispuestos a pagar los clientes.\n\nPara realizarlo, se divide un espacio en cuatro cuadrantes principales donde se anota información sobre el usuario:\n*   **SAY (Lo que dice):** Frases dichas por el usuario.\n*   **DO (Lo que hace):** Acciones y comportamientos observados.\n*   **THINK (Lo que piensa):** Pensamientos o creencias inferidos.\n*   **FEEL (Lo que siente):** Emociones detectadas a través de pistas como el lenguaje corporal o el tono de voz.\n\nAdemás de estos cuatro ejes, el proceso incluye identificar **necesidades** (verbos que describen deseos o actividades) y **insights** (descubrimientos inesperados surgidos de contradicciones entre lo que el usuario dice, hace,"
+        }
     ]
 }
