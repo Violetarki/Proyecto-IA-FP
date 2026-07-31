@@ -20,10 +20,13 @@ Reglas de división:
 """
 
 import re
+import logging
 
 from src.core.models import Chunk, Documento
 
 _HEADER_RE = re.compile(r"^(#{1,4})\s+(.*)")
+
+logger = logging.getLogger(__name__)
 
 # Relación entre el nivel del encabezado Markdown y el atributo
 # correspondiente del modelo Chunk.
@@ -225,7 +228,7 @@ def crear_chunks_documentos(documentos: list[Documento]) -> list[Chunk]:
 
 if __name__ == "__main__":
 
-    print("Este módulo proporciona funciones para dividir " "Documentos en Chunks.")
+    logger.info("Este módulo proporciona funciones para dividir " "Documentos en Chunks.")
 
     from pathlib import Path
 
@@ -242,16 +245,16 @@ if __name__ == "__main__":
 
     chunks = crear_chunks_documento(documento)
 
-    print(f"Se han generado {len(chunks)} chunks.\n")
+    logger.debug("Se han generado %d chunks.\n", len(chunks))
 
     for chunk in chunks[:20]:  # Mostrar solo los 20 primeros
 
-        print("=" * 80)
-        print(f"Chunk {chunk.indice}")
-        print(f"Título:      {chunk.titulo}")
-        print(f"Subtítulo:   {chunk.subtitulo}")
-        print(f"Sección:     {chunk.seccion}")
-        print(f"Subsección:  {chunk.subseccion}")
-        print("-" * 80)
-        print(chunk.texto)
-        print()
+        logger.debug("%s", "=" * 80)
+        logger.debug("Chunk %s", chunk.indice)
+        logger.debug("Título:      %s", chunk.titulo)
+        logger.debug("Subtítulo:   %s", chunk.subtitulo)
+        logger.debug("Sección:     %s", chunk.seccion)
+        logger.debug("Subsección:  %s", chunk.subseccion)
+        logger.debug("%s", "-" * 80)
+        logger.debug("%s", chunk.texto)
+        logger.debug("")
