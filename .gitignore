@@ -28,3 +28,4 @@ data/vector_store/*
 
 # Excepto el archivo que mantiene la carpeta
 !data/vector_store/.gitkeep
+data/historial_conversaciones
