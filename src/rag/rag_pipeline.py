@@ -22,6 +22,10 @@ from src.rag.llm_client import LLMClient
 from src.rag.historial import Historial
 from src.core.models import Mensaje
 
+import logging
+
+logger = logging.getLogger(__name__)
+
 class RAG:
     """
     Orquesta todas las etapas del sistema RAG.
@@ -55,7 +59,7 @@ class RAG:
             Respuesta generada por el modelo de lenguaje.
         """
 
-        print("Recuperando contexto...")
+        logger.info("Recuperando contexto...")
 
         historial = self.historial.obtener_contexto(self.id_conversacion)
 
@@ -64,9 +68,9 @@ class RAG:
             metodologia,
         )
 
-        print(f"Se han recuperado {len(chunks)} chunks.")
+        logger.debug("Se han recuperado %d chunks.", len(chunks))
 
-        print("Construyendo prompt...")
+        logger.info("Construyendo prompt...")
 
         prompt = self.prompt_builder.construir_prompt(
             historial,
@@ -74,11 +78,11 @@ class RAG:
             chunks,
         )
 
-        print("\n========== PROMPT ==========\n")
-        print(prompt)
-        print("\n============================\n")
+        logger.debug("\n========== PROMPT ==========\n")
+        logger.debug("%s", prompt)
+        logger.debug("\n============================\n")
 
-        print("Consultando el modelo...")
+        logger.info("Consultando el modelo...")
 
         respuesta = self.llm.generar_respuesta(prompt)
 
@@ -94,5 +98,5 @@ class RAG:
             Mensaje("bot", respuesta)
         )
 
-        print("Respuesta recibida.")
+        logger.info("Respuesta recibida.")
         return respuesta
