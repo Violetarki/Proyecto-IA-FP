@@ -21,6 +21,7 @@ Embeddings
 Base vectorial
 """
 
+import logging
 from pathlib import Path
 from src.ingestion.docling_converter import convertir_pdf_a_markdown
 from src.ingestion.text_cleaner import limpiar_archivo_markdown
@@ -45,28 +46,28 @@ def indexar_documentos() -> None:
 
     try:
 
-        print("Iniciando indexación...")
+        logging.info("Iniciando indexación...")
 
         markdowns = _obtener_markdowns_limpios()
         
         if not markdowns:
-            print("No hay documentos para indexar.")
+            logging.warning("No hay documentos para indexar.")
             return
         
-        print("Markdowns obtenidos")
-        print("----------------------------------")
+        logging.info("Markdowns obtenidos")
+        logging.info("----------------------------------")
 
         documentos = cargar_documentos(markdowns)
-        print("Documentos creados")
-        print("----------------------------------")
+        logging.info("Documentos creados")
+        logging.info("----------------------------------")
 
         chunks = crear_chunks_documentos(documentos)
-        print("Chunks de los documentos creados")
-        print("----------------------------------")
+        logging.info("Chunks de los documentos creados")
+        logging.info("----------------------------------")
 
         embeddings = crear_embeddings_chunks(chunks)
-        print("Embeddings creados")
-        print("----------------------------------")
+        logging.info("Embeddings creados")
+        logging.info("----------------------------------")
 
         vector_store = VectorStore()
 
@@ -74,13 +75,13 @@ def indexar_documentos() -> None:
             chunks,
             embeddings,
         )
-        print("Vectores indexados")
+        logging.info("Vectores indexados")
 
-        print("Indexación finalizada.")
-        print("----------------------------------")
+        logging.info("Indexación finalizada.")
+        logging.info("----------------------------------")
 
     except Exception as error:
-        print(f"[ERROR] La indexación ha fallado: {error}")
+        logging.warning("La indexación ha fallado: %s", error)
         raise
 
 
@@ -119,7 +120,7 @@ def _obtener_markdowns_limpios() -> list[Path]:
 
         # Existe el MD limpio
         if ruta_clean.exists():
-            print(f"[OK] Markdown limpio encontrado: " f"{ruta_clean.name}")
+            logging.debug("[OK] Markdown limpio encontrado: %s", ruta_clean.name)
 
             markdowns_limpios.append(ruta_clean)
 
@@ -127,7 +128,7 @@ def _obtener_markdowns_limpios() -> list[Path]:
 
         # NO existe el MD limpio pero SI el raw
         if ruta_raw.exists():
-            print(f"[INFO] Limpiando Markdown: " f"{ruta_raw.name}")
+            logging.info("Limpiando Markdown: %s", ruta_raw.name)
 
             ruta_clean = limpiar_archivo_markdown(ruta_raw, ruta_clean)
 
@@ -136,7 +137,7 @@ def _obtener_markdowns_limpios() -> list[Path]:
             continue
 
         # NO existen los MD limpios/raw solo PDF
-        print(f"[INFO] Convirtiendo PDF: " f"{ruta_pdf.name}")
+        logging.info("Convirtiendo PDF: %s", ruta_pdf.name)
 
         ruta_raw = convertir_pdf_a_markdown(ruta_pdf)
 
@@ -147,6 +148,6 @@ def _obtener_markdowns_limpios() -> list[Path]:
 
         markdowns_limpios.append(ruta_clean)
 
-        print(f"[OK] Markdown limpio generado: " f"{ruta_clean.name}")
+        logging.debug("Markdown limpio generado: %s", ruta_clean.name)
         
     return markdowns_limpios
