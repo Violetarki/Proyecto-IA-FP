@@ -6,10 +6,14 @@ una lista de números. Después podremos comparar esos vectores para
 encontrar los chunks más relacionados con una pregunta.
 """
 
+import logging
 from functools import lru_cache
 import numpy as np
+
 from sentence_transformers import SentenceTransformer
 from src.core.models import Chunk
+
+logger = logging.getLogger(__name__)
 
 
 NOMBRE_MODELO = (
@@ -27,16 +31,16 @@ def cargar_modelo() -> SentenceTransformer:
     una misma ejecución del programa.
     """
 
-    print(
-        "Cargando modelo de embeddings:\n"
-        f"{NOMBRE_MODELO}"
+    logger.info(
+        "Cargando modelo de embeddings:\n%s",
+        NOMBRE_MODELO
     )
 
     modelo = SentenceTransformer(
         NOMBRE_MODELO
     )
 
-    print("Modelo cargado correctamente.\n")
+    logger.info("Modelo cargado correctamente.\n")
 
     return modelo
 
@@ -149,4 +153,4 @@ def crear_embeddings_chunks(
 
 if __name__ == "__main__":
 
-    print("Este módulo proporciona funciones para generar embeddings.")
+    logger.info("Este módulo proporciona funciones para generar embeddings.")
