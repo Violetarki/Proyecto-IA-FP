@@ -9,6 +9,8 @@ from pathlib import Path
 from src.core.models import Documento, Metodologia
 import logging
 
+logger = logging.getLogger(__name__)
+
 
 def cargar_documento(
     ruta_md: Path,
@@ -80,4 +82,4 @@ def cargar_documentos(
 
 if __name__ == "__main__":
 
-    logging.info("Este módulo proporciona funciones para cargar " "documentos Markdown.")
+    logger.info("Este módulo proporciona funciones para cargar documentos Markdown.")

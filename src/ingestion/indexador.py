@@ -36,6 +36,8 @@ from src.core.config import (
     CARPETA_MARKDOWN_CLEAN,
 )
 
+logger = logging.getLogger(__name__)
+
 def indexar_documentos() -> None:
     """
     Ejecuta el pipeline completo de indexación.
@@ -46,28 +48,28 @@ def indexar_documentos() -> None:
 
     try:
 
-        logging.info("Iniciando indexación...")
+        logger.info("Iniciando indexación...")
 
         markdowns = _obtener_markdowns_limpios()
         
         if not markdowns:
-            logging.warning("No hay documentos para indexar.")
+            logger.warning("No hay documentos para indexar.")
             return
         
-        logging.info("Markdowns obtenidos")
-        logging.info("----------------------------------")
+        logger.info("Markdowns obtenidos")
+        logger.info("----------------------------------")
 
         documentos = cargar_documentos(markdowns)
-        logging.info("Documentos creados")
-        logging.info("----------------------------------")
+        logger.info("Documentos creados")
+        logger.info("----------------------------------")
 
         chunks = crear_chunks_documentos(documentos)
-        logging.info("Chunks de los documentos creados")
-        logging.info("----------------------------------")
+        logger.info("Chunks de los documentos creados")
+        logger.info("----------------------------------")
 
         embeddings = crear_embeddings_chunks(chunks)
-        logging.info("Embeddings creados")
-        logging.info("----------------------------------")
+        logger.info("Embeddings creados")
+        logger.info("----------------------------------")
 
         vector_store = VectorStore()
 
@@ -75,13 +77,13 @@ def indexar_documentos() -> None:
             chunks,
             embeddings,
         )
-        logging.info("Vectores indexados")
+        logger.info("Vectores indexados")
 
-        logging.info("Indexación finalizada.")
-        logging.info("----------------------------------")
+        logger.info("Indexación finalizada.")
+        logger.info("----------------------------------")
 
     except Exception as error:
-        logging.warning("La indexación ha fallado: %s", error)
+        logger.warning("La indexación ha fallado: %s", error)
         raise
 
 
@@ -120,7 +122,7 @@ def _obtener_markdowns_limpios() -> list[Path]:
 
         # Existe el MD limpio
         if ruta_clean.exists():
-            logging.debug("[OK] Markdown limpio encontrado: %s", ruta_clean.name)
+            logger.debug(" Markdown limpio encontrado: %s", ruta_clean.name)
 
             markdowns_limpios.append(ruta_clean)
 
@@ -128,7 +130,7 @@ def _obtener_markdowns_limpios() -> list[Path]:
 
         # NO existe el MD limpio pero SI el raw
         if ruta_raw.exists():
-            logging.info("Limpiando Markdown: %s", ruta_raw.name)
+            logger.info("Limpiando Markdown: %s", ruta_raw.name)
 
             ruta_clean = limpiar_archivo_markdown(ruta_raw, ruta_clean)
 
@@ -137,7 +139,7 @@ def _obtener_markdowns_limpios() -> list[Path]:
             continue
 
         # NO existen los MD limpios/raw solo PDF
-        logging.info("Convirtiendo PDF: %s", ruta_pdf.name)
+        logger.info("Convirtiendo PDF: %s", ruta_pdf.name)
 
         ruta_raw = convertir_pdf_a_markdown(ruta_pdf)
 
@@ -148,6 +150,6 @@ def _obtener_markdowns_limpios() -> list[Path]:
 
         markdowns_limpios.append(ruta_clean)
 
-        logging.debug("Markdown limpio generado: %s", ruta_clean.name)
+        logger.debug("Markdown limpio generado: %s", ruta_clean.name)
         
     return markdowns_limpios

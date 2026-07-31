@@ -6,9 +6,11 @@ la respuesta generada.
 """
 
 from ollama import chat
+import logging
 
 from src.core.config import MODELO_LLM
 
+logger = logging.getLogger(__name__)
 
 class LLMClient:
     """
@@ -72,6 +74,7 @@ class LLMClient:
         try:
             respuesta = self._consultar_modelo(prompt)
         except Exception as e:
+            logger.exception("Error al comunicarse con el modelo de lenguaje.")
             raise RuntimeError("Error al comunicarse con el modelo de lenguaje.") from e
 
         return respuesta.message.content
@@ -90,5 +93,4 @@ if __name__ == "__main__":
 
         respuesta = llm.generar_respuesta(pregunta)
 
-        print("\nRespuesta:\n")
-        print(respuesta)
+        logger.debug("\nRespuesta:\n%s", respuesta)

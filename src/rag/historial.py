@@ -9,8 +9,11 @@
 import logging
 import json
 from src.core.config import CARPETA_HISTORIAL
+
 from pathlib import Path
 from src.core.models import Mensaje
+
+logger = logging.getLogger(__name__)
 
 
 class Historial:
@@ -34,7 +37,7 @@ class Historial:
 
         conversaciones = self._cargar_historial()
         mensajes = conversaciones.get(id_conversacion, [])
-        logging.info("\nConversaciones cargadas\n")
+        logger.info("\nConversaciones cargadas\n")
         return [self._mensaje_desde_dict(mensaje) for mensaje in mensajes]
 
 
@@ -57,7 +60,7 @@ class Historial:
 
         historial = self.obtener_historial(id_conversacion)
 
-        logging.debug("Historial cargado:\n%S", historial[-max_mensajes:])
+        logger.debug("Historial cargado:\n%S", historial[-max_mensajes:])
 
         return historial[-max_mensajes:]
 
