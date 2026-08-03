@@ -60,43 +60,324 @@ class TestVectorStore(unittest.TestCase):
 
 
     def test_crear_id(self):
-        ...
+
+        resultado = self.vector_store._crear_id(self.chunk1)
+
+        esperado = f"{self.documento.ruta}:{self.chunk1.indice}"
+
+        self.assertEqual(resultado, esperado)
 
 
 
     def test_preparar_registro_con_toda_la_jerarquia(self):
-        ...
+
+        id_, texto, vector, metadata = (
+            self.vector_store._preparar_registro(
+                self.chunk1,
+                self.embeddings[0],
+            )
+        )
+
+        self.assertEqual(
+            id_,
+            f"{self.documento.ruta}:{self.chunk1.indice}",
+        )
+
+        self.assertEqual(
+            texto,
+            self.chunk1.texto,
+        )
+
+        self.assertEqual(
+            vector,
+            self.embeddings[0].tolist(),
+        )
+
+        esperado = {
+            "metodologia": self.documento.metodologia.nombre,
+            "documento": self.documento.nombre,
+            "ruta": self.documento.ruta,
+            "indice": self.chunk1.indice,
+            "titulo": self.chunk1.titulo,
+            "subtitulo": self.chunk1.subtitulo,
+        }
+
+        self.assertEqual(
+            metadata,
+            esperado,
+        )
 
 
 
     def test_preparar_registro_sin_jerarquia(self):
-        ...
+
+        chunk = Chunk(
+            documento=self.documento,
+            indice=2,
+            texto="Texto sin jerarquia.",
+        )
+
+        metadata = self.vector_store._preparar_registro(
+            chunk,
+            self.embeddings[0],
+        )
+
+        esperado = {
+            "metodologia": self.documento.metodologia.nombre,
+            "documento": self.documento.nombre,
+            "ruta": self.documento.ruta,
+            "indice": chunk.indice,
+        }
+
+        self.assertEqual(
+            metadata,
+            esperado,
+        )
 
 
 
     def test_chunk_desde_resultado(self):
-        ...
+
+        metadata = {
+            "metodologia": self.documento.metodologia.nombre,
+            "documento": self.documento.nombre,
+            "ruta": self.documento.ruta,
+            "indice": self.chunk1.indice,
+            "titulo": self.chunk1.titulo,
+            "subtitulo": self.chunk1.subtitulo,
+        }
+
+        resultado = self.vector_store._chunk_desde_resultado(
+            self.chunk1.texto,
+            metadata,
+        )
+
+        self.assertEqual(
+            resultado.documento.metodologia.nombre,
+            self.documento.metodologia.nombre,
+        )
+
+        self.assertEqual(
+            resultado.documento.nombre,
+            self.documento.nombre,
+        )
+
+        self.assertEqual(
+            resultado.documento.ruta,
+            self.documento.ruta,
+        )
+
+        self.assertEqual(
+            resultado.indice,
+            self.chunk1.indice,
+        )
+
+        self.assertEqual(
+            resultado.texto,
+            self.chunk1.texto,
+        )
+
+        self.assertEqual(
+            resultado.titulo,
+            self.chunk1.titulo,
+        )
+
+        self.assertEqual(
+            resultado.subtitulo,
+            self.chunk1.subtitulo,
+        )
+
+        self.assertIsNone(resultado.seccion)
+        self.assertIsNone(resultado.subseccion)
 
 
 
     def test_filtrar_chunks_excelentes(self):
-        ...
+
+        documentos = [
+            "Texto excelente 1",
+            "Texto excelente 2",
+        ]
+
+        metadatos = [
+            {
+                "metodologia": "metodologia_test",
+                "documento": "documento_test.pdf",
+                "ruta": self.documento.ruta,
+                "indice": 0,
+            },
+            {
+                "metodologia": "metodologia_test",
+                "documento": "documento_test.pdf",
+                "ruta": self.documento.ruta,
+                "indice": 1,
+            },
+        ]
+
+        distancias = [
+            0.2,
+            0.3,
+        ]
+
+        resultado = self.vector_store._filtrar_chunks(
+            documentos,
+            metadatos,
+            distancias,
+        )
+
+        self.assertEqual(len(resultado), 2)
+
+        self.assertEqual(
+            resultado[0].texto,
+            "Texto excelente 1",
+        )
+
+        self.assertEqual(
+            resultado[1].texto,
+            "Texto excelente 2",
+        )
 
 
 
     def test_filtrar_chunks_buenos(self):
-        ...
+
+        documentos = [
+            "Texto excelente insuficiente",
+            "Texto bueno 1",
+            "Texto bueno 2",
+        ]
+
+        metadatos = [
+            {
+                "metodologia": "metodologia_test",
+                "documento": "documento_test.pdf",
+                "ruta": self.documento.ruta,
+                "indice": 0,
+            },
+            {
+                "metodologia": "metodologia_test",
+                "documento": "documento_test.pdf",
+                "ruta": self.documento.ruta,
+                "indice": 1,
+            },
+            {
+                "metodologia": "metodologia_test",
+                "documento": "documento_test.pdf",
+                "ruta": self.documento.ruta,
+                "indice": 2,
+            },
+        ]
+
+        distancias = [
+            0.3,
+            0.5,
+            0.6,
+        ]
+
+        resultado = self.vector_store._filtrar_chunks(
+            documentos,
+            metadatos,
+            distancias,
+        )
+
+        self.assertEqual(len(resultado), 2)
+
+        self.assertEqual(
+            resultado[0].texto,
+            "Texto bueno 1",
+        )
+
+        self.assertEqual(
+            resultado[1].texto,
+            "Texto bueno 2",
+        )
 
 
 
     def test_filtrar_chunks_aceptables(self):
-        ...
+
+        documentos = [
+            "Excelente",
+            "Bueno",
+            "Aceptable 1",
+            "Aceptable 2",
+        ]
+
+        metadatos = [
+            {
+                "metodologia": "metodologia_test",
+                "documento": "documento_test.pdf",
+                "ruta": self.documento.ruta,
+                "indice": i,
+            }
+            for i in range(4)
+        ]
+
+        distancias = [
+            0.3,
+            0.5,
+            0.7,
+            0.8,
+        ]
+
+        resultado = self.vector_store._filtrar_chunks(
+            documentos,
+            metadatos,
+            distancias,
+        )
+
+        self.assertEqual(len(resultado), 2)
+
+        self.assertEqual(
+            resultado[0].texto,
+            "Aceptable 1",
+        )
+
+        self.assertEqual(
+            resultado[1].texto,
+            "Aceptable 2",
+        )
 
 
 
     def test_filtrar_chunks_limite_maximo(self):
-        ...
 
+        documentos = [
+            "Chunk 1",
+            "Chunk 2",
+            "Chunk 3",
+            "Chunk 4",
+            "Chunk 5",
+        ]
+
+        metadatos = [
+            {
+                "metodologia": "metodologia_test",
+                "documento": "documento_test.pdf",
+                "ruta": self.documento.ruta,
+                "indice": i,
+            }
+            for i in range(5)
+        ]
+
+        distancias = [
+            0.1,
+            0.2,
+            0.3,
+            0.35,
+            0.4,
+        ]
+
+        resultado = self.vector_store._filtrar_chunks(
+            documentos,
+            metadatos,
+            distancias,
+        )
+
+        self.assertEqual(
+            len(resultado),
+            MAXIMO_CHUNKS,
+        )
 
 
     #
