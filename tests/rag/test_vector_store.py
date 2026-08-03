@@ -15,7 +15,7 @@ class TestVectorStore(unittest.TestCase):
     def setUp(self):
         """Configura un entorno de prueba: cliente ChromaDB y datos de ejemplo."""
 
-        self.carpeta_test = Path("test_vector_store")
+        self.carpeta_test = Path("tests/test_vector_store")
 
         self.vector_store = VectorStore(
             collection_name=f"test_chunks_{uuid.uuid4().hex}",
@@ -279,7 +279,7 @@ class TestVectorStore(unittest.TestCase):
         ]
 
         distancias = [
-            0.3,
+            0.61,
             0.5,
             0.6,
         ]
@@ -325,10 +325,10 @@ class TestVectorStore(unittest.TestCase):
         ]
 
         distancias = [
-            0.3,
-            0.5,
-            0.7,
-            0.8,
+            0.61,
+            0.62,
+            0.81,
+            0.9,
         ]
 
         resultado = self.vector_store._filtrar_chunks(
@@ -574,3 +574,6 @@ class TestVectorStore(unittest.TestCase):
 
         self.assertEqual(self.vector_store.collection.count(), 0)
 
+
+if __name__ == "__main__":
+    unittest.main()
