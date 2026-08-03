@@ -30,19 +30,46 @@
                 <h1>Asistente IA</h1>
 
                 <p class="descripcion-chat">
-                    Consulta información sobre las metodologías
-                    disponibles en el proyecto.
+                    Selecciona una metodología y realiza tus consultas.
                 </p>
             </div>
 
-            <a
-                href="{{ url_for('inicio') }}"
-                class="enlace-volver-chat"
-            >
-                Volver al inicio
-            </a>
+            <div class="acciones-chat">
+
+                <button
+                    type="button"
+                    class="boton boton-secundario boton-imprimir"
+                    onclick="window.print()"
+                >
+                    Imprimir conversación
+                </button>
+
+                <a
+                    href="{{ url_for('inicio') }}"
+                    class="enlace-volver-chat"
+                >
+                    Volver al inicio
+                </a>
+
+            </div>
 
         </header>
+
+        {% with mensajes = get_flashed_messages(
+            with_categories=true
+        ) %}
+            {% if mensajes %}
+                <div class="mensajes">
+                    {% for categoria, mensaje in mensajes %}
+                        <div
+                            class="mensaje mensaje-{{ categoria }}"
+                        >
+                            {{ mensaje }}
+                        </div>
+                    {% endfor %}
+                </div>
+            {% endif %}
+        {% endwith %}
 
         <section class="panel-chat">
 
@@ -55,44 +82,46 @@
                     </div>
 
                     <div class="mensaje-chat mensaje-bot">
-                        Hola. Escribe una pregunta relacionada
-                        con las metodologías de Formación
-                        Profesional.
+                        Hola. Selecciona una metodología y escribe
+                        una pregunta relacionada con el contenido
+                        disponible.
                     </div>
 
                 </div>
 
-                {% if pregunta %}
+                {% for mensaje in conversacion %}
 
-                    <div class="fila-mensaje fila-usuario">
+                    {% if mensaje.rol == "user" %}
 
-                        <div class="identificador-mensaje">
-                            Tú
+                        <div class="fila-mensaje fila-usuario">
+
+                            <div class="identificador-mensaje">
+                                Tú
+                            </div>
+
+                            <div class="mensaje-chat mensaje-usuario">
+                                {{ mensaje.contenido }}
+                            </div>
+
                         </div>
 
-                        <div class="mensaje-chat mensaje-usuario">
-                            {{ pregunta }}
+                    {% elif mensaje.rol == "bot" %}
+
+                        <div class="fila-mensaje fila-asistente">
+
+                            <div class="identificador-mensaje">
+                                Asistente
+                            </div>
+
+                            <div class="mensaje-chat mensaje-bot">
+                                {{ mensaje.contenido }}
+                            </div>
+
                         </div>
 
-                    </div>
+                    {% endif %}
 
-                {% endif %}
-
-                {% if respuesta %}
-
-                    <div class="fila-mensaje fila-asistente">
-
-                        <div class="identificador-mensaje">
-                            Asistente
-                        </div>
-
-                        <div class="mensaje-chat mensaje-bot">
-                            {{ respuesta }}
-                        </div>
-
-                    </div>
-
-                {% endif %}
+                {% endfor %}
 
             </div>
 
@@ -101,6 +130,43 @@
                 action="{{ url_for('chat') }}"
                 method="POST"
             >
+
+                <div class="grupo-metodologia">
+
+                    <label
+                        for="metodologia"
+                        class="etiqueta-pregunta"
+                    >
+                        Metodología
+                    </label>
+
+                    <select
+                        id="metodologia"
+                        name="metodologia"
+                        required
+                    >
+
+                        {% for metodologia in metodologias %}
+
+                            <option
+                                value="{{ metodologia }}"
+                                {% if metodologia
+                                    == metodologia_seleccionada %}
+                                    selected
+                                {% endif %}
+                            >
+                                {{
+                                    mostrar_nombre_metodologia(
+                                        metodologia
+                                    )
+                                }}
+                            </option>
+
+                        {% endfor %}
+
+                    </select>
+
+                </div>
 
                 <label
                     for="pregunta"

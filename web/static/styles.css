@@ -115,6 +115,7 @@ h3 {
     padding: 10px 16px;
     border: none;
     border-radius: 6px;
+    font-family: Arial, sans-serif;
     font-size: 14px;
     cursor: pointer;
 }
@@ -360,6 +361,13 @@ h3 {
     line-height: 1.5;
 }
 
+.acciones-chat {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    flex-shrink: 0;
+}
+
 .enlace-volver-chat {
     flex-shrink: 0;
     padding: 12px 18px;
@@ -370,10 +378,29 @@ h3 {
     font-size: 15px;
     font-weight: 600;
     text-decoration: none;
-    transition: background-color 0.2s ease;
+    transition:
+        background-color 0.2s ease,
+        border-color 0.2s ease;
 }
 
 .enlace-volver-chat:hover {
+    background-color: #eff6ff;
+}
+
+.boton-imprimir {
+    padding: 12px 18px;
+    border: 2px solid #1e3a8a;
+    border-radius: 8px;
+    background-color: #ffffff;
+    color: #1e3a8a;
+    font-size: 15px;
+    font-weight: 600;
+    transition:
+        background-color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.boton-imprimir:hover {
     background-color: #eff6ff;
 }
 
@@ -462,6 +489,29 @@ h3 {
     font-weight: 700;
 }
 
+.grupo-metodologia {
+    margin-bottom: 18px;
+}
+
+.grupo-metodologia select {
+    width: 100%;
+    max-width: 340px;
+    padding: 12px 14px;
+    border: 2px solid #d6dee8;
+    border-radius: 10px;
+    background-color: #ffffff;
+    color: #1f2937;
+    font-family: Arial, sans-serif;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+.grupo-metodologia select:focus {
+    border-color: #2563eb;
+    outline: none;
+    box-shadow: 0 0 0 3px rgba(37, 99, 235, 0.12);
+}
+
 .contenedor-pregunta {
     display: flex;
     align-items: flex-end;
@@ -506,6 +556,10 @@ h3 {
     font-size: 12px;
 }
 
+/* ===========================
+   DISEÑO RESPONSIVE
+=========================== */
+
 @media (max-width: 700px) {
     .pagina-chat {
         padding: 20px 12px;
@@ -528,8 +582,16 @@ h3 {
         font-size: 16px;
     }
 
+    .acciones-chat {
+        width: 100%;
+        align-items: stretch;
+        flex-direction: column;
+    }
+
+    .boton-imprimir,
     .enlace-volver-chat {
-        align-self: flex-start;
+        width: 100%;
+        text-align: center;
     }
 
     .ventana-chat {
@@ -544,6 +606,10 @@ h3 {
 
     .formulario-chat {
         padding: 18px;
+    }
+
+    .grupo-metodologia select {
+        max-width: none;
     }
 
     .contenedor-pregunta {
@@ -569,5 +635,99 @@ h3 {
     .formulario-subida {
         align-items: stretch;
         flex-direction: column;
+    }
+}
+
+/* ===========================
+   IMPRESIÓN Y PDF
+=========================== */
+
+@media print {
+    @page {
+        margin: 18mm;
+    }
+
+    body,
+    .pagina-chat {
+        padding: 0;
+        background-color: #ffffff;
+        color: #000000;
+    }
+
+    .contenedor-chat {
+        width: 100%;
+        max-width: none;
+        min-height: auto;
+        margin: 0;
+    }
+
+    .acciones-chat,
+    .formulario-chat,
+    .mensajes {
+        display: none;
+    }
+
+    .cabecera-chat {
+        display: block;
+        margin-bottom: 22px;
+        padding-bottom: 14px;
+        border-bottom: 1px solid #999999;
+    }
+
+    .cabecera-chat h1 {
+        color: #000000;
+        font-size: 28px;
+    }
+
+    .etiqueta-chat,
+    .descripcion-chat {
+        color: #333333;
+    }
+
+    .panel-chat {
+        display: block;
+        overflow: visible;
+        border: none;
+        border-radius: 0;
+        box-shadow: none;
+    }
+
+    .ventana-chat {
+        display: block;
+        min-height: auto;
+        max-height: none;
+        padding: 0;
+        overflow: visible;
+    }
+
+    .fila-mensaje {
+        margin-bottom: 16px;
+        break-inside: avoid;
+        page-break-inside: avoid;
+    }
+
+    .identificador-mensaje {
+        color: #000000;
+    }
+
+    .mensaje-chat {
+        width: auto;
+        max-width: 88%;
+        border: 1px solid #aaaaaa;
+        background-color: #ffffff;
+        color: #000000;
+        box-shadow: none;
+    }
+
+    .mensaje-usuario {
+        margin-left: auto;
+        background-color: #eeeeee;
+        color: #000000;
+    }
+
+    .mensaje-bot {
+        margin-right: auto;
+        background-color: #ffffff;
+        color: #000000;
     }
 }
