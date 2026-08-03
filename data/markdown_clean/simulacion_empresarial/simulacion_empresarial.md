@@ -2921,11 +2921,9 @@ Para facilitar la planificación en el desarrollo de todos estos trámites, pod�
 
 # 4. Fuentes de financiación
 
-## DonaldTrump, multimillonario, ejecutivo y empresario.
+## En esta unidad
 
-«La experiencia me ha enseñado unas cuantas cosas. Una es escuchar mi intuición, no importa cómo suenen tas cosas en un papel. La segunda es que, por lo general, eres mejor haciendo lo que sabes. Y la tercera es que tu mejor inversión puede ser aquella que no haces.»
-
-## En esta unidad aprenderemos a:
+### aprenderemos a:
 
 - Reconocer y seleccionar las posibles fuentes de financiación.
 - Comprobar la accesibilidad de las fuentes de financiación para la puesta en marcha del negocio.
@@ -2933,7 +2931,7 @@ Para facilitar la planificación en el desarrollo de todos estos trámites, pod�
 - Seleccionar los medios de financiación más rentables y que mejor garanticen la supervivencia de la empresa.
 - Efectuar una asignación eficiente de los recursos necesarios.
 
-## Y estudiaremos:
+### Y estudiaremos:
 
 - La inversión en la empresa y sus características.
 - e Inversiones necesarias para la puesta en marcha.
@@ -2943,11 +2941,15 @@ Para facilitar la planificación en el desarrollo de todos estos trámites, pod�
 - Ayudas, subvenciones y recursos de asesoramiento disponibles en la comunidad y en el ámbito estatal
 - El coste de la financiación.
 
+### DonaldTrump, multimillonario, ejecutivo y empresario.
+
+«La experiencia me ha enseñado unas cuantas cosas. Una es escuchar mi intuición, no importa cómo suenen tas cosas en un papel. La segunda es que, por lo general, eres mejor haciendo lo que sabes. Y la tercera es que tu mejor inversión puede ser aquella que no haces.»
+
 ## Emprendedores
 
 En este apartado vamos a analizar, a través del ejemplo de la empresa Natura Bissé, cómo conseguir la financiación necesaria para arrancar y consolidar nuestra actividad empresarial.
 
-## Natura Bissé
+### Natura Bissé
 
 La cosmética de lujo también se fabrica en España. Se llama Natura Bissé y es una marca de referencia para muchísimas actrices de Hollywood.
 
@@ -2965,7 +2967,7 @@ La financiación inicial fue propia, basándose en las aportaciones de los dos s
 
 Años después, se buscó la reducción de costes, al eliminar el número de intermediarios en la cadena de producción. La firma cuenta con una planta de producción propia, que hoy se ubica en el Parque Tecnológico de Cerdanyola del Valles.
 
-## Parque tecnológico vs científico
+### Parque tecnológico vs científico
 
 Un parque tecnológico es un espacio con infraestructuras diseñadas para la constitución o el crecimiento de em presas basadas en el conocimiento.
 
@@ -2973,7 +2975,7 @@ Un organismo de gestión impulsa la transferencia tecnológica y la innovación 
 
 En cambio, el parque científico está vinculado a una universidad.
 
-## La internacionalización
+### La internacionalización
 
 El último gran reto de su fundador consistió en la internacionalización.
 
@@ -2989,13 +2991,13 @@ Las circunstancias macroeconómicas de los inicios de esta marca de lujo, Natura
 
 «En 1979 se cernía una gran crisis en España. Proliferaban las suspensiones de pagos, se cerraban empresas, se despedía personal y el paro aumentaba de forma espectacular. Las perspectivas eran aterradoras. Encontrar trabajo a los 50 años en estas circunstancias se me hacía imposible. ¿Cómo salir adelante? Con esposa, cuatro hijos de 7, 10,11 y 15 años y sin saber adonde ir ni qué hacer».
 
-## Microcréditos
+### Microcréditos
 
 Los microcréditos son préstamos de pequeña cuantía concedidos a personas con pocos recursos económicos, que no pueden acceder a los préstamos de los bancos tradicionales.
 
 Los microcréditos posibilitan, especial mente en países en vías de desarrollo, que muchas personas puedan empren der su negocio y salir de la espiral de la pobreza.
 
-## Reflexiona
+### Reflexiona
 
 1. ¿De qué manera se te ocurre que pudo haber conseguido dinero Ricardo Fisas para comenzar su negocio?
 2. ¿Crees que hay más opciones hoy en día de las que había antes para conseguir financiación?
@@ -3011,7 +3013,7 @@ En este apartado vamos a recordar algunos conceptos que te serán útiles para r
 
 tipo de interés, ayudas, subvención, renting, ahorro, micromecenazgo, préstamo, gasto, incubadora, aceleradora, vivero, crédito, inversión, leasing, financiación, descubierto, beneficio, factoring, confirming
 
-## A. Fuentes de financiación
+### A. Fuentes de financiación
 
 Las empresas necesitan utilizar dinero para llevar a cabo su actividad. En primer lugar, necesitan definir qué recursos materiales y humanos precisan, y luego estimar su coste. Una vez realizada esta previsión inicial de gastos, deberán buscar el capital requerido para ponerlo en marcha. Este doble proceso de detectar necesidades y de ajustar los recursos económicos de la empresa para satisfacerlas constituye la base del plan financiero ele una empresa.
 
@@ -3032,17 +3034,17 @@ En función de la procedencia del capital podemos hablar de recursos propios o d
 - Recursos propios. Están integrados, entre otros, por las aportaciones de los socios y por los beneficios no repartidos, que permanecen en forma de reservas.
 - Financiación ajena. Incluye los recursos externos que generan una deuda y, por tanto, la obligación de satisfacerla en un periodo de tiempo determinado. Se entiende que es deuda a corto plazo la que debe ser reintegrada antes de un año; en caso contrario, se denomina deuda o financiación a largo plazo.
 
-## Actividades
+#### Actividades
 
 1. Enumera tres fuentes de financiación ajena para una empresa de tu elección.
 
-## Financiación por recursos propios
+#### Financiación por recursos propios
 
 Se trata de los recursos que son propiedad de la empresa y están, por tanto, de manera permanente invertidos en ella. Algunos son susceptibles de utilizar en el momento de constituir un negocio, mientras que otros requieren un tiempo de funcionamiento de la empresa.
 
 La empresa no solo necesita recursos económicos para su creación (capital semilla), sino también para mantener su funcionamiento (capital arranque) o para potenciar su crecimiento (capital de expansión). En ambos casos, también la empresa puede disponer de recursos propios para financiar estas necesidades.
 
-## Capital semilla
+#### Capital semilla
 
 - Capital social
 
@@ -3066,22 +3068,22 @@ Consiste en la cooperación colectiva para financiar alguna actividad ya sea emp
 
 Tabla 4.1. Modos de financiación por capital semilla (recursos propios).
 
-## Ejemplo 1. Los inicios de Facebook
+#### Ejemplo 1. Los inicios de Facebook
 
 En sus inicios, Facebook, al igual que Twitter, contó con el apoyo de sociedades de capital riesgo. Las primeras compañías que confiaron en la red social corrieron un gran riesgo. En aquel momento, nadie sospechaba que una empresa sin ingresos y con solo siete millones de usuarios podría revalorizarse tanto.
 
 Gracias al capital riesgo, cuando Facebook salió a bolsa su valoración rondaba entre los 75 000 y 100000 millones de dólares, siendo los grupos inversores los grandes beneficiados de este debut bursátil. A modo de ejemplo, Accel Partners invirtió 12,7 millones de dólares y podría haber obtenido un beneficio 1 000 veces superior a la inversión aportada.
 
-## Ejemplo 2. Universo Crowdfunding
+#### Ejemplo 2. Universo Crowdfunding
 
 La plataforma Universo Crowdfunding (http://www.universocrowdfunding.com) centra liza la información relativa al crowdfunding. En ella se puede encontrar desde una relación de páginas web especializadas en este tema, hasta la difusión de proyectos que están buscando esta vía de financiación, o incluso noticias de actualidad relacionadas con el crowdfunding como la reciente venta de Lanzanos.com, en micromecenazgo empresa pionera en España.
 
-## Actividades
+#### Actividades
 
 2. Analiza las semejanzas entre una sociedad de capital riesgo y un business ángel. Luego, enumera sus diferencias.
 3. Accede al siguiente enlace y anota las características y el precio que oferta la empre sa Colabora Coworking: http://www.colabora-coworkingxorn
 
-## Capital arranque y capital de expansión
+#### Capital arranque y capital de expansión
 
 - Beneficios no repartidos o reservas
 
@@ -3117,13 +3119,13 @@ Ejemplo: La Junta de Castilla León concedió en 2012,304560 euros en subvencion
 
 Tabla 4.2. Modos de financiación por capital arranque y capital de expansión (recursos propios).
 
-## Clasificación de las reservas
+#### Clasificación de las reservas
 
 - Reserva legal Algunas sociedades, como las anónimas, están obligadas por ley a man tener un 10% del beneficio sin repartir. Es un medio de garantizar su supervivencia.
 - Reservas estatutarias. Los estatutos de la sociedad pueden haber fijado un porcentaje de beneficios que se mantendrán en la empresa, como fondos destinados a res ponder a imprevistos o pagos futuros.
 - Reservas voluntarias. Son las reservas pactadas por los socios en un momento de terminado.
 
-## Financiación ajena
+#### Financiación ajena
 
 A través de estas fuentes de financiación, la empresa obtiene recursos económicos que pro vienen de entidades ajenas a la empresa. Cada compañía tendrá que estudiar las opciones más aconsejables en su caso, según la necesidad de dinero y el coste total de una u otra fuente de financiación.
 
@@ -3131,7 +3133,7 @@ Aunque resulta más caro financiarse con recursos ajenos, dado que hay que pagar
 
 El apalancamiento se refiere al efecto positivo generado, en términos de rentabilidad económica, al utilizar dinero ajeno para una inversión o para generar más negocio.
 
-## Financiación a largo plazo
+#### Financiación a largo plazo
 
 La primera fuente de financiación que nos surge son los familiares y los amigos. Sin embargo, las mayores cantidades de dinero provienen de los bancos y de las entidades financieras.
 
@@ -3161,7 +3163,7 @@ La Administración desarrolla medidas de apoyo financiero a pymes basadas en lí
 
 Tabla 4.3. Modos de financiación a largo plazo (recursos ajenos).
 
-## Ejemplo 3. Tipos de préstamos
+#### Ejemplo 3. Tipos de préstamos
 
 - Préstamo bancario
 
@@ -3175,11 +3177,11 @@ En el año 2012, El Corte Inglés acudió al rescate de su filial de confección
 
 El ICO es una entidad financiera pública que ofrece financiación a empresas que cuenten con un aval de una S R, para disponer de liquidez o bien para la inversión en maquinaria, equipo informático, mobiliario, inmuebles, vehículos, etc. La tramitación de las operaciones se realiza directamente a través de las entidades de crédito y las Sociedades de Garantía Recíproca.
 
-## Un préstamo participativo
+#### Un préstamo participativo
 
 es un préstamo entre empresas por un plazo temporal breve (de uno a cuatro años), de manera que, al fin del contrato, la deuda se salda con participaciones o acciones. La entidad prestamista participa en la gestión mientras tanto.
 
-## Actividades
+#### Actividades
 
 4. Analiza las ventajas e inconvenientes de recibir un préstamo concedido por familiares o amigos.
 5. Entra en la web de CERSA http://www.reafianzamiento.es/cersa.php?zona=sgrs y averigua cómo se llama la SGR que opera en tu comunidad autónoma.
@@ -3195,7 +3197,7 @@ Fuente: El Economista. Madrid, 12 de noviembre de 2012 [en línea]
 
 7. Entra en la web del ICO (http://www.ico.es/web/contenidos/home/home.html) y averigua qué líneas de actuación tienen y cuál es la finalidad de cada una de ellas.
 
-## Financiación a corto plazo
+#### Financiación a corto plazo
 
 También se puede acudir a otras fuentes de financiación ajenas, como las líneas de crédito o los descubiertos en cuenta.
 
@@ -3209,15 +3211,15 @@ Estar al descubierto consiste en gastar un importe superior al saldo disponible 
 
 Tabla 4.4. Modos de financiación corto plazo (recursos ajenos).
 
-## Ejemplo 4. Empresa al descubierto
+#### Ejemplo 4. Empresa al descubierto
 
 Una empresa tiene en su cuenta bancaria un descubierto puntual de 5000 euros. El banco asume ese gasto y, a continuación, inicia el cobro de los intereses que podría estar situado en un 8% sobre el total cubierto. En este caso, 400 euros. A este cobro hay que añadir, además, la comisión por apertura del descubierto bancario, que podría estar fijada en un 4,5 % del importe en números rojos, en este caso, 225 euros de comisión de apertura, lo que arroja una deuda total de 5000 euros más 625 euros.
 
-## Actividades
+#### Actividades
 
 8. Señala las diferencias entre un préstamo y un crédito.
 
-## Otras formas de financiación
+#### Otras formas de financiación
 
 - Leasing y renting
 
@@ -3233,17 +3235,17 @@ Es un alquiler que incluye los gastos de mantenimiento. Se usa en vehículos, or
 
 Tabla 4.5. Leasing y renting.
 
-## Ejemplo 5. Los grandes con el renting
+#### Ejemplo 5. Los grandes con el renting
 
 Cobega, la distribuidora de bebidas de la marca Coca-cola en España, usa vehículos de ren ting. La empresa que le suministra esta flota de vehículos, Hispamer Auto-Renting, ha utilizado también este sistema de renting con importantes empresas como Thyssen, Cadbury Shweps, Alcampo, Procter &amp; amble, Fujitsu. Apple ofrece sus ordenadores Mac en opción de leasing o de renting.
 
-## Actividades
+#### Actividades
 
 - 9, Resuelve las siguientes cuestiones relacionadas con el leasing y el renting:
 - a) Compara el leasing con el renting y enumera sus diferencias.
 - b) Indica la opción que consideres preferible para equipar, de material tecnológico, una empresa de formación que imparte cursos de especialización y actualización a titulados de informática.
 
-## Necesidad de liquidez
+#### Necesidad de liquidez
 
 En otras ocasiones, las necesidades de financiación están influidas por la necesidad de liquidez para el día a día de la actividad empresarial, de manera que la empresa esté abastecida por los proveedores y, además, cobre puntualmente de sus clientes.
 
@@ -3261,19 +3263,19 @@ Es un servicio que garantiza el pago a los proveedores mediante un acuerdo con l
 
 Tabla 4.6. Necesidades de financiación influidas por la necesidad de liquidez.
 
-## Ejemplo 6. Contienda en el sector farmacéutico
+#### Ejemplo 6. Contienda en el sector farmacéutico
 
 Durante 2012 la deuda de la generalitat Valenciana con las farmacias llegó a ser desmesura da, acumulando un monto de 450 millones de euros. Ante esta situación de impago, los farmacéuticos iniciaron unas medidas de presión fuerte, llegando al cierre indefinido. El retraso en el pago del gobierno autonómico les causaba, a su vez, falta de liquidez para pagar a sus proveedores y la necesidad de endeudarse con créditos bancarios.
 
-## Ejemplo 7. Descuentos beneficiosos
+#### Ejemplo 7. Descuentos beneficiosos
 
 Los proveedores suelen incluir entre sus condiciones de pago una expresión similar a «3/10 neto 90», lo que significa que ofrece un aplazamiento en el pago de hasta 90 días, si bien, aplicará un descuento del 3 % si se abona el importe en los diez días siguientes a la recepción del pedido.
 
-## Actividades
+#### Actividades
 
 10. Explica qué ventajas y qué inconvenientes supone para los proveedores permitir el aplazamiento en el pago de los pedidos servidos.
 
-## Facilidades de pago
+#### Facilidades de pago
 
 En ocasiones, las necesidades de financiación están determinadas por la falta de pago puntual de (os clientes, que viene ofrecida por la empresa como una facilidad de pago.
 
@@ -3281,11 +3283,11 @@ Esta opción, habitual en empresas que venden bienes de alto precio, como electr
 
 Por ello, la compañía requerirá compensar esta carencia de liquidez e, incluso, el riesgo de impago, con fórmulas de financiación alternativas.
 
-### Crédito comercial:
+#### Crédito comercial:
 
 la empresa financia la compra de su cliente ofreciéndole la posibilidad de pagar a plazos en cómodas cuotas a 30,60 o 90 días. Es una manera de asegurar e incrementar las ventas, si bien conlleva riesgo de impago y falta de liquidez.
 
-### Tabla 4.7. Facilidades de pago.
+#### Tabla 4.7. Facilidades de pago.
 
 - Descuento comercial o descuento de efectos
 
@@ -3300,7 +3302,7 @@ Se trata de la cesión, a una empresa de factoring, de aquellas facturas de clie
 
 Tabla 4.7. Facilidades de pago.
 
-## Ejemplo 8. Empresas «protegidas de la crisis»
+#### Ejemplo 8. Empresas «protegidas de la crisis»
 
 Hay empresas que no parecen sentir en sus cuentas los efectos de la crisis, tal como se co menta en esta noticia.
 
@@ -3318,7 +3320,7 @@ Un activo fijo es un elemento permanente en una empresa, utilizado de manera con
 
 El fondo de maniobra es una magnitud que nos indica si una empresa dispone de los recursos suficientes para hacer frente a sus deudas más inmediatas. Es decir, nos indica si la empresa es solvente o no.
 
-## Actividades
+#### Actividades
 
 11. Resume todas las fuentes de financiación vistas, enumerándolas una a una y explicándolas con una breve frase.
 12. Lee esta noticia y explica con tus palabras la situación que se narra.
@@ -3333,43 +3335,43 @@ Fuente: Andalucía diario crítico. Sevilla, 16 de noviembre de 2012 [en línea]
 
 13. Señala las diferencias entre factoring y confirming.
 
-## B. Apoyo a jóvenes emprendedores
+### B. Apoyo a jóvenes emprendedores
 
 Los viveros empresariales, las incubadoras de negocios y las aceleradoras de empresas se han convertido en los últimos años en plataformas de lanzamiento de pymes, en todo el territorio nacional. Están impulsadas tanto por la iniciativa privada como por las administraciones públicas y pretenden apoyar y sostener en sus inicios a las iniciativas empresariales jóvenes.
 
 La razón de ser del apoyo privado es, lógicamente, obtener un beneficio económico. En el caso de la intervención pública, o privada sin ánimo de lucro, se persiguen objetivos sociales y económicos, como favorecer el tejido empresarial local, impulsar la innovación e incrementar la contratación de trabajadores.
 
-## Espacios de coworking o cotrabajo
+#### Espacios de coworking o cotrabajo
 
 Consisten en centros de trabajo compartidos, de forma que diferentes empresas ocupan una misma oficina. El precio suele estar fijado según el tiempo que se ocupa el espacio: todas las tardes, tres días a la semana, etc. Por buscar una similitud, se trata de la misma idea que la de compartir piso con compañeros y compartir gastos. En un centro de coworking también se comparten salas de reuniones, servicios de telefonía e internet, despachos para videoconferencias y hasta la misma oficina si solo se usa unas horas al día. Es accesible a cualquiera, pero suele ser utilizado solo por jóvenes emprendedores hasta que pueden instalarse en su propia sede. A la ventaja del ahorro económico se suma que el emprendedor puede contagiarse del ambiente estimulante que le rodea, e incluso realizar proyectos comunes o colaborar con otros emprendedores, como cliente o proveedor.
 
-## Ejemplo 9. Plataforma coworking
+#### Ejemplo 9. Plataforma coworking
 
 WorkPlaza es una plataforma de coworking. Ofrecen, por ejemplo, oficina céntrica en Madrid por 25 euros al mes de cuota fija más un euro por cada hora que acuda al centro e incluiría los gastos de mantenimiento, como luz, agua, calefacción o aire acondicionado, limpieza, etc. La contraprestación incluye tener a su disposición 35 puestos, tres salas de reuniones, una de eventos, Wi-Fi, domiciliación comercial y servicio de recepción.
 
 Además, se ofrecen otros servicios como gestoría, alquiler de coches o descuentos en reprografía, según la utilización que cada emprendedor haga. Se trata de una aplicación práctica de la filosofía de pago por uso, para evitar la esclavitud de gastos fijos.
 
-## Actividades
+#### Actividades
 
 14. Entra en este enlace http://www.panoramaaudlovisual.com/2012/11/13/nacela-industrial-un-espacio-que-ofrece-zona-de-coworking-eventos-talleresaula-y-formadon-avanzada
 
 y averigua qué servicios ofrece la empresa La Industrial y con qué finalidad.
 
-## Cluster
+#### Cluster
 
 Un cluster es una agrupación física de empresas, junto a instituciones y universidades con intereses similares o convergentes.
 
-### Ejemplo 10. El fenómeno cluster
+#### Ejemplo 10. El fenómeno cluster
 
 «"Cooperar o sufrir". Con esta idea han proliferado en los últimos años en España los cluster, agrupaciones entre pequeñas y medianas empresas para elevar la competitividad. Una herramienta que en plena crisis está demostrando ser eficaz para abaratar costes, impulsar la innovación y potenciar la internacionalización. El fenómeno ha cuajado en Aragón, una de las comunidades con más cluster en activo y, lo que es más importante, donde más frutos está dando esta fórmula de colaboración.»
 
 fuente: El Periódico de Aragón. Zaragoza, 7 de noviembre de 2012 [en línea]
 
-## Concursos o premios para emprendedores
+#### Concursos o premios para emprendedores
 
 Están convocados tanto por organismos públicos como por iniciativa privada. El fin que se persigue es el mismo: impulsar el emprendimiento.
 
-## Ejemplo 11. Apoyo al talento joven
+#### Ejemplo 11. Apoyo al talento joven
 
 La Fundación Banesto desarrolla desde hace años el programa YUZZ, un concurso de talento joven de ideas empresariales con base tecnológica.
 
@@ -3381,13 +3383,13 @@ La Fundación Banesto está ampliando la red de centros Yuzz para poder apoyar a
 
 Para más información, puedes consultar la siguiente página: http://www.yuzz.org
 
-## Viveros de empresa
+#### Viveros de empresa
 
 Son espacios similares a los centros de coworking, pero generalmente enfocados a jóvenes emprendedores que están iniciando un negocio, puesto que no suelen admitirse compañías con más de dos años de actividad.
 
 La razón se debe a que están financiados con dinero público, no para mantener a bajo coste los gastos de oficina, sino para que los jóvenes emprendedores tengan un espacio físico que les ayude a dar los primeros pasos hasta que su proyecto de negocio adquiera la envergadura suficiente para seguir su camino por sí mismos. Normalmente, suelen incluir servicios de asesoría jurídica y contable.
 
-## Ejemplo 12. Fomentando viveros empresariales
+#### Ejemplo 12. Fomentando viveros empresariales
 
 A pesar de la situación de crisis económica y del déficit público, o quizá precisamente por ello, las noticias de apertura de nuevos viveros de empresa no paran de sucederse en nuestro país. Una muestra de ello es:
 
@@ -3396,21 +3398,21 @@ A pesar de la situación de crisis económica y del déficit público, o quizá 
 - e El Ministerio de Industria, Energía y Turismo ha concedido al Ayuntamiento de Caravaca de la Cruz una subvención de 150000 euros para la ejecución del proyecto «Vivero de Empresas».
 - Sabadell contará con un nuevo vivero de emprendimiento tecnológico en L'Estruch.
 
-## Incubadoras de empresas
+#### Incubadoras de empresas
 
 El concepto es similar al de los viveros de empresa, pero suelen instalarse en parques científicos o tecnológicos para concentrar en una misma área negocios innovadores relacionados con las nuevas tecnologías. Por esa misma razón, es frecuente que algunos fondos de capital riesgo visiten estos parques tecnológicos en busca de start-up$ (empresas de nueva creación) en las que invertir.
 
 Su origen tuvo lugar en las universidades norteamericanas y su éxito más conocido es Silicon Valley, nacido gracias al impulso de dos profesores de la Universidad de Stanford. Las universidades buscaban crear áreas cercanas al campus que sirvieran para impulsar el nacimiento de empresas basadas en las innovaciones que los alumnos creaban en las aulas. La plataforma que ha supuesto Silicon Valley para el surgimiento de nuevas empresas de gran impacto ha contagiado la expansión de este modelo a muchos otros países. Países como Rusia o China están gestionando la creación de espacios similares en sus fronteras.
 
-## Aceleradoras de empresas
+#### Aceleradoras de empresas
 
 Está basada en una idea similar a la incuba dora, pero persigue el lanzamiento de un negocio naciente en el menor tiempo posible. Mientras que en las incubadoras se espera que los proyectos crezcan de forma natural, siguiendo los plazos marcados en sus planes de negocio, en las aceleradoras, en cambio, el propósito es lograr un crecimiento rápido en un breve plazo de tiempo. Para ello suelen ofrecer instalaciones económicas, un mentor y un capital semilla para iniciar el negocio o, al menos, el contacto con inversores pri vados y fondos de capital riesgo donde conseguir financiación. La rapidez en el nacimiento de estas empresas es posible porque, en términos generales, las aceleradoras apoyan proyectos que tienen como objeto social la fabricación de un producto económico con gran penetración de mercado. La alta demanda esperada se conseguiría gracias a la promoción y distribución online, que posibilita una difusión masificada a bajo coste y ofertar un precio de venta asequible, lo que favorece la compra impulsiva.
 
-## Un mentor
+#### Un mentor
 
 es aquel que ejerce la función de guiar y orientar a otro porque su experiencia y/o sus conocimientos lo autorizan para ejercer ese papel.
 
-## Ejemplo 13. Proyectos innovadores
+#### Ejemplo 13. Proyectos innovadores
 
 - «La empresa riojana raffter seleccionada en la convocatoria 2012 de Wayra»
 
@@ -3420,11 +3422,11 @@ El Gobierno de La Rioja cuenta con un vivero de empresas de base tecnológica, u
 
 Fuente: Europa Press, 17 de diciembre de 2012 [en línea]
 
-## Ayudas públicas y subvenciones
+#### Ayudas públicas y subvenciones
 
 Además de las acciones señaladas en el epígrafe anterior, las administraciones públicas tratan de fomentar el emprendimiento con diferentes medidas, tales como ayudas a la contratación de trabajadores, bonificaciones de las cuotas a la Seguridad Social, incentivos fiscales, ayudas financieras, subvenciones y asesoramiento empresarial, que son ayudas económicas a fondo perdido convocadas periódicamente y que exigen unos requisitos para ser concedidas.
 
-## Ejemplo 14. Ayudas a la exportación
+#### Ejemplo 14. Ayudas a la exportación
 
 - «CAVEX reclama ayudas fiscales que premien el éxito exportador»
 
@@ -3434,13 +3436,13 @@ En el contexto actual de recortes presupuestarios, CAVEX afirma que es necesario
 
 Fuente: Información.es. Elche, 7 de noviembre de 2012 [en línea]
 
-## Actividades
+#### Actividades
 
 15. Establece, en una tabla de dos entradas, las ventajas y los inconvenientes de los espacios de coworking, cluster, viveros, incubadoras, aceleradoras y de las ayudas públicas.
 
-## C. El coste de la financiación
+### C. El coste de la financiación
 
-## Coste de los recursos propios
+#### Coste de los recursos propios
 
 El capital conseguido a través de las fuentes de financiación tiene siempre un coste. En el caso de recursos propios, se trata del coste de oportunidad.
 
@@ -3450,7 +3452,7 @@ La cuantificación del coste de oportunidad de los socios se consigue analizando
 
 Así pues, la decisión a tomar no está basada en función del dinero a aportar a la empresa, sino en aquello a lo que debe renunciarse para financiar el negocio alternativo en el que se quiere invertir.
 
-## Ejemplo 15. Resistir o cerrar
+#### Ejemplo 15. Resistir o cerrar
 
 Una empresa tiene tres locales de venta al público, en uno de los cuales los ingresos han disminuido considerablemente, llegando a generar beneficios de 3900 euros/mes a pasar a ingresar entre 800 y 1 200 euros/mes.
 
@@ -3460,13 +3462,13 @@ Este dilema ilustra la valoración del coste de oportunidad que deben efectuar l
 
 En este caso, la decisión de mantener abierto el local conlleva la renuncia de conseguir una cifra segura de 1 000 euros al mes, aunque también implica el abandono de una actividad que puede ser más rentable si las circunstancias mejoran o si se introducen cambios que incrementen la demanda.
 
-## Actividades
+#### Actividades
 
 16. Lee la información recogida en el siguiente enlace y enumera las cuestiones más importantes que trata sobre el coste de oportunidad:
 
 http://www.ennaranjaxom/economia-facil/la-importancia-de-saber-elegirel-coste-de-oportunidad
 
-## Recursos ajenos
+#### Recursos ajenos
 
 En cuanto a los recursos ajenos, hablamos de coste financiero.
 
@@ -3476,7 +3478,7 @@ El coste financiero es un elemento fundamental a considerar para seleccionar las
 
 El cálculo del coste total de un proceso productivo contribuirá a precisar los márgenes de beneficios con que cuenta la empresa.
 
-## Ejemplo 16. Coste financiero
+#### Ejemplo 16. Coste financiero
 
 - «Uralita pierde millones por mayores costes financieros»
 
@@ -3492,7 +3494,17 @@ Fuente: Qué! Madrid, 15 de noviembre de 2012 [en línea]
 
 El objetivo en esta unidad es que definas las fuentes de financiación que te ayudarán a poner en marcha tu actividad empresarial. Al finalizar la unidad recogerás toda esa información para el plan de empresa en el apartado. Plan financiero.
 
-## Fase 1. Necesidades de inversión
+### Fases de la Simulación empresarial
+
+- Fase 1. Necesidades de inversión
+- Fase 2. Financiación por los socios fun dadores
+- Fase 3. Incorporación de nuevos socios
+- Fase 4. Préstamos y créditos
+- Fase 5. Leasing y renting
+- Fase 6. Financiación a corto plazo
+- Fase 7. Apoyo en las fases iniciales
+
+### Fase 1. Necesidades de inversión
 
 Las inversiones y gastos más frecuentes pa ra la puesta en marcha de un negocio suelen realizarse en los siguientes conceptos:
 
@@ -3507,17 +3519,7 @@ Las inversiones y gastos más frecuentes pa ra la puesta en marcha de un negocio
 - Gastos en promoción y publicidad: folletos, decoración escaparates, luces de neón, etc.
 - Cash-flow, esto es, dinero en efectivo disponible para los primeros meses de funcionamiento, hasta que la actividad empresarial genere ingresos.
 
-## Fases de la Simulación empresarial
-
-- Fase 1. Necesidades de inversión
-- Fase 2. Financiación por los socios fun dadores
-- Fase 3. Incorporación de nuevos socios
-- Fase 4. Préstamos y créditos
-- Fase 5. Leasing y renting
-- Fase 6. Financiación a corto plazo
-- Fase 7. Apoyo en las fases iniciales
-
-## Actividad de simulación 1
+#### Actividad de simulación 1
 
 Realiza las siguientes tareas:
 
@@ -3535,11 +3537,11 @@ En caso de que algún socio aporte algún bien (como elementos informáticos, po
 - d) Para adquirir objetos de segunda mano, localiza páginas web especializadas en estos objetos. Algunas son generales, como segundamano.es, y otras son específicas para determinados productos.
 - e) No olvides que en las siguientes fases tenéis que decidir las fuentes de financiación a utilizar para cubrir todas estas necesidades. Cuantos menos gastos tengáis, más fácil será cubrirlos.
 
-## Fase 2. Financiación por los socios fundadores
+### Fase 2. Financiación por los socios fundadores
 
 La primera pregunta que se hace un emprendedor que está ilusionado con iniciar un proyecto empresarial es: «¿De dónde obtendré el dinero?»; lo que va ligado a la pregunta: «¿De cuán tos ahorros dispongo?».
 
-## Capital social
+#### Capital social
 
 Las aportaciones de capital establecen el porcentaje de propiedad de la empresa. El aporte realizado en inmuebles o en bienes también tendrá la consideración de capital social, siempre que se trate de bienes y derechos económicamente valuables, esto es, que puedan ser cuantificados en términos económicos. Será este valor fijado el que se compute como capital social aportado y otorgará al socio los mismos derechos que si la contribución hubiera sido monetaria. En el caso de un empresario individual se habla de capital a secas, ya que el calificativo social sería inexacto, al no caber la posibilidad de tener socios.
 
@@ -3549,7 +3551,7 @@ Las aportaciones de capital establecen el porcentaje de propiedad de la empresa.
 
 El capital de una sociedad puede encontrarse totalmente desembolsado o suscrito, esto es, sin haberse aportado pero con el compromiso de hacerlo más adelante. En las sociedades limitadas, el importe mínimo es de 3000 euros, debiendo estar totalmente suscrito y des embolsado, mientras que en las sociedades anónimas, no puede ser inferior a 60000 euros, debiendo estar totalmente suscrito y desembolsado en, al menos, el 25 %.
 
-### Ejemplo 17. Capital social de Telefónica
+#### Ejemplo 17. Capital social de Telefónica
 
 La página web de Telefónica recoge la siguiente información:
 
@@ -3563,7 +3565,7 @@ El capital social puede incrementarse en aportaciones posteriores, cuando ya est
 
 El dinero aportado por los socios conlleva unas ventajas y unos inconvenientes. Conocerlos y valorarlos es necesario antes de decidir de dónde obtener el dinero (Tabla 4.8).
 
-## Dinero aportado por los socios: ventajas inconvenientes.
+#### Dinero aportado por los socios: ventajas inconvenientes.
 
 Tabla 4.8. Dinero aportado por los socios: ventajas inconvenientes.
 
@@ -3585,7 +3587,7 @@ Reducción de las posibilidades de expansión y crecimiento de la empresa. Los r
 
 Mayor rentabilidad para los socios temporales. Si una empresa funciona solo con el capital social, los inversores temporales, como las sociedades de capital riesgo o los business ángel, corren un mayor riesgo y pueden llegar a exigir remuneraciones superiores a las del capital ajeno.
 
-## Cuenta ahorro-empresa
+#### Cuenta ahorro-empresa
 
 La cuenta ahorro-empresa es una opción de ahorro si se tiene en mente iniciar un negocio con mucha antelación, ya que permite deducirse en el IRPF hasta un 15% de las cantidades depositadas a esta cuenta, durante un máximo de cuatro años y con un límite anual de 9000 euros. Esto, unido al hecho de que la empresa creada tiene que ser una sociedad limitada nueva empresa, es uno de los grandes inconvenientes de esta alternativa.
 
@@ -3595,7 +3597,7 @@ Normalmente, el emprendedor no suele optar por abrir una cuenta ahorro empresa, 
 
 Para poder deducir las cantidades de la cuenta ahorro-empresa en la declaración de la renta habrá que cumplir, además, los requisitos indicados en la Tabla 4.9.
 
-## Tabla 4.9. Requisitos para deducir en la Declaración de la Renta.
+#### Tabla 4.9. Requisitos para deducir en la Declaración de la Renta.
 
 Plazo
 
@@ -3609,7 +3611,7 @@ Condición
 
 - El contribuyente solo podrá mantener una cuenta ahorro-empresa y únicamente tendrá derecho a la deducción por la primera sociedad Nueva Empresa que se constituya.
 
-## Crowdfunding o micromecenazgo
+#### Crowdfunding o micromecenazgo
 
 Esta fuente de financiamiento se está popularizando como una manera de financiar un proyecto de empresa. Su origen se sitúa en las donaciones altruistas que, en países como Estados Unidos, es práctica habitual para sostener instituciones culturales o sufragar el coste de las campañas políticas.
 
@@ -3619,7 +3621,7 @@ Micropago o micropayment son los sistemas creados para realizar pagos de pequeñ
 
 Aunque pueda parecer una opción desconocida, ya hay varios ejemplos de plataformas que posibilitan el acceso a esta fuente de financiación. Algunas de ellas son específicas de un determinado sector profesional, de manera que reúne a seguidores de un gusto concreto, como jugadores de videojuegos que quieren apoyar económicamente nuevas versiones de estos juegos.
 
-## Tabla 4.10. Ventajas e inconvenientes del crowdfunding.
+#### Tabla 4.10. Ventajas e inconvenientes del crowdfunding.
 
 VENTAJAS
 
@@ -3634,7 +3636,7 @@ INCONVENIENTES
 - No es una opción tan masificada como parece.
 - La divulgación requerida del proyecto expone al promotor a que su idea sea copiada por otras empresas.
 
-## Tabla 4.11. Consejos para conseguir financiación a través del crowdfunding
+#### Tabla 4.11. Consejos para conseguir financiación a través del crowdfunding
 
 En la Tabla 4.11 se señalan algunos consejos para conseguir financiación a través de pequeñas aportaciones de particulares desinteresados.
 
@@ -3661,13 +3663,13 @@ Asistencia ensayos/rodajes, pases privados, etc.
 Degustaciones, productos gratis, objetos con autógrafos, etc.
 Sorteos de todo tipo (fin de semana en hotel, etc.).
 
-## Ejemplo 18. Casos de nrsicromecenazgo---------------------
+#### Ejemplo 18. Casos de nrsicromecenazgo---------------------
 
 Potlach es una plataforma de financiación colectiva, entre cuyos proyectos elegidos para ser difundidos en su plataforma se encuentra, por ejemplo, el portal barcelonapledevida que persigue reunir a todos los agentes implicados en el sistema sanitario: pacientes, colectivos en riesgo, profesores, personal sanitario, gestores de salud, personal con responsabilidad política, etc. con la finalidad de compartir conocimiento y mejorar la accesibilidad a la información sobre enfermedades a través de una oferta formativa eLearning y presencial.
 
 Otras plataformas de crowdfunding de aparición recientemente son, entre otras, Lánzanos, Goteo, La Tahona, lnjoinet,Verkami,Volanda o The Crowd Ángel.
 
-## Crowdsourcing o colaboración abierta distribuida
+#### Crowdsourcing o colaboración abierta distribuida
 
 Recientemente han surgido otras plataformas de crowdfunding que añaden además la opción del crowdsourcing.
 
@@ -3681,7 +3683,7 @@ Bien comunal o procomún son aquellos bienes cuyos beneficios o derechos de expl
 
 Esta misma idea de la colaboración abierta está en la base del lanzamiento de los programas o aplicaciones informáticas en beta, es decir, en una fase de prueba para que los usuarios comenten y mejoren las formas de optimizar el producto. Se trata de un diseño basado en la comunidad o diseño participativo distribuido. También ha servido de sostén al desarrollo científico y tecnológico, al ayudar a capturar, sistematizar o analizar grandes cantidades de datos.
 
-## Actividad de simulación 2
+#### Actividad de simulación 2
 
 Valora cuántos recursos económicos podéis conseguir como recursos propios, es decir, que no haya que devolver o que no tengan fijado un plazo de devolución concreto.
 
@@ -3702,7 +3704,7 @@ Por ejemplo, las conclusiones de esta primera simulación pueden variar los esta
 
 Debido a ello es inevitable que surjan estas contradicciones en una simulación que se va realizando fase a fase de manera organizada, por lo que al final de cada unidad os pediremos que reviséis el Plan de empresa redactado hasta ese momento, para incorporar los cambios, si los hubiera habido.
 
-## Fase 3. Incorporación de nuevos socios
+### Fase 3. Incorporación de nuevos socios
 
 Tras la aportación personal de los socios, es habitual pensar en el dinero que pueden prestar familiares o amigos. Es lo que en inglés denominan las «3 F: Family, Fríends and Fools («familia, amigos y locos»).
 
@@ -3712,7 +3714,7 @@ La tercera F, los Fools («locos») es una manera jocosa de resumir la creencia 
 
 Estos agentes desempeñan un papel decisivo en las empresas jóvenes ya que, además de la aportación financiera, implican procesos de acompañamiento de alto valor añadido para los emprendedores.
 
-## Ampliación de capital
+#### Ampliación de capital
 
 Un empresario individual, como su nombre indica, no puede tener socios. En cambio, el resto de sociedades pueden aceptar la entrada de nuevos socios. Algunas formas jurídicas tienen limitaciones respecto a la inclusión de nuevos miembros (Tabla 4.12).
 
@@ -3736,13 +3738,13 @@ Los socios colaboradores tienen derecho a un interés por el capital aportado a 
 
 Tabla 4.12. Ampliación de capital en distintos tipos de empresas.
 
-## Los dividendos
+#### Los dividendos
 
 constituyen el reparto anual de los beneficios entre los socios, proporcional al porcentaje de participación en la compañía, tras efectuarse todos los pagos (incluidos impuestos) y establecerse las reservas obligatorias y las voluntarias.
 
 Al final de cada ejercicio económico se establece la cantidad de dividendos a repartir. Si no ha habido beneficios o si es necesario reinvertir los obtenidos, no habrá reparto de dividendos.
 
-## La entrada de nuevos socios
+#### La entrada de nuevos socios
 
 tiene como consecuencia directa la necesidad de modificar las escrituras de la empresa, haciendo constar la nueva repartición del capital social, el reparto de beneficios y el derecho a voto.
 
@@ -3750,13 +3752,13 @@ En la sociedad anónima laboral, la sociedad limitada laboral y la sociedad coop
 
 La ampliación de capital también podrá establecerse a través del mercado de valores, pero hay empresas que no pueden salir a bolsa porque no cumplen con los requisitos exigidos o bien, por no querer financiarse de este modo.
 
-## Ejemplo 19. El caso de Decathlon
+#### Ejemplo 19. El caso de Decathlon
 
 Decathlon incrementa la aportación vía nuevos socios a través de sus empleados. Se les ofrece la posibilidad de participar en el accionariado de la empresa, a través de la compra de acciones, que no pueden superar en ningún caso el 25% de su remuneración bruta, con la posibilidad de recibir acciones regalo por superar una inversión mínima.
 
 Es una manera de incrementar los recursos económicos de la empresa, a la vez que vincular a los trabajadores con la buena marcha de la misma, incentivando su fidelidad e implicándoles en la mejora de la productividad, ya que en su condición de socio, la rentabilidad de sus acciones dependerá de la buena marcha del negocio.
 
-## Business angel
+#### Business angel
 
 Actualmente, los business angels sitúan su interés en proyectos que se desarrollen en la red, por tanto fácilmente replicables a otros países, que exijan una inversión inicial limitada y que generen ingresos con rapidez. Algunos ejemplos exitosos de este tipo son BuyVip,Tuenti o Privalia.
 
@@ -3764,7 +3766,7 @@ Al margen de Internet, solo hay otros dos sectores que captan la atención de es
 
 Cada inversor analiza entre 100 y 500 proyectos al año, de los que selecciona dos o tres. Con la crisis, resulta evidente que están aumentando sus exigencias para financiar proyectos.
 
-### Ejemplo 20. El caso José Marín
+#### Ejemplo 20. El caso José Marín
 
 José Marín es un reconocido business ángel que cuenta con 23 inversiones a nivel internacional, con una inyección media de entre 18000 y 360000 euros por negocio. Él asegura que siempre «permanece con los ojos abiertos», y que busca «proyectos con un mercado potencial grande y que el momento sea bueno», es decir, que no haya otras compañías compitiendo con la misma idea, y que el negocio sea eficiente en el uso de capital.
 
@@ -3776,7 +3778,7 @@ La clave para que un proyecto sea seleccionado por un business ángel es la viab
 
 La forma de contactar con un business ángel no es fácil Pero hay eventos o ferias que tratan de reunir a potenciales inversores con emprendedores en busca de financiación.
 
-## Ejemplo 21. Emprendedores versus business angels
+#### Ejemplo 21. Emprendedores versus business angels
 
 «La empresa City Eaters ha ideado una fórmula para poner en contacto a emprendedores y business angels en un contexto ameno y relajado: a través de una cena en un buen restaurante. El proceso es sencillo: basta entrar en la web de la compañía y reservar comida o cena con los inversores propuestos, entre los cuales se encuentran inversores de la incubadora DaD, eDreams, Kelkoo, Tuenti o Alice.
 
@@ -3786,7 +3788,7 @@ Uno de los participantes es Carlos Dexeus, inversor de Kelkoo, Tuenti y Alice. P
 
 Fuente: ABC. Madrid, 22 de abril de 2012 [en línea]
 
-## Capital riesgo
+#### Capital riesgo
 
 El capital riesgo puede provenir de:
 
@@ -3797,7 +3799,7 @@ Generalmente, el capital riesgo se invierte en una fase temprana del desarrollo 
 
 La mayoría del capital riesgo destina pequeñas cantidades en varias start-ups para compensar las pérdidas de unas con las ganancias en las otras.
 
-## Ejemplo 22. Afianzar proyectos
+#### Ejemplo 22. Afianzar proyectos
 
 Cristina Garmendia fue ministra de Ciencia e Innovación. Fundó el grupo biotecnológico Genetrix y años después la entidad de capital riesgo Ysios Capital Partners para invertir en proyectos empresariales especializados en biotecnología y salud.
 
@@ -3808,7 +3810,7 @@ Fuente: Diario de Burgos. Burgos, 26 de octubre de 2012 [en línea] (adaptación
 
 En la Tabla 4.13 se enumeran algunos consejos para evitar que el proyecto empresarial sea rechazado por una sociedad de capital riesgo.
 
-## Tabla 4.13. Consejos para captar la atención de una sociedad de capital riesgo.
+#### Tabla 4.13. Consejos para captar la atención de una sociedad de capital riesgo.
 
 - Constituir la empresa: Constituir la empresa, en lugar de esperar a tener capital para ejecutar la idea.
 
@@ -3830,7 +3832,7 @@ En la Tabla 4.13 se enumeran algunos consejos para evitar que el proyecto empres
 
 - Incrementar la red de contactos: Siguen siendo fundamentales para prosperar.
 
-## Actividad de simulación 3
+#### Actividad de simulación 3
 
 Analiza, junto con tus socios, si es viable que algún nuevo socio se incorpore a vuestra empresa. En tal caso, discutid las condiciones en las que lo hará y cómo eso modificará vuestros estatutos.
 
@@ -3840,11 +3842,11 @@ Ayuda práctica:
 
 Tal vez algún amigo o familiar con el que no habías contado inicialmente quiera añadirse al proyecto si se lo propones. Valora el capital o bienes que podría aportar, pero también su formación y experiencia. Puede que encaje en algún área de vuestro proyecto. En tal caso, comprueba que respetáis las limitaciones legales establecidas al efecto.
 
-## Fase 4. Préstamos y créditos
+### Fase 4. Préstamos y créditos
 
 El préstamo de capital puede venir de la familia, de amigos o de una entidad financiera.
 
-## Familia y amigos
+#### Familia y amigos
 
 Las ventajas e inconvenientes de recibir dinero de la familia o amigos se exponen en la Tabla 4.14:
 
@@ -3861,7 +3863,7 @@ La escasa disponibilidad de dinero que se puede con seguir de estas fuentes.
 La falta de libertad para tomar las propias decisiones o, al menos, para comentarlas libremente.
 La intromisión en el negocio a través de preguntas fiscalizadoras, aportando sugerencias, presionando hacia determinada línea de trabajo o tratando de participar activamente en la empresa.
 
-## Entidad financiera
+#### Entidad financiera
 
 El préstamo firmado con una entidad bancaria genera más obligaciones que el recibido de la familia o amigos. Por ese motivo, es preciso aclarar unos conceptos previos, que también se dan en un crédito.
 
@@ -3881,7 +3883,7 @@ Las comisiones son los cobros que establece el banco si se producen determinadas
 
 La amortización es el proceso financiero por el cual se reduce gradualmente una deuda debido al pago periódico de unas cuotas, que pueden ser invariables o diferentes.
 
-## Préstamo personal y el préstamo hipotecario.
+#### Préstamo personal y el préstamo hipotecario.
 
 Se puede diferenciar varios tipos de préstamos, pero nos centraremos en la diferencia entre el préstamo personal y el préstamo hipotecario.
 
@@ -3897,7 +3899,7 @@ Subrogación. Derecho a cambiar de entidad bancaria, si ofrecen condiciones más
 
 Euribor (European Inter Bank Offered Rate). Es la media aritmética de los ti pos de interés que fijan los bancos de la zona euro para prestar interés al resto de las entidades bancadas. Los ban cos suelen escoger el Euribor a un año como el tipo de interés habitual para préstamos hipotecarios.
 
-## Aspectos a tener en cuenta antes de solicitar un préstamo para inmueble
+#### Aspectos a tener en cuenta antes de solicitar un préstamo para inmueble
 
 - Seguros
 
@@ -3949,7 +3951,7 @@ Así, algunas entidades financieras pueden anunciar un interés nominal al 0,00%
 
 Tabla 4.15. Aspectos a tener en cuenta antes de solicitar un préstamo para inmueble (Continuación).
 
-## Consejos a considerar antes de solicitar un préstamo o crédito
+#### Consejos a considerar antes de solicitar un préstamo o crédito
 
 1. Los requisitos para obtener financiación varían en cada banco, pero la mayoría requiere que la empresa lleve como mínimo un año de funcionamiento, que tenga las finanzas sanas y un índice de rentabilidad elevado.
 2. Comparar los préstamos que ofrecen las diferentes entidades financieras, basándose en el TAE.
@@ -3975,7 +3977,7 @@ Los elementos que analizará la entidad financiera para decidirse serán:
 - c) La solidez de los proveedores.
 - d) El equipo humano que constituye la empresa, es decir, los socios.
 
-## Actividad de simulación 4
+#### Actividad de simulación 4
 
 Reúnete con tus socios. Estudiad cuánto dinero pensáis obtener a través de un préstamo y si será conveniente tener una línea de crédito abierto, para evitar problemas de liquidez. Identificad qué fuente de préstamos sería más idónea.
 
@@ -3986,13 +3988,13 @@ Ayuda práctica:
 - c) Por último, señala qué cantidad solicitaríais a una entidad financiera y busca información en Internet de diferentes entidades bancarias (al menos, tres), anota las condicio nes de cada una y, finalmente, valora la oferta que más os interese.
 - d) Busca información sobre la Sociedad de Garantía Recíproca de la comunidad autónoma correspondiente al domicilio social de vuestro negocio y anota qué condiciones establecen para actuar como avalistas. Indica si sería viable que actuaran como avalistas de vuestro proyecto, en caso de que necesitéis solicitar una suma importante de dinero en un préstamo bancario.
 
-## Fase 5. Leasing y renting
+### Fase 5. Leasing y renting
 
 La adquisición o renovación de los instrumentos de trabajo incrementa los recursos económicos necesarios. Cuando la empresa goza de beneficios económicos suficientes, puede destinar una parte de los mismos a futuras compras. Sin embargo, el ahorro implica un coste de oportunidad, puesto que ese capital podría estar siendo utilizado en otras actividades más rentables, bien sean actividades propias de la empresa, bien sea contratando un producto financiero que ofrezca una rentabilidad más alta que una cuenta corriente remunerada en una entidad bancaria.
 
 Por este motivo, las opciones de leasing y renting son muy atractivas, tanto si la empresa dispone de recursos económicos para la compra, como en caso contrario. Además, esta alter nativa permite no quedarse obsoletos en aquellos negocios que quieren ser punteros.
 
-## El leasing
+#### El leasing
 
 Presenta como ventajas, además de la financiación total sin requerir desembolsos iniciales, la opción de compra y una deducción fiscal del total de cuotas abonadas a la empresa arrendadora.
 
@@ -4002,17 +4004,17 @@ En el caso de los bienes inmuebles, como edificios, locales, despachos, oficinas
 
 En España, donde existe la Asociación Española de Leasing, este tipo de financiación está muy extendido, siendo el quinto país de Europa donde más se utiliza. En Estados Unidos, no obstante, el uso de esta fuente de financiación es muchísimo mayor debido a que nació en ese país a mediados de los sesenta.
 
-## El valor residual
+#### El valor residual
 
 es la diferencia entre el precio que abonó la compañía de leasing por el bien, al que se añade los gastos e intereses del contrato y lo que el usuario ha abonado durante la duración del contrato.
 
-## Ejemplo 23. Leasing de vacas
+#### Ejemplo 23. Leasing de vacas
 
 Aunque no es habitual, hay empresarios que aplican con ingenio las posibilidades que ofrece esta opción.
 
 Es el caso de un tratante (nombre con el que se conoce a los vendedores de reses) especializado en ganado de alta genética y óptimo rendimiento, que tras comprobar las dificultades de los ganaderos para adquirir este tipo de reses, le surgió la idea del leasing de vacas. Esto ocurrió en el año 1988, pero todavía hoy permite a los ganaderos disponer de estas reses mediante un leasing de entre 1,60 y 2,50 euros al día.
 
-## El renting
+#### El renting
 
 El renting es una alternativa tan usada como el leasing. Los sectores que más demandan esta opción de alquiler son el químico-farmacéutico, el informático y las telecomunicaciones. Igualmente, el gasto es fiscalmente deducible en su totalidad, al considerarse un desembolso necesario para la actividad profesional.
 
@@ -4020,11 +4022,11 @@ Existe la Asociación Española de Renting (AER), con 18 compañías asociadas. 
 
 El carsharing, también denominado carpooling, es una iniciativa entre particulares para compartir coche en desplazamientos regulares, como un medio de ahorrar gastos y de reducir la contaminación.
 
-## Ejemplo 24. Renting al servicio público
+#### Ejemplo 24. Renting al servicio público
 
 El Ayuntamiento de Burriana, en Castellón, ha adjudicado a la empresa Alphabet un contrato de renting para el suministro de cinco vehículos patrulla para la policía local por un período de cuatro años. El importe anual por los cinco vehículos es de 58944 euros.
 
-## Consideraciones antes de contratar un renting o un leasing
+#### Consideraciones antes de contratar un renting o un leasing
 
 Tabla 4.16. Consideraciones antes de contratar un renting o un leasing.
 
@@ -4054,7 +4056,7 @@ Tabla 4.16. Consideraciones antes de contratar un renting o un leasing.
 | Renting | La cuota mensual suele mantenerse fija durante la duración del contrato. |
 | Leasing | La cuota mensual suele mantenerse fija durante la duración del contrato. |
 
-## Actividad de simulación 5
+#### Actividad de simulación 5
 
 Selecciona aquellos bienes muebles o inmuebles que podéis financiar a través de un contrato de leasing o de renting, y averigua el precio de la cuota de alquiler resultante.
 
@@ -4062,9 +4064,9 @@ Ayuda práctica:
 
 Busca información en Internet sobre las empresas que ofrecen este tipo de financiación. En caso de bienes muy específicos, como aparatología para depilación láser en un centro de estética, muchas veces son los propios proveedores los que ofrecen esta posibilidad. Es una manera de asegurarse más facturación y volumen de negocio que si solo permitieran la opción de compra.
 
-## Fase 6. Financiación a corto plazo
+### Fase 6. Financiación a corto plazo
 
-## Crédito comercial por proveedores
+#### Crédito comercial por proveedores
 
 El aplazamiento en los pagos a proveedores puede ser una interesante fuente de financiación. Es lo que se conoce como crédito comercial y lo habitual es ofrecer aplazamientos en el pago a 30,60 o 90 días. Según datos aparecidos en prensa, el uso del crédito comercial entre empresas se extiende a un 98%, es decir, la práctica totalidad de las empresas encuestadas vende a crédito sus productos o servicios a otras empresas.
 
@@ -4075,7 +4077,7 @@ De manera general, negociar un aplazamiento con los proveedores supone una opci�
 - Periodo Medio de Maduración Económico (PMME). Representa el tiempo medio que tarda una empresa en recuperar la liquidez desde la compra de materias primas hasta el cobro por las ventas realizadas.
 - Periodo Medio de Maduración Financiero (PMMF). Es el PMME al que se le resta el periodo medio de pago de proveedores, constituyendo los días para los que la empresa deberá buscar financiación para garantizar su ciclo económico.
 
-## Descuento por pronto pago
+#### Descuento por pronto pago
 
 Los problemas financieros de las pymes se reducen, principalmente, a dos: dificultad de ac ceder a crédito y problemas para cobrar a tiempo la mercancía servida. El retraso habitual en el pago a proveedores hace recaer el coste de la financiación en el proveedor llegando a una situación de impago comercial o morosidad comercial Es una tendencia generalizada entre la Administración pública y las grandes empresas.
 
@@ -4087,13 +4089,13 @@ Los datos estadísticos de finales de 2012 mostraron el descenso en la morosidad
 
 Hay ayuntamientos, sin embargo, que ya están desarrollando acciones para pagar a tiempo a los proveedores, como la iniciativa del Gobierno de Navarra de iniciar un Registro de Facturas, para que los propios acreedores registren las facturas y se eviten así retrasos innecesarios por razones administrativas o burocráticas.
 
-## Ejemplo 25. El «Buen Fin» de Walmart
+#### Ejemplo 25. El «Buen Fin» de Walmart
 
 «La cadena de autoservicio estadounidense Walmart ha llevado a cabo la campaña "Buen fin", en la que durante un fin de semana se pondrán a la venta artículos a un precio ventajoso. Para garantizarse el abastecimiento, la cadena llevó a cabo el programa "Pronto pago para proveedores".»
 
 Fuente: El Economista, 17 de diciembre de 2012 [en línea]
 
-## Confirming
+#### Confirming
 
 El Banco Santander fue el pionero de esta iniciativa y, a pesar de que tiene la marca registrada, permite utilizar este nombre al resto de las entidades bancarias.
 
@@ -4103,21 +4105,21 @@ Las líneas de confirming están accesibles para grandes y medianas empresas que
 
 Hasta hace poco, el confirming no se aceptaba en operaciones de pago internacional, sin embargo, ya hay un ejemplo de banco nacional que busca ampliar su mercado, orientándose hacia aquellos países emergentes que están en crecimiento.
 
-### Ejemplo 26. CaixaBank pioneros en confirming internacional
+#### Ejemplo 26. CaixaBank pioneros en confirming internacional
 
 CaixaBank ha sido la primera entidad financiera en desarrollar la actividad de confirming internacional con China. Además, ofrece todos sus servicios de banca electrónica en idioma chino.Y ello es debido a que, según datos de la propia entidad, el 54% de la comunidad china en España son clientes suyos.
 
-## Factoring
+#### Factoring
 
 El factoring es una operación financiera por la cual se cede a una empresa de factoring o a una entidad financiera, aquellas facturas de clientes que están pendientes de cobro, a cam bio del pago de una comisión y de unos intereses. La comisión puede suponer el 3 % del valor del capital pendiente de cobro. Los intereses se fijarán en función del capital anticipado y del plazo de tiempo.
 
 Es una opción muy aconsejable para empresas que permiten pagar a plazos, de manera que venden productos pero los reponen antes de haberlos cobrado en su totalidad. El factoring es una operación habitual dentro de las grandes empresas, pero no aún en las pymes. Esto se debe a que las entidades bancarias solo aceptan pymes cuyos clientes sean grandes empresas solventes.
 
-### Ejemplo 27. CaixaBank, pioneros en factoring internacional
+#### Ejemplo 27. CaixaBank, pioneros en factoring internacional
 
 Caixabank cuenta con la opción de factoring internacional. De esta manera, las empresas españolas exportadoras o del sector turístico pueden anticipar el cobro de las facturas de sus clientes extranjeros. Estos abonos se pueden realizar en la mayoría de las divisas. Como ventaja adicional, está la valoración de la empresa extranjera para conocer cuál es su nivel de riesgo.
 
-## Según las condiciones que se pacten, se pueden conseguir otras ventajas:
+#### Según las condiciones que se pacten, se pueden conseguir otras ventajas:
 
 - Adelanto total o parcial del importe pendiente de cobro. Cuanto más dinero se adelante, más liquidez gozará la empresa pero más comisión e interés deberá abonar.
 - Valoración de la solvencia del cliente. Elemento fundamental pues lo importante no es el volumen de facturación, sino que se cobre todo lo que se venda.
@@ -4128,17 +4130,17 @@ Caixabank cuenta con la opción de factoring internacional. De esta manera, las 
 
 Como principal inconveniente podemos citar el alto coste financiero y el rechazo de la entidad bancaria o de factoring a ofrecer este servicio a todas las empresas.
 
-## Ejemplo 28. Negación de factoring
+#### Ejemplo 28. Negación de factoring
 
 Con la crisis económica, hay empresas que acumulan una suma importante de dinero pen diente de cobro a la administración. Es el caso de proveedores de la Comunidad Valenciana, que acumulan retrasos en el pago de sus facturas por importes considerables. Sin embargo, estas compañías tienen que seguir manteniendo su actividad económica, por lo que tratan de suplir esta falta de ingresos con una fuente de financiación alternativa, encontrándose que las entidades bancarias no están dispuestas a hacer factoring ni a ofrecer ningún tipo de financiación porque califican esa deuda de difícil cobro.
 
-## Descuento comercial o descuento de efectos
+#### Descuento comercial o descuento de efectos
 
 El descuento comercial o descuento de efectos comparte similitudes con el factoring. A tra vés del descuento de efectos se cede a una entidad financiera el cobro de deudas pendientes de pago de cualquier modalidad, que se denominan efectos, que pueden comprender letras de cambio, pagarés, cheques, etc. Igualmente, habrá que pagar una comisión y unos intereses por el tiempo que falta hasta su vencimiento.
 
 A pesar de las semejanzas que el descuento comercial mantiene con el factoring, también existen diferencias, como se comentan seguidamente en la Tabla 4.17.
 
-## Tabla 4.17. Diferencias entre descuento comercial y factoring.
+#### Tabla 4.17. Diferencias entre descuento comercial y factoring.
 
 - CONTRATOS
 
@@ -4165,7 +4167,7 @@ Factoring: En el caso de un Factoring sin recurso solo hay un deudor, que es el 
 Descuento comercial: No incluye servicios adicionales a la financiación.
 Factoring: Puede incluir servicios adicionales, como el estudio de la solvencia del cliente, la gestión de la cartera pendiente de cobro o la cobertura del riesgo.
 
-## Actividad de simulación 6
+#### Actividad de simulación 6
 
 En esta fase se trata de valorar las fuentes de financiación a corto plazo estudiadas, bien sea por aplazamiento del pago a proveedores, descuentos por pronto pago, servicios de Factoring, confirming o de descuento de efectos.
 
@@ -4175,13 +4177,13 @@ Ayuda práctica:
 
 No es fácil encontrar información sobre los servicios de confirming, de Factoring o de descuento comercial online, ya que las condiciones que ofrece la entidad financiera de penderán de cada caso concreto, como la solvencia de la entidad, el montante total, etc. Trata de averiguar esta información acercándoos a una sucursal bancaria. En caso de no conseguir los datos económicos, realiza una valoración sobre las ventajas y los inconvenientes de utilizar estas fuentes de financiación y una conclusión final sobre si estaríais inclinados a contratar alguno de estos servicios.
 
-## Fase 7. Apoyo en las fases iniciales
+### Fase 7. Apoyo en las fases iniciales
 
-## Coworking
+#### Coworking
 
 En principio, está más orientada a trabajadores freelance o autónomos que no requieren de un gran establecimiento. Por este motivo, se ha convertido en una solución interesante para diseñadores, programadores, periodistas, escritores, etc.
 
-## Ejemplo 29. Vivero Vivesoy
+#### Ejemplo 29. Vivero Vivesoy
 
 Vivero Vivesoy es un espacio de coworking y apoyo a emprendedores de la marca Pascual, con un matiz diferencial. Los usuarios no abonan alquiler, sino que trabajan en el desarrollo de su idea empresarial que luego presentan en una web. Aquella iniciativa con más votos ganará recibiendo una aportación económica proporcional a los votos recibidos, de manera que se financiará medio euro por cada voto obtenido.
 
@@ -4189,13 +4191,13 @@ En el año 2012 la idea ganadora fue el proyecto «Dislexia», una aplicación m
 
 De esta manera, la marca Pascual realiza acciones de Responsabilidad Social Corporativa, enfocadas al desarrollo empresarial.
 
-## Cluster
+#### Cluster
 
 Se basa en la idea de parques tecnológicos o científicos, pero abarca a una gran variedad de sectores económicos.
 
 La mayoría de los estados miembros de la Unión Europea están implementando políticas de clusters. Se han identificado más de 2000 en 258 regiones analizadas por el Observatorio Europeo de Clusters. En España, la aparición de los clusters se remonta a los años 90 y esta ba enfocado solo a sectores industriales de máquinas o electrodomésticos.
 
-## Ejemplo 30. Cluster de empresas tecnológicas en Barcelona
+#### Ejemplo 30. Cluster de empresas tecnológicas en Barcelona
 
 «Nace en Barcelona un cluster de empresas tecnológicas para impulsar las TIC en el ámbito educativo»
 
@@ -4203,7 +4205,7 @@ La mayoría de los estados miembros de la Unión Europea están implementando po
 
 Fuente: El Economista. Madrid, 21 de noviembre de 2012 [en línea]
 
-## Concursos o premios para emprendedores
+#### Concursos o premios para emprendedores
 
 Hay buenas razones que sustentan la participación en este tipo de acciones, tales como:
 
@@ -4212,7 +4214,7 @@ Hay buenas razones que sustentan la participación en este tipo de acciones, tal
 3. Mejorar la profesionalidad de los emprendedores, al requerir una mayor entrega y compromiso, así como una ejercitación de destrezas organizativas, técnicas expositivas, habilidades sociales, etc.
 4. Darse a conocer en foros adecuados, acceder a información sobre otros cauces alternativos, mejorar nuestra competencia personal, etc. En definitiva, incrementar nuestra valía emprendedora.
 
-## Viveros de empresas
+#### Viveros de empresas
 
 También se los conoce como semilleros de empresa. Los primeros viveros que surgieron en nuestro país fue en los campus universitarios, imitando las medidas que Estados Unidos y otros países de Europa llevaban a cabo para apoyar a sus jóvenes estudiantes con perfil emprendedor.
 
@@ -4220,7 +4222,7 @@ En la actualidad, los viveros de empresa están promovidos por universidades, ay
 
 Estos servicios presentan algunas limitaciones, tales como las reflejadas en la Tabla 4.18.
 
-## Tabla 4.18. Limitaciones de los viveros de empresas.
+#### Tabla 4.18. Limitaciones de los viveros de empresas.
 
 - No es práctico en negocios que requieren almacenaje o estar a pie de calle para atraer clientes.
 
@@ -4232,7 +4234,7 @@ Estos servicios presentan algunas limitaciones, tales como las reflejadas en la 
 
 - La oferta no es muy numerosa, al contrario de lo que sucede con el coworking, puesto que este se basa en iniciativa privada. De manera que resultará más fácil encontrar una oficina de coworking cercana al domicilio del emprendedor que un vivero.
 
-## Incubadora de empresas
+#### Incubadora de empresas
 
 A diferencia de los viveros de empresas, el apoyo técnico y económico ofrecido es mayor, ya que cuenta con mentores o expertos y con una red de contactos para facilitar la búsqueda de financiación. Transfieren una forma de pensar: la empresarial.
 
@@ -4248,11 +4250,11 @@ Tabla 4.19. Criterios de elección de un proyecto empresarial.
 | El hueco del mercado | La viabilidad |
 | Los medios tecnológicos y humanos necesarios | El perfil de los socios |
 
-### Ejemplo 31. Bic Euronova
+#### Ejemplo 31. Bic Euronova
 
 Se están iniciando experiencias pioneras en el ámbito de la formación profesional. Así, la incubadora Bic Euronova de Málaga participa en un proyecto que permite a estudiantes de Formación Profesional diseñar un plan de negocio y simular su viabilidad, aportándoles asesoramiento y apoyo. Al finalizar, los alumnos estarán más capacitados para constituir su empresa.
 
-## Proceso de desarrollo de un proyecto empresarial
+#### Proceso de desarrollo de un proyecto empresarial
 
 - Preincubación. Desarrollo del plan de negocio y la investigación de mercados.
 - Incubación. Se profundiza en la idea de negocio, concretando las áreas de producción, mercadotecnia, financiación y recursos humanos, mientras se buscan.
@@ -4260,13 +4262,13 @@ Se están iniciando experiencias pioneras en el ámbito de la formación profesi
 
 En este sentido, Madrid ha creado la preincubadora Madrid Crece. La idea es ofrecer un lugar de trabajo similar al de una empresa, junto a un servicio de orientación y apoyo personalizado en la elaboración del plan de empresa, tales como información de ayudas y subvenciones, así como los trámites administrativos.
 
-## Diferencia entre coworking y los viveros de empresas o incubadoras empresariales:
+#### Diferencia entre coworking y los viveros de empresas o incubadoras empresariales:
 
 Los viveros y las incubadoras están apoyados por organismos públicos, como cámaras de comercio, ayuntamientos e incluso universidades que establecen sus criterios de acceso. Por ejemplo, la actividad empresarial debe estar incluida en los sectores profesionales que el organismo concreto desea fomentar, o se puede exigir que los emprendedores asistan a una formación específica por parte de los organismos que promueven estos viveros.
 
 El plazo de permanencia en un coworking es ilimitado, mientras que viveros e incubadoras es tán pensados para apoyar a emprendedores que inician su actividad, por lo que transcurridos tres años tendrá que buscar un nuevo emplazamiento, con el trastorno que eso supone para los contactos establecidos de clientes, proveedores, etc.
 
-## Ejemplo 32. Israel ocupó en 2011 el puesto catorce en innovación mundial
+#### Ejemplo 32. Israel ocupó en 2011 el puesto catorce en innovación mundial
 
 «Su modelo de gestión está centrado en dos ejes: el uso de inversiones para atraer capital privado, en especial incubadoras de negocios o startups, y la explotación del mercado de capital riesgo, que en Israel es el segundo mercado más importante del mundo en términos absolutos.
 
@@ -4276,7 +4278,7 @@ El presidente de la Cámara de Comercio Hispano-lsraelí cree que la inversión 
 
 Fuente: Cinco Días. Madrid, 2 de noviembre de 2012 [en línea]
 
-## Aceleradora de empresas
+#### Aceleradora de empresas
 
 Una aceleradora de empresas o business accelerator es una entidad especializada en favorecer el rápido crecimiento de otra compañía. Para ello, puede intervenir como consultora, o bien, entrar en el accionariado de la compañía y, por tanto, en su gestión, aunque se admite también el esquema mixto, de asesoramiento y apoyo financiero.
 
@@ -4284,19 +4286,19 @@ Se trata de programas para startups tecnológicas en una fase inicial La acelera
 
 La aceleradora puede estar constituida por capital privado o público. En general, se trata de inversores privados que esperan conseguir un beneficio económico a cambio, pero también es posible encontrar, tras una incubadora, una asociación sin ánimo de lucro formada por mentores e inversores que pretenden desarrollar y apoyar un área de negocio con potencial para beneficio de la sociedad. Incluso pueden estar respaldadas por patrocinios de entidades o por entidades públicas.
 
-## Ejemplo 33. SeedRocket
+#### Ejemplo 33. SeedRocket
 
 La aceleradora SeedRocket está fundada por dos emprendedores y un business angels con más de diez años de experiencia en el sector de las telecomunicaciones y de la financiación de startups. Entre los mentores de SeedRocket se encuentran los emprendedores de Trovit, Atrápalo, Toprural, Idealista y The Cocktail
 
-## Ejemplo 34. linktoGrowUp
+#### Ejemplo 34. linktoGrowUp
 
 Una experiencia interesante en este sentido, por cuanto se sale de los cauces habituales de funcionamiento de una aceleradora, es la web linkto rowUp. A través de su página, se ofrece visibilidad a los emprendedores para que busquen clientes en 90 días. La idea de base es que, si hay consumidores interesados, habrá inversores dispuestos a confiar su capital en la empresa.
 
-## Ayudas públicas
+#### Ayudas públicas
 
 Además de las acciones señaladas en el epígrafe anterior, las administraciones públicas tra tan de fomentar el emprendimiento con diferentes medidas, tales como las referidas en la Tabla 4.20:
 
-## Tabla 4.20. Tipos de ayudas públicas.
+#### Tabla 4.20. Tipos de ayudas públicas.
 
 - Ayudas a la contratación de trabajadores
 
@@ -4346,7 +4348,7 @@ ENISA es una empresa de capital público adscrita al Ministerio de Industria, Tu
 
 Se realiza por medio de los viveros de empresa y los organismos de apoyo al emprendimiento mencionados en el punto anterior. O también a través de los PAIT y la red de creación de empresas CIRCE, analizadas en la unidad anterior.
 
-## Actividad de simulación 7
+#### Actividad de simulación 7
 
 Analiza qué facilidades o ayudas, de iniciativa privada o financiadas con dinero público, están disponibles en el área donde habéis decidido implantar vuestro negocio y valora cuáles son aplicables a vuestro proyecto.
 
@@ -4370,7 +4372,7 @@ Anotad los requisitos que solicitan y si consideráis posible la obtención de l
 
 En caso de que no encontréis información al respecto, enumerad cinco webs donde habéis buscado la información y los motivos por los que consideráis que no habéis hallado ninguna ayuda pública de interés.
 
-## Plan de empresa
+#### Plan de empresa
 
 Ha llegado el momento de sintetizar las ideas obtenidas en estas fases de la Simulación empresarial e incorporarlas a vuestro plan de empresa.
 
@@ -4539,7 +4541,9 @@ PLAN DE EMPRESA:
 
 # 5. Viabilidad empresarial
 
-## En esta unidad aprenderemos a:
+## En esta unidad
+
+### aprenderemos a:
 
 - Analizar la viabilidad técnica del negocio.
 - Contrastar el cumplimiento de la normativa legal del futuro negocio.
@@ -4548,7 +4552,7 @@ PLAN DE EMPRESA:
 - Elaborar un plan de viabilidad a largo plazo para poder efectuar una mejor planificación en la empresa.
 - Realizar los documentos contables de una empresa.
 
-## Y estudiaremos:
+### Y estudiaremos:
 
 - Viabilidad económica, financiera, comercial, jurídica, medioambiental y técnica.
 - Análisis económico-financiero de proyectos de empresa: ratios y fondo de maniobra.
@@ -4558,11 +4562,11 @@ PLAN DE EMPRESA:
 - El punto de equilibrio.
 - Elaboración de balances y cuenta de pérdidas y ganancias.
 
-## John Maynard Keynes, economista británico.
+### John Maynard Keynes, economista británico.
 
 «Si te debo una libra tengo un problema. Si te debo un millón» el problema es tuyo.»
 
-## Actividad
+### Actividad
 
 2. Durante un tiempo, todas las etiquetas de las tiendas de Mercadona indicaban el precio de sus productos en color amarillo, ¿a qué crees que se debía esto?
 3. Expresa tu opinión sobre la cita contenida en la última frase del texto.
@@ -4573,7 +4577,7 @@ En este apartado vamos a recordar algunos conceptos que te serán útiles para r
 
 ingresos y gastos, beneficios y pérdidas, tesorería, patrimonio, ratios, viabilidad, balance, solvencia, cuenta de resultados, pérdidas, entradas y salidas, inversión, liquidez
 
-## A. Plan financiero
+### A. Plan financiero
 
 El plan financiero es un estudio de las estrategias empresariales a realizar para conseguir fondos económicos e invertirlos para obtener un beneficio.
 
@@ -4587,7 +4591,7 @@ Incluye la realización de tres documentos diferentes. La interpretación de cad
 
 Tanto el plan de tesorería como la cuenta de resultados se realizan con carácter provisional, para anticipar con suficiente antelación cuál será la liquidez de la empresa en cada momento y si se obtendrán o no unos márgenes de rentabilidad adecuados o, por el contrario, si habrá pérdidas.
 
-## B. Viabilidad de la empresa
+### B. Viabilidad de la empresa
 
 El análisis de la viabilidad de una empresa es el estudio que pretende prever el éxito o fracaso de un negocio basándose en uno o varios criterios, tales como: la rentabilidad económica, la aceptación del producto en el mercado, el posible perjuicio al medio ambiente, etc.
 
@@ -4597,7 +4601,7 @@ La viabilidad de una empresa se puede estudiar desde distintos puntos de vista. 
 
 En la Tabla 5.1 se detallan distintos tipos de análisis de viabilidad:
 
-## Tabla 5.1. Tipos de análisis de viabilidad de una empresa.
+#### Tabla 5.1. Tipos de análisis de viabilidad de una empresa.
 
 - Viabilidad económica:
 
@@ -4620,18 +4624,18 @@ Establece si la actividad cumple con la normativa vigente del área territorial 
 
 - Viabilidad técnica: Estima los recursos materiales necesarios sus condiciones para garantizar el buen funcionamiento del proyecto, así se estudian las condiciones de seguridad de la tecnología, verificando su resistencia, durabilidad, implicaciones energéticas, etc.
 
-## Normativa para la regulación de los riesgos laborales
+#### Normativa para la regulación de los riesgos laborales
 
 Ley 31/1995, de de noviembre, de Prevención de Riesgos Laborales.
 Ley 54/2003, de de noviembre, de reforma del marco normativo de la Prevención de Riesgos Laborales.
 
-## Ejemplo 1. Viabilidad económica
+#### Ejemplo 1. Viabilidad económica
 
 «Iberia ha presentado un plan de reestructuración que contempla 4500 despidos y rebajas salariales para volver a ser rentable. El secretario de Estado de Infraestructuras, Transporte y Vivienda, Rafael Cátala, considera que Iberia "debería presentar un plan de viabilidad a medio y largo plazo".»
 
 Fuente: Expansión. Madrid, 22 de noviembre de 2012 [en línea]
 
-## Ejemplo 2. Viabilidad ambiental
+#### Ejemplo 2. Viabilidad ambiental
 
 «Desde hace cinco años, una empresa colombiana llamada Geoforest investiga un terreno de 200 hectáreas ubicado en la vereda Cuatro Bocas del corregimiento El Centro, para evaluar si es viable allí la construcción de un polo forestal.
 
@@ -4639,7 +4643,7 @@ Los polos forestales son grandes macizos forestales de plantaciones comerciales 
 
 Fuente: Vanguardia. Bucaramanga (Colombia), 25 de noviembre de 2012 [en línea]
 
-## Actividades
+#### Actividades
 
 1. Identifica de qué tipo de viabilidad se está hablando en cada una de estas noticias.
 2. «Setenta farmacias de la zona rural apenas son viables»
@@ -4686,7 +4690,7 @@ Fuente: Levante. Valencia, 22 de noviembre de 2012 [en línea]
 
 Fuente: Iagua. Madrid, 14 de noviembre de 2012 [en línea]
 
-## C. El punto muerto o umbral de rentabilidad
+### C. El punto muerto o umbral de rentabilidad
 
 El punto muerto o umbral de rentabilidad representa el nivel mínimo de ventas necesario para cubrir todos los gastos que conlleva fabricarlo. Es decir, pretende fijar el volumen de operaciones mínimo a partir del cual se obtienen beneficios, de ahí que se denomine umbral de rentabilidad.
 
@@ -4718,7 +4722,7 @@ Fig. 5.1. Representación gráfica del punto muerto.(ver libro p.160)
 
 Fuente: http://wvw.pymesyautonomos.com/marketing-y-comercial/calcula-tu-umbral-de-rentabilidad-punto-muerto
 
-## D. Ratios
+### D. Ratios
 
 Los ratios son índices o valores numéricos que permiten efectuar el análisis económico y financiero de la empresa. Se calculan como un cociente entre dos variables determinadas y se expresa en porcentajes para facilitar su interpretación.
 
@@ -4734,14 +4738,14 @@ Sin embargo, la utilidad de los ratios no estriba en el resultado del cálculo s
 2. La integración ele todos los datos, esto es, evitar la elaboración de conclusiones con pocos ratios o considerándolas de manera aislada.
 3. La evolución de la ratio indica el tiempo más que el dato numérico.
 
-## Los ratios sirven
+#### Los ratios sirven
 
 para conocer la rentabilidad, la liquidez y la solvencia de la empresa. Sus fór mulas ponen en relación e interpretan los datos que aparecen al elaborar un balance de situación. Para poder efectuar el cálculo de ratios es necesario dominar los siguientes conceptos:
 
 - Activos. Son los bienes de la empresa, tales como maquinaria, mobiliario, locales, materias primas, etc., así como sus derechos, esto es, derechos de cobro sobre facturas pendientes de pago, letras de cambio, etc.
 - Pasivos. Están integrados por el patrimonio neto, también llamados recursos propios de la empresa, que incluyen el capital social y las reservas, así como por sus obligaciones, que son las deudas que mantiene con sus acreedores, como la devolución de un préstamo solicitado.
 
-## Los ratios suelen clasificarse en
+#### Los ratios suelen clasificarse en
 
 dos grandes grupos, en función de dónde se enfoque el análisis de la empresa. Así pues, se puede hablar de:
 
@@ -4754,11 +4758,11 @@ Le sigue el realizable, que son los elementos que pueden ser fácilmente convert
 
 La solvencia mide la capacidad que tiene la empresa de responder al pago de las deudas.
 
-## Un asiento contable
+#### Un asiento contable
 
 es una anotación realizada en el libro Diario de contabilidad, con la finalidad de registrar un hecho económico que provoca una variación del patrimonio de la empresa.
 
-## Ratios para el análisis de la rentabilidad de la empresa
+#### Ratios para el análisis de la rentabilidad de la empresa
 
 | Ratio | Cálculo | Interpretación |
 
@@ -4768,7 +4772,7 @@ es una anotación realizada en el libro Diario de contabilidad, con la finalidad
 
 | Rentabilidad financiera (RF) | RF = (BDI [Beneficios Después de Impuestos] / recursos propios) x 100 Evalúa el beneficio que los propietarios o accionistas de la empresa están teniendo. Si se compara con la rentabilidad de otros productos financieros, los socios tendrán una valoración del coste de oportunidad de invertir sus recursos en la empresa, en lugar de emplear los en otras acciones más ventajosas desde un punto de vista económico. Sin embargo, como ya señalamos en la Unidad 4, el coste de oportunidad no siempre es cuantificable, pues hay elementos subjetivos que no pueden valorarse con dinero, como la satis facción de desarrollar una actividad por cuenta propia o la experiencia adquirida que incrementará posibilidades futuras. Los emprende dores de éxito siempre se han sobrepuesto a un fracaso o a situaciones adversas, y son precisamente estas circunstancias desfavorables las que les han hecho mejorar su competencia profesional y ser más resolutivos. La rentabilidad financiera se calcula dividiendo los beneficios netos entre los recursos propios de la empresa y se multiplica el resultado por cien para obtener un porcentaje. | Es fundamental el valor de este ratio de cara a con seguir nuevos inversores. Cuanto mayor sea, más atractiva será la empresa para ellos. La rentabilidad financiera puede mejorarse como el rendimiento económico, incrementando ventas o reduciendo activo o aumentando el margen sobre ventas, pero también incide un efecto llamado apalancamiento financiero. El apalancamiento financiero consiste en usar endeudamiento para financiar una operación, es decir, pedir prestado para poder realizar alguna acción, como comprar un inmueble, activo fijo o materias primas. De esta manera, se puede gastar por un importe superior al capital que se posee, lo que incrementa la rentabilidad de la acción y eso constituye su principal ventaja. El inconveniente es el riesgo implícito a la solicitud de fondos aje nos, es decir, que la inversión no produzca el efecto deseado y no haya entonces un ingreso que asegure la devolución del préstamo. Por ejemplo, si las materias primas compradas no se han podido vender, la empresa no consigue beneficio y com promete su solvencia. |
 
-## Tabla 5.3. Ratios para el análisis de la liquidez y la solvencia de la empresa
+#### Tabla 5.3. Ratios para el análisis de la liquidez y la solvencia de la empresa
 
 | Ratio | Cálculo | Interpretación |
 
@@ -4795,19 +4799,19 @@ es una anotación realizada en el libro Diario de contabilidad, con la finalidad
 
 | Fondo de maniobra (FM) | FM = activo corriente - pasivo corriente / FM = activo no corriente - patrimonio neto - pasivo no corriente. Es una medida de seguridad con que la empresa puede hacer frente al potencial descuadre entre la corriente de cobros y la de pagos. Con el fin de evitar problemas financieros, es preciso que lo que se cobre antes de un año sea superior a los pagos pendientes del mismo periodo de tiempo. Este ratio se calcula de dos maneras diferentes: o bien, como el activo circulante menos el pasivo circulante, o bien, como el activo fijo menos el pasivo fijo. | Un valor negativo genera desconfianza hacia la viabilidad de la empresa, ya que parte del activo inmovilizado se financia con los recursos ajenos a corto plazo, es decir, con las deudas pendientes de cobro en un plazo inferior a un año. En esta figura se puede observar la representación gráfica del fondo de maniobra. Hay que destacar que los nombres con los que se designan los diferentes elementos varían, sin embargo, ambas figuras representan lo mismo (Fig. 5.2). |
 
-### Fig. 5.2. Fondo de maniobra.
+#### Fig. 5.2. Fondo de maniobra.
 
 Ver libro p. 164
 
-## El cashflow o flujo de caja
+#### El cashflow o flujo de caja
 
 es la cantidad de dinero generada por una empresa. Se calcula restando los gastos de los ingresos, es decir, es el importe del dinero líquido disponible.
 
-## La quiebra
+#### La quiebra
 
 se produce cuando una sociedad no puede hacer frente a sus deudas, es decir, es insolvente porque las obligaciones de pago son superiores al patrimonio total, puesto que los bienes de la empresa no cubren la totalidad de las deudas. Llegado este caso, la propia em presa o cualquiera de sus acreedores puede solicitar al juez la situación de quiebra. Una vez analizados los datos y confirmada esta situación, el juez autoriza la liquidación de la empresa y el concurso de acreedores, a la vez que inhabilita al empresario para gestionar su empresa.
 
-## El concurso de acreedores
+#### El concurso de acreedores
 
 es el proceso legal que se origina cuando una persona o empresa es insolvente. En el caso de quiebra, el proceso conlleva repartir los bienes para saldar las deudas pendientes.
 
@@ -4815,7 +4819,7 @@ Se anotan todos los bienes y derechos de la empresa. Entonces, y en previsión d
 
 La situación sería diferente si se tratara de un empresario individual. En este caso, se su maría la totalidad de bienes de la empresa junto a los propios del empresario y, en caso de no ser suficientes, se estaría en situación de quiebra. Los emprendedores que actúan en una sociedad tienen una mayor protección frente a la quiebra, ya que en una sociedad nunca se utiliza el patrimonio personal de los socios para responder a las deudas; tan solo se cuenta con el patrimonio mercantil.
 
-## Ejemplo 3. Nueva Rumasa quiebra
+#### Ejemplo 3. Nueva Rumasa quiebra
 
 «En octubre de 2008, Nueva Rumasa pidió al Santander "un crédito extraordinario de 18 mi llones de euros para atender un pequeño desfase" en su fondo de maniobra. El banco se negó. Semanas después, las marcas Apis y Fruco lanzaron la primera emisión de pagarés de esta empresa dirigida a particulares. Un par de años después, la empresa quebró».
 
@@ -4823,13 +4827,13 @@ Fuente: la Vanguardia. Barcelona, 10 de marzo de 2011 [en línea]
 
 Una situación menos grave y que no inhabilita al empresario para continuar con su gestión empresarial es la suspensión de pagos.
 
-## La suspensión de pagos
+#### La suspensión de pagos
 
 sucede cuando la empresa dispone de patrimonio para responder a sus deudas, pero carece de liquidez. Por ejemplo, tiene naves y locales comerciales, pero necesita venderlos para transformarlos en recursos monetarios. Por ello, es la propia empresa la que solicita al juez la suspensión de pagos. Con ello pretende paralizar las reclamaciones de deuda.
 
 El juez, en tal caso, deberá analizar los datos que aporte la empresa relativos a montante de deudas, relación de acreedores, causas de la falta de liquidez, recursos para hacerles frente y propuesta para abonar sus deudas en un plazo determinado. Si estima razonable la suspensión de pagos se acordará una reunión entre el empresario, los acreedores y el juez para negociar la satisfacción de estos pagos. De este encuentro saldrá un acuerdo, aprobado por todos, en el que se restablezcan las nuevas condiciones para el abono de las cantidades debidas.
 
-## Ejemplo 4. Ratios de El Corte Inglés
+#### Ejemplo 4. Ratios de El Corte Inglés
 
 En la Tabla 5.4 se comparan los resultados de varios años consecutivos con el rango ideal que debería tener. En este caso, vemos que el análisis de esta información arroja conclusiones favorables y positivas para la empresa.
 
@@ -4867,11 +4871,7 @@ Fuente: Fuente: http://www.scribd.eom/fullscreen/86055885?access_key=key-1is9l5a
 
 El objetivo en esta unidad es que elabores el plan financiero de tu empresa. Para ello, realizarás previamente el plan de tesorería, la cuenta de pérdidas y ganancias y el balance de situación. Después analizarás los datos con el fin de identificar la viabilidad de tu empresa. Al finalizar el tema recogerás toda esta información para el plan de empresa, en un apartado denominado: Plan financiero.
 
-## Fase 1. Cálculos previos
-
-Antes de elaborar el plan financiero hay una serie de datos relativos a ingresos y gastos que hay que tener identificados. De esa manera, la realización de los cálculos contables será fácil, ya que solo habrá que trasladar estos datos numéricos a las hojas de cálculo concretas y, a partir de allí, obtener los resultados y analizarlos.
-
-## Fases de la Simulación empresarial
+### Fases de la Simulación empresarial
 
 - Fase 1. Cálculos previos
 - Fase 2. Elaboración del plan de tesorería
@@ -4879,7 +4879,11 @@ Antes de elaborar el plan financiero hay una serie de datos relativos a ingresos
 - Fase 4. Elaboración del Balance de situación
 - Fase 5. Análisis de la viabilidad de la empresa
 
-## Previsión de ingresos
+### Fase 1. Cálculos previos
+
+Antes de elaborar el plan financiero hay una serie de datos relativos a ingresos y gastos que hay que tener identificados. De esa manera, la realización de los cálculos contables será fácil, ya que solo habrá que trasladar estos datos numéricos a las hojas de cálculo concretas y, a partir de allí, obtener los resultados y analizarlos.
+
+#### Previsión de ingresos
 
 - Fuentes de financiación
 
@@ -4895,17 +4899,17 @@ Habrá negocios cuyo volumen de facturación varíe mucho de un día de la seman
 
 Una vez que tengas definidos los clientes por mes, traduce esas ventas a dinero, en función del precio de venta al público (PVP) que hayáis fijado en la Unidad 2 de vuestros productos o servicios. Ese dato constituirá las ventas del primer mes. A partir de ahí, calcula cómo variarán los ingresos por ventas mes a mes. Es de prever que se vayan incrementando a un ritmo lento y luego más rápido, a medida que los clientes os conozcan y el boca a boca o la publicidad que hayáis hecho del negocio den sus frutos. La estimación de ventas debe ser efectuada mes a mes para incorporarla como dato de Entradas en el plan de tesorería. En función de ello, se valorarán también otros gastos, como compra de materia prima, suministros, seguros, etc.
 
-## Previsión de gastos
+#### Previsión de gastos
 
 La previsión de clientes es un dato vital no solo para calcular las ventas, sino también los gastos, ya que la empresa trata de ser lo más eficiente posible; en función de ello, realiza las compras paulatinamente a medida que se requieren. Habrá sectores donde será necesario contar con un stock alto, como en una tienda de ropa, pero habrá otros donde se fabricará cuando sea demandado, como en una tienda de muebles.
 
-## Compras de materia prima
+#### Compras de materia prima
 
 Realiza una estimación de la compra de materias primas teniendo en cuenta lo dicho en el párrafo anterior y tradúcela en gasto, considerando el precio al que adquirís vuestras provisiones. La Simulación realizada en la Unidad 2 te resultará de gran utilidad, ya que en ese momento fijaste el precio de vuestros productos o servicios según el criterio que os pare ció más conveniente, pero siempre con la certeza de que se cubrirían gastos y se obtendrían un beneficio.
 
 Añade a estos cálculos las previsiones de gastos realizados en la Unidad 4, cuando definiste vuestras necesidades de inversión. Comprueba que los datos resultan coherentes y, en caso contrario, modifica el que no se ajuste.
 
-## Suministros y otros gastos recurrentes
+#### Suministros y otros gastos recurrentes
 
 Debes incluir, al menos, los siguientes:
 
@@ -4916,7 +4920,7 @@ Debes incluir, al menos, los siguientes:
 
 Se trata, ahora que tu idea ha tomado más concreción, de comprobar que la previsión era correcta y que están incluidas todas las funciones necesarias para la buena marcha de la empresa; por ejemplo, tienes que tener previsto la limpieza de aseos o del local, la limpieza de escaparates o del exterior del establecimiento, transporte de mercancías (si vuestra empresa incluye el reparto), etc.
 
-## Costes salariales
+#### Costes salariales
 
 Para fijar el salario del trabajador tienes que tener dos datos en cuenta:
 
@@ -4927,7 +4931,7 @@ Puedes simplificar el cálculo fijando un salario que esté por encima de lo que
 
 Una vez que tengas estas cifras, debes añadirle el coste de las cuotas empresariales a la Seguridad Social. Como ya aprendiste en FOL, hay que calcular la base de cotización y, sobre ella, aplicar un porcentaje. Sin embargo, para no complicar el cálculo puedes simplificarlo aplicando un 30% al salario del trabajador. Con eso ya tienes un dato aproximado del coste salarial, que debes incluir en el plan financiero.
 
-## Presupuesto de obras o reformas del local
+#### Presupuesto de obras o reformas del local
 
 Es habitual que el establecimiento alquilado o adquirido no se ajuste en su totalidad a las necesidades del negocio. Igualmente, es frecuente realizar cambios en su decoración, como el color de las paredes o el tipo de suelo. Por ello, hay que presupuestar también este gasto.
 
@@ -4942,7 +4946,7 @@ A modo de ejemplo, para facilitar el cálculo te ofrecemos algunos datos, bien e
 
 Habría que sumar todos los datos y anotar esta cifra como gastos de acondicionamiento del local.
 
-## Cálculos de la amortización de préstamos
+#### Cálculos de la amortización de préstamos
 
 La amortización, desde una perspectiva financiera, es el proceso por el cual se reduce el importe de una deuda debido al pago periódico de unas cuotas, que incluyen la devolución de parte del préstamo y una parte de los intereses. Estas cuotas suelen ser mensuales y su importe será diferente, según el tipo de amortización previsto al contratar el préstamo.
 
@@ -4984,7 +4988,7 @@ Te proponemos como ejemplo, consultar el simulador de Bankimia, una web especial
 | 11  | 1   | 143,74 € | 11,51 € | 132,24 € | 6 757,47 € | -   |
 | 12  | 1   | 143,74 € | 11,29€  | 132,46 € | 6625,01 €  | -   |
 
-## Consideraciones a tener en cuenta al utilizar un simulador de hipotecas
+#### Consideraciones a tener en cuenta al utilizar un simulador de hipotecas
 
 - a) La mayoría utilizan el sistema francés o de cuotas fijas en sus cálculos.
 - b) A los gastos mensuales hay que añadir los gastos iniciales de constitución del préstamo, relativos a notaría, pago de impuestos, etc. En general, se suele prever un 10% del importe del préstamo.
@@ -4996,7 +5000,7 @@ Los bancos y cajas están obligados por ley a publicar la TAE de los préstamos,
 
 http://www.elblogsalmon.com/conceptos-de-economia/que-es-el-euribor-2
 
-## Actividad de simulación 1
+#### Actividad de simulación 1
 
 Recopila todos los datos numéricos calculados en esta primera fase y añádeles los registrados en fases anteriores. Todos ellos deben estar incluidos en los tres documentos que componen el Plan financiero, de forma que el proyecto de empresa mantendrá una coherencia constante.
 
@@ -5009,7 +5013,7 @@ Asegúrate de que cuentas, al menos, con los siguientes datos previos elaborados
 - Alquiler o compra de local, maquinaría, mobiliario, vehículos...
 - Fuentes de financiación: de dónde obtendrás el dinero.
 
-## Fase 2. Elaboración del plan de tesorería
+### Fase 2. Elaboración del plan de tesorería
 
 El plan de tesorería se utiliza para llevar un registro mensual de las entradas y las salidas de dinero.
 
@@ -5029,13 +5033,13 @@ El diferente significado utilizado depende de si hablamos de la amortización de
 
 El propósito de un Plan de tesorería es analizar la disponibilidad de dinero mes a mes para, en caso contrario, buscar financiación que incremente los recursos líquidos, como solicitar un crédito, reducir gastos, etc.
 
-## Ejemplo 5. Entradas y salidas contables
+#### Ejemplo 5. Entradas y salidas contables
 
 Una empresa compra materia prima en noviembre por valor de un millón de euros. Paga la mitad al recibir el pedido y el resto del importe lo abonará tres meses después.
 
 En el plan de tesorería de esta compañía no se realizará ninguna anotación en las entradas, ya que no se ha ingresado dinero. En las salidas, se anotará medio millón de euros en noviembre de ese año y se consignará la misma cantidad pendiente de anotación para el mes de febrero del siguiente ejercicio económico.
 
-## De manera adicional, el plan de tesorería dará respuesta a estas otras cuestiones:
+#### De manera adicional, el plan de tesorería dará respuesta a estas otras cuestiones:
 
 - ¿Tenemos dinero o estamos sin liquidez?
 - ¿Debemos pedir un crédito en algún mes?
@@ -5058,7 +5062,7 @@ Una vez consignados todos los datos, habrá que realizar los siguientes pasos:
 3. Restar las salidas a las entradas, para conocer el exceso o defecto de liquidez mes a mes.
 4. Calcular el dinero disponible en cada mes, sumando el exceso o defecto de cada mes con el de los meses anteriores. Así, si en febrero teníamos 3000 euros y en marzo las entradas menos salidas arrojan un resultado de 1 500 euros, en marzo anotaremos 4500 (3000 + 1 500).
 
-## Actividad de simulación 2
+#### Actividad de simulación 2
 
 Elabora el plan de tesorería de vuestra empresa, crea una tabla Excel para facilitar el cálculo. Extrae después conclusiones que estén fundamentadas en los datos obtenidos.
 
@@ -5074,7 +5078,7 @@ Ayuda práctica:
 
 Para que tengas una referencia, a continuación se proponen dos Casos prácticos sobre la elaboración del plan de tesorería de dos empresas distintas, con sus correspondientes soluciones. Es aconsejable, antes de empezar a elaborar el plan de tesorería de vuestra empresa, intentar resolver lo que pide el enunciado antes de consultar la solución, de este modo se pueden observar los errores producidos y las confusiones que se tienen.
 
-## Caso práctico 1. Aurora Moreno, S.LU. (Parte 1: Plan de tesorería)
+#### Caso práctico 1. Aurora Moreno, S.LU. (Parte 1: Plan de tesorería)
 
 Aurora Moreno constituye en febrero una Sociedad Limitada Unipersonal (S.LU.) con un capital inicial de 100000 euros. Solicita un préstamo de 40000 euros que se compromete a devolver en una cuota anual de 5000 euros, fijada en el mes de junio; en cambio, devolverá 200 euros en concepto de intereses mensualmente.
 
@@ -5090,7 +5094,7 @@ En concepto de Tributos abona 500 euros cada tres meses, comenzando el pago desd
 
 Con estos datos elabora el Plan de tesorería.
 
-## Solución:
+#### Solución:
 
 | -------------------------------------------- | ENE | FEB    | MAR    | ABR    | MAY    | JUN    | JUL   | AGO   | SEP   | OCT   | NOV   | DIC    |
 | -------------------------------------------- | --- | ------ | ------ | ------ | ------ | ------ | ----- | ----- | ----- | ----- | ----- | ------ |
@@ -5117,7 +5121,7 @@ Con estos datos elabora el Plan de tesorería.
 | Entradas-salidas                             | 0   | 125750 | -4750  | -4250  | -4250  | -16000 | -1250 | -1250 | -1750 | -1750 | -2750 | -73400 |
 | Saldo acumulado                              | 0   | 125750 | 121000 | 116750 | 112500 | 96500  | 95250 | 94000 | 92250 | 91000 | 88250 | 14850  |
 
-## Caso práctico 2. Julio y Miguel Martínez, S.L (Parte 1: Plan de tesorería)
+#### Caso práctico 2. Julio y Miguel Martínez, S.L (Parte 1: Plan de tesorería)
 
 Julio y Miguel Martínez han decidido montar su propio negocio. En el planteamiento de este Caso práctico vamos a hacer un doble proceso. Anotaremos los ingresos y gastos que han ido teniendo a partir de los datos contenidos en su Plan de tesorería. Después, aprovecharemos esos datos para confeccionar su Plan de tesorería sin mirar los resultados.
 
@@ -5151,7 +5155,7 @@ Julio y Miguel Martínez han decidido montar su propio negocio. En el planteamie
 (3) datos de interpretación 3
 (4) datos de interpretación 4
 
-## Interpretación de los datos obtenidos en el plan de tesorería de Julio y Miguel Martínez, S.L
+#### Interpretación de los datos obtenidos en el plan de tesorería de Julio y Miguel Martínez, S.L
 
 1. Las cifras de ventas han ido creciendo, salvo en los meses finales del año. Habrá que analizar la razón de este descenso y, en función de ello, establecer medidas correctoras.
    En este caso, los socios creen que se debe al aumento de las compras navideñas, ya que conlleva una disminución del gasto en otros aspectos menos necesarios, como es el tuneado. Se proponen lanzar algún tipo de oferta para el año como descuentos o acumulación de puntos y canjearlo por un regalo de Reyes Magos.
@@ -5159,7 +5163,7 @@ Julio y Miguel Martínez han decidido montar su propio negocio. En el planteamie
 3. El dato final de Saldo en el banco informa de que ningún mes ha habido problemas de liquidez, por lo que no ha sido necesario acudir a fuentes de financiación externa. Sin embargo, tienen abierta una línea de crédito con su entidad bancaria, ya que la apertura y el mantenimiento no tiene ningún coste financiero y será de ayuda para cubrir posibles imprevistos o una reducción drástica e inesperada de la facturación.
 4. A pesar de finalizar con un saldo positivo de 155 338 euros, hay que tener en cuenta que, entre el capital social y el importe del préstamo, la empresa se inició con 60000 euros, además de que hay una deuda pendiente de devolución por valor de 78000 (= 90000 - 12000), por tanto, hay que ser prudentes a la hora de dar uso a este exceso de liquidez.
 
-## Fase 3. Elaboración de la cuenta de resultados o cuenta de pérdidas y ganancias
+### Fase 3. Elaboración de la cuenta de resultados o cuenta de pérdidas y ganancias
 
 La cuenta de resultados o cuenta de pérdidas y ganancias es el documento contable que resume las ganancias y las pérdidas obtenidas durante un ejercicio contable, que suele ser de un año.
 
@@ -5174,7 +5178,7 @@ Con la intención de permitir un análisis más profundo sobre las causas de est
 - Resultado de explotación. Son los originados por el desarrollo de las actividades ordinarias de la empresa, es decir, por la actividad mercantil propia de la empresa.
 - Resultado financiero. Son los generados por las inversiones financieras de la empresa y por la financiación ajena de la empresa.
 
-## Ejemplo 6. Anotaciones en la cuenta de resultados
+#### Ejemplo 6. Anotaciones en la cuenta de resultados
 
 Una empresa que compra materias primas por valor de un millón de euros y abona solo la mi tad, tiene que efectuar estas anotaciones.
 
@@ -5184,7 +5188,7 @@ Se incluye la cantidad total porque es el gasto que supone para la empresa y hay
 
 La cuenta de resultados tiene como finalidad fundamental conocer con anticipación si ob tendremos beneficios o pérdidas y si estas se deberán a la actividad empresarial o a cuestiones financieras. Adicionalmente, los datos nos ofrecerán información que dará respuesta a estos interrogantes:
 
-## Tabla 5.5. Información adicional que ofrece la cuenta de resultados.
+#### Tabla 5.5. Información adicional que ofrece la cuenta de resultados.
 
 | ¿Se gana o se pierde cuota de mercado?                    | Respuesta deducible según la evolución de las ventas.                                                       |
 | --------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
@@ -5198,7 +5202,7 @@ La cuenta de resultados tiene como finalidad fundamental conocer con anticipaci�
 
 Para elaborar una cuenta de resultados previsional se tienen en cuenta los datos obtenidos en el plan de tesorería, si bien, no todos se incluirán. Solo se registran los datos que producen un incremento o decremento de patrimonio en la empresa, por ejemplo, si mi familia me presta 100000 euros, no anotaré nada ya que no se trata de una ganancia, sino de una cantidad que será devuelta. Es por este motivo que no todos los datos que aparecen en el plan de tesorería tienen su correlato en la cuenta de resultados.
 
-## Ejemplo 7. Elementos del plan de tesorería en la cuenta de resultados
+#### Ejemplo 7. Elementos del plan de tesorería en la cuenta de resultados
 
 Para ayudarte a entender mejor el sentido de la cuenta de resultados, puedes ir razonando en cada elemento del plan de tesorería si debería aparecer reflejado en la cuenta de resultados o no.
 
@@ -5209,11 +5213,11 @@ Para ayudarte a entender mejor el sentido de la cuenta de resultados, puedes ir 
 - Las ventas realizadas, si se han cobrado, se anotarán ya que suponen un beneficio, pero si hay una cantidad pendiente de pago no se registrará hasta que el cobro no sea efectivo.
 - De igual manera, las compras realizadas se anotarán como pérdida. Ahora bien, es preciso aclarar que en la adquisición de activo fijo, un ordenador por ejemplo, no se puede anotar el importe total Eso supondría imputar un gasto muy elevado a un año contable, cuando la realidad es que el bien se va a utilizar durante muchos años. Por ese motivo, se reparte el gasto entre los años de vida útil del bien y es este dato el que queda registrado. Es lo que se conoce como amortización que, dicho de otro modo, es una manera de cuantificar la pérdida de valor o la depreciación del bien debida al paso del tiempo.
 
-## Recuerda
+#### Recuerda
 
 Amortización, desde una perspectiva financiera, es la reducción gradual de una deuda, mientras que desde un punto de vista contable, es un sinónimo de depreciación.
 
-## Actividad de simulación 3
+#### Actividad de simulación 3
 
 Elabora la cuenta de resultados de tu empresa creando una tabla Excel,y luego extrae las conclusiones que se desprenden.
 
@@ -5227,7 +5231,7 @@ Y no olvides anotar el valor de las amortizaciones para los activos fijos u orde
 
 A continuación se propone la resolución de las cuentas de resultados de los dos Casos prácticos resueltos en los planes de tesorería, para que tengáis una referencia concreta. El consejo, igual que antes, es que tratéis de realizarlos vosotros solos antes de consultar la solución.
 
-## Caso práctico 1. Aurora Moreno, S.LU. (Parte 2: Cuenta de resultados previsional)
+#### Caso práctico 1. Aurora Moreno, S.LU. (Parte 2: Cuenta de resultados previsional)
 
 | Ingresos de explotación         | 88000  |
 | ------------------------------- | ------ |
@@ -5250,7 +5254,7 @@ A continuación se propone la resolución de las cuentas de resultados de los do
 | Resultado financiero            | -2200  |
 | Resultado final                 | -92650 |
 
-## Caso práctico 2. Julio y Miguel Martínez, S.L (Parte 2: Cuenta de resultados previsional)
+#### Caso práctico 2. Julio y Miguel Martínez, S.L (Parte 2: Cuenta de resultados previsional)
 
 | Ingresos de explotación         | 165000    |
 | ------------------------------- | --------- |
@@ -5277,7 +5281,7 @@ A continuación se propone la resolución de las cuentas de resultados de los do
 (2) datos de interpretación 2,
 (3) datos de interpretación 3
 
-## Interpretación de los datos obtenidos en la cuenta de resultados de Julio y Miguel Martínez, S.L
+#### Interpretación de los datos obtenidos en la cuenta de resultados de Julio y Miguel Martínez, S.L
 
 1. Como puede observarse, el resultado final es positivo, lo que significa que la empresa está obteniendo beneficios.
 
@@ -5289,7 +5293,7 @@ A continuación se propone la resolución de las cuentas de resultados de los do
 
 3. El resultado financiero es negativo, lo que entra dentro de lo esperable, puesto que la mayoría de las empresas utilizan financiación ajena que hay que devolver. Sin embargo, el valor del resultado financiero es insignificante en comparación con el resultado de explotación, lo que significa que la empresa puede cubrir sin dificultades esta deuda. Un resultado positivo implicaría dos posibilidades: una, que la empresa no tiene pendiente de pago ninguna deuda y además tiene saldo positivo en el banco; dos, que los intereses por el dinero invertido son mayores a los que se pagan por el dinero prestado, por lo que la gestión financiera de la empresa está siendo excelente.
 
-## Fase 4. Elaboración del Balance de situación
+### Fase 4. Elaboración del Balance de situación
 
 El Balance de situación es el documento contable que refleja los activos y los pasivos de la empresa, que resume el patrimonio de la empresa, de manera que siempre muestra un equilibrio entre sus posesiones y sus deudas. Se representa con una sencilla fórmula:
 
@@ -5299,7 +5303,7 @@ Que traducido en palabras expresaría esta relación: «lo que se posee = lo que
 
 La cuenta de Pérdidas y ganancias y el Balance constituyen los elementos más importantes de las cuentas anuales.
 
-## Ejemplo 8. Asientos contables en el balance
+#### Ejemplo 8. Asientos contables en el balance
 
 Continuando con el ejemplo de la empresa que compró materias primas por valor de un millón de euros y abonó solo la mitad, en el balance de ese año se realizarían estos asientos contables:
 
@@ -5311,7 +5315,7 @@ De esta manera, el balance refleja siempre un equilibrio entre el activo y el pa
 
 El balance es muy útil para tener una fotografía sencilla del estado patrimonial de la empresa. Con estos datos, además, se pueden calcular multitud de índices que darán más precisión al análisis de la viabilidad económica y financiera de la empresa.
 
-## Ejemplo 9. Balance de situación de Zinkia
+#### Ejemplo 9. Balance de situación de Zinkia
 
 Tabla 5.6. Balance de situación de Zinkia antes de su salida a bolsa en julio de 2009.
 
@@ -5328,7 +5332,7 @@ Tabla 5.6. Balance de situación de Zinkia antes de su salida a bolsa en julio d
 
 Fuente: http://www.rankia.com/blog/mab/etiquetas/zinkia-znk
 
-## De manera general, se obtendrá respuesta a estas cuestiones.
+#### De manera general, se obtendrá respuesta a estas cuestiones.
 
 - ¿Cuál es el patrimonio de la empresa?
 - ¿Cuál es su nivel de endeudamiento?
@@ -5345,11 +5349,11 @@ Por ese motivo, parte del activo corriente se financia con pasivo no corriente. 
 
 El fondo de maniobra es el excedente de activos corrientes frente a los pasivos corrientes. Es una medida de la capacidad que tiene una empresa para continuar con el normal desarrollo de sus actividades en el corto plazo. Se calcula restando, al total de activos de corto plazo, el total de pasivos de corto plazo.
 
-## Ejemplo 10. Ejemplos de fondo de maniobra
+#### Ejemplo 10. Ejemplos de fondo de maniobra
 
 Un retraso en el cobro de las deudas a corto plazo podría suponer una paralización de la actividad económica por no disponer de fondos para adquirir nuevas materias primas. Asimismo, una reducción de las ventas incrementaría el coste financiero de la deuda inmediata que hay que devolver.
 
-## Actividad de simulación 4
+#### Actividad de simulación 4
 
 Elabora el balance de tu empresa creando una tabla Excel, y luego extrae las conclusiones que se desprenden.
 
@@ -5362,7 +5366,7 @@ Ayuda práctica:
 
 A continuación se propone la resolución de los balances de los dos Casos prácticos planteados anteriormente, para que tengáis una referencia concreta. Como ya se ha aconsejado anteriormente, tratad de realizarlos vosotros solos antes de consultar la solución.
 
-## Caso práctico 1. Aurora Moreno, S.LU. (Parte 3: Balance de situación)
+#### Caso práctico 1. Aurora Moreno, S.LU. (Parte 3: Balance de situación)
 
 - ACTIVO
 
@@ -5398,7 +5402,7 @@ A continuación se propone la resolución de los balances de los dos Casos prác
 | ----------------------------------- | ------- |
 | Total                               | 115750  |
 
-## Caso práctico 2. Julio y Miguel Martínez, S.L (Parte 3: Balance de situación)
+#### Caso práctico 2. Julio y Miguel Martínez, S.L (Parte 3: Balance de situación)
 
 - ACTIVO
 
@@ -5437,7 +5441,7 @@ A continuación se propone la resolución de los balances de los dos Casos prác
 (2) datos de interpretación 2,
 (3) datos de interpretación 3
 
-## Interpretación de los datos obtenidos en el balance de Julio y Miguel Martínez, S.L
+#### Interpretación de los datos obtenidos en el balance de Julio y Miguel Martínez, S.L
 
 1. El total del Activo y del Pasivo son iguales, lo que significa que el balance es correcto, puesto que los activos se han financiado con los recursos del pasivo.
 
@@ -5445,9 +5449,9 @@ A continuación se propone la resolución de los balances de los dos Casos prác
 
 3. Los beneficios obtenidos en la cuenta de resultados se incluyen como patrimonio, ya que es una deuda de la empresa con los socios, puesto que no se han repartido estas reservas. Por otra parte, la financiación externa no es muy alta, por lo que la empresa parece estar realizando una buena gestión económico-financiera. No obstante, es preciso calcular los ratios para profundizar en la interpretación de un balance, ya que los datos por sí solos no arrojan tanta información como en los dos documentos anteriores analizados.
 
-## Fase 5. Análisis de la viabilidad de la empresa
+### Fase 5. Análisis de la viabilidad de la empresa
 
-## Actividad de simulación 5
+#### Actividad de simulación 5
 
 Analiza la viabilidad de tu empresa desde todos los puntos de vista que se han analizado en esta unidad.
 
@@ -5462,7 +5466,7 @@ Es importante realizar una búsqueda relativa a los riesgos profesionales del se
 
 A continuación se propone el análisis de la viabilidad económica de la empresa del Caso práctico 2 planteado anteriormente.
 
-## Caso práctico 2. Julio y Miguel Martínez, S.L (Parte 4: Análisis de la viabilidad económica y técnica)
+#### Caso práctico 2. Julio y Miguel Martínez, S.L (Parte 4: Análisis de la viabilidad económica y técnica)
 
 Las conclusiones que podemos obtener de esta empresa, teniendo en cuenta que, como el balance es tan sencillo, se hace innecesario calcular los ratios, son las siguientes:
 
@@ -5474,7 +5478,7 @@ Las conclusiones que podemos obtener de esta empresa, teniendo en cuenta que, co
 6. El nivel de endeudamiento es muy bajo, ya que el préstamo se puede devolver con seguridad.
 7. La autonomía financiera de la empresa está asegurada de momento, puesto que hay un equilibrio entre los recursos propios y el nivel de endeudamiento.
 
-## Ejemplo 11. Datos contables de Mercadona y su interpretación
+#### Ejemplo 11. Datos contables de Mercadona y su interpretación
 
 Como colofón a esta unidad ofrecemos los datos contables de Mercadona y una interpretación de los mismos. Verás que la complejidad de estas cifras es mayor, pero que el esquema a seguir para analizarlas e interpretarlas es el mismo.
 
@@ -5677,7 +5681,7 @@ Fuente: http://analisisbalances.wordpress.com/2011/11/17/analisis-economico-fina
 | ----------------------------------- | -------- | --------- | ------- | ------- | ------- | ------- |
 | Total Pasivo y capital propio       | 3831137  |           | 3579735 |         | 2991768 |         |
 
-## Tabla 5.10. Conclusiones extraídas de las cuentas de resultados de Mercadona.
+#### Tabla 5.10. Conclusiones extraídas de las cuentas de resultados de Mercadona.
 
 Algunas de las conclusiones que se pueden extraer de sus cuentas son las siguientes (Tabla 5.10):
 
@@ -5692,7 +5696,7 @@ Algunas de las conclusiones que se pueden extraer de sus cuentas son las siguien
 
 Fuente: http://wwwxotizalia.com/opinion/valor-anadido/2012/03/08/impresionante-diez-datos-brutales-enlas-cuentas-de-mercadona-6745
 
-## Plan de empresa
+#### Plan de empresa
 
 Ha llegado el momento de sintetizar las ideas obtenidas en estas fases de la Simulación empresarial e incorporarlas a vuestro plan de empresa.
 
@@ -5891,7 +5895,9 @@ Analiza si estas afirmaciones son verdaderas o falsas.
 
 # 6. Gestión de la actividad comercial y financiera
 
-## En esta unidad aprenderemos a:
+## En esta unidad
+
+### aprenderemos a:
 
 - Efectuar una planificación sobre las necesidades de aprovisionamiento de la empresa.
 - estionar el proceso de comercialización de los productos de la empresa.
@@ -5899,7 +5905,7 @@ Analiza si estas afirmaciones son verdaderas o falsas.
 - Planificar las necesidades financieras de la empresa.
 - Confeccionar y diseñar equipos dentro de la empresa creada.
 
-## Y estudiaremos:
+### Y estudiaremos:
 
 - El plan de aprovisionamiento.
 - Gestión de la contabilidad como toma de decisiones.
@@ -5909,7 +5915,7 @@ Analiza si estas afirmaciones son verdaderas o falsas.
 - Relaciones con intermediarios financieros.
 - Gestión de las obligaciones fiscales.
 
-## Claus Moller, experto en management y calidad.
+### Claus Moller, experto en management y calidad.
 
 «Cuando soplan vientos de cambio, unos buscan refugios y se ponen a salvo. Otros construyen molinos y se hacen ricos.»
 
@@ -5917,7 +5923,7 @@ Analiza si estas afirmaciones son verdaderas o falsas.
 
 En este apartado vamos a analizar el caso de Nueva Rumasa como paradigma de gestión financiera no sustentada en fondos propios, y lo que adolece cuando la supervivencia finan ciera se sujeta en fondos ajenos.
 
-## Nueva Rumasa: el resurgir de las cenizas
+### Nueva Rumasa: el resurgir de las cenizas
 
 La empresa Nueva Rumasa surge en 1996, cuando el empresario jerezano José María RuizMateos intenta reavivar las cenizas de su anterior empresa, Rumasa, más conocida por su famoso logotipo de abeja. Al cabo de veinte años, la empresa entró en fase de preconcurso, lo que antaño se conocía como suspensión de pagos, paso previo antes de entrar en concurso de acreedores y liquidar todos los bienes de la empresa.
 
@@ -5933,7 +5939,7 @@ El capital obtenido se emplea en cubrir necesidades de circulante. En ningún mo
 
 Podríamos decir que el grupo empresarial carecía de una viabilidad de gestión o de una buena estrategia de gestión empresarial, ya que su manera de funcionar era posible en un momento de crecimiento económico, pero inadecuada si las circunstancias empeoraban, tal como pasó. Endeudarse con la emisión de pagarés para obtener liquidez con la que devolver las deudas bancarias, en lugar de utilizarse para invertir en la compra de nuevos activos, supone entrar en un círculo vicioso del que es muy difícil salir: al ofrecer un tipo de interés elevado, se condiciona el abono de esos intereses al ingreso que se obtiene con nuevas apor taciones, lo que se denomina estafa piramidal y que fue lo ocurrido con Fórum Filatélico, Afinsa o Madoff.
 
-## El principio del fin
+### El principio del fin
 
 En el año 2009 surgen los primeros síntomas de alerta:
 
@@ -5955,7 +5961,7 @@ A pesar de buscar inversores extranjeros y de vender algunas firmas del grupo em
 
 En el año 2012, Back in Business formalizó la compra del grupo Nueva Rumasa, que se encontraba ya en concurso de acreedores, en una operación valorada en 1 500 millones de euros, el equivalente total del Pasivo que acumulaban las empresas del grupo.
 
-## Reflexiona
+### Reflexiona
 
 1. Analiza cómo habría cambiado la situación si hubieran dispuesto de más cantidad de fondos propios. Relaciónalo con los ratios estudiados en el tema anterior.
 2. Enumera qué errores cometieron en relación con la gestión financiera.
@@ -5968,7 +5974,7 @@ En este apartado vamos a recordar algunos conceptos que te serán útiles para r
 
 gestión empresarial, pagarés, VAN y TIR, eficiencia, aprovisionamiento, inversión y ahorro, crédito comercial, impagados, morosos, tributos, recursos humanos, superávit, déficit
 
-## A. Plan de aprovisionamiento
+### A. Plan de aprovisionamiento
 
 Una empresa produce bienes y servicios, para lo que necesita contar con unos elementos o factores de producción, tales como maquinaria, personal o existencias.
 
@@ -5978,20 +5984,20 @@ El aprovisionamiento es el conjunto de actividades que desarrolla la empresa par
 
 El plan de aprovisionamiento se encarga de la obtención, almacenaje y gestión de las exis tencias, de modo que una vez realizado el pedido y recibido en la fábrica, se comienzan a usar. Los excedentes, al igual que los productos en curso o semiacabados, deben almacenarse hasta que sean requeridos. Una correcta gestión reducirá los costes asociados a este almace namiento, evitando la acumulación de un stock excesivo que resultará improductivo.
 
-## Ejemplo 1. Justo a tiempo
+#### Ejemplo 1. Justo a tiempo
 
 En una fábrica de coches, la producción se lleva a cabo en una cadena de montaje, de modo que al llegar al último eslabón, los coches deben almacenarse hasta trasladarse al punto de venta. Al coste de espacio necesario, se une el riesgo de deterioro o de robo, que incrementa los gastos.
 
 Por eso, los responsables del plan de aprovisionamiento de cualquier empresa tratan de ajustar al máximo la fabricación de productos a la demanda del mercado; en ocasiones, el ajuste es tan preciso que el stock es intencionalmente cero. Es el método denominadoras!://? time ojusto a tiempo.
 
-## Actividades
+#### Actividades
 
 1. Lee esta noticia y contesta a la pregunta: ¿qué interés tiene esta acción para las empresas que en ella participarán?
 2. «Extenda, la Agencia Andaluza de Promoción Exterior, entidad dependiente de la Consejería de Economía, Innovación, Ciencia y Empleo, ha organizado una misión comercial de aprovisionamiento y compras a China, que se celebra entre el 12 y el 16 de noviembre en varias ciudades del país asiático y en la que participan tres em presas andaluzas del sector industrial.»
 
 Fuente: Qué! Sevilla, 14 de noviembre de 2012 [en línea]
 
-## B. Gestión de la contabilidad
+### B. Gestión de la contabilidad
 
 estionar una empresa con eficacia conlleva tomar las decisiones necesarias para el correcto funcionamiento de la compañía, teniendo en cuenta lo que ocurre en su entorno.
 
@@ -6009,7 +6015,7 @@ Adicionalmente, hay que garantizar la credibilidad de esta información, por lo 
 
 En ocasiones, las auditorías persiguen, además de contrastar el cumplimiento de la normativa contable, analizar el grado de respeto a la legislación laboral o medioambiental existente.
 
-## La auditoría
+#### La auditoría
 
 la realizará una empresa externa a la empresa auditada, que se encargará de verificar si la contabilidad de dicha empresa refleja la imagen fiel del patrimonio y de los resultados.
 
@@ -6025,7 +6031,7 @@ La compañía admitió haber encontrado malas condiciones laborales y afirmó qu
 
 Fuente: Expansión. Madrid, 28 de noviembre de 2012 [en línea]
 
-## La contabilidad interna pretende facilitar la toma de decisiones.
+#### La contabilidad interna pretende facilitar la toma de decisiones.
 
 Para ello, cuenta con dos funciones:
 
@@ -6041,11 +6047,11 @@ No persigue, por tanto, la cuantificación de costes, sino que busca el procesam
 
 Con el desarrollo de la informática, la función contable de la empresa se ha visto muy facilitada, dejando a un lado la tediosa tarea de realizar cálculos para centrarse en su inter pretación.
 
-## C. Gestión de la inversión y financiación
+### C. Gestión de la inversión y financiación
 
 La inversión consiste en aplicar recursos financieros líquidos para obtener activos que con tribuyan al logro de los objetivos de la empresa, tales como: inmueble, vehículo, maquinaría, ordenadores, elementos de trabajo. La financiación consiste en la aportación de capital para llevar a cabo las inversiones necesarias.
 
-## Inversión
+#### Inversión
 
 Desde el punto de vista empresarial, la inversión supone la compra de activos fijos que tie nen una aplicación directa a su línea de negocio. No se incluirían, sin embargo, la compra de materias primas o la contratación de un servicio de gestoría, por poner un ejemplo.
 
@@ -6059,13 +6065,13 @@ Desde una perspectiva financiera, la inversión se refiere a la compra de produc
 
 La decisión sobre la conveniencia o no de una inversión está determinada por diferentes factores, aunque el binomio rentabilidad/riesgo es uno de los más decisivos.
 
-## La inflación
+#### La inflación
 
 es el incremento general y mantenido de los precios. Una medida frecuente de la inflación es el índice de precios al consumo (IPC), que indica mediante un porcentaje la variación anual de precios en un país.
 
 Como efecto negativo, la capacidad de compra se ve reducida, es decir, se produce una disminución del poder adquisitivo. Como efecto positivo, se origina una activación del ahorro y una posible reducción de los tipos de interés para incentivar el consumo.
 
-## Rentabilidad
+#### Rentabilidad
 
 La rentabilidad se define como la obtención de un valor superior al de los recursos utilizados. Esta comparación entre dos capitales diferentes para ver cuál tiene más valor debe tener en cuenta el paso del tiempo, puesto que el nivel de vida se incrementa. De manera que una cierta cantidad de dinero tendrá menos valor al cabo de un año y esa pérdida coincidirá con el incremento del precio de la vida o del índice de precios al consumo.
 
@@ -6079,7 +6085,7 @@ Por otra parte, la rentabilidad está asociada al plazo de tiempo durante el cua
 
 Teniendo en cuenta los dos efectos anteriores, el tipo de interés real que se pagará será equivalente al tipo de interés nominal pactado con el banco, al que habrá que descontar la inflación o el incremento del precio de la vida.
 
-## Ejemplo 3. Crédito e inflación
+#### Ejemplo 3. Crédito e inflación
 
 Si se solicita un crédito a un año con un tipo de interés del 3% y la inflación se incrementa durante ese tiempo un 3 %, significa que el interés real que estamos pagando es 0.
 
@@ -6089,11 +6095,11 @@ El nivel de riesgo de una inversión está definido por la seguridad con la que 
 
 Aunque este riesgo se puede reducir contratando productos seguros de rentabilidad fija, pese a que el beneficio no será muy alto.
 
-## Liquidez
+#### Liquidez
 
 La liquidez se refiere a la facilidad con la que la inversión efectuada se puede convertir en líquido; es decir, la canjeabilidad del producto por dinero o la recuperación del capital inicial. Por ejemplo, la compra de un inmueble es menos líquida que un depósito a plazo fijo de un año y, a su vez, este es menos líquido que unas acciones compradas en bolsa, que pueden venderse rápidamente.
 
-## Financiación
+#### Financiación
 
 La correcta identificación de las necesidades financieras supone uno de los aspectos más im portantes de cualquier empresa. La carencia de una planificación financiera adecuada puede originar elevados costes financieros, por adoptar decisiones urgentes y precipitadas.
 
@@ -6101,7 +6107,7 @@ La planificación financiera representa un proceso de reflexión donde se cuanti
 
 Se puede distinguir entre una planificación financiera a corto plazo o táctica, y una planificación financiera a largo plazo o estratégica. A corto plazo, se trata de valorar cuestiones de liquidez, gestión del circulante, política de precios, presupuesto de compras o inversiones, la cuenta de resultados prevista, etc. A largo plazo, la planificación financiera se preocupa de cuestiones como posible expansión, evolución tecnológica, localización o diversificación, presupuesto de l+D+i o de publicidad, etc.
 
-## Las empresas buscan mantener un equilibrio en su dependencia financiera,
+#### Las empresas buscan mantener un equilibrio en su dependencia financiera,
 
 de manera que solicitan recursos ajenos para apalancarse y mejorar su eficiencia, a la vez que controlan que esta dependencia externa no sea excesiva ni suponga demasiados costes financieros. Algunas medidas que pueden adoptar para ello son:
 
@@ -6116,7 +6122,7 @@ de manera que solicitan recursos ajenos para apalancarse y mejorar su eficiencia
 
 - Puntualidad en pagos: Los pagos fuera de plazo a la Seguridad Social, impuestos vencimientos de deuda pueden generar gastos adicionales, como penalizaciones o intereses de demora.
 
-## Evaluación de las inversiones realizadas
+#### Evaluación de las inversiones realizadas
 
 Las empresas deben guardar un equilibrio entre los recursos que destinan al ahorro y los que emplean en la Inversión financiera, ambos son aspectos necesarios en la actividad empresarial.
 
@@ -6124,7 +6130,7 @@ Las empresas deben guardar un equilibrio entre los recursos que destinan al ahor
 
 - Inversión financiera: Se basa en emplear los recursos monetarios excedentes en la adquisición de productos financieros que ofrezcan una alta rentabilidad. Para ello, o bien se inmovilizan durante un plazo de tiempo considerable, como letras, bonos obligaciones, o bien, se asume un riesgo de pérdida, como compra de acciones o fondos de inversión. La inversión financiera es tan necesaria como el ahorro ya que facilita el crecimiento largo plazo. La inversión financiera tiene una utilidad social muy importante, ya que permite el traspaso de fondos económicos desde los ahorradores las entidades que tienen necesidad de ellos, como las empresas los organismos públicos. Expresado en términos económicos, la inversión financiera permite el traspaso de unidades económicas con superávit a las que presentan déficits.
 
-## Las empresas, al igual que los gobiernos, pueden emitir deuda
+#### Las empresas, al igual que los gobiernos, pueden emitir deuda
 
 para tratar de captar este ahorro privado. En el caso de los estados se habla de deuda pública, que son las letras, bonos y obligaciones del Estado.
 
@@ -6134,7 +6140,7 @@ En el caso de las empresas se denominan títulos de deuda o empréstitos, y pued
 
 Bonos y obligaciones: Son títulos de deuda a más largo plazo, que ofrecen una rentabilidad fija. En España, cuando se emiten por un plazo inferior a cinco años se denominan bonos, y superando ese tiempo, obliga ciones. En otros países, el término bono es genérico para todos los plazos de vencimiento. El inte rés en bonos y obligaciones suele ser mayor que en pagarés, para compensar la mayor cantidad de tiempo que el acreedor no dispone de su dinero.
 
-## Unos y otros son activos financieros negociables,
+#### Unos y otros son activos financieros negociables,
 
 es decir, que se pueden vender o comprar en los mercados financieros secundarios.
 
@@ -6142,7 +6148,7 @@ Un mercado financiero primario es aquel en el que se emiten unos títulos (bonos
 
 Un mercado financiero secundario es aquel en el que se realizan intercambios de com praventa de los títulos ya existentes. Por ejemplo, las bolsas de valores o el MAB, como ya vimos en la Unidad 4, son mercados secundarios. La inmensa mayoría de las tran sacciones financieras se realiza en los mercados secundarios.
 
-## Las empresas con exceso de recursos monetarios
+#### Las empresas con exceso de recursos monetarios
 
 pueden optar por diferentes productos de inversión. Todos ellos se rigen por el binomio rentabilidad/riesgo, de manera que cuanto mayor sea el riesgo de una inversión, mayor tendrá que ser su rentabilidad para que resulte atractiva.
 
@@ -6150,7 +6156,7 @@ La diferencia de rentabilidad potencial entre una inversión considerada libre d
 
 Cuando se habla de la prima de riesgo de un país, información recurrente durante la crisis económica, se está comparando la diferencia de interés entre el bono a diez años de ese país con el bono alemán al mismo tiempo. Se compara con Alemania por tratar se del país europeo que ofrece más seguridad a la hora de invertir en ese momento.
 
-## A la hora de invertir
+#### A la hora de invertir
 
 es importante tener definidos los objetivos, el plazo y la tolerancia al riesgo. De este modo, se delimita si se van a emplear recursos ociosos que se pueden inmovilizar a medio plazo o si simplemente se espera mejorar el rendimiento de un capital que debe estar disponible.
 
@@ -6160,7 +6166,7 @@ Sin embargo, si no se necesita el dinero y puede mantenerse invertido en unas ac
 
 Eso si se compran valores seguros y se esquivan las burbujas especulativas que generan altos beneficios hasta que «explotan».
 
-## Control de tesorería
+#### Control de tesorería
 
 Una buena gestión de tesorería o cash management supone asegurar el pago puntual e incrementar la rentabilidad de los excedentes monetarios. En definitiva, implica el control y buen uso del activo corriente y de los pasivos a corto plazo del balance contable.
 
@@ -6173,7 +6179,7 @@ Compete al departamento o personal encargado de la tesorería la gestión de:
 - Inversión de excedentes de tesorería.
 - Financiación de necesidades de tesorería.
 
-## Gestión de impagados
+#### Gestión de impagados
 
 Las deudas que no se pagan constituyen un Impago. Las empresas pueden no cobrar de sus clientes o pueden no pagar a tiempo sus deudas con proveedores, con entidades financieras o con sus trabajadores.
 
@@ -6197,7 +6203,7 @@ Las entidades bancadas se protegen de los deudores a través de un estudio inici
 
 Los salarios no cobrados por parte de los trabajadores son reclamados ante un juzgado de lo social.
 
-## El Registro de Aceptaciones Impagadas (RAI)
+#### El Registro de Aceptaciones Impagadas (RAI)
 
 es una base de datos de morosos man tenido por el Centro de Cooperación interbancaria (CCI). Solo puede ser consultado por bancos, cajas de ahorro, cajas rurales y cooperativas de crédito asociadas al CCI, si además aportan al fichero los datos de sus propios impagados.
 
@@ -6207,7 +6213,7 @@ Además del RAI y del ASNEF hay más ficheros, como el EQUIFAX, EXPERIAN, CIRBE,
 
 La inclusión en uno de estos ficheros puede significar que, a la hora de pedir un crédito o cualquier otro producto bancario o de servicios privados, le sean denegados.
 
-## Ejemplo 4. Datos sobre impagos
+#### Ejemplo 4. Datos sobre impagos
 
 Según los datos del Instituto Nacional de Estadística (INE), de septiembre de 2012:
 
@@ -6217,7 +6223,7 @@ Según los datos del Instituto Nacional de Estadística (INE), de septiembre de 
 
 Según el Banco de España, la tasa de morosidad de los créditos del sistema financiero español (bancos, cajas de ahorros, cooperativas y establecimientos financieros de crédito) cerró septiembre en el 10,7%, un nuevo máximo histórico desde 1994, cuando la mora se situó en un alarmante 9,15%. En diciembre de 2011, los créditos de dudoso cobro ascendían a más de 135000 millones de euros.
 
-## Intermediarios financieros
+#### Intermediarios financieros
 
 Los intermediarios financieros (bancos, cajas de ahorro, etc.) reciben el dinero de los ahorra dores y lo ofrecen a empresas con déficits que necesitan recursos económicos. Básicamente se distinguen dos tipos de intermediarios: los bancarios y los no bancarios.
 
@@ -6243,17 +6249,17 @@ Los pagarés bancaríos son los productos más penalizados, ya que no se pueden 
 
 En los depósitos a plazo, siempre se pueden hacer rescates parciales o totales. No obstante, están penalizados por comisiones de hasta el 2% o por bajadas en la rentabilidad.
 
-## D. Gestión de las obligaciones fiscales
+### D. Gestión de las obligaciones fiscales
 
 Las empresas, al igual que las personas físicas, están obligadas al pago de impuestos. Es una manera de repartir la riqueza y de contribuir de forma solidaria para la creación de bienes y servicios asequibles a la sociedad, como la creación de hospitales y escuelas, servicios públi cos, cuerpos de seguridad del estado, infraestructuras, etc.
 
 La planificación fiscal que llevan a cabo las compañías busca reducir su carga tributaria dentro de los parámetros legales permitidos.
 
-## Ejemplo 5. Reducir cargas tributarias
+#### Ejemplo 5. Reducir cargas tributarias
 
 Una empresa podría preguntarse si es preferible comprar un vehículo y soportar el IVA y el IVTM (Impuesto de Vehículos de Tracción Mecánica) o si bien es mejor contratar un leasing y beneficiarse de las ventajas fiscales que ello ofrece.
 
-## Ejemplo 6. Rebajas en pagos anticipados
+#### Ejemplo 6. Rebajas en pagos anticipados
 
 El pago del IBI (Impuesto de Bienes Inmuebles) en la ciudad de Madrid permite el pago anti cipado, de manera que se produce una reducción del 3,25% del importe de la cuota a pagar, con un límite máximo.
 
@@ -6267,7 +6273,7 @@ Para facilitar el pago y la información a los contribuyentes, la Agencia Tribut
 
 Este calendario también está disponible en inglés, como ayuda a las empresas internacionales que tienen obligaciones tributarias en España.
 
-## Los pagos a cuenta
+#### Los pagos a cuenta
 
 son pagos anticipados de un impuesto que se abonará después en la liquidación final. Existen tres modalidades de pagos a cuenta: pagos fraccionados, retenciones e ingresos a cuenta.
 
@@ -6292,7 +6298,7 @@ Al finalizar el tema, recogerás toda esta información para el plan de empresa 
 1. Plan de aprovisionamiento.
 2. Obligaciones fiscales.
 
-## Fases de la Simulación empresarial
+### Fases de la Simulación empresarial
 
 - Fase 1. Plan de aprovisionamiento
 - Fase 2. Gestión de contabilidad
@@ -6301,7 +6307,7 @@ Al finalizar el tema, recogerás toda esta información para el plan de empresa 
 - Fase 5. Intermediarios financieros
 - Fase 6. Gestión de las obligaciones fiscales
 
-## Fase 1. Plan de aprovisionamiento
+### Fase 1. Plan de aprovisionamiento
 
 El plan de aprovisionamiento tiene dos funciones fundamentales y complementarias. De una parte, la adquisición y gestión de existencias. De otra, el inventariado de los bienes producidos y la gestión de su traslado.
 
@@ -6313,7 +6319,7 @@ En suma, genera dos grandes bloques de actividad:
 
 - Gestión de compras. Este cometido conlleva la relación con proveedores, la búsqueda de las mejores ofertas, la comparativa del precio de las mercancías con su calidad, el tiempo de entrega y plazo para el pago, así como la realización de pedidos, asegurar la recepción a tiempo, el control del estado de la mercancía, la administración de los pagos y la comuni cación con el servicio posventa.
 
-## Gestión de stocks o de inventarios
+#### Gestión de stocks o de inventarios
 
 Los gastos de almacenamiento son más importantes de lo que pudiera pensarse a priori. Incluyen gastos de personal y gastos de espacio físico:
 
@@ -6330,11 +6336,11 @@ Para la gestión adecuada del stock es importante delimitar algunos conceptos:
 - Stock de seguridad: Es la cantidad de existencias innecesarias para un ciclo productivo pero que se acumulan intencionalmente para evitar problemas posteriores de abastecimiento, que generarían unos costes de ruptura de stocks.
 - Costes de ruptura de stocks: Son los gastos que se generan al detener la producción por carecer de materias primas necesarias.
 
-## Gestión de compras
+#### Gestión de compras
 
 La toma de decisiones debe estar fundamentada en una correcta información sobre las ne cesidades de existencias y sobre el stock acumulado. De entre todos los enfoques gerenciales posibles, hay uno que ha despuntado desde finales de los años setenta por su probada eficacia: el modelo Just in time.
 
-## Modelo Just in time (JIT) o Justo a tiempo
+#### Modelo Just in time (JIT) o Justo a tiempo
 
 Este sistema de organización de la producción surgió en Japón como alternativa al taylo rismo, el modelo clásico de gestión de una fábrica.
 
@@ -6348,7 +6354,7 @@ Junto a la idea básica de stock cero, el modelo persigue la máxima eficiencia 
 
 Durante la crisis de los años setenta las empresas japonesas experimentaron un crecimiento inesperado, gracias a la aplicación de este sistema, razón por la cual las empresas de otras par tes del mundo imitaron este modelo de gestión; en España, Superlópez lo implantó en la fábrica de General Motors.
 
-## Actividad de simulación 1
+#### Actividad de simulación 1
 
 Realiza un plan de aprovisionamiento para vuestra empresa.
 
@@ -6357,11 +6363,11 @@ Ayuda práctica:
 - a) Comienza por elaborar un listado de todos los suministros que necesitaréis para desa rrollar vuestra actividad. Después, enumera los proveedores que mejor podrían abas teceros, según el conocimiento que tengáis del sector y según las condiciones de venta que ofrecen, si es preciso puedes localizarlos en Internet.
 - b) Por último, debes tener en consideración la estimación de ventas efectuada en unida des anteriores, para realizar la previsión de compras (número de unidades y periodici dad del pedido).
 
-## Fase 2. Gestión de contabilidad
+### Fase 2. Gestión de contabilidad
 
 La gestión de contabilidad se encarga del análisis económico de una empresa con la inten ción de facilitar la toma de decisiones por parte de la gerencia. Vamos a ejemplificar la impor tancia de esta labor con un caso fallido de gestión de contabilidad. Una mala práctica puede ser tan ilustrativa como una buena gestión directiva, ya que pone de manifiesto los errores a evitar y sus gravísimas consecuencias.
 
-## Ejemplo 7. Caso Lehman Brothers
+#### Ejemplo 7. Caso Lehman Brothers
 
 Lehman Brothers Holdings Inc, fundada en 1850, llegó a ser el cuarto banco de inversión más grande de Estados Unidos, detrás de Salomón Brothers, oldman Sachs y First Bostón.
 
@@ -6405,15 +6411,15 @@ La respuesta es compleja y no puede simplificarse con un único argumento de cod
 
 Si bien ya no se puede remediar la quiebra de esa entidad, sí es posible prevenir situaciones venideras similares. La clave es recordar siempre esta premisa: es imposible obtener rentabi lidades enormes con bajo nivel de riesgo, de la misma manera que los altos rendimientos, a la larga, suelen llevar a la ruina.
 
-## Holding
+#### Holding
 
 Un holding es un conglomerado de empresas en el que una compañía controla las acti vidades de las demás porque posee la totalidad o una parte significativa de sus acciones.
 
-## MBA
+#### MBA
 
 MBA alude a Master Business Administration, es decir, a personal con formación especializada en administración de empresas.
 
-## Actividad de simulación 2
+#### Actividad de simulación 2
 
 En esta fase debes tomar decisiones de gestión empresarial respecto a los resultados contables obtenidos en la unidad anterior.
 
@@ -6421,11 +6427,11 @@ Ayuda práctica:
 
 Revisa vuestro balance y analiza con detenimiento los datos. Luego, reflexiona si la em presa está progresando como esperabais o si, por el contrario, hay que introducir algunos cambios y cuáles serían. Si ya han sido recogidos en la unidad anterior, no hace falta que los repitas.
 
-## Fase 3. Evaluación de las inversiones realizadas
+### Fase 3. Evaluación de las inversiones realizadas
 
 Las empresas evalúan la rentabilidad de los activos financieros en los que tiene previsto invertir. Hay varios métodos, pero los más populares son el método del Valor Actual Neto (VAN) y el método de la Tasa Interna de Retorno (TIR), debido a que son fáciles de calcular e interpretar, a la vez que ofrecen una información que tiene en cuenta el paso del tiempo. Son, por ello, denominados métodos dinámicos, frente a los métodos estáticos que efectúan el cálculo en un momento determinado.
 
-## Métodos dinámicos
+#### Métodos dinámicos
 
 Entre los métodos dinámicos se encuentran:
 
@@ -6439,7 +6445,7 @@ Entre los métodos dinámicos se encuentran:
 
 Los tres métodos dinámicos analizados son complementarios. Cada uno de ellos contempla un aspecto diferente del problema, por lo que al usarse simultáneamente dan una visión más global.
 
-## Métodos estáticos
+#### Métodos estáticos
 
 Los métodos estáticos más utilizados son:
 
@@ -6449,7 +6455,7 @@ Los métodos estáticos más utilizados son:
 
 Todos los métodos estadísticos adolecen de un mismo defecto: no contemplan el diferente valor del dinero según el paso del tiempo. Por ello, el dato obtenido puede resultar erróneo. Por el contrario, los métodos dinámicos sí que incluyen este aspecto. Al igualar todas las cantidades monetarias al mismo momento de tiempo, el cálculo resulta más preciso.
 
-## Actividad de simulación 3
+#### Actividad de simulación 3
 
 Calcula el pay-back estático y el flujo neto de caja de un activo cualquiera que hayáis comprado.
 
@@ -6459,7 +6465,7 @@ A modo de ejemplo, imagina que tu empresa adquiere una máquina industrial por 9
 
 El periodo de retomo de ese activo serían tres años. El flujo de caja incluirá una anota ción inicial negativa de 900000 euros y, cada año, un registro positivo de 300000 euros. Al cabo de dos años, el flujo neto de caja sería de -300000 euros y al cabo de cuatro, +300000 euros.
 
-## Fase 4. Control de tesorería y gestión de impagados
+### Fase 4. Control de tesorería y gestión de impagados
 
 La gestión de tesorería comprende la asunción de unos principios que deben seguirse, tales como:
 
@@ -6483,7 +6489,7 @@ Es decir, el pagaré no deja de ser una promesa incondicional de pagar una suma 
 
 Este instrumento permite a la empresa mantener la iniciativa en el cobro de sus deudas, fijando el momento en el que se harán efectivos dichos pagos.
 
-## Ejemplo 8. Descuento de letras
+#### Ejemplo 8. Descuento de letras
 
 Una empresa vende uniformes sanitarios a una clínica por importe de 30000 euros. Acuer dan que el pago se hará efectivo en 90 días, a contar desde la recepción del pedido. Es po sible que la empresa de confección necesite el dinero antes de esos 90 días acordados. Para satisfacer esta necesidad puede recurrir a un instrumento que es el descuento de letras o efectos comercial. En tal caso, comprará una letra de cambio en un estanco, que es un do cumento donde se refleja la deuda, por tanto, constará el importe, la fecha de vencimiento, el pagador (la clínica) y el cobrador (la empresa de confección). Se trata de un compromiso de pago.
 
@@ -6491,7 +6497,7 @@ Ahora bien, para poder obtener el importe avanzado antes de los 90 días de plaz
 
 A pesar de todas las precauciones y medidas legales adoptadas, el porcentaje de efectos de comercio impagados alcanza ya el 6,1 %. Según un estudio de la UE, la principal causa de esta morosidad no son las dificultades financieras (23% de los casos), ni la ineficacia administra tiva (17% del total), sino la intencionalidad, que alcanza el 35% en Europa y en España llega hasta el 62%. La reclamación por vía amistosa consigue satisfacer un 95% de las deudas antes de los 180 días. Y la vía judicial llega al 34%, aunque el coste en términos económicos y de tiempo es alto.
 
-## En caso de impago,
+#### En caso de impago,
 
 la reclamación inicial se realiza en términos cordiales a través de una llamada telefónica, una carta o un correo electrónico, al cabo de una semana de demora en el pago.
 
@@ -6508,7 +6514,7 @@ Junto a ello han surgido otros tipos de comunicación a través de los medios te
 - El certimail o mail certificado. Es un envío de correo electrónico que queda certificado y sirve de prueba de su expedición y de su contenido. Es posible, además, realizar un se guimiento online continuado de todas las notificaciones emitidas, ya que el emisor recibe información de todos los acuses de recibo o del rechazo de la notificación.
 - Burotext. Envía mensajes cortos certificados (SMS o MMS, si llevan imágenes incorpora das) a través de un móvil. Tiene validez legal, de manera que puede usarse como prueba legítima de comunicación. enera un acuse de recibo en PDF, en el que se certifica el envío y el contenido.
 
-## Ejemplo 9. Los cobradores de morosos. ¿Cómo funcionan?
+#### Ejemplo 9. Los cobradores de morosos. ¿Cómo funcionan?
 
 «Las agencias de gestión de cobros son contratadas por un acreedor para tratar de conseguir el cobro de su deuda. España es el único país de la UE donde no está regulada la actividad de recobro extrajudicial de deudas, lo que les permite flexibilidad en sus actuaciones.
 
@@ -6528,7 +6534,7 @@ La AEPD ha denunciado prácticas ilegales y ha impuesto sanciones. Así, contra 
 
 Fuente: 20 minutos. Madrid, 29 de enero de 2012 [en línea]
 
-## Actividad de simulación 4
+#### Actividad de simulación 4
 
 Redacta una carta en la que exijáis a un cliente el pago de una deuda.
 
@@ -6540,7 +6546,7 @@ Ayuda práctica:
 - d) No olvides incluir la cantidad adeudada, datos de contacto (teléfono o correo electró nico) y formas de pago, como una cuenta corriente; además, asegúrate de incluir los atos identificativos de la factura e importe adeudado.
 - e) Si la comunicación se realiza por correo electrónico, en el asunto puedes situar un elemento neutro, como «Incidencia en el cobro».
 
-## Fase 5 Intermediarios financieros
+### Fase 5. Intermediarios financieros
 
 El sistema financiero se ha desarrollado para dar respuesta a todas las necesidades econó micas de las empresas, como ya vimos en la Unidad 4. Estas necesidades se concretan en dos grandes bloques:
 
@@ -6549,7 +6555,7 @@ El sistema financiero se ha desarrollado para dar respuesta a todas las necesida
 
 Como vimos al analizar el caso de Nueva Rumasa, al inicio de esta unidad, y al estudiar los ratios financieros en la Unidad 5, para que las necesidades de financiación de la empresa no comprometan su supervivencia, es preciso que buena parte de la financiación esté sustentada en fondos propios. Al menos, los gastos permanentes y de activo fijo deberían estar respalda dos por un patrimonio neto de cierta magnitud.
 
-## Los intermediarios financieros bancarios han creado una serie de productos para favorecer la actividad económica de las empresas.
+#### Los intermediarios financieros bancarios han creado una serie de productos para favorecer la actividad económica de las empresas.
 
 1. Planes integrales para trbajadores por cuenta propia: Integran varios productos financieros en uno solo, como la contratación de una cuenta corriente sin gastos de mantenimiento, tarjeta de crédito y de débito, así como descubiertos bancarios con un tipo de interés menor que el aplicable en otras cuentas corrientes. En algunos casos se ofrece una bonificación de varios meses si el autónomo se encuentra de baja por enfermedad grave. A cambio, la cuenta tiene que contar con un saldo trimestral mínimo y un número determinado de recibos domiciliados. El precio se fija como una tarifa fija y global, a partir de 8 euros al mes.
 
@@ -6561,15 +6567,15 @@ Como vimos al analizar el caso de Nueva Rumasa, al inicio de esta unidad, y al e
 
 La principal ventaja es la rapidez en la tramitación de estas líneas financieras y el poco coste de la acción. Como inconvenientes, destacar el carácter indefinido de la póliza, puesto que al pasar el tiempo puede caer en el olvido la vigencia de este compromiso. Además, el afian zamiento es personal, por tanto, no quedaría exento el socio que dejara de formar parte de la empresa; ya que habría que cancelar la póliza y, para eso, el banco debe estar conforme.
 
-## Ejemplo 10. Aval a través de una PAM
+#### Ejemplo 10. Aval a través de una PAM
 
 Los socios de una empresa avalan un millón de euros con una entidad financiera. A partir de ese momento, firman un crédito de 600000 euros y una línea de descuento de 250000 euros y un leasing por valor de 50000 euros/año, sin necesidad de presentar avales para cada producto, puesto que el millón de la PAM cubriría el importe de todos estos productos financieros.
 
-## Banca a distancia
+#### Banca a distancia
 
 En los últimos años, la prestación de servicios financieros por las entidades bancarias ha ex perimentado un gran desarrollo en lo referente a la banca a distancia, al ofertar sus servicios a través de medios telefónicos o telemáticos.
 
-## Banca telefónica
+#### Banca telefónica
 
 El servicio complementario de operar en banca a través de un teléfono puede realizarse de dos modos:
 
@@ -6581,7 +6587,7 @@ Ambas comunicaciones quedan grabadas y, al igual que en la banca online, se oper
 
 Una práctica habitual de las entidades bancarias es el uso de mensajes SMS para facilitar información a sus clientes.
 
-## Banca online
+#### Banca online
 
 Implica la posibilidad de utilizar los servicios de una entidad bancaria vía Internet. La mayo ría ofrece este servicio de manera complementaria a su red de oficinas físicas, aunque algunas entidades tienen presencia solo online para resultar más competitivas, al ahorrarse todos los gastos de mantenimiento del local, razón por la cual sus servicios y productos son más bara tos. Así, se cobran menos comisiones e intereses más bajos para los préstamos y créditos, y se abonan intereses más elevados para los productos de ahorro e inversión.
 
@@ -6593,11 +6599,11 @@ El inconveniente mayor es la falta de interacción directa con un profesional qu
 
 Uno de los riesgos habituales es conocido como phishing, un término anglosajón muy apro piado, que proviene de la palabra fishing («pesca»), haciendo alusión al intento de hacer que los usuarios «muerdan el anzuelo».
 
-## Phishing
+#### Phishing
 
 El phishing es un tipo de delito cibernético, caracterizado por intentar adquirir información confidencial de forma fraudulenta a través de Internet o medios móviles. Lo más habitual es que el estafado reciba un correo electrónico, una llamada de teléfono o un SMS fraudulen to de su supuesta entidad bancaria, instándole a introducir su contraseña, información deta llada de sus tarjetas de crédito o cualquier otro dato bancario. En este caso, los efectos del fraude recaerán sobre el cliente, por ser el responsable del mal uso o de la imprudencia en el uso de sus datos personales.
 
-## Cajeros automáticos
+#### Cajeros automáticos
 
 Los cajeros automáticos son máquinas expendedoras, por lo general, situadas en el exterior de una entidad de crédito, que funcionan con tarjeta de crédito o de débito o con una li breta de ahorro. España es el país con más cajeros automáticos por habitantes del mundo.
 
@@ -6617,7 +6623,7 @@ De manera adicional, las entidades aplican otra serie de medidas para incrementa
 6. Advertencias al cliente desde la pantalla, animándole a comprobar que no hay nadie alrededor.
 7. Información vía SMS a los clientes cada vez que se ha utilizado la tarjeta.
 
-## Ejemplo 11. Fraude en los cajeros automáticos y métodos de prevenirlos
+#### Ejemplo 11. Fraude en los cajeros automáticos y métodos de prevenirlos
 
 Tradicionalmente, el robo en cajeros automáticos se realizaba mediante la amenaza a aque llos clientes que acababan de extraer dinero de su cuenta. A día de hoy, con el desarrollo de los medios tecnológicos, el robo se ha vuelto más sofisticado y, con ello, más difícil de perse guir y de prevenir. Sin embargo, las entidades se defienden igualmente con métodos tecnoló gicos. A medida que unos avanzan, los otros también, y así se incrementa la perspicacia para el fraude, como lo hace el ingenio para evitarlo.
 
@@ -6641,7 +6647,7 @@ Desde los primeros intentos de fraude que copiaban la banda magnética de las ta
 
 Fuente: Eroski Consumer. Elorrio, 19 de enero de 2012 [en línea]
 
-## Actividad de simulación 5
+#### Actividad de simulación 5
 
 Reúnete con tus socios. Seleccionad razonadamente una entidad bancaria a través de la cual realizaréis las operaciones mercantiles. Si en la Unidad 3 ya indicasteis cuál era, al abrir una cuenta corriente, ahora deberéis justificar los motivos de tal elección.
 
@@ -6651,7 +6657,7 @@ Compara las ofertas y productos bancarios de varias entidades comerciales. Puede
 
 O puedes buscar si ofrece algún producto financiero específico para emprendedores, tales como planes integrales o cuentas especiales. En ocasiones, la ventaja competitiva entre una entidad y otra no es el interés, sino la inclusión de algún producto adicional, como algún seguro que cubra al autónomo ante una situación de incapacidad temporal.
 
-## Fase 6. Gestión de las obligaciones fiscales
+### Fase 6. Gestión de las obligaciones fiscales
 
 Las empresas tienen que liquidar unos impuestos antes de constituir la sociedad, como ya vimos en la Unidad 3.
 
@@ -6663,7 +6669,7 @@ Al constituir la sociedad, las empresas tienen obligación de realizar las sigui
 - Alta en el Impuesto sobre el Valor Añadido.
 - Presentar la declaración censal de inicio de actividad.
 
-## Obligaciones fiscales periódicas
+#### Obligaciones fiscales periódicas
 
 De manera adicional, las obligaciones fiscales se mantienen periódicamente durante toda la vida de la empresa.
 
@@ -6679,7 +6685,7 @@ De manera adicional, las obligaciones fiscales se mantienen periódicamente dura
 
 - IAE: Se abona una vez al año siempre que la empresa no esté exenta.
 
-## Obligaciones fiscales no periódicas
+#### Obligaciones fiscales no periódicas
 
 De manera adicional, la empresa puede estar obligada a nuevas obligaciones tributarias, si se dan ciertas circunstancias:
 
@@ -6705,7 +6711,7 @@ El procedimiento de apremio es un acto por el cual la Administración puede proc
 
 Si finalizado el plazo estipulado en la providencia de apremio el contribuyente no abona su deuda, se dicta una providencia de embargo de sus bienes, que pretenderán el cobro de las cantidades tributarias debidas, más el recargo de apremio, los intereses y, en su caso, las costas del procedimiento de apremio producidas. El embargo se aplicará siguiendo un orden en el que, por ejemplo, primero se embarga el dinero en efectico o en cuentas bancarias y, como último recurso, los bienes muebles, como vehículos, embarcaciones, etc. Hay algunos bienes que son inembargables.
 
-## Actividad de simulación 6
+#### Actividad de simulación 6
 
 Realiza un calendario sencillo en el que señales las fechas en las que tenéis que responder del pago de las obligaciones fiscales que genera vuestra empresa.
 
@@ -6713,7 +6719,7 @@ Ayuda práctica:
 
 Si tienes alguna duda, puedes entrar en la página web de la Agencia Tributaria, www. agenciatributariaces y localizar el enlace denominado «Calendario del contribuyente». Te dirigirá a un calendario del año en curso donde están especificados todos los plazos en los que corresponde llevar a cabo la liquidación parcial o total de los impuestos.
 
-## Plan de empresa
+#### Plan de empresa
 
 Ha llegado el momento de sintetizar las ideas obtenidas en estas fases de la Simulación empresarial e incorporarlas a vuestro plan de empresa.
 
@@ -6757,7 +6763,7 @@ Plan de empresa:
 
 ## Test de repaso
 
-## 1. Las existencias son:
+1. Las existencias son:
 
 - a) Los materiales que las empresas adquieren para incorporarlos en el proceso produc tivo.
 - b) Los bienes tangibles adquiridos, susceptibles de transportarse y de ser almacenados.
@@ -6821,11 +6827,9 @@ Plan de empresa:
 
 # 7. Gestión del marketing y de los recursos humanos
 
-## John F. Kennedy, presidente de los EEUU(1961 - 1963)
+## En esta unidad
 
-Un hombre inteligente es aquel que sabe ser tan inteligente como para contratar gente más inteligente que él.
-
-## En esta unidad aprenderemos a:
+### aprenderemos a:
 
 - Identificar formas de marketing en Internet.
 - Analizar ejemplos de utilización del nuevo marketing digital.
@@ -6842,11 +6846,15 @@ Un hombre inteligente es aquel que sabe ser tan inteligente como para contratar 
 - Gestión de los recursos humanos.
 - Equipos y grupos de trabajo.
 
+### John F. Kennedy, presidente de los EEUU(1961 - 1963)
+
+Un hombre inteligente es aquel que sabe ser tan inteligente como para contratar gente más inteligente que él.
+
 ## Emprendedores
 
 En este apartado vamos a analizar la importancia de llevar a cabo una buena campaña pu blicitaria y la necesidad de incorporar las nuevas tendencias de marketing digital, que van surgiendo acorde con las nuevas tecnologías.
 
-## Freixenet: un referente publicitario
+### Freixenet: un referente publicitario
 
 Freixenet es una empresa española productora de cava. En sus orígenes, a finales del s. xix se dedicaba a la producción de vinos, pero pronto se interesó por el vino espumoso. Después de la Guerra Civil española lanzaron un producto estrella: el cava «Carta Nevada», embotellado momentos antes de la primera fermentación. Años después, sale al mercado su segundo gran éxito: el «Cordón Negro». A partir de los años setenta comienza su expansión internacional. A día de hoy, Freixenet está presente tanto en el mercado asiático como en el americano.
 
@@ -6854,7 +6862,7 @@ Parte de su prestigio se debe, sin duda, a sus anuncios. Desde el año 1997, sus
 
 Sus anuncios de prensa también gozaron de mucho prestigio gracias al «niño de Freixenet», una imagen de un niño vestido de rojo con una botella bajo el brazo, que está presente en los carteles y anuncios de la compañía desde 1920.
 
-## Cambio de estrategia comunicativa
+### Cambio de estrategia comunicativa
 
 Las empresas están obligadas al uso de las redes sociales y de los medios de comunicación online, si no quieren quedarse atrás en sus estrategias de marketing. Sin embargo, a pesar del bajo coste o gratuidad de estas acciones, todavía no está siendo explotado todo su potencial por las empresas españolas. Tal vez porque requieren de una atención constante, ya que los perfiles en las redes sociales deben actualizarse con publicaciones periódicas que sean de interés para los seguidores. O quizá porque el cambio respecto a la importancia de estos medios es todavía actitudinal más que comportamental.
 
@@ -6884,7 +6892,7 @@ Otra manera de promocionarse es a través de acciones que generen prestigio y ex
 
 El formato ha recibido galardones, como el primer premio WorldStar de diseño 2009, Best Pack en los Premios LiderPack de 2009, y Premio Innoval 2006 en la categoría de Vinos y Espumosos.
 
-## Reflexiona
+### Reflexiona
 
 1. ¿Cuál es el motivo de que los anuncios emitidos durante la gala de Fin de Año sean los más caros del año?
 2. ¿Qué crees que pretende Freixenet cuando cada año compra el espacio publicitario prime-time que antecede a las campanadas de final de año. ¿Por qué son protagoni zados por estrellas de gran repercusión mediática?
@@ -6896,7 +6904,7 @@ En este apartado vamos a recordar algunos conceptos que te serán útiles para r
 
 faxing, publicidad, e-maiiing, presupuesto, récord, manager, telemarketing, community manager, recursos humanos, marketing mix
 
-## A. Concepto y ejemplo de marketing
+### A. Concepto y ejemplo de marketing
 
 El marketing es el proceso por el que las empresas pretenden optimizar los objetivos cor porativos mediante la identificación de las necesidades del público destinatario, a fin de satisfacerlas de la manera más eficiente y diferenciada posible respecto de la competen cia. Así, entre sus objetivos pueden fijarse el incrementar las ventas, dar a conocer nuevos productos, captar más clientes, lograr una mayor visibilidad en los puntos de venta, etc.
 
@@ -6907,22 +6915,22 @@ Como se deduce de la definición inicial, el marketing tiene presentes dos eleme
 
 En España la publicidad comparativa está permitida, sin embargo debe atenerse a unas normas, que son: respetar la objetividad, comparar productos que satisfagan el mismo tipo de necesidad y no denigrar ni dar lugar a confusión. No es fácil ajustarse a estos parámetros, por lo que las empresas no suelen aludir directamente a la competencia, sino que lanzan mensajes genéricos.
 
-## Ejemplo 1. Don Simón versus Granini
+#### Ejemplo 1. Don Simón versus Granini
 
 Don Simón defiende en todos sus anuncios que sus zumos de naranjas están elaborados con naranjas recién exprimidas en lugar de concentrado de naranja. Para reforzar esta característica distintiva de su marca, lanzó varias campañas comparativas contra la competencia. Granini denunció estos anuncios a Autocontrol, el mecanismo español autorregulador de la publicidad. El organismo concluyó que la publicidad de Don Simón inducía al engaño y que debía ser retirada de inmediato.
 
 La resolución del jurado afirmó que las expresiones «¿Dónde están sus naranjos en España?» y «¿Dónde están los naranjos de Granini?» son denigratorias, al incidir en el descrédito innecesario del competidor.
 
-## Actividades
+#### Actividades
 
 1. indica a qué empresas o productos combaten las marcas cuando señalan en sus anuncios la frase genérica «no fabricamos para otras marcas».
 2. Averigua qué es el organismo Autocontrol y quiénes lo integran.
 
-## Marketing Mix
+#### Marketing Mix
 
 El diseño de las estrategias de marketing se ha centrado tradicionalmente en cuatro elementos del negocio: producto, precio, promoción y distribución. Este enfoque suele denominarse marketing mix, o «las 4 p del marketing», por sus siglas en inglés (Product, Price, Promotion, Placement).
 
-## Ejemplo 2. Algunas acciones de marketing-mix
+#### Ejemplo 2. Algunas acciones de marketing-mix
 
 Algunas acciones de marketing-mix centradas en una de estas cuatro variables podrían ser:
 
@@ -6934,11 +6942,11 @@ Algunas acciones de marketing-mix centradas en una de estas cuatro variables pod
 
 - Distribución: Ofrecer nuestros productos vía Internet o envíos a domicilio.
 
-## Actividades
+#### Actividades
 
 3. Enumera todas las acciones posibles de marketing que se te ocurran, enfocadas en cada uno de los cuatro elementos del marketing mix y que no hayan sido nombradas en el apartado anterior.
 
-## B. Tendencias actuales del marketing
+### B. Tendencias actuales del marketing
 
 La sociedad evoluciona, las necesidades y las modas cambian, hay más medios tecnológicos y, consecuentemente, los clientes desplazan su interés a otros productos o a otras modalidades de compra. Las empresas no pueden ser ajenas a tales cambios y deben adaptarse a ellos.
 
@@ -6951,7 +6959,7 @@ El cambio experimentado se puede sintetizar en un cambio del marco conceptual, d
 - Conveniencia y contexto, en lugar de la distribución.
 - Conexión en lugar de la comunicación, destacando el papel interactivo de esta.
 
-## Focos de atención del nuevo marketing.
+#### Focos de atención del nuevo marketing.
 
 Tabla 7.1. Focos de atención del nuevo marketing.
 
@@ -6966,7 +6974,7 @@ Tabla 7.1. Focos de atención del nuevo marketing.
 
 - Cliente: Como resultado de la información del coste, la audiencia conectará con la marca puesto que se generará una esfera de credibilidad y de confianza, dando paso a una comunidad online vinculada por intereses comunes e intercambios enriquecedores, creando una lealtad hacia la marca.
 
-## Ejemplo 3. Un pequeño gesto, para conseguir algo muy grande
+#### Ejemplo 3. Un pequeño gesto, para conseguir algo muy grande
 
 Actimel desarrolló en el año 2011 la campaña «Un pequeño gesto, para conseguir algo muy grande». Se tra taba de crear entre sus propios con sumidores una cadena de recomen daciones, en la que estos señalaban lo que hacían a diario y les ayudaba a estar bien.
 
@@ -6974,11 +6982,11 @@ Para incentivar la participación, Acti mel se propuso donar un euro a dife rent
 
 La acción se difundió a través de te levisión, contando con la participación de Pedro Piqueras y Lola Herrera, y a través deTwitter y otras redes sociales. Además, se envió a los blogueros de contenidos relacionados, un pack con un CD explicativo de la acción para que contribuyeran a su difusión.
 
-## Actividades
+#### Actividades
 
 4. Entra en la página web: http://www.institutodelafelicidad.com/instituto y averigua qué compañía está detrás de esta campaña, qué objetivos persigue y qué medios utiliza para difundir sus acciones. Reflexiona, por otra parte, si hay otras intenciones no explícitas que pretendan conseguir y expresa tu opinión al respecto.
 
-## Publicidad ilícita
+#### Publicidad ilícita
 
 Las acciones de marketing no siempre respetan los límites éticos. La Ley general de Publicidad considera ilícita la publicidad que:
 
@@ -6990,13 +6998,13 @@ Las acciones de marketing no siempre respetan los límites éticos. La Ley gener
 - Es desleal, en el caso de que pueda perjudicar a un competidor.
 - Es agresiva, ya que se vale de la violencia para su mensaje.
 
-## Ejemplo 4. Publicidad perjuiciosa
+#### Ejemplo 4. Publicidad perjuiciosa
 
 La última campaña de Danone en Alemania ha presentado eslóganes renovados. En lugar de «Actimel activa tus defensas» se anuncia «Comienza más fuerte el día» y, en vez de «Activia mejora tu salud intestinal», se dice «Activia: tu estómago decide». Estas modificaciones responden a las quejas reiteradas de una organización de consumidores contra la empresa por valerse de mentiras publicitarias. Aunque Danone desmiente esta afirmación ha preferido zanjar la polémica con una afirmación que no pueda interpretarse como publicidad engañosa.
 
 A su vez, la compañía ha tenido que desmentir un bulo que circula por Internet, según el cual el consumo prolongado de Actimel es perjudicial para la salud. Además de informar a través de su web, habilitaron un teléfono, un correo electrónico y facilitaron datos de asociaciones profesionales desmintiendo tal afirmación para defenderse de esta publicidad desleal.
 
-## Actividades
+#### Actividades
 
 5. Señala si estos ejemplos son casos de publicidad ilícita. Justifica tu respuesta.
 
@@ -7009,7 +7017,7 @@ A su vez, la compañía ha tenido que desmentir un bulo que circula por Internet
 6. Busca información sobre qué se entiende por publicidad verde engañosa.
 7. Averigua qué requisitos deben cumplir los productos agrícolas o ganaderos para po der llevar la etiqueta «producto ecológico».
 
-## C. Gestión de los recursos humanos
+### C. Gestión de los recursos humanos
 
 La función o gestión de los recursos humanos de una empresa se ocupa de seleccio nar, formar y retener a los empleados o colaboradores que trabajan como freetance o autónomos.
 
@@ -7020,7 +7028,7 @@ Lo más habitual es que las compañías cuenten con un departamento de personal 
 - La selección de personal idóneo, así como el desarrollo de planes de motivación, de mejora de la comunicación interna, de formación continua, de organización de equipos de trabajo, etcétera.
 - Tareas administrativas de contratación, nóminas y despidos.
 
-## Coaching
+#### Coaching
 
 La evolución de las políticas de recursos humanos ha ido restando relevancia a las funciones administrativas, frente a las de gestión.
 
@@ -7043,14 +7051,14 @@ Al finalizar el tema, recogerás toda esta in formación para el plan de empresa
 
 El plan de marketing debe incorporar la mayor parte de acciones virtuales posibles, primero por cuestión de abaratamiento y, segundo, por mayor eficacia en la difusión. Además, debe implementar las nuevas técnicas que el desarrollo de Internet y sus aplicaciones hacen po sible, no solo para modernizar la imagen de la empresa, sino también, y sobre todo, por el reducido coste y la amplia difusión.
 
-## Fases de la Simulación empresarial
+### Fases de la Simulación empresarial
 
 - Fase 1. Elaboración del plan de marketing
 - Fase 2. Marketing y medios de promoción
 - Fase 3. Creación de página web y compra de dominios
 - Fase 4. Gestión de RR.HH.
 
-## Fase 1. Elaboración del Plan de marketing
+### Fase 1. Elaboración del Plan de marketing
 
 Para el diseño de las estrategias de marketing idóneas hay que retomar las decisiones adoptadas en unidades previas, ya que el proceso de constitución de vuestra empresa está muy avanzado y las nuevas decisiones se apoyarán en las que se efectuaron en fases anteriores.
 
@@ -7071,7 +7079,7 @@ Por tanto, queda por establecer en vuestros planes de marketing:
 - Planificación de acciones de marketing que incluyan tos medios de promoción a emplear.
 - Realización de un presupuesto estimado y fuentes de financiación, en caso de no contar con los recursos necesarios.
 
-## Actividad de simulación 1
+#### Actividad de simulación 1
 
 Reúnete con tus socios. Diseñad conjuntamente el mensaje comunicativo que queráis transmitir, para ello inventad un buen eslogan. El eslogan tiene que sintetizar las bonda des de vuestro producto o empresa, así como sus ventajas frente a la competencia.
 
@@ -7079,7 +7087,7 @@ Ayuda práctica:
 
 Piensa qué es lo más relevante de vuestra empresa o producto desde la perspectiva de un cliente potencial.
 
-## Fase 2. Marketing y medios de promoción
+### Fase 2. Marketing y medios de promoción
 
 La manera de llevar a cabo las acciones comerciales puede ser a través de métodos tradicionales o por acciones de marketing directo.
 
@@ -7118,19 +7126,19 @@ Tabla 7.2. Tipos de marketing:
 - - Los medios de comunicación tradicionales (prensa, televisión, radio) están siendo sustituidos por sus versiones gratuitas o por medios más rápidos e interactivos, como blogs o microblogs.
 - - La competencia es tan amplia que las empresas deben cuidar la relación con sus clientes para fidelizarlos. Es menos costoso conservar clientes que captar nuevos.
 
-## Público segmentado
+#### Público segmentado
 
 Público segmentado se refiere a la agrupación que realizan los especialistas de marketing de los potenciales consumidores que presentan características similares, con el fin de diseñar acciones comunes a todos ellos.
 
-## Spam
+#### Spam
 
 El spam, correo basura o mensaje basura son diferentes formas de referirse a mensajes no deseados o de remitente desconocido, habitualmente de tipo publicitario.
 
-## Técnicas de marketing alternativo
+#### Técnicas de marketing alternativo
 
 A raíz de la irrupción de las nuevas tendencias tecnológicas, han ido surgiendo nuevas formas de hacer marketing que comportan un cambio en la estrategia comunicativa de las empresas. A continuación se analizan las técnicas más usuales del marketing digital.
 
-## Vídeo marketing
+#### Vídeo marketing
 
 El vídeo marketing se vale de recursos audiovisuales para transmitir el mensaje comercial, principalmente a través de la red. Lo más frecuente es que se difunda en la web corporativa o se inserte en YouTube y portales similares.
 
@@ -7140,7 +7148,7 @@ Al parecer, los vídeos o el contenido multimedia son, en general, uno de los el
 
 El porcentaje de popularidad de YouTube, unido a la gratuidad de sus servicios, lo convierte en el portal estrella para este tipo de contenidos. Además, si el vídeo goza de interés, su difusión será promovida por los mismos potenciales clientes a través de sus propios blogs, o por el envío masivo a sus contactos de e-mail o por su difusión desde las redes sociales.
 
-## Código QR o código BIDI
+#### Código QR o código BIDI
 
 Los códigos QuickResponse Code o bidimensionales son un medio de almacenamiento de información en una matriz de puntos o un código de barras bidimensional creado por la com pañía japonesa Denso Wave, subsidiaria de Toyota, en 1994. El nombre de Quick Response («respuesta rápida») alude a la rapidez en acceder al contenido de esta información.
 
@@ -7157,7 +7165,7 @@ La utilidad de estos códigos es diversa, se caracterizan por:
 
 Sin embargo, el uso de esta herramienta está en manos de profesionales que no se han puesto al día y, por tanto, no saben cómo aprovechar todo el potencial de este nuevo medio de promoción. Mayoritariamente los utilizan en folletos y carteles, anuncios en prensa y tarjetas de visita.
 
-## Ejemplo 5. Uso insólito del código QR
+#### Ejemplo 5. Uso insólito del código QR
 
 Uno de los usos más insólitos de los códigos QR es el realizado por un negocio tradicional del Reino Unido: en una granja han tenido la idea de pintar códigos QR en el lomo de una vaca llamada Lady Shamrock.
 
@@ -7165,17 +7173,17 @@ Para ello, sobreponen una plantilla sobre el lomo del animal al que rocían con 
 
 Esta granja recibe una gran cantidad de visitas al día, razón por la cual se les ocurrió implantar esta tecnología a fin de facilitar toda la información que los visitantes requerían, así como dar valor a un trabajo y a una calidad en el hacer que no siempre es apreciado por el visitante. La iniciativa se convirtió en todo un éxito, las visitas a la web se incrementaron en un 150 % y el fenómeno llamó la atención de los medios de comunicación y de muchos visitantes.
 
-## Mobile marketing
+#### Mobile marketing
 
 El mobile marketing utiliza el móvil o smartphone del usuario como vehículo de promoción.
 
-## Ejemplo 6. Aplicación qlikBar
+#### Ejemplo 6. Aplicación qlikBar
 
 En Valencia, unos jóvenes publicistas, desarrolladores y consultores, han ideado una aplica ción de móvil gratuita llamada qlikBar, que permite consultar el menú de un bar o restau rante, hacer pedidos sin necesidad de esperar al camarero y dejar comentarios. De manera adicional, se puede interactuar con el resto de clientes y utilizar la aplicación como guía para consultar los locales de la zona. El sistema se completa con un juego en el que los usuarios acumulan puntos por visitas a locales de la zona.
 
 La aplicación funciona gracias a la tecnología de geolocalización y los códigos QR. La idea muestra que la sinergia creada por pequeños hosteleros con inquietud y jóvenes desarro lladores de ideas con dominio de las nuevas tecnologías, puede dar lugar a un producto de gran potencial. En estos momentos la aplicación se encuentra en fase de prueba, lo que los entendidos llaman fase beta, mientras se están acometiendo las rondas de financiación. De momento, han contado con el apoyo de la aceleradora de ideas StartNewTech.
 
-## Marketing viral
+#### Marketing viral
 
 El marketing viral pretende difundir una campaña publicitaria de manera exponencial a través de las redes sociales y de otros medios electrónicos, contando con la participación del público objetivo, que distribuirá el mensaje entre sus contactos.
 
@@ -7191,17 +7199,17 @@ En ocasiones los mensajes que se transmiten difunden un rumor falso y, aunque no
 
 Así sucedió con el lanzamiento de Coca-Cola Zero, a la que se le atribuyeron efectos can cerígenos. Otras veces, son las propias compañías las que dejan correr un falso rumor para crear cierta expectativa ante el lanzamiento de un producto nuevo, como hizo Apple antes de lanzar al mercado el iPhone 5, cuyo prototipo, se dijo, había sido extraviado en un bar.
 
-## Ejemplo 7. La crema de Isabel Preysler
+#### Ejemplo 7. La crema de Isabel Preysler
 
 Una de las campañas más conocidas en España de marketing viral es la «crema de Isabel Preysler» (la exmujer de Julio Iglesias) una crema antiarrugas de venta en farmacias. Su aso ciación con ese icono de belleza se realizó a través de varios blogs que se hicieron eco de una inusual noticia, según la cual, una azafata siguió a Isabel Preysler cuando descendía del avión y vio que tiraba en una papelera el envase de cartón de la crema que acababa de utilizar. Lo recogió y lo buscó en una farmacia. Su sorpresa fue grande al comprobar que era una crema de precio asequible, uno de los motivos por el que se incrementó el nivel de ventas de esta crema, una vez conocido este rumor. La extensión del bulo fue tal que era posible comprar la crema sin conocer su nombre ni su aspecto, simplemente indicando en la farmacia que se deseaba comprar la crema de la Preysler.
 
-## Ejemplo 8. Incentivos para activar el marketing viral
+#### Ejemplo 8. Incentivos para activar el marketing viral
 
 Hay empresas que ofrecen algún tipo de incentivo para contribuir a la difusión de su men saje. Este fue el caso de Burger King con su reciente campaña «Elimina un amigo y gana un Whopper», que regalaba una hamburguesa por cada diez contactos eliminados de la red social de Facebook del usuario.
 
 La difusión del mensaje estaba asegurada porque cada contacto suprimido recibía un men saje en su muro comentando que su amigo había preferido una hamburguesa antes que a él. Esto favorecía la replicación. El éxito de la campaña fue tal que Facebook tuvo que restringirla ya que se valía de su propia red para atentar contra sus propios intereses corporativos.
 
-## Ejemplo 9. ¿Has soñado con este hombre?
+#### Ejemplo 9. ¿Has soñado con este hombre?
 
 Hay acciones de marketing viral que ocultan su intención comercial y cualquier referencia que les identifique. Estas comunicaciones son ingenuamente transmitidas por usuarios debido a lo inusual y extraño de tal mensaje. Se trata de estrategias de marketing encubierto, que persiguen generar una gran cobertura mediática con un coste muy bajo.
 
@@ -7211,13 +7219,13 @@ La historia, rayando la frontera de lo paranorrnal, contaba que ese hombre se ha
 
 www.thisman.org
 
-## Vending
+#### Vending
 
 Vendinges un neologismo inglés que se utiliza para denominar el sistema de ventas por medio de máquinas expendedoras accionadas por diversos medios de pago, generalmen te monedas o tarjetas.
 
 Las máquinas expendedoras de refrescos o comida son habituales en espacios públicos como gimnasios, centros de formación, bibliotecas, estaciones de transportes públicos, etc. Estas máquinas son propiedad de una empresa, que vende sus productos e imprime la publicidad en los laterales de la máquina, o bien, son máquinas mixtas donde se pueden encontrar pro ductos de diferentes empresas, como sandwiches, snacks, refrescos, zumos, bollería y chicles.
 
-## Ejemplo 10. El Freestyle de Coca-Cola
+#### Ejemplo 10. El Freestyle de Coca-Cola
 
 Actualmente se están indagando nuevas fórmulas de vending, como es el caso de la compa ñía Coca-Cola que ha creado una innovadora máquina expendedora denominada Freestyle. La característica de esta máquina es que permite incorporar hasta 120 bebidas distintas de marcas diferentes, todas ellas del grupo Coca-Cola.
 
@@ -7229,13 +7237,13 @@ Aunque aún no ha llegado a España, ya está presente en todo Estados Unidos y 
 
 La compañía Coca-Cola ha encontrado la manera de rentabilizar este medio como un ele mento de marketing más actual. Así, en Corea una de estas máquinas expendedoras «obliga» a bailar a los más jóvenes para que logren un refresco gratis; en cambio, en Estados Unidos la máquina cuenta calorías. En España la máquina de Limon&amp;Nada varía los precios de los refrescos según la temperatura ambiental.
 
-## Ejemplo 11. Vetiding a través de Twitter
+#### Ejemplo 11. Vetiding a través de Twitter
 
 La marca sudafricana de té helado BOS ha lanzado, por su parte, una máquina vendedora denominada Bev, que se activa a través de Twitter, de manera que el medio de pago son tuits. Esta innovadora máquina cuenta con cámaras, micrófonos y LED, de modo que permite rega lar una lata de té cuando alguna persona tuitee el hashtag que se muestre en ese momento en la pantalla.
 
 Un hashtag o etiqueta de almohadilla (#) es una cadena de palabras concatenadas y precedidas por una almohadilla. Sirve para iniciar un tema de conversación en Twitter u otros medios similares. Cualquier usuario puede seguir este hilo de conversación y manifestar en él una opinión, simplemente con buscar el hashtag en el servicio de microblogging.
 
-## Marketing olfativo
+#### Marketing olfativo
 
 El marketing olfativo, también llamado odomarketing o marketing aromático, se basa en estimular el sentido del olfato para aumentar la experiencia placentera del con sumidor en relación con el producto.
 
@@ -7243,21 +7251,21 @@ Según algunos estudios, las personas recordamos un 35% de los olores que se asp
 
 De igual forma, el olor es el reclamo habitual que se intuye en la publicidad de fragancias y desodorantes. Las últimas tendencias, sin embargo, apuntan más lejos. No se trata de resaltar el olor de un producto de por sí aromático, sino crear esencias agradables y placenteras para asociarlos a una marca, un establecimiento comercial o a experiencias agradables de con sumo. Ya existen empresas especializadas en crear fragancias de marca, e incluso se venden difusores industriales de grandes dimensiones para asegurarse de que el establecimiento se impregna de ese aroma, como sería el caso del hotel Al-Andalus, de Sevilla, que tiene un olor corporativo basado en la fragancia de azahar, la flor del naranjo que tanto abunda en esa ciudad.
 
-## Marketing social
+#### Marketing social
 
 Su propósito es la aplicación de las técnicas del marketing para desarrollar acciones que me joren el bienestar personal de los clientes y de la sociedad en general. Se utiliza también para comunicar las acciones de responsabilidad social corporativa. Además, es un tipo de marketing del que se sirven las entidades sin ánimo de lucro, como ON o fundaciones, para erradicar de terminadas conductas perjudiciales para las personas o para concienciar de problemas sociales.
 
 Así, se encuadrarían en acciones de marketing social: acciones publicitarias para luchar contra el tabaquismo, la contaminación, etc., o acciones para favorecer un comportamiento socialmente responsable, como incrementar las donaciones voluntarias de sangre o de órganos, o acciones de sensibilización en la lucha contra la pobreza.
 
-## Ejemplo 12. Uniendo sinergias sociales
+#### Ejemplo 12. Uniendo sinergias sociales
 
 En noviembre de 2012, Metro de Madrid consiguió reunir en un mes a más de 3000 donantes en una campaña con Cruz Roja y Coca-Cola. El lema de la iniciativa fue «Estás a un metro de salvar muchas vidas». Cuatro estaciones se convirtieron en puntos de extracción de sangre, de las cuales, Ciudad Universitaria fue la más solidaria consiguiendo la donación de 1 300 viajeros.
 
-## Marketing de contenidos
+#### Marketing de contenidos
 
 El marketing de contenidos consiste en centrar la atención comercial en la distribución de contenido relevante para potenciales clientes, con el fin de atraer su atención y, si es posible, crear una relación más permanente con ellos. Puede ser en forma deposts, tuits, actualizacio nes en redes sociales, artículos en revistas corporativas físicas u online -newsletters-, vídeos, podcasts, etc.
 
-## Ejemplo 13. Aquarius
+#### Ejemplo 13. Aquarius
 
 En la campaña publicitaria «Huérfanos de pueblo», de Aquarius, la compañía Coca-Cola quiso contribuir a la repoblación de pueblos que estuvieran perdiendo habitantes, para lo cual puso en contacto a cincuenta pueblos españoles, previamente seleccionados, con personas que carecían de pueblo en el que veranear y estaban interesados en ello. La campaña se di fundió a través de YouTube y en la propia web de la compañía, donde debían registrarse las personas interesadas en ser aceptadas como «hijos adoptivos». Esta inscripción daba derecho a disfrutar de descuentos en bares, restaurantes y alojamientos de la localidad asignada.
 
@@ -7265,11 +7273,11 @@ A través de Facebook, los participantes podían dar a conocer su experiencia, c
 
 Aquarius se ha caracterizado por hacer siempre campañas muy adaptadas al gusto español. Algunas de ellas han sido conmovedoras, como aquella en la que dio difusión a la iniciativa de un ciudadano anónimo que, pese a carecer de conocimientos arquitectónicos, está cons truyendo una catedral. Puedes leer más sobre esta historia en Wikipedia: «Catedral de Justo».
 
-## Marketing relacional o marketing de atracción
+#### Marketing relacional o marketing de atracción
 
 El marketing relacional o marketing de atracción busca fidelizar la relación con el cliente y ganar nueva clientela, a base de una comunicación permanente y bidireccional; es decir, se espera que sean los usuarios los que accedan al contenido online de la empresa, ya sea en busca de información relevante, para participar en foros o para acceder a un posible premio. La empresa no se detiene en la creación de este contenido relevante, sino que avanza un paso más, ya que analiza la repercusión de los mensajes en la potencial clientela. Engloba, por tanto, herramientas de marketing social, de marketing de contenidos y de SEO, esto es, de mejorar el posicionamiento web.
 
-## Ejemplo 14. El equilibrio de Ultimat Vodka
+#### Ejemplo 14. El equilibrio de Ultimat Vodka
 
 Una de las estrategias más globales de marketing la ha realizado Ultimat Vodka, con una campaña destinada a trabajadores de cualificación profesional medio-alta. El objetivo era captar su atención sobre el lanzamiento de nuevas bebidas alcohólicas y aprovechar sus con tactos para ganar clientes.
 
@@ -7279,45 +7287,45 @@ La posibilidad de compartir el vídeo era un elemento clave en la campaña. Se u
 
 Los resultados de la campaña mostraron que cerca de dos millones de usuarios vieron el vídeo en las dos primeras semanas de campaña, que más de medio millón visitaron la aplicación Social UfeAudit y que el vídeo fue número uno entre los más vistos en los EE.UU. Los mejores datos son los índices de satisfacción de la propia marca, que considera que de este modo había logrado un mayor impacto entre los consumidores que con un típico anuncio, ya que los usuarios de estos medios han llegado a la marca gracias a la recomendación de amigos y han asociado la marca con una buena experiencia.
 
-## Otros medios de promoción
+#### Otros medios de promoción
 
 En el mundo del marketing se alude a otras variantes de marketing que, sin tener tanta re percusión, sí es frecuente que aparezcan en los medios de comunicación, razón por la que procederemos a su análisis.
 
-## Street marketing
+#### Street marketing
 
 Se trata de realizar acciones promocionales inesperadas en una calle céntrica para asegurarse una gran audiencia. Lo más habitual es que se revelen pocos datos o ninguno de la compañía que desarrolla la campaña, para generar intriga y expectación, y así incrementar y prolongar el efecto.
 
-## Ejemplo 15. Street marketing, acciones inesperadas
+#### Ejemplo 15. Street marketing, acciones inesperadas
 
 La promoción de la película Chronicle se efectuó con una acción inusitada. Durante más de media hora, unos maniquís teledirigidos volaron y planearon sobre la ciudad de Nueva York. No hubo aviso previo, ni información que diera pistas sobre el propósito de esta acción, lo que generó una gran afluencia de público detenido mientras señalaban el cielo. Incluso hay quien imaginó que seres extraterrestres estaban invadiendo la Tierra. Puedes ver el vídeo en YouTube, titulado Hombres volando BY: Chronicle.
 
 La ciudad de Barcelona también fue escenario de unas acciones de street marketing hace años, cuando la compañía Converse quiso dar a conocer los nuevos colores de las zapatillas ChuckTaylor All-Stars. Durante cuatro días, se dejaron en diversos puntos de la ciudad 300 bicis pintadas de llamativos colores para que la gente se las llevara gratis. Las bicicletas se loca lizaban a través del perfil de Converse en Facebook. Como fin de fiesta, se realizó un mosaico de colores en la playa de Barcelona con sombrillas, esterillas, balones y bolsas de playa, que también se regalaron.
 
-## D Dance marketing
+#### D Dance marketing
 
 Consiste en improvisar una coreografía multitudinaria en un lugar público, con la participa ción de bailarines profesionales camuflados.
 
-## Ejemplo 16. Bailar para promocionar un producto
+#### Ejemplo 16. Bailar para promocionar un producto
 
 La primera iniciativa tuvo lugar en la estación de Liverpool de Londres, realizada por una empresa de telefonía móvil, que grabó la escena con cámaras, por lo que la acción puede ser vista en YouTube. La escena transcurre en un momento de máxima afluencia de viajeros. La música ambiente proveniente de los altavoces es animada y, de manera aparentemen te improvisada, un grupo de personas comienzan a bailar una sencilla coreografía, cuando en realidad se trata de bailarines profesionales camuflados. Poco a poco las personas que presencian la escena se van sumando a la iniciativa, hasta que una muchedumbre baila de manera sincronizada. Cuando acaba la música, los espectadores activan sus móviles para contar la experiencia a sus amistades. El anuncio resaltaba que es bueno tener un móvil a mano para este tipo de momentos.
 
 En España, la empresa IKEA realizó esta actividad en sus instalaciones de Alcorcón (Madrid) de manera aparentemente improvisada, aunque las cámaras de televisión estuvieron presentes para grabar la escena y mostrarlo en el telediario.
 
-## Co-marketing o marketing de cooperación
+#### Co-marketing o marketing de cooperación
 
 El co-marketing o marketing de cooperación es una unión, generalmente temporal, de em presas para realizar una campaña promocional conjunta, de manera que se incrementa el impacto de la acción publicitaria, ya que con menos recursos económicos se llega a más audiencia.
 
-## Ejemplo 17. Co-marketing de empresas de sectores distintos
+#### Ejemplo 17. Co-marketing de empresas de sectores distintos
 
 En ocasiones, las compañías no son rivales, como sucede en la reciente campaña realizada por Magnum. A través de la web http://pleasurehunt.mymagnum.com se accede a un original juego en el que una mujer, dirigida con los cursores del teclado del ordenador, va moviéndose por diferentes páginas web para atrapar bombones Magnum. El juego dura en torno a veinte minutos, lo que da idea de la cantidad de empresas integradas en esta campaña publicitaria. Al acabar el juego, el jugador obtiene una puntuación final que se incluye en un ranking con el resultado de otros jugadores online.
 
 Otras veces, se unen empresas que se dedican al mismo sector y es precisamente esta con vergencia la que asegura un mayor índice de audiencia, del mismo modo que los centros comerciales atraen a más compradores por la concentración en un mismo espacio de diferentes marcas, lo que amplía las posibilidades de compra.
 
-## Ejemplo 18. Co-marketing de empresas del mismo sector
+#### Ejemplo 18. Co-marketing de empresas del mismo sector
 
 Un ejemplo clásico de este tipo de posibilidad es la distribución de tickets descuentos en una misma libreta, a usar en diferentes negocios. O la asociación Coca-Cola con Telepizza, Burger King y otros restaurantes. O el recién portal de bodas creado por El Corte Inglés en el que se integran los servicios de cerca de 1500 empresas, con el propósito de competir con la empresa Bodaclick.
 
-## Marketing de guerrilla
+#### Marketing de guerrilla
 
 Esta estrategia comercial aplica al mundo del marketing los conocimientos militares de Sun Tzu, un general, estratega y filósofo chino, de alrededor del año 500 a.C. Sus ideas están re cogidas en el libro El arte de la guerra, se trata de tácticas sencillas pero eficaces que han sido reinterpretadas para adaptarse al mundo empresarial.
 
@@ -7337,7 +7345,7 @@ Tabla 7.3. Marketing de guerrilla en la empresa.
 
 - Desmarcarse de la publicidad desleal: Sun Tzu afirma: «La mejor política en la guerra es tomar un estado intacto; arruinarlo es inferior». Así pues, esta máxima indica que la esencia del marketing de guerrillas no debe basarse en la publicidad desleal para desbancar a la competencia.
 
-## Ejemplo 19. Caso: Banco Santander y su marketing de guerrilla
+#### Ejemplo 19. Caso: Banco Santander y su marketing de guerrilla
 
 Emilio Botín, presidente del Banco Santander, asegura «admirar las estrategias militares descritas por Sun Tzu en El arte de la guerra, uno de mis libros de cabecera». La historia de su grupo ha seguido las máximas que se destacan en ese libro.
 
@@ -7349,7 +7357,7 @@ Así, destacó tres ideas clave que han dado al banco el liderazgo mundial que t
 
 Como conclusión, Botín reconoce que el Banco Santander ha logrado su objetivo: «Es el tercer banco del mundo por resultados, el primero de la zona euro por capitalización y la mayor red de banca comercial internacional».
 
-## Neuromarketing
+#### Neuromarketing
 
 Esta modalidad de marketing aprovecha los últimos avances en neurociencia para extraer conclusiones sobre los patrones de consumo de los clientes, que no es más que un proceso de elección de compra regulado por procesos mentales. Así, por ejemplo, los estudios muestran que el 95 % de las compras son de forma inconsciente. O que las personas optan por comprar un producto que incluye un 50% gratis, antes que el mismo bien rebajado un 33%, a pesar de que la segunda alternativa sería más ventajosa desde un punto de vista económico.
 
@@ -7359,11 +7367,11 @@ El neuromarketing también explica la importancia de elementos ambientales que p
 - Una sensación térmica acorde con la ropa que se está vendiendo incita al consumo. Así, es habitual que cuando en agosto se expone la campaña otoño-invierno, las superficies comerciales reduzcan significativamente la temperatura de la tienda.
 - Los colores amarillos captan la atención, de manera que es el color preferido para las eti quetas de descuentos o para señalar promociones u ofertas, tipo 3x2.
 
-## El merchandising
+#### El merchandising
 
 Es una parte del marketing que pretende presentar el producto en las mejores condiciones, tanto materiales como psicológicas, al comprador potencial. Tien de a sustituir la presentación pasiva del producto por aquellos elementos que resalten su atractivo, como presentación, envasado, exposición, decoración, etc.
 
-## Marketing verde
+#### Marketing verde
 
 Está orientado al lanzamiento de productos ecológicos o a acciones corporativas que mejoren el cuidado del medioambiente.
 
@@ -7377,11 +7385,11 @@ El greenwashing consiste en una práctica poco ética de algunas compañías que
 
 Sin embargo, el marketing verde usado de manera engañosa puede, además de desplazar el interés del consumidor hacia otras marcas por sentirse engañado, dar lugar a denuncias de los competidores por competencia desleal.
 
-## Ejemplo 20.Toshiba y su compromiso con el medio ambiente
+#### Ejemplo 20. Toshiba y su compromiso con el medio ambiente
 
 La compañía Toshiba ha sorprendido con el lanzamiento de un equipo multifuncional, denominado e-STUDIO 36QLP, que puede borrar el papel impreso y reutilizarlo hasta cinco veces, con una velocidad de borrado de treinta páginas por minuto. Afirma que se reduce en un 80% el gasto del papel en una oficina. Además, es un producto sostenible, puesto que ahorra en un 57% las emisiones de CO2 tanto para producirla, ya que se fabrica con plásticos procedentes de plantas en vez de petróleo, como para reciclarla, ya que sus componentes son biológicos.
 
-## Ejemplo 21. «Made in Green», certificación ecológica
+#### Ejemplo 21. «Made in Green», certificación ecológica
 
 Algunas prácticas ilícitas en este tipo de publicidad han generado escepticismo entre los ciudadanos, razón por la cual han empezado a surgir empresas que se dedican a acreditar la autenticidad de este tipo de comunicados.
 
@@ -7389,7 +7397,7 @@ La compañía Made in Green certifica que el material utilizado por las empresas
 
 La empresa afirma que hasta que la sostenibilidad no esté implícita en la productividad, son necesarias este tipo de medidas.
 
-## Marketing de afiliación
+#### Marketing de afiliación
 
 El marketing de afiliación es un tipo de marketing especializado en la obtención de resul tados, es decir, que la empresa no paga por las acciones promocionales, sino por aquellas medidas que son efectivas por alguna acción realizada por el cliente, como registrarse en un formulario, hacer un clic, realizar una compra, etc. A esta práctica se le denomina coste por acción (CPA).
 
@@ -7401,11 +7409,11 @@ Ejemplos de este tipo de marketing son los ofrecidos por Google a través de sus
 
 - Google AdSense. Es el programa de publicidad de Google que permite insertar banners de publicidad en páginas web, blogs, plataformas de vídeo, etc., y pueden incluir texto, imágenes o vídeos.
 
-## Banner
+#### Banner
 
 Un banner es un anuncio normalmente rectangular colocado arriba, abajo o en los lados del contenido principal de un sitio web y que enlaza con el sitio web del anunciante.
 
-## Sobre Google AdWords
+#### Sobre Google AdWords
 
 El precio de cada clic y la posición de cada anunciante se establecen mediante subasta, es decir, por el nivel de relevancia que tiene el anuncio, lo que depende de la oferta y la demanda, y de las palabras clave asociadas a la búsqueda.
 
@@ -7415,14 +7423,14 @@ Así pues, existen desde anunciantes que han pagado 0,03 dólares por clic, hast
 
 Con estas herramientas Google ha podido garantizar la independencia en sus resultados de búsqueda, al tiempo que puede generar ingresos por su actividad asegurando la gratuidad del servicio del buscador.
 
-## AdMob Ads SDK
+#### AdMob Ads SDK
 
 Los servicios de Google siguen incrementándose con el desarrollo de una aplicación para móviles, denominada AdMob Ads SDK, y con su servicio de Google Ad Planner.
 
 - Google AdMob. Es una herramienta de muy reciente creación que posibilita a los anun ciantes insertar publicidad en aplicaciones para móviles.
 - Google Ad Planner. Es un programa gratuito que permite planificar y seleccionar los me dios más adecuados para anunciarse. Para ello, se suministran estadísticas y datos demo gráficos sobre el perfil de los usuarios que navegan y sobre las búsquedas que realizan.
 
-## D Marketing B2B
+#### D Marketing B2B
 
 Las siglas B2B (business-to-business) se refieren a las empresas que ofrecen sus servicios a otras empresas en lugar de tener a los consumidores como cliente final, que serían los negocios denominados B2C (business-to-consumer). El marketing B2B se refiere, por tanto, a las estrategias comerciales que una empresa dirige a otras, como sería el caso de la campaña expuesta en el ejemplo 9, «¿Has soñado con este hombre?».
 
@@ -7430,7 +7438,7 @@ Ya hay ejemplos de marketing aplicado a esta tendencia, como la empresa A&A Comm
 
 Encontrarás más ejemplos de marketing y sobre las tendencias actuales de las empresas en el blog de McGraw-Hill, www.fpemprendedores.es, que se actualiza periódicamente.
 
-## El comercio electrónico
+#### El comercio electrónico
 
 El comercio electrónico o e-commerce (electronic commerce) consiste en la compra y venta de productos o servicios a través de medios electrónicos, como Internet o un móvil.
 
@@ -7450,13 +7458,13 @@ Los medios de pago más habituales son mediante tarjeta de crédito, por transfe
 
 PayPal es una empresa que permite la transferencia de dinero mediante el uso del correo electrónico. La facilidad de la transacción, así como la privacidad y seguridad de los datos ha impulsado el crecimiento de este tipo de empresa.
 
-## Antecedentes del comercio electrónico: la venta por catálogo
+#### Antecedentes del comercio electrónico: la venta por catálogo
 
 La venta por catálogo surgió en Estados Unidos a finales del siglo xix, con la intención de lograr una mayor difusión de los productos. Así pues, el envío de catálogos a los hoga res logró, no únicamente difundir los artículos, sino también propició el incremento de las ventas puesto que no requería que los clientes se desplazaran hasta el punto de venta, ya que con una simple llamada telefónica podían adquirir el producto deseado, sin el engorro de tener un vendedor en la puerta que presiona para poder realizar la venta.
 
 A partir de los años ochenta del siglo xx, la venta por catálogo tomó mayor impulso con la aparición de las tarjetas de crédito y de una nueva modalidad de venta: la teletienda,. Esta modalidad consiste en ofertar los productos a través de televisión, lo cual permite hacer una muestra con todo detalle de las cualidades del producto en cuestión, refrendado por el testi monio de personas que avalan las cualidades del artículo. La compra se materializa mediante un teléfono y una tarjeta de crédito.
 
-## Evolución del comercio electrónico
+#### Evolución del comercio electrónico
 
 La irrupción de Internet ha propiciado la aparición de nuevas fórmulas de comercialización que están revolucionando el sector.
 
@@ -7464,15 +7472,15 @@ La irrupción de Internet ha propiciado la aparición de nuevas fórmulas de com
 
 - Comercio social. Supone el uso de las redes sociales para comprar y vender productos a través de Internet, sirviéndose de herramientas como foros, comunidades, lista de valora ciones de productos, etc. Además, en estas redes colaborativas se intercambian opiniones, consejos y recomendaciones entre clientes potenciales de un producto y consumidores del mismo. A veces, las empresas tratan de mejorar la reputación de su marca insertando ellos mismos comentarios positivos sin desvelar su identidad. En otras ocasiones pagan a blogueros de reconocido prestigio para que incluyan un post (artículo) favorable a su compañía.
 
-## Foro
+#### Foro
 
 Un foro es una aplicación web que da soporte al intercambio de opiniones en línea. Para las empresas esto supone un medio informal de publicidad, aunque no pueden controlar que toda sea positiva, ya que los usuarios expresan libremente su opinión.
 
-## Comunidades online
+#### Comunidades online
 
 Las comunidades online son grupos de personas que comparten intereses y se ponen en contacto para intercambiar conocimientos, experiencias, etc., algunos se han creado sobre la base de intereses de compra concretos, como ropa de segunda mano.
 
-## El patrocinio
+#### El patrocinio
 
 El patrocinio o esponsorización es el apoyo económico que brinda una empresa a una persona u organización, con vistas a hacer visible su marca en acontecimientos multitu dinarios.
 
@@ -7483,7 +7491,7 @@ Por ello, es habitual la esponsorización de eventos deportivos o culturales:
 
 El patrocinio persigue también un beneficio intangible para la empresa, que consiste en que se la relacione con los valores del evento que patrocina.
 
-## Ejemplo 22. Ejemplos de asociaciones entre valores y patrocinio
+#### Ejemplo 22. Ejemplos de asociaciones entre valores y patrocinio
 
 - Los últimos spots del Banco Santander están protagonizados por Fernando Alonso y giran en torno a la idea del equipo de trabajo, de esforzarse por ganar y de superarse a uno mis mo, con lo que se quiere reforzar la imagen corporativa del Banco Santander. Es interesante constatar que el rojo corporativo del Banco Santander es fácilmente asociable al rojo de la escudería Ferrari.
 
@@ -7497,7 +7505,7 @@ Nike había bautizado uno de sus edificios en Oregon con el nombre del ciclista,
 
 Esta técnica se conoce con el término de naming rights. Una aplicación de esta estrategia de marketing tuvo lugar en Madrid cuando la estación de metro Sol cambió su nombre tempo ralmente por el de Sol alaxy Note, para promocionar un móvil de esta compañía.
 
-## Curiosidad: las consecuencias del patrocinio olímpico
+#### Curiosidad: las consecuencias del patrocinio olímpico
 
 La familia de Kate Middleton, la esposa del príncipe uillermo de Inglaterra, regenta un negocio de fiestas infantiles llamado Party Pieces. Con motivo de las Olimpiadas, lanza ron una línea de juguetes denominada Celebra losJuegos.
 
@@ -7507,7 +7515,7 @@ Entre los patrocinadores olímpicos figuraban Coca-Cola, McDonald's, Adidas, Hei
 
 La explicación a estas restricciones se remonta al año 1996, cuando Nike compró las vallas publicitarias alrededor del estadio olímpico y logró más reconocimiento que el patrocinador, Reebok. Desde entonces, el Comité Olímpico Internacional (COI) exige que cada ciudad anfitriona apruebe una normativa estricta que prohiba el uso de este reclamo turístico si no se es colaborador oficial de los Juegos. La razón es que sin el apo yo económico de los patrocinadores, las Olimpiadas no podrían realizarse, como fue el caso de Londres, cuyos patrocinadores aportaron 1775 millones de euros.
 
-## Los nuevos profesionales del marketing online
+#### Los nuevos profesionales del marketing online
 
 Las nuevas tendencias en marketing han conducido al desarrollo de nuevos profesionales que integran el departamento de marketing en las empresas.
 
@@ -7515,11 +7523,11 @@ Las nuevas tendencias en marketing han conducido al desarrollo de nuevos profesi
 
 - El record manager es el encargado de gestionar la publicidad online de la marca, en los di ferentes medios como redes sociales, blogs, páginas web, Google Adwords, etc., así como de evaluar sus efectos.
 
-## Presupuestos de marketing
+#### Presupuestos de marketing
 
 Un presupuesto de marketing prevé una cantidad de recursos determinados para realizar acciones promocionales de un producto, marca o empresa en un periodo de tiempo deter minado, incluye diferentes acciones, cuanto mayor sea la empresa y su capacidad financiera, más amplias y extensas serán.
 
-## Actividad de simulación 2
+#### Actividad de simulación 2
 
 Diseña junto a tus socios una campaña de marketing. Tenéis que definir qué acciones promocionales vais a llevar a cabo, además de presupuestarlas. Asimismo, debéis especi ficar de dónde obtendréis la financiación necesaria.
 
@@ -7555,7 +7563,7 @@ Errores a evitar
 5. Improvisar las estrategias comerciales. Cualquier decisión debe estar meditada y analizada para ponerla en marcha, así como tener previstas sus consecuencias. No se puede improvisar el uso de medios, aunque estos sean gratuitos, dado que las personas están infoxicadas (saturadas de información). Esto ha generado el desarrollo de estrategias de lectura rápida, donde se ojea sin detenerse a leer la información, y la habilidad de ver sin mirar o de oír sin escuchar. El análisis DAFO, si está permanentemente revisado, dará orientaciones sobre las nuevas medidas a adoptar.
 6. No crear marca. La publicidad no solo debe servir para informar de las bondades de los productos o para captar clientes, sino también para crear una imagen de marca, a fin de reforzar la imagen corporativa deseada. Así, no es azaroso que Nike siempre seleccione estrellas deportivas para sus anuncios. Cuando los clientes no son capaces de identificar las señas de identidad de una marca ni de diferenciarla de la compe tencia, significa que la imagen de marca es débil.
 
-## Fase 3. Creación de página web y compra de dominios
+### Fase 3. Creación de página web y compra de dominios
 
 A la hora de elegir un dominio (nombre de la web) hay que tener en cuenta varios criterios. El primordial es conceder la misma importancia a la elección del dominio como a la que se desempeña al seleccionar la denominación social de la empresa o del logotipo. Un nombre de dominio atractivo y elegante facilitará el tráfico por su página. Es una carta de presenta ción, igual que lo es cualquier otro aspecto del negocio, así que no debe descuidarse.
 
@@ -7571,11 +7579,11 @@ En caso de que el dominio esté libre, hay que registrarlo antes de comenzar a r
 
 El seguimiento de los dominios caducados mueve millones cada año. Snapnames, Pool y Namewinner son algunas de las empresas especializadas en capturar dominios caducados que luego subastan, obteniendo un beneficio de ello.
 
-## Ejemplo 23. El dominio Hipercor
+#### Ejemplo 23. El dominio Hipercor
 
 Hipercor en el año 2005 ganó la demanda interpuesta a un particular que utilizaba el do minio hipercor.to para divulgar contenido pornográfico. En la demanda, Hipercor denunció la violación de derechos, de propiedad industrial y de competencia desleal por el uso de la denominación y marca denominativa y gráfica Hipercor como nombre de dominio.
 
-## Actividad de simulación 3
+#### Actividad de simulación 3
 
 Reúnete con tus socios. Pensad un dominio para vuestra empresa, según las recomenda ciones dadas. Incluso, podéis iniciar la creación de una página web. Hay muchas páginas que ofrecen un espacio gratuito y que tienen plantillas prediseñadas para que la activi dad resulte fácil y rápida. Cada vez se desarrollan más este tipo de iniciativas.
 
@@ -7598,11 +7606,11 @@ En caso contrario, habría que seguir estos consejos:
 11. Entre la extensión .es o .com, es preferible la segunda ya que permite la internacionalización más rápida, llegado el caso. Sin embargo, sería deseable, si la economía de la empresa lo permite, registrar todas las variantes posibles .es, .com, .net, .org, .biz, .net, etc., para evitar futuros conflictos con otras web.
 12. Antes de decidir, es bueno pedir opinión a otras personas.
 
-## Fase 4. Gestión de RR.HH.
+### Fase 4. Gestión de RR.HH.
 
 Las tendencias directivas actuales (management) apuntan hacia la calidad total, mediante la creación de sistemas participativos, la fomentación de equipos de trabajo, el trabajo orienta do a resultados, la captación del talento y la gestión informatizada de los recursos humanos.
 
-## Tendencias gerenciales
+#### Tendencias gerenciales
 
 El Ambiente de trabajo orientado a resultados o ATOR (en inglés ROWE, Results oriented workenvironment) consiste en retribuir a los trabajadores mediante un salario mixto integra do de una parte fija, denominada salario base, y de otra variable, según los resultados obteni dos, que suele reflejarse en la nómina como plus de productividad o incentivos o comisiones.
 
@@ -7619,25 +7627,25 @@ No obstante, la principal dificultad de esta gestión de personal es cuantificar
 
 Además, hay que procurar que el sistema valore o retribuya de alguna manera el esfuerzo aunque no haya producido un resultado, ya que la opción de compra no solo depende de la empresa, sino también del comprador, de variables económicas, etc. Las gerencias de las grandes empresas incorporan alguna forma de evaluar a los trabajadores.
 
-## Evaluación del desempeño
+#### Evaluación del desempeño
 
 La evaluación del desempeño es un proceso sistemático y periódico por el que se valoran, tanto cuantitativa como cualitativamente, el grado de eficacia de los trabajadores en su pues to mediante una serie de instrumentos, como encuestas, observación, etc. Una variante de esta técnica es la denominada evaluación del desempeño 360° o feedback 360grados.
 
-## Feedback 360 grados
+#### Feedback 360 grados
 
 El feedback 360 grados se comenzó a utilizar para evaluar a los mandos superiores, por parte de sus iguales jerárquicos, sus subordinados, clientes y proveedores. La idea de partida rompía con el paradigma de que el jefe es la única persona que puede evaluar las competencias de sus subordinados. En la práctica se utiliza para evaluar el desempeño de cualquier miembro de la organización con vistas a mejorar sus competencias, habilidades y comportamientos, así como a desarrollar su potencial en la organización. Los instrumentos que se utilizan son vanados, pero el proceso incluye siempre la comunicación de los resultados al afectado, para que tenga la oportunidad de modificar o cambiar.
 
 El principal hándicap de esta herramienta es el esfuerzo que supone la recogida y análisis de los datos, aunque se ha mejorado mucho con la incorporación de técnicas informáticas. Como consecuencia de esta evaluación, las empresas detectan trabajadores que son de espe cial relevancia para la compañía.
 
-## Gestión del talento
+#### Gestión del talento
 
 La gestión del talento busca destacar a aquellos trabajadores con una gran competencia o un alto potencial dentro de su sector profesional. El proceso de atraer pero también de retener a colaboradores productivos, se ha tornado cada vez más prioritario en las empresas, puesto que tan difícil es identificar personas válidas como fidelizarlas. Con esa intención se busca motivarles a través de procesos de promoción, autonomía de tareas, sueldos compe titivos, funciones de liderazgo, flexibilidad laboral y oportunidades de satisfacer sus moti vaciones personales. Las empresas o los profesionales especializados en captar talentos se denominan headhunters.
 
-## Trabajo en equipo
+#### Trabajo en equipo
 
 Los modelos teóricos de gestión de personal han avanzado desde el taylorismo hasta el toyotismo, como ya analizamos en unidades anteriores. La última tendencia está más orientada a favorecer el trabajo en equipos autónomos y autogestionablesf lo que resulta coherente con la aplicación de las ideas expuestas de ambiente orientado al resultado, evaluación del desempeño y gestión del talento.
 
-## Fractal teams o equipos fractales
+#### Fractal teams o equipos fractales
 
 El fractal teams o equipos fractales es un modelo de organización de empresa que centra su énfasis en la dirección de las personas como clave del funcionamiento de las organizacio nes, integrando los actuales conocimientos y teorías sobre liderazgo, motivación, trabajo en equipo, etc.
 
@@ -7653,15 +7661,15 @@ La idea subyacente no es instaurar un ambiente de trabajo jocoso, sino implement
 
 Google es una empresa que aplica esta filosofía empresarial. Para su fundador, el trabajo debe suponer un reto y los logros deben valorarse. En esta empresa se fomenta el trabajo en equipo, la relación interpersonal a través de zonas que permiten el juego grupal, las reuniones en espacios informales y la autogestión del tiempo de trabajo para alcanzar un único fin: la mejora del trabajo. Google siempre busca personas que compartan su obsesivo compromiso por lograr la perfección y que se diviertan haciéndolo.
 
-## Gestión de la calidad total
+#### Gestión de la calidad total
 
 La gestión de la calidad total (TQM, del inglés Total Quality Management) es una estrategia de gestión enfocada a mejorar la calidad en todos los procesos organizacionales. Una de las técnicas que incorpora es la que se denomina círculos de calidad.
 
-## Círculo de calidad
+#### Círculo de calidad
 
 El círculo de calidad es una técnica que pretende resolver los problemas generados por la interacción de los trabajadores. Para ello, un grupo voluntario de trabajadores se reúne periódicamente con la intención de gestionar de manera satisfactoria los problemas detec tados en sus áreas de desempeño laboral. Tras la discusión y propuesta de soluciones, se elevan las conclusiones a las instancias superiores que las estudiarán e implementarán, en la medida de lo posible. Esta técnica procede de Japón y se ha incorporado en las empresas orientales, no así en las occidentales que tienen un método de gestión del personal menos abierto y flexible.
 
-## Gestión informatizada de los RR.HH.
+#### Gestión informatizada de los RR.HH.
 
 Los sistemas de administración de recursos humanos o sistemas de información de recursos humanos son una manera de llevar a cabo las tareas administrativas de la gestión de personal con programas y aplicaciones informáticas, como los utilizados para la realización de nómi nas, cálculo de deducciones e impuestos u operaciones de contabilidad.
 
@@ -7671,7 +7679,7 @@ Actualmente, la tendencia salarial avanza hacia un modelo de salario mixto, en e
 
 Los programas informáticos permiten realizar estos cálculos teniendo en cuenta todas las va riables que intervienen en el proceso y ponderándolas según su relevancia. Los más recientes integran varios de los aspectos analizados en esta fase: identificación del talento, evaluacio nes 360°, evaluación de competencias, etc.
 
-## Actividad de simulación 4
+#### Actividad de simulación 4
 
 Realiza un plan de recursos humanos en el que queden identificados los puestos de trabajo, sus funciones, el perfil profesional requerido, el salario, la jornada de trabajo y la modalidad de contrato a realizar.
 
@@ -7708,7 +7716,7 @@ Con la intención de facilitaros la realización de esta actividad de simulació
 - Salario: Salario mixto: 17000 € brutos, como parte fija e incentivos variables según clientes conseguidos.
 - Perfil profesional: Grado superior o grado medio con experiencia en comercio online y con conocimiento de idiomas.
 
-## Plan de empresa
+#### Plan de empresa
 
 Vuestro plan de empresa debe recoger las decisiones llevadas a cabo en las fases de la Simulación empresarial de esta unidad.
 
@@ -7815,7 +7823,7 @@ Enumera los trabajadores que vais a contratar, el perfil profesional requerido, 
 - c) Las opciones a) y b) son correctas.
 - d) Lleva a cabo acciones inesperadas y radicales.
 
-## 8. Con el término vending aludimos a:
+8. Con el término vending aludimos a:
 
 - a) Acciones de venta realizadas con marketing olfativo.
 - b) Acciones promocionales realizadas en época navideña en las grandes superficies co merciales.
@@ -7906,13 +7914,15 @@ Enumera los trabajadores que vais a contratar, el perfil profesional requerido, 
 
 # 8. Internacionalización y globalización
 
-## En esta unidad aprenderemos a:
+## En esta unidad
+
+### aprenderemos a:
 
 - Reflexionar sobre las posibilidades de internacionalización.
 - Valorar la intemacionalizacíón como factor de innovación.
 - Definir ayudas y herramientas, públicas y privadas, para la intemacionalización de empresas.
 
-## Y estudiaremos:
+### Y estudiaremos:
 
 - La internacionalización de las empresas como oportunidad.
 - Alianzas accionariales o estratégicas con empresas extranjeras.
@@ -7920,7 +7930,7 @@ Enumera los trabajadores que vais a contratar, el perfil profesional requerido, 
 - Herramientas para la innovación empresarial.
 - Influencia de Internet en la organización de la empresa.
 
-## Donald M. Kendall, CEO de Pepsi de 1971 a 1986.
+### Donald M. Kendall, CEO de Pepsi de 1971 a 1986.
 
 «El único lugar donde el éxito viene antes que el trabajo es en el diccionario.»
 
@@ -7928,7 +7938,7 @@ Enumera los trabajadores que vais a contratar, el perfil profesional requerido, 
 
 En este apartado vamos a analizar, de la mano de Zara, las distintas estrategias que las em presas utilizan para introducirse y afianzarse en el mercado internacional.
 
-## Zara: un ejemplo de internacionalización
+### Zara: un ejemplo de internacionalización
 
 Zara pertenece al grupo Inditex, al igual que Pull&Bear, Massimo Dutti, Bershka, Stradivarius, Oysho y Üterque. La compañía inició su proceso de internacionalización en 1988, apenas trece años después de que se abriera la primera tienda Zara en Arteixo, Galicia. Inditex es un ejemplo de cómo una empresa puede llegar a convertirse en multinacional sin contar con tecnologías punteras ni marcas de reconocido prestigio.
 
@@ -7936,7 +7946,7 @@ La expansión internacional se inició en Portugal, apenas 35 años después el 
 
 En la mayoría de las ocasiones, la entrada en el nuevo mercado es iniciada por Zara; el resto de las firmas del grupo se incorporan gradualmente. En estos momentos, Zara es la marca más valiosa del mundo en el sector de la confección.
 
-## Abriéndose paso en el mercado internacional
+### Abriéndose paso en el mercado internacional
 
 En Europa, los países con mayor presencia de Inditex son Francia, Bélgica y recia. El éxito en Francia supuso un gran respaldo, por tratarse de un mercado de relevancia internacional en el ámbito de la moda. Los últimos países donde se ha incorporado su presencia han sido Alemania, Reino Unido e Italia y en cada uno de ellos se ha seguido una estrategia de ex pansión diferente. En los mercados alemán e italiano se ha optado por la fórmula de joint venturo, en el Reino Unido por la implantación directa, creando la filial Zara UK. En cambio, en Oriente Medio se ha optado mayoritariamente por la fórmula de la franquicia.
 
@@ -7962,7 +7972,7 @@ De hecho, las tiendas desempeñan un papel central porque son el elemento centra
 
 Entonces, si la estrategia empresarial es tan exitosa, ¿por qué no se imita? Se hace. Incluso las empresas competidoras, como Pepe Jeans o Sfera, han fichado alguno de sus diseñadores. Aun así, el modelo sigue siendo irrepetible. Tal vez porque no es un único elemento el que da cuenta de su éxito. Es la globalidad del proceso y, especialmente, una gerencia con gran habilidad para anticiparse a los cambios o, si no, para responder a ellos. La dirección del grupo empresarial ha estado en manos de su fundador, Amando Ortega, hasta el año 2011.
 
-## Reflexiona
+### Reflexiona
 
 1. Señala a qué mercado objetivo se dirigen las firmas de Inditex: Pulí &amp; Bear, Massimo Dutti, Bershka, Stradivarius y Oysho.
 2. Identifica la estrategia de marketing mix del grupo Inditex, para lo que tienes que analizar cuál es su estrategia en relación con las cuatro variables siguientes: produc to, precio, promoción y distribución.
@@ -7974,7 +7984,7 @@ En este apartado vamos a recordar algunos conceptos que te serán útiles para r
 
 mercado global, franquicia, filial, alianzas internacionales, globalización, comercio exterior, joint venture, multinacionales
 
-## A. Internacionalización de empresas
+### A. Internacionalización de empresas
 
 Las empresas multinacionales o transnacionales son aquellas compañías que también desarrollan actividades en el extranjero. Su extensión es cada vez mayor debido a los procesos de globalización.
 
@@ -7982,7 +7992,7 @@ La forma de acceder a otros mercados que no estén en el país de origen puede e
 
 La exportación es el proceso de comercializar bienes o servicios en otro país. Los métodos más comunes son la comercialización indirecta o la comercialización directa por medio de intermediarios.
 
-## Comercialización indirecta
+#### Comercialización indirecta
 
 Se realiza sin contar con la presencia de la empresa en el país donde quiere introducirse, ya que trabaja con interme diarios locales, esto es, con empresas ya consolidadas en ese mercado. Es una forma más segura de iniciar negocios en otro mercado, al contar con la experiencia de una compañía ya asentada, con conocimientos propios del sector y del país, como costumbres culturales o dominio del idioma. Representa una gran oportunidad para pymes que quieren expandirse internacionalmente,ya que requiere menor inversión que si se contara con presencia directa. Aunque genera una relación de dependencia con los socios locales y limita los beneficios, ya que cuantos más agentes intervengan en el proceso, más beneficios habrá que repartir.
 
@@ -7992,7 +8002,7 @@ La comercialización indirecta puede llevarse a cabo mediante un agente, un dist
 - Distribuidor local. Se convierte en un elemento de la cadena de comercialización de la empresa, al adquirir los pro ductos de la compañía para venderlos en su país. La empresa que quiere internacionalizarse pasa así a convertirse en proveedor del intermediario local y este en su cliente.
 - Consorcio de exportación. Es una coalición de empresas que tiene como objetivo promover los bienes y servicios de sus miembros en el extranjero y exportar dichos productos mediante acciones conjuntas. A veces estos consorcios están promovidos por las cámaras de comercio de las comunidades autónomas a las que pertenecen las empresas asociadas.
 
-## Globalización
+#### Globalización
 
 La globalización es el proceso por el cual los distintos países del mundo están cada vez más conectados e interdependientes unos de otros, unificando sus mercados, socie dades y culturas, a través de una serie de transformaciones económicas, tecnológicas, sociales, culturales y políticas a gran escala.
 
@@ -8000,15 +8010,15 @@ El índice de globalización es una medida de la conectividad e interdependencia
 
 El concepto de aldea global busca describir las consecuencias socioculturales de la co municación inmediata y mundial de todo tipo de información que posibilitan y estimu lan los medios electrónicos de comunicación.
 
-## Ejemplo 1. Consorcio impulsado por la Comunidad Autónoma de Murcia
+#### Ejemplo 1. Consorcio impulsado por la Comunidad Autónoma de Murcia
 
 Desde la Comunidad Autónoma de Murcia se han llevado a cabo contactos y viajes a Chile y Perú para cerrar acuerdos con los principales agentes de comercio exterior de estos paí ses. Se pretende crear una red estable que permita localizar oportunidades de negocio para las empresas murcianas en gestión de recursos hídricos, energías renovables o tecnología agrícola.
 
-## Ejemplo 2. Restaurador e intermediario local
+#### Ejemplo 2. Restaurador e intermediario local
 
 José Abad es un empresario español afincado en Israel, donde regenta un bar de tapas. Afirma que la marca España es muy popular en el extranjero, cuyos mejores embajadores son: la comida, la forma de vida y el carácter español. Razón por la cual, en Israel es fácil comprar cualquier artículo español puesto que existen muchos distribuidores que venden desde aza frán, pimentón o ventresca, hasta vinos de cualquier denominación de origen.
 
-## Comercialización directa
+#### Comercialización directa
 
 Supone la presencia directa de la empresa en el nuevo mercado, ya sea implantando una sucursal, mediante fusionesy adquisiciones de empresas, por un acuerdo de joint venture, o a través de un consorcio de exportación. Estas estrategias de comercialización directa exigen mayor dedicación de tiempo, recursos económicos y personales, puesto que hay que llevar a cabo previamente un estudio de mercado e identificar las oportunidades del país. Por ello, resulta una opción más accesible para las grandes empresas.
 
@@ -8018,15 +8028,15 @@ Supone la presencia directa de la empresa en el nuevo mercado, ya sea implantand
 - - Adquisición. Consiste en la compra de acciones de otra empresa, en cantidad tal que permita convertirse en el socio mayoritario y, por ello, se posea el control de la sociedad; no conlleva la fusión de patrimonios. La empresa adquirida, en su totalidad o en parte, se denomina filial, mientras que la empresa compradora se convierte en la empresa matriz o madre.
 - Jointventure. Es un acuerdo de colaboración con una empresa local, donde ninguna de las dos empresas pierde su independencia jurídica.
 
-## Ejemplo 3. Abriendo sucursales
+#### Ejemplo 3. Abriendo sucursales
 
 El estudio de arquitectura A-Cero se dedica a la construcción de viviendas de lujo en España, como la casa de Amancio Ortega, fundador de Zara, o los chalets exclusivos de la zona de La Finca, en Pozuelo de Alarcón, Madrid, donde residen estrellas del fútbol y artistas, entre otros. Durante la crisis optó por abrir una sucursal en otros países o regiones de alto poder adquisitivo, como Miami o los países del olfo. «Si te sitúas en un mercado alto o muy alto, eres mucho menos sensible a la crisis», afirma su fundador.
 
-## Ejemplo 4. Fusión de empresas
+#### Ejemplo 4. Fusión de empresas
 
 lnternationalConsolidatedAirlines roup,S.A.f también conocida como IntemationalAirlines roup o IA , es la compañía resultante de la fusión de Iberia y British Airways, que se realizó en 2010. Esta sociedad es la quinta aerolínea más grande del mundo por ingresos y la tercera en Europa. No obstante, la denominación de Intemational Airlines no se utiliza como marca comercial, sino que se mantienen las originales denominaciones de Iberia y British Airways, aunque sí sirve para denominar la sociedad holding propietaria de ambas aerolíneas, que es la que cotiza en bolsa.
 
-## Ejemplo 5. Momi&Toy's y el joint venture
+#### Ejemplo 5. Momi&Toy's y el joint venture
 
 La empresa Momi&Toy's ha optado por la estrategia de la joint venture para expandirse por España, con la colaboración de un máster franquiciado español, que tiene una participación del 40% en el acuerdo de colaboración firmado, frente al 60 % que se reserva la firma nipona.
 
@@ -8034,13 +8044,13 @@ El negocio consiste en abrir un determinado número de puntos de venta, durante 
 
 Seguidamente analizaremos algunas de estas estrategias con más detalle.
 
-## Consorcio de exportación
+#### Consorcio de exportación
 
 Un consorcio de exportación es una agrupación de empresas con el objetivo de desarro llar conjuntamente mercados exteriores para sus productos. Estos consorcios pueden estar promovidos o promocionados desde las cámaras de comercio autonómicas. Los productos que las empresas aportan al consorcio, normalmente complementarios entre sí, suelen tener un idéntico canal de distribución, así como eventos promocionales comunes. Las empresas determinan unas normas que regulan lo que aporta cada una y los derechos y deberes respectivos. El consorcio actúa como una entidad de apoyo a las empresas que lo conforman, que solo defiende los intereses de sus socios.
 
 En ocasiones, un consorcio de exportación está constituido por varias empresas competidoras que se asocian para ganar solidez y fortaleza al entrar en un mercado extranjero. Es el caso del consorcio Campos de España, que comercializa vinos de varias denominaciones de origen, como La Mancha, Ribera del Duero y Rías Baixas.
 
-## Fusión de empresas
+#### Fusión de empresas
 
 Una fusión implica la integración de dos o más empresas en una única entidad. Existen dos tipos de fusiones:
 
@@ -8052,7 +8062,7 @@ Desaparecen las empresas iniciales y traspasan todo su patrimonio (activos y pas
 
 En este tipo de fusión, una empresa domina el proceso y absorbe a la otra, que le traspasará su patrimonio. La empresa que continúa mantiene su funcionamiento e integra en su organización al personal y a los directivos de la empre sa absorbida, aunque sus contratos o sus convenios pueden sufrir modificaciones y están más expuestos a un recorte de plantilla, en caso de llevarse a cabo. Asimismo, la empresa reorganizará sus acciones, según el capital aportado, para repartirlas entre los socios de la sociedad que ha desaparecido.
 
-## Actividades
+#### Actividades
 
 1. Identifica en estas noticias de prensa si se trata de una fusión pura o de una fusión por absorción.
 
@@ -8060,15 +8070,15 @@ En este tipo de fusión, una empresa domina el proceso y absorbe a la otra, que 
 - b) Aena Aeropuertos ha hecho efectiva su fusión con su filial de carga aérea, Centros Logísticos Aeroportuarios (CLASA). De esta forma, la filial de carga aérea de Aena Aeropuertos se extingue y comienza a operar Aena Aeropuertos subrogada en la posición contractual de CLASA, respecto de todos los contratos suscritos por esta última.
 - c) El Banco Santander, primer grupo bancario de la zona euro por capitalización, llevó a cabo en diciembre de 2012 una fusión con sus filiales Banesto y Banif. A partir de ese momento, mantuvo «Santander» como única marca comercial en España.
 
-## Adquisición de filial
+#### Adquisición de filial
 
 Una filial goza de personalidad jurídica propia, por lo que su organización y gestión es to talmente independiente, si bien la empresa matriz ostenta la mayoría de acciones y ejerce el poder de decisión. Por tanto, la empresa filial puede tener proyectos propios mientras no vayan en contra de las directivas de la empresa matriz. El margen de libertad de acción para la empresa filial lo fija cada empresa matriz y varía de empresa a empresa. Ejemplos de filiales serían Orange y Wanadoo cuya empresa matriz es France Telecom, la principal operadora de telefonía francesa.
 
-## Actividades
+#### Actividades
 
 2. Averigua qué filiales tiene Telefónica repartidas por el mundo y qué nombre reciben.
 
-## Motivos para decidirse por una filial
+#### Motivos para decidirse por una filial
 
 Tabla 8.1. Motivos para adquirir una filial por parte de una empresa matriz.
 
@@ -8084,7 +8094,7 @@ La empresa matriz puede tener diversos motivos para decidirse por una filial:
 
 5. Mejorar la imagen: Ofrecer una mayor imagen de confianza para los proveedores o clientes locales.
 
-## Filial
+#### Filial
 
 La filial puede generar conocimientos propios o abrir nuevos mercados que beneficien a la empresa matriz, aspectos que podrían no haberse logrado si la matriz no hubiera contado con socios locales. Por su parte, la empresa filial se beneficia de la matriz por el aporte de capital, de nuevas ideas o por la transferencia de tecnología.
 
@@ -8098,7 +8108,7 @@ La globalización y el crecimiento del comercio internacional de bienes, servici
 
 Una empresa que tiene filiales o sucursales en varios países se denomina empresa multina cional, o simplemente, multinacional.
 
-## Economía de escala
+#### Economía de escala
 
 La economía de escala alude a la reducción en el coste medio por unidad producida. La disminución de gastos aumenta a medida que se incrementa el volumen de produc ción, ya que los costes fijos se reparten entre más unidades producidas y, por eso, se reducen.
 
@@ -8106,7 +8116,7 @@ Las empresas aprovechan la economía de escala para aumentar la compra de produc
 
 El concepto de economía de escala explicaría el porqué están tan extendidos los proce sos de comercio internacional y de globalización.
 
-## Joint venture
+#### Joint venture
 
 Una joint venture o empresa conjunta supone un compromiso de colaboración entre dos o más empresas, por el que ninguna de ellas pierde su identidad ni su individualidad desde un punto de vista jurídico. Por tanto, no conlleva fusión ni absorción de una empresa por parte de la otra, sino el compromiso de una alianza estratégica concretado a través de un contrato de colaboración, tal como una franquicia, o bien, con la constitución de una Unión temporal de empresas (UTE) o de una Agrupación de interés económico (AIE), o bien, mediante una sociedadparticipada por ambas.
 
@@ -8122,7 +8132,7 @@ Esta fórmula jurídica de colaboración está muy extendida en grandes empresas
 
 La creación de una UTE requiere la intervención notarial para dar fe de la escritura pública del acuerdo, así como la ins cripción en el Registro Mercantil. Carece de personalidad jurídica propia, lo que significa que la responsabilidad de la unión temporal de empresas recae solidaria e ilimitadamente sobre los integrantes de la UTE.
 
-## Agrupación de interés económico (AJE)
+#### Agrupación de interés económico (AJE)
 
 Es una asociación mercantil sin ánimo de lucro y con personalidad jurídica propia, creada por varios empresarios para mejorar los resultados de sus actividades económicas.
 
@@ -8136,7 +8146,7 @@ Ejemplo
 
 El objetivo de promover un conjunto turístico residencial de calidad con instalaciones hoteleras de, al menos, cuatro estrellas en la zona andaluza Campo de ibraltar, se va a llevar a cabo gracias a la constitución de una Agrupación de interés económico (AIE) promovida por el ayuntamiento entre los propietarios del suelo.
 
-## Sociedad participada
+#### Sociedad participada
 
 Se trata de aquella sociedad cuyo capital pertenece también a otra sociedad o grupo de sociedades. Mediante un acuerdo óejointventure, dos o más empresas pueden constituir una sociedad participada, es decir, una empresa inde pendiente cuyo capital social está repartido entre las empresas participantes según hayan acordado inicialmente.
 
@@ -8148,22 +8158,22 @@ Camerdata es una sociedad participada por la Cámara de Comercio de Madrid, que 
 
 En función de su coste, puede tratarse de un informe simple sobre la competencia del sector, con un coste que ronda desde los 35 hasta los 70 euros, o bien, se puede realizar un análisis complejo y exhaustivo sobre los mercados poten ciales del negocio, lo que asciende a los 200 euros. Este modelo de negocio permite a un pequeño empresario acceder a una herramienta que hasta ahora estaba solo reservada a las grandes empresas, que suelen encargar análisis de idonei dad antes de decidirse por un nuevo emplazamiento.
 
-## Actividades
+#### Actividades
 
 3. Selecciona una franquicia que te parezca atractiva para iniciar un negocio y averigua cuáles son sus condiciones y qué obligación temporal mínima es exigida.
 4. Accede al siguiente enlace y lee el artículo que hay en él. Señala qué ventajas tiene formar parte de una AIE: http://www.cincodias.com/artRcuSo/emprencSedores/ agrupacion-interes-economico-red empresas/20110415cdsepdepd_14/
 
-## Propósito de una jointventure
+#### Propósito de una jointventure
 
 El propósito de una jointventure puede ser el de llevar a cabo la producción de manera con junta o la búsqueda de nuevos mercados o cualquier otro objetivo estratégico. Asimismo, la aportación de cada empresa admite múltiples variantes como el intercambio de materia prima o de productos semiacabados, la cesión de tecnología, la intervención en los canales de distribución, la contribución con financiación, la colaboración con el know-how específico o el conocimiento del mercado, la cesión de personal, etc.
 
-## Know-how
+#### Know-how
 
 El know-how («saber cómo») es una forma de denominar los conocimientos necesarios para gestionar un negocio, que se adquieren a base de años de experiencia. No se trata, por tanto, de conocimientos académicos, sino experienciales, tales como la manera de atender al cliente, la forma de negociar con proveedores, etc. Son la clave de por qué un negocio funciona y otros parecidos fracasan.
 
 El know-how es uno de los principales elementos que se obtienen al firmar un contrato con una franquicia.
 
-## Lo relevante de joint venture
+#### Lo relevante de joint venture
 
 Lo relevante no son los elementos que intercambian, ni los objetivos empresariales que persiguen, sino que se asocian de manera temporal para reducir el riesgo y obtener beneficios mutuos. Esta colaboración suele establecerse a medio y largo plazo, puesto que las acciones a desarrollar requieren de grandes esfuerzos de planificación y puesta en práctica, razón por la que no compensaría una unión breve.
 
@@ -8171,7 +8181,7 @@ Las joint venture no solo tienen lugar en el ámbito internacional, pero es ahí
 
 Resulta igualmente interesante para pymes que quieren adentrarse en un país diferente al propio. Al aliarse con empresas locales reducen problemas legales, dificultades con el idioma o barreras comerciales, aunque también se benefician de conocimientos específicos para ga nar cuota de mercado en ese país, por ejemplo, al recibir apoyo en la búsqueda de provee dores, al contratar empleados locales, etc. Estas alianzas estratégicas les permiten lograr sin gran esfuerzo ventajas competitivas a corto plazo, ventajas que no alcanzarían por sí mismas.
 
-## Ejemplo 6. Imaginarium y el Shop in shop
+#### Ejemplo 6. Imaginarium y el Shop in shop
 
 Imaginarium ha entrado en el mercado francés mediante una alianza estratégica con la mar ca francesa Vertbaudet, líder en el segmento de venta a distancia de ropa. El acuerdo con templa la comercialización de los productos Imaginarium a través de los principales canales de venta de Vertbaudet (página web y catálogo de venta a distancia), además de la apertura de formatos Shop in shop de Imaginarium en algunas de las tiendas Vertbaudet.
 
@@ -8181,7 +8191,7 @@ Otro ejemplo de esta forma de colaboración comercial la encontramos en la secci
 
 En ocasiones, las fórmulas iniciales de internacionalización se transforman con el tiempo en otras más adecuadas. Por ejemplo, Iberdrola constituyó una filial denominada Iberdrola Reno vables y, una vez consolidada, optó por un proyecto de fusión por absorción.
 
-## B. Ayudas para la internacionalización
+### B. Ayudas para la internacionalización
 
 La globalización de la economía ha dado un giro al enfoque empresarial. Las compañías espa ñolas se plantean la internacionalización como una opción, pero también como una exigencia del mercado para no perder competitividad. Junto a ellos, el Estado o las comunidades autó nomas, así como otros organismos públicos o privados, promocionan acciones para mejorar las posibilidades de las empresas españolas de abarcar mercado en el extranjero.
 
@@ -8191,11 +8201,11 @@ Brevemente, se exponen los motivos que justifican la expansión internacional:
 - El crecimiento en mercado local es limitado. No solo se internacionalizan las empresas, también los clientes y la competencia.
 - Las compañías internacionales diversifican riesgos y son más rentables.
 
-## Ayudas públicas
+#### Ayudas públicas
 
 Diversos organismos públicos convocan premios o ayudas para favorecer la internacionaliza ción de las empresas españolas.
 
-## Ejemplo 7. Casos de ayudas públicas
+#### Ejemplo 7. Casos de ayudas públicas
 
 La Cámara de Comercio e Industria de La Rioja convoca los Premios a la Internacionalización.
 
@@ -8203,17 +8213,17 @@ Las comunidades autónomas también ofrecen ayudas, como es el caso del programa
 
 El ICO (Instituto de Crédito Oficial) cuenta con una línea de financiación abierta para favore cer la internacionalización de autónomos y empresas. Se trata de préstamos con condiciones ventajosas para acometer la compra o leasing de activos fijos, gastos de tramitación de la creación de una empresa, ayudas al pago del IVA o impuestos análogos. Como máximo se conceden diez millones €/año por cliente.
 
-## Ayudas a acciones inespecíficas
+#### Ayudas a acciones inespecíficas
 
 También los apoyos a la expansión internacional de empresas se pueden dirigir a colectivos que aún no han constituido su empresa o que tienen poca trayectoria emprendedora; o tam bién, pueden llevarse a cabo acciones promocionales para facilitar la red de contactos o para mejorar la imagen de España.
 
-## Ejemplo 8. Casos de ayudas inespecíficas
+#### Ejemplo 8. Casos de ayudas inespecíficas
 
 - La división internacional de IFEMA tiene entre sus objetivos convocar, al menos, dos ferias anuales en el extranjero.
 - El programa Erasmus para Jóvenes Emprendedores fomenta intercambios transnacionales a emprendedores noveles o a aquellos que desean tener su empresa, por medio de estancias con empresarios experimentados que dirigen pequeñas empresas en otros países de la Unión Europea, durante las cuales los nuevos emprendedores podrán adquirir conocimientos, habi lidades y crear una red social. Los anfitriones se benefician de una nueva perspectiva sobre su negocio y mejoran su red de contactos para iniciar nuevas relaciones comerciales y acceder a mercados extranjeros.
 - La marca España ha firmado un convenio de colaboración con la Agencia Efe para potenciar y mejorar la proyección del país en el exterior.
 
-## La importancia de la «Marca España»
+#### La importancia de la «Marca España»
 
 «La característica que mejor define el mundo actual es, sin lugar a dudas, la globalización. Ese proceso económico, tecnológico, social y cultural que provoca una creciente interdependencia entre los distintos países del mundo, que está unificando las socieda des, culturas y mercados, tiene una doble consecuencia para las empresas que compiten, o pretenden hacerlo, a nivel internacional. Por un lado, se produce un aumento de la competencia a nivel mundial al mismo tiempo que aparecen multitud de productos que satisfacen las mismas necesidades del consumidor (...).
 
@@ -8231,7 +8241,7 @@ Pero esos valores, esas percepciones, se deben construir partiendo de una realid
 
 Fuente: artículo del gerente del Consorcio del Jamón Serrano Español para Interempresas.net
 
-## Incubadora internacional de empresas
+#### Incubadora internacional de empresas
 
 En la Unidad 4 se analizó detalladamente el concepto de las incubadoras. Un tipo específico de esta modalidad es la incubadora internacional de empresas o el Intemational Business Development, que ayuda a la empresa de éxito a introducirse en los países emergentes.
 
@@ -8239,13 +8249,13 @@ El trabajo de la incubadora internacional se centra en el análisis de la viabil
 
 Al igual que una incubadora de empresas sin pretensiones internacionales, el IBD apoya la via bilidad económico-financiera mediante la búsqueda de nuevos socios y de medios de finan ciación. El IBD surgió en Estados Unidos y se ha ido implantando luego en otras economías desarrolladas. Su implicación puede ir desde simple consultoría hasta la participación en el accionariado de la empresa que apoya.
 
-## C. Internet como herramienta
+### C. Internet como herramienta
 
 La intemacionalización de la empresa era, hasta el nacimiento de Internet, un terreno en ge neral vedado a las pymes españolas por la dificultad de realizar negocios en otro país, por su alto coste con el gasto en viajes, ferias, búsqueda de distribuidores o agentes, etc.
 
 Las herramientas de marketing online les permiten acceder a ese público amplio en poco tiempo, con un bajo coste y sin contar con la presencia física en el país. Sin embargo, hay que tener en cuenta una serie de factores limitantes, que analizaremos a continuación.
 
-## Factores légales
+#### Factores légales
 
 Relativos al comercio electrónico y a la protección de datos. Vamos a tratar este contenido con apoyo del siguiente artículo:
 
@@ -8269,23 +8279,23 @@ Otro de los errores comunes es no contar con la denominada prueba de la contrata
 
 Fuente: Expansión. Madrid, 8 de enero de 2012 [en línea]
 
-## Factores lingüísticos
+#### Factores lingüísticos
 
 Los traductores automáticos como Google Transíate no se indexan en los buscadores, por lo que su uso no sería muy bueno. Tampoco es aconsejable confiar todo el contenido web a una traducción automática. En el caso de presentarse la página web en varios idiomas, normalmente la versión idiomática que aparece en pantalla se genera automáticamente según la dirección IP detectada, es lo que se denomina eoTargeting. En contrapartida, esta estrategia no discierne si el idioma propio del usuario corresponde al del país en donde está instalado el ordenador.
 
-## Liderazgo online
+#### Liderazgo online
 
 Google, a pesar de su impresionante cuota de mercado mundial, no es líder en algunos mercados como China, Rusia o Japón. Lo mismo sucede con Facebook, puesto que no es líder en las redes sociales de Brasil y China.
 
 Existen dos herramientas, Alexa y Google Insights, que analizan el grado de influencia de las diferentes redes sociales en todos los países del mundo.
 
-## Reputación online
+#### Reputación online
 
 El contenido debe ser relevante y aportar valor a los clientes. Hay que prestar mucha atención a la publicidad negativa que nos pueda afectar. Como resumió Warren Buffet: «Las empresas tardan 25 años en labrarse una buena reputación y 5 minutos en perderla».
 
 En España, pocas empresas se preocupan por su reputación internacional tanto como para realizar un seguimiento periódico. Entre las excepciones a este caso podemos encontrar: NH Hoteles, Meliá Hoteles, Movistar y Telefónica, Banco Santander, IE Business Schooly Unión Fenosa- as natural.
 
-## Posicionamiento SEO
+#### Posicionamiento SEO
 
 Se refiere a lograr un buen posicionamiento en los buscadores, sin pagar por ello. SEO es el acrónimo de Search Engine Optimization y se logra eligiendo determinadas palabras clave relacionadas con la actividad de un sitio para conseguir que aparezca en una buena posición cuando un usuario busca dichas palabras clave.
 
@@ -8295,11 +8305,11 @@ El objetivo de esta unidad es que reflexio nes sobre la posibilidad de internaci
 
 Al finalizar el tema, recogerás toda esta información para el plan de empresa en un apartado, denominado: Acciones para la internacionalización.
 
-## Fases de la Simulación empresarial
+### Fases de la Simulación empresarial
 
-Fase 1. Estrategias de internacionalización
+- Fase 1. Estrategias de internacionalización
 
-## Ejemplo 9. El caso de Ergonomic Product Design
+#### Ejemplo 9. El caso de Ergonomic Product Design
 
 Podemos tomar, por ejemplo, el caso de Ergonomic Product Design. Esta empresa fabrica y comercializa una mochila con un innovador sistema de respaldo anatómico, de manera que el usuario puede transportar la carga diaria sin sufrir lesiones de espalda.
 
@@ -8311,11 +8321,11 @@ El modelo, denominado ©Aironback, estuvo inicialmente dirigido a escolares pero
 
 Comenzó ganando varios concursos: de diseño en el instituto de Igualdad, el de jóvenes em prendedores de Bancaja y, más tarde, el premio en Impulsa. Con todo, aún necesitó más de un año para conseguir los 100000 euros de inversión inicial. A día de hoy ha conseguido vender su producto en Dubai y está en trámites con China, además de haber incrementado su oferta de productos.
 
-## Fase 1. Estrategias de internacionalización
+### Fase 1. Estrategias de internacionalización
 
 Al tratarse de una posibilidad remota en vuestras circunstancias actuales, abordaremos solo una fase de simulación empresarial y será breve.
 
-## Actividad de simulación 1
+#### Actividad de simulación 1
 
 Describe qué acciones realizaríais en caso de plantearos una internacionalización de vuestra empresa en un medio o largo plazo.
 
@@ -8323,7 +8333,7 @@ Ayuda práctica:
 
 Analiza qué mecanismo resultaría más interesante para la intemacionalización de vues tra empresa, según la clasificación que hemos analizado en la sección Conceptos. Jus tifica cada una de vuestras decisiones.
 
-## Plan de empresa
+#### Plan de empresa
 
 Ahora únicamente queda incorporar al plan de empresa las últimas decisiones adop tadas en esta unidad que se incluirán en un único apartado denominado Acciones para la internacionalización.
 
@@ -8427,7 +8437,7 @@ Te animamos a consultar el blog: www.fpemprendedores.es, donde encontrarás noti
 - c) Firma un acuerdo de colaboración con otra empresa.
 - d) Integra una empresa en otra, de manera que esta última desaparece.
 
-## 8. Una fusión por absorción consiste en un proceso por el cual una empresa:
+8. Una fusión por absorción consiste en un proceso por el cual una empresa:
 
 - a) Se une a otra para formar una empresa nueva.
 - b) Compra acciones de otra empresa.
@@ -8441,14 +8451,14 @@ Te animamos a consultar el blog: www.fpemprendedores.es, donde encontrarás noti
 - c) Firma un acuerdo de colaboración con otra empresa.
 - d) Integra una empresa en otra, de manera que esta última desaparece.
 
-## 10. Un consorcio de exportación es:
+10. Un consorcio de exportación es:
 
 - a) Una agrupación de empresas.
 - b) Una fusión de unas empresas con otras.
 - c) Empresa constituida por varias.
 - d) Ninguna es correcta.
 
-## 11. Una filial es una empresa:
+11. Una filial es una empresa:
 
 - a) Con personalidad jurídica propia.
 - b) Con gestión y organización independiente.
@@ -8462,7 +8472,7 @@ Te animamos a consultar el blog: www.fpemprendedores.es, donde encontrarás noti
 - c) Varias empresas dedicadas a actividades diferentes se unen.
 - d) Todas son correctas.
 
-## 13. La economía de escala es un concepto que alude a esta realidad:
+13. La economía de escala es un concepto que alude a esta realidad:
 
 - a) El coste medio por unidad se reduce.
 - b) Mejora el resultado cuantas más unidades se produzcan.
