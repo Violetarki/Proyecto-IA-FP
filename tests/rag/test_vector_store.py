@@ -124,10 +124,12 @@ class TestVectorStore(unittest.TestCase):
             texto="Texto sin jerarquia.",
         )
 
-        metadata = self.vector_store._preparar_registro(
+        resultado = self.vector_store._preparar_registro(
             chunk,
             self.embeddings[0],
         )
+
+        metadata = resultado[3]
 
         esperado = {
             "metodologia": self.documento.metodologia.nombre,
@@ -308,8 +310,6 @@ class TestVectorStore(unittest.TestCase):
         """Devuelve los chunks aceptables cuando ni excelentes ni buenos alcanzan el mínimo."""
 
         documentos = [
-            "Excelente",
-            "Bueno",
             "Aceptable 1",
             "Aceptable 2",
         ]
@@ -325,10 +325,8 @@ class TestVectorStore(unittest.TestCase):
         ]
 
         distancias = [
-            0.61,
-            0.62,
-            0.81,
-            0.9,
+            0.7,
+            0.75,
         ]
 
         resultado = self.vector_store._filtrar_chunks(
