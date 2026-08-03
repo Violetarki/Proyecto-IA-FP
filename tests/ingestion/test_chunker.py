@@ -8,6 +8,10 @@ from src.core.models import Documento, Metodologia
 
 class TestCrearChunksDocumento(unittest.TestCase):
 
+
+        # POSIBILIDAD DE AÑADIR UN SETUP Y UN TEARDOWN MÁS TARDE COMO MEJORA
+
+
     def _crear_documento(self, texto: str) -> Documento:
         return Documento(
             metodologia=Metodologia(nombre="Test"),
