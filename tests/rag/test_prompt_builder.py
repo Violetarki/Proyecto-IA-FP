@@ -16,8 +16,7 @@ class TestConstruirPrompt(unittest.TestCase):
             metodologia=None,
             nombre="documento_prueba.pdf",
             ruta="documento_prueba.pdf",
-            texto="Texto del documento de prueba.",
-            paginas=10
+            texto="Texto del documento de prueba."
         )
 
         self.chunk1 = Chunk(
@@ -53,7 +52,7 @@ class TestConstruirPrompt(unittest.TestCase):
         resultado = self.constructor._formatear_contexto([self.chunk1])
 
         esperado = (
-            "[Tema 1 > Apartado A]\n"
+            "[Tema 1 > 1.1 Apartado A]\n"
             "Texto del primer chunk."
         )
 
@@ -68,7 +67,7 @@ class TestConstruirPrompt(unittest.TestCase):
         )
 
         esperado = (
-            "[Tema 1 > Apartado A]\n"
+            "[Tema 1 > 1.1 Apartado A]\n"
             "Texto del primer chunk.\n\n"
             "[Tema 2]\n"
             "Texto del segundo chunk."
@@ -174,3 +173,6 @@ class TestConstruirPrompt(unittest.TestCase):
                 [self.chunk1]
             )
 
+
+if __name__ == "__main__":
+    unittest.main()
