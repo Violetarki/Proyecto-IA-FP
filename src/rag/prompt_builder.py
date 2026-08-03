@@ -115,5 +115,6 @@ class ConstructorPrompts:
 
         """.strip()
 
+
 if __name__ == "__main__":
     logger.info("Módulo encargado de construir el prompt para el LLM.")

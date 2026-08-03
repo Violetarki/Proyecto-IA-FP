@@ -1,5 +1,4 @@
-"""Version mas nueva de chunker.py
-
+"""
 Se encarga de dividir un Documento en una lista de Chunk,
 procurando que cada uno represente una unidad coherente de conocimiento.
  
@@ -229,32 +228,3 @@ def crear_chunks_documentos(documentos: list[Documento]) -> list[Chunk]:
 if __name__ == "__main__":
 
     logger.info("Este módulo proporciona funciones para dividir " "Documentos en Chunks.")
-
-    from pathlib import Path
-
-    from src.core.models import Documento, Metodologia
-
-    ruta = Path("data/markdown_clean/lean_startup/lean_startup.md")
-
-    documento = Documento(
-        metodologia=Metodologia(nombre="Lean Startup"),
-        nombre="lean_startup",
-        texto=ruta.read_text(encoding="utf-8"),
-        ruta=ruta,
-    )
-
-    chunks = crear_chunks_documento(documento)
-
-    logger.debug("Se han generado %d chunks.\n", len(chunks))
-
-    for chunk in chunks[:20]:  # Mostrar solo los 20 primeros
-
-        logger.debug("%s", "=" * 80)
-        logger.debug("Chunk %s", chunk.indice)
-        logger.debug("Título:      %s", chunk.titulo)
-        logger.debug("Subtítulo:   %s", chunk.subtitulo)
-        logger.debug("Sección:     %s", chunk.seccion)
-        logger.debug("Subsección:  %s", chunk.subseccion)
-        logger.debug("%s", "-" * 80)
-        logger.debug("%s", chunk.texto)
-        logger.debug("")

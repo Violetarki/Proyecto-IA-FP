@@ -73,7 +73,6 @@ class Historial:
         return historial[-max_mensajes:]
 
 
-
     def agregar_mensaje(
         self,
         id_conversacion: str,
