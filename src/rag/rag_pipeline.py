@@ -14,10 +14,17 @@ El resto de la aplicación (por ejemplo, el chatbot web) únicamente
 debe interactuar con esta clase.
 """
 
+import uuid
+
 from src.rag.retriever import Retriever
 from src.rag.prompt_builder import ConstructorPrompts
 from src.rag.llm_client import LLMClient
+from src.rag.historial import Historial
+from src.core.models import Mensaje
 
+import logging
+
+logger = logging.getLogger(__name__)
 
 class RAG:
     """
@@ -32,6 +39,9 @@ class RAG:
         self.retriever = Retriever()
         self.prompt_builder = ConstructorPrompts()
         self.llm = LLMClient()
+        self.historial = Historial()
+        self.id_conversacion = str(uuid.uuid4())
+
 
     def responder(
         self,
@@ -50,29 +60,44 @@ class RAG:
             Respuesta generada por el modelo de lenguaje.
         """
 
-        print("Recuperando contexto...")
+        logger.info("Recuperando contexto...")
+
+        historial = self.historial.obtener_contexto(self.id_conversacion)
 
         chunks = self.retriever.recuperar_contexto(
             pregunta,
             metodologia,
         )
 
-        print(f"Se han recuperado {len(chunks)} chunks.")
+        logger.debug("Se han recuperado %d chunks.", len(chunks))
 
-        print("Construyendo prompt...")
+        logger.info("Construyendo prompt...")
 
         prompt = self.prompt_builder.construir_prompt(
+            historial,
             pregunta,
             chunks,
         )
 
-        print("\n========== PROMPT ==========\n")
-        print(prompt)
-        print("\n============================\n")
+        logger.debug("\n========== PROMPT ==========\n")
+        logger.debug("%s", prompt)
+        logger.debug("\n============================\n")
 
-        print("Consultando el modelo...")
+        logger.info("Consultando el modelo...")
 
         respuesta = self.llm.generar_respuesta(prompt)
 
-        print("Respuesta recibida.")
+        # Guardar la pregunta en historial
+        self.historial.agregar_mensaje(
+            self.id_conversacion,
+            Mensaje("user", pregunta)
+        )
+
+        # Guardar la respuesta en historial
+        self.historial.agregar_mensaje(
+            self.id_conversacion,
+            Mensaje("bot", respuesta)
+        )
+
+        logger.info("Respuesta recibida.")
         return respuesta

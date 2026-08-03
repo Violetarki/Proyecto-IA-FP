@@ -27,8 +27,11 @@ from werkzeug.utils import secure_filename
 from src.ingestion.indexador import indexar_documentos
 from src.rag.rag_pipeline import RAG
 
+
 app = Flask(__name__)
 rag = RAG()
+
+
 # La clave secreta permite que Flask gestione las sesiones.
 #
 # Primero intenta leerla desde una variable de entorno.
@@ -77,7 +80,9 @@ def obtener_metodologias() -> list[str]:
     return sorted(metodologias)
 
 
-def mostrar_nombre_metodologia(metodologia: str) -> str:
+def mostrar_nombre_metodologia(
+    metodologia: str,
+) -> str:
     """
     Convierte el nombre de una carpeta en un texto legible.
 
@@ -101,7 +106,9 @@ def obtener_carpeta_metodologia(
     if not metodologia:
         return None
 
-    carpeta_metodologia = CARPETA_DOCUMENTOS / metodologia
+    carpeta_metodologia = (
+        CARPETA_DOCUMENTOS / metodologia
+    )
 
     if not carpeta_metodologia.exists():
         return None
@@ -112,13 +119,17 @@ def obtener_carpeta_metodologia(
     return carpeta_metodologia
 
 
-def obtener_documentos(metodologia: str) -> list[str]:
+def obtener_documentos(
+    metodologia: str,
+) -> list[str]:
     """
     Devuelve los archivos PDF de una metodología.
     """
 
-    carpeta_metodologia = obtener_carpeta_metodologia(
-        metodologia
+    carpeta_metodologia = (
+        obtener_carpeta_metodologia(
+            metodologia
+        )
     )
 
     if carpeta_metodologia is None:
@@ -134,12 +145,17 @@ def obtener_documentos(metodologia: str) -> list[str]:
     return sorted(documentos)
 
 
-def es_pdf(nombre_archivo: str) -> bool:
+def es_pdf(
+    nombre_archivo: str,
+) -> bool:
     """
     Comprueba si un archivo tiene extensión PDF.
     """
 
-    return Path(nombre_archivo).suffix.lower() == ".pdf"
+    return (
+        Path(nombre_archivo).suffix.lower()
+        == ".pdf"
+    )
 
 
 def profesor_autenticado() -> bool:
@@ -147,10 +163,15 @@ def profesor_autenticado() -> bool:
     Comprueba si el profesor ha iniciado sesión.
     """
 
-    return session.get("profesor_autenticado", False)
+    return session.get(
+        "profesor_autenticado",
+        False,
+    )
 
 
-def login_requerido(funcion: Callable) -> Callable:
+def login_requerido(
+    funcion: Callable,
+) -> Callable:
     """
     Protege una ruta para que solo pueda acceder
     un profesor autenticado.
@@ -159,16 +180,27 @@ def login_requerido(funcion: Callable) -> Callable:
     """
 
     @wraps(funcion)
-    def funcion_protegida(*args, **kwargs):
+    def funcion_protegida(
+        *args,
+        **kwargs,
+    ):
         if not profesor_autenticado():
             flash(
-                "Debes iniciar sesión para acceder al panel.",
+                (
+                    "Debes iniciar sesión para "
+                    "acceder al panel."
+                ),
                 "error",
             )
 
-            return redirect(url_for("login"))
+            return redirect(
+                url_for("login")
+            )
 
-        return funcion(*args, **kwargs)
+        return funcion(
+            *args,
+            **kwargs,
+        )
 
     return funcion_protegida
 
@@ -179,17 +211,43 @@ def inicio():
     Muestra la portada principal de la aplicación.
     """
 
-    return render_template("inicio.html")
+    return render_template(
+        "inicio.html"
+    )
 
-@app.route("/chat", methods=["GET", "POST"])
+
+@app.route(
+    "/chat",
+    methods=["GET", "POST"],
+)
 def chat():
     """
     Muestra la interfaz pública del chatbot y procesa
     las preguntas realizadas por el alumnado.
+
+    El alumno puede elegir la metodología sobre la que
+    desea realizar la consulta. Además, se recupera el
+    historial completo para mostrar toda la conversación.
     """
 
-    pregunta = ""
-    respuesta = ""
+    metodologias = obtener_metodologias()
+
+    metodologia_seleccionada = (
+        request.form.get(
+            "metodologia",
+            "lean_startup",
+        )
+    )
+
+    if (
+        metodologia_seleccionada
+        not in metodologias
+    ):
+        metodologia_seleccionada = (
+            metodologias[0]
+            if metodologias
+            else ""
+        )
 
     if request.method == "POST":
         pregunta = request.form.get(
@@ -203,26 +261,56 @@ def chat():
                 "error",
             )
 
+        elif not metodologia_seleccionada:
+            flash(
+                (
+                    "Debes seleccionar una "
+                    "metodología válida."
+                ),
+                "error",
+            )
+
         else:
             try:
-                respuesta = rag.responder(
+                rag.responder(
                     pregunta=pregunta,
-                    metodologia="lean_startup",
+                    metodologia=(
+                        metodologia_seleccionada
+                    ),
                 )
 
             except Exception as error:
                 flash(
-                    f"No se ha podido generar la respuesta: {error}",
+                    (
+                        "No se ha podido generar "
+                        f"la respuesta: {error}"
+                    ),
                     "error",
                 )
 
-    return render_template(
-        "chatbot.html",
-        pregunta=pregunta,
-        respuesta=respuesta,
+    conversacion = (
+        rag.historial.obtener_historial(
+            rag.id_conversacion
+        )
     )
 
-@app.route("/login", methods=["GET", "POST"])
+    return render_template(
+        "chatbot.html",
+        conversacion=conversacion,
+        metodologias=metodologias,
+        metodologia_seleccionada=(
+            metodologia_seleccionada
+        ),
+        mostrar_nombre_metodologia=(
+            mostrar_nombre_metodologia
+        ),
+    )
+
+
+@app.route(
+    "/login",
+    methods=["GET", "POST"],
+)
 def login():
     """
     Muestra y procesa el formulario de acceso
@@ -230,36 +318,63 @@ def login():
     """
 
     if profesor_autenticado():
-        return redirect(url_for("gestionar_documentos"))
+        return redirect(
+            url_for(
+                "gestionar_documentos"
+            )
+        )
 
     if request.method == "POST":
-        usuario = request.form.get("usuario", "").strip()
-        contrasena = request.form.get("contrasena", "")
+        usuario = request.form.get(
+            "usuario",
+            "",
+        ).strip()
+
+        contrasena = request.form.get(
+            "contrasena",
+            "",
+        )
 
         credenciales_correctas = (
             usuario == USUARIO_PROFESOR
-            and contrasena == CONTRASENA_PROFESOR
+            and contrasena
+            == CONTRASENA_PROFESOR
         )
 
         if credenciales_correctas:
-            session["profesor_autenticado"] = True
-            session["usuario_profesor"] = usuario
+            session[
+                "profesor_autenticado"
+            ] = True
+
+            session[
+                "usuario_profesor"
+            ] = usuario
 
             flash(
-                "Has iniciado sesión correctamente.",
+                (
+                    "Has iniciado sesión "
+                    "correctamente."
+                ),
                 "exito",
             )
 
             return redirect(
-                url_for("gestionar_documentos")
+                url_for(
+                    "gestionar_documentos"
+                )
             )
 
         flash(
-            "El usuario o la contraseña no son correctos.",
+            (
+                "El usuario o la contraseña "
+                "no son correctos."
+            ),
             "error",
         )
 
-    return render_template("login.html")
+    return render_template(
+        "login.html"
+    )
 
 
 @app.route("/logout")
@@ -271,14 +386,21 @@ def logout():
     session.clear()
 
     flash(
-        "Has cerrado sesión correctamente.",
+        (
+            "Has cerrado sesión "
+            "correctamente."
+        ),
         "informacion",
     )
 
-    return redirect(url_for("inicio"))
+    return redirect(
+        url_for("inicio")
+    )
 
 
-@app.route("/profesor/documentos")
+@app.route(
+    "/profesor/documentos"
+)
 @login_requerido
 def gestionar_documentos():
     """
@@ -287,13 +409,19 @@ def gestionar_documentos():
     """
 
     metodologias = obtener_metodologias()
-    metodologia_seleccionada = request.args.get(
-        "metodologia"
+
+    metodologia_seleccionada = (
+        request.args.get(
+            "metodologia"
+        )
     )
 
     documentos = []
 
-    if metodologia_seleccionada in metodologias:
+    if (
+        metodologia_seleccionada
+        in metodologias
+    ):
         documentos = obtener_documentos(
             metodologia_seleccionada
         )
@@ -301,7 +429,9 @@ def gestionar_documentos():
     return render_template(
         "gestion_documentos.html",
         metodologias=metodologias,
-        metodologia_seleccionada=metodologia_seleccionada,
+        metodologia_seleccionada=(
+            metodologia_seleccionada
+        ),
         documentos=documentos,
         mostrar_nombre_metodologia=(
             mostrar_nombre_metodologia
@@ -319,26 +449,44 @@ def subir_documento():
     Sube un archivo PDF a la metodología seleccionada.
     """
 
-    metodologia = request.form.get("metodologia")
-    archivo = request.files.get("archivo")
+    metodologia = request.form.get(
+        "metodologia"
+    )
 
-    carpeta_metodologia = obtener_carpeta_metodologia(
-        metodologia
+    archivo = request.files.get(
+        "archivo"
+    )
+
+    carpeta_metodologia = (
+        obtener_carpeta_metodologia(
+            metodologia
+        )
     )
 
     if carpeta_metodologia is None:
         flash(
-            "La metodología seleccionada no es válida.",
+            (
+                "La metodología seleccionada "
+                "no es válida."
+            ),
             "error",
         )
 
         return redirect(
-            url_for("gestionar_documentos")
+            url_for(
+                "gestionar_documentos"
+            )
         )
 
-    if archivo is None or archivo.filename == "":
+    if (
+        archivo is None
+        or archivo.filename == ""
+    ):
         flash(
-            "Debes seleccionar un archivo.",
+            (
+                "Debes seleccionar "
+                "un archivo."
+            ),
             "error",
         )
 
@@ -349,11 +497,16 @@ def subir_documento():
             )
         )
 
-    nombre_seguro = secure_filename(archivo.filename)
+    nombre_seguro = secure_filename(
+        archivo.filename
+    )
 
     if not nombre_seguro:
         flash(
-            "El nombre del archivo no es válido.",
+            (
+                "El nombre del archivo "
+                "no es válido."
+            ),
             "error",
         )
 
@@ -366,7 +519,10 @@ def subir_documento():
 
     if not es_pdf(nombre_seguro):
         flash(
-            "Solo se permiten archivos PDF.",
+            (
+                "Solo se permiten "
+                "archivos PDF."
+            ),
             "error",
         )
 
@@ -378,12 +534,16 @@ def subir_documento():
         )
 
     ruta_destino = (
-        carpeta_metodologia / nombre_seguro
+        carpeta_metodologia
+        / nombre_seguro
     )
 
     if ruta_destino.exists():
         flash(
-            "Ya existe un documento con ese nombre.",
+            (
+                "Ya existe un documento "
+                "con ese nombre."
+            ),
             "error",
         )
 
@@ -394,10 +554,15 @@ def subir_documento():
             )
         )
 
-    archivo.save(ruta_destino)
+    archivo.save(
+        ruta_destino
+    )
 
     flash(
-        "Documento subido correctamente.",
+        (
+            "Documento subido "
+            "correctamente."
+        ),
         "exito",
     )
 
@@ -419,26 +584,41 @@ def eliminar_documento():
     Elimina un archivo PDF de la metodología seleccionada.
     """
 
-    metodologia = request.form.get("metodologia")
-    nombre_documento = request.form.get("documento")
+    metodologia = request.form.get(
+        "metodologia"
+    )
 
-    carpeta_metodologia = obtener_carpeta_metodologia(
-        metodologia
+    nombre_documento = request.form.get(
+        "documento"
+    )
+
+    carpeta_metodologia = (
+        obtener_carpeta_metodologia(
+            metodologia
+        )
     )
 
     if carpeta_metodologia is None:
         flash(
-            "La metodología seleccionada no es válida.",
+            (
+                "La metodología seleccionada "
+                "no es válida."
+            ),
             "error",
         )
 
         return redirect(
-            url_for("gestionar_documentos")
+            url_for(
+                "gestionar_documentos"
+            )
         )
 
     if not nombre_documento:
         flash(
-            "No se ha indicado ningún documento.",
+            (
+                "No se ha indicado "
+                "ningún documento."
+            ),
             "error",
         )
 
@@ -455,7 +635,10 @@ def eliminar_documento():
 
     if nombre_seguro != nombre_documento:
         flash(
-            "El nombre del documento no es válido.",
+            (
+                "El nombre del documento "
+                "no es válido."
+            ),
             "error",
         )
 
@@ -467,7 +650,8 @@ def eliminar_documento():
         )
 
     ruta_documento = (
-        carpeta_metodologia / nombre_seguro
+        carpeta_metodologia
+        / nombre_seguro
     )
 
     if not ruta_documento.exists():
@@ -488,7 +672,10 @@ def eliminar_documento():
         or not es_pdf(nombre_seguro)
     ):
         flash(
-            "El archivo seleccionado no es un PDF válido.",
+            (
+                "El archivo seleccionado "
+                "no es un PDF válido."
+            ),
             "error",
         )
 
@@ -502,7 +689,10 @@ def eliminar_documento():
     ruta_documento.unlink()
 
     flash(
-        "Documento eliminado correctamente.",
+        (
+            "Documento eliminado "
+            "correctamente."
+        ),
         "exito",
     )
 
@@ -525,35 +715,48 @@ def reconstruir_base_vectorial():
     el proceso completo de indexación.
     """
 
-    metodologia = request.form.get("metodologia")
+    metodologia = request.form.get(
+        "metodologia"
+    )
 
-    carpeta_metodologia = obtener_carpeta_metodologia(
-        metodologia
+    carpeta_metodologia = (
+        obtener_carpeta_metodologia(
+            metodologia
+        )
     )
 
     if carpeta_metodologia is None:
         flash(
-            "La metodología seleccionada no es válida.",
+            (
+                "La metodología seleccionada "
+                "no es válida."
+            ),
             "error",
         )
 
         return redirect(
-            url_for("gestionar_documentos")
+            url_for(
+                "gestionar_documentos"
+            )
         )
 
     try:
         indexar_documentos()
 
         flash(
-            "Base de conocimiento actualizada correctamente.",
+            (
+                "Base de conocimiento "
+                "actualizada correctamente."
+            ),
             "exito",
         )
 
     except Exception as error:
         flash(
             (
-                "No se ha podido actualizar la base "
-                f"de conocimiento: {error}"
+                "No se ha podido actualizar "
+                "la base de conocimiento: "
+                f"{error}"
             ),
             "error",
         )
@@ -565,5 +768,8 @@ def reconstruir_base_vectorial():
         )
     )
 
+
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run(
+        debug=True
+    )

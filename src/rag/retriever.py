@@ -12,11 +12,45 @@ Responsabilidades:
 
 Este módulo desacopla el chatbot del sistema de almacenamiento vectorial.
 """
+import re
+import logging
 
+from src.core.config import MINIMO_CHUNKS
 from src.rag.embeddings import crear_embedding_texto
 from src.rag.vector_store import VectorStore
 from src.core.models import Chunk
 
+logger = logging.getLogger(__name__)
+
+STOPWORDS = {
+    "que",
+    "qué",
+    "como",
+    "cómo",
+    "es",
+    "son",
+    "el",
+    "la",
+    "los",
+    "las",
+    "un",
+    "una",
+    "de",
+    "del",
+    "y",
+    "o",
+    "en",
+    "con",
+    "para",
+    "por",
+    "cuál",
+    "cuáles",
+    "cual",
+    "cuales",
+    "se",
+    "al",
+    "a",
+}
 
 class Retriever:
     """
@@ -25,6 +59,78 @@ class Retriever:
 
     def __init__(self):
         self.vector_store = VectorStore()
+
+
+    def _extraer_palabras_clave(
+        self,
+        pregunta: str,
+    ) -> list[str]:
+
+        """
+        Extrae palabras clave de la pregunta del usuario.
+        """
+        palabras = re.findall(r"\w+", pregunta.lower())
+
+        return [
+            palabra
+            for palabra in palabras
+            if palabra not in STOPWORDS
+        ]
+
+
+    def _coincidencias(
+        self,
+        chunk: Chunk,
+        palabras: list[str],
+    ) -> int:
+        """
+        Cuenta cuántas palabras clave de la pregunta aparecen en el chunk.
+        """
+        texto = (" ".join(chunk.jerarquia()) + " " + chunk.texto).lower()
+
+        return sum(
+            bool(
+                re.search(
+                    rf"\b{re.escape(palabra)}\b",
+                    texto,
+                )
+            )
+            for palabra in palabras
+        )
+
+
+    def _filtrar_por_palabras_clave(
+        self,
+        pregunta: str,
+        chunks: list[Chunk],
+    ) -> list[Chunk]:
+        """
+        Conserva únicamente los chunks que contienen suficientes palabras
+        clave de la pregunta.
+
+        Si el filtrado deja muy pocos resultados, se devuelven los originales.
+        """
+
+        palabras = self._extraer_palabras_clave(pregunta)
+
+        if not palabras:
+            return chunks
+
+        if len(palabras) <= 3:
+            minimo = len(palabras)
+        else:
+            minimo = 3
+
+        filtrados = [
+            chunk
+            for chunk in chunks
+            if self._coincidencias(chunk, palabras) >= minimo
+        ]
+
+        if len(filtrados) >= MINIMO_CHUNKS:
+            return filtrados
+
+        return chunks
 
 
     def recuperar_contexto(self,
@@ -45,7 +151,6 @@ class Retriever:
         """
 
         chunks = self.recuperar_chunks(pregunta,metodologia, k)
-
 
         return chunks
 
@@ -74,18 +179,20 @@ class Retriever:
 
         if not pregunta.strip():
             raise ValueError("La pregunta no puede estar vacía.")
-        
+
         if k <= 0:
             raise ValueError(...)
 
-        
         if not metodologia.strip():
             raise ValueError(...)
-
 
         embedding = crear_embedding_texto(pregunta)
 
         chunks = self.vector_store.buscar(embedding, metodologia, k)
 
-        return chunks
+        chunks = self._filtrar_por_palabras_clave(
+            pregunta,
+            chunks,
+        )
 
+        return chunks

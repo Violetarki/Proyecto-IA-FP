@@ -1,5 +1,4 @@
-"""Version mas nueva de chunker.py
-
+"""
 Se encarga de dividir un Documento en una lista de Chunk,
 procurando que cada uno represente una unidad coherente de conocimiento.
  
@@ -20,10 +19,13 @@ Reglas de división:
 """
 
 import re
+import logging
 
 from src.core.models import Chunk, Documento
 
 _HEADER_RE = re.compile(r"^(#{1,4})\s+(.*)")
+
+logger = logging.getLogger(__name__)
 
 # Relación entre el nivel del encabezado Markdown y el atributo
 # correspondiente del modelo Chunk.
@@ -225,33 +227,4 @@ def crear_chunks_documentos(documentos: list[Documento]) -> list[Chunk]:
 
 if __name__ == "__main__":
 
-    print("Este módulo proporciona funciones para dividir " "Documentos en Chunks.")
-
-    from pathlib import Path
-
-    from src.core.models import Documento, Metodologia
-
-    ruta = Path("data/markdown_clean/lean_startup/lean_startup.md")
-
-    documento = Documento(
-        metodologia=Metodologia(nombre="Lean Startup"),
-        nombre="lean_startup",
-        texto=ruta.read_text(encoding="utf-8"),
-        ruta=ruta,
-    )
-
-    chunks = crear_chunks_documento(documento)
-
-    print(f"Se han generado {len(chunks)} chunks.\n")
-
-    for chunk in chunks[:20]:  # Mostrar solo los 20 primeros
-
-        print("=" * 80)
-        print(f"Chunk {chunk.indice}")
-        print(f"Título:      {chunk.titulo}")
-        print(f"Subtítulo:   {chunk.subtitulo}")
-        print(f"Sección:     {chunk.seccion}")
-        print(f"Subsección:  {chunk.subseccion}")
-        print("-" * 80)
-        print(chunk.texto)
-        print()
+    logger.info("Este módulo proporciona funciones para dividir " "Documentos en Chunks.")

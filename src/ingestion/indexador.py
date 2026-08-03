@@ -21,11 +21,12 @@ Embeddings
 Base vectorial
 """
 
+import logging
 from pathlib import Path
 from src.ingestion.docling_converter import convertir_pdf_a_markdown
 from src.ingestion.text_cleaner import limpiar_archivo_markdown
 from src.ingestion.document_loader import cargar_documentos
-from src.ingestion.chunker2 import crear_chunks_documentos
+from src.ingestion.chunker import crear_chunks_documentos
 from src.rag.embeddings import crear_embeddings_chunks
 from src.rag.vector_store import VectorStore
 
@@ -34,6 +35,8 @@ from src.core.config import (
     CARPETA_MARKDOWN_RAW,
     CARPETA_MARKDOWN_CLEAN,
 )
+
+logger = logging.getLogger(__name__)
 
 def indexar_documentos() -> None:
     """
@@ -45,28 +48,28 @@ def indexar_documentos() -> None:
 
     try:
 
-        print("Iniciando indexación...")
+        logger.info("Iniciando indexación...")
 
         markdowns = _obtener_markdowns_limpios()
         
         if not markdowns:
-            print("No hay documentos para indexar.")
+            logger.warning("No hay documentos para indexar.")
             return
         
-        print("Markdowns obtenidos")
-        print("----------------------------------")
+        logger.info("Markdowns obtenidos")
+        logger.info("----------------------------------")
 
         documentos = cargar_documentos(markdowns)
-        print("Documentos creados")
-        print("----------------------------------")
+        logger.info("Documentos creados")
+        logger.info("----------------------------------")
 
         chunks = crear_chunks_documentos(documentos)
-        print("Chunks de los documentos creados")
-        print("----------------------------------")
+        logger.info("Chunks de los documentos creados")
+        logger.info("----------------------------------")
 
         embeddings = crear_embeddings_chunks(chunks)
-        print("Embeddings creados")
-        print("----------------------------------")
+        logger.info("Embeddings creados")
+        logger.info("----------------------------------")
 
         vector_store = VectorStore()
 
@@ -74,13 +77,13 @@ def indexar_documentos() -> None:
             chunks,
             embeddings,
         )
-        print("Vectores indexados")
+        logger.info("Vectores indexados")
 
-        print("Indexación finalizada.")
-        print("----------------------------------")
+        logger.info("Indexación finalizada.")
+        logger.info("----------------------------------")
 
     except Exception as error:
-        print(f"[ERROR] La indexación ha fallado: {error}")
+        logger.warning("La indexación ha fallado: %s", error)
         raise
 
 
@@ -119,7 +122,7 @@ def _obtener_markdowns_limpios() -> list[Path]:
 
         # Existe el MD limpio
         if ruta_clean.exists():
-            print(f"[OK] Markdown limpio encontrado: " f"{ruta_clean.name}")
+            logger.debug(" Markdown limpio encontrado: %s", ruta_clean.name)
 
             markdowns_limpios.append(ruta_clean)
 
@@ -127,7 +130,7 @@ def _obtener_markdowns_limpios() -> list[Path]:
 
         # NO existe el MD limpio pero SI el raw
         if ruta_raw.exists():
-            print(f"[INFO] Limpiando Markdown: " f"{ruta_raw.name}")
+            logger.info("Limpiando Markdown: %s", ruta_raw.name)
 
             ruta_clean = limpiar_archivo_markdown(ruta_raw, ruta_clean)
 
@@ -136,7 +139,7 @@ def _obtener_markdowns_limpios() -> list[Path]:
             continue
 
         # NO existen los MD limpios/raw solo PDF
-        print(f"[INFO] Convirtiendo PDF: " f"{ruta_pdf.name}")
+        logger.info("Convirtiendo PDF: %s", ruta_pdf.name)
 
         ruta_raw = convertir_pdf_a_markdown(ruta_pdf)
 
@@ -147,6 +150,6 @@ def _obtener_markdowns_limpios() -> list[Path]:
 
         markdowns_limpios.append(ruta_clean)
 
-        print(f"[OK] Markdown limpio generado: " f"{ruta_clean.name}")
+        logger.debug("Markdown limpio generado: %s", ruta_clean.name)
         
     return markdowns_limpios

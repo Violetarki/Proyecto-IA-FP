@@ -17,10 +17,13 @@ necesario modificar este módulo.
 """
 
 import chromadb
+import logging
 import numpy as np
 from pathlib import Path
 from src.core.models import Chunk, Documento, Metodologia
 from src.core.config import CARPETA_VECTOR_STORE, K_BUSQUEDA, UMBRAL_ACEPTABLE, UMBRAL_BUENO, UMBRAL_EXCELENTE, MINIMO_CHUNKS, MAXIMO_CHUNKS
+
+logger = logging.getLogger(__name__)
 
 class VectorStore:
     """
@@ -53,6 +56,7 @@ class VectorStore:
             metadata={"hnsw:space": "cosine"},
         )
 
+
     def _crear_id(
     self,
     chunk: Chunk,
@@ -62,6 +66,7 @@ class VectorStore:
         """
 
         return f"{chunk.documento.ruta}:{chunk.indice}"
+
 
     def _preparar_registro(
         self,
@@ -109,6 +114,7 @@ class VectorStore:
             metadata,
         )
 
+
     def _chunk_desde_resultado(
         self,
         texto: str,
@@ -141,6 +147,7 @@ class VectorStore:
             seccion=metadata.get("seccion"),
             subseccion=metadata.get("subseccion"),
         )
+
 
     def indexar_chunks(
         self,
@@ -196,6 +203,7 @@ class VectorStore:
             metadatas=metadatos,
         )
 
+
     def _filtrar_chunks(
         self,
         documentos,
@@ -244,6 +252,7 @@ class VectorStore:
 
         return aceptables[:MAXIMO_CHUNKS]
 
+
     def buscar(
         self,
         embedding: np.ndarray,
@@ -268,7 +277,7 @@ class VectorStore:
             raise ValueError("El número de resultados debe ser mayor que cero.")
 
         # Temporal para pruebas
-        print(self.collection.count())
+        logger.info(self.collection.count())
 
         resultado = self.collection.query(
             query_embeddings=[embedding.tolist()],
@@ -288,7 +297,7 @@ class VectorStore:
         metadatos = resultado["metadatas"][0]
 
         # Temporal para depuración
-        print("\nDistancias obtenidas:")
+        logging.debug("\nDistancias obtenidas:")
         for i, (distancia, metadata) in enumerate(
             zip(distancias, metadatos),
             start=1,
@@ -301,13 +310,14 @@ class VectorStore:
                     metadata.get("subseccion"),
                 ] if parte
             )
-            print(f"Chunk {i}: {distancia:.3f} - {ruta}")
+            logger.debug("Chunk %s: %.3f - %s", i, distancia, ruta)
 
         return self._filtrar_chunks(
             documentos,
             metadatos,
             distancias,
         )
+
 
     def eliminar_documento(
         self,
@@ -329,6 +339,7 @@ class VectorStore:
             }
         )
 
+
     def vaciar(self) -> None:
         """
         Elimina todos los registros de la colección.
@@ -349,4 +360,4 @@ class VectorStore:
 
 if __name__ == "__main__":
 
-    print("VectorStore: módulo de acceso a la base de datos vectorial.")
+    logger.info("VectorStore: módulo de acceso a la base de datos vectorial.")

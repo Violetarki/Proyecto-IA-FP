@@ -9,11 +9,12 @@ La metodología se obtiene automáticamente a partir del nombre
 de la carpeta donde se encuentra el PDF.
 """
 
-
+import logging
 from pathlib import Path
 from docling.document_converter import DocumentConverter
 from src.core.config import CARPETA_MARKDOWN_RAW
 
+logger = logging.getLogger(__name__)
 converter = DocumentConverter()
 
 
@@ -65,8 +66,8 @@ def convertir_pdf_a_markdown(ruta_pdf: str | Path) -> Path:
         exist_ok=True,
     )
 
-    print(f"Convirtiendo PDF: {ruta_pdf}")
-    print(f"Metodología detectada: {metodologia}")
+    logger.debug("Convirtiendo PDF: %s", ruta_pdf)
+    logger.debug("Metodología detectada: %s", metodologia)
 
     try: 
         resultado = converter.convert(ruta_pdf)
@@ -85,8 +86,8 @@ def convertir_pdf_a_markdown(ruta_pdf: str | Path) -> Path:
         encoding="utf-8",
     )
 
-    print("Conversión terminada correctamente.")
-    print(f"Markdown guardado en: {ruta_markdown}")
+    logger.debug("Conversión terminada correctamente.")
+    logger.debug("Markdown guardado en: %s", ruta_markdown)
 
     return ruta_markdown
 
@@ -121,7 +122,7 @@ def convertir_carpeta(ruta_carpeta: str | Path) -> list[Path]:
 
 
 if __name__ == "__main__":
-    print(
+    logger.info(
         "Este módulo proporciona funciones para convertir "
         "archivos PDF a Markdown mediante Docling."
     )

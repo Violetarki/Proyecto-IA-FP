@@ -28,3 +28,13 @@ data/vector_store/*
 
 # Excepto el archivo que mantiene la carpeta
 !data/vector_store/.gitkeep
+
+# API KEY env
+.env
+
+# historial de conversaciones
+data/historial_conversaciones.json
+
+data/markdown_raw/lean_startup/manual.md
+iniciar_tunel.bat
+

@@ -1,7 +1,11 @@
 """Módulo de limpieza de archivos Markdown."""
 
+import logging
 import re
 from pathlib import Path
+
+logger = logging.getLogger(__name__)
+
 from src.core.config import (
     CARPETA_MARKDOWN_RAW,
     CARPETA_MARKDOWN_CLEAN,
@@ -242,7 +246,7 @@ def limpiar_archivo_markdown(
         encoding="utf-8",
     )
 
-    print(f"Archivo limpio creado: {ruta_salida}")
+    logger.debug("Archivo limpio creado: %s", ruta_salida)
 
     return ruta_salida
 
@@ -272,11 +276,11 @@ def limpiar_markdowns(
 
         rutas_limpias.append(ruta_limpia)
 
-    print(f"\nSe han limpiado {len(rutas_limpias)} archivos Markdown.")
+    logger.debug("\nSe han limpiado %d archivos Markdown", len(rutas_limpias))
 
     return rutas_limpias
 
 
 if __name__ == "__main__":
 
-    print("Este módulo proporciona funciones para limpiar " "archivos Markdown.")
+    logger.info("Este módulo proporciona funciones para limpiar archivos Markdown.")
