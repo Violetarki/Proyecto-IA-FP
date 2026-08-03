@@ -35,3 +35,4 @@ data/vector_store/*
 # historial de conversaciones
 data/historial_conversaciones
 
+data/markdown_raw/lean_startup/manual.md
