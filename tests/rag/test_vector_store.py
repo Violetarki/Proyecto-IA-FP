@@ -1,18 +1,21 @@
 import unittest
+import shutil
+import uuid
+from pathlib import Path
 import numpy as np
 
 from src.rag.vector_store import VectorStore
 from src.core.models import Documento, Metodologia, Chunk
-
+from src.core.config import CARPETA_VECTOR_STORE, K_BUSQUEDA, UMBRAL_ACEPTABLE, UMBRAL_BUENO, UMBRAL_EXCELENTE, MINIMO_CHUNKS, MAXIMO_CHUNKS
 
 class TestVectorStore(unittest.TestCase):
 
     def setUp(self):
 
-        self.carpeta_test = "test_vector_store"
+        self.carpeta_test = Path("test_vector_store")
 
         self.vector_store = VectorStore(
-            collection_name="test_chunks",
+            collection_name=f"test_chunks_{uuid.uuid4().hex}",
             persist_directory=self.carpeta_test
         )
 
@@ -43,6 +46,111 @@ class TestVectorStore(unittest.TestCase):
             [0.4, 0.5, 0.6]
         ])
 
+    def tearDown(self):
+
+        shutil.rmtree(
+            self.carpeta_test,
+            ignore_errors=True
+        )
+
+
+    #
+    # TEST UNITARIOS
+    #
+
+
+    def test_crear_id(self):
+        ...
+
+
+
+    def test_preparar_registro_con_toda_la_jerarquia(self):
+        ...
+
+
+
+    def test_preparar_registro_sin_jerarquia(self):
+        ...
+
+
+
+    def test_chunk_desde_resultado(self):
+        ...
+
+
+
+    def test_filtrar_chunks_excelentes(self):
+        ...
+
+
+
+    def test_filtrar_chunks_buenos(self):
+        ...
+
+
+
+    def test_filtrar_chunks_aceptables(self):
+        ...
+
+
+
+    def test_filtrar_chunks_limite_maximo(self):
+        ...
+
+
+
+    #
+    # TEST DE INTEGRACIÓN CHROMADB
+    #
+
+
+    def test_inicializar_vector_store(self):
+        ...
+
+
+
+    def test_indexar_chunks(self):
+        ...
+
+
+
+    def test_indexar_chunks_lista_vacia(self):
+        ...
+
+
+
+    def test_indexar_chunks_embeddings_incorrectos(self):
+        ...
+
+
+
+    def test_buscar(self):
+        ...
+
+
+
+    def test_buscar_embedding_vacio(self):
+        ...
+
+
+
+    def test_buscar_k_invalido(self):
+        ...
+
+
+
+    def test_eliminar_documento(self):
+        ...
+
+
+
+    def test_vaciar(self):
+        ...
+
+
+
+    def test_vaciar_coleccion_vacia(self):
+        ...
 
 
 """
