@@ -33,6 +33,8 @@ data/vector_store/*
 .env
 
 # historial de conversaciones
-data/historial_conversaciones
+data/historial_conversaciones.json
 
 data/markdown_raw/lean_startup/manual.md
+iniciar_tunel.bat
+

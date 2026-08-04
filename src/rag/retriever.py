@@ -60,6 +60,7 @@ class Retriever:
     def __init__(self):
         self.vector_store = VectorStore()
 
+
     def _extraer_palabras_clave(
         self,
         pregunta: str,
@@ -75,6 +76,7 @@ class Retriever:
             for palabra in palabras
             if palabra not in STOPWORDS
         ]
+
 
     def _coincidencias(
         self,
@@ -95,6 +97,7 @@ class Retriever:
             )
             for palabra in palabras
         )
+
 
     def _filtrar_por_palabras_clave(
         self,
@@ -129,6 +132,7 @@ class Retriever:
 
         return chunks
 
+
     def recuperar_contexto(self,
         pregunta,
         metodologia,
@@ -149,6 +153,7 @@ class Retriever:
         chunks = self.recuperar_chunks(pregunta,metodologia, k)
 
         return chunks
+
 
     # función privada para validar los parámetros
     def recuperar_chunks(self,

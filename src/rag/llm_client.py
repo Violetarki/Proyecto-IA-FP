@@ -38,6 +38,7 @@ class LLMClient:
 
         self.client = Groq(api_key=os.getenv("GROQ_API_KEY"))
 
+
     def _consultar_modelo(
         self,
         prompt: str,
@@ -65,6 +66,7 @@ class LLMClient:
             reasoning_format="hidden",
             max_completion_tokens=300,
         )
+
 
     def generar_respuesta(
         self,
@@ -108,18 +110,3 @@ class LLMClient:
 
         return respuesta
 
-
-# if __name__ == "__main__":
-
-# llm = LLMClient()
-
-# while True:
-
-#     pregunta = input("\nPregunta: ").strip()
-
-#     if not pregunta:
-#         break
-
-#     respuesta = llm.generar_respuesta(pregunta)
-
-#     logger.debug("\nRespuesta:\n%s", respuesta)
