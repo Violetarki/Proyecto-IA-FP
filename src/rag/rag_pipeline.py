@@ -68,6 +68,32 @@ class RAG:
             metodologia,
         )
 
+        # Si la pregunta nueva no recupera contexto, se combina con
+        # la última pregunta del alumno para mantener el tema.
+        if not chunks and historial:
+            ultima_pregunta = next(
+                (
+                    mensaje.contenido
+                    for mensaje in reversed(historial)
+                    if mensaje.rol == "user"
+                ),
+                None,
+            )
+
+            if ultima_pregunta:
+                pregunta_contextualizada = (
+                    f"{ultima_pregunta}. {pregunta}"
+                )
+
+                logger.info(
+                    "Reintentando la búsqueda con el contexto anterior."
+                )
+
+                chunks = self.retriever.recuperar_contexto(
+                    pregunta_contextualizada,
+                    metodologia,
+                )
+
         logger.debug("Se han recuperado %d chunks.", len(chunks))
 
         logger.info("Construyendo prompt...")
