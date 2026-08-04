@@ -1,13 +1,13 @@
 """
 Módulo que se encarga de construir un KnowledgeTree a partir de un documento Markdown.
 
-Recibirá un Documento: def crear_arbol(documento: Documento) -> KnowledgeTree:
+Recibirá un MarkdownNode: def crear_arbol(raiz_markdown: MarkdownNode, metodologia: Metodologia) -> KnowledgeTree:
 
 Y devolverá: KnowledgeTree
 """
 
-from src.core.models import Documento, Metodologia
-from src.ingestion.markdown_parser import MarkdownNode, parsear_markdown
+from src.core.models import Metodologia
+from src.ingestion.markdown_parser import MarkdownNode
 from src.knowledge.models import KnowledgeNode, KnowledgeTree
 
 
@@ -34,7 +34,7 @@ def _convertir_nodo(
 
     nodo_knowledge = KnowledgeNode(
         titulo=nodo_markdown.titulo,
-        contenido=nodo_markdown.texto,
+        nivel=nodo_markdown.nivel,
         padre=padre,
     )
 
