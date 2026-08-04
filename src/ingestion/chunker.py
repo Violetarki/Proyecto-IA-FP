@@ -18,12 +18,11 @@ Reglas de división:
     subseccion  -> header de nivel 4, si existe en la ruta
 """
 
-import re
 import logging
+import markdown_parser
 
 from src.core.models import Chunk, Documento
 
-_HEADER_RE = re.compile(r"^(#{1,4})\s+(.*)")
 
 logger = logging.getLogger(__name__)
 
@@ -36,52 +35,6 @@ _CAMPO_POR_NIVEL = {
     4: "subseccion",
 }
 
-
-class _Nodo:
-    """Nodo interno del árbol de encabezados. No se expone fuera del módulo."""
-
-    __slots__ = ("nivel", "titulo", "lineas", "hijos")
-
-    def __init__(self, nivel: int, titulo: str | None):
-        self.nivel = nivel
-        self.titulo = titulo
-        self.lineas: list[str] = []
-        self.hijos: list["_Nodo"] = []
-        
-    @property
-    def texto(self) -> str:
-        """Devuelve el contenido del nodo como un único texto."""
-        return "\n".join(self.lineas).strip()
-
-
-def _parsear_arbol(texto: str) -> _Nodo:
-    """Construye el árbol de encabezados a partir del texto de un Documento."""
-
-    raiz = _Nodo(nivel=0, titulo=None)
-    pila: list[_Nodo] = [raiz]
-
-    for linea in texto.splitlines():
-        linea_limpia = linea.strip()
-        match = _HEADER_RE.match(linea_limpia)
-
-        if match:
-            nivel = len(match.group(1))
-            titulo = match.group(2).strip()
-
-            # Desapilar hasta encontrar el padre correcto (nivel estrictamente menor)
-            while pila[-1].nivel >= nivel:
-                pila.pop()
-
-            nuevo = _Nodo(nivel=nivel, titulo=titulo)
-            pila[-1].hijos.append(nuevo)
-            pila.append(nuevo)
-        else:
-            if linea_limpia:
-                pila[-1].lineas.append(linea_limpia)
-            elif pila[-1].lineas:
-                pila[-1].lineas.append("")
-
-    return raiz
 
 
 def _guardar_chunk(
@@ -124,7 +77,7 @@ def _guardar_chunk(
 
 
 def _generar_chunks(
-    nodo: _Nodo,
+    nodo: markdown_parser.MarkdownNode,
     documento: Documento,
     contexto: dict[str, str | None],
     chunks: list[Chunk],
@@ -182,7 +135,7 @@ def crear_chunks_documento(documento: Documento) -> list[Chunk]:
         Lista de chunks pertenecientes al documento.
     """
 
-    arbol = _parsear_arbol(documento.texto)
+    arbol = markdown_parser.parsear_markdown(documento.texto)
 
     chunks: list[Chunk] = []
     contexto_inicial: dict[str, str | None] = {
