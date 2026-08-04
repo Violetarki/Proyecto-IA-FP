@@ -1,0 +1,10 @@
+
+
+
+class KnowledgeNode:
+    ...
+
+
+class KnowledgeTree:
+    ...
+
