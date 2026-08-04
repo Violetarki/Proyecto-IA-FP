@@ -1,0 +1,99 @@
+{
+  "nivel": 0,
+  "titulo": null,
+  "lineas": [],
+  "hijos": [
+    {
+      "nivel": 1,
+      "titulo": "1. El emprendedor el plan de empresa",
+      "lineas": [],
+      "hijos": [
+        {
+          "nivel": 2,
+          "titulo": "Emprendedores",
+          "lineas": [],
+          "hijos": []
+        },
+        {
+          "nivel": 2,
+          "titulo": "Conceptos básicos 10",
+          "lineas": [],
+          "hijos": []
+        },
+        {
+          "nivel": 2,
+          "titulo": "Simulación empresarial 15",
+          "lineas": [],
+          "hijos": [
+            {
+              "nivel": 3,
+              "titulo": "Fase 1. Generación de ideas 15",
+              "lineas": [],
+              "hijos": []
+            },
+            {
+              "nivel": 3,
+              "titulo": "Fase 2. Selección de la mejor idea 17",
+              "lineas": [],
+              "hijos": []
+            },
+            {
+              "nivel": 3,
+              "titulo": "Fase 3. Objeto social de la empresa 18",
+              "lineas": [],
+              "hijos": []
+            },
+            {
+              "nivel": 3,
+              "titulo": "Fase 4. Elección de nombre logotipo 19",
+              "lineas": [],
+              "hijos": []
+            },
+            {
+              "nivel": 3,
+              "titulo": "Fase 5. Ubicación del negocio 22",
+              "lineas": [],
+              "hijos": []
+            },
+            {
+              "nivel": 3,
+              "titulo": "Fase 6. Diseño del espacio físico 24",
+              "lineas": [],
+              "hijos": []
+            },
+            {
+              "nivel": 3,
+              "titulo": "Fase 7. Motivos para emprender 25",
+              "lineas": [],
+              "hijos": []
+            },
+            {
+              "nivel": 3,
+              "titulo": "Fase 8. Perfil de los socios 26",
+              "lineas": [],
+              "hijos": []
+            }
+          ]
+        },
+        {
+          "nivel": 2,
+          "titulo": "Síntesis 28",
+          "lineas": [],
+          "hijos": []
+        },
+        {
+          "nivel": 2,
+          "titulo": "Test de repaso 29",
+          "lineas": [],
+          "hijos": []
+        },
+        {
+          "nivel": 2,
+          "titulo": "Comprueba tu aprendizaje.... 31",
+          "lineas": [],
+          "hijos": []
+        }
+      ]
+    }
+  ]
+}
