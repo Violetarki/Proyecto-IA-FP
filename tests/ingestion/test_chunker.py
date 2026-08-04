@@ -53,6 +53,7 @@ class TestCrearChunksDocumento(unittest.TestCase):
         self.assertEqual(chunk.subtitulo, "Introducción")
         self.assertIsNone(chunk.seccion)
         self.assertIsNone(chunk.subseccion)
+        self.assertIsNone(chunk.apartado)
         self.assertEqual(chunk.texto, "Este es el contenido del subtítulo.")
 
     def test_titulo_subtitulo_seccion_y_contenido(self):
@@ -73,9 +74,10 @@ class TestCrearChunksDocumento(unittest.TestCase):
         self.assertEqual(chunk.subtitulo, "Introducción")
         self.assertEqual(chunk.seccion, "Sección 1")
         self.assertIsNone(chunk.subseccion)
+        self.assertIsNone(chunk.apartado)
         self.assertEqual(chunk.texto, "Este es el contenido de la sección.")
 
-    def test_jerarquia_entera_y_contenido(self):
+    def test_titulo_subtitulo_seccion_subseccion_y_contenido(self):
 
         documento = self._crear_documento(
             "# MÓDULO 1\n\n"
@@ -94,6 +96,29 @@ class TestCrearChunksDocumento(unittest.TestCase):
         self.assertEqual(chunk.subtitulo, "Introducción")
         self.assertEqual(chunk.seccion, "Sección 1")
         self.assertEqual(chunk.subseccion, "Subsección 1")
+        self.assertIsNone(chunk.apartado)
+        self.assertEqual(chunk.texto, "Este es el contenido de la subsección.")
+
+    def test_jerarquia_entera_y_contenido(self):
+        documento = self._crear_documento(
+            "# MÓDULO 1\n\n"
+            "## Introducción\n\n"
+            "### Sección 1\n\n"
+            "#### Subsección 1\n\n"
+            "##### Apartado 1\n\n"
+            "Este es el contenido de la subsección."
+        )
+
+        chunks = crear_chunks_documento(documento)
+        self.assertEqual(len(chunks), 1)
+
+        chunk = chunks[0]        
+
+        self.assertEqual(chunk.titulo, "MÓDULO 1")
+        self.assertEqual(chunk.subtitulo, "Introducción")
+        self.assertEqual(chunk.seccion, "Sección 1")
+        self.assertEqual(chunk.subseccion, "Subsección 1")
+        self.assertEqual(chunk.apartado, "Apartado 1")
         self.assertEqual(chunk.texto, "Este es el contenido de la subsección.")
 
     def test_titulo_subtitulos_y_contenido(self):

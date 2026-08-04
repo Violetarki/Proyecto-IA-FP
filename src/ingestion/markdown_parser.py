@@ -2,7 +2,7 @@
 
 import re
 
-_HEADER_RE = re.compile(r"^(#{1,4})\s+(.*)")
+_HEADER_RE = re.compile(r"^(#{1,5})\s+(.*)")
 
 
 class MarkdownNode:  

@@ -33,6 +33,7 @@ _CAMPO_POR_NIVEL = {
     2: "subtitulo",
     3: "seccion",
     4: "subseccion",
+    5: "apartado",
 }
 
 
