@@ -140,7 +140,7 @@ En lugar de actividades o ejercicios, se proponen 30 dinámicas que constituyen 
 - d. Las dinámicas incluyen el uso de las Tecnologías de la Información y Comunicación , como no podía ser de otra forma. Para cada reto se proponen aplicaciones de escritorio y apps móviles que facilitarán en gran medida el proceso educativo.
 - e. las dinámicas deben entenderse de forma flexible . El docente tiene la capacidad para profundizar más o menos en cada una de las fases o módulos.
 
-30 DINÁMICAS basadas en las 4Cs: CREATIVIDAD, COMUNICACIÓN, COOPERACIÓN, CONFIANZA (Libro p.14)
+##### 30 DINÁMICAS basadas en las 4Cs: CREATIVIDAD, COMUNICACIÓN, COOPERACIÓN, CONFIANZA (Libro p.14)
 
 1. Debates con vídeos e infografías
 2. Selfie emprendedor
@@ -177,7 +177,7 @@ En lugar de actividades o ejercicios, se proponen 30 dinámicas que constituyen 
 
 No hay formulas secretas para llevar al aula y garantizar el éxito. La propuesta que os hago recoge el trabajo en aula de 5 cursos (2012-2017), y la sintetizo con el fin de que aquel que así lo considere, pueda tener más seguridad para su aplicación en clase. A mi experiencia hay que añadirle el importante punto de vista de varios profesores innovadores interesados en la cuestión, que me han ampliado y enriquecido los contenidos, y que han permitido que yo mismo, siga un proceso "lean" en la redacción del libro. La cuarta infografía recoge de forma clara estas recomendaciones.
 
-Recomendaciones (Libro p.15)
+##### Recomendaciones (Libro p.15)
 
 Son muchas las cuestiones que se van a tratar en los próximos módulos que componen este libro. Por eso, pienso que es necesario establecer una serie de recomendaciones que ayudaran a interpretar los contenidos o propuestas de mejor forma.
 
@@ -226,9 +226,11 @@ De esta forma vamos a entender que supone exactamente emprender en educación. L
 
 ### Mejora de la calidad educativa
 
-Nuestro sistema educativo, como he citado anteriormente, no es ajeno al protagonismo del emprendimiento. Pero, ¿cómo se trabaja el emprendimiento en educación? A continuación, podemos apreciar una infografía con las 7 competencias clave de la actual ley educativa, la Ley Orgánica 8/2013, de 9 de diciembre, para la mejora de la calidad educativa (LOMCE):
+Nuestro sistema educativo, como he citado anteriormente, no es ajeno al protagonismo del emprendimiento. Pero, ¿cómo se trabaja el emprendimiento en educación? A continuación, podemos apreciar una infografía con las 7 competencias clave de la actual ley educativa, la Ley Orgánica 8/2013, de 9 de diciembre, para la mejora de la calidad educativa (LOMCE)
 
-#### Competencias clave con la LOMCE (Libro p.20)
+#### Competencias clave con la LOMCE
+
+(Libro p.20)
 
 - Lingüística: Uso de la lengua, expresar ideas e interactuar con otras personas
 - Matemática, ciencia y tecnología: Razonamiento matemático, metodología científica y competencia tecnológica
@@ -448,7 +450,7 @@ Tras la realización de la dinámica del Reto de los 5 euros, los alumnos empiez
 
 ### Historia visual de EMPRENDER EN EL AULA
 
-A continuación se muestra una infografía donde se visualiza el trabajo a realizar en Emprender, como primer paso de educación emprendedora en el aula.(Libro p.30)
+A continuación se muestra una infografía donde se visualiza el trabajo a realizar en Emprender, como primer paso de educación emprendedora en el aula. (Libro p.30)
 
 El primer reto de todo alumno emprendedor
 
@@ -552,7 +554,6 @@ Ambas actuaciones las realizaremos en base al entorno de la idea de negocio, y l
 
 3. Estrategia de Océanos azules
    - a. El análisis de la competencia lo hacemos bajo la óptica de la estrategia de Océanos Azules. Se trata de dejar atrás la típica decisión del alumnado de realizar un mejor producto/servicio a un menor coste como estrategia típica.
-
    - b. En este sentido, la estrategia de océanos azules constituye una herramienta creativa muy importante a través del análisis y reflexión de diferentes vías de exploración , que hagan que podamos describir una propuesta de valor excepcional, basada en foco, divergencia y mensaje contundente.
 
 ### Infografía Contextualizar
@@ -711,10 +712,10 @@ En el aula trabajamos tanto la herramienta para llevar a cabo la presentación c
 9. Roadmap. Todo lo anterior habla sobre lo realizado. Finalizando, abordaremos qué pretendemos en el futuro y lo ilustraremos con datos gráficos que muestren todo: pasado, actualidad y futuro, incluyendo datos financieros.
 10. Despedida. Por último debemos esforzarnos que destacar porqué somos importantes, clave en el sector en el que vamos a competir y qué nos diferencia del resto.
 
-## Infografía Comunicar:
+## Infografía Comunicar
 
 10 pasos de un elevator pitch (Libro p.40)
-Por último, y como hemos hecho en epígrafes anteriores, veamos este esquema mediante una infografía:
+Por último, y como hemos hecho en epígrafes anteriores, veamos este esquema mediante una infografía de comunicar:
 
 1. Presentación: gancho
 2. Problema: Problema a resolver, a través de storytelling
@@ -904,11 +905,11 @@ Fuente: YouTube - Juan Haro
 
 ### ACTIVIDAD NÚMERO 1. ANÁLISIS DE VÍDEOS E INFOGRAFÍAS
 
-- DEFINICIÓN: a lo largo de esta unidad hemos visualizado varios vídeos y observado varias infografías sobre el emprendedor, tipos, rasgos y características. Planteamos debatir en clase sobre los contenidos que consideremos relevantes. Estamos hablando de información teórica .
+- DEFINICIÓN: a lo largo de esta unidad hemos visualizado varios vídeos y observado varias infografías sobre el emprendedor, tipos, rasgos y características. Planteamos debatir en clase sobre los contenidos que consideremos relevantes. Estamos hablando de información teórica.
 
-- META: el objetivo persigue empezar a trabajar las cualidades de un emprendedor , tales como creatividad, comunicación, trabajo en grupo y confianza, pero en sus fases iniciales, y teniendo en cuenta que es previsible que no se haya hecho con anterioridad.
+- META: el objetivo persigue empezar a trabajar las cualidades de un emprendedor, tales como creatividad, comunicación, trabajo en grupo y confianza, pero en sus fases iniciales, y teniendo en cuenta que es previsible que no se haya hecho con anterioridad.
 
-- ESPACIO: el trabajo se desarrolla en aula . Para ello el profesor puede decidir trabajar previamente en pequeño grupo o directamente con el gran grupo.
+- ESPACIO: el trabajo se desarrolla en aula. Para ello el profesor puede decidir trabajar previamente en pequeño grupo o directamente con el gran grupo.
 
 - RECURSOS: para trabajar esta actividad se plantean como recursos varios vídeos e infografías a modo de ejemplo dentro de este dossier, si bien, en la red, podemos encontrar múltiples materiales de similar uso didáctico. Para ello es fundamental contar con cañón en aula.
 
