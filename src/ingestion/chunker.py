@@ -19,8 +19,8 @@ Reglas de división:
 """
 
 import logging
-import markdown_parser
 
+from src.ingestion import markdown_parser
 from src.core.models import Chunk, Documento
 from src.knowledge.linker import enlazar
 
