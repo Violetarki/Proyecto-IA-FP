@@ -58,6 +58,7 @@ class Chunk:
     documento: Documento
     indice: int
     texto: str
+    node_id: str | None = None
     titulo: str | None = None
     subtitulo: str | None = None
     seccion: str | None = None

@@ -5,6 +5,7 @@ Recibirá un MarkdownNode: def crear_arbol(raiz_markdown: MarkdownNode, metodolo
 
 Y devolverá: KnowledgeTree
 """
+from uuid import uuid4
 
 from src.core.models import Metodologia
 from src.ingestion.markdown_parser import MarkdownNode
@@ -33,6 +34,7 @@ def _convertir_nodo(
     """
 
     nodo_knowledge = KnowledgeNode(
+        id=str(uuid4()),
         titulo=nodo_markdown.titulo,
         nivel=nodo_markdown.nivel,
         padre=padre,
