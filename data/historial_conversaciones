@@ -1,0 +1,46 @@
+{
+    "20d4c54a-e6a3-4525-b28a-e7afa8cb1dce": [
+        {
+            "rol": "user",
+            "contenido": "que pasos tengo que seguir para idear?"
+        },
+        {
+            "rol": "bot",
+            "contenido": "Para idear, debes seguir estos pasos:\n\n1. **Brainstorming**: Genera muchas ideas de negocio, comenzando por intereses personales, problemas del entorno y sectores emergentes.\n2. **Cardsorting**: Clasifica las ideas generadas bajo criterios específicos, valorando positivamente y negativamente cada una.\n3. **Maduración**: Desarrolla las ideas valoradas positivamente para obtener información homogénea y formar un ranking.\n4. **Elección**: Crea un ranking de ideas, desde la mejor a la peor valorada, y selecciona la más valorada para trabajar en el resto del curso.\n5. **Prototipo**: Desarrolla un prototipo sencillo (papel, cartón, digital, etc.) para validar la idea.\n6. **Exposición y feedback**: Presenta la idea en el aula, recibe feedback y reconstruye la historia y el prototipo.\n7. **Entrevista para empatizar**: Prepara y realiza una entrevista breve para validar si realmente existe el problema y conocer al cliente.\n8. **Validación inicial de la idea**: Ajusta la historia y el prototipo según el feedback. Si el problema no existe, repite el proceso con la siguiente idea del ranking."
+        },
+        {
+            "rol": "user",
+            "contenido": "que sabes de brainstorming?"
+        },
+        {
+            "rol": "bot",
+            "contenido": "El brainstorming es una técnica excelente para generar múltiples ideas impulsando el pensamiento colectivo y la creatividad, trabajando con la parte generativa del cerebro. Su objetivo principal es fomentar la conversación, la escucha y la construcción conjunta sobre las ideas aportadas.\n\nSe caracteriza por ser una actividad de alto compromiso en cortos periodos de tiempo (15 o 30 minutos). Para su ejecución, se recomienda utilizar herramientas visuales como pizarras blancas, papel continuo y post-its, manteniendo una postura activa. Es fundamental escribir claramente las ideas y seguir estrictamente las reglas establecidas para maximizar la capacidad creativa.\n\nExisten dos formas principales de capturar las ideas:\n1.  **Individual:** Cada miembro escribe y visualiza sus ideas en la pizarra, capturando todas sin juzgarlas.\n2.  **Grupal:** Los miembros escriben ideas y luego las comparten verbalmente con el resto del grupo.\n\nEn el contexto de la selección de una idea de negocio, el brainstorming suele ser el primer paso del proceso de ideación, donde se generan posibilidades partiendo de intereses personales, problemas del entorno o sectores emergentes."
+        }
+    ],
+    "54d02d86-04eb-48d0-a812-049769ddb696": [
+        {
+            "rol": "user",
+            "contenido": "que información tienes de chupa chups?"
+        },
+        {
+            "rol": "bot",
+            "contenido": "El contexto proporcionado no contiene información sobre Chupa Chups."
+        },
+        {
+            "rol": "user",
+            "contenido": "que sabes de DAFO?"
+        },
+        {
+            "rol": "bot",
+            "contenido": "El análisis DAFO (también conocido como FODA o SWOT en inglés) es una metodología estratégica creada a principios de la década de 1970 para estudiar la situación competitiva de una organización. Su objetivo principal es determinar las ventajas competitivas y definir la estrategia más adecuada basándose en las características propias de la empresa y del mercado.\n\nEsta herramienta analiza cuatro factores divididos en dos categorías:\n\n1.  **Situación interna (factores controlables):**\n    *   **Fortalezas:** Aspectos positivos como capacidades distintas, ventajas naturales o recursos superiores.\n    *   **Debilidades:** Aspectos negativos como resistencia al cambio o problemas de motivación.\n\n2.  **Situación externa (factores no controlables):**\n    *   **Oportunidades:** Factores externos favorables como nuevas tecnologías o el debilitamiento de competidores.\n    *   **Amenazas:** Factores externos desfavorables, como cambios en el entorno que suponen un alto riesgo.\n\nEl proceso consta de cuatro pasos: análisis externo, análisis interno, confección de la matriz y determinación de la estrategia. A partir de la combinación de estos factores, se identifican potencialidades (fortalezas + oportunidades), limitaciones (debilidades + amenazas), riesgos (fortalezas + amenazas) y desafíos (debilidades + oportunidades), lo que permite responder a preguntas clave sobre cómo explotar fortalezas,"
+        },
+        {
+            "rol": "user",
+            "contenido": "Chupa chups información"
+        },
+        {
+            "rol": "bot",
+            "contenido": "El contexto proporcionado no contiene información sobre Chupa Chups."
+        }
+    ]
+}

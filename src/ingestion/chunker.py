@@ -19,10 +19,8 @@ Reglas de división:
 """
 
 import logging
-import markdown_parser
-
+from src.ingestion import markdown_parser
 from src.core.models import Chunk, Documento
-
 
 logger = logging.getLogger(__name__)
 
@@ -35,7 +33,6 @@ _CAMPO_POR_NIVEL = {
     4: "subseccion",
     5: "apartado",
 }
-
 
 
 def _guardar_chunk(

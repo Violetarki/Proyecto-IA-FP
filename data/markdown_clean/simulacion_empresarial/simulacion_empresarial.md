@@ -24,9 +24,9 @@ Tu futuro profesional, a partir de este momento, tendrá solo los límites que t
 
 # 1. El emprendedor y el plan de empresa
 
-## En esta unidad
+## Resumen unidad 1
 
-### aprenderemos a:
+### En esta unidad aprenderemos a
 
 - Evaluar las implicaciones que conlleva la elección de una idea de negocio.
 - Diferenciar entre lo que puede ser una simple idea de una idea de negocio factible.
@@ -40,7 +40,7 @@ Tu futuro profesional, a partir de este momento, tendrá solo los límites que t
 - Examinar las diversas facetas de la innovación empresarial (técnicas, materiales, de organización interna y externa, etc.), como fuentes de desarrollo económico y creación de empleo.
 - Seleccionar diferentes experiencias de innovación empresarial, describiendo y valorando los fac tores de riesgo asumidos en cada una de ellas.
 
-### Y estudiaremos:
+### Y estudiaremos
 
 - La figura del empresario.
 - Factores que determinan la selección de ideas de negocio.
@@ -51,9 +51,9 @@ Tu futuro profesional, a partir de este momento, tendrá solo los límites que t
 - Factores de riesgo en la innovación empresarial: las facetas del emprendedor.
 - La tecnología como clave de la innovación empresarial.
 
-### Antoine de Saint-Exupery, autor de El Principito.
+### Cita
 
-«Un montón de piedras dejan de ser un montón de piedras, desde que un solo hombre las contempla, dibujando dentro de sí la imagen de una catedral.»
+«Un montón de piedras dejan de ser un montón de piedras, desde que un solo hombre las contempla, dibujando dentro de sí la imagen de una catedral.» -Antoine de Saint-Exupery, autor de El Principito.
 
 ## Emprendedores
 

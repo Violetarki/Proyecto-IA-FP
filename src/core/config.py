@@ -1,3 +1,4 @@
+import os
 from pathlib import Path
 
 RAIZ_PROYECTO = Path(__file__).resolve().parent.parent.parent
@@ -22,3 +23,17 @@ MAXIMO_CHUNKS = 3
 
 # LLM
 MODELO_LLM = "qwen/qwen3.6-27b"
+
+# Chatbot
+# Credenciales provisionales para acceder al panel de profesores.
+# Más adelante pueden guardarse en variables de entorno,
+# una base de datos o un sistema de usuarios.
+USUARIO_PROFESOR = os.getenv(
+    "USUARIO_PROFESOR",
+    "profesor",
+)
+
+CONTRASENA_PROFESOR = os.getenv(
+    "CONTRASENA_PROFESOR",
+    "profesor123",
+)
