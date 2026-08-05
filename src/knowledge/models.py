@@ -14,6 +14,7 @@ class KnowledgeNode:
     y mantiene las relaciones jerárquicas con el resto de apartados
     del manual.
     """
+    id: str
 
     titulo: str | None
 
@@ -22,6 +23,8 @@ class KnowledgeNode:
     padre: KnowledgeNode | None = None
 
     hijos: list[KnowledgeNode] = field(default_factory=list)
+
+    chunk_ids: list[int] = field(default_factory=list)
 
 
 @dataclass

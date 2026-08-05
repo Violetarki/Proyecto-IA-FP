@@ -22,6 +22,7 @@ import logging
 import markdown_parser
 
 from src.core.models import Chunk, Documento
+from src.knowledge.linker import enlazar
 
 
 logger = logging.getLogger(__name__)
@@ -53,7 +54,7 @@ def _guardar_chunk(
         chunks: Lista donde se almacenan los chunks generados.
         documento: Documento al que pertenece el chunk.
         indice: Posición del chunk dentro del documento.
-        contexto: Diccionario con titulo/subtitulo/seccion/subseccion ya resueltos.
+        contexto: Diccionario con titulo/subtitulo/seccion/subseccion/apartado ya resueltos.
         texto: Texto del nodo (ya venido de la property nodo.texto).
 
     Returns:
@@ -70,6 +71,7 @@ def _guardar_chunk(
                 subtitulo=contexto.get("subtitulo"),
                 seccion=contexto.get("seccion"),
                 subseccion=contexto.get("subseccion"),
+                apartado=contexto.get("apartado"),
             )
         )
         indice += 1
@@ -144,6 +146,7 @@ def crear_chunks_documento(documento: Documento) -> list[Chunk]:
         "subtitulo": None,
         "seccion": None,
         "subseccion": None,
+        "apartado": None,
     }
 
     _generar_chunks(
@@ -153,6 +156,8 @@ def crear_chunks_documento(documento: Documento) -> list[Chunk]:
         chunks=chunks,
         indice=0,
     )
+
+    enlazar(arbol,chunks)
 
     return chunks
 
