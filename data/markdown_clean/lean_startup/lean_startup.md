@@ -96,7 +96,9 @@ Considero que si queremos impartir emprendimiento hoy, debemos ser profesores em
 - c. Estar en beta permanente . Como nuestros alumnos, aprendemos todos los días. Creatividad, comunicación, cooperación y confianza también deben ser habilidades básicas de todo docente. Pero en cualquier caso, la propuesta de este manual debe entenderse de forma flexible.
 - d. El papel del docente debe ser el de mentor , que guía el proceso de aprendizaje del alumno, se ajusta a sus características, y sobre todo le motiva para conseguir lo máximo dentro de sus posibilidades.
 
-Radiografía del Profesor emprendedor (Libro p.12)
+##### Infografía Radiografía del Profesor emprendedor
+
+(Libro p.12)
 
 - Secuencia del aprendizaje: partir de lo general, pasar al detalle, y finalizar con una síntesis
 - Niveles de conocimiento: Previos, Internet, Observación, Entrevistas, Contraste hipótesis
@@ -122,7 +124,9 @@ Propongo cinco aspectos clave que constituyen los pilares de este libro:
 - d. Lean Startup. El verdadero eje del curso, y de la secuencia de contenidos del manual. Constituye otra herramienta de innovación de las empresas, está muy ligada a Design Thinking, y supone una verdadera tendencia de la educación del futuro.
 - e. Mobile Learning. Porque hoy en día no podemos entender la educación si no es conectada, líquida, en cualquier sitio o lugar. Y en este sentido, el uso de smartphone ofrece utilidad, motivación y realismo al proceso de enseñanza-aprendizaje.
 
-METODOLOGÍA (Libro p.13)
+##### Infografía METODOLOGÍA
+
+(Libro p.13)
 
 1. Learning by doing: aprender haciendo
 2. Aprendizaje B. retos: aprendizaje cooperativo
@@ -140,7 +144,9 @@ En lugar de actividades o ejercicios, se proponen 30 dinámicas que constituyen 
 - d. Las dinámicas incluyen el uso de las Tecnologías de la Información y Comunicación , como no podía ser de otra forma. Para cada reto se proponen aplicaciones de escritorio y apps móviles que facilitarán en gran medida el proceso educativo.
 - e. las dinámicas deben entenderse de forma flexible . El docente tiene la capacidad para profundizar más o menos en cada una de las fases o módulos.
 
-##### 30 DINÁMICAS basadas en las 4Cs: CREATIVIDAD, COMUNICACIÓN, COOPERACIÓN, CONFIANZA (Libro p.14)
+##### Infografía 30 DINÁMICAS basadas en las 4Cs: CREATIVIDAD, COMUNICACIÓN, COOPERACIÓN, CONFIANZA
+
+(Libro p.14)
 
 1. Debates con vídeos e infografías
 2. Selfie emprendedor
@@ -177,7 +183,9 @@ En lugar de actividades o ejercicios, se proponen 30 dinámicas que constituyen 
 
 No hay formulas secretas para llevar al aula y garantizar el éxito. La propuesta que os hago recoge el trabajo en aula de 5 cursos (2012-2017), y la sintetizo con el fin de que aquel que así lo considere, pueda tener más seguridad para su aplicación en clase. A mi experiencia hay que añadirle el importante punto de vista de varios profesores innovadores interesados en la cuestión, que me han ampliado y enriquecido los contenidos, y que han permitido que yo mismo, siga un proceso "lean" en la redacción del libro. La cuarta infografía recoge de forma clara estas recomendaciones.
 
-##### Recomendaciones (Libro p.15)
+##### Infografía Recomendaciones
+
+(Libro p.15)
 
 Son muchas las cuestiones que se van a tratar en los próximos módulos que componen este libro. Por eso, pienso que es necesario establecer una serie de recomendaciones que ayudaran a interpretar los contenidos o propuestas de mejor forma.
 
@@ -226,9 +234,19 @@ De esta forma vamos a entender que supone exactamente emprender en educación. L
 
 ### Mejora de la calidad educativa
 
-Nuestro sistema educativo, como he citado anteriormente, no es ajeno al protagonismo del emprendimiento. Pero, ¿cómo se trabaja el emprendimiento en educación? A continuación, podemos apreciar una infografía con las 7 competencias clave de la actual ley educativa, la Ley Orgánica 8/2013, de 9 de diciembre, para la mejora de la calidad educativa (LOMCE)
+Nuestro sistema educativo, como he citado anteriormente, no es ajeno al protagonismo del emprendimiento. Pero, ¿cómo se trabaja el emprendimiento en educación? A continuación, podemos apreciar una infografía con las 7 competencias clave de la actual ley educativa, la Ley Orgánica 8/2013, de 9 de diciembre, para la mejora de la calidad educativa (LOMCE).
 
-#### Competencias clave con la LOMCE
+De forma más concreta, tenemos:
+
+1. Competencia en comunicación lingüística.
+2. Competencia matemática y competencias básicas en ciencia y tecnología.
+3. Competencia digital. Implica el uso seguro y crítico de las TIC para obtener, analizar, producir e intercambiar información.
+4. Aprender a aprender.
+5. Competencias sociales y cívicas.
+6. Sentido de la iniciativa y espíritu emprendedor.
+7. Conciencia y expresiones culturales.
+
+#### Infografía Competencias Clave con la LOMCE
 
 (Libro p.20)
 
@@ -242,17 +260,7 @@ Nuestro sistema educativo, como he citado anteriormente, no es ajeno al protagon
   - 1. En el centro de las competencias clave, recogiendo y sintetizando las demás
   - 2. Implica las habilidades necesarias para convertir las ideas en actos, como la creatividad o las capacidades para asumir riesgos y planificar y gestionar proyectos.
 
-De forma más concreta, tenemos:
-
-1. Competencia en comunicación lingüística.
-2. Competencia matemática y competencias básicas en ciencia y tecnología.
-3. Competencia digital. Implica el uso seguro y crítico de las TIC para obtener, analizar, producir e intercambiar información.
-4. Aprender a aprender.
-5. Competencias sociales y cívicas.
-6. Sentido de la iniciativa y espíritu emprendedor.
-7. Conciencia y expresiones culturales.
-
-#### Competencia clave de sentido de la iniciativa y espíritu emprendedor
+### Competencia clave de sentido de la iniciativa y espíritu emprendedor
 
 En educación trabajamos todas las competencias clave, en mayor o menor medida. Sin embargo, nos vamos a centrar especialmente la competencia clave de sentido de la iniciativa y espíritu emprendedor. El propio legislador señala que esta competencia clave "implica las habilidades necesarias para convertir las ideas en actos, como la creatividad o las capacidades para asumir riesgos y planificar y gestionar proyectos". Por consiguiente, el punto de vista de la propia norma coincide con el expresado por nosotros en el primer punto. Pero, ¿cómo se hace realidad esa competencia clave?
 
@@ -320,26 +328,26 @@ Hemos planteado la necesidad de formar en una determinada dirección por exigenc
 
 Hemos comprobado que si trabajamos la educación emprendedora con Lean Startup de fondo, se consiguen de forma excelente los difíciles retos que plantea la educación actual.
 
-Ahora bien, para poder realizarlo, tenemos que tener presentes una serie de condicionantes que afectan al proceso educativo, y que, obviamente, Lean Startup tiene que respetar:
+Ahora bien, para poder realizarlo, tenemos que tener presentes una serie de condicionantes que afectan al proceso educativo, y que, obviamente, Lean Startup tiene que respetar.
 
 ### Condicionantes que afectan al proceso educativo
 
-#### 1. La secuencia básica del proceso educativo:
+#### 1. La secuencia básica del proceso educativo
 
-partir de lo general, análisis del contenido, y sacar conclusiones de lo aprendido. Del análisis de este condicionante, podemos establecer 3 fases en la aplicación de Lean Startup en Educación:
+Partir de lo general, análisis del contenido, y sacar conclusiones de lo aprendido. Del análisis de este condicionante, podemos establecer 3 fases en la aplicación de Lean Startup en Educación:
 
-- a. Partir de lo general : en este apartado se abordará la figura del emprendedor, y lo que es más importante, conocerse como emprendedor, con sus fortalezas y debilidades. A la vez, se determinará el ámbito de trabajo: el problema a resolver. Y aplicaremos Design Thinking para entenderlo, fijar el reto, y proponer soluciones innovadoras.
-- b. Análisis : en esta segunda parte se abordaría Lean Startup en su versión didáctica. A partir de una idea de negocio previamente validada, se procedería a su contextualización para poder prototiparla. Posteriormente se llevaría a cabo una validación del prototipo mediante experimentos con el fin de aprender.
-- c. Síntesis : realizadas una serie de iteraciones en función del tiempo disponible, y con lo aprendido, el alumno debe ser capaz de hacer un speech sobre su modelo de negocio con el fin de defenderlo y presentarlo a un determinado acto (concurso, ronda de financiación, etc).
+- a. Partir de lo general: en este apartado se abordará la figura del emprendedor, y lo que es más importante, conocerse como emprendedor, con sus fortalezas y debilidades. A la vez, se determinará el ámbito de trabajo: el problema a resolver. Y aplicaremos Design Thinking para entenderlo, fijar el reto, y proponer soluciones innovadoras.
+- b. Análisis: en esta segunda parte se abordaría Lean Startup en su versión didáctica. A partir de una idea de negocio previamente validada, se procedería a su contextualización para poder prototiparla. Posteriormente se llevaría a cabo una validación del prototipo mediante experimentos con el fin de aprender.
+- c. Síntesis: realizadas una serie de iteraciones en función del tiempo disponible, y con lo aprendido, el alumno debe ser capaz de hacer un speech sobre su modelo de negocio con el fin de defenderlo y presentarlo a un determinado acto (concurso, ronda de financiación, etc).
 
-#### 2. El currículo básico :
+#### 2. El currículo básico
 
-a pesar de la crítica efectuada al currículo actual, es norma preceptiva y por lo tanto de obligado cumplimiento. El profesorado de emprendimiento debe reflexionar sobre cómo abordar el mismo, y a la vez dar respuesta a las exigencias que nos hemos planteado. Una propuesta de solución sería la siguiente:
+A pesar de la crítica efectuada al currículo actual, es norma preceptiva y por lo tanto de obligado cumplimiento. El profesorado de emprendimiento debe reflexionar sobre cómo abordar el mismo, y a la vez dar respuesta a las exigencias que nos hemos planteado. Una propuesta de solución sería la siguiente:
 
 - a. El eje de un currículo de emprendimiento sigue siendo un Plan de Empresa. En este sentido, se puede abordar de forma teórica al plantear al alumno el proceso de Customer Development. En algunos currículos será suficiente. Si el docente considera necesario abordarlo, puede optar por el denominado Plan de Negocios Ágil, y abordarlo una vez validado el modelo de negocio.
 - b. Entendido un Plan de Negocios como hemos citado en el punto anterior, es preciso un proceso de aprendizaje rápido, ágil, constituido por Lean Startup para definir y validar el modelo de negocio previo a la elaboración de un Plan de Empresa.
 
-#### 3. Cambio de la metodología educativa.
+#### 3. Cambio de la metodología educativa
 
 Es obligado y urgente un cambio radical y una actualización de la metodología docente. En este sentido, nuestra experiencia se basa en una metodología que alterna diferentes métodos de enseñanza-aprendizaje, pero que ante todo se basa en metodologías activas, es decir:
 
@@ -350,9 +358,9 @@ Es obligado y urgente un cambio radical y una actualización de la metodología 
 - e. Gamificación. Se trata de aprender jugando, una de las formas más efectivas (y divertidas) que existen para obtener aprendizajes. La gamificación es una forma de aplicar el concepto de juego en diferentes ámbitos, logrando así 'potenciar la motivación, la concentración, el esfuerzo y la fidelización' a través de mecánicas de juegos. Es ideal la combinación de seriedad y juego.
 - f. Flipped Classroom. Muy relacionado con el ABP está la clase inversa, y esto lo hacemos en algunas fases del curso. Literalmente, es poner la clase 'al revés '. Esto implica que el alumnado trabaja y hace lo que, habitualmente, entendemos por 'tareas' o 'deberes' en la clase: Las explicaciones del docente las verá o escuchará en casa , bien a través de vídeos o podcasts; los trabajos en el aula son principalmente grupales (colaborativos)
 
-### Infografía ajuste método-alumno
+### Infografía ajuste método-alumno Lean Startup en Educación
 
-A continuación muestro una infografía sobre cómo quedaría el ajuste metodología-alumno Lean Startup en Educación (Libro p.27)
+A continuación muestro una infografía sobre cómo quedaría el ajuste metodología-alumno (Libro p.27)
 
 Esquema del emprendedor en España. Sexo, edad, formación y sobre todo situación laboral, definen el perfil de un emprendedor en España. Es fundamental conocer estos datos para poder mejorarlos.
 
@@ -389,9 +397,9 @@ La mayoría de los alumnos mejoran. Abordar las clases de emprendimiento mediant
 2. El reto
 3. La solución: el ajuste método-alumnado
 
-El correlato lógico de nuestro planteamiento consiste en conocer qué pasos vamos a dar, para, bajo la metodología explicada, aplicar la educación emprendedora en el aula. Y para ello establecemos 6 pasos, retos, proyectos o problemas: Emprender, Idear, Contextualizar, Prototipar, Validar y Comunicar.
-
 ### Infografía Metodología Lean Startup en Educación
+
+El correlato lógico de nuestro planteamiento consiste en conocer qué pasos vamos a dar, para, bajo la metodología explicada, aplicar la educación emprendedora en el aula. Y para ello establecemos 6 pasos, retos, proyectos o problemas: Emprender, Idear, Contextualizar, Prototipar, Validar y Comunicar.
 
 El esquema básico explicado se puede representar mediante la siguiente infografía: (Libro p.28)
 
@@ -430,11 +438,11 @@ Ante todo, señalar que todo reto supone tener, conseguir, alcanzar un objetivo 
 ### 4 puntos de vista de la figura del emprendedor
 
 1. Teórico. Como todo aspecto curricular, ha de conocerse el alcance del concepto que tratamos de aplicar. En este caso, sería la figura del emprendedor, sus cualidades, destacando la pasión, la ilusión y el talento. Como no, también se aborda la figura del emprendedor social.
-2. Práctico. De la teoría se pasa a la práctica, y en este sentido salimos a conocer al emprendedor de nuestro entorno, mediante una breve entrevista. Esta dinámica se denomina Selfie Emprendedor , y es obra de las docentes de Formación y Orientación Laboral, Isabel González, Paz Fernández de la Vera y Elena Rodríguez . Puedes acceder a la dinámica en el siguiente link: http://selfieemprendedor.blogspot.com.es/ .
+2. Práctico. De la teoría se pasa a la práctica, y en este sentido salimos a conocer al emprendedor de nuestro entorno, mediante una breve entrevista. Esta dinámica se denomina Selfie Emprendedor , y es obra de las docentes de Formación y Orientación Laboral, Isabel González, Paz Fernández de la Vera y Elena Rodríguez. Puedes acceder a la dinámica en el siguiente link: http://selfieemprendedor.blogspot.com.es/.
 3. Objetivo. Con los dos puntos anteriores estamos en condiciones de evaluarnos como emprendedores, mediante una app habilitada al efecto. Mediante este análisis, conseguimos conocernos mejor e información objetiva sobre el alumnado.
 4. Subjetivo. Con los puntos anteriores se pasa a una presentación de cada alumno, lo que nos permitirá aumentar el grado de información de cada alumno, esta vez, basada en su exposición directa.
 
-### Dinámica por grupos
+### Dinámica por grupos startup en el aula
 
 Con la información de los puntos anteriores se configuran los diversos grupos de clase que funcionarán a modo de startup en el aula, y convirtiendo ésta en una aceleradora simulada.
 
@@ -448,7 +456,7 @@ Esta dinámica pone en situación a los alumnos, y les deja claro el objetivo de
 
 Tras la realización de la dinámica del Reto de los 5 euros, los alumnos empiezan a ser conscientes de su potencial, de lo que pueden hacer, y estarán preparados para comenzar a trabajar en una idea propia, una idea que se trabajará a lo largo de todo el curso, y la que los convertirá en expertos en esa materia.
 
-### Historia visual de EMPRENDER EN EL AULA
+### Infografía Historia visual de EMPRENDER EN EL AULA
 
 A continuación se muestra una infografía donde se visualiza el trabajo a realizar en Emprender, como primer paso de educación emprendedora en el aula. (Libro p.30)
 
@@ -505,9 +513,9 @@ Para ello es clave elegir una idea de negocio que ante todo sea cercana a sus in
 
 A partir de ahí, los alumnos trabajaran con herramientas fundamentales para un emprendedor, tales como creatividad, storytelling, prototipo, entrevista, roleplaying, y sobre todo, relacionando el aprendizaje dentro del aula con el que se produzca fuera de ella.
 
-### Pasos Idear
-
 Para ello, vamos a seguir los siguientes pasos:
+
+### Pasos Idear
 
 1. Brainstorming. Tanto en esta dinámica como en otras que veremos posteriormente, podemos comprobar cómo trabajamos bajo Design Thinking, complemento ideal para Lean Startup en el aula, fundamentalmente dentro de lo que es el proceso creativo. Recomiendo una dinámica de brainstorming basada en grandes esfuerzos de creatividad en cortos períodos de tiempo, y semidirigida.
 2. Cardsorting. Tras la brainstorming, procedemos a la clasificación de las ideas generadas bajo determinados criterios, y dentro de cada criterio de valoran positivamente y negativamente.
@@ -572,8 +580,6 @@ A continuación puedes ver una infografía que sintetiza el proceso descrito:
 ## 7. PROTOTIPAR
 
 Tras la fase anterior, pasamos a un nuevo reto, en el que damos forma a nuestro modelo de negocio. Pero para ello, seguimos una secuencia lógica que ayuda mucho al alumnado a la hora del prototipado:
-
-### Secuencia lógica PROTOTIPADO
 
 1. Lienzo de la propuesta de valor
    - a. Derivado de la fase anterior, tenemos dos de los elementos clave de un modelo de negocio que han de encajar perfectamente: problema/necesidad del cliente y nuestra solución, nuestra propuesta de valor.
@@ -645,8 +651,6 @@ Comenzamos la quinta fase de nuestro proyecto emprendedor. Una vez que hemos pro
 
 Para ello, seguimos un orden determinado, a saber:
 
-### Orden VALIDAR
-
 1. Validar el perfil del cliente y su problema. Para ello nos basamos en la entrevista de problema. Consiste en una de las actividades educativas más duras, pero también más motivadoras, porque aquí el alumnado es consciente dónde está el verdadero aprendizaje que debe tener un emprendedor. Entrevistas de 25-30 minutos consiguen un enriquecimiento tal, que no hay lienzo al que se le dé la vuelta tras esta dinámica.
 2. Validar nuestra propuesta de valor. A continuación, y constatado el problema del cliente, abordamos la solución que le ofrecemos, también mediante una entrevista de solución. Los resultados son mejores cuánto más nos creemos el trabajo que hemos hecho y nuestra implicación en el proyecto. A la vez comprobamos cómo nuestro prototipo no deja de ser eso, un producto que nos permite aprender.
 3. Encaje problema-solución. En función del tiempo disponible, y del nivel del grupo, se pueden hacer diferentes iteraciones, mejorando el conocimiento del cliente y de la solución que le ofrecemos. Y las iteraciones nos llevarían al punto en el que podamos hacer un encaje perfecto entre problema y solución.
@@ -712,9 +716,10 @@ En el aula trabajamos tanto la herramienta para llevar a cabo la presentación c
 9. Roadmap. Todo lo anterior habla sobre lo realizado. Finalizando, abordaremos qué pretendemos en el futuro y lo ilustraremos con datos gráficos que muestren todo: pasado, actualidad y futuro, incluyendo datos financieros.
 10. Despedida. Por último debemos esforzarnos que destacar porqué somos importantes, clave en el sector en el que vamos a competir y qué nos diferencia del resto.
 
-## Infografía Comunicar
+### Infografía Comunicar
 
 10 pasos de un elevator pitch (Libro p.40)
+
 Por último, y como hemos hecho en epígrafes anteriores, veamos este esquema mediante una infografía de comunicar:
 
 1. Presentación: gancho
@@ -777,7 +782,7 @@ Comenzamos esta primera unidad con un vídeo muy motivador sobre lo que es empre
 
 Pasamos a definir qué entendemos por una persona emprendedora. Y qué mejor forma de hacerlo que a través de una infografía:
 
-### Infografía Perfil del emprendedor/a
+Infografía Perfil del emprendedor/a
 
 (Libro p.44)
 
@@ -875,13 +880,13 @@ Hablamos de una empresa social si es responsable hacia los accionistas, es decir
 
 Muchas ideas hoy en día nacen del enfoque de ayudar a alguien, pero sin perder de vista que creo riqueza para ganar, para crear riqueza para el conjunto de la sociedad, es decir generar relaciones positivas con quién te rodeas. Si eres de los piensan en los que te rodean, generas una propuesta de valor o beneficio para cada uno de ellos, el lucro se incrementará. En caso de voluntariado, el principal ayudado es el voluntario. Una empresa, un emprendedor, es social si hace el bien a los demás, y así hace un beneficio superior a los demás. Un emprendedor social obtiene lucro ayudando las expectativas de los Stakeholder , es decir, grupo de influencia entre los que me muevo.
 
-#### Puntos clave :
+Puntos clave:
 
 1. Quiénes son: empleados, consumidores, clientes, gobiernos. Mapéalos.
 2. Quiénes son prioritarios: quiénes son los más importantes. Priorízalos.
 3. Expectativas de cada uno de ellos: qué espera de nosotros cada uno de ellos.
 4. Genera una expectativa/propuesta de valor para cada uno de ellos, algo que les quieras transmitir, vender, y que satisfaga sus expectativas.
-5. Generarás valor socio-empresarial : beneficio para tí, y riqueza para los demás.
+5. Generarás valor socio-empresarial: beneficio para tí, y riqueza para los demás.
 
 Fuente: YouTube - EmprendeMOOC
 
@@ -952,7 +957,9 @@ Las respuestas al test muestran que posees unas competencias y capacidades muy p
 
 Poner en marcha un proyecto empresarial conlleva muchas dificultades de diferente tipo: económicas, viabilidad del proyecto, etc. pero sobre todo necesita que la persona que lo lleve a cabo tenga determinadas capacidades, cualidades y habilidades personales, sociales , etc. para que tenga éxito. En tu caso, tienes un gran potencial para afrontar este reto como puedes ver en los gráficos'.
 
-A continuación nos ofrece información sobre las características del perfil emprendedor :
+### Información sobre las características del perfil emprendedor
+
+A continuación nos ofrece información sobre las características del perfil emprendedor:
 
 'Para tu información, el perfil de la persona emprendedora se caracteriza por:
 
@@ -1330,7 +1337,7 @@ Es fundamental seguir y hacer cumplir las reglas del brainstorming porque están
 
 Fuente: Institute of Design at Stanford
 
-### ACTIVIDAD NÚMERO 10. BRAINSTORMING
+#### ACTIVIDAD NÚMERO 10. BRAINSTORMING
 
 - DEFINICIÓN: Comenzamos el módulo mediante la definición de posibles ideas que serán el origen de nuestro proyecto. Para ello, vamos a generar muchas posibilidades con el fin de elegir la mejor.
 
@@ -1367,7 +1374,7 @@ Podemos establecer diferentes técnicas para realizar la clasificación de las i
 
 Fuente: Institute of Design at Stanford
 
-### ACTIVIDAD NÚMERO 11. CARDSORTING
+#### ACTIVIDAD NÚMERO 11. CARDSORTING
 
 - DEFINICIÓN: Tal y como acabamos de señalar, se trata de seleccionar las ideas más atractivas para su posterior análisis. Realmente es un filtrado de ideas, toda vez que el la dinámica anterior se han generado ideas sin ningún tipo de limitación.
 
@@ -1395,7 +1402,7 @@ Para ello se establecen, al menos, los siguientes aspectos a conocer de cada ide
 
 Una vez conocida esta información mínima se hace necesario valorar cada aspecto en cada una de las ideas. Fruto de esa valoración, sabremos qué idea tiene una mayor puntuación, y por lo tanto será, en principio, la elegida.
 
-### ACTIVIDAD NÚMERO 12. MADURACIÓN DE IDEAS
+#### ACTIVIDAD NÚMERO 12. MADURACIÓN DE IDEAS
 
 - DEFINICIÓN: Con esta actividad buscamos información que esté relacionada con las ideas que han pasado el filtro del cardsorting. Lo ideal sería establecer unos items y tener información que sea comparable entre las distintas ideas. Después, cada grupo de alumnos puede valorar los items citados, o bien proponer otros. Se recomienda presentar la información en forma de tabla, recogiendo ideas/items.
 
@@ -1437,7 +1444,7 @@ En este sentido, el uso de una hoja de cálculo ayuda de forma muy relevante en 
 
 Tras la valoración de las diferentes ideas, tendremos un ranking de ideas, desde la más valorada a la menos valorada. En principio seguiremos con nuestro trabajo con la idea situada en primer lugar, es decir, la idea más valorada.
 
-### ACTIVIDAD NÚMERO 13. ELECCIÓN DE LA IDEA DE NEGOCIO
+#### ACTIVIDAD NÚMERO 13. ELECCIÓN DE LA IDEA DE NEGOCIO
 
 - DEFINICIÓN: La actividad consiste en calificar las ideas de negocio en función de una serie de criterios establecidos y ponderados al efecto, con el fin de obtener un ranking de ideas, y sobre todo las idea más valorada.
 
@@ -1469,10 +1476,10 @@ Esta técnica permite analizar las evidencias mediante preguntas que investiguen
 
 1. ¿Qué?: Tema
 2. ¿Por qué?: Propósito
-3. ¿Dónde? : Ubicación/Contexto
+3. ¿Dónde?: Ubicación/Contexto
 4. ¿Cuándo?: Secuencia
-5. ¿Quién? : Personas
-6. ¿Cómo? : Método
+5. ¿Quién?: Personas
+6. ¿Cómo?: Método
 
 A continuación, debemos haceros preguntas sobre la idea/problema elegida/o usando la técnica de las 6W´S de modo que podamos profundizar un poco más en el problema y definir un nuevo reto a raíz de las preguntas formuladas.
 
@@ -1501,7 +1508,7 @@ Es necesario tener en cuenta una serie de aspectos antes de crear tu historia, q
 
 Un ejemplo muy gráfico: LEGO. http://www.soyunamarca.com/2012/08/la-historia-de-legoy-el-poder-del-storytelling/
 
-### ACTIVIDAD NÚMERO 14. LA HISTORIA
+#### ACTIVIDAD NÚMERO 14. LA HISTORIA
 
 - DEFINICIÓN: Con esta actividad proponemos idear una historia que cuente cómo aparece un problema determinado, y los pasos lógicos para su resolución. El reto del curso es que comprobar que nuestra solución es lo suficientemente buena, es extraordinaria. Pero desde el primer momento hay que enamorarse del problema a resolver, y contar una historia nos ayudará a transmitir esa pasión por el problema.
 
@@ -1517,7 +1524,7 @@ Un ejemplo muy gráfico: LEGO. http://www.soyunamarca.com/2012/08/la-historia-de
 
 El paso siguiente consiste en digitalizar nuestra historia. Para ello existen múltiples herramientas. Se puede indagar en algunas de ellas con el fin de seleccionar la que más se adapte a la historia que queremos contar. En el contenido que describe la actividad hay varias referencias:
 
-### ACTIVIDAD NÚMERO 15. EL PROTOTIPO
+#### ACTIVIDAD NÚMERO 15. EL PROTOTIPO
 
 - DEFINICIÓN: Con esta actividad damos forma a los elementos básico s de cualquier idea de negocio, entendida como la solución a un problema. Así veremos que es preciso definir y entender muy bien el problema de fondo (qué), las causas que lo motivan (por qué), el lugar donde se desarrolla (dónde), el momento del tiempo (cuándo), a quién afecta o cuáles son los agentes implicados (quién) y el proceso que ha llevado desde que se genera hasta el momento actual (cómo). A partir de ahí tendremos que pensar en cómo dar forma a nuestro trabajo, y lo haremos con un prototipo.
 
@@ -1535,7 +1542,7 @@ En el siguiente enlace se puede acceder a un menú de mi blog, donde hay enlaces
 
 - EVALUACIÓN: en esta actividad vamos a comprobar cómo se inicia el proceso de investigación de nuestra idea , y cómo vamos sentando sus bases. A la vez, le daremos formas con un prototipo sencillo, pero que puede tener una gran acabado como producción final del alumnado.
 
-### ACTIVIDAD NÚMERO 16. FEEDBACK Y RETOQUE I
+#### ACTIVIDAD NÚMERO 16. FEEDBACK Y RETOQUE I
 
 - DEFINICIÓN: Antes de salir a la calle con nuestro prototipo e historia, vamos a presentarlo en clase.
 
@@ -1571,7 +1578,7 @@ El procedimiento a seguir sería:
   - Identificar y ordenar los temas . Consiste básicamente en identificar y agrupar los problemas en grandes áreas o temas relevantes. Una vez hecho esto se debe permitir que la conversación fluya para determinar una dirección específica para elegir. Esto hará posible estructurar la dirección o tema de la entrevista haciéndola más amigable con el usuario y más efectiva ya que evita componer una entrevista desordenada y sin enfoque.
   - Refinar las preguntas . Una vez que las preguntas se hayan agrupado por tema y orden se podrá encontrar que hay áreas de conversaciones redundantes o repetidas. También es probable que existan preguntas fuera de lugar. Es importante hacer una limpieza para asegurarse de llevar una entrevista bien planificada con suficientes preguntas del tipo ¿por qué?, cuéntame sobre la última vez que…? y suficientes preguntas directas de cómo el usuario se siente.
 
-### ACTIVIDAD NÚMERO 17. LA ENTREVISTA
+#### ACTIVIDAD NÚMERO 17. LA ENTREVISTA
 
 - DEFINICIÓN: Con esta actividad queremos pasar a la última fase de nuestra investigación : preguntar a los verdaderos expertos de un problema determinado, sus usuarios.
 
@@ -1601,7 +1608,7 @@ Para ello matizamos nuestro mural quitando y poniendo los post-its correspondien
 
 Una vez contada de nuevo a la clase, la historia adquiere un aspecto clave: la idea de negocio ya tiene forma. Ahora, para completar el diseño, es necesario contextualizarla .
 
-### ACTIVIDAD NÚMERO 18. FEEDBACK Y RETOQUE II
+#### ACTIVIDAD NÚMERO 18. FEEDBACK Y RETOQUE II
 
 - DEFINICIÓN: Después de realizar las entrevistas procede incorporar la información más valiosa obtenida a nuestra historia y a nuestro prototipo.
 
@@ -1731,44 +1738,45 @@ La organización no existe ni puede existir fuera de un ambiente, fuera de ese e
 
 El proceso para determinar esas oportunidades o amenazas se puede realizar de la siguiente manera:
 
-1. A. Estableciendo los principales hechos o eventos del ambiente que tiene o podrían tener alguna relación con la organización . Estos pueden ser:
-   - A.1. De carácter económico :
-     - Deuda pública.
-     - Nivel de salarios.
-     - Nivel de precios.
-     - Inversión extranjera.
+A. Estableciendo los principales hechos o eventos del ambiente que tiene o podrían tener alguna relación con la organización. Estos pueden ser:
 
-   - A.2. De carácter social :
-     - Crecimiento y distribución demográfica.
-     - Empleo y desempleo.
-     - Sistema de salud e higiene.
+- A.1. De carácter económico:
+  - Deuda pública.
+  - Nivel de salarios.
+  - Nivel de precios.
+  - Inversión extranjera.
 
-   - A.3. De carácter legal :
-     - A.3.1. Tendencias fiscales
-       - Impuestos sobre ciertos artículos o servicios.
-       - Forma de pago de impuestos.
-       - Impuestos sobre utilidades.
-     - A.3.2. Legislación
-       - Laboral.
-       - Mejoramiento del ambiente.
-       - Descentralización de empresas en las zonas urbanas.
+- A.2. De carácter social:
+  - Crecimiento y distribución demográfica.
+  - Empleo y desempleo.
+  - Sistema de salud e higiene.
 
-   - A.4. De carácter político :
-     - Estabilidad política del país.
-     - Sistema de gobierno.
-     - Relaciones internacionales.
-     - Restricciones a la importación y exportación.
+- A.3. De carácter legal:
+  - A.3.1. Tendencias fiscales
+    - Impuestos sobre ciertos artículos o servicios.
+    - Forma de pago de impuestos.
+    - Impuestos sobre utilidades.
+  - A.3.2. Legislación
+    - Laboral.
+    - Mejoramiento del ambiente.
+    - Descentralización de empresas en las zonas urbanas.
 
-   - A.5. De carácter tecnológico :
-     - Rapidez de los avances tecnológicos.
-     - Cambios en los sistemas.
-     - Dependencia de la tecnología.
+- A.4. De carácter político:
+  - Estabilidad política del país.
+  - Sistema de gobierno.
+  - Relaciones internacionales.
+  - Restricciones a la importación y exportación.
 
-   - A.6. De carácter medioambiental :
-     - Carácter social de la actividad.
-     - Contribución al medio ambiente.
+- A.5. De carácter tecnológico:
+  - Rapidez de los avances tecnológicos.
+  - Cambios en los sistemas.
+  - Dependencia de la tecnología.
 
-2. B. Determinando cuáles de esos factores podrían tener influencia sobre la organización en términos de facilitar o restringir el logro de objetivos . Es decir, hay circunstancias o hechos presentes en el ambiente que a veces representan una buena oportunidad que la organización podría aprovechar, ya sea para desarrollarse aún más o para resolver un problema. También puede haber situaciones que más bien representen amenazas para la organización y que puedan hacer más graves sus problemas.
+- A.6. De carácter medioambiental:
+  - Carácter social de la actividad.
+  - Contribución al medio ambiente.
+
+B. Determinando cuáles de esos factores podrían tener influencia sobre la organización en términos de facilitar o restringir el logro de objetivos . Es decir, hay circunstancias o hechos presentes en el ambiente que a veces representan una buena oportunidad que la organización podría aprovechar, ya sea para desarrollarse aún más o para resolver un problema. También puede haber situaciones que más bien representen amenazas para la organización y que puedan hacer más graves sus problemas.
 
 #### 2.1.1. OPORTUNIDADES
 
@@ -1858,7 +1866,7 @@ Las limitaciones, determinadas por una combinación de debilidades y amenazas, c
 
 Mientras que los riesgos (combinación de fortalezas y amenazas) y los desafíos (combinación de debilidades y oportunidades), determinados por su correspondiente combinación de factores, exigirán una cuidadosa consideración a la hora de marcar el rumbo que la organización deberá asumir hacia el futuro deseable.
 
-### ACTIVIDAD NÚMERO 19. MATRIZ DAFO
+#### ACTIVIDAD NÚMERO 19. MATRIZ DAFO
 
 - DEFINICIÓN: Llega el momento de realizar un análisis tanto de nuestro equipo de trabajo como de la idea que vamos a trabajar.
 
@@ -1940,7 +1948,7 @@ Después construimos su perfil contestando a las siguientes seis preguntas :
    1. ¿Qué es lo que realmente necesita o quiere conseguir?
    2. ¿De qué modo mide el éxito?. Piensa en algunas estrategias que podría utilizar para alcanzar sus metas.
 
-### ACTIVIDAD NÚMERO 20. MAPA DE EMPATÍA
+#### ACTIVIDAD NÚMERO 20. MAPA DE EMPATÍA
 
 - DEFINICIÓN : Tras analizar el entorno lejano, pasamos al análisis del entorno más cercano a nuestra idea, y comenzamos con el cliente potencial.
 
@@ -1983,7 +1991,9 @@ Estos pasos están basados en una serie de posts de José Antonio de Miguel. La 
 
 Para ello vamos a dar diferentes pasos puestos de manifiesto en el párrafo anterior.
 
-#### 1. Y el primer paso es confeccionar un cuadro estratégico.
+#### 4.2.1. Confeccionar un cuadro estratégico.
+
+Y el primer paso es confeccionar un cuadro estratégico.
 
 El cuadro estratégico es una herramienta de diagnóstico y un esquema práctico para construir una estrategia contundente de océanos azules.
 
@@ -2008,7 +2018,9 @@ Para modificar la curva de valor de la competencia es necesario comenzar por enf
 3. buscar tanto valor como coste, es decir,
 4. es preciso retirarse a la vieja lógica de compararse con los competidores existentes y de elegir entre ser líder en diferenciación o líder en coste.
 
-#### 2. El paso siguiente consiste en analizar posibilidades de innovar a través de 6 vías de exploración.
+#### 4.2.2. Analizar posibilidades de innovar a través de 6 vías de exploración
+
+El paso siguiente consiste en analizar posibilidades de innovar a través de 6 vías de exploración.
 
 A través de un excelente vídeo que nos muestra como explorar nuevos océanos azules a través de los grupos estratégicos, el procedimiento fundamental a seguir será:
 
@@ -2024,11 +2036,8 @@ A través de un excelente vídeo que nos muestra como explorar nuevos océanos a
    2. Otros compiten basándose en sentimientos o factores emocionales (su atractivo es emocional)
    3. Pero rara vez el atractivo de un producto o servicio es racional o emocional intrínsecamente.
    4. Industrias racionales y emocionales. Cuando una empresa se cuestiona la orientación de su sector, suele descubrir espacios desconocidos que permiten crear océanos.
-
-La idea sería complementar un producto o servicio que se adquiere por su atractivo funcional o emocional con el atractivo contrario para hacer la oferta más fuerte .
-
-Por ejemplo, Starbucks complementó la venta de café que tenía un atractivo funcional complementándolo con toda una experiencia de degustación del mismo, con sillones, lugar cómodo para estar, etc.
-
+      La idea sería complementar un producto o servicio que se adquiere por su atractivo funcional o emocional con el atractivo contrario para hacer la oferta más fuerte.
+      Por ejemplo, Starbucks complementó la venta de café que tenía un atractivo funcional complementándolo con toda una experiencia de degustación del mismo, con sillones, lugar cómodo para estar, etc.
 6. Todas las industrias están sujetas al efecto de las tendencias externas . Así:
    1. Son líneas de negocio que modifican nuestra idea inicial: Internet, el medio ambiente, nuevos estilos de vida…
    2. Si se miran estas tendencias desde una perspectiva correcta a lo mejor aparecen oportunidades para un nuevo océano azul
@@ -2036,7 +2045,9 @@ Por ejemplo, Starbucks complementó la venta de café que tenía un atractivo fu
 
 La mayoría de las empresas se adaptan lenta y pasivamente a las tendencias, olvidando las oportunidades que surgen de la forma en que redefinirán el valor percibido.
 
-#### 3. El paso siguiente consiste en diseñar nuestra propuesta de valor.
+#### 4.2.3. Diseñar nuestra propuesta de valor
+
+El paso siguiente consiste en diseñar nuestra propuesta de valor.
 
 Para ello tendremos en cuenta las curvas de valor de los grupos estratégicos así como las distintas vías de exploración analizadas con anterioridad. Mediante la matriz ERIC procederemos de la siguiente forma:
 
@@ -2047,7 +2058,9 @@ Para ello tendremos en cuenta las curvas de valor de los grupos estratégicos as
 
 Los puntos 1, 2 y 3 suponen reflexionar y valorar la variables estratégicas de la competencia. El punto 4 presenta como contenido las reflexiones realizadas con base en las vías de exploración.
 
-#### 4. Para finalizar, tenemos que tener en cuenta que una buena estrategia debe tener las siguientes notas:
+#### 4.2.4. Una buena estrategia debe tener las siguientes notas
+
+Para finalizar, tenemos que tener en cuenta que una buena estrategia debe tener las siguientes notas:
 
 1. Foco: toda gran estrategia tiene un foco y éste se debe reflejar en el perfil estratégico o la curva de valor de la compañía.
 2. Divergencia: cuando una compañía desarrolla su estrategia de manera reactiva para mantenerse a tono con la competencia, pierde su singularidad.
@@ -2058,10 +2071,12 @@ Así las cosas, cuando la curva de valor de una compañía carece de foco, la es
 - De una forma más detallada:
 
 1. Una compañía atrapada en un océano rojo se da cuando la curva de valor converge con la de sus competidores. La estrategia explícita o implícita de la competencia es tratar de vencer a los competidores sobre la base del coste o la calidad. Esa situación anuncia un crecimiento lento a menos que la compañía, por cosas del destino, pertenezca a una industria que crece por sí misma. Sin embargo, ese crecimiento no es producto de la estrategia de la compañía sino de la suerte.
-2. Ofrecer más sin nada a cambio . La compañía quizá se esté excediendo en lo que ofrece a sus clientes con respecto a los elementos que se traducen en mayor valor para ellos. Para innovar en valor, la compañía debe decidir cuáles variables ha de eliminar o reducir y no sólo cuales incrementar y crear, a fin de construir una curva de valor divergente.
-3. Una estrategia incoherente . Cuando la curva de valor de la compañía tiene altibajos no tiene una estrategia coherente. Es probable que su estrategia se base en estrategias secundarias independientes.
+2. Ofrecer más sin nada a cambio. La compañía quizá se esté excediendo en lo que ofrece a sus clientes con respecto a los elementos que se traducen en mayor valor para ellos. Para innovar en valor, la compañía debe decidir cuáles variables ha de eliminar o reducir y no sólo cuales incrementar y crear, a fin de construir una curva de valor divergente.
+3. Una estrategia incoherente. Cuando la curva de valor de la compañía tiene altibajos no tiene una estrategia coherente. Es probable que su estrategia se base en estrategias secundarias independientes.
 
-#### 5. Terminamos con la estrategia de los océanos azules, con la que Juan Antonio de Miguel denomina la secuencia estratégica correcta.
+#### 4.2.5. Estrategia de los océanos azules y la secuencia estratégica correcta
+
+Terminamos con la estrategia de los océanos azules, con la que Juan Antonio de Miguel denomina la secuencia estratégica correcta.
 
 Esta secuencia tiene los siguientes pasos, todos ellos secuenciales, es decir, cada uno se ve precedido por otro que necesario cumplir:
 
@@ -2070,9 +2085,9 @@ Esta secuencia tiene los siguientes pasos, todos ellos secuenciales, es decir, c
 3. Conocer los costes del producto y/o servicio y si son inferiores al precio de venta.
 4. Hacer un prototipo que recoja estos aspectos y validarlo en el mercado.
 
-### ACTIVIDAD NÚMERO 21. CUADRO ESTRATÉGICO
+#### ACTIVIDAD NÚMERO 21. CUADRO ESTRATÉGICO
 
-- DEFINICIÓN: Tras el cliente, toca abordar a la competencia . Para ello hay que tener en cuenta dos aspectos: el primero, que vamos a descomponer el análisis en varias actividades o dinámicas con el fin de facilitar su ejecución. El segundo, que nos vamos a centrar en mercados ya conocidos, no clonados, ni nuevos, porque las reglas del juego serían diferentes.
+- DEFINICIÓN: Tras el cliente, toca abordar a la competencia. Para ello hay que tener en cuenta dos aspectos: el primero, que vamos a descomponer el análisis en varias actividades o dinámicas con el fin de facilitar su ejecución. El segundo, que nos vamos a centrar en mercados ya conocidos, no clonados, ni nuevos, porque las reglas del juego serían diferentes.
 
 En esta actividad, vamos a representar el cuadro estratégico de la competencia, teniendo en cuenta las consideraciones dadas en el epígrafe de teoría.
 
@@ -2088,7 +2103,7 @@ Ahora bien, de forma previa hay que buscar, investigar, y hasta en ocasiones, ob
 
 - EVALUACIÓN: en esta actividad insistimos en el grado de compromiso, trabajo y coordinación del grupo . La actividad exige trabajo, salidas a la calle y debate, y sobre todo, organización. El grupo ya está funcionando a pleno rendimiento, y esta actividad refleja en gran medida el talante del grupo.
 
-### ACTIVIDAD NÚMERO 22. VÍAS DE EXPLORACIÓN
+#### ACTIVIDAD NÚMERO 22. VÍAS DE EXPLORACIÓN
 
 - DEFINICIÓN: A continuación procedemos al análisis exhaustivo de las diferentes vías de exploración .
 
@@ -2104,7 +2119,7 @@ Un análisis rico en esta cuestión, nos facilitará definir nuestra estrategia 
 
 - EVALUACIÓN en esta actividad podemos comprobar cómo el grupo va consolidando la dinámica de trabajo, la organización y el trabajo en equipo . Esta tarea exige una motivación adicional por la dureza de su realización.
 
-### ACTIVIDAD NÚMERO 23. MATRIZ ERIC
+#### ACTIVIDAD NÚMERO 23. MATRIZ ERIC
 
 - DEFINICIÓN: El paso siguiente consiste en decidir qué es lo que vamos a hacer. Y para ello hay que analizar no sólo lo que hace la competencia, que eliminaremos, incrementaremos o reduciremos con carácter general, sino también las propuestas obtenidas a través de las vías de exploración.
 
@@ -2118,7 +2133,7 @@ El doble análisis debe ser exhaustivo, porque el resultado final debe dar una e
 
 - EVALUACIÓN: en esta actividad podemos comprobar cómo el grupo va consolidando la dinámica de trabajo, la organización y el trabajo en equipo . Esta tarea exige una motivación adicional por la dureza de su realización.
 
-### ACTIVIDAD NÚMERO 24. ESTRATEGIA COMPETITIVA
+#### ACTIVIDAD NÚMERO 24. ESTRATEGIA COMPETITIVA
 
 - DEFINICIÓN: A continuación pasamos a construir de nuevo el cuadro estratégico, pero ahora, además de trazar la curva estratégica de la competencia, pasaremos a trazar también la definida a través de la matriz ERIC.
 
