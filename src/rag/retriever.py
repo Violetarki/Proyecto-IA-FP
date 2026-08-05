@@ -168,6 +168,7 @@ class Retriever:
 
         Args:
             pregunta (str): Texto de la consulta del usuario.
+            metodologia (): 
             k (int): Número de chunks a recuperar
 
         Returns:
