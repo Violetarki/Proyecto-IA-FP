@@ -10,9 +10,8 @@ class KnowledgeNode:
     """
     Representa un apartado del conocimiento.
 
-    Cada nodo corresponde a un encabezado Markdown (#, ##, ### o ####)
-    y mantiene las relaciones jerárquicas con el resto de apartados
-    del manual.
+    Cada nodo corresponde a un encabezado Markdown (#, ##, ###, #### o #####)
+    y mantiene las relaciones jerárquicas con el resto de apartados del manual.
     """
     id: str
 

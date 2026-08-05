@@ -1,3 +1,4 @@
+from src.core.limpiar_encabezados import limpiar_encabezado
 from src.knowledge.models import KnowledgeTree, KnowledgeNode
 from src.core.models import Chunk
 
@@ -76,7 +77,7 @@ def _buscar_hijo(
     """
 
     for hijo in nodo.hijos:
-        if hijo.titulo == titulo:
+        if limpiar_encabezado(hijo.titulo) == limpiar_encabezado(titulo):
             return hijo
 
     return None
