@@ -2192,7 +2192,7 @@ Describe cual es la tarea o actividad que cada segmento de clientes está tratan
 
 ### Paso 2. Comprende esa necesidad
 
-1. Gains : alegrías o beneficios. Como decíamos, al elegir un producto o servicio para realizar una tarea, nos fijaremos en las ventajas e inconvenientes que nos aporta esa solución. Es decir, en las alegrías (gains) o frustraciones (pains) que nos genera. Decidir qué es más conveniente es algo subjetivo y dependerá de cada cliente. Por eso deberás preguntarte para cada segmento de clientes:
+1. Gains: alegrías o beneficios. Como decíamos, al elegir un producto o servicio para realizar una tarea, nos fijaremos en las ventajas e inconvenientes que nos aporta esa solución. Es decir, en las alegrías (gains) o frustraciones (pains) que nos genera. Decidir qué es más conveniente es algo subjetivo y dependerá de cada cliente. Por eso deberás preguntarte para cada segmento de clientes:
    - ¿En qué le gustaría más ahorrar a tu cliente?
    - ¿Cómo están satisfaciendo las soluciones actuales que hay en el mercado la necesidad de tu cliente?
    - ¿Qué le haría la vida más fácil a tu cliente?
@@ -2202,7 +2202,7 @@ Describe cual es la tarea o actividad que cada segmento de clientes está tratan
    - ¿Qué criterios tiene en cuenta cada segmento de clientes a la hora de evaluar el éxito o fracaso de una determinada solución o producto?
    - ¿Qué incrementaría la predisposición de un segmento a adoptar una solución?
 
-2. Pains : frustraciones o dolores. Y ahora pongámonos en el lado contrario, pregúntate qué es lo que a tu cliente le 'duele' cuando realiza una determinada tarea.
+2. Pains: frustraciones o dolores. Y ahora pongámonos en el lado contrario, pregúntate qué es lo que a tu cliente le 'duele' cuando realiza una determinada tarea.
 
 - ¿Qué es lo que hace que una actividad le resulte tediosa y le exige un esfuerzo a tu cliente?
 - ¿Qué es lo que le hace sentir mal al utilizar las soluciones que ya hay en el mercado?
@@ -2214,7 +2214,7 @@ Describe cual es la tarea o actividad que cada segmento de clientes está tratan
 
 ### Paso 3. Encuentra la forma de satisfacer esa necesidad
 
-1. Productos y servicios . Realiza una lista con todos tus productos y servicios y la propuesta de valor que tienes pensada elaborar para cada uno de ellos.
+1. Productos y servicios. Realiza una lista con todos tus productos y servicios y la propuesta de valor que tienes pensada elaborar para cada uno de ellos.
    1. Los productos o servicios pueden ser tanto tangibles, como virtuales, o financieros.
    2. Haz un ranking con todos los productos y servicios en función de su importancia para tus clientes. Pregúntate si lo que tu producto les aporta es algo fundamental para ellos o simple.
 
@@ -2378,6 +2378,8 @@ Por otra parte, otra forma de crear demanda son las actividades de creación de 
 
 De esta forma iniciamos el proceso de captación, pero cuando estemos en funcionamiento, realmente se trata de captar, fidelizar e incrementar el número de clientes.
 
+##### Canal físico para captar clientes
+
 Abordaremos, en primer lugar, cómo captar clientes en un canal físico. Seguimos 4 fases claramente diferenciadas:
 
 1. Generar reconocimiento: hacer saber que existimos. Publicidad gratuita y de pago (anuncios de TV, radio, web, periódicos, email, etc).
@@ -2400,9 +2402,11 @@ Y para terminar tratamos cómo aumentar los clientes que tenemos. No es difícil
 
 Se pueden incluir otras estrategias, pero en realidad depende del sector y la línea del producto.
 
+##### Canal web o móvil para captar clientes
+
 Ahora analizaremos las relaciones con clientes a través de canales web. La parte de captar clientes es bastante simple, al menos a priori. En la web hay que hacer sólo 2 cosas: captar clientes y activarlos.
 
-En cuanto a captar clientes , se refiere a conseguir que visiten nuestra web o descarguen nuestra aplicación. Y se va a hacer a través de medios de comunicación gratuitos y de pago.
+En cuanto a captar clientes, se refiere a conseguir que visiten nuestra web o descarguen nuestra aplicación. Y se va a hacer a través de medios de comunicación gratuitos y de pago.
 
 El siguiente paso, la activación, es más complicado. Queremos que adquieran el producto, que se involucren con nuestro producto.
 
@@ -2436,6 +2440,8 @@ Hay una serie de errores cuando fijamos precios y fuentes de ingresos. A veces p
 1. ¿Qué cantidad están dispuestos a pagar los clientes? Esta cifra es fundamental. Y hay que contrastarla en el mercado.
 2. ¿Cómo y cuánto pagan los productos hoy en día? Así veremos las opciones de ingresos en el nivel más alto posible.
 
+##### Distintas estrategias de ingresos
+
 - Vamos a ver las distintas estrategias de ingresos:
 
 1. Venta del activo . El más conocido: coches.
@@ -2446,13 +2452,15 @@ Hay una serie de errores cuando fijamos precios y fuentes de ingresos. A veces p
 6. Intermediación : pagar por reunir a dos partes en una intermediación.
 7. Publicidad . Google, Facebook, etc.
 
+##### Cómo fijar precios
+
 En resumen, las fuentes de ingresos son posibles formas de cobrar, pero no del precio en sí, de cuánto cobrar. Ahora hablaremos de cómo fijar precios:
 
-1. Precios fijos . Son fijos, no hay regateo. A la hora de fijarlo hay 3 posibilidades:
+1. Precios fijos. Son fijos, no hay regateo. A la hora de fijarlo hay 3 posibilidades:
    1. Se parte del valor de coste y se agrega el margen de beneficio fijo: coste + margen = precio mínimo de mercado.
    2. Pero sabemos lo que valoran los clientes, por lo que se puede fijar en función de las funcionalidades que necesitan los clientes.
    3. También se puede fijar el precio por volumen. Cuanto mayor es el volumen de compra, mayor será el descuento, y se escalona el precio.
-1. Precios dinámicos . Precios que cambian. Son precios que:
+1. Precios dinámicos. Precios que cambian. Son precios que:
    1. Se negocian
    2. Gestión del rendimiento, por ejemplo, los precios de las aerolíneas.
    3. Mercados en tiempo real: subastas, o bolsa.
@@ -2469,7 +2477,7 @@ En materia de actividades clave, se trata de conocer las acciones más important
 
 Y a partir de ahí, es preciso saber qué actividades clave hay que dominar.
 
-Seguimos con los recursos clave . Estamos hablando de los activos más importantes para que nuestro modelo de negocio se haga realidad, y que funcione:
+Seguimos con los recursos clave. Estamos hablando de los activos más importantes para que nuestro modelo de negocio se haga realidad, y que funcione:
 
 1. El dinero, las finanzas: ahorros, crédito.
 2. Recursos físicos: línea de producción, maquinaria, vehículos, etc.
@@ -2478,11 +2486,15 @@ Seguimos con los recursos clave . Estamos hablando de los activos más important
 
 Hay que pensar en lo que necesitamos, pero de manera estratégica: donde localizar el negocio, qué nacionalidad contrataremos con recursos humanos, etc. En definitiva hablamos de 4 recursos clave: físicos, económicos, humanos e intelectuales. Abordemos cada uno de ellos.
 
+##### Recursos físicos
+
 Los recursos físicos hacen referencia a las instalaciones de la empresa:
 
 1. ¿Cuál es el mejor lugar para ubicar la sede de la empresa?
 2. ¿De dónde se van a conseguir los productos y servicios?
 3. En un canal físico, los bienes requieren capital intensivo.
+
+##### Recursos económicos
 
 Los recursos económicos se refieren a qué vamos a hacer para poner en marcha nuestra startup:
 
@@ -2493,10 +2505,14 @@ Los recursos económicos se refieren a qué vamos a hacer para poner en marcha n
 2. Si pensamos además en crecer, conseguir, conservar y aumentar clientes: otras necesidades de capital que precisemos más adelante: compañías de capital riesgo (regulación) o socios empresariales.
 3. Una vez que la empresa está operativa, hay otras posibilidades: préstamo, crédito, leasing, renting, factoring, pago aplazado, etc.
 
+##### Recursos humanos
+
 Los recursos humanos se pueden clasificar en:
 
 1. Empleados cualificados. Constituyen la diferencia entre una buena idea y una buena empresa.
 2. Los mentores, profesores, instructores y asesores ayudan a avanzar en la estrategia profesional.
+
+##### Propiedad intelectual
 
 Por último, hablaremos de la propiedad intelectual. Generalmente son 5:
 
@@ -2545,7 +2561,7 @@ Antes, los inversores nos pedían cuentas: contabilidad y estados contables. Per
 
 - DEFINICIÓN : Conseguido el encaje entre segmentos de clientes y propuesta de valor sobre el papel, pasamos a definir el resto de aspectos que configuran el modelo de negocio.
 
-Para ello, es recomendable seguir este orden : segmentos de clientes, propuesta de valor, canales de distribución, relaciones con clientes, fuentes de ingresos, actividades clave, recursos clave, asociaciones clave y estructura de costes.
+Para ello, es recomendable seguir este orden: segmentos de clientes, propuesta de valor, canales de distribución, relaciones con clientes, fuentes de ingresos, actividades clave, recursos clave, asociaciones clave y estructura de costes.
 
 De forma opcional podría comenzarse por la propuesta de valor, pero en general es preferible hacerlo por el segmento de clientes.
 
@@ -2565,7 +2581,7 @@ Si tenemos claro nuestro modelo de negocio, se hace preciso sintetizarlo en un p
 
 El PMV es un experimento que permite recopilar, con el menor esfuerzo posible, la máxima cantidad de conocimiento validado de nuestros clientes potenciales. Se trata de hacer un prototipo lo antes posible y enseñárselo a los clientes lo antes posible para aprender. Se trata de hacerlo muy rápido, con pocos recursos, y así enseñarle al cliente muchas versiones del prototipo para aprender. El objetivo es validar las funcionalidades básicas con nuestro cliente.
 
-Podemos establecer una serie de principios sobre prototipado, y lo haremos siguiendo lo que recoge en esta materia Néstor Guerra :
+Podemos establecer una serie de principios sobre prototipado, y lo haremos siguiendo lo que recoge en esta materia Néstor Guerra:
 
 1. Entiende a tu cliente
 2. Planifica un poco, el resto prototipa
@@ -2689,7 +2705,7 @@ Una vez que hemos cumplimentado el lienzo de modelos de negocio, tenemos las hip
 
 Para ello, daremos los siguientes pasos:
 
-1. Hipótesis y supuestos. Se trata de pasar de nuestras hipótesis iniciales a hechos .
+1. Hipótesis y supuestos. Se trata de pasar de nuestras hipótesis iniciales a hechos.
 2. Proceso de desarrollo de clientes. Se trata de adquirir conocimiento, a través de cuatro etapas : descubrimiento de clientes, validación de clientes , creación de clientes y creación de empresa.
 3. Desarrollo de clientes, hecho por fundadores. Trabajo obligado de los promotores o fundadores de un negocio. Y ello porque sólo el fundador puede cambiar las funcionalidades del producto o servicio, pivotar y escuchar de primera mano a los clientes.
 4. Testeando hipótesis. Se trata de salir a la calle y hablar con los clientes. Pero buscamos no sólo datos, sino conocimiento . Y así, ir actualizando el lienzo de modelo de negocios.
@@ -2698,7 +2714,7 @@ Para ello, daremos los siguientes pasos:
 7. Descubriendo los clientes. Hay que salir a la calle, y se pone a prueba nuestra interpretación del cliente. Hay cuatro pasos fundamentales: exponer hipótesis, poner a prueba el problema o solución, y pivotar.
 8. Validación de los clientes. Asumimos que creemos haber adaptado un producto al mercado, pero todavía no hay pruebas suficientes. Ahora se vuelve a intentar, pero en la práctica. Esta vez se intenta obtener pedidos, o clientes, o ambos. Hay que prepararse para vender, y así generar un Producto Mínimo Viable muy fiable . Después, se sale de la oficina a vender. Al mismo tiempo hay que posicionarse . A continuación se va validar y veremos si podemos escalar las ventas.
 9. Análisis de oportunidad de mercado. Se refiere al análisis del mercado y oportunidades que éste ofrece.
-10. Mercado total disponible. Es muy importante conocer el denominado mercado total disponible. Y no sólo eso, sino que hay que comprender todo el mercado total y la parte de podríamos tener. Esto se puede hacer tanto en euros como en clientes. Después, deberíamos conocer el mercado servido disponible . Así llegaremos al mercado objetivo . Ver resumen.
+10. Mercado total disponible. Es muy importante conocer el denominado mercado total disponible. Y no sólo eso, sino que hay que comprender todo el mercado total y la parte de podríamos tener. Esto se puede hacer tanto en euros como en clientes. Después, deberíamos conocer el mercado servido disponible . Así llegaremos al mercado objetivo. Ver resumen.
 
 Para terminar esta apartado, tenemos un magnífico ejemplo que ilustra todo lo mencionado anteriormente.
 
@@ -2778,7 +2794,7 @@ En el caso de tratarse de una entrevista de solución se proponen las siguientes
 - Prototipo: enseña tu prototipo aunque sea en papel y pregunta cómo podría este prototipo ayudar a solucionar el problema
 - Compromiso. Al igual que en el otro tipo de entrevistas, pide los datos y permiso para volver a llamar al entrevistado en el futuro.
 
-### ACTIVIDAD NÚMERO 28. ENTREVISTA CLIENTE-PROBLEMA-SOLUCIÓN
+#### ACTIVIDAD NÚMERO 28. ENTREVISTA CLIENTE-PROBLEMA-SOLUCIÓN
 
 - DEFINICIÓN: Esta dinámica trata de validar las hipótesis clave establecidas para nuestro segmentos de clientes.
 
@@ -2920,15 +2936,15 @@ Una vez tienes tu elevator pitch preparado, toca llevarlo a la práctica; aquí 
 
 ### ACTIVIDAD NÚMERO 30. FORO DE INVERSIÓN CREATIVO
 
-- DEFINICIÓN Con esta dinámica damos por terminado el curso de emprendimiento. Se trata de simular un foro de inversión , donde cada grupo de alumnos debe exponer su proyecto para conseguir financiación, y en educación, para conseguir el mejor momento, la mejor situación, la mejor representación y mayor impacto entre el público, el exigente público de nuestro centro. Para ello, y como hemos venido trabajando durante todo el curso, la creatividad es clave. De ahí que le denominemos Foro de Inversión Creativo.
+- DEFINICIÓN Con esta dinámica damos por terminado el curso de emprendimiento. Se trata de simular un foro de inversión , donde cada grupo de alumnos debe exponer su proyecto para conseguir financiación, y en educación, para consguir el mejor momento, la mejor situación, la mejor representación y mayor impacto entre el público, el exigente público de nuestro centro. Para ello, y como hemos venido trabajando durante todo el curso, la creatividad es clave. De ahí que le denominemos Foro de Inversión Creativo.
 
-- META: El objetivo de esta actividad es transmitir las ideas clave del proyecto realizado y hacerlo de forma espectacular , de manera autónoma y totalmente solos en función de los aprendido durante el curso.
+- META: El objetivo de esta actividad es transmitir las ideas clave del proyecto realizado y hacerlo de forma espectacular, de manera autónoma y totalmente solos en función de los aprendido durante el curso.
 
-- ESPACIO: Esta actividad se desarrolla en el centro . Sería deseable contar con un buen auditorio e invitar a otras enseñanzas del centro. Así, además de recrear un verdadero foro de inversión en cuanto al público y se da publicidad del trabajo realizado en el aula.
+- ESPACIO: Esta actividad se desarrolla en el centro. Sería deseable contar con un buen auditorio e invitar a otras enseñanzas del centro. Así, además de recrear un verdadero foro de inversión en cuanto al público y se da publicidad del trabajo realizado en el aula.
 
-- RECURSOS: para trabajar esta actividad cada grupo de alumnos decidirá qué necesita, y deberá proveerlo. Después es nuestra misión proporcionar buenos recursos para la exposición, sonido , iluminación , espacios , etc.
+- RECURSOS: para trabajar esta actividad cada grupo de alumnos decidirá qué necesita, y deberá proveerlo. Después es nuestra misión proporcionar buenos recursos para la exposición, sonido, iluminación, espacios, etc.
 
-- EVALUACIÓN: en esta actividad comprobaremos los aspectos clave del proyecto: habilidades emprendedoras como creatividad, comunicación, trabajo en equipo, confianza, y aspectos técnicos propios de emprendimiento , como problema, solución, prototipos, aprendizaje validado, etc.
+- EVALUACIÓN: en esta actividad comprobaremos los aspectos clave del proyecto: habilidades emprendedoras como creatividad, comunicación, trabajo en equipo, confianza, y aspectos técnicos propios de emprendimiento, como problema, solución, prototipos, aprendizaje validado, etc.
 
 ## 4. APLICACIONES DE ESCRITORIO
 
@@ -3099,6 +3115,7 @@ Durante la 2ª evaluación, se trabajarán los siguientes contenidos:
     - Análisis económico-financiero de proyectos de empresa.
     - Plan de viabilidad.
     - El dossier del proyecto: elaboración y selección del destinatario
+
 11. UUTT Nº 11: Simulador empresarial
     - Uso de un simulador empresarial para la puesta en práctica de decisiones
 
@@ -3260,7 +3277,7 @@ Realiza la gestión de la empresa-proyecto en sus diversos departamentos
 | 50% | i) Se ha realizado cada tarea con rigurosidad y corrección para obtener un resultado global satisfactorio. | Todas |
 | 50% | j) Se ha materializado en un dossier el proyecto empresarial y se ha expuesto en público.                  | 30    |
 
-## 4.2. INSTRUMENTOS DE EVALUACIÓN
+### 4.2. INSTRUMENTOS DE EVALUACIÓN
 
 Para la recogida de información de cada uno de los criterios de evaluación utilizaremos varios instrumentos de evaluación . En el anexo a esta programación se detalla el instrumento o los instrumentos de evaluación que usaremos para recoger la información de cada criterio de evaluación. Los instrumentos que vamos a utilizar de forma concreta son:
 
@@ -3280,11 +3297,11 @@ Para la recogida de información de cada uno de los criterios de evaluación uti
   - Empleo de terminología y vocabulario adecuados
   - Localización de la normativa vigente
 
-## 4.3. CRITERIOS DE CALIFICACIÓN
+### 4.3. CRITERIOS DE CALIFICACIÓN
 
 Como sabemos, el referente de la evaluación son los resultados de aprendizaje. Por ello, establecemos la valoración de cada uno de ellos de la siguiente forma:
 
-### Tabla 8: RESULTADOS DE APRENDIZAJE
+#### Tabla 8: RESULTADOS DE APRENDIZAJE
 
 RESULTADOS DE APRENDIZAJE - PESO
 
@@ -3302,7 +3319,7 @@ RESULTADOS DE APRENDIZAJE - PESO
 
 Para trabajar los 6 resultados de aprendizaje utilizaremos los contenidos establecidos en 11 unidades de trabajo. A continuación establecemos en qué medida las unidades de trabajo contribuyen a cada resultado de aprendizaje , y así podremos obtener los criterios de calificación aplicados a cada evaluación:
 
-### Tabla 9: Criterios de calificación aplicados a cada evaluación
+#### Tabla 9: Criterios de calificación aplicados a cada evaluación
 
 | Nº  | UNIDAD DE TRABAJO    | RA1 | RA2 | RA3 | RA4 | RA5 | RA6 | PESO UT | PESO EVA. |
 | --- | -------------------- | --- | --- | --- | --- | --- | --- | ------- | --------- |
@@ -3321,7 +3338,7 @@ Para trabajar los 6 resultados de aprendizaje utilizaremos los contenidos establ
 
 Una vez realizado el cuadro anterior, conocemos en qué medida se valorarán cada uno de los resultados de aprendizaje a final de curso. A continuación, planteamos los criterios de calificación de cada resultado de aprendizaje por evaluaciones:
 
-### Tabla 10: Criterios de calificación de cada resultado de aprendizaje por evaluaciones
+#### Tabla 10: Criterios de calificación de cada resultado de aprendizaje por evaluaciones
 
 | RA    | 1ª evaluación | 2ª Evaluación (evaluación ordinaria) |
 | ----- | ------------- | ------------------------------------ |
@@ -3333,7 +3350,7 @@ Una vez realizado el cuadro anterior, conocemos en qué medida se valorarán cad
 | RA6   | 24%           | 33%                                  |
 | TOTAL | 100%          | 100%                                 |
 
-## 4.4. PROCEDIMIENTO DE EVALUACIÓN Y CRITERIOS DE RECUPERACIÓN
+### 4.4. PROCEDIMIENTO DE EVALUACIÓN Y CRITERIOS DE RECUPERACIÓN
 
 Con los elementos anteriores ya definidos, estamos en condiciones de establecer el procedimiento de evaluación:
 
@@ -3349,7 +3366,7 @@ Con los elementos anteriores ya definidos, estamos en condiciones de establecer 
   - En junio, se valorará de nuevo la evolución del alumno, teniendo en cuenta las calificaciones obtenidas durante el curso, y a lo largo de la 3ª evaluación (evaluación de finales de junio). Estamos hablando de la evaluación extraordinaria.
   - El alumno que no haya conseguido obtener un mínimo de un 5 en la calificación global del módulo profesional, repetirá las enseñanzas de forma completa.
 
-## 4.5. EVALUACIÓN DEL PROCESO DE ENSEÑANZA-APRENDIZAJE
+### 4.5. EVALUACIÓN DEL PROCESO DE ENSEÑANZA-APRENDIZAJE
 
 Para completar el tema de la evaluación, haremos referencia a la evaluación del proceso de enseñanza. Para ello, al finalizar cada evaluación se procederá a realizar un cuestionario online al alumnado, donde valore los distintos aspectos didácticos y pedagógicos del curso. El cuestionario versará sobre:
 
