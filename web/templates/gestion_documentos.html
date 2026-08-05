@@ -21,6 +21,10 @@
 
         <h1>Gestión de documentos</h1>
 
+        <a class="boton boton-principal enlace-boton" href="{{ url_for('auth.logout') }}">
+            Cerrar sesión
+        </a>
+
         <p class="introduccion">
             Selecciona una metodología para gestionar sus documentos PDF.
         </p>
@@ -59,7 +63,7 @@
                             {% endif %}
                         "
                         href="{{ url_for(
-                            'gestionar_documentos',
+                            'profesor.gestionar_documentos',
                             metodologia=metodologia
                         ) }}"
                     >
@@ -105,7 +109,7 @@
 
                     <form
                         class="formulario-subida"
-                        action="{{ url_for('subir_documento') }}"
+                        action="{{ url_for('profesor.subir_documento') }}"
                         method="POST"
                         enctype="multipart/form-data"
                     >
@@ -160,7 +164,7 @@
 
                                     <form
                                         action="{{ url_for(
-                                            'eliminar_documento'
+                                            'profesor.eliminar_documento'
                                         ) }}"
                                         method="POST"
                                         onsubmit="
@@ -219,7 +223,7 @@
 
                     <form
                         action="{{ url_for(
-                            'reconstruir_base_vectorial'
+                            'profesor.reconstruir_base_vectorial'
                         ) }}"
                         method="POST"
                     >
