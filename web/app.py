@@ -25,11 +25,10 @@ from flask import (
 from werkzeug.utils import secure_filename
 
 from src.ingestion.indexador import indexar_documentos
-from src.rag.rag_pipeline import RAG
-
+from web.routes.chatbot import chatbot_bp
 
 app = Flask(__name__)
-rag = RAG()
+app.register_blueprint(chatbot_bp)
 
 
 # La clave secreta permite que Flask gestione las sesiones.
@@ -214,98 +213,6 @@ def inicio():
     return render_template(
         "inicio.html"
     )
-
-
-@app.route(
-    "/chat",
-    methods=["GET", "POST"],
-)
-def chat():
-    """
-    Muestra la interfaz pública del chatbot y procesa
-    las preguntas realizadas por el alumnado.
-
-    El alumno puede elegir la metodología sobre la que
-    desea realizar la consulta. Además, se recupera el
-    historial completo para mostrar toda la conversación.
-    """
-
-    metodologias = obtener_metodologias()
-
-    metodologia_seleccionada = (
-        request.form.get(
-            "metodologia",
-            "lean_startup",
-        )
-    )
-
-    if (
-        metodologia_seleccionada
-        not in metodologias
-    ):
-        metodologia_seleccionada = (
-            metodologias[0]
-            if metodologias
-            else ""
-        )
-
-    if request.method == "POST":
-        pregunta = request.form.get(
-            "pregunta",
-            "",
-        ).strip()
-
-        if not pregunta:
-            flash(
-                "Debes escribir una pregunta.",
-                "error",
-            )
-
-        elif not metodologia_seleccionada:
-            flash(
-                (
-                    "Debes seleccionar una "
-                    "metodología válida."
-                ),
-                "error",
-            )
-
-        else:
-            try:
-                rag.responder(
-                    pregunta=pregunta,
-                    metodologia=(
-                        metodologia_seleccionada
-                    ),
-                )
-
-            except Exception as error:
-                flash(
-                    (
-                        "No se ha podido generar "
-                        f"la respuesta: {error}"
-                    ),
-                    "error",
-                )
-
-    conversacion = (
-        rag.historial.obtener_historial(
-            rag.id_conversacion
-        )
-    )
-
-    return render_template(
-        "chatbot.html",
-        conversacion=conversacion,
-        metodologias=metodologias,
-        metodologia_seleccionada=(
-            metodologia_seleccionada
-        ),
-        mostrar_nombre_metodologia=(
-            mostrar_nombre_metodologia
-        ),
-    )
-
 
 @app.route(
     "/login",
