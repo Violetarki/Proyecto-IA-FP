@@ -62,6 +62,7 @@ class Chunk:
     subtitulo: str | None = None
     seccion: str | None = None
     subseccion: str | None = None
+    apartado: str | None = None
 
     def jerarquia(self) -> list[str]:
         """
@@ -78,6 +79,7 @@ class Chunk:
                 self.subtitulo,
                 self.seccion,
                 self.subseccion,
+                self.apartado,
             ]
             if parte
         ]

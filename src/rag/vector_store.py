@@ -56,6 +56,7 @@ class VectorStore:
             metadata={"hnsw:space": "cosine"},
         )
 
+
     def _crear_id(
     self,
     chunk: Chunk,
@@ -65,6 +66,7 @@ class VectorStore:
         """
 
         return f"{chunk.documento.ruta}:{chunk.indice}"
+
 
     def _preparar_registro(
         self,
@@ -112,6 +114,7 @@ class VectorStore:
             metadata,
         )
 
+
     def _chunk_desde_resultado(
         self,
         texto: str,
@@ -144,6 +147,7 @@ class VectorStore:
             seccion=metadata.get("seccion"),
             subseccion=metadata.get("subseccion"),
         )
+
 
     def indexar_chunks(
         self,
@@ -199,6 +203,7 @@ class VectorStore:
             metadatas=metadatos,
         )
 
+
     def _filtrar_chunks(
         self,
         documentos,
@@ -246,6 +251,7 @@ class VectorStore:
         ]
 
         return aceptables[:MAXIMO_CHUNKS]
+
 
     def buscar(
         self,
@@ -312,6 +318,7 @@ class VectorStore:
             distancias,
         )
 
+
     def eliminar_documento(
         self,
         documento: Documento,
@@ -331,6 +338,7 @@ class VectorStore:
                 ]
             }
         )
+
 
     def vaciar(self) -> None:
         """

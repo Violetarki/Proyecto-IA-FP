@@ -42,6 +42,7 @@ class RAG:
         self.historial = Historial()
         self.id_conversacion = str(uuid.uuid4())
 
+
     def responder(
         self,
         pregunta: str,

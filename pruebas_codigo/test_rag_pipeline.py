@@ -1,4 +1,4 @@
-"""Test para probar el pipeline RAG con Ollama"""
+"""Test para probar el pipeline RAG con LLM y la metodología Lean Startup."""
 
 from src.rag.rag_pipeline import RAG
 

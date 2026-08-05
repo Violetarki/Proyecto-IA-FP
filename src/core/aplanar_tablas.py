@@ -16,8 +16,10 @@ UMBRAL_CELDAS_VACIAS = 0.15
 
 logger = logging.getLogger(__name__)
 
+
 def _es_fila_separadora(fila: str) -> bool:
     """Detecta filas del tipo | --- | --- | usadas para separar cabecera y cuerpo."""
+    
     contenido = fila.strip().strip("|")
     celdas = [c.strip() for c in contenido.split("|")]
     return all(re.fullmatch(r":?-{2,}:?", c) for c in celdas if c != "")
@@ -25,6 +27,7 @@ def _es_fila_separadora(fila: str) -> bool:
 
 def _parsear_fila(fila: str) -> list[str]:
     """Convierte una fila '| a | b | c |' en ['a', 'b', 'c']."""
+    
     contenido = fila.strip().strip("|")
     return [celda.strip() for celda in contenido.split("|")]
 
