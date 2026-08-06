@@ -12,8 +12,8 @@ CARPETA_HISTORIAL = CARPETA_DATA / "historial_conversaciones"
 CARPETA_KNOWLEDGE = CARPETA_DATA / "knowledge"
 
 MANUALES_CON_KNOWLEDGE = {
-    CARPETA_DOCUMENTOS / "lean_startup" / "lean_startup.pdf",
-    CARPETA_DOCUMENTOS / "simulacion_empresarial" / "simulacion_empresarial.pdf",
+    "lean_startup",
+    "simulacion_empresarial",
 }
 
 # Constantes RAG

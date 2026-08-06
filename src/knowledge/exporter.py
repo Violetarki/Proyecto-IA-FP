@@ -14,8 +14,10 @@ def _nodo_a_dict(nodo: KnowledgeNode) -> dict:
     """
 
     return {
+        "id": nodo.id,
         "titulo": nodo.titulo,
         "nivel": nodo.nivel,
+        "chunk_ids": nodo.chunk_ids,
         "hijos": [_nodo_a_dict(hijo) for hijo in nodo.hijos],
     }
 
