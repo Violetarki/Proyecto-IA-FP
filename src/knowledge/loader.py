@@ -6,7 +6,7 @@ from src.knowledge.models import KnowledgeTree, KnowledgeNode
 from src.core.models import Metodologia
 
 
-def cargar_arbol(ruta: str | Path) -> KnowledgeTree:
+def cargar_arbol(ruta:  Path) -> KnowledgeTree:
     """
     Carga un KnowledgeTree desde un fichero JSON.
     """
@@ -24,7 +24,7 @@ def cargar_arbol(ruta: str | Path) -> KnowledgeTree:
     )
 
 
-def _dict_a_nodo(datos: dict) -> KnowledgeNode:
+def _dict_a_nodo(datos: dict[str, object]) -> KnowledgeNode:
     """
     Convierte recursivamente un diccionario JSON
     en un KnowledgeNode.
@@ -46,3 +46,37 @@ def _dict_a_nodo(datos: dict) -> KnowledgeNode:
         hijo.padre = nodo
 
     return nodo
+
+
+def main() -> None:
+    ruta = Path("prueba_arbol.json")
+
+    datos = {
+        "metodologia": "Metodologia_ejemplo",
+        "raiz": {
+            "id": "root",
+            "titulo": "Raíz",
+            "nivel": 0,
+            "chunk_ids": [],
+            "hijos": [
+                {
+                    "id": "hijo-1",
+                    "titulo": "Hijo 1",
+                    "nivel": 1,
+                    "chunk_ids": [],
+                    "hijos": []
+                }
+            ]
+        }
+    }
+
+    ruta.write_text(json.dumps(datos, ensure_ascii=False, indent=2), encoding="utf-8")
+
+    arbol = cargar_arbol(ruta)
+    assert arbol.raiz.hijos[0].padre is arbol.raiz
+
+    print("Prueba OK")
+
+
+if __name__ == "__main__":
+    main()
