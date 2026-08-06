@@ -86,7 +86,7 @@ class Retriever:
         """
         Cuenta cuántas palabras clave de la pregunta aparecen en el chunk.
         """
-        texto = (" ".join(chunk.jerarquia()) + " " + chunk.texto).lower()
+        texto = (" ".join(chunk.jerarquia_limpia()) + " " + chunk.texto).lower()
 
         return sum(
             bool(
