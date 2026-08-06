@@ -38,5 +38,6 @@ data/historial_conversaciones.json
 data/markdown_raw/lean_startup/manual.md
 iniciar_tunel.bat
 
+# Ignorar todo el contenido de la carpeta knowledge excepto el archivo que mantiene la carpeta
 data/knowledge/*
 !data/knowledge/.gitkeep
