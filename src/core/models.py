@@ -64,26 +64,37 @@ class Chunk:
     seccion: str | None = None
     subseccion: str | None = None
     apartado: str | None = None
-
-    def jerarquia(self) -> list[str]:
+    
+    def jerarquia_original(self) -> list[str]:
         """
-        Devuelve los niveles de contexto disponibles
-        (titulo, subtitulo, seccion, subseccion),
-        eliminando la numeración estructural de los encabezados.
+        Devuelve la ruta jerárquica original del chunk,
+        conservando exactamente los encabezados del documento.
         """
 
         return [
-            limpiar_encabezado(parte)
-            
-            for parte in [
+            parte
+            for parte in (
                 self.titulo,
                 self.subtitulo,
                 self.seccion,
                 self.subseccion,
                 self.apartado,
-            ]
+            )
             if parte
         ]
+
+
+    def jerarquia_limpia(self) -> list[str]:
+        """
+        Devuelve la ruta jerárquica limpia del chunk,
+        eliminando la numeración estructural de los encabezados.
+        """
+
+        return [
+            limpiar_encabezado(parte)
+            for parte in self.jerarquia_original()
+        ]
+        
 
     def texto_plano(self) -> str:
         """Devuelve el texto del chunk con las tablas convertidas a texto natural."""
@@ -94,7 +105,7 @@ class Chunk:
         """Devuelve una representación optimizada del chunk para generar embeddings."""
 
         texto_plano = self.texto_plano()
-        return "\n".join(self.jerarquia() + [texto_plano]).lower()
+        return "\n".join(self.jerarquia_limpia() + [texto_plano]).lower()
 
 
 @dataclass
