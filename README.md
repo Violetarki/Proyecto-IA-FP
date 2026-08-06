@@ -141,26 +141,6 @@ pip install -r requirements.txt
 
 ---
 
-# Instalación de Ollama
-
-Instalar Ollama desde:
-
-https://ollama.com
-
-Descargar el modelo:
-
-```bash
-ollama pull gemma3:4b
-```
-
-Comprobar que funciona:
-
-```bash
-ollama run gemma3:4b
-```
-
----
-
 # Funcionamiento interno
 
 El sistema sigue una arquitectura RAG (Retrieval-Augmented Generation):
