@@ -13,19 +13,35 @@ Docling (si es necesario)
 Markdown limpio (si es necesario)
 ↓
 Documento
-↓
-Chunk
-↓
-Embeddings
-↓
-Base vectorial
+    ↓
+parsear_markdown
+    ↓
+MarkdownNode
+    ├──► crear_arbol
+    └──► crear_chunks_documento
+             ↓
+          enlazar
+             ↓
+        guardar_json
+             ↓
+      añadir chunks a la lista
+            Chunk
+                ↓
+            Embeddings
+                ↓
+        Base vectorial
 """
 
 import logging
 from pathlib import Path
+
 from src.ingestion.docling_converter import convertir_pdf_a_markdown
 from src.ingestion.text_cleaner import limpiar_archivo_markdown
 from src.ingestion.document_loader import cargar_documentos
+from src.ingestion.markdown_parser import parsear_markdown
+from src.knowledge.builder import crear_arbol
+from src.knowledge.linker import enlazar
+from src.knowledge.exporter import guardar_json
 from src.ingestion.chunker import crear_chunks_documentos
 from src.rag.embeddings import crear_embeddings_chunks
 from src.rag.vector_store import VectorStore
@@ -34,6 +50,7 @@ from src.core.config import (
     CARPETA_DOCUMENTOS,
     CARPETA_MARKDOWN_RAW,
     CARPETA_MARKDOWN_CLEAN,
+    CARPETA_KNOWLEDGE,
 )
 
 logger = logging.getLogger(__name__)
