@@ -1,4 +1,3 @@
-from src.core.limpiar_encabezados import limpiar_encabezado
 from src.knowledge.models import KnowledgeTree, KnowledgeNode
 from src.core.models import Chunk
 
@@ -21,47 +20,23 @@ def enlazar(arbol: KnowledgeTree, chunks: list[Chunk]) -> None:
         _enlazar_chunk_nodo(chunk, nodo)
 
 
-def _obtener_ruta(chunk: Chunk) -> list[str]:
-    """
-    Obtiene la ruta jerárquica asociada a un chunk.
-
-    La ruta está formada por los encabezados del documento, desde el
-    título principal hasta el nivel más específico al que pertenezca
-    el chunk, omitiendo los niveles inexistentes.
-
-    Args:
-        chunk: Chunk del que se desea obtener la ruta.
-
-    Returns:
-        Lista con la ruta jerárquica del chunk.
-    """
-
-    return [
-        nivel
-        for nivel in (
-            chunk.titulo,
-            chunk.subtitulo,
-            chunk.seccion,
-            chunk.subseccion,
-            chunk.apartado,
-        )
-        if nivel is not None
-    ]
-
-
 def _buscar_nodo(
     arbol: KnowledgeTree,
     chunk: Chunk,
 ) -> KnowledgeNode:
+    """
+    Recorre el árbol siguiendo la ruta jerárquica del chunk
+    hasta localizar el nodo correspondiente.
+    """
 
     nodo = arbol.raiz
 
-    for nombre in _obtener_ruta(chunk):
-        nodo = _buscar_hijo(nodo, nombre)
+    for titulo in chunk.jerarquia_original():
+        nodo = _buscar_hijo(nodo, titulo)
 
         if nodo is None:
             raise ValueError(
-                f"No se encontró el nodo '{nombre}' "
+                f"No se encontró el nodo '{titulo}' "
                 f"para el chunk {chunk.indice}"
             )
 
@@ -76,8 +51,9 @@ def _buscar_hijo(
     Devuelve el hijo cuyo título coincide con el indicado.
     """
 
+
     for hijo in nodo.hijos:
-        if limpiar_encabezado(hijo.titulo) == limpiar_encabezado(titulo):
+        if hijo.titulo == titulo:
             return hijo
 
     return None
@@ -99,4 +75,5 @@ def _enlazar_chunk_nodo(
     """
 
     chunk.node_id = nodo.id
-    nodo.chunk_ids.append(chunk.indice)
+    if chunk.indice not in nodo.chunk_ids:
+        nodo.chunk_ids.append(chunk.indice)
