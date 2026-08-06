@@ -1,0 +1,36 @@
+import unittest
+
+class TestLinker(unittest.TestCase):
+
+    def setUp(self):
+        ...
+
+    def test_buscar_hijo_existente(self):
+        ...
+
+    def test_buscar_hijo_inexistente(self):
+        ...
+
+    def test_buscar_nodo_primer_nivel(self):
+        ...
+
+    def test_buscar_nodo_varios_niveles(self):
+        ...
+
+    def test_buscar_nodo_inexistente(self):
+        ...
+
+    def test_enlazar_chunk_nodo(self):
+        ...
+
+    def test_enlazar_chunk_nodo_no_duplica_indice(self):
+        ...
+
+    def test_enlazar(self):
+        ...
+
+    def test_enlazar_varios_chunks(self):
+        ...
+
+    def test_enlazar_nodo_inexistente(self):
+        ...
