@@ -25,36 +25,66 @@ Actualmente utiliza ChromaDB como base de datos vectorial y Ollama para la ejecu
 
 ```
 PDF
- │
- ▼
+│
+▼
 Docling
- │
- ▼
-Markdown
- │
- ▼
-Limpieza
- │
- ▼
-Chunker
- │
- ▼
-Embeddings
- │
- ▼
-ChromaDB
- │
- ▼
-Retriever
- │
- ▼
-Prompt Builder
- │
- ▼
-LLM
- │
- ▼
-Respuesta
+│
+▼
+Markdown (.md)
+│
+▼
+TextCleaner
+│
+▼
+Markdown limpio (.md)
+│
+▼
+DocumentLoader
+│
+▼
+Documento
+     │
+     ▼
+parsear_markdown()
+     │
+     ▼
+MarkdownNode
+     │
+     ├───────────────┐
+     ▼               ▼
+KnowledgeBuilder   Chunker
+     │               │
+     ▼               ▼
+KnowledgeTree     Chunks
+     │               │
+     └───────┬───────┘
+             ▼
+          Linker
+             │
+             ├── Chunk.node_id
+             └── KnowledgeNode.chunk_ids
+             │
+             ▼
+         Indexador
+             │
+     ┌───────┴────────┐
+     ▼                ▼
+ Knowledge JSON   Embeddings
+                     │
+                     ▼
+                     ChromaDB
+                     │
+                     ▼
+                     Retriever
+                     │
+                     ▼
+                     Prompt Builder
+                     │
+                     ▼
+                     LLM
+                     │
+                     ▼
+                     Respuesta
 ```
 
 ---
