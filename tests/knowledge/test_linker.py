@@ -4,11 +4,17 @@ from src.knowledge import linker
 from src.knowledge.models import KnowledgeNode, KnowledgeTree
 from src.core.models import Metodologia, Chunk, Documento
 
+"""Pruebas del módulo linker para verificar la vinculación de chunks
+con nodos de un árbol de conocimiento.
+"""
+
 class TestLinker(unittest.TestCase):
 
     def setUp(self):
-
-
+        """
+        Inicializa un árbol de conocimiento sencillo con una raíz,
+        un título y dos secciones, y define un documento de prueba.
+        """
         self.raiz = KnowledgeNode(
             id="0",
             titulo=None,
@@ -47,7 +53,7 @@ class TestLinker(unittest.TestCase):
         self.titulo.hijos.extend([self.seccion1, self.seccion2])
 
         self.arbol = KnowledgeTree(
-            metodologia=Metodologia(nombre="test"),  
+            metodologia=Metodologia(nombre="test"),
             raiz=self.raiz,
         )
 
@@ -57,7 +63,6 @@ class TestLinker(unittest.TestCase):
         """
         Comprueba que _buscar_hijo devuelve el hijo cuyo título coincide.
         """
-
         nodo = linker._buscar_hijo(self.raiz, "Título 1")
 
         self.assertIs(nodo, self.titulo)
@@ -67,7 +72,6 @@ class TestLinker(unittest.TestCase):
         """
         Comprueba que _buscar_hijo devuelve None cuando el hijo no existe.
         """
-
         nodo = linker._buscar_hijo(self.raiz, "Título inexistente")
 
         self.assertIsNone(nodo)
@@ -77,7 +81,6 @@ class TestLinker(unittest.TestCase):
         """
         Comprueba que _buscar_nodo localiza un nodo de primer nivel.
         """
-
         chunk = Chunk(
             documento=self.documento,
             indice=0,
@@ -95,7 +98,6 @@ class TestLinker(unittest.TestCase):
         Comprueba que _buscar_nodo localiza un nodo siguiendo
         una jerarquía de varios niveles.
         """
-
         chunk = Chunk(
             documento=self.documento,
             indice=0,
@@ -114,7 +116,6 @@ class TestLinker(unittest.TestCase):
         Comprueba que _buscar_nodo lanza ValueError cuando
         no encuentra un nodo en la jerarquía.
         """
-
         chunk = Chunk(
             documento=self.documento,
             indice=0,
@@ -132,7 +133,6 @@ class TestLinker(unittest.TestCase):
         - el chunk recibe el id del nodo.
         - el nodo registra el índice del chunk.
         """
-
         chunk = Chunk(
             documento=self.documento,
             indice=0,
@@ -150,7 +150,6 @@ class TestLinker(unittest.TestCase):
         Comprueba que enlazar un chunk ya registrado no duplica
         su índice dentro del nodo.
         """
-
         chunk = Chunk(
             documento=self.documento,
             indice=0,
@@ -169,7 +168,6 @@ class TestLinker(unittest.TestCase):
         Comprueba que enlazar relaciona correctamente un chunk
         con el nodo correspondiente del árbol.
         """
-
         chunk = Chunk(
             documento=self.documento,
             indice=0,
@@ -189,7 +187,6 @@ class TestLinker(unittest.TestCase):
         Comprueba que enlazar procesa correctamente varios chunks
         y los asigna a sus nodos correspondientes.
         """
-
         chunk1 = Chunk(
             documento=self.documento,
             indice=0,
@@ -220,7 +217,6 @@ class TestLinker(unittest.TestCase):
         Comprueba que enlazar lanza ValueError cuando un chunk
         no tiene un nodo correspondiente en el árbol.
         """
-
         chunk = Chunk(
             documento=self.documento,
             indice=0,
