@@ -16,10 +16,14 @@ Si en el futuro se sustituye ChromaDB por otra base vectorial
 necesario modificar este módulo.
 """
 
+from importlib.metadata import metadata
+
 import chromadb
 import logging
 import numpy as np
 from pathlib import Path
+
+from torch import chunk
 from src.core.models import Chunk, Documento, Metodologia
 from src.core.config import CARPETA_VECTOR_STORE, K_BUSQUEDA, UMBRAL_ACEPTABLE, UMBRAL_BUENO, UMBRAL_EXCELENTE, MINIMO_CHUNKS, MAXIMO_CHUNKS
 
@@ -56,7 +60,6 @@ class VectorStore:
             metadata={"hnsw:space": "cosine"},
         )
 
-
     def _crear_id(
     self,
     chunk: Chunk,
@@ -66,7 +69,6 @@ class VectorStore:
         """
 
         return f"{chunk.documento.ruta}:{chunk.indice}"
-
 
     def _preparar_registro(
         self,
@@ -95,6 +97,9 @@ class VectorStore:
             "indice": chunk.indice,
         }
 
+        if chunk.node_id:
+            metadata["node_id"] = chunk.node_id
+
         if chunk.titulo:
             metadata["titulo"] = chunk.titulo
 
@@ -106,6 +111,9 @@ class VectorStore:
 
         if chunk.subseccion:
             metadata["subseccion"] = chunk.subseccion
+            
+        if chunk.apartado:
+            metadata["apartado"] = chunk.apartado
 
         return (
             self._crear_id(chunk),
@@ -113,7 +121,6 @@ class VectorStore:
             embedding.tolist(),
             metadata,
         )
-
 
     def _chunk_desde_resultado(
         self,
@@ -142,12 +149,13 @@ class VectorStore:
             documento=documento,
             indice=int(metadata.get("indice", 0)),
             texto=texto,
+            node_id=metadata.get("node_id"),
             titulo=metadata.get("titulo"),
             subtitulo=metadata.get("subtitulo"),
             seccion=metadata.get("seccion"),
             subseccion=metadata.get("subseccion"),
+            apartado=metadata.get("apartado"),
         )
-
 
     def indexar_chunks(
         self,
@@ -203,7 +211,6 @@ class VectorStore:
             metadatas=metadatos,
         )
 
-
     def _filtrar_chunks(
         self,
         documentos,
@@ -251,7 +258,6 @@ class VectorStore:
         ]
 
         return aceptables[:MAXIMO_CHUNKS]
-
 
     def buscar(
         self,
@@ -308,6 +314,7 @@ class VectorStore:
                     metadata.get("subtitulo"),
                     metadata.get("seccion"),
                     metadata.get("subseccion"),
+                    metadata.get("apartado"),
                 ] if parte
             )
             logger.debug("Chunk %s: %.3f - %s", i, distancia, ruta)
@@ -317,7 +324,6 @@ class VectorStore:
             metadatos,
             distancias,
         )
-
 
     def eliminar_documento(
         self,
@@ -339,7 +345,6 @@ class VectorStore:
             }
         )
 
-
     def vaciar(self) -> None:
         """
         Elimina todos los registros de la colección.
@@ -359,5 +364,4 @@ class VectorStore:
 
 
 if __name__ == "__main__":
-
-    logger.info("VectorStore: módulo de acceso a la base de datos vectorial.")
+    print("Este módulo no está diseñado para ejecutarse directamente.")
