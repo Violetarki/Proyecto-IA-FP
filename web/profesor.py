@@ -1,3 +1,8 @@
+"""
+Rutas del panel de administración para profesores.
+
+Permite gestionar los documentos y reconstruir la base de conocimiento.
+"""
 from pathlib import Path
 from flask import (
     Blueprint,

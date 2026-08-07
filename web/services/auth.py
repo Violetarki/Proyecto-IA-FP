@@ -1,3 +1,8 @@
+"""
+Servicios relacionados con la autenticación de profesores.
+
+Incluye funciones auxiliares para comprobar sesiones y proteger rutas.
+"""
 from collections.abc import Callable
 from functools import wraps
 from flask import flash, redirect, session, url_for
