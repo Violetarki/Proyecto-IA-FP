@@ -20,17 +20,20 @@ class ContextExpander:
 
 
 
-    def expandir(self, chunks):
+    def expandir(
+        self,
+        candidatos: list[ResultadoBusqueda],
+    ) -> list[Chunk]:
 
-        chunks = self._aplicar_umbrales(chunks)
+        chunks = self._aplicar_umbrales(candidatos)
 
         chunks = self._añadir_padres(chunks)
 
-        chunks = self._añadir_hermanos(chunks)
+        chunks = self._eliminar_duplicados(chunks)
+        
+        chunks = self._ordenar(chunks)
 
-        chunks = self._añadir_contexto_historial(chunks)
-
-        return self._ordenar(chunks)
+        return chunks
 
 
     def _aplicar_umbrales(self):
