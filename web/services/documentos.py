@@ -1,7 +1,6 @@
 """Modulo de servicios para la gestión de documentos."""
 
 from pathlib import Path
-from flask import session
 from src.core.config import CARPETA_DOCUMENTOS
 
 

@@ -16,18 +16,17 @@ Si en el futuro se sustituye ChromaDB por otra base vectorial
 necesario modificar este módulo.
 """
 
-from importlib.metadata import metadata
-
 import chromadb
 import logging
 import numpy as np
 from pathlib import Path
+from typing import cast
 
-from torch import chunk
-from src.core.models import Chunk, Documento, Metodologia
-from src.core.config import CARPETA_VECTOR_STORE, K_BUSQUEDA, UMBRAL_ACEPTABLE, UMBRAL_BUENO, UMBRAL_EXCELENTE, MINIMO_CHUNKS, MAXIMO_CHUNKS
+from src.core.models import Chunk, Documento, Metodologia, ResultadoBusqueda
+from src.core.config import CARPETA_VECTOR_STORE 
 
 logger = logging.getLogger(__name__)
+
 
 class VectorStore:
     """
@@ -74,7 +73,7 @@ class VectorStore:
         self,
         chunk: Chunk,
         embedding: np.ndarray,
-    ) -> tuple[str, str, list[float], dict]:
+    ) -> tuple[str, str, list[float], dict[str, str | int]]:
         """
         Convierte un Chunk en un registro compatible con ChromaDB.
 
@@ -111,7 +110,7 @@ class VectorStore:
 
         if chunk.subseccion:
             metadata["subseccion"] = chunk.subseccion
-            
+
         if chunk.apartado:
             metadata["apartado"] = chunk.apartado
 
@@ -139,22 +138,22 @@ class VectorStore:
         """
 
         documento = Documento(
-            metodologia=Metodologia(nombre=metadata.get("metodologia", "")),
-            nombre=metadata.get("documento", ""),
+            metodologia=Metodologia(nombre=cast(str, metadata.get("metodologia", ""))),
+            nombre=cast(str, metadata.get("documento", "")),
             texto=texto,
-            ruta=metadata.get("ruta", ""),
+            ruta=cast(str, metadata.get("ruta", "")),
         )
 
         return Chunk(
             documento=documento,
             indice=int(metadata.get("indice", 0)),
             texto=texto,
-            node_id=metadata.get("node_id"),
-            titulo=metadata.get("titulo"),
-            subtitulo=metadata.get("subtitulo"),
-            seccion=metadata.get("seccion"),
-            subseccion=metadata.get("subseccion"),
-            apartado=metadata.get("apartado"),
+            node_id=cast(str | None, metadata.get("node_id")),
+            titulo=cast(str | None, metadata.get("titulo")),
+            subtitulo=cast(str | None, metadata.get("subtitulo")),
+            seccion=cast(str | None, metadata.get("seccion")),
+            subseccion=cast(str | None, metadata.get("subseccion")),
+            apartado=cast(str | None, metadata.get("apartado")),
         )
 
     def indexar_chunks(
@@ -211,69 +210,25 @@ class VectorStore:
             metadatas=metadatos,
         )
 
-    def _filtrar_chunks(
-        self,
-        documentos,
-        metadatos,
-        distancias,
-    ):
-        resultados = []
-
-        for texto, metadata, distancia in zip(
-            documentos,
-            metadatos,
-            distancias
-        ):
-
-            resultados.append(
-                (
-                    self._chunk_desde_resultado(
-                        texto,
-                        metadata,
-                    ),
-                    distancia,
-                )
-            )
-
-        excelentes = [
-            chunk
-            for chunk, distancia in resultados
-            if distancia <= UMBRAL_EXCELENTE
-        ]
-
-        if len(excelentes) >= MINIMO_CHUNKS:
-            return excelentes[:MAXIMO_CHUNKS]
-
-        buenos = [
-            chunk for chunk, distancia in resultados if distancia <= UMBRAL_BUENO
-        ]
-
-        if len(buenos) >= MINIMO_CHUNKS:
-            return buenos[:MAXIMO_CHUNKS]
-
-        aceptables = [
-            chunk
-            for chunk, distancia in resultados
-            if distancia <= UMBRAL_ACEPTABLE
-        ]
-
-        return aceptables[:MAXIMO_CHUNKS]
-
     def buscar(
         self,
         embedding: np.ndarray,
         metodologia: str,
-        k: int = K_BUSQUEDA,
-    ) -> list[Chunk]:
+        k: int
+    ) -> list[ResultadoBusqueda]:
         """
-        Recupera los chunks más similares a un embedding.
+        Recupera los resultados más similares a un embedding.
+
+        Realiza la consulta a la base vectorial, reconstruye los
+        chunks recuperados y devuelve su distancia asociada.
 
         Args:
             embedding: Embedding de la consulta.
-            k: Número máximo de resultados.
+            metodologia: Metodología para filtrar los resultados que viene definida en el retriever.
+            k: Número máximo de resultados que están definidos en el retriever.
 
         Returns:
-            Lista de chunks ordenados por similitud.
+            Lista de resultados de búsqueda ordenados por similitud.
         """
 
         if embedding.size == 0:
@@ -282,10 +237,7 @@ class VectorStore:
         if k <= 0:
             raise ValueError("El número de resultados debe ser mayor que cero.")
 
-        # Temporal para pruebas
-        logger.info(self.collection.count())
-
-        resultado = self.collection.query(
+        consulta = self.collection.query(
             query_embeddings=[embedding.tolist()],
             where={
                 "metodologia": metodologia,
@@ -298,32 +250,39 @@ class VectorStore:
             ],
         )
 
-        distancias = resultado["distances"][0]
-        documentos = resultado["documents"][0]
-        metadatos = resultado["metadatas"][0]
+        documentos = consulta["documents"]
+        metadatos = consulta["metadatas"]
+        distancias = consulta["distances"]
 
-        # Temporal para depuración
-        logging.debug("\nDistancias obtenidas:")
-        for i, (distancia, metadata) in enumerate(
-            zip(distancias, metadatos),
-            start=1,
+        if (
+            documentos is None
+            or metadatos is None
+            or distancias is None
         ):
-            ruta = " > ".join(
-                parte for parte in [
-                    metadata.get("titulo"),
-                    metadata.get("subtitulo"),
-                    metadata.get("seccion"),
-                    metadata.get("subseccion"),
-                    metadata.get("apartado"),
-                ] if parte
-            )
-            logger.debug("Chunk %s: %.3f - %s", i, distancia, ruta)
+            return []
 
-        return self._filtrar_chunks(
+        documentos = cast(list[str], documentos[0])
+        metadatos = cast(list[dict[str, str | int]], metadatos[0])
+        distancias = cast(list[float], distancias[0])
+
+        resultados: list[ResultadoBusqueda] = []
+
+        for texto, metadata, distancia in zip(
             documentos,
             metadatos,
             distancias,
-        )
+        ):
+            resultados.append(
+                ResultadoBusqueda(
+                    chunk=self._chunk_desde_resultado(
+                        texto,
+                        metadata,
+                    ),
+                    distancia=distancia,
+                )
+            )
+
+        return resultados
 
     def eliminar_documento(
         self,

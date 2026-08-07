@@ -64,19 +64,19 @@ class RAG:
 
         historial = self.historial.obtener_contexto(self.id_conversacion)
 
-        chunks = self.retriever.recuperar_contexto(
+        candidatos = self.retriever.recuperar(
             pregunta,
             metodologia,
         )
 
-        logger.debug("Se han recuperado %d chunks.", len(chunks))
+        logger.debug("Se han recuperado %d candidatos.", len(candidatos))
 
         logger.info("Construyendo prompt...")
 
         prompt = self.prompt_builder.construir_prompt(
             historial,
             pregunta,
-            chunks,
+            candidatos,
         )
 
         logger.debug("\n========== PROMPT ==========\n")

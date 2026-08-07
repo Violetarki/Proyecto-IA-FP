@@ -64,7 +64,7 @@ class Chunk:
     seccion: str | None = None
     subseccion: str | None = None
     apartado: str | None = None
-    
+
     def jerarquia_original(self) -> list[str]:
         """
         Devuelve la ruta jerárquica original del chunk,
@@ -83,7 +83,6 @@ class Chunk:
             if parte
         ]
 
-
     def jerarquia_limpia(self) -> list[str]:
         """
         Devuelve la ruta jerárquica limpia del chunk,
@@ -94,7 +93,6 @@ class Chunk:
             limpiar_encabezado(parte)
             for parte in self.jerarquia_original()
         ]
-        
 
     def texto_plano(self) -> str:
         """Devuelve el texto del chunk con las tablas convertidas a texto natural."""
@@ -106,6 +104,19 @@ class Chunk:
 
         texto_plano = self.texto_plano()
         return "\n".join(self.jerarquia_limpia() + [texto_plano]).lower()
+
+
+@dataclass(slots=True)
+class ResultadoBusqueda:
+    """
+    Resultado obtenido tras una búsqueda vectorial.
+
+    Contiene el chunk recuperado y la distancia de similitud
+    calculada por la base vectorial.
+    """
+
+    chunk: Chunk
+    distancia: float
 
 
 @dataclass
