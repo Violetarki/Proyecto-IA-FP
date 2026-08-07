@@ -6,6 +6,7 @@ from pathlib import Path
 
 from src.knowledge.models import KnowledgeNode, KnowledgeTree
 from src.knowledge import exporter
+from src.core.models import Metodologia
 
 
 class TestExporter(unittest.TestCase):
@@ -13,6 +14,10 @@ class TestExporter(unittest.TestCase):
     def setUp(self):
         """Prepara un árbol de ejemplo con un nodo raíz y un hijo para las pruebas."""
 
+        self.metodologia = Metodologia(
+            nombre="MetodologiaTest"
+        )
+        
         self.hijo = KnowledgeNode(
             id="id_hijo",
             titulo="Hijo",
@@ -29,11 +34,11 @@ class TestExporter(unittest.TestCase):
         )
 
         self.arbol = KnowledgeTree(
-            metodologia="MetodologiaTest",
+            metodologia=self.metodologia,
             raiz=self.raiz,
         )
 
-
+        
 
     def test_arbol_a_dict(self):
         """Comprueba que el árbol se convierte a un diccionario con la estructura esperada."""
@@ -41,7 +46,7 @@ class TestExporter(unittest.TestCase):
         resultado = exporter.arbol_a_dict(self.arbol)
 
         esperado = {
-            "metodologia": "MetodologiaTest",
+            "metodologia": self.metodologia.nombre,
             "raiz": {
                 "id": "id_raiz",
                 "titulo": "Raíz",
@@ -58,6 +63,7 @@ class TestExporter(unittest.TestCase):
                 ],
             },
         }
+
 
         self.assertEqual(resultado, esperado)
 
@@ -81,7 +87,7 @@ class TestExporter(unittest.TestCase):
         resultado = exporter.arbol_a_dict(self.arbol)
 
         esperado = {
-            "metodologia": "MetodologiaTest",
+            "metodologia": self.metodologia.nombre,
             "raiz": {
                 "id": "id_raiz",
                 "titulo": "Raíz",
