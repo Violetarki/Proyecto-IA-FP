@@ -1,6 +1,6 @@
 
 
-from src.core.models import ResultadoBusqueda
+from src.core.models import ResultadoBusqueda, Chunk
 from src.core.config import UMBRAL_ACEPTABLE, UMBRAL_BUENO, UMBRAL_EXCELENTE, MAXIMO_CHUNKS, MINIMO_CHUNKS
 from src.rag.historial import Historial
 from src.knowledge.loader import cargar_arbol
@@ -41,7 +41,6 @@ STOPWORDS = {
 resultados: list[ResultadoBusqueda]
 
 
-
 class ContextExpander:
 
     def __init__(
@@ -63,16 +62,13 @@ class ContextExpander:
         chunks = self._añadir_hermanos(chunks)
 
         chunks = self._añadir_contexto_historial(chunks)
-        
+
         return self._ordenar(chunks)
 
 
 
     def _buscar_padre(self, nodo):
         ...
-
-    
-
 
 
     def _buscar_hermanos(self, nodo):
@@ -90,53 +86,40 @@ class ContextExpander:
 
 
 
-
-    # fc opcional por si queremos filtrar los chunks por metodología, por ejemplo, 
-    # para que solo se devuelvan chunks de la metodología de la pregunta
     def _filtrar_chunks(
-            self,
-            documentos,
-            metadatos,
-            distancias,
-        ):
-            resultados = []
+        self,
+        resultados: list[ResultadoBusqueda],
+    ) -> list[Chunk]:
+        """
+        Filtra los chunks recuperados según su relevancia.
 
-            for texto, metadata, distancia in zip(
-                documentos,
-                metadatos,
-                distancias
-            ):
+        Se priorizan los chunks con mejor similitud.
+        Si no hay suficientes resultados excelentes,
+        se amplía progresivamente el umbral de aceptación.
+        """
 
-                resultados.append(
-                    (
-                        self._chunk_desde_resultado(
-                            texto,
-                            metadata,
-                        ),
-                        distancia,
-                    )
-                )
+        excelentes = [
+            resultado.chunk
+            for resultado in resultados
+            if resultado.distancia <= UMBRAL_EXCELENTE
+        ]
 
-            excelentes = [
-                chunk
-                for chunk, distancia in resultados
-                if distancia <= UMBRAL_EXCELENTE
-            ]
+        if len(excelentes) >= MINIMO_CHUNKS:
+            return excelentes[:MAXIMO_CHUNKS]
 
-            if len(excelentes) >= MINIMO_CHUNKS:
-                return excelentes[:MAXIMO_CHUNKS]
+        buenos = [
+            resultado.chunk
+            for resultado in resultados
+            if resultado.distancia <= UMBRAL_BUENO
+        ]
 
-            buenos = [
-                chunk for chunk, distancia in resultados if distancia <= UMBRAL_BUENO
-            ]
+        if len(buenos) >= MINIMO_CHUNKS:
+            return buenos[:MAXIMO_CHUNKS]
 
-            if len(buenos) >= MINIMO_CHUNKS:
-                return buenos[:MAXIMO_CHUNKS]
+        aceptables = [
+            resultado.chunk
+            for resultado in resultados
+            if resultado.distancia <= UMBRAL_ACEPTABLE
+        ]
 
-            aceptables = [
-                chunk
-                for chunk, distancia in resultados
-                if distancia <= UMBRAL_ACEPTABLE
-            ]
-
-            return aceptables[:MAXIMO_CHUNKS]
+        return aceptables[:MAXIMO_CHUNKS]
