@@ -8,6 +8,7 @@ from src.knowledge.builder import crear_arbol
 class TestBuilder(unittest.TestCase):
 
     def test_crear_arbol(self):
+        """Comprueba que se crea un árbol con la raíz y metodología esperadas."""
 
         raiz = MarkdownNode(
             titulo="Tema 1",
@@ -22,6 +23,7 @@ class TestBuilder(unittest.TestCase):
 
 
     def test_crear_arbol_convierte_hijos_recursivamente(self):
+        """Comprueba que los hijos del nodo se convierten de forma recursiva."""
         nieto = MarkdownNode(
             titulo="Apartado",
             nivel=3,
@@ -52,6 +54,7 @@ class TestBuilder(unittest.TestCase):
 
 
     def test_crear_arbol_genera_ids_validos(self):
+        """Comprueba que los nodos del árbol reciben identificadores válidos."""
         raiz = MarkdownNode(
             titulo="Tema",
             nivel=1,
@@ -63,6 +66,7 @@ class TestBuilder(unittest.TestCase):
 
 
     def test_crear_arbol_nodo_sin_hijos(self):
+        """Comprueba que un nodo sin hijos queda con una lista vacía."""
         raiz = MarkdownNode(
             titulo="Tema",
             nivel=1,
