@@ -30,20 +30,48 @@ class ContextExpander:
         chunks = self._añadir_padres(chunks)
 
         chunks = self._eliminar_duplicados(chunks)
-        
+
         chunks = self._ordenar(chunks)
 
         return chunks
 
 
-    def _aplicar_umbrales(self):
+    def _aplicar_umbrales(
+    self,
+    resultados: list[ResultadoBusqueda],
+) -> list[Chunk]:
         """
-        Método público de expander.Coordina todo el proceso de enriquecimiento del contexto. 
-        Entrada: list[ResultadoBusqueda]
-        Salida: list[Chunk]
-        """
-        ...
+        Filtra los chunks recuperados según su relevancia.
 
+        Prioriza chunks excelentes. Si no hay suficientes,
+        amplía progresivamente el umbral de aceptación.
+        """
+
+        excelentes = [
+            resultado.chunk
+            for resultado in resultados
+            if resultado.distancia <= UMBRAL_EXCELENTE
+        ]
+
+        if len(excelentes) >= MINIMO_CHUNKS:
+            return excelentes[:MAXIMO_CHUNKS]
+
+        buenos = [
+            resultado.chunk
+            for resultado in resultados
+            if resultado.distancia <= UMBRAL_BUENO
+        ]
+
+        if len(buenos) >= MINIMO_CHUNKS:
+            return buenos[:MAXIMO_CHUNKS]
+
+        aceptables = [
+            resultado.chunk
+            for resultado in resultados
+            if resultado.distancia <= UMBRAL_ACEPTABLE
+        ]
+
+        return aceptables[:MAXIMO_CHUNKS]
 
     def _añadir_padres(self):
         """
@@ -85,7 +113,7 @@ class ContextExpander:
 
 
 
-    def _filtrar_chunks(
+    def _aplicar_umbrales(
         self,
         resultados: list[ResultadoBusqueda],
     ) -> list[Chunk]:
