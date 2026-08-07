@@ -64,7 +64,7 @@ class RAG:
 
         historial = self.historial.obtener_contexto(self.id_conversacion)
 
-        candidatos = self.retriever.recuperar(
+        candidatos = self.retriever.recuperar_candidatos(
             pregunta,
             metodologia,
         )

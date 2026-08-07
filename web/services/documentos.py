@@ -1,4 +1,9 @@
-"""Modulo de servicios para la gestión de documentos."""
+"""
+Servicios auxiliares para la gestión de documentos.
+
+Incluye funciones para obtener metodologías, localizar carpetas
+y validar documentos.
+"""
 
 from pathlib import Path
 from src.core.config import CARPETA_DOCUMENTOS
