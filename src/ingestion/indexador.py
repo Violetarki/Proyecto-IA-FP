@@ -57,7 +57,7 @@ from src.knowledge.builder import crear_arbol
 from src.knowledge.linker import enlazar
 from src.knowledge.exporter import guardar_json
 from src.ingestion.chunker import crear_chunks_documento
-from src.rag.embeddings import crear_embeddings_chunks
+from src.rag.embeddings import crear_embeddings_textos
 from src.rag.vector_store import VectorStore
 
 from src.core.config import (
@@ -187,7 +187,15 @@ def indexar_documentos() -> None:
             len(todos_los_chunks),
         )
 
-        embeddings = crear_embeddings_chunks(todos_los_chunks)
+        textos = [chunk.texto for chunk in todos_los_chunks]
+        textos_embeddings = [
+            chunk.texto_embedding()
+            for chunk in todos_los_chunks
+        ]
+
+        embeddings = crear_embeddings_textos(
+            textos_embeddings
+        )
         
         logger.info("Embeddings creados")
 
