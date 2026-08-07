@@ -1,3 +1,8 @@
+"""
+Rutas relacionadas con la autenticación del profesor.
+
+Gestiona el inicio y cierre de sesión del panel de administración.
+"""
 from flask import (
     Blueprint,
     flash,
