@@ -26,7 +26,7 @@ class ContextExpander:
 
         chunks = self._aplicar_umbrales(candidatos)
 
-        chunks = self._expandir_padres(chunks)
+        chunks = self._enriquecer_con_padres(chunks)
 
         chunks = self._eliminar_duplicados(chunks)
 
@@ -103,19 +103,46 @@ class ContextExpander:
         return None
 
 
-    def _añadir_padres(self):
+# comentario de la chati: Con la restricción de "no traer chunks nuevos", esta función aporta muy poco valor. Por eso quizá la función que más valor tenga en esta primera versión no sea la de padres, sino la de ordenación por jerarquía.
+    def _enriquecer_con_padres(
+        self,
+        chunks: list[Chunk],
+    ) -> list[Chunk]:
         """
-        Añade el nodo padre de cada chunk recuperado. El padre aporta contexto general. 
-        Ej.: Si recuperamos Fortalezas(hijo), añadimos también DAFO(padre).
+        Enriquece el contexto con los chunks del nodo padre que ya hayan sido
+        recuperados por el Retriever.
         """
 
-    def _añadir_hermanos(self):
+        resultado = chunks.copy()
+
+        chunks_por_indice = {
+            chunk.indice: chunk
+            for chunk in chunks
+        }
+
+        for chunk in chunks:
+
+            nodo = self._obtener_nodo(chunk.node_id)
+
+            if nodo is None or nodo.padre is None:
+                continue
+
+            for chunk_id in nodo.padre.chunk_ids:
+
+                chunk_padre = chunks_por_indice.get(chunk_id)
+
+                if chunk_padre is not None:
+                    resultado.append(chunk_padre)
+
+        return resultado
+
+    def _enriquecer_con_hermanos(self):
         """
         Añade los nodos que comparten el mismo padre. 
         Si preguntan por Fortalezas, puede ser útil que el modelo vea también las demás categorías.
         """
 
-    def _añadir_hijos(self):
+    def _enriquecer_con_hijos(self):
         """
         Añade los subapartados del chunk recuperado. 
         Permite ampliar una explicación general con detalles concretos.
