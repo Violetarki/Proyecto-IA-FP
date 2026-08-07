@@ -108,7 +108,7 @@ Como dijo el mismo Edison en otra ocasión: «Muchos fracasos de la vida han sid
 ### Reflexiona
 
 1. ¿Cuál es la clave de que la idea inicial de Enríe Bernat funcionara y la de Manuel Jalón no?
-2. ¿Qué rasgos de personalidad comunes podemos atribuir a estos dos emprende dores?
+2. ¿Qué rasgos de personalidad comunes podemos atribuir a estos dos emprendedores?
 3. Piensa alguna idea original con la que mejorarías algún producto que conozcas y debate en clase en qué medida dichas ideas son innovadoras.
 
 ## Conceptos básicos
@@ -141,7 +141,7 @@ Con inquietudes Observador Tolera la frustración Previsor Auto-motivado Acepta 
 
 Fig. 1.1. Cualidades del emprendedor.
 
-#### Ejemplo 2. Juventud y emprendeduría: Pep Gómez
+##### Ejemplo 2. Juventud y emprendeduría: Pep Gómez
 
 Entre las cualidades del emprendedor, aún no hemos mencionado la formación específica en su sector profesional, ni conocimientos de gestión, contabilidad, dirección de personal o las dificultades de la constitución de una empresa. Nada de eso es imprescindible, ya que se puede aprender a medida que la complejidad del negocio lo requiere. Así lo ilustra el caso de Pep Gómez, empresario español que se inició con tan solo 14 años creando una especie de Twitter para empresas. Con 18 años, Google le contrató y recientemente acaba de constituir su cuarta empresa, todas ellas vinculadas a Internet. Puedes leer más información acerca de este empresario en estos artículos de prensa:
 
@@ -165,19 +165,19 @@ Una idea útil es aquella que satisface necesidades en el consumidor. De esta ma
 
 Estas necesidades no tienen por qué ser reales; basta con que sean sentidas o percibidas como necesarias por el cliente. Incluso, en caso de no serlo, es la compañía quien creará esa necesidad subjetiva en el cliente. Así, sintetizaba Steve Jobs, uno de los creadores de Apple, este principio básico del marketing: «La gente no sabe lo que necesita hasta que se le muestra».
 
-#### Ejemplo 3. Idea útil
+Las necesidades insatisfechas generan oportunidades de negocio, en otras palabras, nichos o huecos de mercado. El emprendedor debe estar muy atento a la evolución de la sociedad para detectarlas.
+
+##### Ejemplo 3. Idea útil
 
 Una idea útil que está comercializándose actualmente es una tarjeta plástica que permite guardar todas las contraseñas que utilizamos para navegar por Internet. Están encriptadas por si fuera robada y también permite importar y exportar certificados digitales.
 
-Las necesidades insatisfechas generan oportunidades de negocio, en otras palabras, nichos o huecos de mercado. El emprendedor debe estar muy atento a la evolución de la sociedad para detectarlas.
-
-#### Ejemplo 4. Los «solteros»
+##### Ejemplo 4. Los «solteros»
 
 Un hueco de mercado actual son los solteros. Se está convirtiendo en objeto de atención preferente para algunas empresas, que tratan de responder a su necesidad de buscar pareja o de resolver problemas de la vida cotidiana. Así, hay agencias de viaje especializadas en este colectivo o páginas web que facilitan encuentros sentimentales o empresas que se encargan de realizar la colada y la plancha a estas personas.
 
 Puedes leer más al respecto en el blog de Mc raw-Hill: http://www.fpemprendedores.es, en la entrada: «Solteros, un nuevo yacimiento de ideas emprendedoras».
 
-#### Actividades
+##### Actividades
 
 2. Otro hueco de mercado son los kidadults. Busca información sobre quiénes integran este colectivo y sobre el tipo de productos o servicios que las empresas les ofrecen.
 
@@ -189,14 +189,14 @@ Una idea innovadora es aquella que introduce un elemento diferente; es decir, qu
 
 La innovación tiene tanta trascendencia que las empresas tratan de contar con un departa dedicado a ello. Es el departamento de I+D+i (Investigación, Desarrollo e Innovación). Una idea puede resultar innovadora por motivos diferentes, de ahí que podamos hablar de distintos tipos de innovaciones, tales como las indicadas en la Figura 1.2.
 
+##### Fig. 1.2. Tipos de innovación:
+
 - Innovación de producto: A través de un producto nuevo modificando uno existente. Es la más habitual. Es importante registrar nuestra invención para evitar el plagio.
 - Innovación de proceso: En la manera de producir el producto, como el método de producción en cadena el método Just in time.
 - Innovación en el marketing de la empresa: En las acciones que se desarrollan para incrementar las ventas la satisfacción de ios cuentes con eí producto. Lo desarrollaremos ampliamente en la Unidad 3.
-- Innovación en la organización: En la organización gestión de los recursos humanos, fomentando el trabajo en equipo, jerarquía horizontal, horarios flexibles, etc. Hablaremos sobre ello en ia Unidad 7.
+- Innovación en la organización: En la organización gestión de los recursos humanos, fomentando el trabajo en equipo, jerarquía horizontal, horarios flexibles, etc. Hablaremos sobre ello en la Unidad 7.
 
-Fig. 1.2. Tipos de innovación.
-
-#### Ejemplo 5. Idea innovadora que se comercializa en EE.UU.
+##### Ejemplo 5. Idea innovadora que se comercializa en EE.UU.
 
 Un inhalador de alimentos calóricos de la marca Vaportrim para personas que quieren controlar su peso. El aroma viene encerrado en un tubo hermético que se abre cuando las ganas de comer superan los buenos propósitos. El aroma engaña al cerebro reprimiendo las ganas de comer. O eso dicen...
 
@@ -222,6 +222,8 @@ A través de todos estos documentos se da forma al negocio que se pretende inici
 Además, es fundamental la búsqueda de fuentes de financiación externa, ya que las instituciones financieras (bancos, cooperativas de crédito, etc.) o los posibles inversores privados («inversores ángel» -business angels- o empresas de capital riesgo, que estudiaremos en la Unidad 4) valorarán su viabilidad y, en función de ello, confiarán, o no, sus recursos monetarios a nuestro proyecto empresarial.
 
 A través de las diferentes unidades te iremos guiando para que puedas dar forma a tu plan de empresa del modo que se muestra en la Figura 1.3.
+
+#### Fig. 1.3. Elementos del plan de empresa y su distribución por unidades en el libro.
 
 - Unidad 1
   Resumen de la idea de negocio
@@ -249,8 +251,6 @@ A través de las diferentes unidades te iremos guiando para que puedas dar forma
 
 - Unidad 8
   Acciones para la internacionalización
-
-Fig. 1.3. Elementos del plan de empresa y su distribución por unidades en el libro.
 
 ## Simulación empresarial
 
@@ -286,6 +286,8 @@ En esta primera unidad vamos a comenzar por pensar una idea y darle forma hasta 
 Dar con una idea de negocio es la primera fase de trabajo en el desarrollo de un plan de empresa y una de las cuestiones más difíciles, en la que hay que poner en juego altas dosis de creatividad.
 
 Hay diferentes métodos que nos ayudan en el proceso de desarrollo de ideas. Uno de los más utilizados para el trabajo en grupo es el brainstorming.
+
+#### El brainstorming o lluvia de ideas
 
 El brainstorming o lluvia de ideas es una técnica originariamente utilizada en publicidad creativa para generar multitud de ideas originales en un entorno relajado. Consiste en decir y anotar todas las ideas que surjan, sin descartarlas bajo ningún motivo. Como decía el químico norteamericano Linus Pauling: «La mejor forma de tener una buena idea es tener muchas ideas».
 
@@ -325,19 +327,19 @@ Podéis consultar las siguientes páginas web, si necesitáis inspiración:
 
 ### Fase 2. Selección de la mejor idea
 
-A continuación, hay que elegir la idea que se considera con más probabilidades de éxito. Para ello, habrá que valorarlas una a una en función de unos criterios previamente establecidos, según lo que prioricen los socios, como por ejemplo, alta rentabilidad o escasa competencia. A continuación, te presentamos una tabla que puede servir de muestra de cómo realizar este proceso.
+A continuación, hay que elegir la idea que se considera con más probabilidades de éxito. Para ello, habrá que valorarlas una a una en función de unos criterios previamente establecidos, según lo que prioricen los socios, como por ejemplo, alta rentabilidad o escasa competencia. A continuación, te presentamos una tabla que puede servir de muestra de cómo realizar este proceso. (ver libro p.16)
 
 | Ideas | Idea 1 | Idea 2 | Idea 3 | Idea 4 | ... |
-| Idea útil: satisface necesidades |
+| Idea útil: satisface necesidades ||||||
 | Idea innovadora: novedosa en el mercado |
-| Hueco de mercado: posibilidad de competir |
-| Expectativas de alta rentabilidad: buenas perspectivas económicas |
-| Dificultad de su desarrollo y puesta en marcha: requiere gran desembolso, muchos trámites... |
-| Conocimientos del sector necesarios: estudios relacionados con la actividad de la empresa |
-| Escasa competencia: pocos rivales en el mercado |
-| Reducida inversión inicial: gastos asumibles en cuanto a local, medios materiales y personal |
-| Complejidad de la legislación aplicable: poca normativa que limite la actividad económica |
-| Puntuación total |
+| Hueco de mercado: posibilidad de competir ||||||
+| Expectativas de alta rentabilidad: buenas perspectivas económicas ||||||
+| Dificultad de su desarrollo y puesta en marcha: requiere gran desembolso, muchos trámites... ||||||
+| Conocimientos del sector necesarios: estudios relacionados con la actividad de la empresa ||||||
+| Escasa competencia: pocos rivales en el mercado ||||||
+| Reducida inversión inicial: gastos asumibles en cuanto a local, medios materiales y personal ||||||
+| Complejidad de la legislación aplicable: poca normativa que limite la actividad económica ||||||
+| Puntuación total ||||||
 
 #### ¿Cómo sé que mi idea de negocio es buena?
 
@@ -359,6 +361,8 @@ La idea que tenga una mayor puntuación total será vuestra idea de negocio, que
 
 El propósito de esta fase es concretar la idea empresarial determinando a qué se va a dedicar la empresa. En la Unidad 2 habrá que enumerar todos los productos y servicios que ofrece, cuando se redacte el plan de producción. De momento, basta con una exposición razonada de la idea empresarial; es decir: las necesidades que satisface, las innovaciones que se aportarán y la situación que justifica este hueco del mercado.
 
+Además, es conveniente añadir las razones que llevaron a los socios a crear ese negocio. Esto ayuda a las personas que leerán el plan de empresa (es decir, a tus futuros inversores) a dar más credibilidad a la idea.
+
 #### Ejemplo 8. «Customización»
 
 Una idea de negocio en auge reciente es la personalización o «customización» de los productos. Es una idea que se aplica con éxito a los automóviles, el llamado tuneado, aunque también a otros objetos de consumo habitual. Es el caso de la empresa Nikeid, especializada en «customizar» las playeras Nike, o de Carmen Romero, que crea murales personalizados para las paredes de las casas de sus clientes.
@@ -369,8 +373,6 @@ Estas empresas podrían exponer su idea de negocio y justificarla con estos argu
 - b) Responde a la demanda de un público cada vez más exigente, informado y que valora por encima de todo la individualización.
 
 Esta idea se aplica ya desde hace tiempo en el marketing, que deja de estar centrado en el producto para focalizarse en el cliente. De la misma manera, el ámbito productivo ha entendido que hay un hueco en el mercado para personalizar los productos. Entendemos que es una nueva opción del mercado que implica mantener una comunicación estrecha con el consumidor, adaptarse a sus necesidades, estar atento a las tendencias del mercado, saber reaccionar con rapidez, no tener miedo a los cambios y utilizar todos los avances tecnológicos.
-
-Además, es conveniente añadir las razones que llevaron a los socios a crear ese negocio. Esto ayuda a las personas que leerán el plan de empresa (es decir, a tus futuros inversores) a dar más credibilidad a la idea.
 
 #### Ejemplo 9. Origen de Mi puf.es
 
@@ -395,7 +397,7 @@ El nombre debería seguir las siguientes reglas para ser eficaz:
 - c) La tipografía y los colores de la fuente deben estar acordes con la imagen corporativa.
 - d) Debe captar la atención.
 
-#### Ejemplo 10. Modos de elección de nombres
+##### Ejemplo 10. Modos de elección de nombres
 
 - Acrónimos
 
@@ -434,7 +436,7 @@ El logotipo debería seguir las siguientes reglas para ser eficaz:
 
 Fig. 1.4. A veces, el nombre, logotipo y eslogan de la empresa están perfectamente coordinados, como en el caso de LG
 
-#### Ejemplo 11. Modos de elección de logotipos
+##### Ejemplo 11. Modos de elección de logotipos
 
 Los ejemplos siguientes ilustran estas características. Observa cómo representan la idea de la empresa en blanco y negro y con asombrosa simplicidad y escasez de colores. (ver imágenes libro p.20)
 
@@ -494,12 +496,6 @@ En Logoestslo, una compañía dedicada al diseño de la imagen corporativa de un
 
 La localización de la empresa es un elemento a tener en cuenta. A veces, la ubicación es esencial; otras veces, sin embargo, puede ser intrascendente (como en los negocios on-line). Cuando elegimos qué producto vamos a comercializar, también estamos decidiendo a quién se lo vamos a vender. Conocer a nuestro cliente es fundamental para decidir dónde le con vendría más adquirir nuestro producto. La ubicación de la empresa puede representar el éxito o fracaso de un negocio, ya que acerca o aleja al cliente.
 
-#### Ejemplo 12. La importancia de la ubicación
-
-Ray Kroc, el fundador de McDonald's, comentaba que los tres factores más importantes para el éxito de un negocio son: «ubicación, ubicación y ubicación». Un producto estrella, una marca reconocida o precios competitivos no servirían de nada si el producto es difícil de adquirir o el comprador tiene que realizar un esfuerzo en conseguirlo. Ello puede suponer, por ejemplo, tiempo en llegar al lugar, en aparcar, en localizar el negocio, etc.
-
-En otras palabras, hay que acercar el producto al cliente. En tal caso, comprarán y regresarán. Pero si comprarlo representa un gran esfuerzo o una pérdida de tiempo en llegar o aparcar, el consumidor buscará en la competencia.
-
 Sin embargo, hay factores que pueden pesar más a la hora de decidir dónde situar la empresa, como el precio del suelo, el tamaño del local, la cercanía al domicilio de residencia, la facilidad de los emprendedores de desplazarse hasta allí, etc. De esta manera, es posible encontrar una tienda de ropa de niños en una gran nave de una zona industrial, con un alquiler barato, con gran amplitud de espacio y de fácil acceso y aparcamiento, pero ni la ubicación ni la frialdad del local atraerán a los potenciales compradores.
 
 Estos son algunos de los factores que se deben tener en cuenta en la elección de la ubicación:
@@ -509,6 +505,12 @@ Estos son algunos de los factores que se deben tener en cuenta en la elección d
 - Perfil de los residentes, edad y nivel económico, que debe coincidir con el perfil de mis clientes potenciales.
 - Proximidad a lugares de ocio (cines, museos, hoteles, restaurantes, etc.) o a zonas peatonales susceptibles de atraer personas con tiempo libre, ya que el negocio gana visibilidad y puede recibir visitas fortuitas de transeúntes desocupados. Analiza quiénes pasan por delante de tu futuro negocio, a qué horas y con qué motivo.
 - La originalidad es una premisa que puede garantizar el éxito si se cuida y no se lleva hasta la excentricidad. Un negocio sorprendente provocará un rápido boca a boca y atraerá a consumidores ávidos de probar algo nuevo y diferente.
+
+#### Ejemplo 12. La importancia de la ubicación
+
+Ray Kroc, el fundador de McDonald's, comentaba que los tres factores más importantes para el éxito de un negocio son: «ubicación, ubicación y ubicación». Un producto estrella, una marca reconocida o precios competitivos no servirían de nada si el producto es difícil de adquirir o el comprador tiene que realizar un esfuerzo en conseguirlo. Ello puede suponer, por ejemplo, tiempo en llegar al lugar, en aparcar, en localizar el negocio, etc.
+
+En otras palabras, hay que acercar el producto al cliente. En tal caso, comprarán y regresarán. Pero si comprarlo representa un gran esfuerzo o una pérdida de tiempo en llegar o aparcar, el consumidor buscará en la competencia.
 
 #### Actividad de simulación 5
 
@@ -528,14 +530,6 @@ En cuanto a la decoración del interior, debe reflejar el estilo del negocio, pr
 
 En lo que se refiere a la distribución del local, lo más importante es determinar qué áreas diferenciadas son necesarias, sin olvidar aquellos espacios menos evidentes que son también útiles, como el almacén, el cuarto de limpieza, los aseos privados, etc. En función de estas decisiones, habrá que plantearse las reformas precisas.
 
-#### Ejemplo 13. Restaurantes de comida rápida
-
-En las hamburgueserías de comida rápida, los rótulos exteriores están realizados en colores intensos: rojo, amarillo, azul. Se trata de los colores corporativos que fueron seleccionados porque llaman la atención del público joven a quien van dirigidos este tipo de establecimiento.
-
-Algunos de ellos tienen los cristales esmerilados con su logotipo, para que el cliente poco exigente al que no le importa entrar en un Burger King o en un McDonald's fije en su retina en cuál de ellos está, ya que al mirar al interior del local o al exterior del mismo, una vez que ya se está comiendo, la retina se cruza inevitablemente con la imagen identificativa de la enseña.
-
-Hasta hace poco tiempo, estos restaurantes estaban decorados con un predominio fuerte del rojo, en sus sillas o en el tablero de las mesas, pero este color es estresante; es decir, se trata de un color intenso que atrae a la vez que genera cansancio. Está demostrado que después de un tiempo largo contemplando este color (u otros igual de intensos) la mente se fatiga y busca espacios más relajantes, donde predominen tonos suaves o blancos.
-
 Si queremos reducir las obras para ahorrar costes, podemos sustituir los muros por elementos decorativos que permitan la división del espacio, como biombos, mamparas, cortinas, etc. Los elementos transparentes o los espejos generan sensación de amplitud, mientras que las telas dan color y permiten variar el ambiente a menudo con bajo coste.
 
 Una vez creados los espacios, hay que personalizarlos por medio del mobiliario, colores, pun tos de luz, música y otros elementos decorativos, pensando en el confort y en el gusto del cliente, para generarle las ganas de volver.
@@ -543,6 +537,14 @@ Una vez creados los espacios, hay que personalizarlos por medio del mobiliario, 
 Los colores están divididos en fríos y calientes. Estos últimos son el amarillo, naranja, rojo y violeta, que generan una sensación acogedora si se usan en tono pastel. Los azules y verdes, por el contrario, se denominan colores fríos y suelen identificarse con ambientes asépticos y clínicos. Los colores intensos transmiten energía, dinamismo, juventud, vitalidad, aunque también pueden estresar, lo que se evita si se dosifican. La elección final del color debe ser coherente con el estilo de negocio y con los colores corporativos.
 
 La elección de la música se hará acorde al gusto del cliente, lo que está bastante influido por su edad.También la Navidad condiciona un tipo de música tradicional que anima a la compra.
+
+#### Ejemplo 13. Restaurantes de comida rápida
+
+En las hamburgueserías de comida rápida, los rótulos exteriores están realizados en colores intensos: rojo, amarillo, azul. Se trata de los colores corporativos que fueron seleccionados porque llaman la atención del público joven a quien van dirigidos este tipo de establecimiento.
+
+Algunos de ellos tienen los cristales esmerilados con su logotipo, para que el cliente poco exigente al que no le importa entrar en un Burger King o en un McDonald's fije en su retina en cuál de ellos está, ya que al mirar al interior del local o al exterior del mismo, una vez que ya se está comiendo, la retina se cruza inevitablemente con la imagen identificativa de la enseña.
+
+Hasta hace poco tiempo, estos restaurantes estaban decorados con un predominio fuerte del rojo, en sus sillas o en el tablero de las mesas, pero este color es estresante; es decir, se trata de un color intenso que atrae a la vez que genera cansancio. Está demostrado que después de un tiempo largo contemplando este color (u otros igual de intensos) la mente se fatiga y busca espacios más relajantes, donde predominen tonos suaves o blancos.
 
 #### Actividad de simulación 6
 
@@ -564,15 +566,14 @@ Ello evitará que surjan discrepancias posteriores debido a divergencias inicial
 
 Algunas motivaciones para emprender pueden ser las que se exponen en la Tabla 1.1.
 
-1. Expectativas de altas ganancias económicas, unido a ventajas fiscales.
-2. Libertad para decidir tu propio futuro y el de tu negocio.
-3. Inquietud personal. Posibilidad de realización personal, libertad, independencia, etc.
-4. Posibilidad de flexibilidad horaria, vacaciones, funciones a realizar, etc.
-5. Oportunidad de aprendizaje.
-6. Gusto por los retos, por experimentar una aventura empresarial, llena de riesgos, a la vez que de oportunidades.
-7. Salida laboral, ante la imposibilidad de encontrar un trabajo acorde a nuestras expectativas.
-
-Tabla 1.1. Motivos para emprender.
+- Tabla 1.1. Motivos para emprender.
+  1. Expectativas de altas ganancias económicas, unido a ventajas fiscales.
+  2. Libertad para decidir tu propio futuro y el de tu negocio.
+  3. Inquietud personal. Posibilidad de realización personal, libertad, independencia, etc.
+  4. Posibilidad de flexibilidad horaria, vacaciones, funciones a realizar, etc.
+  5. Oportunidad de aprendizaje.
+  6. Gusto por los retos, por experimentar una aventura empresarial, llena de riesgos, a la vez que de oportunidades.
+  7. Salida laboral, ante la imposibilidad de encontrar un trabajo acorde a nuestras expectativas.
 
 #### Actividad de simulación 7
 
@@ -589,14 +590,13 @@ Por ejemplo, si queremos solicitar un préstamo al banco tendremos que presentar
 
 La diferenciación y creatividad es una parte importante de la actividad empresarial que debe estar reflejada en todo el plan de empresa, por ello, hay que cuidar la presentación atractiva del curriculum. Se puede utilizar una plantilla predefinida que todo programa de tratamiento de texto incorpora, o bien, seleccionar cualquiera de las que se ofrecen de manera gratuita en Internet. Igualmente, se puede utilizar el modelo del curriculum europeo, aunque resulta extenso (Tabla 1.2).
 
-1. Resalta tus puntos fuertes.
-2. Incluye fotografía actual y donde, a ser posible, reflejes dinamismo, energía, etc.
-3. Enumera tu formación y tu experiencia en orden cronológico inverso, es decir, comienza por lo más reciente.
-4. Describe las funciones realizadas o los contenidos aprendidos en tu formación, si no resulta evidente.
-5. Trata de impresionar con un diseño atractivo. Recuerda que todo el plan de empresa está pensado para cautivar a inversores.
-6. Cuida la redacción en positivo.
-
-Tabla 1.2. Consejos para elaborar un curriculum vítae como socio de un negocio.
+- Tabla 1.2. Consejos para elaborar un curriculum vítae como socio de un negocio.
+  1. Resalta tus puntos fuertes.
+  2. Incluye fotografía actual y donde, a ser posible, reflejes dinamismo, energía, etc.
+  3. Enumera tu formación y tu experiencia en orden cronológico inverso, es decir, comienza por lo más reciente.
+  4. Describe las funciones realizadas o los contenidos aprendidos en tu formación, si no resulta evidente.
+  5. Trata de impresionar con un diseño atractivo. Recuerda que todo el plan de empresa está pensado para cautivar a inversores.
+  6. Cuida la redacción en positivo.
 
 #### Actividad de simulación 8
 
@@ -606,7 +606,7 @@ Ayuda práctica:
 
 Aunque la juventud e inexperiencia puede ser una objeción, no es menos cierto que cada vez son más las empresas constituidas por gente joven, dada su creatividad, su gran capacidad de trabajo e implicación personal, su conocimiento de idiomas y de las nuevas tecnologías y su flexibilidad horaria, al carecer de cargas familiares.
 
-#### Plan de empresa
+## Plan de empresa
 
 Ha llegado el momento de sintetizar las ideas extraídas en estas primeras fases de la Simulación empresarial, para elaborar los primeros dos apartados de vuestro plan de empresa. Es el momento de cuidar la presentación y la formalidad en el estilo.
 
@@ -807,9 +807,9 @@ Plan de empresa:
 
 # 2. Estudio de mercado
 
-## En esta unidad
+## Resumen unidad 2
 
-### aprenderemos a:
+### En esta unidad aprenderemos a:
 
 - Identificar las principales características del sector empresarial en el que se desenvuelve la idea de negocio.
 - Señalar las oportunidades, amenazas, fortalezas y debilidades del negocio.
@@ -832,9 +832,9 @@ Plan de empresa:
 - Responsabilidad social de la empresa: la ética en los negocios.
 - Análisis DAFO.
 
-### Steve Jobs, cofundador de Apple.
+### Cita
 
-«No puedes preguntarle a los consumidores qué quieren y luego pretender dárselo. En el tiempo que has estado fabricándolo, ellos querrán una cosa nueva.»
+«No puedes preguntarle a los consumidores qué quieren y luego pretender dárselo. En el tiempo que has estado fabricándolo, ellos querrán una cosa nueva.» -Steve Jobs, cofundador de Apple.
 
 ## Emprendedores
 
@@ -964,7 +964,7 @@ La empresa analiza a sus consumidores con el fin de poder acercar la oferta a la
 
 Segmentar es una forma de dividir a los consumidores potenciales en grupos con características en común y que comparten necesidades similares.
 
-#### Ejemplo 2. La segmentación de mercado de LEGO
+##### Ejemplo 2. La segmentación de mercado de LEGO
 
 Los productos de la empresa LEGO han estado tradicionalmente enfocados a un segmento de población muy concreto: niños de edades comprendidas entre los 6 y los 16 años. De forma que los segmentos establecidos por esta empresa serían:
 
@@ -985,13 +985,13 @@ Cuando el público objetivo compra su producto, dejan de ser mercado objetivo pa
 
 3. El mercado actual está compuesto por quienes, efectivamente, compran el producto de la empresa.
 
-#### Ejemplo 3. Tipos de mercados
+##### Ejemplo 3. Tipos de mercados
 
 - El mercado potencial de una marca de secadores incluiría tanto los que compran secadores de otras marcas, como los que no los compran, tales como niños, personas calvas, etc.
 - El mercado objetivo de la empresa LEGO actualmente es el público infantil femenino. Por ello, han lanzado recientemente una línea exclusiva de LEGOS para niñas, denominada LEGO Friends, que está adaptada los gustos intereses de este segmento del mercado.
 - El mercado actual no siempre es fácil de mantener, como se percibe en el caso de LEGO, ya que los niños que hace 15 años compraban estas construcciones son ahora adultos. No obstante, la compañía trata de recuperarlos con el lanzamiento de unas construcciones más caras, ya que se trata de diseños complejos más cercanos su gusto, como son las inspiradas en la película la Guerra de las Galaxias.
 
-#### Actividades
+##### Actividades
 
 3. La compañía Iberia ha decidido cerrar algunas de sus rutas habituales que ya está cubriendo el AVE, para ahorrar costes. ¿Cuál es el mercado potencial que espera conseguir Iberia con esta medida? Para responder la pregunta, puedes consultar el siguiente enlace: http://bitiy/SdykU9.
 
@@ -1003,11 +1003,11 @@ Dentro del mercado potencial, la empresa priorizará a los clientes de la compet
 
 Cuota de mercado = Mercado objetivo x 100 / Mercado total
 
-#### Ejemplo 4. Cálculo de la cuota de mercado en Movistar
+##### Ejemplo 4. Cálculo de la cuota de mercado en Movistar
 
 La cuota de mercado de Movistar se obtiene dividiendo el número de clientes de Movistar entre el número de clientes de cualquier operadora de móviles (incluyendo Movistar). El mercado actual son los clientes que utilizan Movistar. El mercado potencial, todos los que no utilizan Movistar e incluso aquellos que no tienen móvil pero podrían adquirirlo. El mercado objetivo es el segmento del mercado potencial al que Movistar dirigirá su estrategia comercial para intentar captarlos como clientes.
 
-#### Actividades
+##### Actividades
 
 4. La filial española de Mercedes-Benz tiene la previsión a medio plazo de alcanzar una cuota de mercado del 10% en el segmento de los vehículos comerciales ligeros con el lanzamiento del nuevo Citan, del que prevé comercializar unas 8000 unidades anuales. Para más información puedes consultar este enlace: http://bit.ly/11bz543.
 
@@ -1039,7 +1039,7 @@ Fig. 2.2. Factores diferenciales de las empresas.
 
 La diferenciación tecnológica tiene un peso decisivo hoy en día, sobre todo en lo referente al uso de herramientas informáticas, por lo que incluiremos en las Actividades de simulación el uso de programas y de páginas web para que te familiarices con ellas.
 
-#### Ejemplo 5. Diferenciación en un centro de estética
+##### Ejemplo 5. Diferenciación en un centro de estética
 
 Un centro de estética puede diferenciarse de la competencia en base a uno o varios factores:
 
@@ -1048,7 +1048,7 @@ Un centro de estética puede diferenciarse de la competencia en base a uno o var
 - c) Estéticos: ofreciendo una imagen de cultura oriental a través de su decoración zen o de la realización de masajes con cuencos tibetanos.
 - d) Económicos: a través de precios superiores a los del mercado, para crearse una imagen de exclusividad o lujo, reduciendo precio o por medio de ofertas, bonos descuentos, etc.
 
-#### Actividades
+##### Actividades
 
 5. ¿Cómo puede diferenciarse una tienda de ropa en base a los factores señalados?
 
@@ -1058,7 +1058,7 @@ Un proveedor es la empresa que suministra materias primas o mercancías a otra e
 
 Un distribuidor es aquella empresa que pone a disposición de los consumidores finales los bienes del fabricante, a través de tiendas o por medios telemáticos: compra online, pedido telefónico, venta por catálogo, etc.
 
-#### Actividades
+##### Actividades
 
 6. Lee el extracto de la siguiente noticia aparecida en prensa y responde las cuestiones planteadas.
 
@@ -1080,7 +1080,7 @@ Las conclusiones del estudio de mercado y de las características de la empresa 
 
 Sirve como herramienta de diagnóstico pero también de cambio, al posibilitar la reflexión sobre aquellos aspectos que perjudican a la empresa. La empresa tiene cierta capacidad de control sobre los aspectos internos (debilidades y fortalezas) que podrán ser modificados por la empresa. Sin embargo, los aspectos externos (amenazas y oportunidades) identificados, escapan a nuestro control, por lo que solo se podrá intentar reducir su impacto negativo.
 
-#### Ejemplo 6. Análisis DAFO ele la cafetería de un ÍES
+##### Ejemplo 6. Análisis DAFO ele la cafetería de un ÍES
 
 NEGATIVO:
 
@@ -1113,7 +1113,7 @@ POSITIVO
 - Comodidad para las familias: dar dinero a los hijos es más cómodo que prepararles un bocadillo.
 - Comodidad para los profesores: si van a un bar exterior hace frío, llueve, pierden más tiempo, etc.
 
-#### Actividades
+##### Actividades
 
 7. Añade un ejemplo más en cada celda de la tabla del Ejemplo 6.
 
@@ -1125,7 +1125,7 @@ Como consecuencia de todo el análisis suscitado en el estudio del mercado, la e
 
 El plan de producción persigue concretar todos los aspectos técnicos y organizativos que conciernen a la elaboración de los productos o a la prestación de los servicios recogidos en el plan de empresa. La compañía establecerá sus productos según las necesidades detectadas y según la diferenciación que quiera marcar con su competencia.
 
-#### Elementos del plan de producción
+##### Elementos del plan de producción
 
 - a) La descripción técnica incluirá todo lo necesario para el desarrollo y la producción del producto, o los procedimientos y las necesidades técnicas, si se tratara de un servicio, tales como: locales y equipos necesarios, descripción de puestos de trabajo, fases del proceso productivo, necesidades de personal, etc.
 - b) La descripción organizativa concreta las estrategias del proceso productivo, tales como costes laborales, volumen de producción, gestión de existencias, control de calidad, inventariado, etc.
@@ -1187,7 +1187,7 @@ Los consumidores cada vez son más conscientes del poder de influencia que tiene
 #### Actividades
 
 8. Busca dos ejemplos de acciones de RSC de diferentes empresas. Puedes introducir esas palabras de búsqueda en tu navegador y proponer una empresa concreta.
-9. Piensa qué acciones pueden llevar a cabo las instituciones públicas y los consumido res para fomentar estas buenas prácticas corporativas.
+9. Piensa qué acciones pueden llevar a cabo las instituciones públicas y los consumidores para fomentar estas buenas prácticas corporativas.
 
 #### Ejemplo 9. La eficacia del Social Confirming
 
@@ -1255,10 +1255,10 @@ El agua OGO tiene 35 veces más oxígeno que otras aguas minerales. Podríamos d
 
 Sea cual sea el objeto de fabricación, el plan de producción recogerá las decisiones relativas al bien producido y al proceso de fabricación en sí, tales como:
 
-- Descripción del bien a fabrican forma, denominación, características físicas, color, ta maño, material, funcionalidad, estética, peso, volumen, envase, necesidad que satisface, elemento diferenciado, etc.
+- Descripción del bien a fabricar, forma, denominación, características físicas, color, tamaño, material, funcionalidad, estética, peso, volumen, envase, necesidad que satisface, elemento diferenciado, etc.
 - Proceso de producción: adquisición y almacenaje de materias primas, recursos materiales necesarios, contratación de personal, asignación de funciones, pasos y tiempos de cada fase del proceso, volumen de producción, costes, control de calidad, gestión de existencias, etc.
 
-#### Ejemplo 12. La autoencuadernación de Bindo!
+##### Ejemplo 12. La autoencuadernación de Bindo!
 
 Bindo! es una empresa española que comercializa un sistema patentado de autoencuadernación en menos de un minuto. El cliente puede encuadernar al instante cualquier tipo de documento, entre 1 y 800 páginas, sin requerir maquinaria y en tapas duras o blandas.
 
