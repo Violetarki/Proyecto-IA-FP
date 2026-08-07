@@ -7,39 +7,6 @@ from src.knowledge.loader import cargar_arbol
 from src.knowledge.models import KnowledgeTree
 
 
-STOPWORDS = {
-    "que",
-    "qué",
-    "como",
-    "cómo",
-    "es",
-    "son",
-    "el",
-    "la",
-    "los",
-    "las",
-    "un",
-    "una",
-    "de",
-    "del",
-    "y",
-    "o",
-    "en",
-    "con",
-    "para",
-    "por",
-    "cuál",
-    "cuáles",
-    "cual",
-    "cuales",
-    "se",
-    "al",
-    "a",
-}
-
-# recibe esto de vector_Store:
-resultados: list[ResultadoBusqueda]
-
 
 class ContextExpander:
 
@@ -66,23 +33,52 @@ class ContextExpander:
         return self._ordenar(chunks)
 
 
-
-    def _buscar_padre(self, nodo):
+    def _aplicar_umbrales(self):
+        """
+        Método público de expander.Coordina todo el proceso de enriquecimiento del contexto. 
+        Entrada: list[ResultadoBusqueda]
+        Salida: list[Chunk]
+        """
         ...
 
 
-    def _buscar_hermanos(self, nodo):
-        ...
+    def _añadir_padres(self):
+        """
+        Añade el nodo padre de cada chunk recuperado. El padre aporta contexto general. 
+        Ej.: Si recuperamos Fortalezas(hijo), añadimos también DAFO(padre).
+        """
 
+    def _añadir_hermanos(self):
+        """
+        Añade los nodos que comparten el mismo padre. 
+        Si preguntan por Fortalezas, puede ser útil que el modelo vea también las demás categorías.
+        """
+
+    def _añadir_hijos(self):
+        """
+        Añade los subapartados del chunk recuperado. 
+        Permite ampliar una explicación general con detalles concretos.
+        """
+
+    def _eliminar_duplicados(self):
+        """
+        Evita que un mismo chunk aparezca varias veces. 
+        Al añadir padres y hermanos es fácil repetir información.
+        """
 
 
     def _obtener_nodo(self, node_id):
-        ...
+        """
+        Obtiene un nodo del árbol a partir de su node_id. 
+        Todos los demás métodos necesitan acceder al árbol. Es una función auxiliar para no repetir código.
+        """
 
 
 
     def _ordenar_por_jerarquia(self, chunks):
-        ...
+        """
+        Ordena los chunks antes de enviarlos al LLM. El modelo entiende mejor un documento cuando mantiene el orden original.
+        """
 
 
 
