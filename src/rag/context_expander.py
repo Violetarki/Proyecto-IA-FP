@@ -3,7 +3,6 @@
 from src.core.models import ResultadoBusqueda, Chunk
 from src.core.config import UMBRAL_ACEPTABLE, UMBRAL_BUENO, UMBRAL_EXCELENTE, MAXIMO_CHUNKS, MINIMO_CHUNKS
 from src.rag.historial import Historial
-from src.knowledge.loader import cargar_arbol
 from src.knowledge.models import KnowledgeTree
 
 
@@ -27,13 +26,14 @@ class ContextExpander:
 
         chunks = self._aplicar_umbrales(candidatos)
 
-        chunks = self._añadir_padres(chunks)
+        chunks = self._expandir_padres(chunks)
 
         chunks = self._eliminar_duplicados(chunks)
 
-        chunks = self._ordenar(chunks)
+        chunks = self._ordenar_por_jerarquia(chunks)
 
         return chunks
+
 
 
     def _aplicar_umbrales(
@@ -73,6 +73,36 @@ class ContextExpander:
 
         return aceptables[:MAXIMO_CHUNKS]
 
+
+    def _obtener_nodo(
+        self,
+        node_id: str,
+    ):
+        """
+        Obtiene un nodo del árbol a partir de su node_id.
+
+        Devuelve None si el nodo no existe.
+        """
+
+        return self._buscar_nodo(self.arbol.raiz, node_id)
+
+
+    def _buscar_nodo(
+        self,
+        nodo,
+        node_id: str,
+    ):
+        if nodo.id == node_id:
+            return nodo
+
+        for hijo in nodo.hijos:
+            encontrado = self._buscar_nodo(hijo, node_id)
+            if encontrado is not None:
+                return encontrado
+
+        return None
+
+
     def _añadir_padres(self):
         """
         Añade el nodo padre de cada chunk recuperado. El padre aporta contexto general. 
@@ -96,14 +126,6 @@ class ContextExpander:
         Evita que un mismo chunk aparezca varias veces. 
         Al añadir padres y hermanos es fácil repetir información.
         """
-
-
-    def _obtener_nodo(self, node_id):
-        """
-        Obtiene un nodo del árbol a partir de su node_id. 
-        Todos los demás métodos necesitan acceder al árbol. Es una función auxiliar para no repetir código.
-        """
-
 
 
     def _ordenar_por_jerarquia(self, chunks):
