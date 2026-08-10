@@ -103,7 +103,8 @@ class ContextExpander:
         return None
 
 
-# comentario de la chati: Con la restricción de "no traer chunks nuevos", esta función aporta muy poco valor. Por eso quizá la función que más valor tenga en esta primera versión no sea la de padres, sino la de ordenación por jerarquía.
+# comentario de la chati: Con la restricción de "no traer chunks nuevos", esta función aporta muy poco valor. 
+# Por eso quizá la función que más valor tenga en esta primera versión no sea la de padres, sino la de ordenación por jerarquía.
     def _enriquecer_con_padres(
         self,
         chunks: list[Chunk],
@@ -206,11 +207,25 @@ class ContextExpander:
         return resultado
 
 
-    def _eliminar_duplicados(self):
+    def _eliminar_duplicados(
+        self,
+        chunks: list[Chunk],
+    ) -> list[Chunk]:
         """
-        Evita que un mismo chunk aparezca varias veces. 
-        Al añadir padres y hermanos es fácil repetir información.
+        Elimina los chunks duplicados conservando el orden original.
         """
+
+        vistos = set()
+        resultado = []
+
+        for chunk in chunks:
+            if chunk.indice in vistos:
+                continue
+
+            vistos.add(chunk.indice)
+            resultado.append(chunk)
+
+        return resultado
 
 
     def _ordenar_por_jerarquia(self, chunks):
