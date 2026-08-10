@@ -1,19 +1,29 @@
 # 1. Clasificación previa con el propio LLM (query classification)
 
-# Antes de hacer retrieval, se le pasa la pregunta del usuario a un LLM (puede ser uno chiquito y rápido) con un prompt tipo "clasifica esta pregunta en: factual_simple, step_by_step, comparación, categorización, exploración_de_subtemas". El LLM devuelve una etiqueta (a veces en JSON) y según esa etiqueta el sistema decide:
+# Antes de hacer retrieval, se le pasa la pregunta del usuario a un LLM (puede ser uno chiquito y rápido) con un prompt 
+# tipo "clasifica esta pregunta en: factual_simple, step_by_step, comparación, categorización, exploración_de_subtemas".
+#  El LLM devuelve una etiqueta (a veces en JSON) y según esa etiqueta el sistema decide:
 
 # Pregunta simple → retrieval normal, top-k chunks, respuesta directa
-# Step-by-step → puede activar un prompt distinto que fuerce salida estructurada, o incluso recuperar chunks en orden secuencial si tu estructura lo permite
-# Comparación → aquí muchos sistemas hacen retrieval múltiple: una query por cada término a comparar, para asegurarse de traer contexto de ambos lados en vez de que el embedding "promedie" la pregunta y traiga solo lo de uno
-# Categorización/subtemas → esto normalmente no es retrieval semántico puro, sino que se apoya en metadata (como tu seccion/subseccion en el chunker que hiciste)
+# Step-by-step → puede activar un prompt distinto que fuerce salida estructurada, o incluso recuperar chunks en orden secuencial 
+#   si tu estructura lo permite
+# Comparación → aquí muchos sistemas hacen retrieval múltiple: una query por cada término a comparar, 
+#   para asegurarse de traer contexto de ambos lados en vez de que el embedding "promedie" la pregunta y traiga solo lo de uno
+# Categorización/subtemas → esto normalmente no es retrieval semántico puro, sino que se apoya en metadata 
+#   (como tu seccion/subseccion en el chunker que hiciste)
 
 # 2. 2. Metadata-driven retrieval
 
-# Aquí es donde tu estructura de chunking con _Nodo tipo árbol te da una ventaja enorme. Si el usuario pregunta "¿qué subtemas tiene el capítulo 3?", no necesitas retrieval semántico — puedes responder consultando directamente la jerarquía de tu árbol de nodos y devolver los títulos de las secciones hijas. Esto es más rápido, más preciso, y no depende de que el embedding "entienda" que es una pregunta estructural.
+# Aquí es donde tu estructura de chunking con _Nodo tipo árbol te da una ventaja enorme. 
+# Si el usuario pregunta "¿qué subtemas tiene el capítulo 3?", no necesitas retrieval semántico — puedes responder 
+# consultando directamente la jerarquía de tu árbol de nodos y devolver los títulos de las secciones hijas. 
+# Esto es más rápido, más preciso, y no depende de que el embedding "entienda" que es una pregunta estructural.
 
 # 3. Query rewriting / decomposition
 
-# Para preguntas de comparación tipo "diferencia entre X e Y", muchos sistemas parten la query en dos sub-queries ("¿qué es X?", "¿qué es Y?"), hacen retrieval separado para cada una, y luego el LLM sintetiza la comparación con ambos contextos ya recuperados.
+# Para preguntas de comparación tipo "diferencia entre X e Y", muchos sistemas parten la query en dos sub-queries
+#  ("¿qué es X?", "¿qué es Y?"), hacen retrieval separado para cada una, y luego el LLM sintetiza la comparación con
+#  ambos contextos ya recuperados.
 
 # 4. Routing basado en intención + retrieval híbrido
 
@@ -79,7 +89,7 @@ def responder(pregunta: str, coleccion_chroma, arbol_nodos):
 # Paso 3: La rama "estructura" no toca ChromaDB, va directo al árbol
 # Esta es la parte donde tu chunker con _Nodo te ahorra retrieval innecesario:
     
-    def responder_estructura(nombre_seccion: str, arbol_nodos):
+def responder_estructura(nombre_seccion: str, arbol_nodos):
     nodo = buscar_nodo_por_nombre(arbol_nodos, nombre_seccion)
     if nodo is None:
         return f"No encontré una sección llamada '{nombre_seccion}'."
@@ -94,12 +104,12 @@ def responder(pregunta: str, coleccion_chroma, arbol_nodos):
 
 def sintetizar_comparacion(pregunta: str, contextos: list[str]) -> str:
     prompt = f"""Usando el siguiente contexto, responde comparando los conceptos.
-Estructura la respuesta señalando similitudes y diferencias claramente.
+        Estructura la respuesta señalando similitudes y diferencias claramente.
 
-Contexto:
-{chr(10).join(contextos)}
+        Contexto:
+        {chr(10).join(contextos)}
 
-Pregunta: {pregunta}"""
+        Pregunta: {pregunta}"""
     respuesta = client.chat.completions.create(
         model="llama-3.1-70b-versatile",
         messages=[{"role": "user", "content": prompt}]
@@ -116,12 +126,16 @@ Pregunta: {pregunta}"""
 # Lo que hace la gente en producción normalmente es un híbrido:
 
 # Primero pasa por reglas (rápido, gratis, cero latencia)
-# Si las reglas no matchean nada con confianza (caso "factual" por defecto, o si matchea más de una categoría a la vez), ahí sí se manda al LLM clasificador como fallback
+# Si las reglas no matchean nada con confianza (caso "factual" por defecto, o si matchea más de una categoría a la vez), 
+# ahí sí se manda al LLM clasificador como fallback
 
-# Esto te da lo mejor de los dos mundos: la mayoría de preguntas "obvias" (con "cómo", "diferencia", "subtemas") se resuelven gratis sin tocar el LLM, y solo las ambiguas pagan el coste de una llamada extra.
+# Esto te da lo mejor de los dos mundos: la mayoría de preguntas "obvias" 
+# (con "cómo", "diferencia", "subtemas") se resuelven gratis sin tocar el LLM, y solo las ambiguas pagan el coste de una llamada extra.
 
-# Lo que las reglas NO pueden hacer bien es extraer los terminos — o sea, saber que en "diferencia entre MVP y prototipo" los conceptos a buscar son "MVP" y "prototipo". 
-# Ahí sí necesitas algo más que regex (spaCy para NER, o simplemente el LLM), porque identificar entidades dentro de una frase libre es justo el tipo de tarea donde el regex se rompe rápido.
+# Lo que las reglas NO pueden hacer bien es extraer los terminos — o sea, saber que en "diferencia entre MVP y prototipo"
+# los conceptos a buscar son "MVP" y "prototipo". 
+# Ahí sí necesitas algo más que regex (spaCy para NER, o simplemente el LLM), 
+# porque identificar entidades dentro de una frase libre es justo el tipo de tarea donde el regex se rompe rápido.
     
 import re
 
@@ -161,9 +175,11 @@ def clasificar_intencion_hibrido(pregunta: str) -> dict:
 # Tu prompt de clasificación (el INTENT_PROMPT) son ~80-100 tokens fijos, más la pregunta del usuario (normalmente 10-30 tokens)
 # La respuesta es un JSON cortito tipo {"intent": "comparacion", "terminos": ["MVP", "prototipo"]} → unos 15-20 tokens de salida
 # Con clasificación, cuando detectas intent: comparacion y extraes terminos: ["MVP", "prototipo"], 
-# haces dos retrievals separados y limpios, cada uno con un top_k bajo (3-4 chunks) porque cada query es específica. Total: menos chunks, más relevantes, mismo o mejor resultado.
+# haces dos retrievals separados y limpios, cada uno con un top_k bajo (3-4 chunks) porque cada query es específica. 
+# Total: menos chunks, más relevantes, mismo o mejor resultado.
 # Ahorro por evitar retrieval innecesario del todo
-# Este es el ahorro más grande en realidad. Cuando el intent es estructura ("¿qué subtemas tiene el capítulo 3?"), con tu router no llamas a ChromaDB en absoluto — vas directo al árbol de nodos
+# Este es el ahorro más grande en realidad. Cuando el intent es estructura ("¿qué subtemas tiene el capítulo 3?"), 
+# con tu router no llamas a ChromaDB en absoluto — vas directo al árbol de nodos
 # La única llamada al LLM grande es para formatear bonito la respuesta (o ni eso, si simplemente devuelves la lista directamente)
 
 # Esquema final de flujo:
@@ -181,7 +197,9 @@ def clasificar_intencion_hibrido(pregunta: str) -> dict:
 #       ▼
 # [Prompt builder] → LLM síntesis
 
-# El intent classifier no le habla directamente al expander. Le habla al retriever (decide cuántas queries, con qué top_k) y opcionalmente le pasa parámetros de expansión al expander (por ejemplo, para intent: pasos quizás quieres _añadir_hijos más agresivo porque necesitas el detalle secuencial completo; para intent: factual simple quizás ni añades hermanos porque no aporta).
+# El intent classifier no le habla directamente al expander. Le habla al retriever (decide cuántas queries, con qué top_k) 
+# y opcionalmente le pasa parámetros de expansión al expander (por ejemplo, para intent: pasos quizás quieres _añadir_hijos 
+# más agresivo porque necesitas el detalle secuencial completo; para intent: factual simple quizás ni añades hermanos porque no aporta).
 
 # Así que una extensión natural de tu diseño sería que expandir() acepte un parámetro de configuración:
 
@@ -197,7 +215,8 @@ def expandir(self, resultados: list[ResultadoBusqueda], estrategia: dict = None)
     candidatos = self._eliminar_duplicados(candidatos)
     return self._ordenar(candidatos)
 
-# Y el intent classifier simplemente decide qué estrategia dict pasarle. Por ejemplo: (** Las categorías de intent deben ser las mismas que las keys de ESTRATEGIAS_POR_INTENT)
+# Y el intent classifier simplemente decide qué estrategia dict pasarle. Por ejemplo: 
+# (** Las categorías de intent deben ser las mismas que las keys de ESTRATEGIAS_POR_INTENT)
 ESTRATEGIAS_POR_INTENT = {
     "factual": {"umbral": 0.7, "incluir_padres": True, "incluir_hermanos": False, "incluir_hijos": False},
     "pasos": {"umbral": 0.6, "incluir_padres": True, "incluir_hermanos": False, "incluir_hijos": True},
@@ -205,7 +224,8 @@ ESTRATEGIAS_POR_INTENT = {
 }
 
 # Falta el fallback si la key de intent no existe en ESTRATEGIAS_POR_INTENT
-# El LLM a veces puede devolver algo inesperado (aunque le fuerces el prompt), así que conviene un .get() con default en vez de acceso directo:
+# El LLM a veces puede devolver algo inesperado (aunque le fuerces el prompt), así que conviene un .get() 
+# con default en vez de acceso directo:
 
 def obtener_estrategia(intent: str) -> dict:
     return ESTRATEGIAS_POR_INTENT.get(intent, ESTRATEGIAS_POR_INTENT["factual"])

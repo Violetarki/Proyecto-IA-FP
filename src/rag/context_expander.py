@@ -1,7 +1,7 @@
 
 
 from src.core.models import ResultadoBusqueda, Chunk
-from src.core.config import UMBRAL_ACEPTABLE, UMBRAL_BUENO, UMBRAL_EXCELENTE, MAXIMO_CHUNKS, MINIMO_CHUNKS
+from src.core.config import UMBRAL_ACEPTABLE, UMBRAL_BUENO, UMBRAL_EXCELENTE, MAXIMO_CHUNKS, MINIMO_CHUNKS, ESTRATEGIA_DEFAULT
 from src.rag.historial import Historial
 from src.knowledge.models import KnowledgeTree
 
@@ -19,27 +19,32 @@ class ContextExpander:
 
 
 
-    def expandir(
-        self,
-        candidatos: list[ResultadoBusqueda],
-    ) -> list[Chunk]:
+    def expandir(self, resultados: list[ResultadoBusqueda], estrategia: dict = None) -> list[Chunk]:
 
-        chunks = self._aplicar_umbrales(candidatos)
+        estrategia = estrategia or self.ESTRATEGIA_DEFAULT
 
-        chunks = self._enriquecer_con_padres(chunks)
+        candidatos = self._aplicar_umbrales(resultados, estrategia["umbral"])
 
-        chunks = self._eliminar_duplicados(chunks)
+        if estrategia.get("incluir_padres", True):
+            candidatos = self._enriquecer_con_padres(candidatos)
 
-        chunks = self._ordenar_por_jerarquia(chunks)
+        if estrategia.get("incluir_hermanos", False):
+            candidatos = self._enriquecer_con_hermanos(candidatos)
 
-        return chunks
+        if estrategia.get("incluir_hijos", False):
+            candidatos = self._enriquecer_con_hijos(candidatos)
+
+        candidatos = self._eliminar_duplicados(candidatos)
+
+        return self._ordenar(candidatos)
 
 
 
     def _aplicar_umbrales(
-    self,
-    resultados: list[ResultadoBusqueda],
-) -> list[Chunk]:
+        self,
+        resultados: list[ResultadoBusqueda],
+        estrategia: str,
+    ) -> list[Chunk]:
         """
         Filtra los chunks recuperados según su relevancia.
 
@@ -50,7 +55,7 @@ class ContextExpander:
         excelentes = [
             resultado.chunk
             for resultado in resultados
-            if resultado.distancia <= UMBRAL_EXCELENTE
+                if resultado.distancia <= UMBRAL_EXCELENTE
         ]
 
         if len(excelentes) >= MINIMO_CHUNKS:
@@ -59,7 +64,7 @@ class ContextExpander:
         buenos = [
             resultado.chunk
             for resultado in resultados
-            if resultado.distancia <= UMBRAL_BUENO
+                if resultado.distancia <= UMBRAL_BUENO
         ]
 
         if len(buenos) >= MINIMO_CHUNKS:
@@ -68,7 +73,7 @@ class ContextExpander:
         aceptables = [
             resultado.chunk
             for resultado in resultados
-            if resultado.distancia <= UMBRAL_ACEPTABLE
+                if resultado.distancia <= UMBRAL_ACEPTABLE
         ]
 
         return aceptables[:MAXIMO_CHUNKS]
@@ -276,42 +281,3 @@ class ContextExpander:
             return tuple(reversed(ruta))
 
         return sorted(chunks, key=clave)
-
-
-    def _aplicar_umbrales(
-        self,
-        resultados: list[ResultadoBusqueda],
-    ) -> list[Chunk]:
-        """
-        Filtra los chunks recuperados según su relevancia.
-
-        Se priorizan los chunks con mejor similitud.
-        Si no hay suficientes resultados excelentes,
-        se amplía progresivamente el umbral de aceptación.
-        """
-
-        excelentes = [
-            resultado.chunk
-            for resultado in resultados
-            if resultado.distancia <= UMBRAL_EXCELENTE
-        ]
-
-        if len(excelentes) >= MINIMO_CHUNKS:
-            return excelentes[:MAXIMO_CHUNKS]
-
-        buenos = [
-            resultado.chunk
-            for resultado in resultados
-            if resultado.distancia <= UMBRAL_BUENO
-        ]
-
-        if len(buenos) >= MINIMO_CHUNKS:
-            return buenos[:MAXIMO_CHUNKS]
-
-        aceptables = [
-            resultado.chunk
-            for resultado in resultados
-            if resultado.distancia <= UMBRAL_ACEPTABLE
-        ]
-
-        return aceptables[:MAXIMO_CHUNKS]
