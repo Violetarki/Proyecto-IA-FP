@@ -36,7 +36,7 @@ class ContextExpander:
 
         candidatos = self._eliminar_duplicados(candidatos)
 
-        return self._ordenar(candidatos)
+        return self._ordenar_por_jerarquia(candidatos)
 
 
 
