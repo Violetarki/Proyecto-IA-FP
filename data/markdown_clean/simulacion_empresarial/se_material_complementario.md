@@ -960,7 +960,7 @@ En la siguiente sección discutiremos, con más detalle, dos metodologías de en
 
 La gamificación es el uso de elementos de juego (con puntos, niveles, desafíos, recompensas y competencia amistosa) en contextos educativos para aumentar la motivación y el compromiso de los estudiantes.
 
-En la enseñanza del emprendimiento, la gamificación signica hacer que el aprendizaje sea más lúdico sin dejar de ser sustantivo.
+En la enseñanza del emprendimiento, la gamificación significa hacer que el aprendizaje sea más lúdico sin dejar de ser sustantivo.
 
 - Como funciona
 
@@ -1084,7 +1084,7 @@ Los conceptos clave de este módulo se presentan a continuación. Léelos y marc
 
 - Proceso Emprendedor: Es un ciclo iterativo que requiere una adaptación constante. Implica saber cómo hacer investigación de mercado, plan de negocios, recaudar capital, liderar equipos e innovar continuamente.
 
-- Innovación: Es el corazón del emprendimiento. Emprender a menudo signica introducir algo nuevo, ya sea un producto innovador o una mejora en un servicio existente. El concepto de "destrucción creativa" de Schumpeter explica que los innovadores reemplazan los productos y modelos antiguos por otros nuevos, impulsando el progreso económico y social.
+- Innovación: Es el corazón del emprendimiento. Emprender a menudo significa introducir algo nuevo, ya sea un producto innovador o una mejora en un servicio existente. El concepto de "destrucción creativa" de Schumpeter explica que los innovadores reemplazan los productos y modelos antiguos por otros nuevos, impulsando el progreso económico y social.
 
 Es crucial enseñar no solo cómo hacer un plan de negocios, sino también desarrollar una mentalidad y habilidades empresariales completas.
 
@@ -1218,7 +1218,7 @@ La mentalidad emprendedora se refiere a un estado mental propicio para la creaci
 
 ## 3. Características
 
-La mentalidad emprendedora se puede cultivar a través de prácticas especícas, exposición a desafíos y aprendizaje constante. Descubre a continuación sus características principales, ya tratadas en el Módulo 1.
+La mentalidad emprendedora se puede cultivar a través de prácticas específicas, exposición a desafíos y aprendizaje constante. Descubre a continuación sus características principales, ya tratadas en el Módulo 1.
 
 - Pasión y motivación
 
@@ -1288,7 +1288,7 @@ Las creencias limitantes son pensamientos o convicciones personales que nos impi
   2. "Sin mucho dinero o experiencia, nunca tendré éxito"
   3. "Si fallo, es porque no puedo"
   4. "No tengo la edad adecuada para iniciar un negocio"
-  5. "No soy lo sucientemente creativo como para innovar"
+  5. "No soy lo suficientemente creativo como para innovar"
 
 Estas creencias negativas socavan la confianza y se convierten en profecías autocumplidas si no se cuestionan.
 
@@ -1296,7 +1296,7 @@ Estas creencias negativas socavan la confianza y se convierten en profecías aut
   - Surge de experiencias pasadas o mensajes sociales.
   - Crean barreras mentales que se sienten reales.
   - Limitan la acción y las posibilidades percibidas. Se
-  - Se conrman a través de comportamientos de autosabotaje.
+  - Se confirman a través de comportamientos de autosabotaje.
 
 ### REFLEXIÓN
 
@@ -1328,7 +1328,7 @@ Realidad: Los emprendedores provienen de todas las edades y orígenes. Hay histo
 
 - MITO 5: "Basta tener una idea increíble para enriquecerse rápido"
 
-Tener una buena idea no es suciente para alcanzar el éxito. Es indispensable ponerlo en práctica con una estrategia consistente, un modelo de negocio bien estructurado y una dedicación continua. La promesa de hacerse rico rápidamente rara vez se hace realidad.
+Tener una buena idea no es suficiente para alcanzar el éxito. Es indispensable ponerlo en práctica con una estrategia consistente, un modelo de negocio bien estructurado y una dedicación continua. La promesa de hacerse rico rápidamente rara vez se hace realidad.
 
 ### Foro
 
@@ -1338,13 +1338,13 @@ Tener una buena idea no es suciente para alcanzar el éxito. Es indispensable po
 
 ### 5.1 Mindset fija vs mindset de crecimiento
 
-La psicóloga Carol Dweck deFInió dos tipos de mentalidad que afectan signicativamente nuestra capacidad para desarrollarnos y adaptarnos.
+La psicóloga Carol Dweck definió dos tipos de mentalidad que afectan significativamente nuestra capacidad para desarrollarnos y adaptarnos.
 
 MENTALIDAD FIJA
 
 - Cree que las capacidades son innatas e inmutables.
 - Enfoque en demostrar constantemente la propia inteligencia o el talento.
-- Ve el fracaso como algo personal y denitivo.
+- Ve el fracaso como algo personal y definitivo.
 - Evita desafíos por miedo a parecer incompetente.
 - El esfuerzo es visto como un signo de debilidad o falta de talento.
 - La retroalimentación negativa se percibe como un ataque personal.
@@ -1386,7 +1386,7 @@ Rasgos de tipos de mentalidad
   - Aprende de las críticas y no tiene miedo de admitir cuando no sabe algo.
   - Ve un mal resultado como retroalimentación para mejorar.
   - Se inspira con el éxito de los demás.
-  - Persiste incluso cuando encuentra dicultades.
+  - Persiste incluso cuando encuentra dificultades.
 
 Si ha identificado rasgos de mentalidad fijos, no se preocupe: las mentalidades son creencias y se pueden cambiar.
 
@@ -1403,7 +1403,7 @@ Una estrategia de las personas con mentalidad de crecimiento es actuar a pesar d
 En lugar de ser bloqueados por el miedo al fracaso o el juicio de los demás, avanzan paso a paso.
 
 - Estrategias para avanzar a pesar del miedo:
-  - Indentifica lo que realmente temes (¿es el fracaso o el juicio de los demás?)
+  - Identifica lo que realmente temes (¿es el fracaso o el juicio de los demás?)
   - Divide el objetivo en pasos más pequeños y manejables.
   - Comienza con el paso que parezca menos aterrador.
   - Celebra cada pequeña victoria en el camino.
@@ -1425,7 +1425,7 @@ Consejo: Cada vez que pienses "No soy capaz", añade: "Todavía no soy capaz... 
 
 Transformar creencias limitantes en perspectivas constructivas es una habilidad esencial para el emprendedor. Practiquemos:
 
-- Indentificar
+- Identificar
 
 Identifica una posible creencia limitante que tuya o tus alumnos tengan sobre el emprendimiento. Escríbelo en papel.
 
@@ -1476,7 +1476,7 @@ Cada individuo tiene un nivel diferente de tolerancia al riesgo. Los emprendedor
 
 - Calcular riesgos: Analiza las posibles ganancias y pérdidas antes de tomar una decisión. No evitan todos los riesgos, pero tampoco se 'lanzan con los ojos cerrados'. Los empresarios exitosos buscan información, analizan posibles escenarios y evalúan el impacto de diferentes resultados.
 
-- Tomar riesgos calculados: Toman decisiones arriesgadas cuando creen que la probabilidad de retorno justica el riesgo. Saben establecer límites: por ejemplo, invierten una cantidad que pueden perder sin comprometer el negocio, mitigando así los riesgos excesivos.
+- Tomar riesgos calculados: Toman decisiones arriesgadas cuando creen que la probabilidad de retorno justifica el riesgo. Saben establecer límites: por ejemplo, invierten una cantidad que pueden perder sin comprometer el negocio, mitigando así los riesgos excesivos.
 
 - Aceptar la incertidumbre: Perciben que no hay garantías en el mercado. En lugar de estancarse, siguen adelante con el mejor plan posible y están preparados para ajustar el plan en caso de que algo salga mal. Desarrollar tolerancia a la ambigüedad y la capacidad de adaptación a escenarios imprevistos.
 
@@ -1492,15 +1492,15 @@ Piense en una decisión arriesgada que haya tomado recientemente. ¿Qué factore
 
 Reflexiona sobre las siguientes afirmaciones, califíquelas según su grado de acuerdo, del 1 (totalmente en desacuerdo) al 5 (totalmente de acuerdo):
 
-1. "Estoy dispuesto a asumir riesgos nancieros y profesionales para lograr mis objetivos empresariales".
+1. "Estoy dispuesto a asumir riesgos financieros y profesionales para lograr mis objetivos empresariales".
 
 2. "Me siento cómodo con la incertidumbre y la imprevisibilidad en mis proyectos".
 
 3. "No tengo miedo al fracaso, y lo veo como parte del camino".
 
-4. "Preero tomar decisiones con el 70% de la información que esperar por el 100% de certeza".
+4. "Prefiero tomar decisiones con el 70% de la información que esperar por el 100% de certeza".
 
-5. "Cuando identico una oportunidad, puedo actuar rápidamente incluso sin garantías".
+5. "Cuando identifico una oportunidad, puedo actuar rápidamente incluso sin garantías".
 
 6. "Creo en mi capacidad para adaptar las estrategias si el plan inicial no funciona".
 
@@ -1536,11 +1536,11 @@ Decidir en condiciones inciertas es un desafío psicológico. Explora los siguie
 
 - CONSIDERA LOS RIESGOS Y LOS RENDIMIENTOS: Elabora una lista de pros y contras para cada opción, incluidas las posibles ganancias y pérdidas. Pregúntate: ¿es aceptable este riesgo en vista de la posible rentabilidad? Evaluar tanto el impacto como la probabilidad de que ocurran diferentes resultados. Método: Matriz de decisión con ponderación de diferentes criterios.
 
-- SER CONSCIENTE DEL SESGO COGNITIVO: Reconoce las posibles distorsiones en tu decisión. Por ejemplo, el sesgo de confirmación (solo buscar información que conrme tu idea), la aversión a la pérdida (asignar más peso al miedo a perder que a la oportunidad de ganar).Busca activamente diferentes perspectivas. Estrategia: Habla con personas que tengan puntos de vista contrarios a los tuyos.
+- SER CONSCIENTE DEL SESGO COGNITIVO: Reconoce las posibles distorsiones en tu decisión. Por ejemplo, el sesgo de confirmación (solo buscar información que confirme tu idea), la aversión a la pérdida (asignar más peso al miedo a perder que a la oportunidad de ganar).Busca activamente diferentes perspectivas. Estrategia: Habla con personas que tengan puntos de vista contrarios a los tuyos.
 
 #### EJEMPLO PRÁCTICO: DECISIÓN ARRIESGADA
 
-Joana tiene una startup de base tecnológica a punto de lanzar un nuevo producto. Una gran empresa se ofrece a ser su primer cliente, pero requiere exclusividad, lo que signica que Joana no puede vender su producto a otros clientes en el primer año.
+Joana tiene una startup de base tecnológica a punto de lanzar un nuevo producto. Una gran empresa se ofrece a ser su primer cliente, pero requiere exclusividad, lo que significa que Joana no puede vender su producto a otros clientes en el primer año.
 
 Esta es una decisión arriesgada: garantiza ingresos inmediatos, pero limita el crecimiento del negocio y aumenta la dependencia de este cliente.
 
@@ -1554,7 +1554,7 @@ Mercado: ¿Hay otros clientes potenciales esperando? ¿Cuál es el valor de la p
 
 Negociación: ¿Es posible reducir el periodo de exclusividad o limitarlo?
 
-- Consejo: Identifica los miedos (por ejemplo, el miedo a rechazar el contrato y terminar sin cliente frente al miedo a aceptar y depender de un solo cliente), los valores (seguridad nanciera inmediata frente a visión a largo plazo) y los posibles sesgos (optimismo excesivo o pesimismo).
+- Consejo: Identifica los miedos (por ejemplo, el miedo a rechazar el contrato y terminar sin cliente frente al miedo a aceptar y depender de un solo cliente), los valores (seguridad fi inmediata frente a visión a largo plazo) y los posibles sesgos (optimismo excesivo o pesimismo).
 
 - Preguntas para la reflexión:
   - ¿Qué debe considerar Joana en esta toma de decisión?
@@ -1585,7 +1585,7 @@ Los emprendedores exitosos generalmente:
 
 - Les encanta la adrenalina, lo que les lleva a tomar decisiones impulsivas y arriesgarlo todo.
 
-- Están calculando, evaluando los riesgos y benecios antes de actuar.
+- Están calculando, evaluando los riesgos y beneficios antes de actuar.
 
 - Evitan cualquier tipo de riesgo, solo avanzan si hay garantías sólidas.
 
@@ -1649,13 +1649,13 @@ Sin embargo, es importante saber distinguir la persistencia de la terquedad. Exp
 
 Cada 'no' recibido, cada intento fallido, son pasos que te acercan al sí y a la solución exitosa, siempre y cuando haya reflexión y mejora continua con cada iteración.
 
-- La persistencia no signica terquedad ciega, signica aprender de cada obstáculo y encontrar nuevos caminos hacia el mismo destino.
+- La persistencia no significa terquedad ciega, significa aprender de cada obstáculo y encontrar nuevos caminos hacia el mismo destino.
 
 #### Reflexión
 
-Indentifica un proyecto o idea que hayas abandonado después de enfrentarte a obstáculos.
+Identifica un proyecto o idea que hayas abandonado después de enfrentarte a obstáculos.
 
-Reflexiona sobre si esta fue una decisión estratégica o si podrías haberte beneciado de un poco más de persistencia.
+Reflexiona sobre si esta fue una decisión estratégica o si podrías haberte beneficiado de un poco más de persistencia.
 
 ¿Qué harías diferente hoy?
 
@@ -1696,13 +1696,13 @@ Piensa en un momento difícil que superaste. ¿Qué cualidades o recursos person
 
 Cómo fortalecer la resiliencia La resiliencia no es un rasgo jo de la personalidad, sino una capacidad que se puede desarrollar. Explora algunas estrategias efectivas para hacerlo:
 
-1. Cultivar una mentalidad positiva: Céntrate en las soluciones en lugar de en los problemas. Ante un revés, acostúmbrate a preguntar: "¿Qué puedo hacer a continuación para mejorar la situación?" Practica el optimismo realista, reconociendo las dicultades pero centrándote en las posibilidades. Ejercicio diario: Indentifica tres cosas positivas en cada situación desaante que encuentres.
+1. Cultivar una mentalidad positiva: Céntrate en las soluciones en lugar de en los problemas. Ante un revés, acostúmbrate a preguntar: "¿Qué puedo hacer a continuación para mejorar la situación?" Practica el optimismo realista, reconociendo las dificultades pero centrándote en las posibilidades. Ejercicio diario: Identifica tres cosas positivas en cada situación desafiante que encuentres.
 
 2. Red de apoyo: Rodéate de personas con las que puedas compartir tus desafíos: mentores, compañeros emprendedores, amigos o familiares. El apoyo emocional y los consejos prácticos aceleran la recuperación. Una red te proporciona información, recursos y motivación valiosos. Acción práctica: Participar en al menos un grupo de networking o comunidad de emprendedores.
 
 3. Autocuidado: El manejo del estrés físico y mental aumenta la resiliencia. Dormir bien, hacer ejercicio y tener momentos de ocio o relajación previenen el agotamiento y ayudan a mantener la claridad en los momentos difíciles. La resiliencia se ve comprometida cuando el cuerpo y la mente están agotados. Rutina esencial: Establecer límites claros entre el trabajo y el descanso.
 
-4. Recordar victorias: Haga una lista de las dicultades que ha superado en el pasado. Al recordar que "he pasado por esto antes y le di la vuelta", ganas la confianza para enfrentar el presente. Haz un seguimiento de los logros a los que puedes referirte en tiempos difíciles. Herramienta: Crea un diario con tus logros ya alcanzados.
+4. Recordar victorias: Haga una lista de las dificultades que ha superado en el pasado. Al recordar que "he pasado por esto antes y le di la vuelta", ganas la confianza para enfrentar el presente. Haz un seguimiento de los logros a los que puedes referirte en tiempos difíciles. Herramienta: Crea un diario con tus logros ya alcanzados.
 
 ### Reflexión
 
@@ -1713,7 +1713,7 @@ Piense en un fracaso u obstáculo importante que haya enfrentado en su vida (pro
 Reflexione y responda las siguientes preguntas.
 
 - Emociones iniciales: En ese momento, ¿cuáles fueron las emociones y pensamientos predominantes? (por ejemplo: frustración, vergüenza, desánimo)
-- Aprendizajes: Después de algún tiempo, ¿qué lecciones aprendiste de esa experiencia? Piensa en 2 o 3 aprendizajes especícos.
+- Aprendizajes: Después de algún tiempo, ¿qué lecciones aprendiste de esa experiencia? Piensa en 2 o 3 aprendizajes específicos.
 - Crecimiento: ¿Cómo te ha transformado esa experiencia? ¿Qué habilidades o perspectivas has desarrollado?
 - Aplicación: ¿Cómo puede aplicar esas lecciones en tu contexto actual (por ejemplo, en tu proyecto empresarial)?
 
@@ -1733,7 +1733,7 @@ The three secrets of resilient people - Lucy Hone - TEDxC: (https://www.youtube.
 
 Según Lucy Hone, los tres "secretos" de la resiliencia son:
 
-- Acepte que la adversidad le sucede a todos:  comprenda que las dicultades son parte de la vida. 1
+- Acepte que la adversidad le sucede a todos:  comprenda que las dificultades son parte de la vida. 1
 - Concéntrese en lo que se puede controlar: dirija la energía hacia lo que realmente puede cambiar. 2
 - Pregúntate: "¿Esto me ayuda o me hace daño?" - Evalúa constantemente si tus pensamientos y acciones contribuyen a superar la situación.
 
@@ -1748,7 +1748,7 @@ La inteligencia emocional es la capacidad de reconocer y gestionar las propias e
 Para los emprendedores, esta competencia es especialmente importante, ya que les permite tomar decisiones más equilibradas, construir
 relaciones saludables y lidiar con el estrés y el fracaso de una manera positiva.
 
-A su vez, la motivación mantiene al emprendedor en movimiento. Es el 'combustible' que alimenta la pasión por tu proyecto, incluso ante las dicultades.
+A su vez, la motivación mantiene al emprendedor en movimiento. Es el 'combustible' que alimenta la pasión por tu proyecto, incluso ante las dificultades.
 
 - La inteligencia emocional abarca:
   1. Autoconciencia: Reconoce tus propias emociones y su impacto.
@@ -1758,7 +1758,7 @@ A su vez, la motivación mantiene al emprendedor en movimiento. Es el 'combustib
 
 ### BENEFICIOS DE LA INTELIGENCIA EMOCIONAL
 
-Explora las siguientes tarjetas y descubre los benecios de desarrollar tu inteligencia emocional.
+Explora las siguientes tarjetas y descubre los beneficios de desarrollar tu inteligencia emocional.
 
 1. Decisiones más eficaces: Desarrollar la inteligencia emocional te ayuda a evitar decisiones impulsivas motivadas por la ansiedad o la euforia. Al gestionar las emociones, evalúas la situación racionalmente y tomas decisiones más...
 
@@ -1776,11 +1776,11 @@ Desarrollar la inteligencia emocional requiere práctica constante. No existe u
 
 La inteligencia emocional no es un rasgo innato, sino una habilidad que se puede desarrollar continuamente. Aquí hay algunas maneras de fortalecerla:
 
-1. Reconoce tus emociones: Practica el reconocimiento de tus emociones a diario. Por ejemplo, lleva un diario en el que identiques situaciones estresantes y describe cómo reaccionaste. La meditación o la atención plena también ayudan a aumentar la conciencia emocional. Ejercicio: Durante 5 minutos, observa tus emociones sin juzgarlas. Indentifica lo que sientes y cuáles son los posibles desencadenantes.
+1. Reconoce tus emociones: Practica el reconocimiento de tus emociones a diario. Por ejemplo, lleva un diario en el que identifiques situaciones estresantes y describe cómo reaccionaste. La meditación o la atención plena también ayudan a aumentar la conciencia emocional. Ejercicio: Durante 5 minutos, observa tus emociones sin juzgarlas. Identifica lo que sientes y cuáles son los posibles desencadenantes.
 
 2. Aprende a gestionar tus emociones: Aprenda técnicas para calmarse cuando estés bajo presión, como respirar de forma controlada, caminar o hacer descansos. Si tiendes a reaccionar con impaciencia, intenta esperar unos minutos antes de responder a un correo electrónico frustrante, por ejemplo. Intenta expresar las emociones de forma asertiva, pero no agresiva. Ejercicio: cuente hasta 10 antes de responder cuando te sientas emocionalmente molesto.
 
-3. Practica la empatía: Esforzarse por comprender el punto de vista y los sentimientos de los demás. Escuchar activamente, sin interrumpir, y ponerse "en el lugar del otro" mejora signicativamente la comunicación. Ejercicio: Practica la escucha activa. Trata de resumir lo que dijo la otra persona antes de responder.
+3. Practica la empatía: Esforzarse por comprender el punto de vista y los sentimientos de los demás. Escuchar activamente, sin interrumpir, y ponerse "en el lugar del otro" mejora significativamente la comunicación. Ejercicio: Practica la escucha activa. Trata de resumir lo que dijo la otra persona antes de responder.
 
 4. Busca formación y solicita retroalimentación o feedback: Considera asistir a talleres o cursos sobre inteligencia emocional, o busca un mentor o coach. Además, pídeles a tus compañeros que te den feedback con preguntas como: "¿Cómo reacciono en situaciones estresantes?" o "¿Qué podría mejorar?" Ejercicio: Pida a tres personas de confianza comentarios estructurados.
 
@@ -1788,7 +1788,7 @@ La inteligencia emocional no es un rasgo innato, sino una habilidad que se puede
 
 ### Motivación del emprendedor: Intrínseca vs. Extrínseca
 
-La motivación se puede clasicar en dos tipos principales, los cuales son importantes para los empresarios:
+La motivación se puede clasificar en dos tipos principales, los cuales son importantes para los empresarios:
 
 Motivación intrínseca
 
@@ -1816,21 +1816,21 @@ Motivaciones más comunes para el emprendimiento. Explora a continuación las ra
 
 1. Autonomía: Deseo de independencia y de crear tu propio destino: 'Ser mi propio jefe'. La libertad para tomar decisiones y establecer tu propio camino es un fuerte motivador para muchos empresarios que valoran tener control sobre tu tiempo y tu camino.
 
-2. Realización personal: Materializa una visión y demuéstrate a ti mismo que eres capaz de alcanzar tu máximo potencial. Muchos emprendedores se sienten impulsados por el deseo de crear algo signicativo y demostrar sus capacidades encontrando satisfacción en el crecimiento personal que el proceso les proporciona.
+2. Realización personal: Materializa una visión y demuéstrate a ti mismo que eres capaz de alcanzar tu máximo potencial. Muchos emprendedores se sienten impulsados por el deseo de crear algo significativo y demostrar sus capacidades encontrando satisfacción en el crecimiento personal que el proceso les proporciona.
 
-3. Indentificación de Oportunidades: Indentificar una brecha en el mercado que nadie está llenando y aprovecharla. La capacidad de Indentificar necesidades no satisfechas y crear soluciones innovadoras motiva a muchos emprendedores, que son capaces de ver oportunidades donde otros solo ven obstáculos.
+3. Identificación de Oportunidades: Identificar una brecha en el mercado que nadie está llenando y aprovecharla. La capacidad de identificar necesidades no satisfechas y crear soluciones innovadoras motiva a muchos emprendedores, que son capaces de ver oportunidades donde otros solo ven obstáculos.
 
 4. Pasión o hobby: Convertir un interés o pasión en un negocio es común. Muchas empresas nacen de pasatiempos o áreas de gran interés personal, lo que permite al emprendedor trabajar en algo que realmente disfruta hacer.
 
 ### Foro
 
-Indentifica tus tres principales motivaciones para emprender. ¿Son predominantemente intrínsecos o extrínsecos? ¿Cómo influyen en tus decisiones diarias? Comparte tus opiniones en el foro.
+Identifica tus tres principales motivaciones para emprender. ¿Son predominantemente intrínsecos o extrínsecos? ¿Cómo influyen en tus decisiones diarias? Comparte tus opiniones en el foro.
 
 ### MÁS MOTIVACIONES PARA EMPRENDER
 
 Más motivaciones para emprender: Explora las siguientes tarjetas para descubrir motivaciones adicionales que también inspiran la creación de empresas.
 
-1. Impacto social: Motivación para contribuir a la sociedad y resolver un problema social o ambiental a través de los negocios. Muchos emprendedores tratan de conciliar el éxito nanciero con un impacto positivo en la sociedad, alineando su negocio con la responsabilidad social.
+1. Impacto social: Motivación para contribuir a la sociedad y resolver un problema social o ambiental a través de los negocios. Muchos emprendedores tratan de conciliar el éxito financiero con un impacto positivo en la sociedad, alineando su negocio con la responsabilidad social.
 
 2. Recompensas financieras: Posibilidad de beneficio y mejora de las condiciones financieras. Aunque rara vez es el único factor, la perspectiva de prosperidad económica puede ser un factor motivador importante, especialmente para aquellos que buscan seguridad financiera a largo plazo.
 
@@ -1854,7 +1854,7 @@ Cómo mantener la motivación a lo largo del tiempo: Comenzar un proyecto es em
 
 ### REFLEXIÓN
 
-En tiempos de desánimo, ¿cuáles de las razones para emprender indentificadas anteriormente son las que más le impulsan a seguir adelante? ¿Hay alguna razón que pueda ser reforzada o revitalizada?
+En tiempos de desánimo, ¿cuáles de las razones para emprender identificadas anteriormente son las que más le impulsan a seguir adelante? ¿Hay alguna razón que pueda ser reforzada o revitalizada?
 
 Si sientes que tu motivación inicial ha disminuido, puede ser útil recordar tu visión original o buscar nuevas fuentes de inspiración, por ejemplo, lee historias de otros empresarios en la misma área o habla con clientes satisfechos.
 
@@ -1870,7 +1870,7 @@ En la próxima sesión sincrónica, compartirás brevemente tu principal motivac
 
 ### VÍDEO: START WITH WHY
 
-Para profundizar en el tema de la motivación intrínseca, véase la Ted Talk de Simon Sinek 'Start with why' , donde introduce el concepto del Círculo Dorado y la importancia de comenzar con el 'Why', es decir, el propósito.
+Para profundizar en el tema de la motivación intrínseca, véase la Ted Talk de Simon Sinek 'Start with why', donde introduce el concepto del Círculo Dorado y la importancia de comenzar con el 'Why', es decir, el propósito.
 
 Start with why - how great leaders inspire action - Simo - (https://www.youtube.com/watch?v=u4ZoJKF_VuA)
 
@@ -1894,9 +1894,9 @@ Define, en un párrafo y de forma clara, el 'por qué' de tu proyecto emprendedo
 
 ### Barreras psicológicas más comunes
 
-En el camino del emprendimiento, los mayores desafíos no siempre son externos. Existen varias barreras psicológicas que a menudo afectan a los emprendedores. Indentificarlos es el primer paso para superarlos.
+En el camino del emprendimiento, los mayores desafíos no siempre son externos. Existen varias barreras psicológicas que a menudo afectan a los emprendedores. Identificarlos es el primer paso para superarlos.
 
-1. MIEDO AL FRACASO: Este miedo puede llevar a la procrastinación o al abandono temprano del proyecto. Se maniesta a través de la renuencia a asumir los riesgos necesarios o la tendencia a paralizarse por decisiones importantes.
+1. MIEDO AL FRACASO: Este miedo puede llevar a la procrastinación o al abandono temprano del proyecto. Se manifiesta a través de la renuencia a asumir los riesgos necesarios o la tendencia a paralizarse por decisiones importantes.
 
 2. MIEDO AL ÉXITO: Puede parecer contradictorio, pero algunos empresarios temen los cambios y responsabilidades que el éxito puede traer (por ejemplo, atención excesiva, envidia o presión para mantener los resultados). Este miedo puede manifestarse en forma de auto-sabotaje, precisamente cuando las cosas empiezan a ir bien.
 
@@ -1904,19 +1904,19 @@ En el camino del emprendimiento, los mayores desafíos no siempre son externos. 
 
 4. PERFECCIONISMO EXCESIVO: La búsqueda del "producto perfecto" o la decisión ideal pueden terminar bloqueando el progreso. El perfeccionismo a menudo se asocia con el miedo a fracasar o ser juzgado: "si no soy perfecto, descubrirán que no soy capaz".
 
-5. PROCRASTINACIÓN: Posponer tareas importantes, a menudo como resultado del perfeccionismo o el miedo, es un error común. Por ejemplo, posponer el lanzamiento de un sitio web porque nunca "es lo sucientemente bueno". Este comportamiento impide el progreso y genera ciclos de ansiedad y culpa.
+5. PROCRASTINACIÓN: Posponer tareas importantes, a menudo como resultado del perfeccionismo o el miedo, es un error común. Por ejemplo, posponer el lanzamiento de un sitio web porque nunca "es lo suficientemente bueno". Este comportamiento impide el progreso y genera ciclos de ansiedad y culpa.
 
-6. SINDROME DEL IMPOSTOR: Es una sensación persistente de no ser tan competente como parece, creyendo que el éxito no es merecido y que, en cualquier momento, 'se desenmascarará como un fraude'.
+6. SÍNDROME DEL IMPOSTOR: Es una sensación persistente de no ser tan competente como parece, creyendo que el éxito no es merecido y que, en cualquier momento, 'se desenmascarará como un fraude'.
 
 ### MIEDO AL FRACASO
 
-El miedo al fracaso puede convertirse en una barrera paralizante. Aprende a Indentificar si este miedo puede estar afectándote explorando los siguientes rasgos:
+El miedo al fracaso puede convertirse en una barrera paralizante. Aprende a Identificar si este miedo puede estar afectándote explorando los siguientes rasgos:
 
 - Rechazar oportunidades por inseguridad.
-- Posponer indenidamente las decisiones críticas.
+- Posponer indefinidamente las decisiones críticas.
 - Sentir ansiedad extrema a cualquier riesgo.
 - Evitar situaciones en las que tu desempeño pueda ser cuestionado.
-- Eligir siempre el camino más seguro, incluso si eso signica renunciar a oportunidades con mayor potencial.
+- Eligir siempre el camino más seguro, incluso si eso significa renunciar a oportunidades con mayor potencial.
 
 'He fracasado repetidamente en mi carrera. Y es por eso que lo logré ". -Michael Jordan
 
@@ -1934,7 +1934,7 @@ Superar el miedo al fracaso requiere autoconocimiento. Explora las siguientes es
 
 #### Foro
 
-Identifica una acción concreta que hayas estado posponiendo por temor al fracaso. Establece un primer paso sencillo para seguir adelante, incluso con miedo, y comparte ese compromiso en el foro jando una fecha para ponerlo en práctica.
+Identifica una acción concreta que hayas estado posponiendo por temor al fracaso. Establece un primer paso sencillo para seguir adelante, incluso con miedo, y comparte ese compromiso en el foro fijando una fecha para ponerlo en práctica.
 
 - Recuerda: todos los emprendedores fracasan en algo antes de hacerlo bien, ya sea el producto, el enfoque o el momento oportuno.
 
@@ -2004,9 +2004,9 @@ Consecuencias del impostor sobre el emprendedor - Si no se controla, el síndrom
 
 - Overworking o exceso de trabajo y perfeccionismo: Para compensar la sensación de incapacidad, el empresario puede trabajar en exceso, persiguiendo un perfeccionismo insostenible. Esto puede llevar al agotamiento , afectando la salud física y mental. La búsqueda de "demostrar el propio valor" a través del trabajo excesivo genera un ciclo insostenible.
 
-- Procrastinación y estancamiento: Por miedo a las críticas negativas, puedes posponer tareas importantes (por ejemplo, presentar un plan a los inversores) o evitar situaciones de visibilidad. El negocio puede estancarse por falta de acción oportuna. Las oportunidades se pierden, a la espera de sentirse lo sucientemente "listo".
+- Procrastinación y estancamiento: Por miedo a las críticas negativas, puedes posponer tareas importantes (por ejemplo, presentar un plan a los inversores) o evitar situaciones de visibilidad. El negocio puede estancarse por falta de acción oportuna. Las oportunidades se pierden, a la espera de sentirse lo suficientemente "listo".
 
-- No delegar: El emprendedor a menudo piensa que tiene que hacer todo por sí mismo para demostrar valor, o no confía en que está haciendo un buen trabajo y, por lo tanto, duda en mostrarlo a los demás. Esto lo sobrecarga y disminuye la eciencia del equipo. Limita el crecimiento del negocio debido a la incapacidad de escalar las operaciones.
+- No delegar: El emprendedor a menudo piensa que tiene que hacer todo por sí mismo para demostrar valor, o no confía en que está haciendo un buen trabajo y, por lo tanto, duda en mostrarlo a los demás. Esto lo sobrecarga y disminuye la eficiencia del equipo. Limita el crecimiento del negocio debido a la incapacidad de escalar las operaciones.
 
 - Problemas de salud mental: La ansiedad constante y la autocrítica pueden contribuir al estrés crónico, los episodios de ansiedad o la depresión. La autoestima baja, formando un círculo vicioso (cuanto peor te sientes, más crees que no mereces estar donde estás).
 
@@ -2022,13 +2022,13 @@ En la sesión síncrona, discutiremos cómo estas consecuencias han afectado los
 
 Existen varias técnicas que ayudan a superar las barreras, tales como:
 
-1. Hablar de miedos: Externalizar las preocupaciones con alguien de confianza (mentor, colega o terapeuta) reduce su peso. A menudo escuchamos una perspectiva racional que nos muestra que estamos siendo demasiado duros con nosotros mismos. Acción concreta: Programa una conversación con un mentor o colega de confianza especícamente para discutir tus miedos empresariales.
+1. Hablar de miedos: Externalizar las preocupaciones con alguien de confianza (mentor, colega o terapeuta) reduce su peso. A menudo escuchamos una perspectiva racional que nos muestra que estamos siendo demasiado duros con nosotros mismos. Acción concreta: Programa una conversación con un mentor o colega de confianza específicamente para discutir tus miedos empresariales.
 
 2. Replantear los pensamientos negativos: Cuando note un pensamiento negativo ("Fallaré y será un desastre"), reemplácelo con una visión más objetiva ("Puedo fallar, pero aprenderé algo y lo intentaré nuevamente; también existe la posibilidad de éxito"). Nuestras creencias dan forma a la realidad, así que entrena una voz interior alentadora. Técnica: Registra los pensamientos negativos y practica reescribirlos de una manera más equilibrada y constructiva.
 
-3. Establece estándares realistas: En lugar de "Tengo que ser perfecto", concéntrate en "Haré todo lo posible con los recursos que tengo ahora". Recuerda el proverbio " Hecho es mejor que perfecto". Práctica diaria: dena lo que es "lo sucientemente bueno" para cada tarea antes de comenzarla.
+3. Establece estándares realistas: En lugar de "Tengo que ser perfecto", concéntrate en "Haré todo lo posible con los recursos que tengo ahora". Recuerda el proverbio " Hecho es mejor que perfecto". Práctica diaria: defina lo que es "lo suficientemente bueno" para cada tarea antes de comenzarla.
 
-4. Organiza los desafíos en pasos: Si algo suena aterrador (por ejemplo, hablar en una conferencia), hágalo por partes: ensaye primero con amigos (retroalimentación segura), luego en grupos pequeños, hasta que adquiera confianza. La exposición gradual disminuye el miedo. Método: Para cualquier objetivo intimidante, Indentifica 5 pequeños pasos que te llevarán a la meta.
+4. Organiza los desafíos en pasos: Si algo suena aterrador (por ejemplo, hablar en una conferencia), hágalo por partes: ensaye primero con amigos (retroalimentación segura), luego en grupos pequeños, hasta que adquiera confianza. La exposición gradual disminuye el miedo. Método: Para cualquier objetivo intimidante, Identifica 5 pequeños pasos que te llevarán a la meta.
 
 5. Cuida tu bienestar: No superas una barrera psicológica si estás agotado o ansioso. Dormir, hacer ejercicio, tener pasatiempos. La mente emprendedora es más fuerte cuando el cuerpo y las emociones están equilibrados. Compromiso: Establecer al menos una práctica diaria de autocuidado.
 
@@ -2036,18 +2036,17 @@ Existen varias técnicas que ayudan a superar las barreras, tales como:
 
 8 consejos para abordar el síndrome del impostor: Descubre ocho consejos para combatir el síndrome del impostor. Haz clic en las cartas para revelarlas.
 
-1. Reconocer y corregir pensamientos: Indentifica cuándo estás pensando "No puedo, fallaré". Detente, escribe el pensamiento y desafía su veracidad. Probablemente estés distorsionando la realidad, por ejemplo, recordando solo tus...
+1. Reconocer y corregir pensamientos: Identifica cuándo estás pensando "No puedo, fallaré". Detente, escribe el pensamiento y desafía su veracidad. Probablemente estés distorsionando la realidad, por ejemplo, recordando solo tus...
 
 2. Actualizar tus conocimientos: Parte del miedo a ser un "impostor" proviene de sentir lagunas. Si hay zonas en las que te sientes menos cómodo, estúdialas. Pero cuidado: no uses esto como excusa para posponer acciones. Acepta que nadie lo sabe todo y...
 
 3. Aceptar cumplidos - Cree en tu valor: Cuando alguien elogie tu trabajo, resiste la tentación de minimizar ("oh, fue suerte"). Simplemente di "gracias" y reflexiona que ese cumplido es genuino: la gente no suele alabar por lástima. Permítete sentir el mérito.
 
-4. Usar armaciones positivas: Puede parecer extraño al principio, pero repetirte a ti mismo, en voz alta o por escrito, tus fortalezas
-   ayudan a reprogramar la mente. Ej.: "Soy creativo y decidido, he resuelto problemas complejos..."
+4. Usar afirmaciones positivas: Puede parecer extraño al principio, pero repetirte a ti mismo, en voz alta o por escrito, tus fortalezas ayudan a reprogramar la mente. Ej.: "Soy creativo y decidido, he resuelto problemas complejos..."
 
 5. Hacer una lista de logros: Cree un "archivo de victorias". Incluye hitos de tu viaje: proyectos exitosos, comentarios positivos de los clientes, premios o incluso agradecimientos
 
-6. Céntrate en el proceso, no solo en el final: No siempre conseguimos el resultado perfecto, pero esto no invalida todo lo que se ha hecho. crecimiento que has tenido Valora el camino y el durante el proceso. Adopta la losofía "mejor hecho que perfecto":
+6. Céntrate en el proceso, no solo en el final: No siempre conseguimos el resultado perfecto, pero esto no invalida todo lo que se ha hecho. crecimiento que has tenido Valora el camino y el durante el proceso. Adopta la filosofía "mejor hecho que perfecto":
 
 7. Evita las comparaciones sociales: Cada emprendedor tiene su viaje. Compararse constantemente con los demás (que aparentemente lo tienen todo bajo control) es una receta para la inseguridad. Recuerda: las redes...
 
@@ -2059,11 +2058,11 @@ Pedir ayuda no es debilidad: No dudes en buscar apoyo profesional si la ansiedad
 
 “Busca la ayuda de familiares, amigos y un profesional que pueda acompañarte a salir de este síndrome”.
 
-Emprender no signica caminar solo en absoluto: cuidar la salud mental es crucial para el éxito empresarial. Los programas de mentoría para emprendedores también pueden ayudar: un mentor experimentado puede compartir sus propios defectos e inseguridades del pasado, normalizar los suyos y ofrecer consejos sobre cómo mantener la confianza incluso en tiempos difíciles.
+Emprender no significa caminar solo en absoluto: cuidar la salud mental es crucial para el éxito empresarial. Los programas de mentoría para emprendedores también pueden ayudar: un mentor experimentado puede compartir sus propios defectos e inseguridades del pasado, normalizar los suyos y ofrecer consejos sobre cómo mantener la confianza incluso en tiempos difíciles.
 
 - Beneficios de buscar ayuda:
   - Perspectiva externa y objetiva
-  - Herramientas especícas para tu situación
+  - Herramientas específicas para tu situación
   - Validación y estandarización de experiencias
   - Apoyo estructurado en tiempos difíciles
 
@@ -2078,7 +2077,7 @@ Emprender no signica caminar solo en absoluto: cuidar la salud mental es crucial
 
 La historia está llena de ejemplos de personas que fracasaron antes de tener éxito; lo importante es que no se rindieron.
 
-1. Bill Gates: Antes de fundar Microsoft, lanzó una empresa llamada Traf-OData , cuyo producto para analizar datos de tráco falló estrepitosamente. Gates podría haberse desanimado y haber vuelto al trabajo; en cambio, vio el fracaso como experiencia y lo intentó de otra manera.
+1. Bill Gates: Antes de fundar Microsoft, lanzó una empresa llamada Traf-OData , cuyo producto para analizar datos de tráfico falló estrepitosamente. Gates podría haberse desanimado y haber vuelto al trabajo; en cambio, vio el fracaso como experiencia y lo intentó de otra manera.
 
 2. Stephen King: Hoy, un escritor famoso, la primera novela de King (Carrie) fue rechazada 30 veces por los editores. A punto de darse por vencido, terminó recibiendo un "sí", y el libro se convirtió en un éxito de ventas, lanzando su carrera.
 
@@ -2086,11 +2085,11 @@ Tanto Gates como King tenían una pasión por lo que hacían, la tecnología y l
 
 ### Foro
 
-Identifica a un emprendedor que se enfrentó a fracasos signicativos antes de alcanzar el éxito. Investiga tu historia y comparte en el foro las lecciones que aprendiste de ese viaje.
+Identifica a un emprendedor que se enfrentó a fracasos significativos antes de alcanzar el éxito. Investiga tu historia y comparte en el foro las lecciones que aprendiste de ese viaje.
 
 ## 16. La cultura del fracaso
 
-Hay muchos países, como Portugal, donde siempre ha habido una fuerte aversión al fracaso: "fallar" tenía un peso social signicativo. Este estigma llevó a muchos empresarios potenciales a ni siquiera intentarlo, por temor a ser juzgados en caso de fracaso.
+Hay muchos países, como Portugal, donde siempre ha habido una fuerte aversión al fracaso: "fallar" tenía un peso social significativo. Este estigma llevó a muchos empresarios potenciales a ni siquiera intentarlo, por temor a ser juzgados en caso de fracaso.
 
 Afortunadamente, esta mentalidad ha ido cambiando. Explora a continuación qué iniciativas relacionadas con el emprendimiento existen hoy en día.
 
@@ -2132,7 +2131,7 @@ Recursos: Federación Internacional de Coach de Portugal
 
 ### Ideas clave sobre la mentalidad emprendedora y la resiliencia
 
-Lea las siguientes ideas clave de este módulo y marque cada elemento que haya aprendido con una marca de vericación, haciendo una breve revisión de cada uno.
+Lea las siguientes ideas clave de este módulo y marque cada elemento que haya aprendido con una marca de verificación, haciendo una breve revisión de cada uno.
 
 - Mentalidad: La mentalidad emprendedora se puede desarrollar, integrando la pasión, la creatividad, la resiliencia y la apertura al riesgo, al tiempo que desafía los mitos y creencias limitantes que pueden limitarnos.
 
@@ -2140,7 +2139,7 @@ Lea las siguientes ideas clave de este módulo y marque cada elemento que haya a
 
 - Fracaso y resiliencia: el fracaso es parte del camino hacia el éxito; lo importante es la capacidad de recuperarse y aprender. La resiliencia y la persistencia, combinadas con la adaptabilidad, son garantías de que el emprendedor continuará hasta alcanzar sus metas.
 
-- Inteligencia emocional y motivación: la gestión de las emociones mejora las decisiones, las relaciones y el bienestar. La motivación intrínseca (el "por qué") es lo que sostiene al emprendedor cuando los incentivos externos ya no son sucientes.
+- Inteligencia emocional y motivación: la gestión de las emociones mejora las decisiones, las relaciones y el bienestar. La motivación intrínseca (el "por qué") es lo que sostiene al emprendedor cuando los incentivos externos ya no son suficientes.
 
 - Superación de barreras: Existen técnicas para enfrentar los miedos, el perfeccionismo y el síndrome del impostor, y es fundamental contar con un sistema de apoyo y empatía para preservar la salud mental en el camino.
 
@@ -2156,16 +2155,16 @@ Desarrollar un mini plan de desarrollo personal.
 
 Para completar el módulo, elabore un mini plan de desarrollo personal siguiendo los siguientes pasos. Comparte los resultados en el foro.
 
-1. Identificación: Identifique las dos creencias limitantes o barreras psicológicas que más le afectan (por ejemplo, "Temo hablar en público" o "Tiendo a posponer las decisiones difíciles"). Sé especíco al describir cómo estas barreras influyen en tu viaje empresarial.
+1. Identificación: Identifique las dos creencias limitantes o barreras psicológicas que más le afectan (por ejemplo, "Temo hablar en público" o "Tiendo a posponer las decisiones difíciles"). Sé específico al describir cómo estas barreras influyen en tu viaje empresarial.
 
-2. ESTRATEGIAS: Establezca 2 estrategias concretas para trabajar en las próximas semanas. Sé especíco, por ejemplo:
+2. ESTRATEGIAS: Establezca 2 estrategias concretas para trabajar en las próximas semanas. Sé específico, por ejemplo:
 
 - "Hablar en público - estrategia: me inscribiré en un concurso o practicaré mi presentación frente a amigos"; "
 - Decisiones difíciles - estrategia: establece una fecha límite para la decisión X en el calendario y cúmplela, cueste lo que cueste"
 
 3. Recursos: Haz una lista de lo que necesitarás. Por ejemplo, un colega que sea un socio de rendición de cuentas (para ayudarlo a cumplir con el plan), materiales de estudio u otros recursos que te resulten útiles.
 
-4. Métricas: ¿Cómo sabes si has mejorado? Establecer métricas de progreso especícas y medibles. Sé consciente de ellos para medir el éxito de tus estrategias. Por ejemplo, "Pude dar una presentación de 5 minutos sin bloqueos" o "Tomé la decisión X a tiempo y estoy en paz con ella".
+4. Métricas: ¿Cómo sabes si has mejorado? Establecer métricas de progreso específicas y medibles. Sé consciente de ellos para medir el éxito de tus estrategias. Por ejemplo, "Pude dar una presentación de 5 minutos sin bloqueos" o "Tomé la decisión X a tiempo y estoy en paz con ella".
 
 ## 18. Quiz
 
@@ -2263,7 +2262,7 @@ Lecciones aprendidas del caso: El caso Netflix vs. Blockbuster no es solo una hi
 
 1. Innovación Rápida: Detectar el cambio del entorno y pivotar a tiempo es una ventaja competitiva decisiva. La velocidad de adaptación supera en importancia al tamaño. Netflix reinventó su modelo dos veces: de DVD a streaming, y de streaming a producción propia.
 
-2. Miedo vs. Disrupción Innovativa: Proteger los ingresos actuales a toda costa conduce a la complacencia . Blockbuster tenía miedo de canibalizarse; Netflix abrazó la disrupción. El mayor riesgo no es innovar demasiado rápido: es no innovar a tiempo.
+2. Miedo vs. Disrupción Innovativa: Proteger los ingresos actuales a toda costa conduce a la complacencia. Blockbuster tenía miedo de canibalizarse; Netflix abrazó la disrupción. El mayor riesgo no es innovar demasiado rápido: es no innovar a tiempo.
 
 3. Escalar Implica Riesgos: Las franquicias escalan, pero con riesgos: exigen due diligence, contratos flexibles y gestión del cambio continua. Una red de más de 9.000 tiendas en todo el mundo puede convertirse en una trampa cuando el modelo cambia.
 
@@ -2626,7 +2625,7 @@ Los estados cuentan con agencias dedicadas a la financiación de proyectos de in
 
 Nivel 3 - Programas de Financiación Europeos y Regionales Internacionales
 
-Disponibles principalmente para territorios integrados en la Unión Europea (como las regiones de la Macaronesia: Madeira, Azores y Canarias) y para proyectos de cooperación transfronteriza.
+Disponibles principalmente para territorios integrados en la Unión Europea (como las regiones de la Macronesia: Madeira, Azores y Canarias) y para proyectos de cooperación transfronteriza.
 
 - Programas marco de I+D+i para toda la Unión Europea
 - Instrumentos de apoyo a innovadores y startups de alto impacto
@@ -2771,7 +2770,7 @@ La innovación abierta no es solo una metodología: es una filosofía que transf
 
 4. Rondas Serie A/B/C: Rondas de inversión posteriores, generalmente de mayor tamaño que la anterior, a medida que la startup crece y demuestra su modelo de negocio.
 
-5. Retorno de la inversión (ROI – Return on Investment): Ratio que mide el rendimiento obtenido en relación con la inversión ealizada, normalmente expresado como un porcentaje.
+5. Retorno de la inversión (ROI – Return on Investment): Ratio que mide el rendimiento obtenido en relación con la inversión realizada, normalmente expresado como un porcentaje.
 
 6. Encaje estratégico (Strategic Fit): Grado de alineación entre un partner potencial, una startup o una innovación y los objetivos, necesidades y capacidades de tu organización.
 
@@ -2916,15 +2915,15 @@ Mapear Modelos y Objetivos (Tabla): Para cada uno de los modelos de innovación 
 
 - Así es como se hace:
 
-| Modelos/Objetivos            | Nuevo servicio/producto | Acelerar proyectos y empresas | Compromiso empresa | Incorporar nuevas capacidades | Recibir nuevos clientes y socios/Licenciamiento | Transformacióncultural |
-| ---------------------------- | ----------------------- | ----------------------------- | ------------------ | ----------------------------- | ----------------------------------------------- | ---------------------- |
-| Licenciamiento               | ✅                      | ✅                            | ✅                 | ✅                            | ✅                                              | ✅                     |
-| Exploración (Scouting) y PoC | ✅                      | ✅                            | ✅                 | ✅                            | ✅                                              | ✅                     |
-| Aceleradora / Incubadora     | ✅                      | ✅                            | ✅                 | ✅                            | ✅                                              | ✅                     |
-| Eventos                      | ❌                      | ✅                            | ✅                 | ❌                            | ✅                                              | ❌                     |
-| Patrocinios (Sponsorships)   | ❌                      | ✅                            | ✅                 | ❌                            | ❌                                              | ❌                     |
-| Inversiones indirectas       | ✅                      | ✅                            | ✅                 | ❌                            | ✅                                              | ✅                     |
-| Inversiones directas         | ✅                      | ✅                            | ❌                 | ✅                            | ✅                                              | ✅                     |
+| Modelos/Objetivos            | Nuevo servicio/producto | Acelerar proyectos y empresas | Compromiso empresa | Incorporar nuevas capacidades | Recibir nuevos clientes y socios/Licenciamiento | Transformación cultural |
+| ---------------------------- | ----------------------- | ----------------------------- | ------------------ | ----------------------------- | ----------------------------------------------- | ----------------------- |
+| Licenciamiento               | ✅                      | ✅                            | ✅                 | ✅                            | ✅                                              | ✅                      |
+| Exploración (Scouting) y PoC | ✅                      | ✅                            | ✅                 | ✅                            | ✅                                              | ✅                      |
+| Aceleradora / Incubadora     | ✅                      | ✅                            | ✅                 | ✅                            | ✅                                              | ✅                      |
+| Eventos                      | ❌                      | ✅                            | ✅                 | ❌                            | ✅                                              | ❌                      |
+| Patrocinios (Sponsorships)   | ❌                      | ✅                            | ✅                 | ❌                            | ❌                                              | ❌                      |
+| Inversiones indirectas       | ✅                      | ✅                            | ✅                 | ❌                            | ✅                                              | ✅                      |
+| Inversiones directas         | ✅                      | ✅                            | ❌                 | ✅                            | ✅                                              | ✅                      |
 
 Ahora puedes determinar modelos fundamentales en función de tus recursos y objetivos:
 
@@ -2940,7 +2939,7 @@ Ahora puedes determinar modelos fundamentales en función de tus recursos y obje
 
 ### ACTIVIDAD 2 - Evaluación del nivel de madurez en innovación
 
-#### Tarea 1 -Evaluación de madurez para formación y facilitación
+#### Tarea 1 - Evaluación de madurez para formación y facilitación
 
 Esta actividad es un chequeo de preparación para docentes o formadores que quieren trabajar con experiencias de innovación abierta. Te ayudará a identificar brechas antes de involucrar a actores externos.
 
@@ -3039,7 +3038,7 @@ Universidad / Centro educativo:
 
 Actor público/cluster:
 
-#### Paso 2 - Entender el mindset stratup
+#### Paso 2 - Entender el mindset startup
 
 ¿Cuál es la principal motivación de una startup para participar en innovación abierta?
 
@@ -3170,7 +3169,7 @@ En una o dos frases, explica cómo el storytelling contribuye al éxito de la in
 
 - Módulo de casos: 'Aprender de historias reales de innovación abierta'
 
-La innovación abierta implica recurrir a ideas, socios o comunidades externas para impulsar la innovación. A continuación, se presenta una serie de casos de estudio -tanto éxitos como fracasosque abarcan iniciativas corporativas, de startups y del sector público. Cada ejemplo incluye un breve resumen y aspectos clave que podrían explorarse en un curso para startups , innovadores corporativos o actores públicos.
+La innovación abierta implica recurrir a ideas, socios o comunidades externas para impulsar la innovación. A continuación, se presenta una serie de casos de estudio -tanto éxitos como fracasos que abarcan iniciativas corporativas, de startups y del sector público. Cada ejemplo incluye un breve resumen y aspectos clave que podrían explorarse en un curso para startups , innovadores corporativos o actores públicos.
 
 En este módulo, podrá trabajar con ejemplos de la vida real de lo que salió bien y mal en diferentes escenarios de innovación abierta. Esto le ayudará a obtener diferentes tipos de conocimiento para enseñar cómo fortalecer las estrategias de innovación abierta.
 
@@ -3348,18 +3347,18 @@ Al completar este módulo, usted debería ser capaz de:
 
 - Reconocer el impacto comercial de la transformación digital y las ganancias de productividad asociadas.
 - Aplicar herramientas digitales para la gestión de clientes, operaciones y colaboración.
-- Diseñar estrategias digitales efectivas para ampliar el alcance y la eciencia de startups y pymes.
+- Diseñar estrategias digitales efectivas para ampliar el alcance y la eficiencia de startups y pymes.
 - Diseñar acciones de marketing digital para aumentar la presencia online y las relaciones con los clientes.
 - Aplicar modelos de negocio digitales, incluyendo e-commerce y formatos de monetización innovadores adaptados a la economía digital.
-- Reconocer las oportunidades para implementar la automatización y la inteligencia articial, evaluando los benecios y desafíos para las pequeñas empresas.
+- Reconocer las oportunidades para implementar la automatización y la inteligencia artificial, evaluando los beneficios y desafíos para las pequeñas empresas.
 
 ## 2. Introducción a la digitalización
 
 ¿Por qué digitalizar el negocio?
 
-Para los emprendedores, especialmente las pequeñas y medianas empresas (PYMES), la adopción de herramientas y estrategias digitales aporta varios benecios que impactan directamente en los resultados empresariales, tales como:
+Para los emprendedores, especialmente las pequeñas y medianas empresas (PYMES), la adopción de herramientas y estrategias digitales aporta varios beneficios que impactan directamente en los resultados empresariales, tales como:
 
-- Mayor eciencia operativa: Automatizar las tareas repetitivas y reducir los errores mejora signicativamente la productividad y reduce los costes operativos.
+- Mayor eficiencia operativa: Automatizar las tareas repetitivas y reducir los errores mejora significativamente la productividad y reduce los costes operativos.
 
 - Mejor experiencia del cliente: El uso de canales en línea rápidos y personalizados aumenta la satisfacción del cliente.
 
@@ -3373,13 +3372,13 @@ El nivel de digitalización de una empresa se puede medir a través de índices 
 
 ## 3. Beneficios de la transformación digital
 
-Las empresas que invierten en tecnología reportan múltiples ganancias medibles en varias áreas del negocio. Haz clic en cada una de las tarjetas para descubrir los benecios de esta transformación digital.
+Las empresas que invierten en tecnología reportan múltiples ganancias medibles en varias áreas del negocio. Haz clic en cada una de las tarjetas para descubrir los beneficios de esta transformación digital.
 
 - Mayor productividad: Los empleados están exentos de tareas repetitivas y pueden centrarse en actividades de mayor valor estratégico.
 
 - Mayor impacto: Las herramientas en línea ayudan a captar más clientes y ampliar el alcance del negocio.
 
-- Mejor servicio: Las soluciones digitales hacen que el servicio sea más ágil y personalizado, aumentando la satisfacción y delización del cliente.
+- Mejor servicio: Las soluciones digitales hacen que el servicio sea más ágil y personalizado, aumentando la satisfacción y fidelización del cliente.
 
 - Reducción de costes: Los procesos automatizados reducen los errores y, en consecuencia, los gastos operativos.
 
@@ -3387,7 +3386,7 @@ Innovación continua: Mantenerse al día con las tendencias tecnológicas (IA, m
 
 ### Foro
 
-Identica en tu negocio (o en un caso hipotético) las tres áreas que más se beneciarían de la digitalización. Comparte tu respuesta en el foro.
+Identifica en tu negocio (o en un caso hipotético) las tres áreas que más se beneficiarían de la digitalización. Comparte tu respuesta en el foro.
 
 ## 4. Descripción general de las herramientas digitales
 
@@ -3395,7 +3394,7 @@ Las herramientas digitales son aliados fundamentales para gestionar y escalar un
 
 - CRM - Gestión de relaciones con los clientes: Herramientas para la gestión de la relación con el cliente. Ayudan a organizar contactos, clientes potenciales, ventas y marketing en un solo espacio, lo que permite un seguimiento personalizado de los clientes a lo largo de su experiencia.
 
-- Planificación de los Recursos Institucionales (del inglés Enterprise Resource Planning): Sistemas para la gestión integrada de los recursos de la empresa, incluyendo nanzas, stock, recursos humanos y producción. Centraliza y agiliza las operaciones internas, proporcionando una visión unicada del negocio.
+- Planificación de los Recursos Institucionales (del inglés Enterprise Resource Planning): Sistemas para la gestión integrada de los recursos de la empresa, incluyendo finanzas, stock, recursos humanos y producción. Centraliza y agiliza las operaciones internas, proporcionando una visión unificada del negocio.
 
 - Plataformas colaborativas: Herramientas para la comunicación y la productividad del equipo, como soluciones de gestión de proyectos, trabajo en equipo en línea y uso compartido de documentos. Facilitan el trabajo remoto y la coordinación entre departamentos.
 
@@ -3409,7 +3408,7 @@ La integración de estas diferentes herramientas, a través de APIs y conectores
 
 - ¿Qué es un CRM?
 
-Customer Relationship Management (CRM) es un sistema que permite monitorizar las interacciones con clientes y potenciales clientes, registrando contactos, historial de compras y dando soporte a las áreas de ventas y marketing. Un CRM permite un servicio personalizado y eciente, centralizando toda la información relevante sobre cada cliente.
+Customer Relationship Management (CRM) es un sistema que permite monitorizar las interacciones con clientes y potenciales clientes, registrando contactos, historial de compras y dando soporte a las áreas de ventas y marketing. Un CRM permite un servicio personalizado y eficiente, centralizando toda la información relevante sobre cada cliente.
 
 - ¿Por qué usarlo?
 
@@ -3434,19 +3433,19 @@ La mayoría de los CRM tienen versiones gratuitas o planes de inicio gratuitos,
 
 - HubSpot CRM: Versión gratuita robusta con funciones esenciales de CRM, ideal para empresas que están empezando a digitalizar las relaciones con los clientes.
 
-## 6. Planicación de los Recursos Institucionales (del inglés Enterprise Resource Planning)
+## 6. Planificación de los Recursos Institucionales (del inglés Enterprise Resource Planning)
 
 - Qué es un ERP
 
-La planicación de recursos empresariales (ERP) es un software que integra los procesos empresariales clave en una única plataforma. Un ERP generalmente incluye nanzas y contabilidad, gestión de inventario, compras, ventas, recursos humanos y otros módulos.
+La planificación de recursos empresariales (ERP) es un software que integra los procesos empresariales clave en una única plataforma. Un ERP generalmente incluye finanzas y contabilidad, gestión de inventario, compras, ventas, recursos humanos y otros módulos.
 
 - ¿Por qué usarlo?
 
-Un ERP es la "columna vertebral" digital del negocio, lo que garantiza una visión unicada de todas las áreas. Los principales benecios se organizan en tres dimensiones.
+Un ERP es la "columna vertebral" digital del negocio, lo que garantiza una visión unificada de todas las áreas. Los principales beneficios se organizan en tres dimensiones.
 
-1. CONTROL FINANCIERO Y DE OPERACIONES: Monitoreo de los ingresos, gastos, stock, producción, entre otros, evitando el trabajo duplicado y proporcionando una visión centralizada de todos los datos nancieros y operativos.
+1. CONTROL FINANCIERO Y DE OPERACIONES: Monitoreo de los ingresos, gastos, stock, producción, entre otros, evitando el trabajo duplicado y proporcionando una visión centralizada de todos los datos financieros y operativos.
 
-2. PROCESOS ESTANDARIZADOS: Mejora la eciencia y reduce los errores al aumentar la productividad general mediante la implementación de flujos de trabajo consistentes en toda la organización.
+2. PROCESOS ESTANDARIZADOS: Mejora la eficiencia y reduce los errores al aumentar la productividad general mediante la implementación de flujos de trabajo consistentes en toda la organización.
 
 3. INFORMACIÓN EN TIEMPO REAL: Proporciona informes integrados para tomar decisiones rápidas y estratégicas, permitiendo a los gerentes el acceso inmediato a datos actualizados de todas las áreas de la empresa.
 
@@ -3488,7 +3487,7 @@ Roles clave:
 
 La gestión de proyectos y equipos es un desafío constante, pero existen herramientas digitales desarrolladas específicamente para esta tarea.
 
-Las plataformas digitales mejoran signicativamente la organización del trabajo y la comunicación interna. Analice algunos ejemplos, organizados por las siguientes categorías:
+Las plataformas digitales mejoran significativamente la organización del trabajo y la comunicación interna. Analice algunos ejemplos, organizados por las siguientes categorías:
 
 1. Gestión de Proyectos
 2. Comunicación del equipo
@@ -3518,7 +3517,7 @@ Algunos ejemplos que puede usar, dependiendo de su propia necesidad:
 
 ### 7.3. AGENDAS Y ORGANIZACIÓN
 
-Los horarios y las herramientas de organización te permiten planicar y gestionar citas, tareas y objetivos, aumentando la productividad y la organización personal o de equipo. Ayudan a centralizar la información, lo que facilita el seguimiento de los plazos y la visualización de las responsabilidades.
+Los horarios y las herramientas de organización te permiten planificar y gestionar citas, tareas y objetivos, aumentando la productividad y la organización personal o de equipo. Ayudan a centralizar la información, lo que facilita el seguimiento de los plazos y la visualización de las responsabilidades.
 
 Algunos ejemplos de agendas digitales y organizacionales:
 
@@ -3536,17 +3535,17 @@ Estas herramientas aumentan la productividad incluso en equipos remotos, manteni
 
 Además de CRM, ERP y plataformas colaborativas, existen otras áreas donde las herramientas digitales pueden transformar radicalmente el funcionamiento de tu negocio.
 
-1. Finanzas y contabilidad en línea: El software de facturación y contabilidad en la nube simplica la gestión nanciera. Ejemplos: CentralGest y Jasmin (facturación en línea en Portugal), Sage (gestión contable y de inventario). La automatización nanciera reduce los errores y garantiza el cumplimiento tributario, además de facilitar el envío de documentos al contador.
+1. Finanzas y contabilidad en línea: El software de facturación y contabilidad en la nube simplifica la gestión financiera. Ejemplos: CentralGest y Jasmin (facturación en línea en Portugal), Sage (gestión contable y de inventario). La automatización financiera reduce los errores y garantiza el cumplimiento tributario, además de facilitar el envío de documentos al contador.
 
 2. Comercio electrónico y ventas en línea: Plataformas para crear tiendas virtuales de forma sencilla, integrando el proceso de pago. Estas herramientas abren un nuevo canal de ventas con alcance global.
 
 3. Seguridad y copia de seguridad en la nube: Proteger los datos es crucial. Utiliza un almacenamiento able en la nube, como Google Drive (15 GB gratis integrado con Gmail), Dropbox o OneDrive, para mantener los archivos seguros y accesibles desde cualquier lugar. Garantizan una copia de seguridad automática y un fácil intercambio con colegas o clientes.
 
-4. Marketing Digital: Herramientas especícas como Canva para un diseño gráco rápido, MailChimp/E-goi para marketing por correo electrónico o Hootsuite para programar publicaciones en redes sociales. Estas soluciones te permiten crear y ejecutar campañas profesionales con presupuestos reducidos.
+4. Marketing Digital: Herramientas específicas como Canva para un diseño gráfico rápido, MailChimp/E-goi para marketing por correo electrónico o Hootsuite para programar publicaciones en redes sociales. Estas soluciones te permiten crear y ejecutar campañas profesionales con presupuestos reducidos.
 
 Conclusión
 
-La adopción de una gama adecuada de herramientas permite que incluso las pequeñas empresas operen de manera profesional y eciente, compitiendo con organizaciones más grandes a través de la agilidad y la inteligencia que proporciona la tecnología.
+La adopción de una gama adecuada de herramientas permite que incluso las pequeñas empresas operen de manera profesional y eficiente, compitiendo con organizaciones más grandes a través de la agilidad y la inteligencia que proporciona la tecnología.
 
 ### Herramientas gratuitas y asequibles
 
@@ -3558,9 +3557,9 @@ Los empresarios con presupuestos limitados pueden comenzar la digitalización si
 
 3. HubSpot CRM (plan gratuito): Gestión de contactos, negocios y embudos de ventas sin coste para usuarios ilimitados; opción de añadir módulos de pago según sea necesario. Incluye la automatización básica del correo electrónico y la integración con los formularios del sitio web.
 
-4. Canva: Plataforma de diseño gráco: crea logotipos, publicaciones y presentaciones de aspecto profesional sin la necesidad de un diseñador. Tiene miles de plantillas listas para usar y una interfaz intuitiva incluso para aquellos sin experiencia en diseño.
+4. Canva: Plataforma de diseño gráfico: crea logotipos, publicaciones y presentaciones de aspecto profesional sin la necesidad de un diseñador. Tiene miles de plantillas listas para usar y una interfaz intuitiva incluso para aquellos sin experiencia en diseño.
 
-5. Google analytics: Servicio gratuito de análisis de tráco de sitios web: esencial para comprender el comportamiento de los visitantes y optimizar el marketing. Proporciona datos detallados sobre la fuente de tráco, las páginas más visitadas y las conversiones.
+5. Google analytics: Servicio gratuito de análisis de tráfico de sitios web: esencial para comprender el comportamiento de los visitantes y optimizar el marketing. Proporciona datos detallados sobre la fuente de tráfico, las páginas más visitadas y las conversiones.
 
 6. MailChimp (plan gratuito): Le permite enviar boletines a hasta aproximadamente 500 contactos sin una anualidad. Incluye plantillas personalizables y métricas básicas para realizar un seguimiento del rendimiento de la campaña.
 
@@ -3568,22 +3567,22 @@ Consejo: Aprovecha las herramientas gratuitas para ganar impulso. A medida que e
 
 ### Foro
 
-Realiza un diagnóstico de las necesidades digitales de tu negocio. Enumera 5 áreas clave e identique, para cada una de ellas, una herramienta digital que pueda optimizar esta función. Comparte tu hoja de ruta de escaneo inicial en el foro.
+Realiza un diagnóstico de las necesidades digitales de tu negocio. Enumera 5 áreas clave e identifique, para cada una de ellas, una herramienta digital que pueda optimizar esta función. Comparte tu hoja de ruta de escaneo inicial en el foro.
 
 ## 9. Introducción a las estrategias digitales
 
 La digitalización no se trata solo de adoptar herramientas: se necesita una estrategia digital clara y alineada con el negocio.
 
-Muchas empresas aún no integran completamente lo digital en su estrategia y operaciones diarias, sino que invierten en soluciones puntuales sin una visión global. Esta realidad representa una oportunidad: las pymes que planican su estrategia digital de forma estructurada pueden obtener una ventaja competitiva. Una estrategia digital dene cómo utilizar la tecnología para alcanzar los objetivos de crecimiento.
+Muchas empresas aún no integran completamente lo digital en su estrategia y operaciones diarias, sino que invierten en soluciones puntuales sin una visión global. Esta realidad representa una oportunidad: las pymes que planifican su estrategia digital de forma estructurada pueden obtener una ventaja competitiva. Una estrategia digital dene cómo utilizar la tecnología para alcanzar los objetivos de crecimiento.
 
 Analizar los componentes de una estrategia digital exitosa:
 
-- Denición de objetivos medibles (ejemplo, aumentar las ventas online un 20% en 6 meses) y KPI a monitorizar.
+- Definición de objetivos medibles (ejemplo, aumentar las ventas online un 20% en 6 meses) y KPI a monitorizar.
 - Elige los canales digitales adecuados para el público objetivo (ejemplo, red social X, marketplace Y, entre otros).
-- Integrar lo digital en los procesos , desde el marketing hasta la logística, para mejorar la experiencia del cliente y la eciencia interna.
+- Integrar lo digital en los procesos , desde el marketing hasta la logística, para mejorar la experiencia del cliente y la eficiencia interna.
 - Cultura de datos, toma decisiones basadas en métricas (analiza lo que funciona y ajusta rápidamente).
 
-Advertencia: Muchas empresas confunden 'tener presencia digital' con 'tener una estrategia digital'. No es suciente estar en las redes sociales o tener un sitio web: necesita un plan integrado que alinee la tecnología con los objetivos comerciales.
+Advertencia: Muchas empresas confunden 'tener presencia digital' con 'tener una estrategia digital'. No es suficiente estar en las redes sociales o tener un sitio web: necesita un plan integrado que alinee la tecnología con los objetivos comerciales.
 
 La estrategia digital se trata de cómo la tecnología respalda la misión y los objetivos de su negocio de manera coordinada.
 
@@ -3603,13 +3602,13 @@ Las estrategias digitales equilibran las condiciones de competencia, ofreciendo 
 
 ## 10. Fases de la implementación de una estrategia digital
 
-La implementación de una estrategia digital efectiva requiere una planicación cuidadosa.
+La implementación de una estrategia digital efectiva requiere una planificación cuidadosa.
 
 Sigue esta guía paso a paso para tu enfoque.
 
 ### Paso 1. Diagnóstico inicial
 
-Evaluar la situación actual. Planique los procesos e identique las fortalezas y brechas digitales de la empresa.
+Evaluar la situación actual. Planifique los procesos e identifique las fortalezas y brechas digitales de la empresa.
 
 Por ejemplo: ¿El sitio es lento? ¿No hay ventas en línea? ¿Los clientes piden ayuda a través de las redes sociales?
 
@@ -3617,7 +3616,7 @@ Utilice datos (informes de la industria, encuesta de satisfacción) para obtener
 
 ### Paso 2. Participación del equipo
 
-La transformación digital también es un proceso humano. Comunicar al equipo los objetivos de este cambio, destacando los benecios para cada departamento.
+La transformación digital también es un proceso humano. Comunicar al equipo los objetivos de este cambio, destacando los beneficios para cada departamento.
 
 Capacitar y capacitar a los empleados: la resistencia se reduce cuando todos entienden y saben cómo usar las nuevas herramientas.
 
@@ -3627,21 +3626,21 @@ Establecer un calendario de implementación por fases realista, evitando sobreca
 
 En función de los objetivos, elija soluciones tecnológicas que se integren bien con el negocio existente. Preferir herramientas que sean compatibles entre sí (ejemplo: un CRM que enlace con la tienda online).
 
-Considere automatizar tareas repetitivas (automatización de marketing, gestión de inventario) sin perder el control y adopte herramientas de análisis (Google Analytics, dashboards) para monitorear los KPI denidos.
+Considere automatizar tareas repetitivas (automatización de marketing, gestión de inventario) sin perder el control y adopte herramientas de análisis (Google Analytics, dashboards) para monitorear los KPI definidos.
 
 ### Paso 4. Implementación gradual - Proyectos piloto
 
-No intentes cambiarlo todo de una vez. Comience con un proyecto piloto en un área limitada, por ejemplo, lanzando una tienda en línea para un segmento de producto especíco o probando un nuevo software solo en una sucursal.
+No intentes cambiarlo todo de una vez. Comience con un proyecto piloto en un área limitada, por ejemplo, lanzando una tienda en línea para un segmento de producto específico o probando un nuevo software solo en una sucursal.
 
 Evaluar los resultados de esta prueba piloto (a través de los comentarios de los usuarios y las métricas de rendimiento) y corregir cualquier falla. Una vez validada la solución, ampliarla progresivamente a toda la empresa.
 
 ### Paso 5. Incorporación y monitoreo continuo
 
-Garantizar que las nuevas soluciones digitales se integren ecazmente en el flujo de trabajo diario, no se ejecuten en paralelo.
+Garantizar que las nuevas soluciones digitales se integren eficazmente en el flujo de trabajo diario, no se ejecuten en paralelo.
 
 Ajustar los procedimientos, los incentivos y, si es necesario, la estructura propia de la empresa para incorporar completamente lo digital.
 
-Monitoree continuamente los indicadores clave: si algo no está produciendo los resultados esperados, ajuste la estrategia. La transformación digital es un proceso continuo de evolución, no un proyecto con un n denido.
+Monitoree continuamente los indicadores clave: si algo no está produciendo los resultados esperados, ajuste la estrategia. La transformación digital es un proceso continuo de evolución, no un proyecto con un n definido.
 
 ### Ejemplo práctico - Panadería digital
 
@@ -3658,7 +3657,7 @@ La panadería descubrió que las ventas locales estaban estancadas y que los cli
 
 - Acciones implementadas:
   - Creación de una tienda online sencilla (web con catálogo y compra para entrega/recogida).
-  - Integración con WhatsApp Business para servicio y conrmaciones.
+  - Integración con WhatsApp Business para servicio y confirmaciones.
   - Adopción de un CRM sencillo para registrar a los clientes habituales y sus preferencias.
   - Uso estratégico de las redes sociales (Instagram) para promocionar promociones y noticias.
 
@@ -3670,9 +3669,9 @@ La panadería descubrió que las ventas locales estaban estancadas y que los cli
   - Las ventas totales crecieron aproximadamente un 20%, superando el objetivo inicial.
 
 - Siguiente paso:
-  - Implemente un programa de delización digital a través de CRM para recompensar a los clientes habituales.
+  - Implemente un programa de fidelización digital a través de CRM para recompensar a los clientes habituales.
 
-Este ejemplo ilustra cómo incluso una empresa tradicional puede beneciarse de una estrategia digital bien implementada mientras mantiene su esencia y amplía el alcance y la eciencia.
+Este ejemplo ilustra cómo incluso una empresa tradicional puede beneficiarse de una estrategia digital bien implementada mientras mantiene su esencia y amplía el alcance y la eficiencia.
 
 ### Foro
 
@@ -3684,11 +3683,11 @@ Actualmente, si una empresa no tiene presencia online, para muchos clientes es c
 
 Estar en el entorno digital ya no es una ventaja competitiva y se ha convertido en una cuestión de supervivencia en el mercado.
 
-Veamos algunos benecios de una fuerte presencia digital:
+Veamos algunos beneficios de una fuerte presencia digital:
 
 - Visibilidad: Un sitio web o página bien posicionada en Google permite a los clientes potenciales encontrar la empresa a la hora de buscar las soluciones que ofrece el sitio web.
 
-- Credibilidad: Las empresas con un sitio web profesional y contenido activo en las redes tienen más conanza (por ejemplo, un cliente tiende a conar más en un restaurante con reseñas en línea y menú en el sitio web que en un restaurante sin información en línea).
+- Credibilidad: Las empresas con un sitio web profesional y contenido activo en las redes tienen más confianza (por ejemplo, un cliente tiende a confiar más en un restaurante con reseñas en línea y menú en el sitio web que en un restaurante sin información en línea).
 
 - Conversación con el cliente: El marketing digital permite el diálogo directo, a través de comentarios, mensajes o contenido interactivo, construyendo relaciones y comunidades en torno a la marca.
 
@@ -3702,21 +3701,21 @@ ELEMENTOS DE UNA SÓLIDA PRESENCIA ONLINE
 
 Para establecerse de manera efectiva en el entorno digital, una PYME debe tener en cuenta varios puntos de contacto en Internet. Da un paso adelante para descubrir cuáles son.
 
-- Sitio web profesional: Un sitio web profesional es la base de tu presencia digital. Un buen sitio web actúa como la "sede virtual" de la empresa. Debe tener información clara sobre productos/servicios, contactos y ser receptivo (adaptado a los teléfonos móviles). Un sitio web bien estructurado y rápido da credibilidad y mejora la experiencia del usuario. Asegúrese de tener un dominio propio y el certicado SSL (bloqueo seguro del sitio).
+- Sitio web profesional: Un sitio web profesional es la base de tu presencia digital. Un buen sitio web actúa como la "sede virtual" de la empresa. Debe tener información clara sobre productos/servicios, contactos y ser receptivo (adaptado a los teléfonos móviles). Un sitio web bien estructurado y rápido da credibilidad y mejora la experiencia del usuario. Asegúrese de tener un dominio propio y el certificado SSL (bloqueo seguro del sitio).
 
-- Redes sociales activas: Identica dónde pasa más tiempo tu público (Facebook, Instagram, LinkedIn, YouTube o TikTok) y crea perles en estas plataformas, manteniéndolos actualizados con contenido relevante de forma regular. Las redes sociales ayudan a humanizar la marca: utilízalas para contar la historia de tu negocio, ir detrás de escena, responder preguntas e interactuar con los seguidores. La consistencia es clave para construir y retener la lealtad de la audiencia.
+- Redes sociales activas: Identifica dónde pasa más tiempo tu público (Facebook, Instagram, LinkedIn, YouTube o TikTok) y crea perles en estas plataformas, manteniéndolos actualizados con contenido relevante de forma regular. Las redes sociales ayudan a humanizar la marca: utilízalas para contar la historia de tu negocio, ir detrás de escena, responder preguntas e interactuar con los seguidores. La consistencia es clave para construir y retener la lealtad de la audiencia.
 
 - GOOGLE BUSINESS: Para las empresas locales, esta herramienta gratuita de Google es indispensable. Registra tu empresa para que aparezca en Google Maps y en los resultados de búsqueda con la dirección, la hora y las valoraciones. Hace que sea más fácil para los clientes encontrar y evaluar tu negocio. Actualiza la información con regularidad y responde a las evaluaciones para mejorar la visibilidad local.
 
-- SEO (Search Engine Optimization): Optimización de motores de búsqueda. Signica ajustar tu sitio web (contenido y parte técnica) para que aparezca bien posicionado en Google. Incluye el uso de palabras clave relevantes, metadatos, contenido original regular y backlinks. Un buen SEO genera tráco orgánico "gratuito" de personas que buscan exactamente lo que ofrece tu negocio.
+- SEO (Search Engine Optimization): Optimización de motores de búsqueda. significa ajustar tu sitio web (contenido y parte técnica) para que aparezca bien posicionado en Google. Incluye el uso de palabras clave relevantes, metadatos, contenido original regular y backlinks. Un buen SEO genera tráfico orgánico "gratuito" de personas que buscan exactamente lo que ofrece tu negocio.
 
-- Contenido de valor: No es suciente con estar presente en línea, es esencial atraer e involucrar a las audiencias. El marketing de contenidos consiste en crear materiales útiles e interesantes para el público, como entradas de blog, infografías, vídeos tutoriales o ebooks. Esta estrategia refuerza la credibilidad de la marca y atrae visitantes a tus canales digitales. Por ejemplo, una tienda de jardinería podría mantener un blog con consejos para el cuidado de las plantas, capturando clientes potenciales a través de búsquedas en Google.
+- Contenido de valor: No es suficiente con estar presente en línea, es esencial atraer e involucrar a las audiencias. El marketing de contenidos consiste en crear materiales útiles e interesantes para el público, como entradas de blog, infografías, vídeos tutoriales o ebooks. Esta estrategia refuerza la credibilidad de la marca y atrae visitantes a tus canales digitales. Por ejemplo, una tienda de jardinería podría mantener un blog con consejos para el cuidado de las plantas, capturando clientes potenciales a través de búsquedas en Google.
 
 - Email Marketing: Crea una base de contacto de clientes interesados y comunícate con ellos regularmente, compartiendo noticias, promociones y contenido relevante. Cuando se ejecuta bien, el marketing por correo electrónico genera un retorno de la inversión (ROI) muy alto: los estudios indican que puede lograr valores excepcionales. Herramientas como MailChimp o E-goi facilitan la creación de boletines atractivos y te permiten realizar un seguimiento de quién abrió o hizo clic en cada mensaje.
 
-- Publicidad en línea (SEM/PPC): Para obtener resultados más inmediatos o llegar a un público más amplio, invertir en anuncios de pago puede ser una estrategia eficaz. Por ejemplo: Google Ads muestra anuncios en la parte superior de los resultados de búsqueda; Facebook/Instagram Ads le permite dirigirte a audiencias especícas por interés o ubicación; y LinkedIn Ads es adecuado para empresas B2B. Incluso con un pequeño presupuesto, es posible llegar a un número signicativo de personas con el perfil deseado.
+- Publicidad en línea (SEM/PPC): Para obtener resultados más inmediatos o llegar a un público más amplio, invertir en anuncios de pago puede ser una estrategia eficaz. Por ejemplo: Google Ads muestra anuncios en la parte superior de los resultados de búsqueda; Facebook/Instagram Ads le permite dirigirte a audiencias específicas por interés o ubicación; y LinkedIn Ads es adecuado para empresas B2B. Incluso con un pequeño presupuesto, es posible llegar a un número significativo de personas con el perfil deseado.
 
-- Análisis de métricas: El monitoreo de datos es una parte esencial de la presencia digital. Utiliza herramientas como Google Analytics o información de Facebook e Instagram para evaluar lo que funciona: la fuente de tráco, las publicaciones de mayor interacción o las conversiones del sitio. Estas métricas te permiten ajustar continuamente la estrategia para maximizar los resultados.
+- Análisis de métricas: El monitoreo de datos es una parte esencial de la presencia digital. Utiliza herramientas como Google Analytics o información de Facebook e Instagram para evaluar lo que funciona: la fuente de tráfico, las publicaciones de mayor interacción o las conversiones del sitio. Estas métricas te permiten ajustar continuamente la estrategia para maximizar los resultados.
 
 Conclusión
 
@@ -3730,7 +3729,7 @@ Ahora vamos a presentar algunos canales clave de marketing digital y las mejor
 
 - Mantén tu sitio web actualizado y con un diseño receptivo (compatible con dispositivos móviles);
 - Crea un blog/sección de noticias para publicar contenido regularmente (mejora el SEO);
-- Escribe sobre preguntas comunes de los clientes: estas respuestas pueden atraer tráco orgánico;
+- Escribe sobre preguntas comunes de los clientes: estas respuestas pueden atraer tráfico orgánico;
 - Utiliza CTA claras (llamada a la acción): "Solicita un presupuesto", "Suscríbete al boletín";
 - Incluye formularios de contacto simples e intuitivos.
 
@@ -3762,9 +3761,9 @@ Ahora vamos a presentar algunos canales clave de marketing digital y las mejor
 
 - YouTube: Si tienes recursos de vídeo, YouTube es el mayor motor de búsqueda de vídeo. Los tutoriales, las demostraciones de productos y los testimonios de los clientes en formato de vídeo pueden tener un gran impacto. Recuerda que los vídeos también se pueden incrustar en el sitio web y en las redes, multiplicando el alcance.
 
-- Colaboraciones e influencers: Para ampliar el alcance, considera las colaboraciones estratégicas. Por ejemplo, asociarse con un negocio complementario para la divulgación cruzada o con microinfluencers locales, personas con seguidores que participan en una región o nicho especíco, que pueden promocionar tu producto o servicio de manera auténtica y a un costo asequible.
+- Colaboraciones e influencers: Para ampliar el alcance, considera las colaboraciones estratégicas. Por ejemplo, asociarse con un negocio complementario para la divulgación cruzada o con microinfluencers locales, personas con seguidores que participan en una región o nicho específico, que pueden promocionar tu producto o servicio de manera auténtica y a un costo asequible.
 
-- Remarketing: ¿Alguna vez has visto anuncios de un producto que has buscado días antes? Esto es remarketing. Congura campañas para volver a impactar a aquellos que visitaron su sitio pero no realizaron la compra. Esta técnica mantiene tu marca presente en la memoria del consumidor y aumenta la probabilidad de una conversión posterior. Plataformas como Google Ads y Facebook Ads ofrecen esta funcionalidad.
+- Remarketing: ¿Alguna vez has visto anuncios de un producto que has buscado días antes? Esto es remarketing. Configura campañas para volver a impactar a aquellos que visitaron su sitio pero no realizaron la compra. Esta técnica mantiene tu marca presente en la memoria del consumidor y aumenta la probabilidad de una conversión posterior. Plataformas como Google Ads y Facebook Ads ofrecen esta funcionalidad.
 
 Recuerda: en el marketing digital no existe una fórmula mágica: es probar, medir y ajustar. Lo que funciona para una empresa puede no ser lo más efectivo para otra. Lo importante es estar presente, escuchar a los clientes y perfeccionar continuamente la estrategia en base a datos reales y resultados observables.
 
@@ -3780,7 +3779,7 @@ Estrategias que marcaron la diferencia:
 
 - TONO HUMORÍSTICO: La marca adopta un tono relajado e inteligente en las redes sociales, recurriendo a menudo a juegos de palabras y referencias culturales. Este enfoque acercó Liquor Beirão a un público más joven, rejuveneciendo la imagen de un licor tradicional a través del humor y la proximidad.
 
-- INTERACCIÓN CON EL PÚBLICO: En Facebook y Twier, Licor Beirão destacó por su interacción creativa con seguidores y publicaciones oportunas en actualidad y eventos (marketing en tiempo real). Durante el connamiento, por ejemplo, la marca creó contenido humorístico que se volvió viral y reforzó su conexión emocional con los consumidores.
+- INTERACCIÓN CON EL PÚBLICO: En Facebook y Twier, Licor Beirão destacó por su interacción creativa con seguidores y publicaciones oportunas en actualidad y eventos (marketing en tiempo real). Durante el confinamiento, por ejemplo, la marca creó contenido humorístico que se volvió viral y reforzó su conexión emocional con los consumidores.
 
 Esta estrategia se tradujo en un importante crecimiento de la comunidad online -la marca alcanzó los cientos de miles de seguidores- y en un aumento de las ventas , prácticamente sin recurrir a la publicidad tradicional.
 
@@ -3796,9 +3795,9 @@ Elabora un plan de marketing digital simple y realista para una pequeña empresa
 
 1. Breve descripción de la empresa: Ejemplo: 'Cafetería artesanal en La Laguna dirigida a un público joven y urbano'.
 
-2. Objetivo de marketing digital: Ejemplo: "Aumentar el tráco del sitio web y los pedidos en línea en un 50% en un plazo de seis meses".
+2. Objetivo de marketing digital: Ejemplo: "Aumentar el tráfico del sitio web y los pedidos en línea en un 50% en un plazo de seis meses".
 
-3. Público objetivo digital: Describa el perfil de la audiencia a la que desea llegar en línea (características e intereses demográcos, de comportamiento). Ejemplo: 'Jóvenes entre 20 y 35 años, usuarios frecuentes de Instagram, interesados en cafés de especialidad y espacios 'instagrameables''.
+3. Público objetivo digital: Describa el perfil de la audiencia a la que desea llegar en línea (características e intereses demográficos, de comportamiento). Ejemplo: 'Jóvenes entre 20 y 35 años, usuarios frecuentes de Instagram, interesados en cafés de especialidad y espacios 'instagrameables''.
 
 4. Canales y tácticas: Elige dos o tres canales digitales prioritarios y explica cómo piensas usarlos. Ejemplo:
 
@@ -3822,7 +3821,7 @@ El comercio electrónico ha experimentado un crecimiento rápido y sostenido. Po
 
 Muchas pymes han comenzado recientemente a vender en línea, impulsadas en parte por la pandemia, pero el potencial sigue siendo alto.
 
-Las pymes que adoptan el comercio electrónico pueden aumentar la facturación, diversicar los canales de venta y ser más resistentes a las crisis y los cambios del mercado.
+Las pymes que adoptan el comercio electrónico pueden aumentar la facturación, diversificar los canales de venta y ser más resistentes a las crisis y los cambios del mercado.
 
 ### Opciones de comercio electrónico para pymes
 
@@ -3838,7 +3837,7 @@ Retos: requiere inversión en difusión y gestión logística (envío y atenció
 
 Ejemplos: Amazon, eBay (internacional), Do y KuantoKusta (mercados portugueses).
 
-Ventajas: acceso inmediato a una gran base de clientes de conanza; pagos y seguridad gestionados por la propia plataforma.
+Ventajas: acceso inmediato a una gran base de clientes de confianza; pagos y seguridad gestionados por la propia plataforma.
 
 Retos: pago de comisiones por venta y competencia directa con otros vendedores; menos control sobre el branding.
 
@@ -3846,7 +3845,7 @@ Retos: pago de comisiones por venta y competencia directa con otros vendedores; 
 
 4. Aplicaciones de entrega y servicios: Para sectores como la restauración, el súper o la vivienda, las plataformas como Uber Eats, Glovo, Booking o Airbnb pueden ser un punto de entrada al comercio digital. En estos casos, la empresa se conecta a una red ya establecida, pagando una comisión por cada transacción, a cambio de una mayor visibilidad y alcance.
 
-5. E-Comerce híbrido: El modelo híbrido integra la tienda física con la tienda online. Ejemplos: ofrecer "comprar en línea y recoger en la tienda" o gestionar simultáneamente las ventas en los marketplace y en tu propio sitio web, con un stock unicado. Este enfoque ofrece a los clientes más flexibilidad y multiplica los puntos de contacto de la marca, combinando lo mejor de ambos mundos.
+5. E-Comerce híbrido: El modelo híbrido integra la tienda física con la tienda online. Ejemplos: ofrecer "comprar en línea y recoger en la tienda" o gestionar simultáneamente las ventas en los marketplace y en tu propio sitio web, con un stock unificado. Este enfoque ofrece a los clientes más flexibilidad y multiplica los puntos de contacto de la marca, combinando lo mejor de ambos mundos.
 
 ### PUNTOS CRÍTICOS
 
@@ -3855,7 +3854,7 @@ Independientemente de la opción elegida, es fundamental tener en cuenta algunos
 - Fotografías y descripciones atractivas del producto;
 - Precios competitivos, incluidos los gastos de envío;
 - Métodos de pago locales (en Portugal: MB Way, referencias de cajeros automáticos, tarjetas bancarias);
-- Buen servicio post-venta, con respuestas rápidas, gestión eciente de cambios y devoluciones.
+- Buen servicio post-venta, con respuestas rápidas, gestión eficiente de cambios y devoluciones.
 
 ## 15. Buenas Prácticas
 
@@ -3866,20 +3865,20 @@ Explora los elementos esenciales para tener éxito en el comercio electrónico:
 1. Diseño y usabilidad
 
 - El sitio web debe ser fácil de navegar, con categorías de productos bien organizadas.
-- Incluye una barra de búsqueda efectiva y ltros intuitivos.
+- Incluye una barra de búsqueda efectiva y filtros intuitivos.
 - Garantizar un diseño adaptable (adaptado a dispositivos móviles): más del 60% de las compras en línea se realizan a través de teléfonos inteligentes.
 - Las páginas deben ser ligeras y rápidas: los sitios web lentos alejan a los clientes potenciales.
-- Simplica la navegación: cuantos menos clics hagas para comprar, mejor.
+- Simplifica la navegación: cuantos menos clics hagas para comprar, mejor.
 
 2. Imágenes y descripciones
 
 - Utiliza fotografías de alta calidad que muestren el producto desde varios ángulos.
 - Permite hacer zoom y vista detallada.
 - Escribe descripciones completas y claras, incluyendo tamaños, materiales y características relevantes.
-- Incluye reseñas de clientes: la prueba social aumenta signicativamente la conanza.
+- Incluye reseñas de clientes: la prueba social aumenta significativamente la confianza.
 - Siempre que sea posible, añade vídeos de demostración.
 
-3. Proceso simplicado de compra (pago)
+3. Proceso simplificado de compra (pago)
 
 - Reduce el número de pasos para pagar.
 - Permite compras como invitado, sin necesidad de registro: el 65% de las tiendas todavía no lo permiten, lo que perjudica las ventas.
@@ -3898,13 +3897,13 @@ Explora los elementos esenciales para tener éxito en el comercio electrónico:
 - Muestra sellos de seguridad (SSL) y cumple con el Reglamento General de Protección de Datos (RGPD).
 - No pidas datos innecesarios.
 - Incluye aviso de cookies y política de privacidad.
-- La transparencia genera conanza, y la conanza es esencial para el éxito del comercio electrónico.
+- La transparencia genera confianza, y la confianza es esencial para el éxito del comercio electrónico.
 
 6. Seguimiento de clientes
 
-- Envía correos electrónicos automáticos con el estado del pedido (conrmación, seguimiento, entrega).
+- Envía correos electrónicos automáticos con el estado del pedido (confirmación, seguimiento, entrega).
 - Después de la compra, envía una encuesta de satisfacción o un cupón de descuento para el próximo pedido.
-- Estas acciones ayudan a delizar a los clientes y a convertir a los compradores habituales en clientes habituales.
+- Estas acciones ayudan a fidelizar a los clientes y a convertir a los compradores habituales en clientes habituales.
 
 ## 16. Modelos de monetización digital
 
@@ -3942,11 +3941,11 @@ Otra forma de monetización es convertir el conocimiento en productos digitales 
 
 Ejemplos: consultores que lanzan cursos en línea pagados, libros electrónicos, seminarios web, podcasts premium o capacitaciones grabadas.
 
-Una vez creados, estos contenidos se pueden vender indenidamente, generando ingresos recurrentes con bajo coste marginal.
+Una vez creados, estos contenidos se pueden vender indefinidamente, generando ingresos recurrentes con bajo coste marginal.
 
 6. Crowdfunding / Preventa
 
-Le permite obtener nanciamiento por adelantado para lanzar un producto o negocio.
+Le permite obtener financiamiento por adelantado para lanzar un producto o negocio.
 
 Plataformas como PPL o Kickstarter permiten a los clientes interesados apoyar o comprar antes de la producción.
 
@@ -3956,7 +3955,7 @@ Además de generar capital semilla, el crowdfunding valida la demanda real de un
 
 Plataformas digitales que intermedian servicios inmediatos.
 
-Ejemplos: Uber, Glovo o versiones locales creadas para nichos especícos.
+Ejemplos: Uber, Glovo o versiones locales creadas para nichos específicos.
 
 Una pequeña empresa puede usar estas plataformas como proveedor (por ejemplo, un restaurante en Uber Eats) o incluso crear su propia versión de nicho cobrando el servicio o los gastos de envío.
 
@@ -3964,7 +3963,7 @@ Una pequeña empresa puede usar estas plataformas como proveedor (por ejemplo, u
 
 Piensa "fuera de la caja" sobre cómo su negocio crea valor en línea.
 
-Un simple cambio de modelo, por ejemplo, de venta única a suscripción, puede aumentar signicativamente la lealtad y los ingresos.
+Un simple cambio de modelo, por ejemplo, de venta única a suscripción, puede aumentar significativamente la lealtad y los ingresos.
 
 Muchas empresas exitosas combinan múltiples modelos de monetización digital.
 
@@ -3980,11 +3979,11 @@ A continuación, presentamos algunos casos reales que demuestran cómo las empr
 
 - Farfetch - Global Marketplace: Farfetch nació sin stock propio: creó una plataforma que conecta boutiques independientes con consumidores de todo el mundo, ganando comisiones por ventas. Este modelo de "activos ligeros" le permitió crecer rápidamente y demostrar que las empresas portuguesas pueden liderar los mercados globales a través de la tecnología y la innovación digital.
 
-- Uniplaces - Plataforma de inicio portuguesa Economía: que desarrolló una plataforma para alquilar habitaciones a estudiantes internacionales. La monetización se basa en una comisión por cada contrato cerrado. El servicio ha simplicado la vida de estudiantes y propietarios, convirtiéndose en una solución de referencia en varias ciudades europeas.
+- Uniplaces - Plataforma de inicio portuguesa Economía: que desarrolló una plataforma para alquilar habitaciones a estudiantes internacionales. La monetización se basa en una comisión por cada contrato cerrado. El servicio ha simplificado la vida de estudiantes y propietarios, convirtiéndose en una solución de referencia en varias ciudades europeas.
 
-- Spotify - Disruptive Freemium Model: Revolucionó el consumo de música con un modelo freemium: acceso gratuito con anuncios para la mayoría de los usuarios y una suscripción de pago sin anuncios para un porcentaje de clientes. Resultado: ingresos recurrentes, previsibilidad nanciera y una reducción drástica de la piratería musical.
+- Spotify - Disruptive Freemium Model: Revolucionó el consumo de música con un modelo freemium: acceso gratuito con anuncios para la mayoría de los usuarios y una suscripción de pago sin anuncios para un porcentaje de clientes. Resultado: ingresos recurrentes, previsibilidad financiera y una reducción drástica de la piratería musical.
 
-- Glovo / Uber Eats - Comisiones + Entregas propias: Estas plataformas monetizan de dos maneras: cobran un costo de envío al cliente nal y un porcentaje al restaurante o al socio. Han creado un nuevo canal de venta para la industria de la restauración, permitiendo a los pequeños restaurantes aumentar signicativamente su facturación al unirse.
+- Glovo / Uber Eats - Comisiones + Entregas propias: Estas plataformas monetizan de dos maneras: cobran un costo de envío al cliente nal y un porcentaje al restaurante o al socio. Han creado un nuevo canal de venta para la industria de la restauración, permitiendo a los pequeños restaurantes aumentar significativamente su facturación al unirse.
 
 - Netflix - Content Subscription
 
@@ -3996,30 +3995,30 @@ Aunque ahora es un gigante global, Netflix comenzó como una PYME innovadora, in
 
 Estos ejemplos demuestran que innovar en el modelo de negocio puede ser tan importante como innovar en el propio producto.
 
-Al planicar tu estrategia, pregúntate: "¿Qué modelo de monetización sirve mejor a mi cliente y garantiza la sostenibilidad financiera?"
+Al planificar tu estrategia, pregúntate: "¿Qué modelo de monetización sirve mejor a mi cliente y garantiza la sostenibilidad financiera?"
 
 ## 17. Conceptos y beneficios
 
 En este tema abordaremos dos conceptos que están transformando profundamente el mundo empresarial:
 
 - Automatización
-- Inteligencia articial (IA)
+- Inteligencia artificial (IA)
 
 Estas tecnologías, antes accesibles solo a las grandes empresas, ahora están al alcance de las pymes, ofreciendo importantes ganancias en eficiencia, productividad y competitividad
 
 - ¿Qué es la automatización?
 
-La automatización consiste en utilizar software o equipos para realizar tareas de forma automática, sin necesidad de intervención humana constante. El objetivo es ganar eciencia liberando a las personas de tareas repetitivas y reduciendo los errores operativos.
+La automatización consiste en utilizar software o equipos para realizar tareas de forma automática, sin necesidad de intervención humana constante. El objetivo es ganar eficiencia liberando a las personas de tareas repetitivas y reduciendo los errores operativos.
 
 Algunos ejemplos prácticos:
 
     - Programar publicaciones en redes sociales con antelación;
     - Generar informes diarios automáticamente;
-    - Congura un chatbot para responder a las preguntas más frecuentes las 24 horas del día.
+    - Configura un chatbot para responder a las preguntas más frecuentes las 24 horas del día.
 
-- ¿Qué es la inteligencia articial?
+- ¿Qué es la inteligencia artificial?
 
-La inteligencia articial (IA) abarca sistemas capaces de simular las capacidades humanas, como el aprendizaje, el razonamiento, el análisis y el reconocimiento de patrones.
+La inteligencia artificial (IA) abarca sistemas capaces de simular las capacidades humanas, como el aprendizaje, el razonamiento, el análisis y el reconocimiento de patrones.
 
 Algunas aplicaciones comunes:
 
@@ -4028,19 +4027,19 @@ Algunas aplicaciones comunes:
     - Sistemas de recomendación: los ejemplos típicos son sugerencias de productos ("quién compró esto también compró...");
     - Visión por ordenador: reconocimiento de objetos e imágenes para aplicaciones industriales, comerciales y de seguridad.
 
-La automatización y la IA signican "hacer más con menos", lo que libera tiempo para lo que realmente importa: la estrategia, la innovación y las relaciones con los clientes.
+La automatización y la IA significan "hacer más con menos", lo que libera tiempo para lo que realmente importa: la estrategia, la innovación y las relaciones con los clientes.
 
 ### BENEFICIOS
 
 Beneficios de la automatización y la IA para las pymes
 
-¿Por qué vale la pena incorporar la automatización y la IA en el negocio? Estos son algunos benecios concretos. Da la vuelta a las tarjetas para revelar más información sobre cada una de ellas.
+¿Por qué vale la pena incorporar la automatización y la IA en el negocio? Estos son algunos beneficios concretos. Da la vuelta a las tarjetas para revelar más información sobre cada una de ellas.
 
-1. Mayor productividad: Muchas pymes identican la eciencia operativa como un motor clave del crecimiento. La automatización ahorra tiempo al permitir que los equipos se centren en actividades creativas y estratégicas.
+1. Mayor productividad: Muchas pymes identifican la eficiencia operativa como un motor clave del crecimiento. La automatización ahorra tiempo al permitir que los equipos se centren en actividades creativas y estratégicas.
 
 2. Reducción de costes: Los procesos automatizados reducen errores y retrabajos, generando un ahorro medio del 20% en costes operativos.
 
-3. Decisiones basadas en datos: Las herramientas de IA te permiten analizar grandes volúmenes de información en segundos, identicando patrones invisibles para el ojo humano. Las decisiones se basan en la evidencia, no en la intuición.
+3. Decisiones basadas en datos: Las herramientas de IA te permiten analizar grandes volúmenes de información en segundos, identificando patrones invisibles para el ojo humano. Las decisiones se basan en la evidencia, no en la intuición.
 
 4. Personalización a escala: Los consumidores valoran las experiencias personalizadas. La IA te permite ofrecer esta personalización automáticamente, por ejemplo, enviando correos electrónicos con ofertas adaptadas al...
 
@@ -4072,7 +4071,7 @@ La clave es empezar poco a poco: automatizar una tarea sencilla, probar el resul
 
 ### HERRAMIENTAS DE IA
 
-Herramientas de IA accesibles: No es necesario contratar especialistas en machine learning para aprovechar la Inteligencia Articial. Hoy en día, existen soluciones listas para usar diseñadas para pymes.
+Herramientas de IA accesibles: No es necesario contratar especialistas en machine learning para aprovechar la Inteligencia artificial. Hoy en día, existen soluciones listas para usar diseñadas para pymes.
 
 1. ASISTENTES DE ESCRITURA DE IA: Herramientas como ChatGPT (OpenAI) o Bing Chat te permiten generar texto bajo demanda. Por ejemplo, para:
 
@@ -4091,8 +4090,8 @@ Herramientas de IA accesibles: No es necesario contratar especialistas en machin
 3. IMAGEN, VÍDEO Y DISEÑO: Algunos ejemplos de herramientas:
 
 - DALL·E 2 o Midjourney: crea imágenes a partir de texto (ideal para publicaciones, productos o ilustración de ideas);
-- Canva (Magic Design y Magic Write): genera automáticamente textos y diseños coherentes; Descript
-- : transcribe y edita vídeos basados en voz;
+- Canva (Magic Design y Magic Write): genera automáticamente textos y diseños coherentes;
+- Descript: transcribe y edita vídeos basados en voz;
 - Synthesia: crea vídeos con presentadores virtuales que leen tu texto.
 
 4. TRADUCCIÓN Y LOCALIZACIÓN
@@ -4111,27 +4110,27 @@ Consejo: explora las funciones inteligentes que ya existen en las herramientas q
 
 ### Herramientas de IA especializadas por sector
 
-Constantemente surgen soluciones creadas para dominios especícos. A título de ejemplo:
+Constantemente surgen soluciones creadas para dominios específicos. A título de ejemplo:
 
-- Lobe (de Microsoft): entrena modelos de visión articial sin necesidad de código; 1
+- Lobe (de Microsoft): entrena modelos de visión artificial sin necesidad de código; 1
 - Dalion (startup PT): optimiza los precios de los productos con algoritmos de precios dinámicos; 2
 - Leadzai (startup PT): utiliza IA para crear automáticamente campañas publicitarias para pymes. 3
 
 La mayoría de estas herramientas ofrecen versiones gratuitas o períodos de prueba, lo que hace que el acceso a la IA sea más democrático y accesible.
 
-- Como emprendedor, prueba herramientas, compara resultados e identica las que realmente aportan valor a tu negocio.
+- Como emprendedor, prueba herramientas, compara resultados e identifica las que realmente aportan valor a tu negocio.
 
 ## 19. Ejemplos de IA para pequeñas empresas
 
-Ilustremos ahora casos de uso de IA en contextos de PYMES para hacer más identicables las posibilidades.
+Ilustremos ahora casos de uso de IA en contextos de PYMES para hacer más identificables las posibilidades.
 
-1. Restaurante inteligente: Un pequeño restaurante ha implementado un sencillo sistema de IA en WhatsApp: los clientes hacen reservas y pedidos directamente a través de un chatbot, que entiende los mensajes comunes y conrma automáticamente los horarios disponibles.
+1. Restaurante inteligente: Un pequeño restaurante ha implementado un sencillo sistema de IA en WhatsApp: los clientes hacen reservas y pedidos directamente a través de un chatbot, que entiende los mensajes comunes y confirma automáticamente los horarios disponibles.
 
 Resultados: reducción del 40% en el volumen de llamadas telefónicas, menos errores en los pedidos y una experiencia del cliente más rápida y conveniente.
 
 2. Agencia de marketing boutique: Un equipo de cinco personas gestiona más de veinte clientes gracias a la automatización y la IA:
 
-- Zapier integra formularios de sitios web de clientes con hojas de cálculo y noticaciones internas;
+- Zapier integra formularios de sitios web de clientes con hojas de cálculo y notificaciones internas;
 - Buer programa las publicaciones en las redes sociales automáticamente en los mejores momentos;
 - las herramientas de escritura impulsadas por IA generan ideas de contenido que el equipo solo revisa y ajusta.
 
@@ -4149,15 +4148,15 @@ Resultado : mayor satisfacción del cliente y crecimiento de las ventas.
 
 Un taller local ha adoptado un sistema que analiza el historial de cada vehículo y predice las piezas que pueden necesitar reemplazo en una próxima revisión, optimizando el inventario y evitando roturas de stock.
 
-Además, utiliza la visión articial para identicar daños en las fotografías enviadas por los clientes a través de WhatsApp, lo que permite generar presupuestos rápidos y automáticos.
+Además, utiliza la visión artificial para identificar daños en las fotografías enviadas por los clientes a través de WhatsApp, lo que permite generar presupuestos rápidos y automáticos.
 
 Resultado : reducción del tiempo de respuesta y aumento del 15% en las ventas de servicios preventivos.
 
 5. Oficina de Contabilidad Digital
 
-Una ocina de contabilidad escaneó todos los recibos y facturas de los clientes y comenzó a usar la IA para extraer automáticamente los datos (OCR inteligente).
+Una oficina de contabilidad escaneó todos los recibos y facturas de los clientes y comenzó a usar la IA para extraer automáticamente los datos (OCR inteligente).
 
-Lo que una vez tomó horas de escritura ahora se hace en minutos, liberando a los contables para tareas de mayor valor como el asesoramiento nanciero personalizado.
+Lo que una vez tomó horas de escritura ahora se hace en minutos, liberando a los contables para tareas de mayor valor como el asesoramiento financiero personalizado.
 
 Estos ejemplos muestran que la IA no es exclusiva de las grandes empresas. Se puede aplicar, de forma sencilla e incremental, en casi cualquier negocio.
 
@@ -4177,7 +4176,7 @@ A continuación se presentan los principales desafíos de la IA y la automatizac
 
 Aunque existen herramientas gratuitas, las soluciones de IA más avanzadas pueden conllevar costes relevantes.
 
-Estrategia : Analizar cuidadosamente el retorno de la inversión (ROI). Prioriza las automatizaciones que ofrecen ganancias claras en tiempo, eciencia o ingresos.
+Estrategia : Analizar cuidadosamente el retorno de la inversión (ROI). Prioriza las automatizaciones que ofrecen ganancias claras en tiempo, eficiencia o ingresos.
 
 Comienza con proyectos piloto de bajo coste que te permitan demostrar los resultados antes de escalar.
 
@@ -4201,11 +4200,11 @@ Establece procesos consistentes de recopilación y actualización, asegurando qu
 
 4. Seguridad y privacidad
 
-Automatizar procesos implica conar datos a sistemas digitales, lo que aumenta los riesgos de ciberataques o fugas de información.
+Automatizar procesos implica confiar datos a sistemas digitales, lo que aumenta los riesgos de ciberataques o fugas de información.
 
 Medidas esenciales:
 
-- Elegir proveedores con certicaciones de seguridad reconocidas;
+- Elegir proveedores con certificaciones de seguridad reconocidas;
 - Cumplir con el Reglamento General de Protección de Datos (RGPD);
 - Implementar contraseñas seguras, control de acceso y copias de seguridad periódicas;
 - Mantener un plan de respuesta a incidentes en caso de fallo de los sistemas.
@@ -4247,9 +4246,9 @@ Estas son algunas de las tendencias clave que se destacan en 2025 y que darán f
 
 Las herramientas generativas basadas en IA como ChatGPT se están integrando en casi todas las aplicaciones de productividad.
 
-En el futuro, será habitual interactuar con asistentes virtuales especializados -nancieros, legales, de marketing o de recursos humanos- capaces de automatizar tareas complejas y ofrecer un soporte personalizado en tiempo real.
+En el futuro, será habitual interactuar con asistentes virtuales especializados -financieros, legales, de marketing o de recursos humanos- capaces de automatizar tareas complejas y ofrecer un soporte personalizado en tiempo real.
 
-Impacto en las pymes: Estas herramientas funcionan como 'copilotos digitales', aumentando la eciencia y reduciendo los costes operativos.
+Impacto en las pymes: Estas herramientas funcionan como 'copilotos digitales', aumentando la eficiencia y reduciendo los costes operativos.
 
 2. Agentes autónomos de IA
 
@@ -4261,9 +4260,9 @@ Impacto en las pymes : automatización de las rutinas de marketing y gestión co
 
 3. IoT y automatización 2.0
 
-La integración de la Inteligencia Articial y el Internet de las Cosas (IoT) está permitiendo una nueva generación de dispositivos inteligentes, desde electrodomésticos hasta maquinaria industrial.
+La integración de la Inteligencia artificial y el Internet de las Cosas (IoT) está permitiendo una nueva generación de dispositivos inteligentes, desde electrodomésticos hasta maquinaria industrial.
 
-Ejemplo: un frigoríco comercial que ordena productos automáticamente cuando el stock es bajo, o un sistema agrícola que activa el riego según las previsiones meteorológicas.
+Ejemplo: un frigorífico comercial que ordena productos automáticamente cuando el stock es bajo, o un sistema agrícola que activa el riego según las previsiones meteorológicas.
 
 Impacto en las pymes:
 
@@ -4279,9 +4278,9 @@ Impacto en las pymes: necesidad de invertir en soluciones de seguridad proactiva
 
 5. Regulación y ética de la IA
 
-Las políticas de regulación tecnológica son cada vez más estrictas. contratación o la jación de precios) deberán garantizar la transparencia, la imparcialidad y la
+Las políticas de regulación tecnológica son cada vez más estrictas (contratación o la fijación de precios) deberán garantizar la transparencia, la imparcialidad y la
 
-Las empresas que utilizan la IA para tomar decisiones relevantes (como el crédito, la explicabilidad de los algoritmos.
+Las empresas que utilizan la IA para tomar decisiones relevantes (como el crédito, la explicabilidad de los algoritmos.)
 
 Impacto en las pymes: es necesario adoptar buenas prácticas éticas y proteger los datos de los clientes de acuerdo con el RGPD y las futuras leyes europeas sobre IA.
 
@@ -4303,7 +4302,7 @@ Comparte tu punto de vista en el foro.
 
 Ideas clave sobre digitalización y estrategias empresariales
 
-Lee las siguientes ideas clave de este módulo y marca cada elemento que hayas aprendido con una marca de vericación, haciendo una breve revisión de cada uno.
+Lee las siguientes ideas clave de este módulo y marca cada elemento que hayas aprendido con una marca de verificación, haciendo una breve revisión de cada uno.
 
 - Estrategias Digitales: Es necesario alinear la tecnología con los objetivos de negocio. Un enfoque estructurado por fases es crucial para implementar con éxito la transformación digital en las pymes.
 
@@ -4311,13 +4310,13 @@ Lee las siguientes ideas clave de este módulo y marca cada elemento que hayas a
 
 - Comercio electrónico: hay varias opciones para comenzar las ventas en línea y las mejores prácticas para las tiendas en línea. El comercio online presenta una importante oportunidad de crecimiento para las empresas, con múltiples modelos de implementación.
 
-- Herramientas digitales: Existen varias herramientas digitales, como CRM, ERP y plataformas colaborativas que forman la base de la transformación digital. Estas soluciones aumentan la eciencia operativa y mejoran la gestión de clientes y recursos.
+- Herramientas digitales: Existen varias herramientas digitales, como CRM, ERP y plataformas colaborativas que forman la base de la transformación digital. Estas soluciones aumentan la eficiencia operativa y mejoran la gestión de clientes y recursos.
 
-- Automatización e IA: las PYMES pueden aplicar las tecnologías de automatización e inteligencia articial para aumentar la productividad y la competitividad, brindando ejemplos prácticos y accesibles incluso a las pequeñas empresas.
+- Automatización e IA: las PYMES pueden aplicar las tecnologías de automatización e inteligencia artificial para aumentar la productividad y la competitividad, brindando ejemplos prácticos y accesibles incluso a las pequeñas empresas.
 
 Este módulo proporcionó una visión general completa de cómo la tecnología puede impulsar a las empresas de todos los tamaños, con un enfoque especial en las necesidades y desafíos de las PYMES.
 
-Las habilidades adquiridas permiten guiar a los emprendedores en el proceso de transformación digital, ayudándoles a identicar las herramientas y estrategias más adecuadas para sus contextos especícos.
+Las habilidades adquiridas permiten guiar a los emprendedores en el proceso de transformación digital, ayudándoles a identificar las herramientas y estrategias más adecuadas para sus contextos específicos.
 
 Aplicar los conocimientos en el análisis de casos reales y seguir explorando las nuevas tecnologías que surgen constantemente en el contexto empresarial.
 
@@ -4353,9 +4352,9 @@ Aplicar los conocimientos en el análisis de casos reales y seguir explorando l
 6. PREGUNTA 6: ¿Cuál de estos NO es una ventaja del modelo de suscripción para el negocio?
 
 - Ingresos predecibles y recurrentes
-- Mayor delidad de los clientes
+- Mayor fidelidad de los clientes
 - El cliente paga solo una vez por el producto
-- Posibilidad de planicación de stock en base a suscripciones
+- Posibilidad de planificación de stock en base a suscripciones
 
 7. PREGUNTA 7: Un ejemplo de monetización freemium es:
 
@@ -4375,9 +4374,9 @@ Al completar este módulo, deberías ser capaz de:
 
 - Aplicar herramienta visuales de modelado de negocios, concretamente, el Business Model Canvas y el Value Proposition
 - Canvas, para estructurar propuestas de valor y modelos de negocios coherentes.
-- Planicar procesos de validación de ideas y experimentación de mercado, utilizando metodologías ágiles como Lean Startup y el ciclo Build-Measure-Learn.
-- Denir la Propuesta Única de Valor (PVU), distinguiendo claramente los elementos de diferenciación competitiva y posicionamiento estratégico de la empresa en el mercado.
-- Identicar y segmentar públicos objetivo y nichos de mercado, evaluando oportunidades de especialización y estrategias de penetración en segmentos especícos.
+- Planificar procesos de validación de ideas y experimentación de mercado, utilizando metodologías ágiles como Lean Startup y el ciclo Build-Measure-Learn.
+- Definir la Propuesta Única de Valor (PVU), distinguiendo claramente los elementos de diferenciación competitiva y posicionamiento estratégico de la empresa en el mercado.
+- Identificar y segmentar públicos objetivo y nichos de mercado, evaluando oportunidades de especialización y estrategias de penetración en segmentos específicos.
 - Analizar y proponer innovaciones en los modelos de negocio, explorando nuevas formas de crear, entregar y captar valor que generen una ventaja competitiva sostenible.
 - Reconocer y distinguir los principales tipos de innovación, según el Manual de Oslo producto, proceso, marketing e innovación organizacional- mediante la aplicación de ejemplos prácticos.
 
@@ -4385,15 +4384,15 @@ Al completar este módulo, deberías ser capaz de:
 
 Value Proposition Canvas es una herramienta visual que te ayuda a alinear lo que ofrece tu negocio con lo que tus clientes realmente necesitan.
 
-El Value Proposition Canvas ayuda a los emprendedores a crear una propuesta alineada con las necesidades reales del mercado, estableciendo el vínculo entre el benecio esperado y la solución presentada.
+El Value Proposition Canvas ayuda a los emprendedores a crear una propuesta alineada con las necesidades reales del mercado, estableciendo el vínculo entre el beneficio esperado y la solución presentada.
 
 Es una herramienta que mapea sistemáticamente:
 
 - Dolores del cliente (problemas y frustraciones)
-- Ganancias esperadas (benecios deseados)
+- Ganancias esperadas (beneficios deseados)
 - Tareas del cliente (lo que intentan lograr)
 
-Esta herramienta fue desarrollada por Alex Osterwalder como complemento al Business Model Canvas, con un enfoque especíco en la relación entre el producto o servicio y el cliente.
+Esta herramienta fue desarrollada por Alex Osterwalder como complemento al Business Model Canvas, con un enfoque específico en la relación entre el producto o servicio y el cliente.
 
 ### ESTRUCTURA
 
@@ -4417,13 +4416,13 @@ El Business Model Canvas (BMC) es un diagrama visual compuesto por nueve bloques
 2. Segmentos de clientes: Los diferentes grupos de personas u organizaciones a las que desea servir.
 3. Canales: Cómo comunicas, distribuyes y vendes tu propuesta de valor.
 4. Relaciones con los clientes: Los tipos de relaciones que estableces con cada segmento de clientes.
-5. Fuentes de ingresos: Cómo y a través de qué mecanismos de jación de precios genera ingresos su empresa.
+5. Fuentes de ingresos: Cómo y a través de qué mecanismos de fijación de precios genera ingresos su empresa.
 6. Recursos clave: Los activos más importantes necesarios para que el modelo de negocio funcione.
 7. Actividades clave: Las acciones más relevantes que debe realizar la empresa.
 8. Colaboraciones clave: La red de proveedores y socios que apoyan el negocio.
 9. Estructura de costes: Todos los costes implicados en la operación del modelo de negocio.
 
-Creado por Alexander Osterwalder, BMC se ha convertido en un lenguaje universal para la planicación, evaluación y ajuste de modelos de negocio, siendo utilizado tanto por startups como por empresas consolidadas.
+Creado por Alexander Osterwalder, BMC se ha convertido en un lenguaje universal para la planificación, evaluación y ajuste de modelos de negocio, siendo utilizado tanto por startups como por empresas consolidadas.
 
 ### HERRAMIENTA: SEBRAE CANVAS ONLINE
 
@@ -4441,7 +4440,7 @@ Sebrae Canvas Online: Sebrae proporciona una herramienta gratuita para construir
 
 La validación de ideas es un proceso sistemático que permite probar hipótesis de mercado antes del lanzamiento oficial de un producto o servicio.
 
-El objetivo es reducir el riesgo y evitar inversiones signicativas en algo que el mercado puede no valorar.
+El objetivo es reducir el riesgo y evitar inversiones significativas en algo que el mercado puede no valorar.
 
 El proceso combina:
 
@@ -4457,23 +4456,23 @@ Este proceso iterativo permite ajustar la propuesta en función de la retroalime
 
 El producto mínimo viable es la versión más simple de un producto que se puede lanzar con una cantidad mínima de esfuerzo y desarrollo.
 
-El Producto Mínimo Viable (MVP) es una versión simplicada de un producto, desarrollado con solo las funcionalidades esenciales, que permite:
+El Producto Mínimo Viable (MVP) es una versión simplificada de un producto, desarrollado con solo las funcionalidades esenciales, que permite:
 
 - Lanzamiento rápido al mercado
 - Recopilar comentarios reales de los usuarios
 - Aprendizaje basado en el comportamiento, no solo aprendizaje basado en la opinión
 - Ahorro de recursos durante el desarrollo
-- Identicación temprana de problemas u oportunidades
+- Identificación temprana de problemas u oportunidades
 
 El MVP no es un producto inacabado o de baja calidad, cumple con su propuesta de valor central al tiempo que permite pruebas y aprendizaje continuos.
 
-- Importante: El MVP debe ser de calidad suciente para demostrar valor al usuario, aunque sea minimalista en cuanto a características.
+- Importante: El MVP debe ser de calidad suficiente para demostrar valor al usuario, aunque sea minimalista en cuanto a características.
 
 ### ¿CÓMO DEFINIR EL MVP?
 
-Establecer MVP: Desarrollar un MVP es un paso esencial en el proceso de validación de una idea de negocio. Para guiar este proceso, aquí hay cinco pasos prácticos que ayudan a convertir una idea abstracta en una solución concreta y comprobable. Cada paso contribuye a claricar el problema a resolver, priorizando funcionalidades y deniendo criterios objetivos de éxito.
+Establecer MVP: Desarrollar un MVP es un paso esencial en el proceso de validación de una idea de negocio. Para guiar este proceso, aquí hay cinco pasos prácticos que ayudan a convertir una idea abstracta en una solución concreta y comprobable. Cada paso contribuye a clarificar el problema a resolver, priorizando funcionalidades y definiendo criterios objetivos de éxito.
 
-- Paso 1: Identificar el problema central. ¿Cuál es el principal problema que busca resolver tu solución? Céntrate solo en este tema esencial a la hora de denir tu MVP.
+- Paso 1: Identificar el problema central. ¿Cuál es el principal problema que busca resolver tu solución? Céntrate solo en este tema esencial a la hora de definir tu MVP.
 
 - Paso 2: Enumerar todas las funcionalidades posibles. Enumera todas las características y funcionalidades que te gustaría que tuviera el producto nal.
 
@@ -4499,7 +4498,7 @@ La metodología Lean Startup, desarrollada por Eric Ries, aplica los principios 
 
 3. Learn (Aprender): Interpretar los resultados y decidir si es necesario ajustar la estrategia (pivotar) o continuar con el desarrollo.
 
-Este enfoque reduce signicativamente el riesgo de crear algo que el mercado no valora, ahorrando tiempo y recursos al tiempo que promueve la innovación basada en la evidencia.
+Este enfoque reduce significativamente el riesgo de crear algo que el mercado no valora, ahorrando tiempo y recursos al tiempo que promueve la innovación basada en la evidencia.
 
 ### LEAN STARTUP EN LA PRÁCTICA
 
@@ -4509,12 +4508,12 @@ Para poner en práctica esta metodología, sigue los pasos.
 
 - Paso 1: Hipótesis
 
-Comienza formulando una hipótesis clara sobre tu modelo de negocio. Reflexiona sobre el problema que deseas resolver, la audiencia que se beneciará y la solución que propone.
+Comienza formulando una hipótesis clara sobre tu modelo de negocio. Reflexiona sobre el problema que deseas resolver, la audiencia que se beneficiará y la solución que propone.
 Ejemplo: "Creemos que [solución] resolverá [problema] para [cliente objetivo]".
 
 - Paso 2: Construir
 
-Crea la versión más simple posible de tu MVP, que te permita probar la hipótesis denida.
+Crea la versión más simple posible de tu MVP, que te permita probar la hipótesis definida.
 
 - Paso 3: Medir
 
@@ -4534,7 +4533,7 @@ Planifica una experiencia Lean Startup aplicada a una idea de negocio siguiendo 
 La Propuesta de Valor Única (PVU) es una declaración clara y concisa que explica:
 
 - Cómo tu producto o servicio resuelve un problema del cliente;
-- ¿Cuáles son los benecios especícos que ofrece?
+- ¿Cuáles son los beneficios específicos que ofrece?
 - Y por qué es mejor que las alternativas de la competencia.
 
 Una UVP efectiva responde a la pregunta fundamental del cliente: "¿Por qué debería elegir su oferta sobre las alternativas disponibles?"
@@ -4559,15 +4558,15 @@ Los siguientes son algunos ejemplos del mundo real que demuestran cómo una UVP 
 
 - Slack: "Ser productivo es diferente para cada persona. Slack reúne todas tus herramientas y aplicaciones para que puedas trabajar a tu manera ". Por qué funciona: se centra...
 - Uber: "Un socio de la App cerca de ti, en minutos, con el precio y la ruta visibles antes de subir al auto". Por qué funciona: resuelve problemas de movilidad reales (tiempo de espera, precio impredecible,...)
-- Wise: 'Dinero sin fronteras: enviar, gastar y recibir en múltiples monedas, con tarifas bajas y siempre transparentes'. Por qué funciona: Combina un benecio práctico (tarifas bajas) con un...
+- Wise: 'Dinero sin fronteras: enviar, gastar y recibir en múltiples monedas, con tarifas bajas y siempre transparentes'. Por qué funciona: Combina un beneficio práctico (tarifas bajas) con un...
 
 ### Foro
 
 Construye la UVP de tu negocio o idea, utilizando la siguiente plantilla. Comparte tu propuesta en el foro.
 
-- Plantilla UVP Para: [segmento objetivo especíco] esa [necesidad o problema principal], [nombre del producto/servicio] es una [categoría de producto] que [benecio principal, razón para comprar]. A diferencia de [alternativa de la competencia], nuestro producto [diferenciador clave].
+- Plantilla UVP Para: [segmento objetivo específico] esa [necesidad o problema principal], [nombre del producto/servicio] es una [categoría de producto] que [beneficio principal, razón para comprar]. A diferencia de [alternativa de la competencia], nuestro producto [diferenciador clave].
 
-- Ejemplo Completo: "Para los emprendedores de carrera temprana que enfrentan dicultades para validar sus ideas de negocio , Startup X es una plataforma digital que reduce el tiempo de validación en un 60%. A diferencia de los consultores tradicionales, nuestro producto automatiza el proceso a través de algoritmos basados en datos reales del mercado".
+- Ejemplo Completo: "Para los emprendedores de carrera temprana que enfrentan dificultades para validar sus ideas de negocio , Startup X es una plataforma digital que reduce el tiempo de validación en un 60%. A diferencia de los consultores tradicionales, nuestro producto automatiza el proceso a través de algoritmos basados en datos reales del mercado".
 
 Para retener: una buena UVP debe ser memorable, diferenciada y centrada en el cliente, no en la empresa o en el producto.
 
@@ -4582,10 +4581,10 @@ Posibles bases de diferenciación:
 - Tecnología propia: innovaciones patentadas o algoritmos únicos.
 - Diseño único: estética distintiva o experiencia de usuario superior.
 - Calidad excepcional: materiales por encima de la media, durabilidad o precisión.
-- Menor coste: eciencia operativa que permite ofrecer precios más competitivos.
+- Menor coste: eficiencia operativa que permite ofrecer precios más competitivos.
 - Personalización: capacidad de adaptar la oferta a las necesidades individuales de cada cliente.
 - Atención al cliente: atención excepcionalmente rápida, atenta y personalizada.
-- Especialización en un nicho: conocimiento profundo de un segmento especíco del mercado.
+- Especialización en un nicho: conocimiento profundo de un segmento específico del mercado.
 
 La diferenciación efectiva debe ser relevante para el cliente, sostenible en el tiempo y difícil de replicar para la competencia.
 
@@ -4593,7 +4592,7 @@ La diferenciación efectiva debe ser relevante para el cliente, sostenible en el
 
 El posicionamiento en el mercado define cómo quieres que tu audiencia perciba tu marca en relación con la competencia. Es la "imagen mental" que los clientes se forman cuando piensan en tu oferta.
 
-- Estrategias comunes de posicionamiento: A continuación se presentan algunas de las estrategias de posicionamiento más comunes que ayudan a las organizaciones a denir cómo quieren ser reconocidas y recordadas en el mercado.
+- Estrategias comunes de posicionamiento: A continuación se presentan algunas de las estrategias de posicionamiento más comunes que ayudan a las organizaciones a definir cómo quieren ser reconocidas y recordadas en el mercado.
 
 1. Premium
 
@@ -4604,7 +4603,7 @@ El posicionamiento en el mercado define cómo quieres que tu audiencia perciba t
 2. Accesible
 
 - Buena relación calidad-precio
-- Enfoque en la eciencia
+- Enfoque en la eficiencia
 
 3. Innovador
 
@@ -4613,7 +4612,7 @@ El posicionamiento en el mercado define cómo quieres que tu audiencia perciba t
 
 4. Especialista
 
-- Experiencia en un área especíca
+- Experiencia en un área específica
 - Autoridad
 
 5. Simplicidad
@@ -4629,7 +4628,7 @@ Una estrategia de marca coherente refuerza los diferenciales comerciales, fija l
 
 Una marca se compone de varios elementos que, juntos, construyen su identidad y forma de comunicación. Los principales se presentan a continuación.
 
-- IDENTIDAD VISUAL: Logo, colores, tipografía y elementos grácos que comunican visualmente los valores de la marca y ayudan a su reconocimiento.
+- IDENTIDAD VISUAL: Logo, colores, tipografía y elementos gráficos que comunican visualmente los valores de la marca y ayudan a su reconocimiento.
 
 - TONO DE VOZ: Estilo de comunicación consistente a través de materiales e interacciones, reflejando la personalidad de la marca.
 
@@ -4651,23 +4650,23 @@ Este enfoque le permite orientar los productos y las estrategias de marketing de
 
 Los criterios clave de focalización incluyen:
 
-- Geográco : región, país, ciudad, densidad de población, clima
+- Geográfico : región, país, ciudad, densidad de población, clima
 - Demografía : edad, género, ingresos, ocupación, educación, religión, etnia
-- Psicográco : personalidad, estilo de vida, valores, actitudes, intereses
-- Comportamiento : hábitos de compra, lealtad a la marca, benecios buscados, ocasiones de uso
+- Psicográfico : personalidad, estilo de vida, valores, actitudes, intereses
+- Comportamiento : hábitos de compra, lealtad a la marca, beneficios buscados, ocasiones de uso
 - Firmográca : Tamaño, sector y estructura de la organización
 
 ### BENEFICIOS DE UNA SEGMENTACIÓN EFECTIVA
 
 Beneficios de la segmentación efectiva: La segmentación le permite enfocar los recursos en los clientes con mayor potencial de conversión y valor a lo largo del tiempo, evitando desperdiciar esfuerzos en audiencias que no son receptivas a la oferta.
 
-1. Marketing optimizado: Reducción del coste de adquisición de clientes al dirigir los esfuerzos a segmentos especícos en lugar de enfoques genéricos.
+1. Marketing optimizado: Reducción del coste de adquisición de clientes al dirigir los esfuerzos a segmentos específicos en lugar de enfoques genéricos.
 
-2. Mayor relevancia: Los mensajes personalizados para segmentos especícos tienen más probabilidades de generar interacción que las comunicaciones genéricas.
+2. Mayor relevancia: Los mensajes personalizados para segmentos específicos tienen más probabilidades de generar interacción que las comunicaciones genéricas.
 
-3. Fidelización: Las empresas con estrategias de segmentación bien denidas registran una mayor retención de clientes.
+3. Fidelización: Las empresas con estrategias de segmentación bien definidas registran una mayor retención de clientes.
 
-4. Rentabilidad: Aumento del margen de benecio centrándose en los segmentos más rentables y favorables a las empresas.
+4. Rentabilidad: Aumento del margen de beneficio centrándose en los segmentos más rentables y favorables a las empresas.
 
 ## 11. Nichos de mercado
 
@@ -4675,10 +4674,10 @@ Un nicho de mercado es una parte especializada y bien definida de un mercado má
 
 Características de un buen nicho:
 
-- Tamaño suciente para ser rentable
+- Tamaño suficiente para ser rentable
 - Potencial de crecimiento
 - Baja competencia directa
-- Necesidades claras e identicables
+- Necesidades claras e identificables
 - Disposición a pagar por soluciones especializadas
 - Facilidad de acceso a través de canales de comunicación adecuados
 
@@ -4686,13 +4685,13 @@ Centrarse en un nicho permite a las empresas más pequeñas convertirse en refer
 
 ### EJEMPLOS DE ESTRATEGIAS DE NICHO EXITOSAS
 
-Ejemplos de Estrategias de Nicho Exitosas: Las estrategias de nicho permiten a las empresas desarrollar un conocimiento profundo sobre un público especíco, creando soluciones personalizadas que las grandes marcas no pueden o no están interesadas en ofrecer. Veamos algunos ejemplos:
+Ejemplos de Estrategias de Nicho Exitosas: Las estrategias de nicho permiten a las empresas desarrollar un conocimiento profundo sobre un público específico, creando soluciones personalizadas que las grandes marcas no pueden o no están interesadas en ofrecer. Veamos algunos ejemplos:
 
-1. Science4You: Empresa portuguesa especializada en el nicho de los juguetes educativos y cientícos, combinando diversión y aprendizaje en un mercado donde los grandes fabricantes ofrecen juguetes más genéricos.
+1. Science4You: Empresa portuguesa especializada en el nicho de los juguetes educativos y científicos, combinando diversión y aprendizaje en un mercado donde los grandes fabricantes ofrecen juguetes más genéricos.
 
 2. Prozis: Comenzó exclusivamente en el nicho de suplementos dietéticos para atletas y culturistas, convirtiéndose en una referencia antes de expandirse a otras categorías relacionadas.
 
-3. TechCare Senior: Empresa ficticia especializada en dispositivos tecnológicos y aplicaciones simplicadas para personas mayores, dando respuesta a necesidades de usabilidad especícas de este público.
+3. TechCare Senior: Empresa ficticia especializada en dispositivos tecnológicos y aplicaciones simplificadas para personas mayores, dando respuesta a necesidades de usabilidad específicas de este público.
 
 ## 12. Innovación del modelo de negocio
 
@@ -4717,7 +4716,7 @@ La innovación en el modelo de negocio tiene como objetivo aumentar el éxito de
   - Colaboraciones estratégicas
   - Modelos alternativos de ingresos
   - Nuevas formas de relacionarse con los clientes
-  - Formas más ecientes de organizar recursos y operaciones
+  - Formas más eficientes de organizar recursos y operaciones
 
 ### EJEMPLOS DE INNOVACIÓN EN MODELOS DE NEGOCIO
 
@@ -4733,9 +4732,9 @@ Ejemplos de innovación en modelos de negocio: Estos ejemplos demuestran cómo l
 
 Componentes del modelo de negocio para la innovación: La innovación puede ocurrir en cualquiera de los componentes enumerados a continuación, o en una combinación de ellos, lo que resulta en modelos de negocio completamente nuevos.
 
-- Propuesta de valor: Redefinir el benecio ofrecido al cliente o el problema que se busca resolver. Ejemplo: Spotify ha convertido la propiedad de la música en acceso ilimitado a la suscripción.
+- Propuesta de valor: Redefinir el beneficio ofrecido al cliente o el problema que se busca resolver. Ejemplo: Spotify ha convertido la propiedad de la música en acceso ilimitado a la suscripción.
 
-- Segmentos de clientes: Servir a nuevos mercados o redenir el público objetivo. Ejemplo: Tesla comenzó centrándose en los consumidores de lujo antes de expandirse al mercado masivo.
+- Segmentos de clientes: Servir a nuevos mercados o redefinir el público objetivo. Ejemplo: Tesla comenzó centrándose en los consumidores de lujo antes de expandirse al mercado masivo.
 
 - Canales: Crear nuevas formas de aportar valor al cliente. Ejemplo: Nespresso innovó con el modelo de venta directa de máquinas y cápsulas por suscripción.
 
@@ -4759,18 +4758,18 @@ Modelos de ingresos innovadores: Innovar el modelo de ingresos puede transformar
 
 ## 13. Innovación: definición general
 
-Según el Manual de Oslo (2018), el término 'innovación' se reere tanto al proceso de innovar como al resultado de este proceso. La definición básica es:
+Según el Manual de Oslo (2018), el término 'innovación' se refiere tanto al proceso de innovar como al resultado de este proceso. La definición básica es:
 
-"Una innovación es un producto o proceso nuevo o mejorado (o una combinación de ambos) que diere signicativamente de los productos o procesos anteriores de la unidad y que se ha puesto a disposición de los usuarios potenciales (producto) o puesto en uso por la unidad (proceso)".
+"Una innovación es un producto o proceso nuevo o mejorado (o una combinación de ambos) que diere significativamente de los productos o procesos anteriores de la unidad y que se ha puesto a disposición de los usuarios potenciales (producto) o puesto en uso por la unidad (proceso)".
 
 Los dos pilares fundamentales de esta definición son:
 
-- Diferencia signicativa: un pequeño cambio estético no es suciente; el cambio debe ser notable y relevante en las características o el rendimiento.
+- Diferencia significativa: un pequeño cambio estético no es suficiente; el cambio debe ser notable y relevante en las características o el rendimiento.
 - Implementación: Una idea, por buena que sea, no es una innovación hasta que se lanza al mercado (para productos) o se implementa internamente (para procesos).
 
 ### CATEGORÍAS PRINCIPALES
 
-En versiones anteriores, había cuatro categorías (Producto, Proceso, Marketing y Organizacional). La versión de 2018 se simplicó en dos categorías principales:
+En versiones anteriores, había cuatro categorías (Producto, Proceso, Marketing y Organizacional). La versión de 2018 se simplificó en dos categorías principales:
 
 1. Innovación de productos
 2. Innovación de procesos de negocio
@@ -4779,7 +4778,7 @@ Veamos cada una de estas categorías en detalle.
 
 ## 14. Innovación de Producto
 
-La innovación de productos es la introducción de un bien o servicio nuevo o signicativamente mejorado con respecto a sus características o usos previstos.
+La innovación de productos es la introducción de un bien o servicio nuevo o significativamente mejorado con respecto a sus características o usos previstos.
 
 - Ejemplo (Bueno): Una empresa de ropa lanza un abrigo hecho de un nuevo tejido biosintético que se ajusta automáticamente a la temperatura corporal (algo que no vendían antes).
 
@@ -4789,7 +4788,7 @@ La distinción entre "producto físico" y "servicio" se ha diluido; ambos se tra
 
 ## 15. Innovación de procesos de negocio
 
-La categoría "Innovación de procesos de negocio" absorbió las antiguas innovaciones de "proceso", "marketing" y "organización". Se reere a un proceso nuevo o mejorado para una o más funciones de la organización que diere signicativamente de los procesos anteriores.
+La categoría "Innovación de procesos de negocio" absorbió las antiguas innovaciones de "proceso", "marketing" y "organización". Se refiere a un proceso nuevo o mejorado para una o más funciones de la organización que diere significativamente de los procesos anteriores.
 
 Incluye innovaciones en:
 
@@ -4803,7 +4802,7 @@ Echemos un vistazo más de cerca a cada una de estas innovaciones.
 
 ### 15.1 PRODUCCIÓN Y DESARROLLO
 
-Producción y desarrollo: Introducción de nuevos métodos de producción o desarrollo, así como la adopción de nuevas tecnologías que cambien signicativamente el costo, la calidad, el tiempo o la flexibilidad.
+Producción y desarrollo: Introducción de nuevos métodos de producción o desarrollo, así como la adopción de nuevas tecnologías que cambien significativamente el costo, la calidad, el tiempo o la flexibilidad.
 
 Ejemplos:
 
@@ -4814,7 +4813,7 @@ Ejemplos:
 
 ### 15.2 DISTRIBUCIÓN Y LOGÍSTICA
 
-Distribución y logística: Implementación de cambios relevantes en los métodos de entrega, incluidos nuevos sistemas de planicación logística y la introducción de nuevos medios logísticos.
+Distribución y logística: Implementación de cambios relevantes en los métodos de entrega, incluidos nuevos sistemas de planificación logística y la introducción de nuevos medios logísticos.
 
 Ejemplos:
 
@@ -4825,7 +4824,7 @@ Ejemplos:
 
 ### 15.3 MARKETING Y VENTAS
 
-Marketing y ventas: Introducción de un nuevo modelo de negocio o de ingresos, con la adopción de nuevos canales de venta o promoción que cambien signicativamente la forma de llegar al cliente, y la creación de un nuevo método de jación de precios.
+Marketing y ventas: Introducción de un nuevo modelo de negocio o de ingresos, con la adopción de nuevos canales de venta o promoción que cambien significativamente la forma de llegar al cliente, y la creación de un nuevo método de fijación de precios.
 
 Ejemplos:
 
@@ -4836,7 +4835,7 @@ Ejemplos:
 
 ## 15.4 SISTEMAS DE INFORMACIÓN Y COMUNICACIÓN
 
-Sistemas de información y comunicación: Implementación de un nuevo sistema de información que transforme la forma en que la empresa toma decisiones, registra datos y coordina sus actividades. La transición de procesos manuales o dispersos a una plataforma integrada le permite mejorar el rendimiento, fortalecer el control y aumentar la velocidad de las operaciones. También incluye la introducción de nuevos canales de comunicación interna que redenen la organización del trabajo.
+Sistemas de información y comunicación: Implementación de un nuevo sistema de información que transforme la forma en que la empresa toma decisiones, registra datos y coordina sus actividades. La transición de procesos manuales o dispersos a una plataforma integrada le permite mejorar el rendimiento, fortalecer el control y aumentar la velocidad de las operaciones. También incluye la introducción de nuevos canales de comunicación interna que redefinen la organización del trabajo.
 
 Ejemplos:
 
@@ -4847,7 +4846,7 @@ Ejemplos:
 
 ## 15.5 ADMINISTRACIÓN Y GESTIÓN
 
-Administración y gestión: Modelos organizacionales cambiantes, con impacto directo en la toma de decisiones, y la implementación de nuevas prácticas de recursos humanos que transformen el comportamiento interno. También incluye la introducción de métodos de gestión estratégica que redenen la forma en que la empresa establece, monitorea y ajusta sus objetivos.
+Administración y gestión: Modelos organizacionales cambiantes, con impacto directo en la toma de decisiones, y la implementación de nuevas prácticas de recursos humanos que transformen el comportamiento interno. También incluye la introducción de métodos de gestión estratégica que redefinen la forma en que la empresa establece, monitorea y ajusta sus objetivos.
 
 Ejemplos:
 
@@ -4878,17 +4877,17 @@ Las empresas que te presentamos a continuación destacan por integrar la tecnolo
 
 - Airbnb: ha reinventado el sector de la vivienda con una plataforma que permite a cualquier persona alquilar espacios, disponer de sistemas de evaluación ables y disfrutar de experiencias locales únicas.
 
-- Nubank: desaFIó a los bancos tradicionales con productos nancieros 100% digitales, servicio personalizado, sin comisiones y procesos simpliFIcados.
+- Nubank: desaFIó a los bancos tradicionales con productos financieros 100% digitales, servicio personalizado, sin comisiones y procesos simpliFIcados.
 
 ### CASO PRÁCTICO: FEEDZAI
 
-Estudio de caso: Feedzai: La innovación de Feedzai se basa en la aplicación pionera de la inteligencia articial y el aprendizaje automático a gran escala para detectar y prevenir el fraude nanciero en tiempo real.
+Estudio de caso: Feedzai: La innovación de Feedzai se basa en la aplicación pionera de la inteligencia artificial y el aprendizaje automático a gran escala para detectar y prevenir el fraude financiero en tiempo real.
 
 - Innovación de productos
 
-Feedzai es una empresa de tecnología que se especializa en la prevención del fraude en tiempo real y la gestión de riesgos para bancos, ntechs y grandes minoristas. Comenzó como un pequeño spino académico, con un producto todavía experimental, y nalmente se convirtió en un referente mundial en gestión de riesgos , trabajando con algunos de los bancos más grandes del mundo.
+Feedzai es una empresa de tecnología que se especializa en la prevención del fraude en tiempo real y la gestión de riesgos para bancos, ntechs y grandes minoristas. Comenzó como un pequeño spino académico, con un producto todavía experimental, y finalmente se convirtió en un referente mundial en gestión de riesgos , trabajando con algunos de los bancos más grandes del mundo.
 
-La gran innovación de Feedzai radica en la capacidad de analizar millones de transacciones por segundo, aprender de nuevos patrones de fraude y tomar decisiones en milisegundos, reduciendo las pérdidas para las instituciones nancieras sin dañar la experiencia del usuario.
+La gran innovación de Feedzai radica en la capacidad de analizar millones de transacciones por segundo, aprender de nuevos patrones de fraude y tomar decisiones en milisegundos, reduciendo las pérdidas para las instituciones financieras sin dañar la experiencia del usuario.
 
 - Resultados
 
@@ -4900,31 +4899,31 @@ Elige una empresa innovadora e investiga cómo resolvieron un problema o aprove
 
 ## 18. Resumen y reflexión
 
-Ideas clave sobre modelos de negocio, diferenciación e innovación. Lee las siguientes ideas clave de este módulo y marca cada elemento que hayas aprendido con una marca de vericación, haciendo una breve revisión de cada uno.
+Ideas clave sobre modelos de negocio, diferenciación e innovación. Lee las siguientes ideas clave de este módulo y marca cada elemento que hayas aprendido con una marca de verificación, haciendo una breve revisión de cada uno.
 
 - Modelos de negocio: El Business Model Canvas (BMC) te permite visualizar y estructurar todos los elementos esenciales de un negocio: propuesta de valor, segmentos de clientes, canales, fuentes de ingresos, recursos y asociaciones clave.
 
 - Propuesta de valor: el lienzo de propuesta de valor ayuda a alinear la oferta comercial con las necesidades reales, los dolores y las ganancias de los clientes, haciendo que la propuesta sea más relevante y diferenciada.
 
-- Validación de ideas: antes de invertir recursos signicativos, es esencial probar hipótesis a través de metodologías ágiles como Lean Startup y el ciclo "Build- Measure-Learn", ajustando el modelo en función de la retroalimentación real del mercado.
+- Validación de ideas: antes de invertir recursos significativos, es esencial probar hipótesis a través de metodologías ágiles como Lean Startup y el ciclo "Build- Measure-Learn", ajustando el modelo en función de la retroalimentación real del mercado.
 
-- MVP (Producto Mínimo Viable): Crea una versión simplicada del producto o servicio para recopilar datos y validar la propuesta de valor con una inversión y tiempo mínimos.
+- MVP (Producto Mínimo Viable): Crea una versión simplificada del producto o servicio para recopilar datos y validar la propuesta de valor con una inversión y tiempo mínimos.
 
 - Diferenciación competitiva: Destaca en el mercado a través de atributos únicos (diseño, calidad, precio, servicio o experiencia) que crean valor percibido y son difíciles de replicar por la competencia.
 
-- Segmentación y nichos: Identicar grupos de clientes con características y necesidades similares, lo que permite una comunicación más efectiva y estrategias de marketing especícas.
+- Segmentación y nichos: Identificar grupos de clientes con características y necesidades similares, lo que permite una comunicación más efectiva y estrategias de marketing específicas.
 
 - Innovación del modelo de negocio: Repensar cómo la empresa crea, entrega y captura valor mediante la transformación de productos, procesos, canales o modelos de ingresos para impulsar la ventaja competitiva.
 
 - Tipos de innovación (Manual de Oslo):
-  - Innovación de productos: nuevos bienes o servicios o mejoras signicativas.
+  - Innovación de productos: nuevos bienes o servicios o mejoras significativas.
   - Innovación de procesos: nuevos métodos de producción o distribución.
   - Marketing Innovation - nuevas formas de promoción, posicionamiento o precio.
   - Innovación organizacional: nuevas prácticas o estructura de gestión.
 
 Este módulo proporcionó herramientas prácticas para desarrollar y validar modelos de negocio innovadores. Recuerda que la innovación es un proceso continuo: sigue experimentando, aprendiendo y adaptando tu modelo de negocio.
 
-Aplica estos conceptos a tu proyecto emprendedor, empezando por el Value Proposition Canvas y deniendo un MVP para la validación inicial.
+Aplica estos conceptos a tu proyecto emprendedor, empezando por el Value Proposition Canvas y definiendo un MVP para la validación inicial.
 
 ## 19. Quiz
 
@@ -4963,14 +4962,14 @@ Aplica estos conceptos a tu proyecto emprendedor, empezando por el Value Proposi
 - Colaboraciones clave
 - Estructura de costes
 
-6. PREGUNTA 6: ¿Cuál de las siguientes armaciones sobre el MVP (Producto Mínimo Viable) es falsa ?
+6. PREGUNTA 6: ¿Cuál de las siguientes afirmaciones sobre el MVP (Producto Mínimo Viable) es falsa ?
 
-- El MVP debe incluir todas las características planicadas del producto final.
+- El MVP debe incluir todas las características planificadas del producto final.
 - El MVP tiene como objetivo probar hipótesis comerciales con recursos mínimos.
 - El MVP le permite recopilar comentarios reales de los usuarios antes de grandes inversiones.
 - El MVP contiene solo las funcionalidades esenciales para ofrecer valor.
 
-7. PREGUNTA 7: En la metodología Lean Startup, ¿qué signica "pivotar"?
+7. PREGUNTA 7: En la metodología Lean Startup, ¿qué significa "pivotar"?
 
 - Continuar con la estrategia actual.
 - Cambiar fundamentalmente algún aspecto del modelo de negocio.
@@ -4986,13 +4985,13 @@ Aplica estos conceptos a tu proyecto emprendedor, empezando por el Value Proposi
 
 # ES MÓDULO 6 - Bootcamp y Pitch Final
 
-## 1. Identicación de problemas y creación de ideas
+## 1. Identificación de problemas y creación de ideas
 
 Convertir una idea en un negocio exitoso requiere método, creatividad y ejecución estratégica. Descubre las etapas fundamentales de este viaje emprendedor.
 
-Todo comienza con una estrecha vigilancia del mercado. El punto de partida es identicar una necesidad real aún no satisfecha o un problema que requiere una solución innovadora.
+Todo comienza con una estrecha vigilancia del mercado. El punto de partida es identificar una necesidad real aún no satisfecha o un problema que requiere una solución innovadora.
 
-Puntos clave para identicar oportunidades:
+Puntos clave para identificar oportunidades:
 
 - Observar las tendencias sociales y los cambios de comportamiento.
 - Analizar los desarrollos tecnológicos emergentes.
@@ -5004,7 +5003,7 @@ Fuente: Nielsen. (2018). The Nielsen Breakthrough Innovation Report. Nielsen Com
 
 ### CREACIÓN Y SELECCIÓN DE IDEAS
 
-Creación y selección de ideas: Esta fase es esencial en el proceso de innovación, ya que permite explorar posibilidades, estimular la creatividad e identicar soluciones con verdadero potencial. Explore algunas técnicas que le permiten crear un conjunto de ideas, que luego se analizan y seleccionan en función de criterios de evaluación previamente definidos.
+Creación y selección de ideas: Esta fase es esencial en el proceso de innovación, ya que permite explorar posibilidades, estimular la creatividad e identificar soluciones con verdadero potencial. Explore algunas técnicas que le permiten crear un conjunto de ideas, que luego se analizan y seleccionan en función de criterios de evaluación previamente definidos.
 
 - Brainstorming Libre: Sesiones creativas sin juicios prematuros, donde todas las ideas son bienvenidas. El objetivo es la cantidad antes que la calidad.
 
@@ -5014,23 +5013,23 @@ Creación y selección de ideas: Esta fase es esencial en el proceso de innovaci
 
 ### ANÁLISIS DE MERCADO Y VALIDACIÓN DE IDEAS
 
-Análisis de mercado y validación de ideas: Antes de seguir adelante, es esencial conrmar que existe una demanda real. La validación convierte las suposiciones en datos duros.
+Análisis de mercado y validación de ideas: Antes de seguir adelante, es esencial confirmar que existe una demanda real. La validación convierte las suposiciones en datos duros.
 
-- Conocer al cliente: Defina personas detalladas, comprenda las necesidades, los comportamientos de compra y los puntos débiles especícos del público objetivo.
-- Analizar la competencia: Mapear competidores directos e indirectos, identicar brechas de mercado y oportunidades de diferenciación competitiva.
-- Evaluar proveedores: Investigar socios estratégicos, comparar condiciones, evaluar la abilidad y establecer relaciones comerciales sostenibles.
+- Conocer al cliente: Defina personas detalladas, comprenda las necesidades, los comportamientos de compra y los puntos débiles específicos del público objetivo.
+- Analizar la competencia: Mapear competidores directos e indirectos, identificar brechas de mercado y oportunidades de diferenciación competitiva.
+- Evaluar proveedores: Investigar socios estratégicos, comparar condiciones, evaluar la fiabilidad y establecer relaciones comerciales sostenibles.
 
 Pregunta de reflexión: ¿Hay personas realmente dispuestas a pagar por la solución que estoy proponiendo?
 
-## 2. Planicación estratégica y establecimiento de objetivos
+## 2. planificación estratégica y establecimiento de objetivos
 
 Antes de definir acciones concretas, es fundamental aclarar la misión, visión y valores que guiarán el desarrollo y posicionamiento estratégico del negocio.
 
 - Misión: Motivo de la existencia del negocio. El propósito fundamental que guía todas las decisiones y define el impacto deseado en el mercado.
 - Visión: Hacia dónde quiere ir la empresa. La aspiración a largo plazo que inspira al equipo e impulsa el crecimiento estratégico.
-- Valores: Principios no negociables que denen la cultura organizacional y la forma en que la empresa se relaciona con las partes interesadas.
+- Valores: Principios no negociables que definen la cultura organizacional y la forma en que la empresa se relaciona con las partes interesadas.
 
-Con estas bases establecidas se dene la propuesta de valor única y el modelo de negocio que asegurará la diferenciación competitiva y la sostenibilidad nanciera en el mercado.
+Con estas bases establecidas se dene la propuesta de valor única y el modelo de negocio que asegurará la diferenciación competitiva y la sostenibilidad financiera en el mercado.
 
 ### DESARROLLO DE PRODUCTOS O SERVICIOS
 
@@ -5057,17 +5056,17 @@ Tener un gran producto no es suficiente. Necesitas comunicarlo de manera efectiv
 
 ### ORGANIZACIÓN OPERATIVA Y ESTRUCTURA DEL EQUIPO
 
-Organización operativa y estructura del equipo: Analizar los tres pilares de la organización operativa y reflexionar sobre cómo cada elemento contribuye a la operación eciente y sostenible de un negocio.
+Organización operativa y estructura del equipo: Analizar los tres pilares de la organización operativa y reflexionar sobre cómo cada elemento contribuye a la operación eficiente y sostenible de un negocio.
 
-1. Infraestructura física: Definir el espacio necesario, elegir una ubicación estratégica e identicar los equipos esenciales para las operaciones diarias.
-2. Procesos operativos: Mapear los flujos de trabajo, establecer procedimientos estandarizados y garantizar la eciencia en la producción o la prestación de servicios.
-3. Equipo y talento: Escalar los recursos humanos necesarios, denir perles y competencias, además de asegurar el alineamiento cultural con los valores empresariales.
+1. Infraestructura física: Definir el espacio necesario, elegir una ubicación estratégica e identificar los equipos esenciales para las operaciones diarias.
+2. Procesos operativos: Mapear los flujos de trabajo, establecer procedimientos estandarizados y garantizar la eficiencia en la producción o la prestación de servicios.
+3. Equipo y talento: Escalar los recursos humanos necesarios, definir perles y competencias, además de asegurar el alineamiento cultural con los valores empresariales.
 
 Una operación bien estructurada es fundamental para escalar el negocio mientras se mantiene la calidad y la consistencia en la entrega de valor al cliente.
 
 ### PLANIFICACIÓN FINANCIERA Y RECAUDACIÓN DE FONDOS
 
-Planicación financiera y recaudación de fondos: Una planicación financiera sólida es fundamental para el éxito. Le permite anticiparse a las necesidades, gestionar recursos y demostrar credibilidad a los inversores. Componentes esenciales:
+Planificación financiera y recaudación de fondos: Una planificación financiera sólida es fundamental para el éxito. Le permite anticiparse a las necesidades, gestionar recursos y demostrar credibilidad a los inversores. Componentes esenciales:
 
 - Inversión inicial: equipos, licencias, marketing de lanzamiento
 - Costes jos: alquileres, salarios, seguro mensual
@@ -5086,13 +5085,13 @@ Tras el lanzamiento del producto, se inicia un ciclo continuo de seguimiento, ad
 
 El lanzamiento no es el final, es solo el comienzo. El éxito a largo plazo depende de la capacidad de escuchar al mercado, adaptarse rápidamente e innovar continuamente.
 
-## 5. Ejercicio práctico: de la identicación del problema a la solución
+## 5. Ejercicio práctico: de la identificación del problema a la solución
 
 Este ejercicio te guía a través del proceso fundamental del emprendimiento, convirtiendo una constatación en un concepto de solución viable.
 
 Siga los pasos y registre sus respuestas.
 
-1. Observar y sentir: identica un problema real que te afecte a ti o a alguien que conozcas. Observa frustraciones, ineciencias o necesidades insatisfechas en el día a día.
+1. Observar y sentir: identica un problema real que te afecte a ti o a alguien que conozcas. Observa frustraciones, ineficiencias o necesidades insatisfechas en el día a día.
 2. Investigar y comprender: ¿Quiénes son las personas afectadas? ¿Cuál es la raíz del problema? ¿Cuáles son las soluciones actuales y por qué no abordan el problema central?
 3. Innovar y crear: Haz una lluvia de ideas sobre varias soluciones posibles al problema identificado. Piensa fuera de la caja y no tengas miedo de las ideas audaces.
 4. Definir y refinar: Selecciona la idea más prometedora. Descríbelo brevemente, centrándote en el valor único que ofrecerá y cómo resolverá el problema.
@@ -5103,17 +5102,17 @@ Lean Canvas es una adaptación del Business Model Canvas, centrado en las startu
 
 Es una herramienta estratégica de gestión empresarial que ayuda a los emprendedores a convertir las ideas en productos viables identicando rápidamente los elementos más importantes de un modelo de negocio. Explora los pasos que debes seguir para crear un Lean Canvas.
 
-1. Problema: Identica los problemas clave que tu solución pretende resolver para un segmento de clientes especíco. ¿Qué alternativas existen y por qué fallan?
+1. Problema: Identica los problemas clave que tu solución pretende resolver para un segmento de clientes específico. ¿Qué alternativas existen y por qué fallan?
 2. Segmentos de clientes: Perfil de tus clientes ideales, incluidos sus comportamientos y necesidades.
 3. Propuesta de valor única: Crea un mensaje claro y conciso que explique qué hace que tu solución sea diferente y por qué los clientes deberían comprarla.
-4. Solución: Describe las funcionalidades esenciales de su producto o servicio que abordan los problemas identicados. Mantenlo conciso y enfocado.
+4. Solución: Describe las funcionalidades esenciales de su producto o servicio que abordan los problemas identificados. Mantenlo conciso y enfocado.
 5. Canales: Determina cómo llegarás, adquirirás y retendrás a tus clientes. Piensa en canales de marketing, ventas y distribución.
 6. Flujos de ingresos: Define cómo tu empresa generará dinero a través de la propuesta de valor ofrecida.
 7. Estructura de costes: Enumere los costes operativos clave necesarios para mantener el negocio en funcionamiento, como el desarrollo, el marketing y la infraestructura.
 8. Métricas clave: Identifica los indicadores de rendimiento más importantes para medir el éxito y el crecimiento de tu negocio.
 9. Ventaja competitiva: ¿Qué hace que su negocio sea difícil de copiar o replicar? ¿Cuál es tu diferenciador único y sostenible en el mercado?
 
-La siguiente es una representación gráca de esta herramienta, que permite a los emprendedores validar sus ideas de negocio de forma rápida y eciente, centrándose en lo esencial y minimizando los riesgos. (Libro p.39)
+La siguiente es una representación gráfica de esta herramienta, que permite a los emprendedores validar sus ideas de negocio de forma rápida y eficiente, centrándose en lo esencial y minimizando los riesgos. (Libro p.39)
 
 Lean Canvas es una herramienta dinámica, diseñada para ser iterada y actualizada a medida que aprendes más sobre tu mercado y tus clientes.
 
@@ -5134,7 +5133,7 @@ Un pitch es una presentación concisa y persuasiva que despierta interés en tu 
 - Duración: 3-5 minutos
 - Objetivo: Presentación estructurada para despertar el interés de potenciales inversores o socios.
 - Componentes esenciales:
-  - Problema claramente denido
+  - Problema claramente definido
   - Solución innovadora
   - Propuesta de valor diferenciada
   - Modelo de negocio viable
@@ -5149,16 +5148,16 @@ Un pitch es una presentación concisa y persuasiva que despierta interés en tu 
   - Memorable e impactante
   - Adaptable a diversas situaciones
 
-Como emprendedor, es importante desarrollar ambos tipos de pitch, adaptándolos al contexto especíco de la presentación.
+Como emprendedor, es importante desarrollar ambos tipos de pitch, adaptándolos al contexto específico de la presentación.
 
 ### EL PODER DE LA STORYTELLING DE PITCH
 
 El poder del Storytelling del Pitch: La narración (storytelling) convierte los datos en narrativas atractivas que cautivan al público y establecen una conexión genuina con tu idea. Las historias se recuerdan unas 20 veces más que los datos aislados. Elementos de una buena historia:
 
-1. Contexto: Situación inicial que genera identicación
+1. Contexto: Situación inicial que genera identificación
 2. Conflicto: el problema que debe resolverse
 3. Desarrollo: Cómo tu solución transforma la realidad
-4. Resolución: Los benecios tangibles de tu propuesta
+4. Resolución: Los beneficios tangibles de tu propuesta
 
 Una narrativa bien construida ayuda a diferenciar tu idea de la competencia y a establecer lazos emocionales con el cliente o inversor.
 
@@ -5205,7 +5204,7 @@ Consejos prácticos para estructurar el Pitch
 12. Inversión y uso de recursos
 13. Llamada a la acción
 
-Esta estructura debe adaptarse de acuerdo al contexto especíco de cada presentación y al perfil del público objetivo.
+Esta estructura debe adaptarse de acuerdo al contexto específico de cada presentación y al perfil del público objetivo.
 
 ### VARIEDAD DE ESCENARIOS PARA EL PITCH
 
@@ -5222,7 +5221,7 @@ Variedad de escenarios para el Pitch: Hay diferentes tipos de Pitch y cada uno r
 - PITCH PARA EL CLIENTE
   - Escenario: Presentación al potencial cliente corporativo
   - Elementos clave:
-    - Centrarse en resolver problemas especícos
+    - Centrarse en resolver problemas específicos
     - Preguntas sobre implementación y soporte
     - Objeciones de precio y ROI
     - Negociación de términos y condiciones
@@ -5230,14 +5229,14 @@ Variedad de escenarios para el Pitch: Hay diferentes tipos de Pitch y cada uno r
 - PARTNER PITCH
   - Escenario: Propuesta de colaboración estratégica
   - Elementos clave:
-    - Destacar los benecios mutuos Preguntas de
+    - Destacar los beneficios mutuos Preguntas de
     - integración y sinergia
     - Objeciones de exclusividad
     - Debate sobre el intercambio de recursos
 
 ## 10. Diseño visual: principios básicos
 
-La comunicación visual tiene un poder indiscutible para reforzar el mensaje escrito. Incluso sin conocimientos avanzados de diseño gráco, es importante saber cómo aplicar algunos principios básicos de diseño para crear presentaciones profesionales e impactantes.
+La comunicación visual tiene un poder indiscutible para reforzar el mensaje escrito. Incluso sin conocimientos avanzados de diseño gráfico, es importante saber cómo aplicar algunos principios básicos de diseño para crear presentaciones profesionales e impactantes.
 
 Los principios fundamentales de un buen diseño visual son:
 
@@ -5271,13 +5270,13 @@ Los elementos visuales siempre deben servir al mensaje, no solo embellecer la pr
 
 ### TIPOS DE ELEMENTOS VISUALES Y CUÁNDO UTILIZARLOS
 
-Tipos de elementos visuales y cuándo usarlos: Eligir el tipo correcto de elemento visual puede determinar el impacto y la claridad de una presentación. Cada formato, desde grácos hasta infografías, tiene un propósito especíco y debe seleccionarse de acuerdo con el tipo de información y el efecto deseado en la audiencia.
+Tipos de elementos visuales y cuándo usarlos: Eligir el tipo correcto de elemento visual puede determinar el impacto y la claridad de una presentación. Cada formato, desde gráficos hasta infografías, tiene un propósito específico y debe seleccionarse de acuerdo con el tipo de información y el efecto deseado en la audiencia.
 
-- Grácos y datos: Ideal para: Presentar números, tendencias, comparaciones y relaciones cuantitativas. Usarlo cuando: se muestra el crecimiento del mercado, las proyecciones financieras, la distribución de recursos o la segmentación de clientes.
+- gráficos y datos: Ideal para: Presentar números, tendencias, comparaciones y relaciones cuantitativas. Usarlo cuando: se muestra el crecimiento del mercado, las proyecciones financieras, la distribución de recursos o la segmentación de clientes.
 
 - Prototipos y Mockups (maquetas): Ideal para: Demostrar cómo funciona o se presenta el producto en la práctica. Usarlo cuando: se presentan soluciones tecnológicas, productos físicos o interfaces de usuario.
 
-- Iconos e infografías: Ideal para: Simplicar conceptos complejos y crear asociaciones visuales. Usarlo cuando: se expliquen procesos, metodologías o conceptos abstractos.
+- Iconos e infografías: Ideal para: Simplificar conceptos complejos y crear asociaciones visuales. Usarlo cuando: se expliquen procesos, metodologías o conceptos abstractos.
 
 Elegir los elementos visuales más adecuados para cada tipo de objetivo de información y comunicación.
 
@@ -5290,11 +5289,11 @@ Metáforas visuales: Las metáforas visuales son herramientas poderosas para tra
 - Rompecabezas: para demostrar cómo los diferentes componentes se interconectan en un sistema.
 - Embudo: para visualizar la conversión de clientes potenciales o la priorización de ideas.
 - Escalera: para representar la progresión, evolución o pasos secuenciales.
-- Balanza: para comparar pros y contras, o coste vs. benecio.
+- Balanza: para comparar pros y contras, o coste vs. beneficio.
 
 ## 12. Herramientas prácticas para crear imágenes
 
-La creación de imágenes efectivas depende no solo del talento creativo, sino también de la elección de las herramientas adecuadas. Actualmente, existen varias plataformas que permiten desarrollar presentaciones, grácos y prototipos de forma intuitiva y profesional, incluso sin conocimientos avanzados de diseño.
+La creación de imágenes efectivas depende no solo del talento creativo, sino también de la elección de las herramientas adecuadas. Actualmente, existen varias plataformas que permiten desarrollar presentaciones, gráficos y prototipos de forma intuitiva y profesional, incluso sin conocimientos avanzados de diseño.
 
 1. Presentaciones
 
@@ -5302,7 +5301,7 @@ La creación de imágenes efectivas depende no solo del talento creativo, sino t
 - Diapositivas de Google: Colaboración en tiempo real
 - PowerPoint: Funciones avanzadas de animación
 
-2. Grácos y datos
+2. gráficos y datos
 
 - Datawrapper: Visualización interactiva de datos
 - Tableau Público: Paneles profesionales
@@ -5329,7 +5328,7 @@ Imágenes de alta calidad para uso comercial.
 
 2. ICONOS E ILUSTRACIONES
 
-Elementos grácos personalizables para diversos contextos de comunicación y negocios.
+Elementos gráficos personalizables para diversos contextos de comunicación y negocios.
 
 - Flaticon - (https://www.flaticon.com/)
 - The Noun Project - (https://thenounproject.com/)
@@ -5351,7 +5350,7 @@ La comunicación verbal y no verbal son inseparables para el éxito de cualquier
 
 Los gestos, la postura, el tono de voz y las palabras trabajan juntos para crear credibilidad y establecer una conexión genuina con la audiencia.
 
-Comunicación verbal: claridad y objetividad. Comunicarse bien signica ser claro y directo. Los puntos de a continuación muestran cómo hacer que tu mensaje sea más fácil de entender y más efectivo para quienes lo escuchan.
+Comunicación verbal: claridad y objetividad. Comunicarse bien significa ser claro y directo. Los puntos de a continuación muestran cómo hacer que tu mensaje sea más fácil de entender y más efectivo para quienes lo escuchan.
 
 - Idioma adaptado: Utiliza un vocabulario simple, directo y adaptado al perl de tu público objetivo.
 - Estructura clara: Organiza el mensaje con una introducción, desarrollo y conclusión bien definida.
@@ -5386,7 +5385,7 @@ Cómo evitar errores comunes en la comunicación: Algunos comportamientos pueden
 
 ### COMUNICACIÓN ASERTIVA
 
-Comunicación asertiva: equilibrio entre respeto y seguridad: Ser asertivo se trata de encontrar el equilibrio entre rmeza y respeto. Los siguientes principios te ayudan a comunicarte con conanza, comprensión y profesionalidad.
+Comunicación asertiva: equilibrio entre respeto y seguridad: Ser asertivo se trata de encontrar el equilibrio entre firmeza y respeto. Los siguientes principios te ayudan a comunicarte con confianza, comprensión y profesionalidad.
 
 1. Claridad con respeto: Expresa tus ideas de forma directa y respetuosa, sin agresividad ni pasividad excesiva.
 
@@ -5398,7 +5397,7 @@ Comunicación asertiva: equilibrio entre respeto y seguridad: Ser asertivo se tr
 
 ### PREPARACIÓN Y ENSAYO: LA BASE DEL ÉXITO
 
-Preparación y Ensayo: Las Bases del Éxito: Una preparación adecuada convierte el nerviosismo en conanza y garantiza que su mensaje se transmita con la máxima eficacia.
+Preparación y Ensayo: Las Bases del Éxito: Una preparación adecuada convierte el nerviosismo en confianza y garantiza que su mensaje se transmita con la máxima eficacia.
 
 1. Conocimiento profundo: domina el contenido y comprende las características de tu público objetivo.
 2. Entrenamiento práctico: Practica en voz alta, observando la postura y las expresiones a través de un espejo o grabando.
@@ -5409,27 +5408,27 @@ Preparación y Ensayo: Las Bases del Éxito: Una preparación adecuada convierte
 
 El control emocional es esencial para garantizar presentaciones efectivas. Dominar la respiración, la concentración y la postura te ayuda a comunicarte con confianza y serenidad.
 
-Técnicas de control emocional: Estas sencillas técnicas de gestión emocional ayudan a reducir la ansiedad, aumentar la conanza y mejorar el rendimiento durante las presentaciones o los tiempos de evaluación.
+Técnicas de control emocional: Estas sencillas técnicas de gestión emocional ayudan a reducir la ansiedad, aumentar la confianza y mejorar el rendimiento durante las presentaciones o los tiempos de evaluación.
 
 1. Respiración 4-7-8: Inhala durante 4 segundos, mantén durante 7 segundos y exhala durante 8 segundos. Repita 3-5 veces antes de presentar.
 
 2. Presencia mental: Practica la atención plena, centrándote en la sensación de los pies en el suelo y la respiración. Trate de permanecer en el momento presente en lugar de anticipar escenarios negativos o de fracaso.
 
-3. Visualización positiva: Imagina presentarte con conanza y recibir una respuesta positiva. Visualiza que cada paso de la presentación va bien, creando una memoria de éxito.
+3. Visualización positiva: Imagina presentarte con confianza y recibir una respuesta positiva. Visualiza que cada paso de la presentación va bien, creando una memoria de éxito.
 
 4. Postura de poder: Antes de presentarte, adopta una postura abierta y segura durante 2 minutos (manos en la cintura, pecho levantado). Los estudios demuestran...
 
-Visualiza el siguiente video sobre técnicas de comunicación avanzadas para presentaciones impactantes. El video muestra técnicas prácticas para manejar la ansiedad, proyectar conanza y conectarse con diferentes tipos de audiencias.
+Visualiza el siguiente video sobre técnicas de comunicación avanzadas para presentaciones impactantes. El video muestra técnicas prácticas para manejar la ansiedad, proyectar confianza y conectarse con diferentes tipos de audiencias.
 
 TED - How to Speak So That People Want to Listen - Julian Tre - (https://www.youtube.com/watch?v=eIho2S0ZahI)
 
 ## 16. Preparación Técnica para el Pitch
 
-Una buena presentación depende no solo de las ideas, sino también de la preparación técnica. Ensayar, anticiparse a imprevistos y dominar el contenido son pasos esenciales para un discurso seguro y convincente. Sigue estos cuatro pasos para asegurarte de que tu presentación se desarrolle con conanza, claridad y profesionalidad.
+Una buena presentación depende no solo de las ideas, sino también de la preparación técnica. Ensayar, anticiparse a imprevistos y dominar el contenido son pasos esenciales para un discurso seguro y convincente. Sigue estos cuatro pasos para asegurarte de que tu presentación se desarrolle con confianza, claridad y profesionalidad.
 
 1. Conozca su contenido en profundidad
 
-Domina todos los aspectos de tu proyecto o negocio, incluidos los datos de mercado, los detalles técnicos y las proyecciones nancieras. Prepárate para responder preguntas especícas sobre cualquier diapositiva o declaración.
+Domina todos los aspectos de tu proyecto o negocio, incluidos los datos de mercado, los detalles técnicos y las proyecciones financieras. Prepárate para responder preguntas específicas sobre cualquier diapositiva o declaración.
 Consejo: Crea un documento con posibles preguntas difíciles y practica tus respuestas.
 
 2. Práctica en condiciones reales
@@ -5502,7 +5501,7 @@ Viabilidad técnica y económica de implementación de la solución propuesta.
 
 ## 18. Impacto VS Método de Inversión
 
-El método de impacto versus inversión es un enfoque estratégico para priorizar las ideas en función de la relación entre su potencial de impacto y la inversión requerida para su implementación. La matriz te permite clasicar las ideas en cuatro cuadrantes.
+El método de impacto versus inversión es un enfoque estratégico para priorizar las ideas en función de la relación entre su potencial de impacto y la inversión requerida para su implementación. La matriz te permite clasificar las ideas en cuatro cuadrantes.
 
 Explora la imagen para obtener más información sobre cada uno de los cuadrantes.
 
@@ -5538,7 +5537,7 @@ Ejemplo: Para una aplicación de entrega de comida saludable en Lisboa:
 
 Evalúa la calidad y profundidad de la validación con los clientes:
 
-- Encuesta supercial: Basada en supuestos o datos secundarios genéricos.
+- Encuesta superficial: Basada en supuestos o datos secundarios genéricos.
 - Investigación cualitativa: entrevistas en profundidad con clientes potenciales.
 - Prototipo probado: comentarios sobre una versión preliminar del producto.
 - Validación de mercado: primeros clientes que pagan o lista de espera activa.
@@ -5557,7 +5556,7 @@ El uso de modelos estructurados ayuda a que este proceso sea más claro, más co
 Estructura que intercala aspectos positivos y áreas de mejora:
 
 1. Positivo: Comienza con un aspecto que haya funcionado bien.
-2. Área de mejora: Hacer sugerencias constructivas y especícas.
+2. Área de mejora: Hacer sugerencias constructivas y específicas.
 3. Próximos pasos: Termina con otro aspecto positivo para motivar.
 
 Ventaja: Suaviza las críticas y mantiene al receptor receptivo.
@@ -5565,14 +5564,14 @@ Usarlo cuando: para comentarios iniciales o con personas que son más sensibles 
 
 2. Modelo SCI
 
-Situación especíca y enfoque centrado en el impacto:
+Situación específica y enfoque centrado en el impacto:
 
-1. Situación: Describe el contexto especíco observado.
+1. Situación: Describe el contexto específico observado.
 2. Comportamiento: Detalla el comportamiento observado sin juicios.
 3. Impacto: Explica el efecto de este comportamiento en la audiencia.
 
 Ventaja: Mantiene la retroalimentación objetiva y basada en observaciones concretas.
-Usarlo: para obtener comentarios detallados sobre aspectos especícos de la presentación.
+Usarlo: para obtener comentarios detallados sobre aspectos específicos de la presentación.
 
 3. Plantilla "Continuar, Iniciar, Detener"
 
@@ -5583,7 +5582,7 @@ Framework directo para acciones futuras:
 3. Stop: Lo que se debe eliminar por no aportar valor.
 
 Ventaja: Genera recomendaciones claras y viables.
-Cuándo usarlo: para emprendedores que preeren una orientación práctica y directa.
+Cuándo usarlo: para emprendedores que prefieren una orientación práctica y directa.
 
 ## 21. Revisión por pares: aprendizaje colaborativo
 
@@ -5607,13 +5606,13 @@ Una hoja de ruta estructurada ayuda a llevar a cabo sesiones de retroalimentaci�
 
 1. Preparación inicial: Definir criterios de evaluación claros y comunicarlos con antelación. Preparar formularios estructurados o rúbricas. Establecer normas de comunicación respetuosa.
 
-2. Observación: Durante la presentación, toma notas especícas sobre las fortalezas y oportunidades de mejora. Registra citas o momentos relevantes como referencia.
+2. Observación: Durante la presentación, toma notas específicas sobre las fortalezas y oportunidades de mejora. Registra citas o momentos relevantes como referencia.
 
 3. Reflexión: Después de la presentación, organiza tus observaciones en comentarios estructurados. Prioriza 2-3 puntos clave para no sobrecargar el receptor.
 
-4. Comunicación: Comienza con una visión general positiva. Utiliza un lenguaje especíco y descriptivo, evitando generalizaciones. Haz sugerencias concretas, no solo críticas.
+4. Comunicación: Comienza con una visión general positiva. Utiliza un lenguaje específico y descriptivo, evitando generalizaciones. Haz sugerencias concretas, no solo críticas.
 
-5. Discusión: Permite que el receptor haga preguntas o aclare puntos. Mantén el foco en acciones y desarrollos futuros, evitando justicaciones o defensivas.
+5. Discusión: Permite que el receptor haga preguntas o aclare puntos. Mantén el foco en acciones y desarrollos futuros, evitando justificaciones o defensivas.
 
 6. Cierre: Resume los puntos principales discutidos. Establece los próximos pasos o áreas prioritarias de mejora. Termina con una nota positiva y alentadora.
 
@@ -5638,22 +5637,22 @@ Busca una diversidad de perles y experiencias para enriquecer las perspectivas o
   - Feedback: 5 minutos para comentarios estructurados.
   - Documentación: Registro escrito de evaluaciones para referencia futura.
 
-## 23. Lista de vericación del Pitch perfecto
+## 23. Lista de verificación del Pitch perfecto
 
 Para terminar el módulo, aquí tienes una lista de criterios que puedes utilizar como herramienta de evaluación durante las prácticas de pitch.
 
 Estructura
 
 - Introducción cautivadora que capte la atención en los primeros 30 segundos
-- Problema claramente denido y dimensionado
+- Problema claramente definido y dimensionado
 - Explicación concreta y tangible de la solución
 - Propuesta de valor diferenciada y convincente
 - Modelo de negocio viable y comprensible
-- Mercado objetivo identicado con cifras relevantes
+- Mercado objetivo identificado con cifras relevantes
 - Competencia analizada con clara diferenciación
 - Tracción o validación demostrada con evidencia
 - Equipo presentado con credenciales relevantes
-- Solicitud especíca y justicada (inversión, colaboración, etc.)
+- Solicitud específica y justificada (inversión, colaboración, etc.)
 - Llamada a la acción clara y motivadora
 
 Presentación
@@ -5661,9 +5660,9 @@ Presentación
 - Diapositivas sencillas y visualmente atractivas
 - Consistencia visual a lo largo de la presentación
 - Títulos informativos que comuniquen mensajes clave
-- Grácos y visualizaciones claras y relevantes
+- Gráficos y visualizaciones claras y relevantes
 - Imágenes de alta calidad que refuerzan el mensaje
-- Cantidad adecuada de texto por diapositiva (el mínimo necesesario)
+- Cantidad adecuada de texto por diapositiva (el mínimo necesario)
 - Fuente legible con buen contraste
 - Lenguaje simple y directo sin jerga innecesaria
 - Narrativa coherente con flujo lógico entre diapositivas
@@ -5678,6 +5677,6 @@ Presentador
 - Contacto visual con todo el público
 - Ritmo adecuado (ni demasiado rápido ni demasiado lento)
 - Capacidad para responder preguntas de forma segura
-- Gestión ecaz del tiempo disponible
+- Gestión eficaz del tiempo disponible
 - Capacidad de adaptación ante imprevistos
 - Autenticidad y conexión genuina con el tema
