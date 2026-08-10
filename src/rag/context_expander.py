@@ -136,17 +136,75 @@ class ContextExpander:
 
         return resultado
 
-    def _enriquecer_con_hermanos(self):
+    def _enriquecer_con_hermanos(
+        self,
+        chunks: list[Chunk],
+    ) -> list[Chunk]:
         """
-        Añade los nodos que comparten el mismo padre. 
-        Si preguntan por Fortalezas, puede ser útil que el modelo vea también las demás categorías.
+        Enriquece el contexto con los chunks hermanos que ya hayan sido
+        recuperados por el Retriever.
         """
 
-    def _enriquecer_con_hijos(self):
+        resultado = chunks.copy()
+
+        chunks_por_indice = {
+            chunk.indice: chunk
+            for chunk in chunks
+        }
+
+        for chunk in chunks:
+            nodo = self._obtener_nodo(chunk.node_id)
+
+            if nodo is None or nodo.padre is None:
+                continue
+
+            for chunk_id in nodo.padre.chunk_ids:
+                if chunk_id == chunk.indice:
+                    continue
+
+                chunk_hermano = chunks_por_indice.get(chunk_id)
+
+                if chunk_hermano is not None:
+                    resultado.append(chunk_hermano)
+
+        return resultado
+
+
+
+    def _enriquecer_con_hijos(
+        self,
+        chunks: list[Chunk],
+    ) -> list[Chunk]:
         """
-        Añade los subapartados del chunk recuperado. 
-        Permite ampliar una explicación general con detalles concretos.
+        Enriquece el contexto con los chunks hijos que ya hayan sido
+        recuperados por el Retriever.
         """
+
+        resultado = chunks.copy()
+
+        chunks_por_indice = {
+            chunk.indice: chunk
+            for chunk in chunks
+        }
+
+        for chunk in chunks:
+            nodo = self._obtener_nodo(chunk.node_id)
+
+            if nodo is None:
+                continue
+
+            for hijo in nodo.hijos:
+                for chunk_id in hijo.chunk_ids:
+                    if chunk_id == chunk.indice:
+                        continue
+
+                    chunk_hijo = chunks_por_indice.get(chunk_id)
+
+                    if chunk_hijo is not None:
+                        resultado.append(chunk_hijo)
+
+        return resultado
+
 
     def _eliminar_duplicados(self):
         """
