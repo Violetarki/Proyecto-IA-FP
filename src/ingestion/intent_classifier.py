@@ -37,7 +37,6 @@
 
 import json
 from groq import Groq
-from sympy import python
 
 client = Groq()
 
