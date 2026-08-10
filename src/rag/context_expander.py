@@ -92,6 +92,13 @@ class ContextExpander:
         nodo,
         node_id: str,
     ):
+        """
+        Busca recursivamente un nodo del árbol a partir de su identificador.
+
+        Recorre el nodo actual y sus descendientes hasta encontrar
+        el nodo con el `node_id` indicado. Devuelve None si no existe.
+        """
+
         if nodo.id == node_id:
             return nodo
 
@@ -228,11 +235,47 @@ class ContextExpander:
         return resultado
 
 
-    def _ordenar_por_jerarquia(self, chunks):
+    def _ruta_nodo(self, nodo):
         """
-        Ordena los chunks antes de enviarlos al LLM. El modelo entiende mejor un documento cuando mantiene el orden original.
+        Obtiene la ruta jerárquica de un nodo dentro del árbol.
         """
 
+        ruta = []
+
+        while nodo is not None:
+            ruta.append(nodo.nivel)
+            nodo = nodo.padre
+
+        return tuple(reversed(ruta))
+
+
+    def _ordenar_por_jerarquia(
+        self,
+        chunks: list[Chunk],
+    ) -> list[Chunk]:
+        """
+        Ordena los chunks según su posición en el KnowledgeTree.
+        """
+
+        def clave(chunk: Chunk):
+            nodo = self._obtener_nodo(chunk.node_id)
+
+            if nodo is None:
+                return (float("inf"),)
+
+            ruta = []
+            actual = nodo
+
+            while actual.padre is not None:
+                posicion = actual.padre.hijos.index(actual)
+                ruta.append(posicion)
+                actual = actual.padre
+
+            ruta.append(0)
+
+            return tuple(reversed(ruta))
+
+        return sorted(chunks, key=clave)
 
 
     def _aplicar_umbrales(
