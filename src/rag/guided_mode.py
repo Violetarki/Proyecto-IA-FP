@@ -1,14 +1,9 @@
-
 """
-    GuidedMode
-    ├── mantiene el estado de la guía
-    ├── sabe en qué paso estamos
-    ├── obtiene el contexto del paso
-    ├── genera la explicación del paso
-    ├── formula una pregunta al alumno
-    ├── recibe la respuesta
-    ├── guarda el progreso
-    └── avanza al siguiente paso
+Módulo encargado de gestionar el modo de aprendizaje guiado.
+
+Mantiene el estado de una sesión guiada, controla el paso actual,
+registra las respuestas del alumno y gestiona el avance entre
+los pasos definidos en un proceso.
 """
 
 class GuidedMode:
@@ -48,8 +43,15 @@ class GuidedMode:
 
 
     def esta_activo(self):
+<<<<<<< HEAD
         return self.activo
 
     def finalizar(self):
         """Finaliza la sesión guiada."""
         self.activo = False
+=======
+        """
+        Indica si existe una sesión de aprendizaje guiado activa.
+        """
+        return self.activo
+>>>>>>> e2e1c8e (Actualizar docstrings del flujo RAG)
