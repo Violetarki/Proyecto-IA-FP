@@ -42,5 +42,135 @@
             "rol": "bot",
             "contenido": "El contexto proporcionado no contiene información sobre Chupa Chups."
         }
+    ],
+    "2d1aa54d-b4ae-4b68-9034-02defb3a5b86": [
+        {
+            "rol": "user",
+            "contenido": "¿Qué es el marketing?"
+        },
+        {
+            "rol": "bot",
+            "contenido": "El marketing es el proceso mediante el cual las empresas buscan optimizar sus objetivos corporativos identificando y satisfaciendo las necesidades del público destinatario de forma eficiente y diferenciada frente a la competencia.\n\nSus fines incluyen, entre otros, aumentar las ventas, dar a conocer nuevos productos, captar clientes y mejorar la visibilidad en los puntos de venta. Para lograrlo, se centra en dos elementos clave del microentorno:\n\n1.  **El público objetivo:** Comunicándole los beneficios de los productos basándose en la satisfacción de sus deseos y necesidades.\n2.  **La competencia:** Transmitiendo las fortalezas propias y destacando indirectamente las debilidades de las compañías rivales."
+        }
+    ],
+    "9cab2b11-632b-4731-827f-378bf361ca2f": [
+        {
+            "rol": "user",
+            "contenido": "que es DAFO?"
+        },
+        {
+            "rol": "bot",
+            "contenido": "El contexto proporcionado no contiene información sobre qué es el DAFO."
+        }
+    ],
+    "2247d8a6-d573-41ec-ba18-fd8865b01f7c": [
+        {
+            "rol": "user",
+            "contenido": "qué es Chupa Chups?"
+        },
+        {
+            "rol": "bot",
+            "contenido": "Chupa Chups es una compañía dedicada a la fabricación y venta de caramelos con palo. El producto nació en 1958 de la idea de Enric Bernat, quien buscó resolver el problema de que los niños se mancharan las manos al comerse los caramelos tradicionales, añadiéndoles un palo para facilitar su consumo."
+        },
+        {
+            "rol": "user",
+            "contenido": "qué diferencia hay entre Macroentorno y Microentorno?"
+        },
+        {
+            "rol": "bot",
+            "contenido": "La principal diferencia radica en el alcance y la naturaleza de la influencia sobre la empresa:\n\n*   **El Macroentorno** (o entorno general) está formado por factores externos que la empresa **no puede controlar** y que afectan por igual a todas las compañías de una misma zona geográfica. Incluye aspectos económicos, socioculturales, político-legales, tecnológicos y medioambientales. Su impacto en los resultados suele ser menos directo que el del microentorno.\n*   **El Microentorno** (o entorno específico) representa el **entorno inmediato** de la empresa, donde la influencia mutua es mucho más clara y directa. Está compuesto por agentes cercanos como clientes, competencia, proveedores y distribuidores."
+        },
+        {
+            "rol": "user",
+            "contenido": "Tienes algún ejemplo de LEGO?"
+        },
+        {
+            "rol": "bot",
+            "contenido": "El contexto proporcionado no contiene información ni ejemplos relacionados con LEGO."
+        }
+    ],
+    "58209f83-7912-4ab4-a685-c790512bed4e": [
+        {
+            "rol": "user",
+            "contenido": "Qué es Análisis DAFO?"
+        },
+        {
+            "rol": "bot",
+            "contenido": "El análisis DAFO es una herramienta gráfica y simplificada que permite representar esquemáticamente la situación de una empresa. Su función principal es diagnosticar la realidad del negocio y facilitar la reflexión para impulsar cambios, analizando cuatro aspectos clave:\n\n1.  **Factores internos:** Las **Fortalezas** (aspectos positivos bajo control de la empresa) y las **Debilidades** (aspectos negativos que la empresa puede modificar).\n2.  **Factores externos:** Las **Oportunidades** (aspectos positivos del entorno) y las **Amenazas** (aspectos negativos del entorno que escapan al control directo de la empresa, aunque se puede intentar reducir su impacto).\n\nEn resumen, sirve para sintetizar la información obtenida sobre el entorno, clientes y competencia, diferenciando entre lo que la empresa puede controlar y lo que no, con el objetivo de mejorar el negocio."
+        },
+        {
+            "rol": "user",
+            "contenido": "Qué es Análisis DAFO?"
+        },
+        {
+            "rol": "bot",
+            "contenido": "El análisis DAFO es una herramienta gráfica y simplificada que permite representar esquemáticamente la situación de una empresa. Su función principal es diagnosticar la realidad del negocio y facilitar la reflexión para impulsar cambios, analizando cuatro aspectos clave:\n\n1.  **Factores internos:** Las **Fortalezas** (aspectos positivos bajo control de la empresa) y las **Debilidades** (aspectos negativos que la empresa puede modificar).\n2.  **Factores externos:** Las **Oportunidades** (aspectos positivos del entorno) y las **Amenazas** (aspectos negativos del entorno que escapan al control directo de la empresa, aunque se puede intentar reducir su impacto).\n\nEn resumen, sirve para sintetizar la información obtenida sobre el entorno, clientes y competencia, diferenciando entre lo que la empresa puede controlar y lo que no, con el objetivo de mejorar el negocio."
+        },
+        {
+            "rol": "user",
+            "contenido": "hay alguna actividad del Análisis DAFO?"
+        },
+        {
+            "rol": "bot",
+            "contenido": "Sí, el contexto menciona la **Actividad de simulación 10**, que consiste en presentar de forma sintética y gráfica toda la información obtenida en fases anteriores (sobre entorno, clientes y competencia) mediante un análisis DAFO.\n\nPara realizarla, se sugiere utilizar una herramienta online gratuita de Inghenia o crear una tabla sencilla. El proceso implica:\n\n1.  Diferenciar los datos en aquellos sobre los que se puede influir (internos) y los que no (externos).\n2.  Clasificar los internos en **Debilidades** (negativos) y **Fortalezas** (positivos).\n3.  Clasificar los externos en **Amenazas** (negativos) y **Oportunidades** (positivos).\n4.  Definir acciones para eliminar o reducir los elementos negativos, priorizando los que están bajo control de la empresa."
+        }
+    ],
+    "98d29a36-7e18-4799-a749-ab72beb8bf08": [
+        {
+            "rol": "user",
+            "contenido": "Qué es Analisis DAFO?"
+        },
+        {
+            "rol": "bot",
+            "contenido": "El análisis DAFO es una herramienta gráfica y simplificada que permite representar esquemáticamente la situación de una empresa. Su función principal es diagnosticar la realidad del negocio y facilitar la reflexión para impulsar cambios, analizando cuatro aspectos clave:\n\n1.  **Factores internos:** Las **Fortalezas** (aspectos positivos bajo control de la empresa) y las **Debilidades** (aspectos negativos que la empresa puede modificar).\n2.  **Factores externos:** Las **Oportunidades** (aspectos positivos del entorno) y las **Amenazas** (aspectos negativos del entorno que escapan al control directo de la empresa, aunque se puede intentar reducir su impacto).\n\nEn resumen, sirve para sintetizar la información obtenida sobre el entorno, clientes y competencia, diferenciando entre lo que la empresa puede controlar y lo que no, con el objetivo de mejorar el negocio."
+        },
+        {
+            "rol": "user",
+            "contenido": "cuáles son las 4 Cs del alumno emprendedor?"
+        },
+        {
+            "rol": "bot",
+            "contenido": "Según el contexto proporcionado, las 4 Cs que definen las habilidades emprendedoras del alumno son:\n\n1.  **Creatividad**\n2.  **Comunicación**\n3.  **Cooperación**\n4.  **Confianza**\n\nEstas competencias se mencionan tanto como parte de la solución metodológica (Lean Startup) para mejorar el rendimiento, como objetivos iniciales a valorar en la actividad de presentación del alumno."
+        },
+        {
+            "rol": "user",
+            "contenido": "puedes explicarme un poco cada una de las 4 Cs?"
+        },
+        {
+            "rol": "bot",
+            "contenido": "Basándome en el contexto proporcionado, las 4 Cs constituyen la \"caja de herramientas\" esencial para el alumno emprendedor. Aquí tienes una explicación de cada una:\n\n1.  **Creatividad:** Se parte de la premisa de que todos somos creativos por naturaleza, pero es necesario aprender a desarrollar esta habilidad. Implica actuar sin miedo, fomentando la educación integral y el crecimiento personal.\n2.  **Comunicación:** Se destaca que las limitaciones en este ámbito afectan tanto al desarrollo personal como al profesional. Para superarlo, es clave conocer las distintas formas y medios de comunicación, así como practicar constantemente.\n3.  **Cooperación:** El emprendimiento se entiende como una actividad grupal, alineada con el trabajo por proyectos que caracteriza al futuro laboral. Requiere establecer normas comunes, definir formas de trabajo y organizar la realización de tareas en equipo.\n4.  **Confianza:** Es considerada un pilar fundamental de la vida social moderna. Actúa como agente socializador que fortalece las relaciones interpersonales y permite crear experiencias memorables."
+        },
+        {
+            "rol": "user",
+            "contenido": "me puedes dar los pasos del proceso emprendedor?"
+        },
+        {
+            "rol": "bot",
+            "contenido": "El proceso emprendedor es un camino iterativo, no siempre lineal, que transforma una idea en un negocio viable. Según el contexto, sus etapas principales son:\n\n1.  **Implementación:** Consiste en formalizar la empresa (registros y licencias), desarrollar el producto mínimo viable (MVP) e iniciar las operaciones. Es una fase de aprendizaje práctico donde se ajustan precios y procesos basándose en la retroalimentación de los primeros clientes.\n2.  **Crecimiento y adaptación:** Una vez consolidado, el negocio busca expandirse a nuevos mercados o segmentos. Esto requiere agilidad para resolver problemas, innovación continua y, si es necesario, pivotar la estrategia o lanzar nuevos productos.\n3.  **Gestión del día a día:** El emprendedor actúa como gerente, liderando al equipo y tomando decisiones rápidas. Implica identificar factores críticos de éxito e implementar sistemas de control (financieros, de calidad) para profesionalizar la gestión a medida que la empresa crece.\n4.  **Salidas y futuro:** Se contempla a largo plazo la sostenibilidad del modelo, la sucesión en el liderazgo y la adaptación a tendencias. También se consideran estrategias de salida, como la venta o fusión de la empresa, si alignan con los objetivos del emprendedor."
+        },
+        {
+            "rol": "user",
+            "contenido": "y qué es MVP?"
+        },
+        {
+            "rol": "bot",
+            "contenido": "El Producto Mínimo Viable (MVP) es la versión más básica y simplificada de un producto, desarrollada con el mínimo esfuerzo posible pero incluyendo únicamente las funcionalidades esenciales.\n\nSu objetivo principal es permitir un lanzamiento rápido al mercado para validar la propuesta de valor central. Esto facilita la recopilación de comentarios reales de los usuarios y el aprendizaje basado en su comportamiento, lo que ayuda a identificar problemas u oportunidades tempranamente y a ahorrar recursos durante el desarrollo.\n\nEs importante destacar que, aunque sea minimalista en características, el MVP no debe ser un producto de baja calidad; debe tener la calidad suficiente para demostrar valor al usuario y permitir pruebas continuas."
+        },
+        {
+            "rol": "user",
+            "contenido": "y qué tipos hay de financiación?"
+        },
+        {
+            "rol": "bot",
+            "contenido": "Basándome en el contexto proporcionado, las fuentes de financiación se clasifican en dos grandes grupos:\n\n1.  **Recursos propios:** Son fondos que provienen de la propia empresa o sus socios. Incluyen:\n    *   **Capital semilla:** Capital social, cuenta ahorro-empresa, capital riesgo, business ángeles, crowdfunding y coworking.\n    *   **Capital de arranque/expansión:** Reservas, aportaciones de nuevos socios y subvenciones.\n\n2.  **Recursos ajenos:** Son fondos obtenidos de entidades externas a la empresa. Se subdividen según el plazo:\n    *   **A largo plazo:** Aportaciones de familia y amigos, préstamos bancarios, sociedades de garantía recíproca (SGR), créditos, descubierto bancario, servicios financieros de entidades comerciales, emisión de títulos de deuda y financiación pública (como ICO o BEI).\n    *   **A corto plazo:** Crédito comercial, descuentos por pronto pago, leasing, renting, confirming, descuento comercial y factoring."
+        },
+        {
+            "rol": "user",
+            "contenido": "qué diferencia hay entre capital social y capital de riesgo?"
+        },
+        {
+            "rol": "bot",
+            "contenido": "La principal diferencia radica en el origen de los fondos y la naturaleza de la inversión:\n\n*   El **capital social** es el dinero o bienes aportados directamente por los socios fundadores. Constituye el inicio de la financiación y demuestra que los socios arriesgan su propio patrimonio, lo cual es un requisito para obtener financiación externa.\n*   El **capital riesgo** (o *venture capital*) proviene de una empresa externa que invierte temporalmente en compañías con alto potencial de crecimiento. A cambio, esta firma adquiere participaciones o acciones, convirtiéndose en un socio temporal que busca obtener un beneficio al vender dichas participaciones a un precio mayor cuando la empresa haya \"despegado\"."
+        }
     ]
 }

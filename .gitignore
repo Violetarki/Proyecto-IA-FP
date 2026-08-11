@@ -42,3 +42,5 @@ iniciar_tunel.bat
 data/knowledge/*
 !data/knowledge/.gitkeep
 data/logs/rag.log
+data/historial_conversaciones
+data/historial_conversaciones

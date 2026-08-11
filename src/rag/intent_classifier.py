@@ -196,7 +196,7 @@ class IntentClassifier:
 
             texto_limpio = texto_limpio.replace(patron, " ")
 
-            return texto_limpio
+        return texto_limpio
 
     def _limpiar_palabras(self, texto: str) -> list[str]:
 
