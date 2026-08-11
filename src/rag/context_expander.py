@@ -21,7 +21,7 @@ class ContextExpander:
 
     def expandir(self, resultados: list[ResultadoBusqueda], estrategia: dict = None) -> list[Chunk]:
 
-        estrategia = estrategia or self.ESTRATEGIA_DEFAULT
+        estrategia = estrategia or ESTRATEGIA_DEFAULT
 
         candidatos = self._aplicar_umbrales(resultados, estrategia["umbral"])
 
@@ -43,7 +43,6 @@ class ContextExpander:
     def _aplicar_umbrales(
         self,
         resultados: list[ResultadoBusqueda],
-        estrategia: str,
     ) -> list[Chunk]:
         """
         Filtra los chunks recuperados según su relevancia.
