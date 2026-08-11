@@ -1,4 +1,13 @@
+"""
+Módulo encargado de expandir y organizar el contexto recuperado.
 
+A partir de los resultados de la búsqueda, selecciona los chunks
+según sus umbrales de relevancia y puede enriquecer el contexto
+utilizando las relaciones jerárquicas del KnowledgeTree.
+
+También elimina duplicados y ordena los chunks según su posición
+dentro de la jerarquía de conocimiento.
+"""
 
 from src.core.models import ResultadoBusqueda, Chunk
 from src.core.config import UMBRAL_ACEPTABLE, UMBRAL_BUENO, UMBRAL_EXCELENTE, MAXIMO_CHUNKS, MINIMO_CHUNKS
@@ -8,6 +17,11 @@ from src.knowledge.models import KnowledgeTree
 
 
 class ContextExpander:
+
+    """
+    Expande y organiza los chunks recuperados utilizando
+    la estructura jerárquica del KnowledgeTree.
+    """
 
     def __init__(
         self,
@@ -110,8 +124,7 @@ class ContextExpander:
         return None
 
 
-# comentario de la chati: Con la restricción de "no traer chunks nuevos", esta función aporta muy poco valor. 
-# Por eso quizá la función que más valor tenga en esta primera versión no sea la de padres, sino la de ordenación por jerarquía.
+
     def _enriquecer_con_padres(
         self,
         chunks: list[Chunk],
