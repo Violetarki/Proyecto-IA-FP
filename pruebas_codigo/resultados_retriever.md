@@ -263,17 +263,44 @@ hasta el chunk 17 tiene info relevante, distancias de
 
 ## 2.3. ¿Qué es el Business Model Canvas?
 
+1. Distancia: 0.1954 CHUNK IDEAL
+   Manual: se_material_complementario
+   Título: ES MÓDULO 5 - Modelos de negocio, diferenciación e innovación
+   Subtítulo: 3. Business Model Canvas
+   Sección: Los nueve bloques del lienzo del modelo de negocio
+   Subsección: -
+   Apartado: -
+   Texto: El Business Model Canvas (BMC) es un diagrama visual compuesto por nueve bloques que estructuran todos los componentes esenciales del modelo de negocio. Esta herramienta le permite visualizar rápidamente los principales flujos y operaciones de la empresa, demostrando claramente cómo la organización ...
+
 ## 2.4. ¿Qué es el Value Proposition Canvas?
 
 ## 2.5. ¿Qué es una propuesta de valor?
 
 ## 2.6. ¿Qué es la innovación abierta?
 
+1. Distancia: 0.1038 - CHUNK IDEAL -SE PUEDEN TRAER OTROS TMB DEL MODULO
+   Manual: se_material_complementario
+   Título: ES MÓDULO 3 - Innovación abierta
+   Subtítulo: 15. Manual actividades de innovación abierta - Build your Open Innovation Roadmap 2026 1/MAC/1/1.3/0029
+   Sección: ACTIVIDAD 1 - ¿Qué es la innovación abierta?
+   Subsección: -
+   Apartado: -
+   Texto: La innovación abierta es una forma de resolver problemas combinando, de manera intencional, ideas, recursos y personas de distintas organizaciones (empresas, universidades, startups, sector público, sociedad civil). En lugar de innovar en solitario, colaboramos, y lo hacemos con un propósito claro,...
+
 ## 2.7. ¿Qué es la resiliencia emprendedora?
 
 ## 2.8. ¿Qué ventajas puede aportar la digitalización a una empresa?
 
 ## 2.9. ¿Qué es un CRM?
+
+2. Distancia: 0.6238 - CHUNK IDEAL
+   Manual: se_material_complementario
+   Título: ES MÓDULO 4 - Digitalización y estrategias empresariales
+   Subtítulo: 4. CRM - Gestión de relaciones con los clientes
+   Sección: -
+   Subsección: -
+   Apartado: -
+   Texto: - ¿Qué es un CRM? Customer Relationship Management (CRM) es un sistema que permite monitorizar las interacciones con clientes y potenciales clientes, registrando contactos, historial de compras y dando soporte a las áreas de ventas y marketing. Un CRM permite un servicio personalizado y eficiente, ...
 
 ## 2.10. ¿Qué es el marketing digital?
 
