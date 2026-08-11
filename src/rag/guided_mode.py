@@ -49,3 +49,7 @@ class GuidedMode:
 
     def esta_activo(self):
         return self.activo
+
+    def finalizar(self):
+        """Finaliza la sesión guiada."""
+        self.activo = False
