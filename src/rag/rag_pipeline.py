@@ -27,7 +27,7 @@ from src.rag.intent_classifier import IntentClassifier
 from src.rag.guided_mode import GuidedMode
 from src.rag.guided_context_builder import GuidedContextBuilder
 from src.core.models import Mensaje
-from src.knowledge.models import KnowledgeTree, KnowledgeNode
+from src.knowledge.models import KnowledgeTree
 
 import logging
 
@@ -89,7 +89,6 @@ class RAG:
         candidatos_expandidos = self.context_expander.expandir(candidatos)
 
         logger.info("Construyendo prompt...")
-
 
         if self.guided_mode.esta_activo():
             paso = self.guided_mode.obtener_paso_actual()
