@@ -25,6 +25,14 @@ class GuidedMode:
         self.activo = True
 
      
+    def obtener_paso_actual(self):
+        """Devuelve el paso que se está trabajando actualmente."""
+        if not self.activo:
+            return None
+
+        return self.pasos[self.paso_actual]
+
+    
     def procesar_respuesta(self, respuesta_alumno):
         """Procesa la respuesta del alumno y avanza al siguiente paso."""
 
@@ -43,15 +51,10 @@ class GuidedMode:
 
 
     def esta_activo(self):
-<<<<<<< HEAD
         return self.activo
 
     def finalizar(self):
         """Finaliza la sesión guiada."""
         self.activo = False
-=======
-        """
-        Indica si existe una sesión de aprendizaje guiado activa.
-        """
-        return self.activo
->>>>>>> e2e1c8e (Actualizar docstrings del flujo RAG)
+
+
