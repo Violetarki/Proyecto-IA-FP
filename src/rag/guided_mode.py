@@ -6,6 +6,13 @@ registra las respuestas del alumno y gestiona el avance entre
 los pasos definidos en un proceso.
 """
 
+
+"""
+GuidedMode → estado/progreso → obtención del paso → construcción del contexto 
+→ interacción con el LLM → procesamiento de la respuesta → avance o permanencia en el paso.
+"""
+
+
 class GuidedMode:
     """Gestiona una sesión de aprendizaje guiada paso a paso."""
 
