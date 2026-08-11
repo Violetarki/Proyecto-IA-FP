@@ -1,6 +1,7 @@
 """
     Modulo de prueba para la función de indexación de documentos.
-    Probar individualmente cuando se tenga q volver a indexar la base de datos con python -m tests.main
+    Para cuando se tenga q volver a indexar la base de datos NO desde el boton del chatbot
+    Terminal: python -m pruebas_codigo.prueba_indexador    
 """
 import logging
 from src.ingestion.indexador import indexar_documentos
