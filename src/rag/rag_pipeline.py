@@ -20,7 +20,11 @@ from src.rag.retriever import Retriever
 from src.rag.prompt_builder import ConstructorPrompts
 from src.rag.llm_client import LLMClient
 from src.rag.historial import Historial
+from src.rag.context_expander import ContextExpander
+from src.rag.intent_classifier import IntentClassifier
+from src.rag.guided_mode import GuidedMode
 from src.core.models import Mensaje
+from src.knowledge.models import KnowledgeTree, KnowledgeNode
 
 import logging
 
@@ -35,13 +39,20 @@ class RAG:
     del prompt y la generación de la respuesta mediante el LLM.
     """
 
-    def __init__(self):
+    def __init__(self, arbol: KnowledgeTree):
         self.retriever = Retriever()
         self.prompt_builder = ConstructorPrompts()
         self.llm = LLMClient()
         self.historial = Historial()
         self.id_conversacion = str(uuid.uuid4())
 
+        self.context_expander = ContextExpander(
+            arbol,
+            self.historial,
+        )
+
+        self.intent_classifier = IntentClassifier()
+        self.guided_mode = GuidedMode()
 
     def responder(
         self,
@@ -71,12 +82,14 @@ class RAG:
 
         logger.debug("Se han recuperado %d candidatos.", len(candidatos))
 
+        candidatos_expandidos = self.context_expander.expandir(candidatos)
+
         logger.info("Construyendo prompt...")
 
         prompt = self.prompt_builder.construir_prompt(
             historial,
             pregunta,
-            candidatos,
+            candidatos_expandidos,
         )
 
         logger.debug("\n========== PROMPT ==========\n")
