@@ -58,28 +58,40 @@ class Chunk:
     documento: Documento
     indice: int
     texto: str
+    node_id: str | None = None
     titulo: str | None = None
     subtitulo: str | None = None
     seccion: str | None = None
     subseccion: str | None = None
+    apartado: str | None = None
 
-    def jerarquia(self) -> list[str]:
+    def jerarquia_original(self) -> list[str]:
         """
-        Devuelve los niveles de contexto disponibles
-        (titulo, subtitulo, seccion, subseccion),
+        Devuelve la ruta jerárquica original del chunk,
+        conservando exactamente los encabezados del documento.
+        """
+
+        return [
+            parte
+            for parte in (
+                self.titulo,
+                self.subtitulo,
+                self.seccion,
+                self.subseccion,
+                self.apartado,
+            )
+            if parte
+        ]
+
+    def jerarquia_limpia(self) -> list[str]:
+        """
+        Devuelve la ruta jerárquica limpia del chunk,
         eliminando la numeración estructural de los encabezados.
         """
 
         return [
             limpiar_encabezado(parte)
-            
-            for parte in [
-                self.titulo,
-                self.subtitulo,
-                self.seccion,
-                self.subseccion,
-            ]
-            if parte
+            for parte in self.jerarquia_original()
         ]
 
     def texto_plano(self) -> str:
@@ -91,7 +103,29 @@ class Chunk:
         """Devuelve una representación optimizada del chunk para generar embeddings."""
 
         texto_plano = self.texto_plano()
-        return "\n".join(self.jerarquia() + [texto_plano]).lower()
+        return "\n".join(self.jerarquia_limpia() + [texto_plano]).lower()
+
+
+@dataclass(slots=True)
+class ResultadoBusqueda:
+    """
+    Resultado obtenido tras una búsqueda vectorial.
+
+    Contiene el chunk recuperado y la distancia de similitud
+    calculada por la base vectorial.
+    """
+
+    chunk: Chunk
+    distancia: float
+
+
+@dataclass(slots=True)
+class IntentResult:
+    """Resultado de la detección de intención de una pregunta."""
+
+    intencion: str
+    palabras_clave: list[str]
+    metodo: str
 
 
 @dataclass

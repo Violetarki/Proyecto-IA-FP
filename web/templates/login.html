@@ -23,7 +23,7 @@
 
             <a
                 class="enlace-volver"
-                href="{{ url_for('inicio') }}"
+                href="{{ url_for('public.inicio') }}"
             >
                 ← Volver al inicio
             </a>
@@ -61,7 +61,7 @@
 
             <form
                 class="formulario-login"
-                action="{{ url_for('login') }}"
+                action="{{ url_for('auth.login') }}"
                 method="POST"
             >
 

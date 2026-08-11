@@ -5,7 +5,7 @@ procurando que cada uno represente una unidad coherente de conocimiento.
 Reglas de división:
 - El nivel 1 (#) nunca genera un chunk propio; únicamente identifica el
   módulo o unidad y se almacena como contexto del resto de chunks.
-- Los niveles 2, 3 y 4 (##, ###, ####) generan un chunk únicamente cuando
+- Los niveles 2, 3, 4 y 5 (##, ###, ####, #####) generan un chunk únicamente cuando
   contienen texto propio (con independencia de que además tengan hijos,
   que generarán sus propios chunks por separado).
 - Si un encabezado no contiene texto propio, actúa únicamente como nodo
@@ -16,14 +16,12 @@ Reglas de división:
     subtitulo   -> header de nivel 2, si existe en la ruta
     seccion     -> header de nivel 3, si existe en la ruta
     subseccion  -> header de nivel 4, si existe en la ruta
+    apartado    -> header de nivel 5, si existe en la ruta
 """
 
-import re
 import logging
-
 from src.core.models import Chunk, Documento
-
-_HEADER_RE = re.compile(r"^(#{1,4})\s+(.*)")
+from src.ingestion.markdown_parser import MarkdownNode
 
 logger = logging.getLogger(__name__)
 
@@ -34,54 +32,8 @@ _CAMPO_POR_NIVEL = {
     2: "subtitulo",
     3: "seccion",
     4: "subseccion",
+    5: "apartado",
 }
-
-
-class _Nodo:
-    """Nodo interno del árbol de encabezados. No se expone fuera del módulo."""
-
-    __slots__ = ("nivel", "titulo", "lineas", "hijos")
-
-    def __init__(self, nivel: int, titulo: str | None):
-        self.nivel = nivel
-        self.titulo = titulo
-        self.lineas: list[str] = []
-        self.hijos: list["_Nodo"] = []
-        
-    @property
-    def texto(self) -> str:
-        """Devuelve el contenido del nodo como un único texto."""
-        return "\n".join(self.lineas).strip()
-
-
-def _parsear_arbol(texto: str) -> _Nodo:
-    """Construye el árbol de encabezados a partir del texto de un Documento."""
-
-    raiz = _Nodo(nivel=0, titulo=None)
-    pila: list[_Nodo] = [raiz]
-
-    for linea in texto.splitlines():
-        linea_limpia = linea.strip()
-        match = _HEADER_RE.match(linea_limpia)
-
-        if match:
-            nivel = len(match.group(1))
-            titulo = match.group(2).strip()
-
-            # Desapilar hasta encontrar el padre correcto (nivel estrictamente menor)
-            while pila[-1].nivel >= nivel:
-                pila.pop()
-
-            nuevo = _Nodo(nivel=nivel, titulo=titulo)
-            pila[-1].hijos.append(nuevo)
-            pila.append(nuevo)
-        else:
-            if linea_limpia:
-                pila[-1].lineas.append(linea_limpia)
-            elif pila[-1].lineas:
-                pila[-1].lineas.append("")
-
-    return raiz
 
 
 def _guardar_chunk(
@@ -99,7 +51,7 @@ def _guardar_chunk(
         chunks: Lista donde se almacenan los chunks generados.
         documento: Documento al que pertenece el chunk.
         indice: Posición del chunk dentro del documento.
-        contexto: Diccionario con titulo/subtitulo/seccion/subseccion ya resueltos.
+        contexto: Diccionario con titulo/subtitulo/seccion/subseccion/apartado ya resueltos.
         texto: Texto del nodo (ya venido de la property nodo.texto).
 
     Returns:
@@ -116,6 +68,7 @@ def _guardar_chunk(
                 subtitulo=contexto.get("subtitulo"),
                 seccion=contexto.get("seccion"),
                 subseccion=contexto.get("subseccion"),
+                apartado=contexto.get("apartado"),
             )
         )
         indice += 1
@@ -124,7 +77,7 @@ def _guardar_chunk(
 
 
 def _generar_chunks(
-    nodo: _Nodo,
+    nodo: MarkdownNode,
     documento: Documento,
     contexto: dict[str, str | None],
     chunks: list[Chunk],
@@ -133,7 +86,7 @@ def _generar_chunks(
     """
     Recorre el árbol de encabezados generando un Chunk para cada nodo
     de nivel 2 o superior que contenga texto propio, propagando el
-    contexto jerárquico (titulo, subtitulo, seccion y subseccion).
+    contexto jerárquico (titulo, subtitulo, seccion, subseccion, apartado).
     """
 
     nuevo_contexto = contexto
@@ -144,7 +97,7 @@ def _generar_chunks(
         nuevo_contexto[campo] = nodo.titulo
 
         # Si este nodo es, p.ej., un nuevo subtitulo (##), los niveles más
-        # profundos que aún no se han visto (seccion, subseccion) deben
+        # profundos que aún no se han visto (seccion, subseccion, apartado) deben
         # limpiarse para no arrastrar los de una rama anterior del árbol.
         for nivel_mayor, campo_mayor in _CAMPO_POR_NIVEL.items():
             if nivel_mayor > nodo.nivel:
@@ -158,7 +111,7 @@ def _generar_chunks(
     elif nodo.nivel == 1:
         pass
 
-    # Niveles 2, 3 y 4: generan chunk solo si tienen texto propio
+    # Los niveles superiores al 1 generan chunk únicamente si contienen texto propio.
     else:
         indice = _guardar_chunk(chunks, documento, indice, nuevo_contexto, nodo.texto)
 
@@ -169,7 +122,10 @@ def _generar_chunks(
     return indice
 
 
-def crear_chunks_documento(documento: Documento) -> list[Chunk]:
+def crear_chunks_documento(
+    documento: Documento,
+    raiz_markdown: MarkdownNode,
+) -> list[Chunk]:
     """
     Divide un Documento en una lista de Chunk utilizando los encabezados
     Markdown como separadores de secciones, respetando la jerarquía:
@@ -177,23 +133,24 @@ def crear_chunks_documento(documento: Documento) -> list[Chunk]:
 
     Args:
         documento: Documento que se desea fragmentar.
+        raiz_markdown: Árbol de encabezados previamente generado a partir del contenido del documento.
 
     Returns:
         Lista de chunks pertenecientes al documento.
     """
 
-    arbol = _parsear_arbol(documento.texto)
-
     chunks: list[Chunk] = []
+
     contexto_inicial: dict[str, str | None] = {
         "titulo": None,
         "subtitulo": None,
         "seccion": None,
         "subseccion": None,
+        "apartado": None,
     }
 
     _generar_chunks(
-        arbol,
+        raiz_markdown,
         documento=documento,
         contexto=contexto_inicial,
         chunks=chunks,
@@ -203,12 +160,15 @@ def crear_chunks_documento(documento: Documento) -> list[Chunk]:
     return chunks
 
 
-def crear_chunks_documentos(documentos: list[Documento]) -> list[Chunk]:
+def crear_chunks_documentos(
+    documentos: list[Documento], arboles: list[MarkdownNode]
+) -> list[Chunk]:
     """
     Divide una colección de documentos en Chunk.
 
     Args:
         documentos: Lista de documentos.
+        arboles: Lista de árboles de encabezados.
 
     Returns:
         Lista con todos los chunks generados.
@@ -216,9 +176,9 @@ def crear_chunks_documentos(documentos: list[Documento]) -> list[Chunk]:
 
     todos_los_chunks: list[Chunk] = []
 
-    for documento in documentos:
+    for documento, arbol in zip(documentos, arboles):
 
-        chunks_documento = crear_chunks_documento(documento)
+        chunks_documento = crear_chunks_documento(documento, arbol)
 
         todos_los_chunks.extend(chunks_documento)
 

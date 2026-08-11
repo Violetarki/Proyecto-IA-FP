@@ -1,17 +1,19 @@
 """
-Coordina el flujo completo del sistema RAG.
+Coordina el flujo principal del sistema RAG.
 
 Este módulo actúa como punto de entrada al sistema de recuperación
-aumentada por generación (RAG), integrando las distintas etapas del
-proceso:
+aumentada por generación (RAG), coordinando las distintas etapas
+del proceso:
 
-- Recuperar los chunks relevantes mediante el Retriever.
-- Construir el prompt con el contexto recuperado.
+- Recuperar candidatos mediante el Retriever.
+- Obtener el contexto reciente de la conversación.
+- Construir el prompt con la pregunta, el historial y los resultados recuperados.
 - Enviar el prompt al modelo de lenguaje.
+- Guardar la conversación en el historial.
 - Devolver la respuesta generada.
 
-El resto de la aplicación (por ejemplo, el chatbot web) únicamente
-debe interactuar con esta clase.
+El resto de la aplicación, como el chatbot web, interactúa con
+el sistema RAG a través de esta clase.
 """
 
 import uuid
@@ -20,7 +22,12 @@ from src.rag.retriever import Retriever
 from src.rag.prompt_builder import ConstructorPrompts
 from src.rag.llm_client import LLMClient
 from src.rag.historial import Historial
+from src.rag.context_expander import ContextExpander
+from src.rag.intent_classifier import IntentClassifier
+from src.rag.guided_mode import GuidedMode
+from src.rag.guided_context_builder import GuidedContextBuilder
 from src.core.models import Mensaje
+from src.knowledge.models import KnowledgeTree
 
 import logging
 
@@ -28,20 +35,28 @@ logger = logging.getLogger(__name__)
 
 class RAG:
     """
-    Orquesta todas las etapas del sistema RAG.
+    Orquesta las etapas principales del sistema RAG.
 
-    Esta clase constituye la puerta de entrada al sistema de preguntas
-    y respuestas, coordinando la recuperación de contexto, la construcción
-    del prompt y la generación de la respuesta mediante el LLM.
+    Coordina la recuperación de candidatos, el historial de la
+    conversación, la construcción del prompt y la generación
+    de respuestas mediante el modelo de lenguaje.
     """
 
-    def __init__(self):
+    def __init__(self, arbol: KnowledgeTree):
         self.retriever = Retriever()
         self.prompt_builder = ConstructorPrompts()
         self.llm = LLMClient()
         self.historial = Historial()
         self.id_conversacion = str(uuid.uuid4())
 
+        self.context_expander = ContextExpander(
+            arbol,
+            self.historial,
+        )
+
+        self.intent_classifier = IntentClassifier()
+        self.guided_mode = GuidedMode()
+        self.guided_context_builder = GuidedContextBuilder(arbol)
 
     def responder(
         self,
@@ -64,20 +79,38 @@ class RAG:
 
         historial = self.historial.obtener_contexto(self.id_conversacion)
 
-        chunks = self.retriever.recuperar_contexto(
+        candidatos = self.retriever.recuperar_candidatos(
             pregunta,
             metodologia,
         )
 
-        logger.debug("Se han recuperado %d chunks.", len(chunks))
+        logger.debug("Se han recuperado %d candidatos.", len(candidatos))
+
+        candidatos_expandidos = self.context_expander.expandir(candidatos)
 
         logger.info("Construyendo prompt...")
 
-        prompt = self.prompt_builder.construir_prompt(
-            historial,
-            pregunta,
-            chunks,
-        )
+        if self.guided_mode.esta_activo():
+            paso = self.guided_mode.obtener_paso_actual()
+
+            contexto_guiado = self.guided_context_builder.construir(
+                paso=paso,
+                chunks=candidatos_expandidos,
+                progreso=self.guided_mode.progreso,
+            )
+
+            prompt = self.prompt_builder.construir_prompt_guiado(
+                historial,
+                pregunta,
+                contexto_guiado,
+            )
+        else:
+            prompt = self.prompt_builder.construir_prompt(
+                historial,
+                pregunta,
+                candidatos_expandidos,
+            )
+            
 
         logger.debug("\n========== PROMPT ==========\n")
         logger.debug("%s", prompt)

@@ -6,27 +6,57 @@ la lógica específica de ninguna de ellas.
 
 Flujo:
 
-PDF
-↓
-Docling (si es necesario)
-↓
-Markdown limpio (si es necesario)
-↓
-Documento
-↓
-Chunk
-↓
+indexar_documentos()
+        │
+        ▼
+_obtener_markdowns_limpios()
+        │
+        ├── Si existe el .md limpio → lo reutiliza
+        ├── Si solo existe el raw → lo limpia
+        └── Si no existe ninguno → convierte PDF + limpia
+        │
+        ▼
+cargar_documentos()
+        │
+        ▼
+Para cada Documento:
+        │
+        ▼
+parsear_markdown()
+        │
+        ▼
+¿Es un manual con Knowledge?
+        │
+   ┌────┴────┐
+   │         │
+  Sí         No
+   │         │
+crear_arbol  crear_chunks
+crear_chunks
+enlazar
+guardar_json
+   │         │
+   └────┬────┘
+        ▼
+Añadir chunks
+        ▼
 Embeddings
-↓
-Base vectorial
+        ▼
+Vector Store (ChromaDB)
 """
 
 import logging
 from pathlib import Path
+
+from src.core.models import Chunk, Documento
 from src.ingestion.docling_converter import convertir_pdf_a_markdown
 from src.ingestion.text_cleaner import limpiar_archivo_markdown
 from src.ingestion.document_loader import cargar_documentos
-from src.ingestion.chunker import crear_chunks_documentos
+from src.ingestion.markdown_parser import MarkdownNode, parsear_markdown
+from src.knowledge.builder import crear_arbol
+from src.knowledge.linker import enlazar
+from src.knowledge.exporter import guardar_json
+from src.ingestion.chunker import crear_chunks_documento
 from src.rag.embeddings import crear_embeddings_chunks
 from src.rag.vector_store import VectorStore
 
@@ -34,9 +64,73 @@ from src.core.config import (
     CARPETA_DOCUMENTOS,
     CARPETA_MARKDOWN_RAW,
     CARPETA_MARKDOWN_CLEAN,
+    CARPETA_KNOWLEDGE,
+    MANUALES_CON_KNOWLEDGE,
 )
 
 logger = logging.getLogger(__name__)
+
+def _es_manual_con_knowledge(documento: Documento) -> bool:
+    """
+    Indica si el documento debe generar un árbol de conocimiento.
+    """
+
+    return documento.metodologia.nombre in MANUALES_CON_KNOWLEDGE
+
+
+def _procesar_manual(
+    documento: Documento,
+    raiz_markdown: MarkdownNode,
+) -> list[Chunk]:
+    """
+    Procesa un manual con que dispone de árbol de conocimiento.
+
+    Args:
+        documento: Documento a procesar.
+        raiz_markdown: Nodo raíz del Markdown parseado.
+
+    Returns:
+        Lista de chunks generados a partir del documento.
+    """
+
+    arbol = crear_arbol(
+        raiz_markdown,
+        documento.metodologia,
+    )
+
+    chunks = crear_chunks_documento(
+        documento,
+        raiz_markdown,
+    )
+
+    enlazar(
+        arbol,
+        chunks,
+    )
+
+    ruta_json = CARPETA_KNOWLEDGE / f"{documento.nombre}.json"
+
+    guardar_json(
+        arbol,
+        ruta_json,
+    )
+
+    return chunks
+
+
+def _procesar_documento_extra(
+    documento: Documento,
+    raiz_markdown: MarkdownNode,
+) -> list[Chunk]:
+    """
+    Procesa un documento que no genera árbol de conocimiento.
+    """
+
+    return crear_chunks_documento(
+        documento,
+        raiz_markdown,
+    )
+
 
 def indexar_documentos() -> None:
     """
@@ -51,39 +145,64 @@ def indexar_documentos() -> None:
         logger.info("Iniciando indexación...")
 
         markdowns = _obtener_markdowns_limpios()
-        
+
         if not markdowns:
             logger.warning("No hay documentos para indexar.")
             return
-        
-        logger.info("Markdowns obtenidos")
-        logger.info("----------------------------------")
+
+        logger.info(
+            "%d markdowns encontrados.",
+            len(markdowns),
+        )
 
         documentos = cargar_documentos(markdowns)
-        logger.info("Documentos creados")
-        logger.info("----------------------------------")
+        
+        logger.info(
+            "%d documentos cargados.",
+            len(documentos),
+        )
 
-        chunks = crear_chunks_documentos(documentos)
-        logger.info("Chunks de los documentos creados")
-        logger.info("----------------------------------")
+        todos_los_chunks: list[Chunk] = []
 
-        embeddings = crear_embeddings_chunks(chunks)
+        for documento in documentos:
+
+            raiz_markdown = parsear_markdown(documento.texto)
+
+            if _es_manual_con_knowledge(documento):
+                
+                chunks = _procesar_manual(
+                    documento,
+                    raiz_markdown,
+                )
+            else:
+                chunks = _procesar_documento_extra(
+                    documento,
+                    raiz_markdown,
+                )
+
+            todos_los_chunks.extend(chunks)
+            
+        logger.info(
+            "%d chunks generados.",
+            len(todos_los_chunks),
+        )
+
+        embeddings = crear_embeddings_chunks(todos_los_chunks)
+        
         logger.info("Embeddings creados")
-        logger.info("----------------------------------")
 
         vector_store = VectorStore()
 
         vector_store.indexar_chunks(
-            chunks,
+            todos_los_chunks,
             embeddings,
         )
+        
         logger.info("Vectores indexados")
-
         logger.info("Indexación finalizada.")
-        logger.info("----------------------------------")
 
-    except Exception as error:
-        logger.warning("La indexación ha fallado: %s", error)
+    except Exception:
+        logger.exception("La indexación ha fallado.")
         raise
 
 
@@ -122,7 +241,7 @@ def _obtener_markdowns_limpios() -> list[Path]:
 
         # Existe el MD limpio
         if ruta_clean.exists():
-            logger.debug(" Markdown limpio encontrado: %s", ruta_clean.name)
+            logger.debug("Markdown limpio encontrado: %s", ruta_clean.name)
 
             markdowns_limpios.append(ruta_clean)
 

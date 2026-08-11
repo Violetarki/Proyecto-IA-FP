@@ -25,36 +25,66 @@ Actualmente utiliza ChromaDB como base de datos vectorial y Ollama para la ejecu
 
 ```
 PDF
- │
- ▼
+│
+▼
 Docling
- │
- ▼
-Markdown
- │
- ▼
-Limpieza
- │
- ▼
-Chunker
- │
- ▼
-Embeddings
- │
- ▼
-ChromaDB
- │
- ▼
-Retriever
- │
- ▼
-Prompt Builder
- │
- ▼
-LLM
- │
- ▼
-Respuesta
+│
+▼
+Markdown (.md)
+│
+▼
+TextCleaner
+│
+▼
+Markdown limpio (.md)
+│
+▼
+DocumentLoader
+│
+▼
+Documento
+     │
+     ▼
+parsear_markdown()
+     │
+     ▼
+MarkdownNode
+     │
+     ├───────────────┐
+     ▼               ▼
+KnowledgeBuilder   Chunker
+     │               │
+     ▼               ▼
+KnowledgeTree     Chunks
+     │               │
+     └───────┬───────┘
+             ▼
+          Linker
+             │
+             ├── Chunk.node_id
+             └── KnowledgeNode.chunk_ids
+             │
+             ▼
+         Indexador
+             │
+     ┌───────┴────────┐
+     ▼                ▼
+ Knowledge JSON   Embeddings
+                     │
+                     ▼
+                     ChromaDB
+                     │
+                     ▼
+                     Retriever
+                     │
+                     ▼
+                     Prompt Builder
+                     │
+                     ▼
+                     LLM
+                     │
+                     ▼
+                     Respuesta
 ```
 
 ---
@@ -107,26 +137,6 @@ Activarlo.
 
 ```bash
 pip install -r requirements.txt
-```
-
----
-
-# Instalación de Ollama
-
-Instalar Ollama desde:
-
-https://ollama.com
-
-Descargar el modelo:
-
-```bash
-ollama pull gemma3:4b
-```
-
-Comprobar que funciona:
-
-```bash
-ollama run gemma3:4b
 ```
 
 ---
