@@ -4,7 +4,7 @@ import re
 PATRONES_PASOS = [
     r"\bqué pasos\b",
     r"\bcómo\s+(?:hacer|realizar|seguir|llevar a cabo)\b",
-    r"\bqué\s+(?:tengo|debo)\s+que\s+hacer\b",
+    r"\bqué\s+(?:tengo\s+que|debo)\s+hacer\b",
     r"\bguíame\b",
 ]
 

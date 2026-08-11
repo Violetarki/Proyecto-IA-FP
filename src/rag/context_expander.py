@@ -1,7 +1,7 @@
 
 
 from src.core.models import ResultadoBusqueda, Chunk
-from src.core.config import UMBRAL_ACEPTABLE, UMBRAL_BUENO, UMBRAL_EXCELENTE, MAXIMO_CHUNKS, MINIMO_CHUNKS, ESTRATEGIA_DEFAULT
+from src.core.config import UMBRAL_ACEPTABLE, UMBRAL_BUENO, UMBRAL_EXCELENTE, MAXIMO_CHUNKS, MINIMO_CHUNKS
 from src.rag.historial import Historial
 from src.knowledge.models import KnowledgeTree
 
@@ -19,20 +19,16 @@ class ContextExpander:
 
 
 
-    def expandir(self, resultados: list[ResultadoBusqueda], estrategia: dict = None) -> list[Chunk]:
+    def expandir(self, resultados: list[ResultadoBusqueda]) -> list[Chunk]:
 
-        estrategia = estrategia or self.ESTRATEGIA_DEFAULT
 
-        candidatos = self._aplicar_umbrales(resultados, estrategia["umbral"])
+        candidatos = self._aplicar_umbrales(resultados)
 
-        if estrategia.get("incluir_padres", True):
-            candidatos = self._enriquecer_con_padres(candidatos)
+        candidatos = self._enriquecer_con_padres(candidatos)
 
-        if estrategia.get("incluir_hermanos", False):
-            candidatos = self._enriquecer_con_hermanos(candidatos)
+        candidatos = self._enriquecer_con_hermanos(candidatos)
 
-        if estrategia.get("incluir_hijos", False):
-            candidatos = self._enriquecer_con_hijos(candidatos)
+        candidatos = self._enriquecer_con_hijos(candidatos)
 
         candidatos = self._eliminar_duplicados(candidatos)
 
@@ -43,7 +39,6 @@ class ContextExpander:
     def _aplicar_umbrales(
         self,
         resultados: list[ResultadoBusqueda],
-        estrategia: str,
     ) -> list[Chunk]:
         """
         Filtra los chunks recuperados según su relevancia.
