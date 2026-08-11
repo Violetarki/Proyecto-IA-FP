@@ -119,6 +119,15 @@ class ResultadoBusqueda:
     distancia: float
 
 
+@dataclass(slots=True)
+class IntentResult:
+    """Resultado de la detección de intención de una pregunta."""
+
+    intencion: str
+    palabras_clave: list[str]
+    metodo: str
+
+
 @dataclass
 class Mensaje:
     """Representa un mensaje dentro del chatbot.
