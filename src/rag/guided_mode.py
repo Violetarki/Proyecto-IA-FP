@@ -43,15 +43,8 @@ class GuidedMode:
 
 
     def esta_activo(self):
-<<<<<<< HEAD
         return self.activo
 
     def finalizar(self):
         """Finaliza la sesión guiada."""
         self.activo = False
-=======
-        """
-        Indica si existe una sesión de aprendizaje guiado activa.
-        """
-        return self.activo
->>>>>>> e2e1c8e (Actualizar docstrings del flujo RAG)
