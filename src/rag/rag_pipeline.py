@@ -1,17 +1,19 @@
 """
-Coordina el flujo completo del sistema RAG.
+Coordina el flujo principal del sistema RAG.
 
 Este módulo actúa como punto de entrada al sistema de recuperación
-aumentada por generación (RAG), integrando las distintas etapas del
-proceso:
+aumentada por generación (RAG), coordinando las distintas etapas
+del proceso:
 
-- Recuperar los chunks relevantes mediante el Retriever.
-- Construir el prompt con el contexto recuperado.
+- Recuperar candidatos mediante el Retriever.
+- Obtener el contexto reciente de la conversación.
+- Construir el prompt con la pregunta, el historial y los resultados recuperados.
 - Enviar el prompt al modelo de lenguaje.
+- Guardar la conversación en el historial.
 - Devolver la respuesta generada.
 
-El resto de la aplicación (por ejemplo, el chatbot web) únicamente
-debe interactuar con esta clase.
+El resto de la aplicación, como el chatbot web, interactúa con
+el sistema RAG a través de esta clase.
 """
 
 import uuid
@@ -32,11 +34,11 @@ logger = logging.getLogger(__name__)
 
 class RAG:
     """
-    Orquesta todas las etapas del sistema RAG.
+    Orquesta las etapas principales del sistema RAG.
 
-    Esta clase constituye la puerta de entrada al sistema de preguntas
-    y respuestas, coordinando la recuperación de contexto, la construcción
-    del prompt y la generación de la respuesta mediante el LLM.
+    Coordina la recuperación de candidatos, el historial de la
+    conversación, la construcción del prompt y la generación
+    de respuestas mediante el modelo de lenguaje.
     """
 
     def __init__(self, arbol: KnowledgeTree):
