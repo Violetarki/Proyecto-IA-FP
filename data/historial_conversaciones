@@ -42,5 +42,51 @@
             "rol": "bot",
             "contenido": "El contexto proporcionado no contiene información sobre Chupa Chups."
         }
+    ],
+    "2d1aa54d-b4ae-4b68-9034-02defb3a5b86": [
+        {
+            "rol": "user",
+            "contenido": "¿Qué es el marketing?"
+        },
+        {
+            "rol": "bot",
+            "contenido": "El marketing es el proceso mediante el cual las empresas buscan optimizar sus objetivos corporativos identificando y satisfaciendo las necesidades del público destinatario de forma eficiente y diferenciada frente a la competencia.\n\nSus fines incluyen, entre otros, aumentar las ventas, dar a conocer nuevos productos, captar clientes y mejorar la visibilidad en los puntos de venta. Para lograrlo, se centra en dos elementos clave del microentorno:\n\n1.  **El público objetivo:** Comunicándole los beneficios de los productos basándose en la satisfacción de sus deseos y necesidades.\n2.  **La competencia:** Transmitiendo las fortalezas propias y destacando indirectamente las debilidades de las compañías rivales."
+        }
+    ],
+    "9cab2b11-632b-4731-827f-378bf361ca2f": [
+        {
+            "rol": "user",
+            "contenido": "que es DAFO?"
+        },
+        {
+            "rol": "bot",
+            "contenido": "El contexto proporcionado no contiene información sobre qué es el DAFO."
+        }
+    ],
+    "2247d8a6-d573-41ec-ba18-fd8865b01f7c": [
+        {
+            "rol": "user",
+            "contenido": "qué es Chupa Chups?"
+        },
+        {
+            "rol": "bot",
+            "contenido": "Chupa Chups es una compañía dedicada a la fabricación y venta de caramelos con palo. El producto nació en 1958 de la idea de Enric Bernat, quien buscó resolver el problema de que los niños se mancharan las manos al comerse los caramelos tradicionales, añadiéndoles un palo para facilitar su consumo."
+        },
+        {
+            "rol": "user",
+            "contenido": "qué diferencia hay entre Macroentorno y Microentorno?"
+        },
+        {
+            "rol": "bot",
+            "contenido": "La principal diferencia radica en el alcance y la naturaleza de la influencia sobre la empresa:\n\n*   **El Macroentorno** (o entorno general) está formado por factores externos que la empresa **no puede controlar** y que afectan por igual a todas las compañías de una misma zona geográfica. Incluye aspectos económicos, socioculturales, político-legales, tecnológicos y medioambientales. Su impacto en los resultados suele ser menos directo que el del microentorno.\n*   **El Microentorno** (o entorno específico) representa el **entorno inmediato** de la empresa, donde la influencia mutua es mucho más clara y directa. Está compuesto por agentes cercanos como clientes, competencia, proveedores y distribuidores."
+        },
+        {
+            "rol": "user",
+            "contenido": "Tienes algún ejemplo de LEGO?"
+        },
+        {
+            "rol": "bot",
+            "contenido": "El contexto proporcionado no contiene información ni ejemplos relacionados con LEGO."
+        }
     ]
 }

@@ -1,12 +1,16 @@
+from pathlib import Path
 from flask import Blueprint, render_template, request, flash
 
 from src.rag.rag_pipeline import RAG
+from src.knowledge.loader import cargar_arbol
 from web.services.documentos import (
     obtener_metodologias,
     mostrar_nombre_metodologia,
 )
 
-rag = RAG()
+RUTA_ARBOL = Path("data/knowledge/simulacion_empresarial.json")
+arbol = cargar_arbol(RUTA_ARBOL)
+rag = RAG(arbol)
 
 public_bp = Blueprint(
     "public",

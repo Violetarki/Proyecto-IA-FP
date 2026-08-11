@@ -9,11 +9,10 @@ También elimina duplicados y ordena los chunks según su posición
 dentro de la jerarquía de conocimiento.
 """
 
-from src.core.models import ResultadoBusqueda, Chunk
+from src.core.models import IntentResult, ResultadoBusqueda, Chunk
 from src.core.config import UMBRAL_ACEPTABLE, UMBRAL_BUENO, UMBRAL_EXCELENTE, MAXIMO_CHUNKS, MINIMO_CHUNKS
 from src.rag.historial import Historial
 from src.knowledge.models import KnowledgeTree
-
 
 
 class ContextExpander:
@@ -31,10 +30,11 @@ class ContextExpander:
         self.arbol = arbol
         self.historial = historial
 
-
-
-    def expandir(self, resultados: list[ResultadoBusqueda]) -> list[Chunk]:
-
+    def expandir(
+        self,
+        resultados: list[ResultadoBusqueda],
+        intencion: IntentResult,
+    ) -> list[Chunk]:
 
         candidatos = self._aplicar_umbrales(resultados)
 
@@ -47,8 +47,6 @@ class ContextExpander:
         candidatos = self._eliminar_duplicados(candidatos)
 
         return self._ordenar_por_jerarquia(candidatos)
-
-
 
     def _aplicar_umbrales(
         self,
@@ -87,7 +85,6 @@ class ContextExpander:
 
         return aceptables[:MAXIMO_CHUNKS]
 
-
     def _obtener_nodo(
         self,
         node_id: str,
@@ -99,7 +96,6 @@ class ContextExpander:
         """
 
         return self._buscar_nodo(self.arbol.raiz, node_id)
-
 
     def _buscar_nodo(
         self,
@@ -122,8 +118,6 @@ class ContextExpander:
                 return encontrado
 
         return None
-
-
 
     def _enriquecer_con_padres(
         self,
@@ -190,8 +184,6 @@ class ContextExpander:
 
         return resultado
 
-
-
     def _enriquecer_con_hijos(
         self,
         chunks: list[Chunk],
@@ -226,7 +218,6 @@ class ContextExpander:
 
         return resultado
 
-
     def _eliminar_duplicados(
         self,
         chunks: list[Chunk],
@@ -247,7 +238,6 @@ class ContextExpander:
 
         return resultado
 
-
     def _ruta_nodo(self, nodo):
         """
         Obtiene la ruta jerárquica de un nodo dentro del árbol.
@@ -260,7 +250,6 @@ class ContextExpander:
             nodo = nodo.padre
 
         return tuple(reversed(ruta))
-
 
     def _ordenar_por_jerarquia(
         self,

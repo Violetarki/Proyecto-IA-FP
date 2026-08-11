@@ -6,11 +6,26 @@ registra los Blueprints y establece la configuración global.
 """
 
 import os
+import logging
+from pathlib import Path
 from flask import Flask
 
 from web.public import public_bp
 from web.auth import auth_bp
 from web.profesor import profesor_bp
+
+Path("data/logs").mkdir(exist_ok=True)
+
+logging.basicConfig(
+    filename="data/logs/rag.log",
+    level=logging.DEBUG,
+    format="%(asctime)s | %(levelname)s | %(name)s | %(message)s",
+    encoding="utf-8",
+)
+
+werkzeug_logger = logging.getLogger("werkzeug")
+werkzeug_logger.propagate = False
+werkzeug_logger.addHandler(logging.StreamHandler())
 
 
 app = Flask(
