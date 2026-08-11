@@ -41,3 +41,4 @@ iniciar_tunel.bat
 # Ignorar todo el contenido de la carpeta knowledge excepto el archivo que mantiene la carpeta
 data/knowledge/*
 !data/knowledge/.gitkeep
+data/logs/rag.log
