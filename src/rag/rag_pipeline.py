@@ -25,6 +25,7 @@ from src.rag.historial import Historial
 from src.rag.context_expander import ContextExpander
 from src.rag.intent_classifier import IntentClassifier
 from src.rag.guided_mode import GuidedMode
+from src.rag.guided_context_builder import GuidedContextBuilder
 from src.core.models import Mensaje
 from src.knowledge.models import KnowledgeTree, KnowledgeNode
 
@@ -55,6 +56,7 @@ class RAG:
 
         self.intent_classifier = IntentClassifier()
         self.guided_mode = GuidedMode()
+        self.guided_context_builder = GuidedContextBuilder(arbol)
 
     def responder(
         self,
@@ -88,11 +90,28 @@ class RAG:
 
         logger.info("Construyendo prompt...")
 
-        prompt = self.prompt_builder.construir_prompt(
-            historial,
-            pregunta,
-            candidatos_expandidos,
-        )
+
+        if self.guided_mode.esta_activo():
+            paso = self.guided_mode.obtener_paso_actual()
+
+            contexto_guiado = self.guided_context_builder.construir(
+                paso=paso,
+                chunks=candidatos_expandidos,
+                progreso=self.guided_mode.progreso,
+            )
+
+            prompt = self.prompt_builder.construir_prompt_guiado(
+                historial,
+                pregunta,
+                contexto_guiado,
+            )
+        else:
+            prompt = self.prompt_builder.construir_prompt(
+                historial,
+                pregunta,
+                candidatos_expandidos,
+            )
+            
 
         logger.debug("\n========== PROMPT ==========\n")
         logger.debug("%s", prompt)
