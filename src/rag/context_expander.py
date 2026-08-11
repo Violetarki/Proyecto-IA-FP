@@ -12,7 +12,7 @@ dentro de la jerarquía de conocimiento.
 from src.core.models import IntentResult, ResultadoBusqueda, Chunk
 from src.core.config import UMBRAL_ACEPTABLE, UMBRAL_BUENO, UMBRAL_EXCELENTE, MAXIMO_CHUNKS, MINIMO_CHUNKS
 from src.rag.historial import Historial
-from src.knowledge.models import KnowledgeTree
+from src.knowledge.models import KnowledgeNode, KnowledgeTree
 
 
 class ContextExpander:
@@ -23,11 +23,14 @@ class ContextExpander:
     """
 
     def __init__(
-        self,
-        arbol: KnowledgeTree,
-        historial: Historial
-    ):
-        self.arbol = arbol
+        self, 
+        arboles: dict[str, KnowledgeTree], 
+        historial: Historial,
+        ):
+        """
+        Inicializa el expandidor de contexto con los árboles de conocimiento y el historial.
+        """
+        self.arboles = arboles
         self.historial = historial
 
     def expandir(
@@ -85,23 +88,59 @@ class ContextExpander:
 
         return aceptables[:MAXIMO_CHUNKS]
 
+    def _obtener_arbol(
+        self,
+        chunk: Chunk,
+    ) -> KnowledgeTree | None:
+
+        return self.arboles.get(
+            chunk.documento.nombre
+        )
+
+    def _clave_chunk(
+        self, 
+        chunk: Chunk,
+        ) -> tuple[str, int]:
+        
+        return (
+            chunk.documento.ruta,
+            chunk.indice,
+        )
+        
+
+    def _clave_chunk_id(
+        self,
+        chunk: Chunk,
+        chunk_id: int,
+    ) -> tuple[str, int]:
+
+        return (
+            chunk.documento.ruta,
+            chunk_id,
+        )
+        
+
     def _obtener_nodo(
         self,
-        node_id: str,
-    ):
-        """
-        Obtiene un nodo del árbol a partir de su node_id.
+        chunk: Chunk,
+    ) -> KnowledgeNode | None:
 
-        Devuelve None si el nodo no existe.
-        """
+        arbol = self._obtener_arbol(chunk)
 
-        return self._buscar_nodo(self.arbol.raiz, node_id)
+        if arbol is None or chunk.node_id is None:
+            return None
+
+        return self._buscar_nodo(
+            arbol.raiz,
+            chunk.node_id,
+        )
+        
 
     def _buscar_nodo(
         self,
-        nodo,
+        nodo: KnowledgeNode,
         node_id: str,
-    ):
+    ) -> KnowledgeNode | None:
         """
         Busca recursivamente un nodo del árbol a partir de su identificador.
 
@@ -130,21 +169,23 @@ class ContextExpander:
 
         resultado = chunks.copy()
 
-        chunks_por_indice = {
-            chunk.indice: chunk
-            for chunk in chunks
-        }
+        chunks_por_clave = {self._clave_chunk(chunk): chunk for chunk in chunks}
 
         for chunk in chunks:
 
-            nodo = self._obtener_nodo(chunk.node_id)
+            nodo = self._obtener_nodo(chunk)
 
             if nodo is None or nodo.padre is None:
                 continue
 
             for chunk_id in nodo.padre.chunk_ids:
 
-                chunk_padre = chunks_por_indice.get(chunk_id)
+                clave = self._clave_chunk_id(
+                    chunk,
+                    chunk_id,
+                )
+
+                chunk_padre = chunks_por_clave.get(clave)
 
                 if chunk_padre is not None:
                     resultado.append(chunk_padre)
@@ -162,14 +203,10 @@ class ContextExpander:
 
         resultado = chunks.copy()
 
-        chunks_por_indice = {
-            chunk.indice: chunk
-            for chunk in chunks
-        }
+        chunks_por_clave = {self._clave_chunk(chunk): chunk for chunk in chunks}
 
         for chunk in chunks:
-            nodo = self._obtener_nodo(chunk.node_id)
-
+            nodo = self._obtener_nodo(chunk)
             if nodo is None or nodo.padre is None:
                 continue
 
@@ -177,7 +214,9 @@ class ContextExpander:
                 if chunk_id == chunk.indice:
                     continue
 
-                chunk_hermano = chunks_por_indice.get(chunk_id)
+                clave = self._clave_chunk_id(chunk, chunk_id)
+
+                chunk_hermano = chunks_por_clave.get(clave)
 
                 if chunk_hermano is not None:
                     resultado.append(chunk_hermano)
@@ -195,14 +234,10 @@ class ContextExpander:
 
         resultado = chunks.copy()
 
-        chunks_por_indice = {
-            chunk.indice: chunk
-            for chunk in chunks
-        }
+        chunks_por_clave = {self._clave_chunk(chunk): chunk for chunk in chunks}
 
         for chunk in chunks:
-            nodo = self._obtener_nodo(chunk.node_id)
-
+            nodo = self._obtener_nodo(chunk)
             if nodo is None:
                 continue
 
@@ -211,7 +246,9 @@ class ContextExpander:
                     if chunk_id == chunk.indice:
                         continue
 
-                    chunk_hijo = chunks_por_indice.get(chunk_id)
+                    clave = self._clave_chunk_id(chunk, chunk_id)
+
+                    chunk_hijo = chunks_por_clave.get(clave)
 
                     if chunk_hijo is not None:
                         resultado.append(chunk_hijo)
@@ -230,51 +267,48 @@ class ContextExpander:
         resultado = []
 
         for chunk in chunks:
-            if chunk.indice in vistos:
+
+            clave = (
+                chunk.documento.ruta,
+                chunk.indice,
+            )
+
+            if clave in vistos:
                 continue
 
-            vistos.add(chunk.indice)
+            vistos.add(clave)
             resultado.append(chunk)
 
         return resultado
 
-    def _ruta_nodo(self, nodo):
-        """
-        Obtiene la ruta jerárquica de un nodo dentro del árbol.
-        """
+    def _ruta_nodo(
+        self,
+        nodo: KnowledgeNode,
+    ) -> tuple[int, ...]:
 
         ruta = []
 
-        while nodo is not None:
-            ruta.append(nodo.nivel)
+        while nodo.padre is not None:
+            posicion = nodo.padre.hijos.index(nodo)
+            ruta.append(posicion)
             nodo = nodo.padre
 
-        return tuple(reversed(ruta))
+        ruta.append(0)
 
+        return tuple(reversed(ruta))
+    
+    
     def _ordenar_por_jerarquia(
         self,
         chunks: list[Chunk],
     ) -> list[Chunk]:
-        """
-        Ordena los chunks según su posición en el KnowledgeTree.
-        """
 
         def clave(chunk: Chunk):
-            nodo = self._obtener_nodo(chunk.node_id)
+            nodo = self._obtener_nodo(chunk)
 
             if nodo is None:
                 return (float("inf"),)
 
-            ruta = []
-            actual = nodo
-
-            while actual.padre is not None:
-                posicion = actual.padre.hijos.index(actual)
-                ruta.append(posicion)
-                actual = actual.padre
-
-            ruta.append(0)
-
-            return tuple(reversed(ruta))
+            return self._ruta_nodo(nodo)
 
         return sorted(chunks, key=clave)

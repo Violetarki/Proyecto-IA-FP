@@ -10,6 +10,40 @@ Responsabilidades:
 - Recuperar los candidatos obtenidos por similitud vectorial.
 
 Este módulo desacopla el sistema RAG de la implementación concreta de la base de datos vectorial.
+
+Arquitectura:
+                    PREGUNTA
+                       │
+                       ▼
+                  RAG.responder()
+                       │
+                       ▼
+                  ┌──────────┐
+                  │ Retriever│
+                  └────┬─────┘
+                       │
+             metodología = simulacion_empresarial
+                       │
+                       ▼
+                 VectorStore
+                       │
+          ┌────────────┴────────────┐
+          │                         │
+ simulacion_empresarial.md   se_material_complementario.md
+          │                         │
+          └────────────┬────────────┘
+                       │
+                       ▼
+              candidatos recuperados
+                       │
+                       ▼
+               ContextExpander
+                       │
+             usa node_id del Chunk
+                       │
+          ┌────────────┴────────────┐
+          ▼                         ▼
+ árbol simulacion          árbol complementario
 """
 
 import logging

@@ -42,19 +42,22 @@ class RAG:
     de respuestas mediante el modelo de lenguaje.
     """
 
-    def __init__(self, arbol: KnowledgeTree):
+    def __init__(self, arboles: dict[str, KnowledgeTree]):
+        """
+        Inicializa el sistema RAG con los árboles de conocimiento
+        """
+
         self.retriever = Retriever()
         self.prompt_builder = ConstructorPrompts()
         self.llm = LLMClient()
         self.historial = Historial()
         self.id_conversacion = str(uuid.uuid4())
-
+        self.intent_classifier = IntentClassifier()
         self.context_expander = ContextExpander(
-            arbol,
+            arboles,
             self.historial,
         )
 
-        self.intent_classifier = IntentClassifier()
         # self.guided_mode = GuidedMode()
         # self.guided_context_builder = GuidedContextBuilder(arbol)
 
@@ -92,13 +95,22 @@ class RAG:
             pregunta,
             metodologia,
         )       
-        
-        logger.debug("Se han recuperado %d candidatos.", len(candidatos))
-        
+
+        logger.info(
+            "Consulta RAG | metodología=%s | candidatos=%d",
+            metodologia,
+            len(candidatos),
+        )
+
         for candidato in candidatos:
             logger.debug(
-                "Chunk recuperado: %s | distancia: %.3f",
+                "Chunk recuperado | documento=%s | ruta=%s | "
+                "título=%s | node_id=%s | índice=%d | distancia=%.3f",
+                candidato.chunk.documento.nombre,
+                candidato.chunk.documento.ruta,
                 candidato.chunk.titulo,
+                candidato.chunk.node_id,
+                candidato.chunk.indice,
                 candidato.distancia,
             )
 
