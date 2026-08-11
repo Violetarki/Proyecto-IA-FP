@@ -53,6 +53,11 @@ def chat():
             "",
         ).strip()
 
+        modo = request.form.get(
+            "modo",
+            "normal",
+        )
+
         if not pregunta:
             flash(
                 "Debes escribir una pregunta.",
@@ -64,19 +69,31 @@ def chat():
                 ("Debes seleccionar una " "metodología válida."),
                 "error",
             )
-
-        else:
+        elif modo == "normal":
             try:
                 rag.responder(
                     pregunta=pregunta,
-                    metodologia=(metodologia_seleccionada),
+                    metodologia=metodologia_seleccionada,
                 )
 
             except Exception as error:
                 flash(
-                    ("No se ha podido generar " f"la respuesta: {error}"),
+                    (
+                        "No se ha podido generar "
+                        f"la respuesta: {error}"
+                    ),
                     "error",
                 )
+
+        elif modo == "guiado":
+            flash(
+                (
+                    "El modo guiado está preparado "
+                    "para su integración."
+                ),
+                "informacion",
+            )
+
 
     conversacion = rag.historial.obtener_historial(rag.id_conversacion)
 
