@@ -79,8 +79,8 @@ class ContextStrategies:
             anadir_hijos=False,
         )
             
-    def otro(self) -> EstrategiaContexto:
-        """Estrategia para intención otro-default cuando no se aclara que intencion coger"""
+    def otra(self) -> EstrategiaContexto:
+        """Estrategia para intención otra -default cuando no se aclara que intencion coger"""
         
         return EstrategiaContexto(
             umbral_excelente=0.5,

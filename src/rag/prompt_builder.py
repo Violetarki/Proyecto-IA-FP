@@ -24,6 +24,13 @@ INSTRUCCIONES = (
     "Explica la respuesta con tus propias palabras.\n"
     "Combina la información de varios fragmentos cuando sea necesario.\n"
     "Limita la respuesta a lo necesario para responder la pregunta."
+    
+    # Posible mejorado prompt:
+    
+    # El contexto proporcionado contiene la información que debes utilizar para responder.
+    # El historial solo sirve para entender posibles referencias a preguntas anteriores.
+    # Prioriza siempre la pregunta actual y el contexto recuperado.
+    # No utilices información del historial para responder si no está respaldada por el contexto actual.
 )
 
 INSTRUCCIONES_GUIADO = (

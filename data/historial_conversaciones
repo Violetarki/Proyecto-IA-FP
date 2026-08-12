@@ -310,5 +310,39 @@
             "rol": "bot",
             "contenido": "El crowdfunding, también conocido como micromecenazgo, es una fuente de financiación que consiste en obtener recursos para un proyecto empresarial a través de las pequeñas aportaciones económicas realizadas por muchas personas.\n\nEsta modalidad se ha popularizado gracias al desarrollo de Internet, las redes sociales y los sistemas de micropagos telemáticos. Los beneficios que reciben los contribuyentes varían según el proyecto; por ejemplo, pueden recibir reconocimientos, productos o servicios relacionados con la iniciativa financiada. Existen diversas plataformas que facilitan este proceso, algunas de ellas especializadas en sectores concretos."
         }
+    ],
+    "2073d2e0-8896-4262-a835-eabdc0e9c094": [
+        {
+            "rol": "user",
+            "contenido": "¿Qué es el fondo de maniobra?"
+        },
+        {
+            "rol": "bot",
+            "contenido": "El fondo de maniobra es una magnitud financiera que mide la capacidad de una empresa para hacer frente a sus deudas inmediatas y continuar con sus actividades en el corto plazo, indicando así su solvencia.\n\nSe calcula restando el total de los pasivos de corto plazo al total de los activos de corto plazo (activos corrientes). Representa el excedente de recursos disponibles frente a las obligaciones urgentes.\n\nAdemás, se puede entender como la parte del activo corriente que se financia con recursos a largo plazo (pasivo no corriente o patrimonio neto). Cuanto mayor sea este monto, mayor será el margen de actuación de la empresa, lo que ayuda a evitar tensiones de tesorería y mantiene un fondo de maniobra positivo."
+        },
+        {
+            "rol": "user",
+            "contenido": "¿Cuáles son los pasos para realizar un plan de empresa?"
+        },
+        {
+            "rol": "bot",
+            "contenido": "Basado en el contexto proporcionado, no se describe una lista secuencial de pasos generales para realizar un plan de empresa, sino que se explica cómo se va construyendo y actualizando a lo largo de las diferentes unidades de la simulación empresarial.\n\nEl proceso implica:\n\n1.  **Sintetizar y formalizar:** Dar forma al negocio concretando aspectos prácticos (productos, precios, clientes, distribución, gastos, financiación, organigrama, etc.) y cuidar la presentación y el estilo formal.\n2.  **Desarrollar los primeros apartados:**\n    *   **Idea de negocio:** Exponer la idea, justificar la elección, la innovación, la ubicación y los elementos diferenciales. Incluir nombre, logotipo y referencias visuales. Este contenido debe revisarse continuamente a medida que avanza el proyecto.\n    *   **Socios:** Adjuntar los currículums, destacar los puntos fuertes y las áreas que cubre cada socio, teniendo en cuenta que este documento será evaluado por bancos e inversores.\n3.  **Integrar decisiones posteriores:** A medida que avanzan las unidades, se deben incorporar de forma coherente las decisiones tomadas en fases previas.\n4.  **Añadir los planes específicos:**\n    *   **Plan de marketing:** Detallar las acciones, objetivos, medios de promoción y presupuesto.\n    *   **Plan de Recursos Humanos ("
+        },
+        {
+            "rol": "user",
+            "contenido": "Ponme un ejemplo de financiación a corto plazo."
+        },
+        {
+            "rol": "bot",
+            "contenido": "Un ejemplo de financiación a corto plazo es el programa de \"Pronto pago para proveedores\" implementado por Walmart. Esta cadena comercial utilizó esta herramienta para asegurar el abastecimiento de sus almacenes durante la campaña promocional \"Buen Fin\", ofreciendo condiciones ventajosas a cambio de pagos inmediatos."
+        },
+        {
+            "rol": "user",
+            "contenido": "¿Qué diferencia hay entre financiación propia y financiación ajena?"
+        },
+        {
+            "rol": "bot",
+            "contenido": "Basado en el contexto proporcionado, no se describe la financiación propia, por lo que no es posible establecer las diferencias entre ambas.\n\nEl texto solo define la **financiación ajena** como aquella en la que la empresa obtiene recursos económicos de entidades externas. Se caracteriza por tener un coste (intereses) y permite al empresa apalancarse, es decir, mejorar su rentabilidad económica al utilizar dinero de terceros para generar más negocio."
+        }
     ]
 }

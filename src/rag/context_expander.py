@@ -370,8 +370,8 @@ class ContextExpander:
         if intencion.intencion == "comparacion":
             return self.strategies.comparacion()
                 
-        if intencion.intencion == "otro":
-            return self.strategies.otro()
+        if intencion.intencion == "otra":
+            return self.strategies.otra()
 
         raise ValueError(
             f"Intención no soportada: {intencion.intencion}"
