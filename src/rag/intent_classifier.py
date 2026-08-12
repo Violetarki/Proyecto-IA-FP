@@ -9,6 +9,7 @@ class IntentClassifier:
     INTENCIONES = {
         "consulta_conceptual",
         "pasos",
+        "ejemplo_actividad",
         "comparacion",
         "otra",
     }
