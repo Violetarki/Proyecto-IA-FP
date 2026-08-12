@@ -357,6 +357,9 @@ class ContextExpander:
 
         if intencion.intencion == "consulta_conceptual":
             return self.strategies.consulta_conceptual()
+        
+        if intencion.intencion == "pasos":
+            return self.strategies.pasos()
 
         raise ValueError(
             f"Intención no soportada: {intencion.intencion}"

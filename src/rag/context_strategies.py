@@ -30,3 +30,14 @@ class ContextStrategies:
             anadir_hermanos=False,
             anadir_hijos=False,
         )
+        
+    def pasos(self) -> EstrategiaContexto:
+        """Estrategia para intención pasos"""
+        return EstrategiaContexto(
+            umbral_excelente=0.5,
+            umbral_bueno=0.8,
+            umbral_aceptable=1.0,
+            anadir_padres=False,
+            anadir_hermanos=False,
+            anadir_hijos=False,
+        )
