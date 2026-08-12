@@ -233,7 +233,10 @@
         const estadoCarga = document.getElementById("estado-carga");
 
         function bajarAlFinal() {
-            ventanaChat.scrollTop = ventanaChat.scrollHeight;
+            ventanaChat.scrollTo({
+                top: ventanaChat.scrollHeight,
+                behavior: "smooth"
+            });
         }
 
         window.addEventListener("load", bajarAlFinal);
