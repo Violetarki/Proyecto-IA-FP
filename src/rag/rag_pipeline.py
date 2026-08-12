@@ -24,8 +24,8 @@ from src.rag.llm_client import LLMClient
 from src.rag.historial import Historial
 from src.rag.context_expander import ContextExpander
 from src.rag.intent_classifier import IntentClassifier
-# from src.rag.guided_mode import GuidedMode
-# from src.rag.guided_context_builder import GuidedContextBuilder
+from src.rag.guided_mode import GuidedMode
+from src.rag.guided_context_builder import GuidedContextBuilder
 from src.core.models import Mensaje
 from src.knowledge.models import KnowledgeTree
 
@@ -53,13 +53,14 @@ class RAG:
         self.historial = Historial()
         self.id_conversacion = str(uuid.uuid4())
         self.intent_classifier = IntentClassifier()
+
         self.context_expander = ContextExpander(
             arboles,
             self.historial,
         )
 
-        # self.guided_mode = GuidedMode()
-        # self.guided_context_builder = GuidedContextBuilder(arbol)
+        self.guided_mode = GuidedMode()
+        self.guided_context_builder = GuidedContextBuilder(arboles)
 
     def responder(
         self,
@@ -118,26 +119,26 @@ class RAG:
 
         logger.info("Construyendo prompt...")
 
-        # if self.guided_mode.esta_activo():
-        #     paso = self.guided_mode.obtener_paso_actual()
+        if self.guided_mode.esta_activo():
+            paso = self.guided_mode.obtener_paso_actual()
 
-        #     contexto_guiado = self.guided_context_builder.construir(
-        #         paso=paso,
-        #         chunks=candidatos_expandidos,
-        #         progreso=self.guided_mode.progreso,
-        #     )
+            contexto_guiado = self.guided_context_builder.construir(
+                paso=paso,
+                chunks=candidatos_expandidos,
+                progreso=self.guided_mode.progreso,
+            )
 
-        #     prompt = self.prompt_builder.construir_prompt_guiado(
-        #         historial,
-        #         pregunta,
-        #         contexto_guiado,
-        #     )
-        # else:
-        prompt = self.prompt_builder.construir_prompt(
-            historial,
-            pregunta,
-            candidatos_expandidos,
-        )
+            prompt = self.prompt_builder.construir_prompt_guiado(
+                historial,
+                pregunta,
+                contexto_guiado,
+            )
+        else:
+            prompt = self.prompt_builder.construir_prompt(
+                historial,
+                pregunta,
+                candidatos_expandidos,
+            )
 
         logger.debug("\n========== PROMPT ==========\n")
         logger.debug("%s", prompt)
