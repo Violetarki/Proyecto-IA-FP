@@ -638,6 +638,41 @@ h3 {
     }
 }
 
+/* Estado de carga del chatbot */
+
+.estado-carga {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-top: 14px;
+    color: #4b5563;
+    font-size: 14px;
+}
+
+.estado-carga[hidden] {
+    display: none;
+}
+
+.spinner {
+    width: 18px;
+    height: 18px;
+    border: 3px solid #dbe4ef;
+    border-top-color: #1e3a8a;
+    border-radius: 50%;
+    animation: girar 0.8s linear infinite;
+}
+
+@keyframes girar {
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+.boton:disabled {
+    cursor: not-allowed;
+    opacity: 0.55;
+}
+
 /* ===========================
    IMPRESIÓN Y PDF
 =========================== */
