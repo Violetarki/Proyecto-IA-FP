@@ -6,8 +6,8 @@ class GuidedContextBuilder:
     """Construye el contexto necesario para el modo de aprendizaje guiado."""
 
 
-    def __init__(self, arbol: KnowledgeTree):
-        self.arbol = arbol
+    def __init__(self, arboles: dict[str, KnowledgeTree]):
+        self.arboles = arboles
 
 
     def construir(
@@ -27,7 +27,7 @@ class GuidedContextBuilder:
         chunks_paso = [
             chunk
             for chunk in chunks
-            if chunk.node_id == paso.id
+                if chunk.node_id == paso.id
         ]
 
         return {
