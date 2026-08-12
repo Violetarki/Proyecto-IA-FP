@@ -66,6 +66,7 @@ class RAG:
         self,
         pregunta: str,
         metodologia: str,
+        modo_guiado: bool = False,
     ) -> str:
 
         """
@@ -119,7 +120,20 @@ class RAG:
 
         logger.info("Construyendo prompt...")
 
+
+        guia_iniciada = False
+
+        if modo_guiado and not self.guided_mode.esta_activo():
+            arbol = self.arboles[metodologia]
+            self.guided_mode.iniciar(arbol.raiz)
+            guia_iniciada = True
+
+
         if self.guided_mode.esta_activo():
+            
+            if not guia_iniciada:
+                self.guided_mode.procesar_respuesta(pregunta)
+
             paso = self.guided_mode.obtener_paso_actual()
 
             contexto_guiado = self.guided_context_builder.construir(
