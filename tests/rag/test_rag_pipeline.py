@@ -398,8 +398,133 @@ class TestRAG(unittest.TestCase):
             "RESPUESTA",
         )
 
+    @patch("src.rag.rag_pipeline.IntentClassifier")
+    @patch("src.rag.rag_pipeline.ContextExpander")
+    @patch("src.rag.rag_pipeline.Historial")
+    @patch("src.rag.rag_pipeline.LLMClient")
+    @patch("src.rag.rag_pipeline.Retriever")
+    def test_responder_finaliza_guia(
+        self,
+        mock_retriever_cls,
+        mock_llm_cls,
+        mock_historial_cls,
+        mock_context_expander_cls,
+        mock_intent_classifier_cls,
+    ):
+        """Comprueba que finaliza la guía sin consultar al LLM."""
 
-            
+        retriever = mock_retriever_cls.return_value
+        llm = mock_llm_cls.return_value
+        historial = mock_historial_cls.return_value
+        context_expander = mock_context_expander_cls.return_value
+        intent_classifier = mock_intent_classifier_cls.return_value
+
+        historial.obtener_contexto.return_value = []
+
+        retriever.recuperar_candidatos.return_value = []
+        context_expander.expandir.return_value = []
+        intent_classifier.clasificar.return_value = Mock()
+
+        llm.generar_respuesta.return_value = "RESPUESTA"
+
+        rag = RAG(self.arboles)
+
+        # Inicia la guía y la coloca en el último paso.
+        rag.guided_mode.iniciar(self.raiz)
+        rag.guided_mode.paso_actual = 1
+
+        respuesta = rag.responder(
+            "Respuesta final del alumno",
+            "lean_startup",
+            modo_guiado=True,
+        )
+
+        self.assertFalse(
+            rag.guided_mode.esta_activo(),
+        )
+
+        self.assertEqual(
+            respuesta,
+            "¡Guía acabada, buen trabajo!",
+        )
+
+        llm.generar_respuesta.assert_not_called()
+
+    @patch("src.rag.rag_pipeline.IntentClassifier")
+    @patch("src.rag.rag_pipeline.ContextExpander")
+    @patch("src.rag.rag_pipeline.Historial")
+    @patch("src.rag.rag_pipeline.LLMClient")
+    @patch("src.rag.rag_pipeline.Retriever")
+    def test_responder_finaliza_guia_guarda_historial(
+        self,
+        mock_retriever_cls,
+        mock_llm_cls,
+        mock_historial_cls,
+        mock_context_expander_cls,
+        mock_intent_classifier_cls,
+    ):
+        """Comprueba que guarda en el historial la finalización de la guía."""
+
+        retriever = mock_retriever_cls.return_value
+        llm = mock_llm_cls.return_value
+        historial = mock_historial_cls.return_value
+        context_expander = mock_context_expander_cls.return_value
+        intent_classifier = mock_intent_classifier_cls.return_value
+
+        historial.obtener_contexto.return_value = []
+
+        retriever.recuperar_candidatos.return_value = []
+        context_expander.expandir.return_value = []
+        intent_classifier.clasificar.return_value = Mock()
+
+        rag = RAG(self.arboles)
+
+        # Coloca la guía en el último paso.
+        rag.guided_mode.iniciar(self.raiz)
+        rag.guided_mode.paso_actual = 1
+
+        respuesta = rag.responder(
+            "Respuesta final del alumno",
+            "lean_startup",
+            modo_guiado=True,
+        )
+
+        self.assertEqual(
+            respuesta,
+            "¡Guía acabada, buen trabajo!",
+        )
+
+        self.assertEqual(
+            historial.agregar_mensaje.call_count,
+            2,
+        )
+
+        primera = historial.agregar_mensaje.call_args_list[0]
+        segunda = historial.agregar_mensaje.call_args_list[1]
+
+        self.assertEqual(
+            primera.args[1].rol,
+            "user",
+        )
+
+        self.assertEqual(
+            primera.args[1].contenido,
+            "Respuesta final del alumno",
+        )
+
+        self.assertEqual(
+            segunda.args[1].rol,
+            "bot",
+        )
+
+        self.assertEqual(
+            segunda.args[1].contenido,
+            "¡Guía acabada, buen trabajo!",
+        )
+
+        llm.generar_respuesta.assert_not_called()
+
+
 if __name__ == "__main__":
     unittest.main()
     
