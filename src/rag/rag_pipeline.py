@@ -53,6 +53,7 @@ class RAG:
         self.historial = Historial()
         self.id_conversacion = str(uuid.uuid4())
         self.intent_classifier = IntentClassifier()
+        self.arboles = arboles
 
         self.context_expander = ContextExpander(
             arboles,
