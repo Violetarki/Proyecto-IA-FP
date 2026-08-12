@@ -172,5 +172,41 @@
             "rol": "bot",
             "contenido": "La principal diferencia radica en el origen de los fondos y la naturaleza de la inversión:\n\n*   El **capital social** es el dinero o bienes aportados directamente por los socios fundadores. Constituye el inicio de la financiación y demuestra que los socios arriesgan su propio patrimonio, lo cual es un requisito para obtener financiación externa.\n*   El **capital riesgo** (o *venture capital*) proviene de una empresa externa que invierte temporalmente en compañías con alto potencial de crecimiento. A cambio, esta firma adquiere participaciones o acciones, convirtiéndose en un socio temporal que busca obtener un beneficio al vender dichas participaciones a un precio mayor cuando la empresa haya \"despegado\"."
         }
+    ],
+    "b95de12e-d998-45db-815f-957ebd1c82a3": [
+        {
+            "rol": "user",
+            "contenido": "¿Qué es el estudio de mercado?"
+        },
+        {
+            "rol": "bot",
+            "contenido": "El estudio de mercado es una herramienta que permite a la empresa analizar factores clave como el poder adquisitivo de los consumidores, las estrategias de la competencia y la disponibilidad de proveedores y distribuidores. Su principal objetivo es determinar la viabilidad de una actividad económica, y sus resultados suelen resumirse mediante un análisis DAFO."
+        },
+        {
+            "rol": "user",
+            "contenido": "¿Qué significa emprendimiento social?"
+        },
+        {
+            "rol": "bot",
+            "contenido": "El emprendimiento social es una iniciativa orientada a lograr un fin social, donde el objetivo principal no es obtener lucro, sino generar un impacto positivo y sostenible en la sociedad o el medio ambiente mediante métodos innovadores.\n\nLos emprendedores sociales utilizan estructuras empresariales para abordar problemas específicos, como la pobreza, la exclusión social, la falta de acceso a la educación o la salud, así como para promover la sostenibilidad ambiental y la integración de grupos vulnerables."
+        },
+        {
+            "rol": "user",
+            "contenido": "¿Qué características tiene un emprendedor?"
+        },
+        {
+            "rol": "bot",
+            "contenido": "Un emprendedor se define como alguien que detecta oportunidades de negocio y organiza los recursos para explotarlas. Puede actuar como trabajador por cuenta propia (creando su propia empresa) o como intraemprendedor, es decir, un empleado asalariado que aporta valor e innovación desde dentro de una organización.\n\nEn cuanto a sus cualidades personales, se destacan rasgos como la iniciativa, la observación, la previsión y la capacidad de organización y planificación. También es fundamental que sea resolutivo, constante, tenaz y auto-motivado. Además, debe tener inquietudes, confiar en sí mismo y en sus ideas, y ser capaz de tolerar la frustración, así como aceptar el riesgo y la incertidumbre. Por último, debe mantenerse atento a la competencia.\n\nEs importante señalar que no es imprescindible poseer formación específica en gestión, contabilidad o dirección de personal al inicio, ya que estos conocimientos pueden adquirirse conforme el negocio crece en complejidad."
+        }
+    ],
+    "f5218c04-af59-4e67-8eeb-5a1be24690b0": [
+        {
+            "rol": "user",
+            "contenido": "¿Cuáles son los pasos para crear una empresa?"
+        },
+        {
+            "rol": "bot",
+            "contenido": "Según el contexto, el proceso emprendedor es iterativo y no siempre lineal, transformando una idea en un negocio viable. Los pasos principales para crear y desarrollar la empresa son:\n\n1.  **Implementación:** Consiste en formalizar la empresa (registro y licencias), desarrollar un producto o servicio mínimo viable (MVP) e iniciar las operaciones para ingresar al mercado. Esta fase implica aprendizaje práctico mediante ajustes de precios, procesos y mejoras basadas en la retroalimentación de los primeros clientes.\n2.  **Crecimiento y adaptación:** Una vez consolidado, el negocio busca expandirse a nuevos mercados o segmentos. Esto requiere agilidad para resolver problemas, innovación continua y, si es necesario, ajustar la estrategia (pivotar), lanzar nuevos productos o entrar en otras geografías.\n3.  **Gestión del día a día:** El emprendedor actúa como gerente, liderando al equipo y tomando decisiones rápidas. Es crucial definir el estilo de gestión, identificar factores críticos de éxito e implementar sistemas de control (financieros, de calidad, etc.), profesionalizando la gestión a medida que la empresa crece.\n4.  **Salidas y futuro:** A largo plazo, se deben considerar aspectos como la sostenibilidad del modelo, la sucesión en el liderazgo y la adaptación a tendencias emergentes. También pueden contemplarse estrategias de salida, como la venta de la empresa o fusiones, si forman parte de los objetivos."
+        }
     ]
 }
