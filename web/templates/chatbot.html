@@ -112,9 +112,8 @@
                             <div class="identificador-mensaje">
                                 Asistente
                             </div>
-
                             <div class="mensaje-chat mensaje-bot">
-                                {{ mensaje.contenido }}
+                                {{ mensaje.contenido | replace('**', '') }}
                             </div>
 
                         </div>
@@ -124,11 +123,11 @@
                 {% endfor %}
 
             </div>
-
             <form
                 class="formulario-chat"
                 action="{{ url_for('public.chat') }}"
                 method="POST"
+                id="formulario-chat"
             >
 
                 <div class="grupo-metodologia">
@@ -205,7 +204,15 @@
                         >
                             Guiarme paso a paso
                         </button>
-
+                    
+                    <div
+                        id="estado-carga"
+                        class="estado-carga"
+                        hidden
+                    >
+                        <span class="spinner"></span>
+                        <span>Generando respuesta...</span>
+                    
                     </div>
 
                 </div>
@@ -219,6 +226,53 @@
         </section>
 
     </main>
+
+    <script>
+        const formulario = document.getElementById("formulario-chat");
+        const ventanaChat = document.querySelector(".ventana-chat");
+        const estadoCarga = document.getElementById("estado-carga");
+
+        function bajarAlFinal() {
+            ventanaChat.scrollTop = ventanaChat.scrollHeight;
+        }
+
+        window.addEventListener("load", bajarAlFinal);
+
+        formulario.addEventListener("submit", function (event) {
+            if (formulario.dataset.enviando === "true") {
+                event.preventDefault();
+                return;
+            }
+
+            event.preventDefault();
+
+            const botonPulsado = event.submitter;
+
+            if (botonPulsado && botonPulsado.name === "modo") {
+                const modo = document.createElement("input");
+
+                modo.type = "hidden";
+                modo.name = "modo";
+                modo.value = botonPulsado.value;
+
+                formulario.appendChild(modo);
+            }
+
+            formulario.dataset.enviando = "true";
+
+            const botones = formulario.querySelectorAll(
+                'button[type="submit"]'
+            );
+
+            botones.forEach(function (boton) {
+                boton.disabled = true;
+            });
+
+            estadoCarga.hidden = false;
+
+            formulario.submit();
+        });
+    </script>
 
 </body>
 </html>
