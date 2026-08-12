@@ -1,43 +1,38 @@
 """
-Módulo encargado de convertir textos y chunks en vectores numéricos.
+Módulo encargado de generar embeddings para preguntas y chunks.
 
-Los embeddings permiten representar el significado de un texto mediante
-una lista de números. Después podremos comparar esos vectores para
-encontrar los chunks más relacionados con una pregunta.
+Los embeddings representan el contenido semántico de un texto
+mediante vectores numéricos que posteriormente pueden compararse
+para recuperar los chunks más relevantes para una pregunta.
 """
 
 import logging
 from functools import lru_cache
 import numpy as np
-
 from sentence_transformers import SentenceTransformer
+
 from src.core.models import Chunk
+from src.core.config import MODELO_EMBEDDINGS
 
 logger = logging.getLogger(__name__)
-
-
-NOMBRE_MODELO = (
-    "sentence-transformers/"
-    "paraphrase-multilingual-MiniLM-L12-v2"
-)
 
 
 @lru_cache(maxsize=1)
 def cargar_modelo() -> SentenceTransformer:
     """
-    Carga el modelo de embeddings.
+    Carga el modelo de embeddings configurado.
 
-    El decorador lru_cache evita cargar el modelo varias veces durante
-    una misma ejecución del programa.
+    El decorador lru_cache evita cargar el modelo varias veces
+    durante una misma ejecución del programa.
     """
 
     logger.info(
         "Cargando modelo de embeddings:\n%s",
-        NOMBRE_MODELO
+        MODELO_EMBEDDINGS
     )
 
     modelo = SentenceTransformer(
-        NOMBRE_MODELO
+        MODELO_EMBEDDINGS
     )
 
     logger.info("Modelo cargado correctamente.\n")
@@ -49,10 +44,11 @@ def crear_embedding_texto(
     texto: str,
 ) -> np.ndarray:
     """
-    Convierte un único texto en un vector NumPy.
+    Convierte un texto en un vector NumPy normalizado.
 
-    El vector se normaliza para facilitar después el cálculo
-    de similitud entre textos.
+    Se utiliza principalmente para generar el embedding de una
+    pregunta que posteriormente será comparada con los embeddings
+    almacenados en el vector store.
     """
 
     if not texto or not texto.strip():
@@ -77,12 +73,17 @@ def crear_embedding_texto(
 
 def crear_embeddings_textos(
     textos: list[str],
-    tamanio_lote: int = 16,
+    tamanio_lote: int = 8,
 ) -> np.ndarray:
     """
-    Convierte una lista de textos en una matriz de embeddings.
+    Convierte una lista de textos en una matriz de embeddings
+    normalizados.
 
-    Cada fila de la matriz corresponde a un texto.
+    Cada fila de la matriz corresponde al embedding de un texto.
+    Los textos se procesan por lotes para controlar el consumo
+    de memoria durante la generación de embeddings.
+
+    La dimensión de los vectores depende del modelo configurado.
     """
 
     if not textos:
@@ -90,10 +91,6 @@ def crear_embeddings_textos(
             shape=(0, 0),
             dtype=np.float32,
         )
-
-        # Esto en vez de empty si lo consideras mejor
-        # raise ValueError(
-        # "La lista de textos está vacía."
 
     textos_limpios: list[str] = []
 
@@ -131,16 +128,17 @@ def crear_embeddings_textos(
 
 def crear_embeddings_chunks(
     chunks: list[Chunk],
-    tamanio_lote: int = 16,
+    tamanio_lote: int = 8,
 ) -> np.ndarray:
-    """
-    Convierte una lista de objetos Chunk en una matriz de embeddings.
+    """ "
+    Convierte una lista de objetos Chunk en una matriz de embeddings
+    normalizados.
 
     El orden de los vectores será el mismo que el orden de los chunks.
-    
-    Cada Chunk proporciona su representación optimizada mediante
-    texto_embedding(), que incorpora el contexto jerárquico y adapta
-    el contenido para mejorar la calidad semántica de los embeddings.
+
+    Cada Chunk proporciona su representación mediante
+    texto_embedding(), que incorpora el contexto jerárquico necesario
+    para mejorar su representación semántica.
     """
 
     textos = [chunk.texto_embedding() for chunk in chunks]

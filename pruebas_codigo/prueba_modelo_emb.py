@@ -1,10 +1,11 @@
-from src.rag.embeddings import cargar_modelo
+from sentence_transformers import SentenceTransformer
 
-modelo = cargar_modelo()
-print("Límite de tokens del modelo:", modelo.max_seq_length)
+modelo = SentenceTransformer("BAAI/bge-m3")
+print("Modelo:", modelo)
+print("Límite:", modelo.max_seq_length)
 
 
-texto_ejemplo = """ Beneficios no repartidos o reservas
+texto = """ Beneficios no repartidos o reservas
 
 Los beneficios empresariales son los ingresos netos que obtiene la empresa después de descontar todos los pagos, incluidos los impuestos. Habitualmente, un porcentaje de estos beneficios se reparte entre los socios y el otro se man tiene en la empresa como fondo para cubrir riesgos o para realizar nuevas inversiones, son las llamadas reservas.
 
@@ -38,6 +39,14 @@ Ejemplo: La Junta de Castilla León concedió en 2012,304560 euros en subvencion
 
 Tabla 4.2. Modos de financiación por capital arranque y capital de expansión (recursos propios).
 """
-print("Caracteres:", len(texto_ejemplo))
-tokens = modelo.tokenizer(texto_ejemplo)
-print("Número de tokens:", len(tokens["input_ids"]))
+tokens = modelo.tokenizer(texto)
+
+print("Tokens:", len(tokens["input_ids"]))
+
+embedding = modelo.encode(
+    texto,
+    convert_to_numpy=True,
+    normalize_embeddings=True,
+)
+
+print("Dimensión:", embedding.shape)

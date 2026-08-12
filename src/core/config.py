@@ -16,6 +16,9 @@ MANUALES_CON_KNOWLEDGE = {
     "simulacion_empresarial",
 }
 
+# Modelo embedding
+MODELO_EMBEDDINGS = "BAAI/bge-m3"
+
 # Constantes RAG
 K_BUSQUEDA = 20
 
