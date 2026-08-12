@@ -542,8 +542,13 @@ h3 {
     box-shadow: 0 0 0 3px rgba(37, 99, 235, 0.12);
 }
 
-.boton-enviar {
-    min-width: 120px;
+.botones-modo {
+    display: flex;
+    gap: 10px;
+}
+
+.botones-modo .boton {
+    width: 175px;
     min-height: 48px;
     border-radius: 10px;
     font-size: 15px;
@@ -617,8 +622,13 @@ h3 {
         flex-direction: column;
     }
 
-    .boton-enviar {
+    .botones-modo {
         width: 100%;
+    }
+
+    .botones-modo .boton {
+        flex: 1;
+        width: auto;
     }
 }
 
