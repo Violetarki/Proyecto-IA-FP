@@ -14,7 +14,8 @@ from src.rag.context_strategies import ContextStrategies
 from src.core.config import UMBRAL_ACEPTABLE, UMBRAL_BUENO, UMBRAL_EXCELENTE, MAXIMO_CHUNKS, MINIMO_CHUNKS
 from src.rag.historial import Historial
 from src.knowledge.models import KnowledgeNode, KnowledgeTree
-
+import logging
+logger = logging.getLogger(__name__)
 
 class ContextExpander:
 
@@ -35,7 +36,6 @@ class ContextExpander:
         self.historial = historial
         self.strategies = ContextStrategies()
 
-
     def expandir(
         self,
         resultados: list[ResultadoBusqueda],
@@ -49,11 +49,29 @@ class ContextExpander:
         las decisiones específicas de cada intención.
         """
         estrategia = self._obtener_estrategia(intencion)
+        
+        logger.debug(
+                    "Estrategia de contexto: %s | padres=%s | hermanos=%s | hijos=%s",
+                    intencion.intencion,
+                    estrategia.anadir_padres,
+                    estrategia.anadir_hermanos,
+                    estrategia.anadir_hijos,
+                )
 
         candidatos = self._aplicar_umbrales(resultados, estrategia)
 
+        logger.debug(
+            "Chunks después de umbrales: %d",
+            len(candidatos),
+        )
+
         if estrategia.anadir_padres:
             candidatos = self._enriquecer_con_padres(candidatos)
+
+        logger.debug(
+            "Chunks después de añadir padres: %d",
+            len(candidatos),
+        )
 
         if estrategia.anadir_hermanos:
             candidatos = self._enriquecer_con_hermanos(candidatos)
@@ -63,8 +81,15 @@ class ContextExpander:
 
         candidatos = self._eliminar_duplicados(candidatos)
 
-        return self._ordenar_por_jerarquia(candidatos)
+        candidatos = self._ordenar_por_jerarquia(candidatos)
+        
+        logger.debug(
+            "Chunks finales enviados al PromptBuilder: %d",
+            len(candidatos),
+        )
 
+        return candidatos
+    
 
     def _aplicar_umbrales(
         self,
@@ -103,7 +128,6 @@ class ContextExpander:
         ]
 
         return aceptables[:MAXIMO_CHUNKS]
-    
 
     def _obtener_arbol(
         self,
@@ -134,7 +158,6 @@ class ContextExpander:
             chunk.documento.ruta,
             chunk_id,
         )
-
 
     def _obtener_nodo(
         self,
@@ -173,7 +196,6 @@ class ContextExpander:
 
         return None
 
-
     def _enriquecer_con_padres(
         self,
         chunks: list[Chunk],
@@ -208,7 +230,6 @@ class ContextExpander:
 
         return resultado
 
-
     def _enriquecer_con_hermanos(
         self,
         chunks: list[Chunk],
@@ -239,7 +260,6 @@ class ContextExpander:
                     resultado.append(chunk_hermano)
 
         return resultado
-
 
     def _enriquecer_con_hijos(
         self,
@@ -273,7 +293,6 @@ class ContextExpander:
 
         return resultado
 
-
     def _eliminar_duplicados(
         self,
         chunks: list[Chunk],
@@ -300,7 +319,6 @@ class ContextExpander:
 
         return resultado
 
-
     def _ruta_nodo(
         self,
         nodo: KnowledgeNode,
@@ -317,7 +335,6 @@ class ContextExpander:
 
         return tuple(reversed(ruta))
 
-
     def _ordenar_por_jerarquia(
         self,
         chunks: list[Chunk],
@@ -332,7 +349,6 @@ class ContextExpander:
             return self._ruta_nodo(nodo)
 
         return sorted(chunks, key=clave)
-
 
     def _obtener_estrategia(
         self,
