@@ -208,5 +208,89 @@
             "rol": "bot",
             "contenido": "Según el contexto, el proceso emprendedor es iterativo y no siempre lineal, transformando una idea en un negocio viable. Los pasos principales para crear y desarrollar la empresa son:\n\n1.  **Implementación:** Consiste en formalizar la empresa (registro y licencias), desarrollar un producto o servicio mínimo viable (MVP) e iniciar las operaciones para ingresar al mercado. Esta fase implica aprendizaje práctico mediante ajustes de precios, procesos y mejoras basadas en la retroalimentación de los primeros clientes.\n2.  **Crecimiento y adaptación:** Una vez consolidado, el negocio busca expandirse a nuevos mercados o segmentos. Esto requiere agilidad para resolver problemas, innovación continua y, si es necesario, ajustar la estrategia (pivotar), lanzar nuevos productos o entrar en otras geografías.\n3.  **Gestión del día a día:** El emprendedor actúa como gerente, liderando al equipo y tomando decisiones rápidas. Es crucial definir el estilo de gestión, identificar factores críticos de éxito e implementar sistemas de control (financieros, de calidad, etc.), profesionalizando la gestión a medida que la empresa crece.\n4.  **Salidas y futuro:** A largo plazo, se deben considerar aspectos como la sostenibilidad del modelo, la sucesión en el liderazgo y la adaptación a tendencias emergentes. También pueden contemplarse estrategias de salida, como la venta de la empresa o fusiones, si forman parte de los objetivos."
         }
+    ],
+    "ea46e06d-8316-4087-8a68-cab32c548960": [
+        {
+            "rol": "user",
+            "contenido": "¿Cuáles son los pasos para crear una empresa?"
+        },
+        {
+            "rol": "bot",
+            "contenido": "Según el contexto, el proceso emprendedor es iterativo y no siempre lineal, transformando una idea en un negocio viable. Los pasos principales para crear y desarrollar la empresa son:\n\n1.  **Implementación:** Consiste en formalizar la empresa (registro y licencias), desarrollar un producto o servicio mínimo viable (MVP) e iniciar las operaciones para ingresar al mercado. Esta fase implica aprendizaje práctico mediante ajustes de precios, procesos y mejoras basadas en la retroalimentación de los primeros clientes.\n2.  **Crecimiento y adaptación:** Una vez consolidado, el negocio busca expandirse a nuevos mercados o segmentos. Esto requiere agilidad para resolver problemas, innovación continua y, si es necesario, ajustar la estrategia (pivotar), lanzar nuevos productos o entrar en otras geografías.\n3.  **Gestión del día a día:** El emprendedor actúa como gerente, liderando al equipo y tomando decisiones rápidas. Es crucial definir el estilo de gestión, identificar factores críticos de éxito e implementar sistemas de control (financieros, de calidad, etc.), profesionalizando la gestión a medida que la empresa crece.\n4.  **Salidas y futuro:** A largo plazo, se deben considerar aspectos como la sostenibilidad del modelo, la sucesión en el liderazgo y la adaptación a tendencias emergentes. También pueden contemplarse estrategias de salida, como la venta de la empresa o fusiones, si forman parte de los objetivos."
+        },
+        {
+            "rol": "user",
+            "contenido": "¿Cómo se realiza un estudio de mercado?"
+        },
+        {
+            "rol": "bot",
+            "contenido": "Para realizar un estudio de mercado, se utilizan diversos métodos clasificados según el objetivo de la investigación: conocer a los clientes, a los competidores o la aceptación del producto.\n\n**Para conocer a los clientes:**\n*   **Observación directa:** Se visita la zona de instalación para analizar el perfil demográfico (edad, sexo, nivel adquisitivo) y los motivos de paso de los peatones.\n*   **Encuestas:** Se aplican cuestionarios breves, claros y sencillos, evitando preguntas comprometidas o sobre privacidad, para estimar las preferencias de los potenciales compradores.\n*   **Búsqueda en Internet:** Se consultan webs especializadas, blogs, foros y redes sociales para obtener información rápida y específica sobre los intereses y comentarios del público.\n*   **Análisis web corporativo:** Se utilizan herramientas propias para medir el tráfico, la duración de las visitas y las páginas más vistas.\n\n**Para conocer a los competidores:**\n*   **Reconocimiento local:** Se identifica la presencia de negocios similares o complementarios en la zona.\n*   **Investigación directa (Mystery Shopping):** Se accede a los negocios rivales haciéndose pasar por cliente para evaluar precios, atención, calidad del producto y apariencia del local.\n\n**Para conocer la aceptación del producto:**\n*   **Venta piloto:** Se comercializa el producto en un área geográfica limitada para decidir si incrementarlo, modificarlo o"
+        },
+        {
+            "rol": "user",
+            "contenido": "Cuáles son los pasos para forma jurídica?"
+        },
+        {
+            "rol": "bot",
+            "contenido": "El contexto proporcionado no contiene información sobre los pasos específicos para elegir o determinar la forma jurídica. Solo indica que esta elección es un aspecto fundamental que determina exigencias como el número de socios, el capital mínimo, la protección del patrimonio y los impuestos, y que está condicionada principalmente por el objeto social del negocio."
+        },
+        {
+            "rol": "user",
+            "contenido": "Cuáles son los pasos de Elaboración del plan de tesorería"
+        },
+        {
+            "rol": "bot",
+            "contenido": "El contexto proporcionado no contiene información sobre los pasos para la elaboración del plan de tesorería."
+        },
+        {
+            "rol": "user",
+            "contenido": "qué es Elaboración del plan de tesorería"
+        },
+        {
+            "rol": "bot",
+            "contenido": "El contexto proporcionado no contiene información sobre qué es la elaboración del plan de tesorería."
+        },
+        {
+            "rol": "user",
+            "contenido": "qué es plan de tesorería?"
+        },
+        {
+            "rol": "bot",
+            "contenido": "El contexto proporcionado no contiene información sobre qué es el plan de tesorería."
+        },
+        {
+            "rol": "user",
+            "contenido": "qué es brainstorming?"
+        },
+        {
+            "rol": "bot",
+            "contenido": "El brainstorming, o lluvia de ideas, es una técnica creativa originada en la publicidad que busca generar un gran volumen de ideas originales en un ambiente relajado. Su funcionamiento se basa en proponer y anotar todas las ideas que surjan sin descartarlas ni juzgarlas inicialmente, priorizando la cantidad sobre la calidad.\n\nEsta metodología se sustenta en cuatro principios clave:\n1.  Las ideas que parecen absurdas al principio pueden resultar exitosas tras una mayor reflexión.\n2.  La creatividad es contagiosa y se estimula al escuchar las propuestas de otros.\n3.  La asociación de ideas facilita el surgimiento de nuevas soluciones.\n4.  La crítica bloquea la creatividad, por lo que en esta fase inicial debe permitirse la libre expresión de la imaginación.\n\nEl objetivo principal es explorar posibilidades y estimular la creatividad, dejando la valoración y selección de las ideas para una fase posterior."
+        }
+    ],
+    "1a046947-7abb-4341-88b2-65a55c5ae5ec": [
+        {
+            "rol": "user",
+            "contenido": "ejemplo Analisis DAFO"
+        },
+        {
+            "rol": "bot",
+            "contenido": "El texto proporcionado no contiene un ejemplo concreto de un análisis DAFO (como una tabla rellena con datos específicos de una empresa).\n\nEl contexto menciona que se debe añadir un ejemplo en una actividad que hace referencia a un \"Ejemplo 6\", pero no incluye el contenido de dicho ejemplo. Asimismo, describe cómo realizar el análisis mediante una tabla que clasifica factores internos (debilidades y fortalezas) y externos (amenazas y oportunidades), pero no presenta un caso práctico resuelto."
+        },
+        {
+            "rol": "user",
+            "contenido": "y una actividad?"
+        },
+        {
+            "rol": "bot",
+            "contenido": "El contexto no contiene información sobre qué es una actividad en términos generales, ni define el concepto.\n\nSin embargo, menciona ejemplos específicos de actividades dentro de la metodología de \"Juego de roles\", como:\n*   Un escenario donde un estudiante actúa como proveedor y otro como dueño de una tienda negociando precios.\n*   Organizar un 'Shark Tank', donde unos estudiantes preparan un discurso de negocios y otros actúan como inversores.\n\nTambién se menciona una actividad de reflexión que consiste en pensar en tres ejemplos de la vida diaria y analizar si constituyen emprendimiento."
+        },
+        {
+            "rol": "user",
+            "contenido": "actividad Análisis DAFO"
+        },
+        {
+            "rol": "bot",
+            "contenido": "El contexto no contiene información sobre qué es una \"actividad\" en términos generales, ni define el concepto.\n\nSin embargo, menciona ejemplos específicos de actividades dentro de la metodología de \"Juego de roles\", como:\n*   Un escenario donde un estudiante actúa como proveedor y otro como dueño de una tienda negociando precios.\n*   Organizar un 'Shark Tank', donde unos estudiantes preparan un discurso de negocios y otros actúan como inversores.\n\nTambién se menciona una actividad de reflexión que consiste en pensar en tres ejemplos de la vida diaria y analizar si constituyen emprendimiento."
+        }
     ]
 }
