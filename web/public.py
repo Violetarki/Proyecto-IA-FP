@@ -1,12 +1,25 @@
+from pathlib import Path
 from flask import Blueprint, render_template, request, flash
 
 from src.rag.rag_pipeline import RAG
+from src.knowledge.loader import cargar_arbol
 from web.services.documentos import (
     obtener_metodologias,
     mostrar_nombre_metodologia,
 )
 
-rag = RAG()
+# Árboles de conocimiento disponibles.
+RUTA_ARBOL_LEAN = Path( "data/knowledge/lean_startup.json" ) 
+RUTA_ARBOL_SIMULACION = Path( "data/knowledge/simulacion_empresarial.json" ) 
+RUTA_ARBOL_COMPLEMENTARIO = Path( "data/knowledge/se_material_complementario.json" )
+
+arboles = {
+    "lean_startup": cargar_arbol(RUTA_ARBOL_LEAN),
+    "simulacion_empresarial": cargar_arbol(RUTA_ARBOL_SIMULACION),
+    "se_material_complementario": cargar_arbol(RUTA_ARBOL_COMPLEMENTARIO),
+}
+
+rag = RAG(arboles)
 
 public_bp = Blueprint(
     "public",
@@ -41,7 +54,7 @@ def chat():
 
     metodologia_seleccionada = request.form.get(
         "metodologia",
-        "lean_startup",
+        "simulacion_empresarial",
     )
 
     if metodologia_seleccionada not in metodologias:
@@ -101,6 +114,6 @@ def chat():
         "chatbot.html",
         conversacion=conversacion,
         metodologias=metodologias,
-        metodologia_seleccionada=(metodologia_seleccionada),
-        mostrar_nombre_metodologia=(mostrar_nombre_metodologia),
+        metodologia_seleccionada=metodologia_seleccionada,
+        mostrar_nombre_metodologia=mostrar_nombre_metodologia,
     )

@@ -26,6 +26,21 @@ INSTRUCCIONES = (
     "Limita la respuesta a lo necesario para responder la pregunta."
 )
 
+INSTRUCCIONES_GUIADO = (
+    "Eres un profesor de Formación Profesional y estás guiando al alumno "
+    "paso a paso por un proceso.\n"
+    "Trabaja únicamente con la información proporcionada en el contexto.\n"
+    "Explica el paso actual de forma clara y adecuada al nivel del alumno.\n"
+    "Ten en cuenta el progreso anterior del alumno para mantener la continuidad.\n"
+    "Céntrate únicamente en el paso actual.\n"
+    "Después de explicar el paso, formula una pregunta o actividad breve "
+    "para que el alumno participe.\n"
+    "Si el contexto no contiene información suficiente para explicar el paso, indícalo.\n"
+    "No inventes información.\n"
+    "No copies grandes fragmentos del contexto.\n"
+    "Explica la información con tus propias palabras."
+)
+
 logger = logging.getLogger(__name__)
 
 class ConstructorPrompts:
@@ -114,6 +129,101 @@ class ConstructorPrompts:
         {historial}
 
         """.strip()
+
+
+    def construir_prompt_guiado(
+        self,
+        historial: list[Mensaje],
+        pregunta: str,
+        contexto: dict,
+    ) -> str:
+        ...
+
+
+    def construir_prompt_guiado(
+            self,
+            historial: list[Mensaje],
+            pregunta: str,
+            contexto: dict,
+        ) -> str:
+        """
+        Construye el prompt para el modo de aprendizaje guiado.
+        """
+
+        if not contexto:
+            raise ValueError(
+                "No se ha proporcionado contexto guiado."
+            )
+
+        if not pregunta or not pregunta.strip():
+            raise ValueError(
+                "La pregunta no puede estar vacía."
+            )
+
+        contexto_chunks = self._formatear_contexto(
+            contexto["chunks"]
+        )
+
+        historial_formateado = self._formatear_historial(
+            historial
+        )
+
+        progreso_formateado = self._formatear_progreso(
+            contexto["progreso"]
+        )
+
+        return f"""
+        {INSTRUCCIONES_GUIADO}
+
+        Paso actual:
+        {contexto["titulo"]}
+
+        Ruta del proceso:
+        {" > ".join(contexto["ruta"])}
+
+        Paso padre:
+        {contexto["padre"]}
+
+        Información del paso:
+        {contexto_chunks}
+
+        Progreso anterior del alumno:
+        {progreso_formateado}
+
+        Pregunta del alumno:
+        {pregunta}
+
+        Historial de la conversación:
+        {historial_formateado}
+        """.strip()
+
+
+    def _formatear_progreso(
+            self,
+            progreso: list[dict],
+        ) -> str:
+        """
+        Formatea el progreso anterior del alumno para incluirlo en el prompt.
+
+        Args:
+            progreso: Lista de pasos trabajados y respuestas del alumno.
+
+        Returns:
+            Una cadena con el progreso formateado.
+        """
+
+        if not progreso:
+            return "(sin progreso previo)"
+
+        lineas: list[str] = []
+
+        for entrada in progreso:
+            lineas.append(
+                f"- Paso: {entrada['paso']}\n"
+                f"  Respuesta del alumno: {entrada['respuesta']}"
+            )
+
+        return "\n".join(lineas)
 
 
 if __name__ == "__main__":
