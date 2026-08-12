@@ -166,7 +166,7 @@ Los hechos y los estudios contradicen los mitos. Explora las siguientes cartas y
 
 Haz clic en el enlace y descubre cómo Silicon Valley se convirtió en el epicentro de la innovación en inteligencia artificial
 
-».Silicon Valley - El epicentro de la innovación en inteligencia artificial '- (https://www.forbes.com/sites/timbajarin/2024/11/05/silicon-valleythe-epicenter-of-artificial-intelligence-innovation/)
+Silicon Valley - El epicentro de la innovación en inteligencia artificial '- (www.forbes.com/sites/timbajarin/2024/11/05/silicon-valleythe-epicenter-of-artificial-intelligence-innovation/)
 
 ## 4. Necesidad vs. Oportunidad
 
@@ -476,7 +476,7 @@ Todos comenzaron como pequeños equipos tecnológicos con una idea innovadora y 
 
 Enlace útil para programas de apoyo al emprendimiento tecnológico en Portugal:
 
-Startup Portugal - (https://startupportugal.com/pt/)
+Startup Portugal - (startupportugal.com/pt/)
 
 #### Emprendimiento corporativo
 
@@ -822,7 +822,7 @@ Implementar un proyecto (por ejemplo, "Empresa joven") donde los estudiantes:
 
 En el camino, aprender habilidades como contabilidad básica, marketing, comunicación, entre otras.
 
-El programa 'Junior Achievement - The Company' sigue esta lógica. (https://www.japortugal.org/a-empresa)
+El programa 'Junior Achievement - The Company' sigue esta lógica. (www.japortugal.org/a-empresa)
 
 ### SALA DE AULA INVERTIDA (Flipped Classroom)
 
@@ -1627,7 +1627,7 @@ Al ver el fracaso como parte del proceso, reducimos el estigma y dejamos espacio
 
 Haz clic en el enlace y lee un artículo de Forbes sobre cómo los mejores líderes reconocen sus errores, aprenden de ellos y convierten el fracaso en crecimiento profesional
 
-"Solo sigue adelante: los mejores líderes se apropian de sus fracasos y aprenden de ellos" - (https://www.forbes.com/sites/joyceearussell/2021/12/29/just-move-on-the-best-leaders-own-their-failures-and-learn-from-them/)
+"Solo sigue adelante: los mejores líderes se apropian de sus fracasos y aprenden de ellos" - (www.forbes.com/sites/joyceearussell/2021/12/29/just-move-on-the-best-leaders-own-their-failures-and-learn-from-them/)
 
 - Cambio de paradigma: las comunidades emprendedoras de hoy hablan abiertamente de "fallar rápido" y "fallar mejor" como parte integral del proceso de innovación y crecimiento.
 
@@ -1729,7 +1729,7 @@ Mira el video "Los tres secretos de las personas resilientes", de Lucy Hone (TED
 
 El investigador de resiliencia explica estrategias prácticas para enfrentar la adversidad y destaca que la resiliencia no es un rasgo innato, sino un conjunto de hábitos y pensamientos que cualquiera puede entrenar.
 
-The three secrets of resilient people - Lucy Hone - TEDxC: (https://www.youtube.com/watch?v=NWH8N-BvhAw)
+The three secrets of resilient people - Lucy Hone - TEDxC: (www.youtube.com/watch?v=NWH8N-BvhAw)
 
 Según Lucy Hone, los tres "secretos" de la resiliencia son:
 
@@ -1872,9 +1872,9 @@ En la próxima sesión sincrónica, compartirás brevemente tu principal motivac
 
 Para profundizar en el tema de la motivación intrínseca, véase la Ted Talk de Simon Sinek 'Start with why', donde introduce el concepto del Círculo Dorado y la importancia de comenzar con el 'Why', es decir, el propósito.
 
-Start with why - how great leaders inspire action - Simo - (https://www.youtube.com/watch?v=u4ZoJKF_VuA)
+Start with why - how great leaders inspire action - Simo - (www.youtube.com/watch?v=u4ZoJKF_VuA)
 
-TEDx Talks: (https://www.youtube.com/channel/UCsT0YIqwnpJCM-mx7-gSA4Q)
+TEDx Talks: (www.youtube.com/channel/UCsT0YIqwnpJCM-mx7-gSA4Q)
 
 - Resumen
 
@@ -2113,11 +2113,11 @@ Herramientas y recursos útiles - ¿Quieres profundizar tus conocimientos o nece
 
 1. COMUNIDADES DE EMPRENDEDORES: Participa en grupos (presenciales o en línea) donde pueda intercambiar ideas y desafíos. Por ejemplo, grupos de redes locales, comunidades de redes sociales o foros de startups.
 
-Enlaces útiles: EMERGE, CIDIHUB, Acelera Startups, viveros empresariales (Casa del Emprendedor Los Realejos, El Cuarto Espacio Creativo,) Cuarto veintitrés (Bajamar), Pitaya Coliving, etc. Mentor Day - (https://beta-i.com/)
+Enlaces útiles: EMERGE, CIDIHUB, Acelera Startups, viveros empresariales (Casa del Emprendedor Los Realejos, El Cuarto Espacio Creativo,) Cuarto veintitrés (Bajamar), Pitaya Coliving, etc. Mentor Day - (beta-i.com/)
 
 2. MENTORÍA: Busca programas de mentoría. Muchas incubadoras y asociaciones empresariales desarrollan este tipo de iniciativas.
 
-Programas recomendados: Red Nacional de Mentores (IAPMEI)(<https://www.iapmei.pt/PRODUTOS-E-SERVICOS/Empreendedorismo-Inovacao/Empreendedorismo-(1)/Rede-de-Mentores.aspx>)
+Programas recomendados: Red Nacional de Mentores (IAPMEI)(<www.iapmei.pt/PRODUTOS-E-SERVICOS/Empreendedorismo-Inovacao/Empreendedorismo-(1)/Rede-de-Mentores.aspx>)
 
 3. LITERATURA Y CURSOS: Invierte en conocimiento. Aquí hay algunas recomendaciones de lectura: "The Imposter Cure" (Jessamy Hibberd), "El síndrome del impostor " (Sandi Mann) o "Mindset - Actitud del éxito" (Carol Dweck).
 
@@ -2858,13 +2858,12 @@ Traduce esto a tu contexto local: ¿quiénes son los actores equivalentes en tu 
 Los modelos de innovación abierta son diferentes formatos de colaboración entre distintos actores
 
 - Integration of solutions (common models)
-
-- Technology scouting: búsqueda activa de soluciones externas para satisfacer una necesidad.
-- Licensing: concesión de derechos para utilizar una tecnología o conocimiento bajo términos acordados.
-- Proof of concept (PoC) / Prueba de concepto (PdC): pequeña prueba en el mundo real para validar rápidamente una solución.
-- Innovation center / living lab (Centro de innovación / laboratorio viviente): un espacio (físico o virtual) para cocrear y probar.
-- Accelerator (Aceleradora): apoyo estructurado para que las startups resuelvan desafíos estratégicos.
-- Joint venture / spin-off (Empresa conjunta / escisión): creación conjunta de una nueva entidad para desarrollar una solución.
+  - Technology scouting: búsqueda activa de soluciones externas para satisfacer una necesidad.
+  - Licensing: concesión de derechos para utilizar una tecnología o conocimiento bajo términos acordados.
+  - Proof of concept (PoC) / Prueba de concepto (PdC): pequeña prueba en el mundo real para validar rápidamente una solución.
+  - Innovation center / living lab (Centro de innovación / laboratorio viviente): un espacio (físico o virtual) para cocrear y probar.
+  - Accelerator (Aceleradora): apoyo estructurado para que las startups resuelvan desafíos estratégicos.
+  - Joint venture / spin-off (Empresa conjunta / escisión): creación conjunta de una nueva entidad para desarrollar una solución.
 
 Integración de Soluciones
 
@@ -2877,7 +2876,7 @@ El propósito de la tabla " Analizar e identificar: modelos vs. objetivos " es a
     - Filas (Modelos): Estos son los diversos enfoques de Innovación Abierta (por ejemplo, Licenciamiento, Aceleradora/Incubadora, Exploración (Scouting) y PoC).
     - Columnas (Objetivos): Estos son los objetivos potenciales que una organización desea lograr a través de la innovación (por ejemplo, Nuevo servicio / producto, Transformación cultural, Incorporar nuevas capacidades).
 
-- Actividad práctica de mapeo
+##### Actividad práctica de mapeo de innovación abierta
 
 - Objetivo:
 
@@ -2909,7 +2908,9 @@ Utiliza esta herramienta de decisión basada en el gráfico anterior si la neces
 
 Nota: Puede que esta herramienta de decisión no sea tan necesaria para completar la actividad, pero puede ayudarte a repasar los diferentes tipos de formatos/modelos de innovación abierta.
 
-Mapear Modelos y Objetivos (Tabla): Para cada uno de los modelos de innovación enumerados en las filas, evalúa su potencial para lograr diferentes objetivos.
+##### Mapear Modelos y Objetivos (Tabla modelo):
+
+Para cada uno de los modelos de innovación enumerados en las filas, evalúa su potencial para lograr diferentes objetivos.
 
 - Coloca una marca (por ejemplo, una "X" o una marca de verificación) en las celdas donde un Modelo específico encaja bien para lograr uno de tus Objetivos seleccionados. Por ejemplo, si "Aceleradora / Incubadora" es la mejor manera de "Acelerar proyectos y empresas", marcaría esa intersección.
 
@@ -2917,13 +2918,15 @@ Mapear Modelos y Objetivos (Tabla): Para cada uno de los modelos de innovación 
 
 | Modelos/Objetivos            | Nuevo servicio/producto | Acelerar proyectos y empresas | Compromiso empresa | Incorporar nuevas capacidades | Recibir nuevos clientes y socios/Licenciamiento | Transformación cultural |
 | ---------------------------- | ----------------------- | ----------------------------- | ------------------ | ----------------------------- | ----------------------------------------------- | ----------------------- |
-| Licenciamiento               | ✅                      | ✅                            | ✅                 | ✅                            | ✅                                              | ✅                      |
-| Exploración (Scouting) y PoC | ✅                      | ✅                            | ✅                 | ✅                            | ✅                                              | ✅                      |
-| Aceleradora / Incubadora     | ✅                      | ✅                            | ✅                 | ✅                            | ✅                                              | ✅                      |
-| Eventos                      | ❌                      | ✅                            | ✅                 | ❌                            | ✅                                              | ❌                      |
-| Patrocinios (Sponsorships)   | ❌                      | ✅                            | ✅                 | ❌                            | ❌                                              | ❌                      |
-| Inversiones indirectas       | ✅                      | ✅                            | ✅                 | ❌                            | ✅                                              | ✅                      |
-| Inversiones directas         | ✅                      | ✅                            | ❌                 | ✅                            | ✅                                              | ✅                      |
+| Licenciamiento               | ok                      | ok                            | ok                 | ok                            | ok                                              | ok                      |
+| Exploración (Scouting) y PoC | ok                      | ok                            | ok                 | ok                            | ok                                              | ok                      |
+| Aceleradora / Incubadora     | ok                      | ok                            | ok                 | ok                            | ok                                              | ok                      |
+| Eventos                      | ❌                      | ok                            | ok                 | ❌                            | ok                                              | ❌                      |
+| Patrocinios (Sponsorships)   | ❌                      | ok                            | ok                 | ❌                            | ❌                                              | ❌                      |
+| Inversiones indirectas       | ok                      | ok                            | ok                 | ❌                            | ok                                              | ok                      |
+| Inversiones directas         | ok                      | ok                            | ❌                 | ok                            | ok                                              | ✅                      |
+
+##### Mapear Modelos y Objetivos (Tabla ejercicio):
 
 Ahora puedes determinar modelos fundamentales en función de tus recursos y objetivos:
 
@@ -5122,7 +5125,7 @@ Lean Canvas es una herramienta dinámica, diseñada para ser iterada y actualiza
 
 Este ejercicio práctico es el primer paso para convertir tu visión en realidad.
 
-- Template_Lean_Canvas.docx - (https://articulateusercontent.com/rise/courses/kCUopIhIDVCaSj9rjBgZGkrrsqEyPJ8l/OJ5onSr-HkQLBSQT.docx)
+- Template_Lean_Canvas.docx - (articulateusercontent.com/rise/courses/kCUopIhIDVCaSj9rjBgZGkrrsqEyPJ8l/OJ5onSr-HkQLBSQT.docx)
 
 ## 8. ¿Qué es un Pitch?
 
@@ -5167,7 +5170,7 @@ Esta imagen muestra cómo organizar un discurso en tres partes: introducción, d
 
 Mira este video, que demuestra cómo construir una narrativa atractiva capaz de captar la atención y despertar el interés de la audiencia, ayudando a comprender cómo aplicar las técnicas de narración en los lanzamientos de negocios.
 
-- Elevator pitch - Winner Josh Light - (https://www.youtube.com/watch?v=0HKOf3l6350)
+- Elevator pitch - Winner Josh Light - (www.youtube.com/watch?v=0HKOf3l6350)
 
 ## 9. Modelo PUMA: marco persuasivo para Pitchs
 
@@ -5321,28 +5324,28 @@ Recursos visuales gratuitas: Crear presentaciones visualmente atractivas no requ
 
 Imágenes de alta calidad para uso comercial.
 
-- Unsplash - (https://unsplash.com/)
-- Pexels - (https://pexels.com/)
-- Pixabay - (https://pixabay.com/)
-- Freepik - (https://www.freepik.com/)
+- Unsplash - (unsplash.com/)
+- Pexels - (pexels.com/)
+- Pixabay - (pixabay.com/)
+- Freepik - (www.freepik.com/)
 
 2. ICONOS E ILUSTRACIONES
 
 Elementos gráficos personalizables para diversos contextos de comunicación y negocios.
 
-- Flaticon - (https://www.flaticon.com/)
-- The Noun Project - (https://thenounproject.com/)
-- unDraw - (https://undraw.co/)
-- Humaaans - (https://humaaans.com/)
+- Flaticon - (www.flaticon.com/)
+- The Noun Project - (thenounproject.com/)
+- unDraw - (undraw.co/)
+- Humaaans - (humaaans.com/)
 
 3. PLANTILLAS Y GRÁFICOS
 
 Plantillas profesionales listas para personalizar.
 
-- SlidesGo - (https://slidesgo.com/)
-- Slides Plantillas Carnival - (https://www.slidescarnival.com/)
-- HubSpot - (https://www.hubspot.com/resources/templates)
-- Venngage - (https://venngage.com/)
+- SlidesGo - (slidesgo.com/)
+- Slides Plantillas Carnival - (www.slidescarnival.com/)
+- HubSpot - (www.hubspot.com/resources/templates)
+- Venngage - (venngage.com/)
 
 ## 13. Tipos de comunicación
 
@@ -5420,7 +5423,7 @@ Técnicas de control emocional: Estas sencillas técnicas de gestión emocional 
 
 Visualiza el siguiente video sobre técnicas de comunicación avanzadas para presentaciones impactantes. El video muestra técnicas prácticas para manejar la ansiedad, proyectar confianza y conectarse con diferentes tipos de audiencias.
 
-TED - How to Speak So That People Want to Listen - Julian Tre - (https://www.youtube.com/watch?v=eIho2S0ZahI)
+TED - How to Speak So That People Want to Listen - Julian Tre - (www.youtube.com/watch?v=eIho2S0ZahI)
 
 ## 16. Preparación Técnica para el Pitch
 

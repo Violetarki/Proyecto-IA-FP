@@ -35,7 +35,12 @@ def cargar_modelo() -> SentenceTransformer:
         MODELO_EMBEDDINGS
     )
 
-    logger.info("Modelo cargado correctamente.\n")
+    modelo.max_seq_length = 1536
+
+    logger.info(
+        "Modelo cargado correctamente. " "Longitud máxima de secuencia: %s\n",
+        modelo.max_seq_length,
+    )
 
     return modelo
 

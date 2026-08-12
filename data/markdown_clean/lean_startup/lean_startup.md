@@ -438,7 +438,7 @@ Ante todo, señalar que todo reto supone tener, conseguir, alcanzar un objetivo 
 ### 4 puntos de vista de la figura del emprendedor
 
 1. Teórico. Como todo aspecto curricular, ha de conocerse el alcance del concepto que tratamos de aplicar. En este caso, sería la figura del emprendedor, sus cualidades, destacando la pasión, la ilusión y el talento. Como no, también se aborda la figura del emprendedor social.
-2. Práctico. De la teoría se pasa a la práctica, y en este sentido salimos a conocer al emprendedor de nuestro entorno, mediante una breve entrevista. Esta dinámica se denomina Selfie Emprendedor , y es obra de las docentes de Formación y Orientación Laboral, Isabel González, Paz Fernández de la Vera y Elena Rodríguez. Puedes acceder a la dinámica en el siguiente link: http://selfieemprendedor.blogspot.com.es/.
+2. Práctico. De la teoría se pasa a la práctica, y en este sentido salimos a conocer al emprendedor de nuestro entorno, mediante una breve entrevista. Esta dinámica se denomina Selfie Emprendedor , y es obra de las docentes de Formación y Orientación Laboral, Isabel González, Paz Fernández de la Vera y Elena Rodríguez. Puedes acceder a la dinámica en el siguiente link: selfieemprendedor.blogspot.com.es/.
 3. Objetivo. Con los dos puntos anteriores estamos en condiciones de evaluarnos como emprendedores, mediante una app habilitada al efecto. Mediante este análisis, conseguimos conocernos mejor e información objetiva sobre el alumnado.
 4. Subjetivo. Con los puntos anteriores se pasa a una presentación de cada alumno, lo que nos permitirá aumentar el grado de información de cada alumno, esta vez, basada en su exposición directa.
 
@@ -450,7 +450,7 @@ Nuestro planteamiento, por tanto, supone convertir el aula de emprendimiento en 
 
 Comenzaremos el rodaje de los grupos con el Reto de los 5 euros, adaptación del Reto de los 5 dólares, ideado por Tina Seelig, de la Universidad de Stanford:
 
-https://www.youtube.com/watch?v=VVgIX0s1wY8
+www.youtube.com/watch?v=VVgIX0s1wY8
 
 Esta dinámica pone en situación a los alumnos, y les deja claro el objetivo del curso. La idea es trasladar los aprendizajes de 48 horas intensivas con la dinámica al resto del curso.
 
@@ -868,7 +868,7 @@ Para inspirar a nuestro alumnado es muy importante que conocer ejemplos de éxit
 
 Si visitamos de nuevo la web de la revista "Emprendedores" tenemos 10 fantásticos casos de emprendedores sociales. ¡Aprende de cada uno de ellos!.
 
-Fuente: http://www.emprendedores.es/casos-de-exito/premios-emprendedores-sociales-universidad-europea-2016
+Fuente: www.emprendedores.es/casos-de-exito/premios-emprendedores-sociales-universidad-europea-2016
 
 ### 3.3. PASOS CLAVE PARA SER UN EMPRENDEDOR SOCIAL
 
@@ -1015,7 +1015,7 @@ Fuente: Eduteka
 ### Infografía de Un modelo para la definición de objetivos de aprendizaje en base a la Taxonomia de Bloom revisada
 
 (ver infografía libro p.55)
-Raúl Santiago - Traducido y adaptado de Fuente: http://www.theflippedclassroom.es/wp-content/uploads/2013/07/bloom.001.jpg
+Raúl Santiago - Traducido y adaptado de Fuente: www.theflippedclassroom.es/wp-content/uploads/2013/07/bloom.001.jpg
 
 ### ACTIVIDAD NÚMERO 5. FORMACIÓN DE EQUIPOS
 
@@ -1033,7 +1033,7 @@ Raúl Santiago - Traducido y adaptado de Fuente: http://www.theflippedclassroom.
 
 - DEFINICIÓN: formados los equipos pasamos a probar cómo funcionan. Para ello, vamos a proponer una actividad que puede perfectamente sintetizar el curso. Se denomina "el reto de los 5€", y consiste en idear y llevar a la práctica una actividad con el fin de rentabilizar 5€. Esta dinámica ha sido creada por Tina Seelig, y puedes verla en el siguiente enlace:
 
-https://www.youtube.com/watch?v=VVgIX0s1wY8
+www.youtube.com/watch?v=VVgIX0s1wY8
 
 Con alguna modificación, en la práctica realizamos: una presentación de la dinámica, en el que se ofrece a cada grupo de alumnos 5€. Después han de plantear diferentes formas de rentabilizar ese dinero, elegir una y organizar cómo llevarla a la práctica. Conviene dejar 2, 3 ó 4 días (a mí me gusta que puedan utilizar ul fin de semana para la dinámica) para ejecutar la idea. En la clase siguiente, el grupo expondrá el trabajo llevado a cabo, con los inconvenientes que haya habido, los descubrimientos realizados, y el dinero obtenido.
 
@@ -1506,7 +1506,7 @@ Es necesario tener en cuenta una serie de aspectos antes de crear tu historia, q
      - Solución: tras el problema, se presentan los argumentos para justificar nuestra solución
    - Desenlace : donde se muestra qué ocurre tras resolver el problema.
 
-Un ejemplo muy gráfico: LEGO. http://www.soyunamarca.com/2012/08/la-historia-de-legoy-el-poder-del-storytelling/
+Un ejemplo muy gráfico: LEGO. www.soyunamarca.com/2012/08/la-historia-de-legoy-el-poder-del-storytelling/
 
 #### ACTIVIDAD NÚMERO 14. LA HISTORIA
 
@@ -2633,31 +2633,31 @@ En este módulo propongo varias aplicaciones que nos van a permitir, sobre todo,
 
 Wix es una interesante web en la que, con su plan gratuito, podemos partir de una web previamente diseñada, y en pocos minutos, darle forma como diseño web de nuestra startup.
 
-Fuente: http://es.wix.com/
+Fuente: es.wix.com/
 
 ### 5.2. APLICACIÓN MÓVIL: MOBINCUBE
 
 De la misma forma que la aplicación anterior, Mobincube nos permite hacer prototipos de app de forma sencilla y rápida, y a coste 0, siempre recurriendo a su plan gratuito.
 
-Fuente: http://www.mobincube.com/es/
+Fuente: www.mobincube.com/es/
 
 ### 5.3 VÍDEO ANIMADO: POW TOON
 
 Pow Toon es una sencilla herramienta que nos permite crear vídeos animados mediante una gran cantidad de recursos visuales que pone a nuestra disposición. Tras la maquetación, el vídeo finalizado puede subirse a YouTube, lo que nos permitirá insertarlo en nuestra web o página de aterrizaje.
 
-Fuente: https://www.powtoon.com/home/g/es/
+Fuente: www.powtoon.com/home/g/es/
 
 ### 5.4 INFOGRAFÍA: EASELY
 
 Lo visual está de moda, y a la hora de transmitir o comunicar contenidos, las infografías han ganado mucho terreno. En este sentido, son varias las aplicaciones que podemos manejar, pero por sencillez y calidad de acabado os sugiero Easely.
 
-Fuente: https://www.easel.ly/
+Fuente: www.easel.ly/
 
 ### 5.5 COMIC: PIXTON
 
 Otro forma de prototipado es el comic. A través del comic, y como si dispusiéramos de un storyboard, se puede recrear una historia. Muy aconsejable sobre todo en el caso de servicios.
 
-Fuente: https://www.pixton.com/es/
+Fuente: www.pixton.com/es/
 
 ## 6. APLICACIONES MÓVILES
 
