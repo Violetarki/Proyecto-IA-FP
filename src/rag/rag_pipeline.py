@@ -121,38 +121,55 @@ class RAG:
         logger.info("Construyendo prompt...")
 
 
+        # Indica si en esta llamada acabamos de iniciar una guía.
         guia_iniciada = False
 
+        # Indica si necesitamos consultar al LLM para generar la respuesta.
+        generar_con_llm = True
+
         if modo_guiado and not self.guided_mode.esta_activo():
+            # Inicia la guía con los pasos de la metodología seleccionada.
             arbol = self.arboles[metodologia]
             self.guided_mode.iniciar(arbol.raiz)
             guia_iniciada = True
 
 
         if self.guided_mode.esta_activo():
-            
+            # Si la guía ya estaba activa, la pregunta es la respuesta al paso anterior.
             if not guia_iniciada:
                 self.guided_mode.procesar_respuesta(pregunta)
 
-            paso = self.guided_mode.obtener_paso_actual()
+            if not self.guided_mode.esta_activo():
+                # No quedan más pasos: la guía acaba de finalizar.
+                respuesta = "¡Guía acabada, buen trabajo!"
+                generar_con_llm = False
+            else:
+                # Obtiene el paso que toca trabajar ahora.
+                paso = self.guided_mode.obtener_paso_actual()
 
-            contexto_guiado = self.guided_context_builder.construir(
-                paso=paso,
-                chunks=candidatos_expandidos,
-                progreso=self.guided_mode.progreso,
-            )
+                # Construye el contexto específico de la guía.
+                contexto_guiado = self.guided_context_builder.construir(
+                    paso=paso,
+                    chunks=candidatos_expandidos,
+                    progreso=self.guided_mode.progreso,
+                )
 
-            prompt = self.prompt_builder.construir_prompt_guiado(
-                historial,
-                pregunta,
-                contexto_guiado,
-            )
+                # Construye el prompt específico para el modo guiado.
+                prompt = self.prompt_builder.construir_prompt_guiado(
+                    historial,
+                    pregunta,
+                    contexto_guiado,
+                )
         else:
             prompt = self.prompt_builder.construir_prompt(
                 historial,
                 pregunta,
                 candidatos_expandidos,
             )
+
+        if generar_con_llm:
+            # Genera la respuesta solo cuando todavía necesitamos consultar al LLM.
+            respuesta = self.llm.generar_respuesta(prompt)
 
         logger.debug("\n========== PROMPT ==========\n")
         logger.debug("%s", prompt)
