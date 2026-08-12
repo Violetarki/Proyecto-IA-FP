@@ -41,3 +41,25 @@ class ContextStrategies:
             anadir_hermanos=False,
             anadir_hijos=False,
         )
+        
+    def ejemplo_actividad(self) -> EstrategiaContexto:
+            """Estrategia para intención de muestra de ejemplos, actividades y foros"""
+            return EstrategiaContexto(
+                umbral_excelente=0.5,
+                umbral_bueno=0.8,
+                umbral_aceptable=1.0,
+                anadir_padres=False,
+                anadir_hermanos=True,
+                anadir_hijos=True,
+            )
+            
+    def otro(self) -> EstrategiaContexto:
+                """Estrategia para intención otro-default cuando no se aclra que intencion coger"""
+                return EstrategiaContexto(
+                    umbral_excelente=0.5,
+                    umbral_bueno=0.8,
+                    umbral_aceptable=1.0,
+                    anadir_padres=True,
+                    anadir_hermanos=True,
+                    anadir_hijos=True,
+                )
