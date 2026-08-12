@@ -26,6 +26,8 @@ logging.basicConfig(
 werkzeug_logger = logging.getLogger("werkzeug")
 werkzeug_logger.propagate = False
 werkzeug_logger.addHandler(logging.StreamHandler())
+logging.getLogger("httpcore").setLevel(logging.WARNING)
+logging.getLogger("httpx").setLevel(logging.WARNING)
 
 
 app = Flask(
