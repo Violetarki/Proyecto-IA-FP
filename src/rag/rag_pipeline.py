@@ -168,16 +168,15 @@ class RAG:
             )
 
         if generar_con_llm:
+            
+            logger.debug("\n========== PROMPT ==========\n")
+            logger.debug("%s", prompt)
+            logger.debug("\n============================\n")
+
+            logger.info("Consultando el modelo...")
+
             # Genera la respuesta solo cuando todavía necesitamos consultar al LLM.
             respuesta = self.llm.generar_respuesta(prompt)
-
-        logger.debug("\n========== PROMPT ==========\n")
-        logger.debug("%s", prompt)
-        logger.debug("\n============================\n")
-
-        logger.info("Consultando el modelo...")
-
-        respuesta = self.llm.generar_respuesta(prompt)
 
         # Guardar la pregunta en historial
         self.historial.agregar_mensaje(
