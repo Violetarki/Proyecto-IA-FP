@@ -361,11 +361,17 @@ class ContextExpander:
         if intencion.intencion == "pasos":
             return self.strategies.pasos()
         
-        if intencion.intencion == "ejemplo_actividad":
-                    return self.strategies.ejemplo_actividad()
+        if intencion.intencion == "ejemplo":
+            return self.strategies.ejemplo()
+        
+        if intencion.intencion == "actividad":
+                    return self.strategies.actividad()
+        
+        if intencion.intencion == "comparacion":
+            return self.strategies.comparacion()
                 
         if intencion.intencion == "otro":
-                            return self.strategies.otro()
+            return self.strategies.otro()
 
         raise ValueError(
             f"Intención no soportada: {intencion.intencion}"

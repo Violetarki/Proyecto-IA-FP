@@ -292,5 +292,23 @@
             "rol": "bot",
             "contenido": "El contexto no contiene información sobre qué es una \"actividad\" en términos generales, ni define el concepto.\n\nSin embargo, menciona ejemplos específicos de actividades dentro de la metodología de \"Juego de roles\", como:\n*   Un escenario donde un estudiante actúa como proveedor y otro como dueño de una tienda negociando precios.\n*   Organizar un 'Shark Tank', donde unos estudiantes preparan un discurso de negocios y otros actúan como inversores.\n\nTambién se menciona una actividad de reflexión que consiste en pensar en tres ejemplos de la vida diaria y analizar si constituyen emprendimiento."
         }
+    ],
+    "00a06a04-0139-4dbf-990d-fdb563da95e7": [
+        {
+            "rol": "user",
+            "contenido": "¿Qué es el fondo de maniobra?"
+        },
+        {
+            "rol": "bot",
+            "contenido": "El fondo de maniobra es una magnitud financiera que mide la capacidad de una empresa para hacer frente a sus deudas inmediatas y continuar con sus actividades en el corto plazo, indicando así su solvencia.\n\nSe calcula restando el total de los pasivos de corto plazo al total de los activos de corto plazo (activos corrientes). Representa el excedente de recursos disponibles frente a las obligaciones urgentes.\n\nAdemás, se puede entender como la parte del activo corriente que se financia con recursos a largo plazo (pasivo no corriente o patrimonio neto). Cuanto mayor sea este monto, mayor será el margen de actuación de la empresa, lo que ayuda a evitar tensiones de tesorería y mantiene un fondo de maniobra positivo."
+        },
+        {
+            "rol": "user",
+            "contenido": "¿Qué es el crowdfunding?"
+        },
+        {
+            "rol": "bot",
+            "contenido": "El crowdfunding, también conocido como micromecenazgo, es una fuente de financiación que consiste en obtener recursos para un proyecto empresarial a través de las pequeñas aportaciones económicas realizadas por muchas personas.\n\nEsta modalidad se ha popularizado gracias al desarrollo de Internet, las redes sociales y los sistemas de micropagos telemáticos. Los beneficios que reciben los contribuyentes varían según el proyecto; por ejemplo, pueden recibir reconocimientos, productos o servicios relacionados con la iniciativa financiada. Existen diversas plataformas que facilitan este proceso, algunas de ellas especializadas en sectores concretos."
+        }
     ]
 }
