@@ -128,6 +128,21 @@ class IntentResult:
     metodo: str
 
 
+@dataclass(frozen=True)
+class EstrategiaContexto:
+    """
+    Configuración de expansión de contexto para una intención.
+    """
+
+    umbral_excelente: float
+    umbral_bueno: float
+    umbral_aceptable: float
+
+    anadir_padres: bool
+    anadir_hermanos: bool
+    anadir_hijos: bool
+
+
 @dataclass
 class Mensaje:
     """Representa un mensaje dentro del chatbot.

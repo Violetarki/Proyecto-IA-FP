@@ -9,7 +9,8 @@ También elimina duplicados y ordena los chunks según su posición
 dentro de la jerarquía de conocimiento.
 """
 
-from src.core.models import IntentResult, ResultadoBusqueda, Chunk
+from src.core.models import IntentResult, EstrategiaContexto, ResultadoBusqueda, Chunk
+from src.rag.context_strategies import ContextStrategies
 from src.core.config import UMBRAL_ACEPTABLE, UMBRAL_BUENO, UMBRAL_EXCELENTE, MAXIMO_CHUNKS, MINIMO_CHUNKS
 from src.rag.historial import Historial
 from src.knowledge.models import KnowledgeNode, KnowledgeTree
@@ -32,28 +33,43 @@ class ContextExpander:
         """
         self.arboles = arboles
         self.historial = historial
+        self.strategies = ContextStrategies()
+
 
     def expandir(
         self,
         resultados: list[ResultadoBusqueda],
         intencion: IntentResult,
     ) -> list[Chunk]:
+        """
+        Selecciona y organiza el contexto recuperado.
 
-        candidatos = self._aplicar_umbrales(resultados)
+        El ContextExpander se encarga de la expansión jerárquica
+        común. Después delega en la estrategia correspondiente
+        las decisiones específicas de cada intención.
+        """
+        estrategia = self._obtener_estrategia(intencion)
 
-        candidatos = self._enriquecer_con_padres(candidatos)
+        candidatos = self._aplicar_umbrales(resultados, estrategia)
 
-        candidatos = self._enriquecer_con_hermanos(candidatos)
+        if estrategia.anadir_padres:
+            candidatos = self._enriquecer_con_padres(candidatos)
 
-        candidatos = self._enriquecer_con_hijos(candidatos)
+        if estrategia.anadir_hermanos:
+            candidatos = self._enriquecer_con_hermanos(candidatos)
+
+        if estrategia.anadir_hijos:
+            candidatos = self._enriquecer_con_hijos(candidatos)
 
         candidatos = self._eliminar_duplicados(candidatos)
 
         return self._ordenar_por_jerarquia(candidatos)
 
+
     def _aplicar_umbrales(
         self,
         resultados: list[ResultadoBusqueda],
+        estrategia: EstrategiaContexto,
     ) -> list[Chunk]:
         """
         Filtra los chunks recuperados según su relevancia.
@@ -65,7 +81,7 @@ class ContextExpander:
         excelentes = [
             resultado.chunk
             for resultado in resultados
-                if resultado.distancia <= UMBRAL_EXCELENTE
+                if resultado.distancia <= estrategia.umbral_excelente
         ]
 
         if len(excelentes) >= MINIMO_CHUNKS:
@@ -74,7 +90,7 @@ class ContextExpander:
         buenos = [
             resultado.chunk
             for resultado in resultados
-                if resultado.distancia <= UMBRAL_BUENO
+            if resultado.distancia <= estrategia.umbral_bueno
         ]
 
         if len(buenos) >= MINIMO_CHUNKS:
@@ -83,10 +99,11 @@ class ContextExpander:
         aceptables = [
             resultado.chunk
             for resultado in resultados
-                if resultado.distancia <= UMBRAL_ACEPTABLE
+            if resultado.distancia <= estrategia.umbral_aceptable
         ]
 
         return aceptables[:MAXIMO_CHUNKS]
+    
 
     def _obtener_arbol(
         self,
@@ -101,12 +118,11 @@ class ContextExpander:
         self, 
         chunk: Chunk,
         ) -> tuple[str, int]:
-        
+
         return (
             chunk.documento.ruta,
             chunk.indice,
         )
-        
 
     def _clave_chunk_id(
         self,
@@ -118,7 +134,7 @@ class ContextExpander:
             chunk.documento.ruta,
             chunk_id,
         )
-        
+
 
     def _obtener_nodo(
         self,
@@ -134,7 +150,6 @@ class ContextExpander:
             arbol.raiz,
             chunk.node_id,
         )
-        
 
     def _buscar_nodo(
         self,
@@ -157,6 +172,7 @@ class ContextExpander:
                 return encontrado
 
         return None
+
 
     def _enriquecer_con_padres(
         self,
@@ -192,6 +208,7 @@ class ContextExpander:
 
         return resultado
 
+
     def _enriquecer_con_hermanos(
         self,
         chunks: list[Chunk],
@@ -222,6 +239,7 @@ class ContextExpander:
                     resultado.append(chunk_hermano)
 
         return resultado
+
 
     def _enriquecer_con_hijos(
         self,
@@ -255,6 +273,7 @@ class ContextExpander:
 
         return resultado
 
+
     def _eliminar_duplicados(
         self,
         chunks: list[Chunk],
@@ -281,6 +300,7 @@ class ContextExpander:
 
         return resultado
 
+
     def _ruta_nodo(
         self,
         nodo: KnowledgeNode,
@@ -296,8 +316,8 @@ class ContextExpander:
         ruta.append(0)
 
         return tuple(reversed(ruta))
-    
-    
+
+
     def _ordenar_por_jerarquia(
         self,
         chunks: list[Chunk],
@@ -312,3 +332,16 @@ class ContextExpander:
             return self._ruta_nodo(nodo)
 
         return sorted(chunks, key=clave)
+
+
+    def _obtener_estrategia(
+        self,
+        intencion: IntentResult,
+    ) -> EstrategiaContexto:
+
+        if intencion.intencion == "consulta_conceptual":
+            return self.strategies.consulta_conceptual()
+
+        raise ValueError(
+            f"Intención no soportada: {intencion.intencion}"
+        )
