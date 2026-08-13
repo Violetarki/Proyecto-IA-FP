@@ -11,15 +11,16 @@ from pathlib import Path
 from flask import Flask
 
 print("ANTES DE IMPORTAR PUBLIC")
-
 from web.public import public_bp
-print("IMPORTADO public")
+print("PUBLIC IMPORTADO")
 
+print("ANTES DE IMPORTAR AUTH")
 from web.auth import auth_bp
-print("IMPORTADO auth")
+print("AUTH IMPORTADO")
 
+print("ANTES DE IMPORTAR PROFESOR")
 from web.profesor import profesor_bp
-print("IMPORTADO profesor")
+print("PROFESOR IMPORTADO")
 
 Path("data/logs").mkdir(exist_ok=True)
 
