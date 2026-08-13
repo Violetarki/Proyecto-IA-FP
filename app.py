@@ -11,8 +11,13 @@ from pathlib import Path
 from flask import Flask
 
 from web.public import public_bp
+print("IMPORTADO public")
+
 from web.auth import auth_bp
+print("IMPORTADO auth")
+
 from web.profesor import profesor_bp
+print("IMPORTADO profesor")
 
 Path("data/logs").mkdir(exist_ok=True)
 
@@ -38,9 +43,13 @@ app = Flask(
 
 # Registro de los Blueprints de la aplicación.
 app.register_blueprint(public_bp)
-app.register_blueprint(auth_bp)
-app.register_blueprint(profesor_bp)
+print("REGISTRADO public")
 
+app.register_blueprint(auth_bp)
+print("REGISTRADO auth")
+
+app.register_blueprint(profesor_bp)
+print("REGISTRADO profesor")
 
 # La clave secreta permite que Flask gestione las sesiones.
 #
