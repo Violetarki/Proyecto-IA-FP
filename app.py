@@ -10,6 +10,8 @@ import logging
 from pathlib import Path
 from flask import Flask
 
+print("ANTES DE IMPORTAR PUBLIC")
+
 from web.public import public_bp
 print("IMPORTADO public")
 
