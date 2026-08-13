@@ -27,7 +27,7 @@ class GuidedContextBuilder:
         chunks_paso = [
             chunk
             for chunk in chunks
-                if chunk.node_id == paso.id
+            if chunk.node_id == paso.id
         ]
 
         return {
