@@ -20,7 +20,7 @@ arboles = {
     "se_material_complementario": cargar_arbol(RUTA_ARBOL_COMPLEMENTARIO),
 }
 
-rag = RAG(arboles)
+#rag = RAG(arboles)
 
 public_bp = Blueprint(
     "public",

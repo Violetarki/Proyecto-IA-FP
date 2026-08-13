@@ -15,11 +15,11 @@ from web.public import public_bp
 print("PUBLIC IMPORTADO", flush=True)
 
 print("ANTES DE IMPORTAR AUTH", flush=True)
-#from web.auth import auth_bp
+from web.auth import auth_bp
 print("AUTH IMPORTADO", flush=True)
 
 print("ANTES DE IMPORTAR PROFESOR", flush=True)
-#from web.profesor import profesor_bp
+from web.profesor import profesor_bp
 print("PROFESOR IMPORTADO", flush=True)
 
 Path("data/logs").mkdir(exist_ok=True)
@@ -48,10 +48,10 @@ app = Flask(
 app.register_blueprint(public_bp)
 print("REGISTRADO public")
 
-#app.register_blueprint(auth_bp)
+app.register_blueprint(auth_bp)
 print("REGISTRADO auth")
 
-#app.register_blueprint(profesor_bp)
+app.register_blueprint(profesor_bp)
 print("REGISTRADO profesor")
 
 # La clave secreta permite que Flask gestione las sesiones.
