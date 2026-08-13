@@ -1,9 +1,13 @@
 from pathlib import Path
 import uuid
 from flask import Blueprint, render_template, request, flash, session
+import logging
+
+logger = logging.getLogger(__name__)
 
 from src.rag.rag_pipeline import RAG
 from src.knowledge.loader import cargar_arbol
+from src.rag.guided_steps import obtener_pasos, obtener_actividades_lean, obtener_fases_simulacion
 from web.services.documentos import (
     obtener_metodologias,
     mostrar_nombre_metodologia,
@@ -72,10 +76,10 @@ def chat():
     if "id_conversacion" not in session:
         session["id_conversacion"] = str(uuid.uuid4())
 
-    if "estado_guiado" not in session:
-        session["estado_guiado"] = None
+    if "guias" not in session:
+        session["guias"] = {}
 
-    metodologia_seleccionada = request.form.get(
+    metodologia_seleccionada = request.values.get(
         "metodologia",
         "simulacion_empresarial",
     )
@@ -123,14 +127,22 @@ def chat():
 
         elif modo == "guiado":
             try:
+                estado_guiado = session["guias"].get(
+                    metodologia_seleccionada
+                )
+
                 _, estado_guiado = rag.responder(
                     pregunta=pregunta,
                     metodologia=metodologia_seleccionada,
                     id_conversacion=session["id_conversacion"],
                     modo_guiado=True,
-                    estado_guiado=session["estado_guiado"],
+                    estado_guiado=estado_guiado,
                 )
-                session["estado_guiado"] = estado_guiado
+
+                session["guias"][metodologia_seleccionada] = estado_guiado
+
+                # Forzamos a Flask a detectar el cambio dentro del diccionario.
+                session.modified = True
 
             except Exception as error:
                 flash(
@@ -140,10 +152,107 @@ def chat():
 
     conversacion = rag.historial.obtener_historial(session["id_conversacion"])
 
-    return render_template(
-        "chatbot.html",
-        conversacion=conversacion,
-        metodologias=metodologias,
-        metodologia_seleccionada=metodologia_seleccionada,
-        mostrar_nombre_metodologia=mostrar_nombre_metodologia,
+    arbol = arboles.get(metodologia_seleccionada)
+
+    pasos = (
+        obtener_pasos(
+            metodologia_seleccionada,
+            arbol,
+        )
+        if arbol
+        else []
     )
+
+    estado_guia = session["guias"].get(metodologia_seleccionada)
+
+    actividades_por_paso = {}
+
+    if metodologia_seleccionada == "lean_startup":
+        for paso in pasos:
+            actividades_por_paso[paso.id] = obtener_actividades_lean(paso)
+
+    return render_template(
+            "chatbot.html",
+            conversacion=conversacion,
+            metodologias=metodologias,
+            metodologia_seleccionada=metodologia_seleccionada,
+            mostrar_nombre_metodologia=mostrar_nombre_metodologia,
+            pasos=pasos,
+            estado_guia=estado_guia,
+            actividades_por_paso=actividades_por_paso,
+        )
+
+
+@public_bp.route(
+    "/chat/seleccionar-paso",
+    methods=["POST"],
+)
+def seleccionar_paso():
+    """
+    Selecciona un paso del modo guiado y genera
+    una primera respuesta del asistente sobre él.
+    """
+
+    metodologia = request.form.get(
+        "metodologia",
+        "",
+    ).strip()
+
+    paso_id = request.form.get(
+        "paso_id",
+        "",
+    ).strip()
+
+    if not metodologia or not paso_id:
+        return {
+            "ok": False,
+            "error": "Faltan datos para seleccionar la actividad.",
+        }, 400
+
+    if metodologia not in arboles:
+        return {
+            "ok": False,
+            "error": "La metodología seleccionada no es válida.",
+        }, 400
+
+    if "id_conversacion" not in session:
+        session["id_conversacion"] = str(uuid.uuid4())
+
+    if "guias" not in session:
+        session["guias"] = {}
+
+    try:
+
+        estado_guiado = session["guias"].get(metodologia)
+
+        respuesta, estado_guiado = rag.responder(
+            pregunta="",
+            metodologia=metodologia,
+            id_conversacion=session["id_conversacion"],
+            modo_guiado=True,
+            estado_guiado=estado_guiado,
+            paso_id=paso_id,
+        )
+
+        if estado_guiado.get("paso_actual") != paso_id:
+            return {
+                "ok": False,
+                "error": "La actividad seleccionada no es válida.",
+            }, 400
+
+        session["guias"][metodologia] = estado_guiado
+        session.modified = True
+
+        return {
+            "ok": True,
+            "respuesta": respuesta,
+            "paso_id": paso_id,
+        }
+
+    except Exception:
+
+        logger.exception("Error al seleccionar paso guiado.")
+        return {
+            "ok": False,
+            "error": "No se ha podido iniciar la actividad.",
+        }, 500

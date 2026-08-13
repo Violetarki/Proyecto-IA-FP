@@ -5,10 +5,8 @@ from src.core.models import Chunk
 class GuidedContextBuilder:
     """Construye el contexto necesario para el modo de aprendizaje guiado."""
 
-
     def __init__(self, arboles: dict[str, KnowledgeTree]):
         self.arboles = arboles
-
 
     def construir(
         self,
@@ -17,34 +15,40 @@ class GuidedContextBuilder:
         progreso: list,
     ) -> dict:
         """
-        Construye el contexto del paso actual.
-
-        Incluye el título del paso, su nodo padre, su ruta jerárquica,
-        los chunks recuperados pertenecientes al paso y el progreso
-        anterior del alumno.
+        Construye el contexto del elemento seleccionado.
         """
 
-        chunks_paso = [
-            chunk
-            for chunk in chunks
-            if chunk.node_id == paso.id
+        chunks_paso = [chunk for chunk in chunks if chunk.node_id == paso.id]
+
+        hijos = [
+            {
+                "id": hijo.id,
+                "titulo": hijo.titulo,
+                "nivel": hijo.nivel,
+            }
+            for hijo in paso.hijos
         ]
 
         return {
             "titulo": paso.titulo,
             "padre": paso.padre.titulo if paso.padre else None,
             "ruta": self._obtener_ruta(paso),
+            "hijos": hijos,
             "chunks": chunks_paso,
             "progreso": progreso,
         }
 
-    def _obtener_ruta(self, nodo: KnowledgeNode) -> list[str]:
+    def _obtener_ruta(
+        self,
+        nodo: KnowledgeNode,
+    ) -> list[str]:
         """Devuelve la ruta jerárquica desde la raíz hasta el nodo."""
 
         ruta = []
         actual = nodo
 
         while actual is not None:
+
             if actual.titulo is not None:
                 ruta.append(actual.titulo)
 

@@ -1,63 +1,94 @@
 """
-Módulo encargado de gestionar el modo de aprendizaje guiado.
+Gestiona el estado del checklist del modo guiado.
 
-GuidedMode ya no guarda estado en self: recibe y devuelve el estado
-como un diccionario serializable (para poder guardarlo en flask.session).
-
-GuidedMode → estado/progreso → obtención del paso → construcción del contexto 
-→ interacción con el LLM → procesamiento de la respuesta → avance o permanencia en el paso.
+GuidedMode no conoce ninguna metodología concreta.
+La estructura de pasos la prepara guided_steps.py.
 """
 
 
-
 class GuidedMode:
-    """Gestiona la lógica de una sesión de aprendizaje guiada paso a paso."""
+    """Gestiona el progreso del alumno en el modo checklist."""
 
-    def estado_inicial(self, nodo_proceso) -> dict:
-        """Crea el estado inicial de una guía a partir del nodo raíz del proceso."""
-        pasos_ids = [hijo.id for hijo in nodo_proceso.hijos]
+    def estado_inicial(self, pasos_ids: list[str]) -> dict:
+        """
+        Crea el estado inicial del checklist.
+        """
 
         return {
             "activo": True,
             "pasos_ids": pasos_ids,
-            "paso_actual": 0,
-            "progreso": [],
+            "completados": [],
+            "paso_actual": None,
         }
 
-    def obtener_paso_actual(self, estado: dict, arbol):
-        """Devuelve el KnowledgeNode del paso actual, o None si no hay guía activa."""
-        if not estado.get("activo"):
-            return None
+    def seleccionar_paso(
+        self,
+        estado: dict,
+        paso_id: str,
+    ) -> dict:
+        """Selecciona el elemento que el alumno quiere trabajar."""
 
-        pasos_ids = estado["pasos_ids"]
-        paso_actual = estado["paso_actual"]
-
-        id_nodo_actual = pasos_ids[paso_actual]
-        return arbol.buscar_por_id(id_nodo_actual)
-
-    def procesar_respuesta(self, estado: dict, respuesta_alumno: str, arbol) -> dict:
-        """Registra la respuesta del alumno y avanza el estado al siguiente paso."""
         if not estado.get("activo"):
             return estado
 
-        pasos_ids = estado["pasos_ids"]
-        paso_actual = estado["paso_actual"]
+        if paso_id not in estado.get("pasos_ids", []):
+            return estado
 
-        nodo_actual = arbol.buscar_por_id(pasos_ids[paso_actual])
-
-        estado["progreso"].append(
-            {
-                "paso": nodo_actual.titulo,
-                "respuesta": respuesta_alumno,
-            }
-        )
-
-        estado["paso_actual"] += 1
-
-        if estado["paso_actual"] >= len(pasos_ids):
-            estado["activo"] = False
+        estado["paso_actual"] = paso_id
 
         return estado
 
+    def marcar_completado(
+        self,
+        estado: dict,
+        paso_id: str,
+    ) -> dict:
+        """Marca un elemento como completado."""
+
+        if paso_id not in estado.get("pasos_ids", []):
+            return estado
+
+        if paso_id not in estado["completados"]:
+            estado["completados"].append(paso_id)
+
+        return estado
+
+    def desmarcar_completado(
+        self,
+        estado: dict,
+        paso_id: str,
+    ) -> dict:
+        """Permite desmarcar un elemento previamente completado."""
+
+        if paso_id in estado.get("completados", []):
+            estado["completados"].remove(paso_id)
+
+        return estado
+
+    def obtener_paso_actual(
+        self,
+        estado: dict,
+        arbol,
+    ):
+        """Devuelve el nodo actualmente seleccionado."""
+
+        paso_id = estado.get("paso_actual")
+
+        if not paso_id:
+            return None
+
+        return arbol.buscar_por_id(paso_id)
+
+    def esta_completado(
+        self,
+        estado: dict,
+        paso_id: str,
+    ) -> bool:
+        """Indica si un elemento está completado."""
+
+        return paso_id in estado.get("completados", [])
+
     def esta_activo(self, estado: dict) -> bool:
+        """Indica si el modo guiado está activo."""
+
         return estado.get("activo", False)
