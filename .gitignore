@@ -37,5 +37,6 @@ iniciar_tunel.bat
 data/logs/*
 !data/logs/.gitkeep
 
-data/historial_conversaciones
-/data/vector_store
+# Datos q están relacionados que se borrarn y actualizan juntos
+/data/knowledge/*
+/data/vector_store/*
