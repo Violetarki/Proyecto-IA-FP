@@ -125,20 +125,36 @@ class RAG:
 
         arbol = self.arboles[metodologia]
 
+        intenciones_no_progreso = {"consulta_conceptual", "ejemplo", "comparacion"}
+        es_duda_lateral = (
+            modo_guiado
+            and estado_guiado is not None
+            and self.guided_mode.esta_activo(estado_guiado)
+            and intencion.intencion in intenciones_no_progreso
+        )
+
         # Indica si en esta llamada acabamos de iniciar una guía.
         guia_iniciada = False
 
         # Indica si necesitamos consultar al LLM para generar la respuesta.
         generar_con_llm = True
 
-        if modo_guiado and (
-            estado_guiado is None or not self.guided_mode.esta_activo(estado_guiado)
+        if (
+            modo_guiado
+            and not es_duda_lateral
+            and (
+                estado_guiado is None or not self.guided_mode.esta_activo(estado_guiado)
+            )
         ):
             # Inicia la guía con los pasos de la metodología seleccionada.
             estado_guiado = self.guided_mode.estado_inicial(arbol.raiz)
             guia_iniciada = True
 
-        if estado_guiado is not None and self.guided_mode.esta_activo(estado_guiado):
+        if (
+            estado_guiado is not None
+            and self.guided_mode.esta_activo(estado_guiado)
+            and not es_duda_lateral
+        ):
             # Si la guía ya estaba activa, la pregunta es la respuesta al paso anterior.
             if not guia_iniciada:
                 estado_guiado = self.guided_mode.procesar_respuesta(
@@ -153,10 +169,21 @@ class RAG:
                 # Obtiene el paso que toca trabajar ahora.
                 paso = self.guided_mode.obtener_paso_actual(estado_guiado, arbol)
 
+                if paso is None:
+                    raise ValueError(
+                        "No se ha podido determinar el paso actual de la guía."
+                    )
+
+                # Recupera directamente los chunks del manual para este paso
+
+                # Recupera directamente los chunks del manual para este paso
+                # (sin búsqueda semántica, para no depender de lo que escriba el alumno).
+                chunks_paso = self.retriever.recuperar_por_nodo(paso.id, metodologia)
+
                 # Construye el contexto específico de la guía.
                 contexto_guiado = self.guided_context_builder.construir(
                     paso=paso,
-                    chunks=candidatos_expandidos,
+                    chunks=chunks_paso,
                     progreso=estado_guiado["progreso"],
                 )
 

@@ -121,7 +121,7 @@ class ConstructorPrompts:
             )
         
         contexto = self._formatear_contexto(chunks)
-        historial = self._formatear_historial(historial)
+        historial_formateado = self._formatear_historial(historial)
 
         return f"""
         {INSTRUCCIONES}
@@ -133,18 +133,9 @@ class ConstructorPrompts:
         {pregunta}
 
         Historial:
-        {historial}
+        {historial_formateado}
 
         """.strip()
-
-
-    def construir_prompt_guiado(
-        self,
-        historial: list[Mensaje],
-        pregunta: str,
-        contexto: dict,
-    ) -> str:
-        ...
 
 
     def construir_prompt_guiado(

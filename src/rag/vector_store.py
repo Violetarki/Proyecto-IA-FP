@@ -284,6 +284,33 @@ class VectorStore:
 
         return resultados
 
+    def obtener_por_nodo(
+        self,
+        node_id: str,
+        metodologia: str,
+    ) -> list[Chunk]:
+        """
+        Recupera todos los chunks pertenecientes a un nodo concreto del árbol.
+        """
+
+        resultado = self.collection.get(
+            where={
+                "$and": [
+                    {"node_id": node_id},
+                    {"metodologia": metodologia},
+                ]
+            },
+            include=["documents", "metadatas"],
+        )
+
+        documentos = resultado.get("documents") or []
+        metadatos = resultado.get("metadatas") or []
+
+        return [
+            self._chunk_desde_resultado(texto, cast(dict[str, str | int], metadata))
+            for texto, metadata in zip(documentos, metadatos)
+        ]
+
     def eliminar_documento(
         self,
         documento: Documento,
