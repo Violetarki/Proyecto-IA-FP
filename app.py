@@ -11,7 +11,7 @@ from pathlib import Path
 from flask import Flask
 
 print("ANTES DE IMPORTAR PUBLIC", flush=True)
-#from web.public import public_bp
+from web.public import public_bp
 print("PUBLIC IMPORTADO", flush=True)
 
 print("ANTES DE IMPORTAR AUTH", flush=True)
@@ -45,7 +45,7 @@ app = Flask(
 )
 
 # Registro de los Blueprints de la aplicación.
-#app.register_blueprint(public_bp)
+app.register_blueprint(public_bp)
 print("REGISTRADO public")
 
 #app.register_blueprint(auth_bp)
