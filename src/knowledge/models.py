@@ -1,7 +1,6 @@
 from __future__ import annotations
 
 from dataclasses import dataclass, field
-from uuid import uuid4
 
 from src.core.models import Metodologia
 
