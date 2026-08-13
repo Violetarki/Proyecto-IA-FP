@@ -8,26 +8,19 @@ __pycache__/
 # Ignorar los archivos de las metodologías
 documents/lean_startup/*
 documents/simulacion_empresarial/*
-# documents/boe/*
 
 # Mantener las carpetas en Git
 !documents/lean_startup/.gitkeep
 !documents/simulacion_empresarial/.gitkeep
 # !documents/boe/.gitkeep
+
 # Markdown generados automáticamente
-data/markdown_clean/*
 !data/markdown_clean/.gitkeep
-!data/markdown_clean/lean_startup/
+
 !data/markdown_clean/lean_startup/.gitkeep
-!data/markdown_clean/simulacion_empresarial/
+
 !data/markdown_clean/simulacion_empresarial/.gitkeep
 .vscode/settings.json
-
-# Ignorar todo el contenido de la base vectorial
-data/vector_store/*
-
-# Excepto el archivo que mantiene la carpeta
-!data/vector_store/.gitkeep
 
 # API KEY env
 .env
@@ -39,10 +32,6 @@ data/historial_conversaciones
 # Pruebas
 data/markdown_raw/lean_startup/manual.md
 iniciar_tunel.bat
-
-# Ignorar todo el contenido de la carpeta knowledge excepto el archivo que mantiene la carpeta
-data/knowledge/*
-!data/knowledge/.gitkeep
 
 # Ignorar todo el contenido de la carpeta logs excepto el archivo que mantiene la carpeta
 data/logs/*

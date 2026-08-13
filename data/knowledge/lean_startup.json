@@ -1,0 +1,2562 @@
+{
+    "metodologia": "lean_startup",
+    "raiz": {
+        "id": "84edbd0f-1e49-47c6-b373-041b297704ae",
+        "titulo": null,
+        "nivel": 0,
+        "chunk_ids": [],
+        "hijos": [
+            {
+                "id": "b5811cc1-f4fe-40b8-8dbf-c75a1eec98a3",
+                "titulo": "INTRODUCCIÓN",
+                "nivel": 1,
+                "chunk_ids": [],
+                "hijos": [
+                    {
+                        "id": "eca9ce34-ae0a-4073-8728-535ba3102e85",
+                        "titulo": "Autor",
+                        "nivel": 2,
+                        "chunk_ids": [
+                            0
+                        ],
+                        "hijos": []
+                    },
+                    {
+                        "id": "80b56d3f-4b18-4fa1-8d17-941dc475e164",
+                        "titulo": "Datos libro",
+                        "nivel": 2,
+                        "chunk_ids": [
+                            1
+                        ],
+                        "hijos": []
+                    },
+                    {
+                        "id": "e65283d8-24d8-4986-bec0-76b522107dce",
+                        "titulo": "Un ejemplo de emprendimiento",
+                        "nivel": 2,
+                        "chunk_ids": [
+                            2
+                        ],
+                        "hijos": []
+                    },
+                    {
+                        "id": "d6b6e6fb-cf5a-44bc-82ef-5076dabf6a91",
+                        "titulo": "Prólogo por Néstor Guerra",
+                        "nivel": 2,
+                        "chunk_ids": [],
+                        "hijos": [
+                            {
+                                "id": "7610d3c1-c3eb-4527-80be-32cc3f87b2aa",
+                                "titulo": "Las dos enfermedades del emprendedor",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    3
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "6742c4ed-01bb-4a0d-9e06-ee9d4b509e24",
+                                "titulo": "El origen y el valor de Lean Startup",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    4
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "85b91709-fa6f-48d0-b59c-c932e0f14c8c",
+                                "titulo": "La educación, la asignatura pendiente",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    5
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "d78628a3-4f04-4110-86af-1e8920243f19",
+                                "titulo": "El emprendimiento como asignatura obligatoria",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    6
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "48d87b0b-5043-44ed-842e-48b779391b3a",
+                                "titulo": "Cierre: Pablo y el libro",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    7
+                                ],
+                                "hijos": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "31b3f98d-e802-40f7-8ad0-8e7a47e5bf78",
+                        "titulo": "Reflexión previa",
+                        "nivel": 2,
+                        "chunk_ids": [
+                            8
+                        ],
+                        "hijos": [
+                            {
+                                "id": "21cc7316-305f-4f98-a241-3386737b67ce",
+                                "titulo": "Cómo usar el manual",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    9
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "81fdda15-b6f0-4b58-bce6-e0830c70b46a",
+                                "titulo": "Cuatro infografías claves para entender este manual",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    10
+                                ],
+                                "hijos": [
+                                    {
+                                        "id": "3cb536c1-66c8-4565-a4d5-fef9c6079f79",
+                                        "titulo": "1. Radiografía del profesor emprendedor.",
+                                        "nivel": 4,
+                                        "chunk_ids": [
+                                            11
+                                        ],
+                                        "hijos": [
+                                            {
+                                                "id": "17f750a6-aac8-4c2c-8800-1eea7ed3df04",
+                                                "titulo": "Infografía Radiografía del Profesor emprendedor",
+                                                "nivel": 5,
+                                                "chunk_ids": [
+                                                    12
+                                                ],
+                                                "hijos": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "c10114a8-eaa7-4e8e-9452-3edb1c1d7df3",
+                                        "titulo": "2. Metodología es la que se basa este manual.",
+                                        "nivel": 4,
+                                        "chunk_ids": [
+                                            13
+                                        ],
+                                        "hijos": [
+                                            {
+                                                "id": "ff944d6f-c6c5-4c9a-b594-0e9707989390",
+                                                "titulo": "Infografía METODOLOGÍA",
+                                                "nivel": 5,
+                                                "chunk_ids": [
+                                                    14
+                                                ],
+                                                "hijos": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "2c442f62-9de2-40ec-b337-025b307bca5e",
+                                        "titulo": "3. Dinámicas de trabajo.",
+                                        "nivel": 4,
+                                        "chunk_ids": [
+                                            15
+                                        ],
+                                        "hijos": [
+                                            {
+                                                "id": "9cc356a7-0d2c-4081-bf60-0f34cac04d99",
+                                                "titulo": "Infografía 30 DINÁMICAS basadas en las 4Cs: CREATIVIDAD, COMUNICACIÓN, COOPERACIÓN, CONFIANZA",
+                                                "nivel": 5,
+                                                "chunk_ids": [
+                                                    16
+                                                ],
+                                                "hijos": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "f87c8adc-583e-4750-83b7-2e2e19d14ac0",
+                                        "titulo": "4. Recomendaciones para aplicar Lean Startup en el aula.",
+                                        "nivel": 4,
+                                        "chunk_ids": [
+                                            17
+                                        ],
+                                        "hijos": [
+                                            {
+                                                "id": "b724bdbf-98bd-4d8e-92d3-1d752980badc",
+                                                "titulo": "Infografía Recomendaciones",
+                                                "nivel": 5,
+                                                "chunk_ids": [
+                                                    18
+                                                ],
+                                                "hijos": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "0b665854-618e-4dc5-9451-580a9975c01e",
+                                "titulo": "Conclusión reflexión",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    19
+                                ],
+                                "hijos": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "2d6ead69-1d7f-4d86-89e6-14f705b44360",
+                "titulo": "MÓDULO O. JUSTIFICACIÓN",
+                "nivel": 1,
+                "chunk_ids": [],
+                "hijos": [
+                    {
+                        "id": "044f0bfd-3656-4245-ae32-98a9c08ba23b",
+                        "titulo": "1. EL PROBLEMA",
+                        "nivel": 2,
+                        "chunk_ids": [
+                            20
+                        ],
+                        "hijos": [
+                            {
+                                "id": "f12742c3-1dc5-40ec-9882-59942007564c",
+                                "titulo": "Definición emprender",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    21
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "25e0cd7d-4cfa-466e-b451-dd2188e61af4",
+                                "titulo": "Sistema educativo actual",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    22
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "0b8465be-4331-4f5f-89d6-3ca9545ca040",
+                                "titulo": "Cambio necesario en la metodología docente",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    23
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "5c3918cd-d3a6-491d-b20f-f22981eb76c4",
+                                "titulo": "Metodología del Aprendizaje basado en Proyectos/Retos/Problemas",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    24
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "71d0c020-3560-49d6-81d8-b6e1898cb56b",
+                                "titulo": "Mejora de la calidad educativa",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    25
+                                ],
+                                "hijos": [
+                                    {
+                                        "id": "2532a59c-2971-42e5-94db-2b87d401547b",
+                                        "titulo": "Infografía Competencias Clave con la LOMCE",
+                                        "nivel": 4,
+                                        "chunk_ids": [
+                                            26
+                                        ],
+                                        "hijos": []
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "e94000f4-9ff8-4c61-bb5f-d66085c0393a",
+                                "titulo": "Competencia clave de sentido de la iniciativa y espíritu emprendedor",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    27
+                                ],
+                                "hijos": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "265618d0-2f84-45e7-a6dc-22b5b39932e8",
+                        "titulo": "2. LA SOLUCIÓN",
+                        "nivel": 2,
+                        "chunk_ids": [
+                            28
+                        ],
+                        "hijos": [
+                            {
+                                "id": "529617eb-332f-4e57-86b3-8130e1418f33",
+                                "titulo": "Las 4 Cs del alumno emprendedor",
+                                "nivel": 3,
+                                "chunk_ids": [],
+                                "hijos": [
+                                    {
+                                        "id": "4af398b5-8f99-487b-a29b-b1334a819297",
+                                        "titulo": "Creatividad",
+                                        "nivel": 4,
+                                        "chunk_ids": [
+                                            29
+                                        ],
+                                        "hijos": []
+                                    },
+                                    {
+                                        "id": "af000686-57cd-4b3e-b3a5-3ebf1398d1a1",
+                                        "titulo": "Comunicación",
+                                        "nivel": 4,
+                                        "chunk_ids": [
+                                            30
+                                        ],
+                                        "hijos": []
+                                    },
+                                    {
+                                        "id": "6b04ec5f-6f0a-4da2-b9eb-05bcfd3e7446",
+                                        "titulo": "Cooperación",
+                                        "nivel": 4,
+                                        "chunk_ids": [
+                                            31
+                                        ],
+                                        "hijos": []
+                                    },
+                                    {
+                                        "id": "87611790-dd5a-42cd-9ff9-bec878fd8925",
+                                        "titulo": "Confianza",
+                                        "nivel": 4,
+                                        "chunk_ids": [
+                                            32
+                                        ],
+                                        "hijos": []
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "b2b4d42d-e24c-470d-b7cd-09578b383243",
+                                "titulo": "Infografía de Las 4 Cs de Educación Emprendedora",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    33
+                                ],
+                                "hijos": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "ea10fe63-8a04-4fda-9d40-1b10482eb24d",
+                        "titulo": "3. AJUSTE METODOLOGÍA-ALUMNO",
+                        "nivel": 2,
+                        "chunk_ids": [
+                            34
+                        ],
+                        "hijos": [
+                            {
+                                "id": "27e03883-005f-485b-be66-9de9edf7ca4a",
+                                "titulo": "Condicionantes que afectan al proceso educativo",
+                                "nivel": 3,
+                                "chunk_ids": [],
+                                "hijos": [
+                                    {
+                                        "id": "301f0c99-9210-4e0d-82dd-8b5ad7a931fd",
+                                        "titulo": "1. La secuencia básica del proceso educativo",
+                                        "nivel": 4,
+                                        "chunk_ids": [
+                                            35
+                                        ],
+                                        "hijos": []
+                                    },
+                                    {
+                                        "id": "75f91dcc-4eaf-428b-8d78-09ef1df69e0b",
+                                        "titulo": "2. El currículo básico",
+                                        "nivel": 4,
+                                        "chunk_ids": [
+                                            36
+                                        ],
+                                        "hijos": []
+                                    },
+                                    {
+                                        "id": "aa617f7e-cf2f-48c7-8a3f-6b88af5ee4f7",
+                                        "titulo": "3. Cambio de la metodología educativa",
+                                        "nivel": 4,
+                                        "chunk_ids": [
+                                            37
+                                        ],
+                                        "hijos": []
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "77fec932-42ca-47b0-8341-6d54a9a186ac",
+                                "titulo": "Infografía ajuste método-alumno Lean Startup en Educación",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    38
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "ba5a44ed-b7ca-4f80-85a4-dd3d5ee80cfc",
+                                "titulo": "Infografía Metodología Lean Startup en Educación",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    39
+                                ],
+                                "hijos": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "04263715-469a-4eec-b89c-a5387dac8866",
+                        "titulo": "4. EMPRENDER",
+                        "nivel": 2,
+                        "chunk_ids": [
+                            40
+                        ],
+                        "hijos": [
+                            {
+                                "id": "839503b4-30d4-4efb-b763-2e5302f2b594",
+                                "titulo": "4 puntos de vista de la figura del emprendedor",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    41
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "2aa6ccc8-a6a4-42a0-9065-c39f5d772ffe",
+                                "titulo": "Dinámica por grupos startup en el aula",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    42
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "3b00856a-21dd-4122-88cd-e32da3fdb214",
+                                "titulo": "Infografía Historia visual de EMPRENDER EN EL AULA",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    43
+                                ],
+                                "hijos": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "a3bf3650-f8a3-4cc0-9b4e-fc2a23e6ed9c",
+                        "titulo": "5. IDEAR",
+                        "nivel": 2,
+                        "chunk_ids": [
+                            44
+                        ],
+                        "hijos": [
+                            {
+                                "id": "d5d41086-42a6-4f0e-8a71-fe683f4635b9",
+                                "titulo": "Pasos Idear",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    45
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "2b366c80-7e37-4907-836b-62a4201e4503",
+                                "titulo": "Infografía Historia visual de Idear en el aula",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    46
+                                ],
+                                "hijos": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "eb97eae5-420e-469c-b9f8-3d44543da5b5",
+                        "titulo": "6. CONTEXTUALIZAR",
+                        "nivel": 2,
+                        "chunk_ids": [
+                            47
+                        ],
+                        "hijos": [
+                            {
+                                "id": "8f173edb-86ff-463e-913e-61bb8748defe",
+                                "titulo": "3 herramientas para CONTEXTUALIZAR",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    48
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "4ef886bc-9e77-427b-a57f-41a54e22888e",
+                                "titulo": "Infografía Contextualizar",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    49
+                                ],
+                                "hijos": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "774563eb-9f39-40f9-b8fc-7008ae070d25",
+                        "titulo": "7. PROTOTIPAR",
+                        "nivel": 2,
+                        "chunk_ids": [
+                            50
+                        ],
+                        "hijos": [
+                            {
+                                "id": "97a3340c-8c84-4cdf-b25d-8a8ea0fc2e0c",
+                                "titulo": "Infografía Prototipar con Lean Startup",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    51
+                                ],
+                                "hijos": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "0653215c-89b6-4331-b632-052bf9772fd4",
+                        "titulo": "8. VALIDAR",
+                        "nivel": 2,
+                        "chunk_ids": [
+                            52
+                        ],
+                        "hijos": [
+                            {
+                                "id": "3fd374a6-3dc5-40be-9d0b-bc61109ba021",
+                                "titulo": "Infografía Validación de un Modelo de Negocio",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    53
+                                ],
+                                "hijos": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "51b4f8bc-dd95-4b9d-a8c6-218516d205f2",
+                        "titulo": "9. COMUNICAR",
+                        "nivel": 2,
+                        "chunk_ids": [
+                            54
+                        ],
+                        "hijos": [
+                            {
+                                "id": "dbe9578a-fedc-40cc-94ce-09260cf800ad",
+                                "titulo": "Contenidos Comunicar",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    55
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "e76f5f09-4c13-4079-92ee-c8dbb94e7611",
+                                "titulo": "Infografía Comunicar",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    56
+                                ],
+                                "hijos": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "b6b87c28-4264-4857-b06c-1f43c5d495e8",
+                "titulo": "MÓDULO 1. EMPRENDER",
+                "nivel": 1,
+                "chunk_ids": [],
+                "hijos": [
+                    {
+                        "id": "a993ca98-27e2-4040-a577-079fa9863c74",
+                        "titulo": "1. INTRODUCCIÓN",
+                        "nivel": 2,
+                        "chunk_ids": [],
+                        "hijos": [
+                            {
+                                "id": "e7b80dce-3ddf-4429-9ece-8ea5bcf8b99d",
+                                "titulo": "1.1. Qué entendemos por emprender",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    57
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "91048fb3-3ac1-4757-9c02-c826acf436f6",
+                                "titulo": "1.2. Un contexto de cambio permanente",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    58
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "fb2a639f-3f1b-4dd7-baa7-bc4972aa674f",
+                                "titulo": "1.3. Qué vamos a trabajar en este capítulo",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    59
+                                ],
+                                "hijos": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "75a10585-828a-46d5-bb1e-7cb259c54bc9",
+                        "titulo": "2. EL EMPRENDEDOR: CONCEPTO Y CUALIDADES",
+                        "nivel": 2,
+                        "chunk_ids": [
+                            60
+                        ],
+                        "hijos": [
+                            {
+                                "id": "760133a2-ecb9-49f4-a6d5-62df4ae3fc3e",
+                                "titulo": "2.1. LA FÓRMULA DEL ÉXITO",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    61
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "f16141b4-1619-4ad3-9083-3b96b4fe2cab",
+                                "titulo": "2.2. LOS 7 TIPOS DE EMPRENDEDOR",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    62
+                                ],
+                                "hijos": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "7b8f3e70-60dc-40a9-99de-72eee8dffa04",
+                        "titulo": "3. EL EMPRENDEDOR SOCIAL",
+                        "nivel": 2,
+                        "chunk_ids": [],
+                        "hijos": [
+                            {
+                                "id": "1c61d28b-8cce-4e3f-98b9-d8f991da470c",
+                                "titulo": "3.1. CONCEPTO Y NOTAS BÁSICAS: INNOVADOR Y COMPROMETIDO",
+                                "nivel": 3,
+                                "chunk_ids": [],
+                                "hijos": [
+                                    {
+                                        "id": "95a4c201-1b42-4743-9ad5-b8ebce3d96b8",
+                                        "titulo": "Concepto",
+                                        "nivel": 4,
+                                        "chunk_ids": [
+                                            63
+                                        ],
+                                        "hijos": []
+                                    },
+                                    {
+                                        "id": "28c0a2ae-1772-44b4-8cac-bba521acf65a",
+                                        "titulo": "Notas básicas",
+                                        "nivel": 4,
+                                        "chunk_ids": [
+                                            64
+                                        ],
+                                        "hijos": []
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "7d408196-1c71-465f-a2ed-92af37d4c549",
+                                "titulo": "3.2. EJEMPLOS",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    65
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "b09f2219-5dfd-48f7-bf31-9d6d68fc3cfd",
+                                "titulo": "3.3. PASOS CLAVE PARA SER UN EMPRENDEDOR SOCIAL",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    66
+                                ],
+                                "hijos": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "084dae3a-1c6b-4805-a1d8-ede5367a68e0",
+                        "titulo": "4. 7 SECRETOS PARA SER UN EMPRENDEDOR DE ÉXITO",
+                        "nivel": 2,
+                        "chunk_ids": [
+                            67
+                        ],
+                        "hijos": [
+                            {
+                                "id": "6583c623-5d5e-4b54-884e-933747f37b84",
+                                "titulo": "ACTIVIDAD NÚMERO 1. ANÁLISIS DE VÍDEOS E INFOGRAFÍAS",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    68
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "c8187935-6bdb-4535-a996-54b54b61a46b",
+                                "titulo": "ACTIVIDAD NÚMERO 2. SELFIE EMPRENDEDOR",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    69
+                                ],
+                                "hijos": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "b7440565-c34f-409d-bc2b-9bb7410a1d90",
+                        "titulo": "5. EVALUACIÓN DEL EMPRENDEDOR",
+                        "nivel": 2,
+                        "chunk_ids": [
+                            70
+                        ],
+                        "hijos": [
+                            {
+                                "id": "f2896c1c-42ea-41d0-b692-61a357b27117",
+                                "titulo": "Desglose competencias y habilidades emprendedor",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    71
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "9e72679d-091a-4101-9025-ed459fb592d9",
+                                "titulo": "Información sobre las características del perfil emprendedor",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    72
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "843a814f-8e55-4830-9abe-91a9c0ca4402",
+                                "titulo": "ACTIVIDAD NÚMERO 3. TEST EMPRENDEDOR",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    73
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "7ee3b786-aab0-4928-9a1e-4f49bf4d6276",
+                                "titulo": "ACTIVIDAD NÚMERO 4. PRESENTACIÓN",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    74
+                                ],
+                                "hijos": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "01415132-a249-4bbb-9079-0da70b43d86a",
+                        "titulo": "6. DE INTERÉS: TAXONOMÍA DE BLOOM",
+                        "nivel": 2,
+                        "chunk_ids": [
+                            75
+                        ],
+                        "hijos": [
+                            {
+                                "id": "7eeb620e-4644-45e3-8c9d-09853bd01215",
+                                "titulo": "Infografía de Un modelo para la definición de objetivos de aprendizaje en base a la Taxonomia de Bloom revisada",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    76
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "a57dfd20-0471-4dfc-a8f8-fa7556e50506",
+                                "titulo": "ACTIVIDAD NÚMERO 5. FORMACIÓN DE EQUIPOS",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    77
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "03d92643-5a11-47c0-8bd2-f7d605038665",
+                                "titulo": "ACTIVIDAD NÚMERO 6. EL RETO DE LOS 5€",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    78
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "4ee43db9-f3cd-40db-a4e1-d8cf7e69243c",
+                                "titulo": "ACTIVIDAD NÚMERO 7. CONTRATO DE APRENDIZAJE",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    79
+                                ],
+                                "hijos": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "080f2d0e-459e-45e7-bc0d-322061c217d6",
+                        "titulo": "7. APLICACIONES DE ESCRITORIO",
+                        "nivel": 2,
+                        "chunk_ids": [
+                            80
+                        ],
+                        "hijos": [
+                            {
+                                "id": "ad9b694a-1681-422d-8f5d-a9d4d5fb2da0",
+                                "titulo": "7.1. AUTOEVALUACIÓN COMO EMPRENDEDOR: CONFEBASK",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    81
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "8f78c18e-bb6f-44c4-8d0b-3036860b7b28",
+                                "titulo": "7.2. AUTOEVALUACIÓN COMO EMPRENDEDOR: DGPYME",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    82
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "08eacd2a-a3b9-4e22-9cef-2777c2662027",
+                                "titulo": "7.3. TABLERO ONLINE: PADLET",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    83
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "18841d0c-b349-4aa1-b187-3dc468dbc805",
+                                "titulo": "7.4. MAPA CONCEPTUAL: MINDOMO",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    84
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "455b1304-a677-4c7c-bd10-d04273766dd3",
+                                "titulo": "7.5. PRESENTACIONES: EMAZE Y HAIKU DECK",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    85
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "1a852d45-1537-4a05-9270-7f1ccdb277df",
+                                "titulo": "7.6. NUBE DE PALABRAS: TAGXEDO",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    86
+                                ],
+                                "hijos": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "4316be0f-a0a2-4243-9d88-57e6fe259ca7",
+                        "titulo": "8. APLICACIONES MÓVILES",
+                        "nivel": 2,
+                        "chunk_ids": [
+                            87
+                        ],
+                        "hijos": [
+                            {
+                                "id": "cb195f3f-15d9-433f-9278-b809bc0f6ab8",
+                                "titulo": "8.1. FOTOGRAFÍA: CAMERA 360, SNAPSEED Y PHOTO EDITOR PRO",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    88
+                                ],
+                                "hijos": [
+                                    {
+                                        "id": "a11f5c6b-334e-4639-81f0-9e91dcdb48c5",
+                                        "titulo": "Camera 360",
+                                        "nivel": 4,
+                                        "chunk_ids": [
+                                            89
+                                        ],
+                                        "hijos": []
+                                    },
+                                    {
+                                        "id": "a5d7b755-6cf2-4a00-b547-b31ac48b8af0",
+                                        "titulo": "Snapseed",
+                                        "nivel": 4,
+                                        "chunk_ids": [
+                                            90
+                                        ],
+                                        "hijos": []
+                                    },
+                                    {
+                                        "id": "8ce84567-f355-443f-be87-8c3f418346cc",
+                                        "titulo": "Photo Editor Pro",
+                                        "nivel": 4,
+                                        "chunk_ids": [
+                                            91
+                                        ],
+                                        "hijos": []
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "4bd43e19-a55e-4c2e-b596-65a2b187d7de",
+                                "titulo": "8.2. CREACIÓN DE COLLAGES: PHOTO GRID",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    92
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "11e0511c-7629-42f0-8a3c-785b03161db9",
+                                "titulo": "8.3. SONIDO: SOUNDCLOUD",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    93
+                                ],
+                                "hijos": [
+                                    {
+                                        "id": "b508f361-67fd-40a9-8a1d-43e5d7e840cb",
+                                        "titulo": "SoundCloud",
+                                        "nivel": 4,
+                                        "chunk_ids": [
+                                            94
+                                        ],
+                                        "hijos": []
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "8195688d-1cc5-40f7-b4cb-dbc16a65ccdc",
+                                "titulo": "ACTIVIDAD NÚMERO 8. MARCA PERSONAL",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    95
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "ff0b40f3-b2f8-477e-a2c2-e5972b98a4c8",
+                                "titulo": "ACTIVIDAD NÚMERO 9. PORTFOLIO DIGITAL",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    96
+                                ],
+                                "hijos": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "c6cb3500-0499-463b-9cdd-b541b25ca4d6",
+                "titulo": "MÓDULO 2. IDEAR",
+                "nivel": 1,
+                "chunk_ids": [],
+                "hijos": [
+                    {
+                        "id": "5a7c5539-ba1d-4dc9-9c10-c828eebeba07",
+                        "titulo": "1. INTRODUCCIÓN",
+                        "nivel": 2,
+                        "chunk_ids": [
+                            97
+                        ],
+                        "hijos": []
+                    },
+                    {
+                        "id": "2dca83d7-c8fa-4604-8d46-7eacdd419e0c",
+                        "titulo": "2. FASE DE DISEÑO: IDEACIÓN",
+                        "nivel": 2,
+                        "chunk_ids": [],
+                        "hijos": [
+                            {
+                                "id": "b3f0a8c8-0ece-4891-84c7-09d43930c8fa",
+                                "titulo": "2.1. LA IDEA DE NEGOCIO",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    98
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "623c6f90-6677-40cb-8e7f-0beec0d4fdc2",
+                                "titulo": "2.2. GENERACIÓN DE IDEAS",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    99
+                                ],
+                                "hijos": [
+                                    {
+                                        "id": "01a7af70-4b7e-4f29-97ce-92bd0aa020bc",
+                                        "titulo": "¿Dónde está el origen de las ideas o proyectos que se convierten en empresas de éxito?",
+                                        "nivel": 4,
+                                        "chunk_ids": [
+                                            100
+                                        ],
+                                        "hijos": []
+                                    },
+                                    {
+                                        "id": "4213bca1-24b0-4c55-9f70-471abe299402",
+                                        "titulo": "Cuestiones sobre las que reflexionar para idea de negocio",
+                                        "nivel": 4,
+                                        "chunk_ids": [
+                                            101
+                                        ],
+                                        "hijos": []
+                                    },
+                                    {
+                                        "id": "780178e5-9988-4e5d-aa26-134cdaaaa976",
+                                        "titulo": "Motivos para tener mayor capacidad para generar ideas de negocio",
+                                        "nivel": 4,
+                                        "chunk_ids": [
+                                            102
+                                        ],
+                                        "hijos": []
+                                    },
+                                    {
+                                        "id": "5216f13d-5245-47ad-99ad-273de135c85b",
+                                        "titulo": "Otras fuentes de ideas por Arthur Kuriloff y John Hemphill",
+                                        "nivel": 4,
+                                        "chunk_ids": [
+                                            103
+                                        ],
+                                        "hijos": []
+                                    },
+                                    {
+                                        "id": "146408d5-c308-42c9-83d3-d7dcec1557bf",
+                                        "titulo": "Otras fuentes de ideas por Peter Drucker",
+                                        "nivel": 4,
+                                        "chunk_ids": [
+                                            104
+                                        ],
+                                        "hijos": []
+                                    },
+                                    {
+                                        "id": "9b6aa209-6b1d-4603-9c0b-9e14c664fad2",
+                                        "titulo": "Tabla síntesis de fuentes de ideas",
+                                        "nivel": 4,
+                                        "chunk_ids": [
+                                            105
+                                        ],
+                                        "hijos": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": "a3ddeaf2-4be3-4587-8b73-278d58cd9cbc",
+                        "titulo": "3. PROCESO DE SELECCIÓN DE UNA IDEA DE NEGOCIO",
+                        "nivel": 2,
+                        "chunk_ids": [],
+                        "hijos": [
+                            {
+                                "id": "dae44af8-a49a-4f01-8e3d-cc1ac410864d",
+                                "titulo": "3.1. BRAINSTORMING",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    106
+                                ],
+                                "hijos": [
+                                    {
+                                        "id": "c4a03427-f7c7-4dd0-a0f1-e65f147a9296",
+                                        "titulo": "ACTIVIDAD NÚMERO 10. BRAINSTORMING",
+                                        "nivel": 4,
+                                        "chunk_ids": [
+                                            107
+                                        ],
+                                        "hijos": []
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "dcd5f171-cae3-42d2-bddb-2d37b114b83d",
+                                "titulo": "3.2. CARDSORTING",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    108
+                                ],
+                                "hijos": [
+                                    {
+                                        "id": "5cda9437-660f-4d0d-8423-41f73d051160",
+                                        "titulo": "ACTIVIDAD NÚMERO 11. CARDSORTING",
+                                        "nivel": 4,
+                                        "chunk_ids": [
+                                            109
+                                        ],
+                                        "hijos": []
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "e50bcdeb-4004-4a8e-9458-09bb8514409b",
+                                "titulo": "3.3. MADURACIÓN",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    110
+                                ],
+                                "hijos": [
+                                    {
+                                        "id": "6fb369cc-9378-4ae8-ad04-0f0f0a4397f6",
+                                        "titulo": "ACTIVIDAD NÚMERO 12. MADURACIÓN DE IDEAS",
+                                        "nivel": 4,
+                                        "chunk_ids": [
+                                            111
+                                        ],
+                                        "hijos": []
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "cb00a61f-d32e-49c5-aafe-8690b0d78b4b",
+                                "titulo": "3.4. ELECCIÓN DE LA IDEA DE NEGOCIO",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    112
+                                ],
+                                "hijos": [
+                                    {
+                                        "id": "57f60d44-bade-464f-ba16-b4c803d65fdf",
+                                        "titulo": "ACTIVIDAD NÚMERO 13. ELECCIÓN DE LA IDEA DE NEGOCIO",
+                                        "nivel": 4,
+                                        "chunk_ids": [
+                                            113
+                                        ],
+                                        "hijos": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": "209540f3-a213-4538-b114-95886d372233",
+                        "titulo": "4. PROCESO DE VALIDACIÓN DE UNA IDEA DE NEGOCIO",
+                        "nivel": 2,
+                        "chunk_ids": [
+                            114
+                        ],
+                        "hijos": [
+                            {
+                                "id": "54bb948b-a1f2-4d39-82e2-3fd080195443",
+                                "titulo": "4.1. LA TÉCNICA DE LAS PREGUNTAS",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    115
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "5824ea4c-95bc-4d93-9b1b-57222c8f0f6c",
+                                "titulo": "4.2. CREAR HISTORIAS: EL STORYTELLING",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    116
+                                ],
+                                "hijos": [
+                                    {
+                                        "id": "4d2b2b49-2fc9-41c4-ab7c-72d3f3224155",
+                                        "titulo": "ACTIVIDAD NÚMERO 14. LA HISTORIA",
+                                        "nivel": 4,
+                                        "chunk_ids": [
+                                            117
+                                        ],
+                                        "hijos": []
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "396cc2eb-f321-4ffe-8d37-a5619ab76e7f",
+                                "titulo": "4.3. PROTOTIPA HISTORIAS",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    118
+                                ],
+                                "hijos": [
+                                    {
+                                        "id": "176b98da-3042-4213-a1c4-fcf9176de52f",
+                                        "titulo": "ACTIVIDAD NÚMERO 15. EL PROTOTIPO",
+                                        "nivel": 4,
+                                        "chunk_ids": [
+                                            119
+                                        ],
+                                        "hijos": []
+                                    },
+                                    {
+                                        "id": "f0dc4fee-aafc-431b-beee-0b647d8fb328",
+                                        "titulo": "ACTIVIDAD NÚMERO 16. FEEDBACK Y RETOQUE I",
+                                        "nivel": 4,
+                                        "chunk_ids": [
+                                            120
+                                        ],
+                                        "hijos": []
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "e4c2a1ec-d7f9-4372-8bc0-393ff40a68c8",
+                                "titulo": "4.4. PREPARA UNA ENTREVISTA",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    121
+                                ],
+                                "hijos": [
+                                    {
+                                        "id": "1bfe190b-f0f1-42f9-bcac-fca169c3b650",
+                                        "titulo": "ACTIVIDAD NÚMERO 17. LA ENTREVISTA",
+                                        "nivel": 4,
+                                        "chunk_ids": [
+                                            122
+                                        ],
+                                        "hijos": []
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "2c89f571-9c1a-4ea5-be61-e41a970bbf87",
+                                "titulo": "4.5. VALIDACIÓN INICIAL",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    123
+                                ],
+                                "hijos": [
+                                    {
+                                        "id": "5d8ee9ef-ebd7-413b-b36a-da442d9ead06",
+                                        "titulo": "ACTIVIDAD NÚMERO 18. FEEDBACK Y RETOQUE II",
+                                        "nivel": 4,
+                                        "chunk_ids": [
+                                            124
+                                        ],
+                                        "hijos": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": "6dca26c4-3622-41ed-a125-568456be3c10",
+                        "titulo": "5. APLICACIONES DE ESCRITORIO",
+                        "nivel": 2,
+                        "chunk_ids": [
+                            125
+                        ],
+                        "hijos": [
+                            {
+                                "id": "0d8a7155-c5a5-4c6a-8468-5b93437c8668",
+                                "titulo": "5.1. MURALES: MURAL.LY",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    126
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "578c1006-e610-4300-a589-65b44c75246f",
+                                "titulo": "5.2. LÍNEAS DEL TIEMPO: DIPITY",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    127
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "58689fbb-97af-47b7-9e31-30bea8fb4aee",
+                                "titulo": "5.3. PRESENTACIONES DINÁMICAS: PREZI",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    128
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "4096db5e-4f51-439b-8023-03ba579e9448",
+                                "titulo": "5.4. OFIMÁTICA ONLINE Y DISCO DURO VIRTUAL: GOOGLE DRIVE",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    129
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "666a639e-3f9f-415d-899c-70960dcc8193",
+                                "titulo": "5.5. DISCO DURO VIRTUAL: DROPBOX",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    130
+                                ],
+                                "hijos": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "05a5c2c3-c701-4e0d-9cc1-24b31534f05d",
+                        "titulo": "6. APLICACIONES MÓVILES",
+                        "nivel": 2,
+                        "chunk_ids": [
+                            131
+                        ],
+                        "hijos": [
+                            {
+                                "id": "00eddf3b-43ef-4cd7-96d1-d474cf44488b",
+                                "titulo": "6.1. LISTAS: WUNDERLIST",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    132
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "7bfe0236-a354-4047-a352-c881ccc666a2",
+                                "titulo": "6.2. IMÁGENES: INSTAGRAM",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    133
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "763e7de3-8e98-47b2-81ba-9edb1adef6d1",
+                                "titulo": "6.3. TAREAS: TRELLO",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    134
+                                ],
+                                "hijos": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "1e3b2a3b-4306-4da4-9cbe-6a212c6fa515",
+                "titulo": "MÓDULO 3. CONTEXTUALIZAR",
+                "nivel": 1,
+                "chunk_ids": [],
+                "hijos": [
+                    {
+                        "id": "11fe0eb2-eee4-4f5c-9d10-6f0073709d8f",
+                        "titulo": "1. INTRODUCCIÓN",
+                        "nivel": 2,
+                        "chunk_ids": [
+                            135
+                        ],
+                        "hijos": []
+                    },
+                    {
+                        "id": "126adc5f-3fad-433d-845f-e47e740f93d9",
+                        "titulo": "2. EL ENTORNO GENERAL O LEJANO",
+                        "nivel": 2,
+                        "chunk_ids": [
+                            136
+                        ],
+                        "hijos": [
+                            {
+                                "id": "c9db669f-0853-4df1-98dc-5369f8181645",
+                                "titulo": "2.1. ANÁLISIS EXTERNO",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    137
+                                ],
+                                "hijos": [
+                                    {
+                                        "id": "c0d9d4e1-b227-43f4-9a7b-ac86e23c7de7",
+                                        "titulo": "2.1.1. OPORTUNIDADES",
+                                        "nivel": 4,
+                                        "chunk_ids": [
+                                            138
+                                        ],
+                                        "hijos": []
+                                    },
+                                    {
+                                        "id": "7332b9f3-a953-412a-9d9f-b6e4db09825b",
+                                        "titulo": "2.1.2. AMENAZAS",
+                                        "nivel": 4,
+                                        "chunk_ids": [
+                                            139
+                                        ],
+                                        "hijos": []
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "8c8bc4fd-b841-4aa1-bab5-57ab93146f73",
+                                "titulo": "2.2. ANÁLISIS INTERNO",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    140
+                                ],
+                                "hijos": [
+                                    {
+                                        "id": "caf9fd5a-e68d-4d8c-be8a-61201e848cf9",
+                                        "titulo": "2.2.1. FORTALEZAS",
+                                        "nivel": 4,
+                                        "chunk_ids": [
+                                            141
+                                        ],
+                                        "hijos": []
+                                    },
+                                    {
+                                        "id": "88b03f04-5c26-4892-9954-6b1a053f10de",
+                                        "titulo": "2.2.2. DEBILIDADES",
+                                        "nivel": 4,
+                                        "chunk_ids": [
+                                            142
+                                        ],
+                                        "hijos": []
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "cf0ec3f1-3176-49ad-a2a8-bb4b4f8d6e75",
+                                "titulo": "2.3. MATRIZ DAFO",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    143
+                                ],
+                                "hijos": [
+                                    {
+                                        "id": "d1fec675-d203-4a86-9e12-d989b23b5f07",
+                                        "titulo": "ACTIVIDAD NÚMERO 19. MATRIZ DAFO",
+                                        "nivel": 4,
+                                        "chunk_ids": [
+                                            144
+                                        ],
+                                        "hijos": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": "c9d41b6c-57c6-4df8-911e-893748327aed",
+                        "titulo": "3. EL CLIENTE POTENCIAL",
+                        "nivel": 2,
+                        "chunk_ids": [],
+                        "hijos": [
+                            {
+                                "id": "8a66d6e6-7152-46c2-94ad-1653fe96b7a2",
+                                "titulo": "3.1. EL MAPA DE EMPATÍA: CONCEPTO",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    145
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "526727d5-d5f8-43e4-9094-878b391b6c6a",
+                                "titulo": "3.2. EL MAPA DE EMPATÍA: CONTENIDO",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    146
+                                ],
+                                "hijos": [
+                                    {
+                                        "id": "f29cce7c-41dd-43a4-b72e-e077e02448ec",
+                                        "titulo": "ACTIVIDAD NÚMERO 20. MAPA DE EMPATÍA",
+                                        "nivel": 4,
+                                        "chunk_ids": [
+                                            147
+                                        ],
+                                        "hijos": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": "96166587-9f8d-4a64-97ab-bc71819927fe",
+                        "titulo": "4. LA COMPETENCIA",
+                        "nivel": 2,
+                        "chunk_ids": [],
+                        "hijos": [
+                            {
+                                "id": "038e928f-c9a4-4e6f-b359-e82e60b0da61",
+                                "titulo": "4.1. ESTRATEGIA DE OCÉANOS AZULES",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    148
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "83f44bb3-d9b1-430a-ade2-0a4c8495c345",
+                                "titulo": "4.2. PROCEDIMIENTO PARA TRAZAR LA ESTRATEGIA DE OCÉANOS AZULES",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    149
+                                ],
+                                "hijos": [
+                                    {
+                                        "id": "d1eaadc5-d707-4147-94e4-417eb0812b61",
+                                        "titulo": "4.2.1. Confeccionar un cuadro estratégico.",
+                                        "nivel": 4,
+                                        "chunk_ids": [
+                                            150
+                                        ],
+                                        "hijos": []
+                                    },
+                                    {
+                                        "id": "792e0353-7385-441d-8a84-23b6dede0dcc",
+                                        "titulo": "4.2.2. Analizar posibilidades de innovar a través de 6 vías de exploración",
+                                        "nivel": 4,
+                                        "chunk_ids": [
+                                            151
+                                        ],
+                                        "hijos": []
+                                    },
+                                    {
+                                        "id": "c09fd00e-8094-4d58-91d8-9a12184be789",
+                                        "titulo": "4.2.3. Diseñar nuestra propuesta de valor",
+                                        "nivel": 4,
+                                        "chunk_ids": [
+                                            152
+                                        ],
+                                        "hijos": []
+                                    },
+                                    {
+                                        "id": "b7562529-f3b1-4ab1-8d5e-7596691f00e1",
+                                        "titulo": "4.2.4. Una buena estrategia debe tener las siguientes notas",
+                                        "nivel": 4,
+                                        "chunk_ids": [
+                                            153
+                                        ],
+                                        "hijos": []
+                                    },
+                                    {
+                                        "id": "13f34f81-01be-4251-98aa-4fb4de119c08",
+                                        "titulo": "4.2.5. Estrategia de los océanos azules y la secuencia estratégica correcta",
+                                        "nivel": 4,
+                                        "chunk_ids": [
+                                            154
+                                        ],
+                                        "hijos": []
+                                    },
+                                    {
+                                        "id": "b598dc32-9214-44ab-a576-54ba99a1389d",
+                                        "titulo": "ACTIVIDAD NÚMERO 21. CUADRO ESTRATÉGICO",
+                                        "nivel": 4,
+                                        "chunk_ids": [
+                                            155
+                                        ],
+                                        "hijos": []
+                                    },
+                                    {
+                                        "id": "139cfb7a-cc47-4804-952a-1d0739dda06f",
+                                        "titulo": "ACTIVIDAD NÚMERO 22. VÍAS DE EXPLORACIÓN",
+                                        "nivel": 4,
+                                        "chunk_ids": [
+                                            156
+                                        ],
+                                        "hijos": []
+                                    },
+                                    {
+                                        "id": "666aacf1-01d2-437f-bc2f-83d74fe4b248",
+                                        "titulo": "ACTIVIDAD NÚMERO 23. MATRIZ ERIC",
+                                        "nivel": 4,
+                                        "chunk_ids": [
+                                            157
+                                        ],
+                                        "hijos": []
+                                    },
+                                    {
+                                        "id": "b7401ac4-88d7-41eb-83a5-ecd0f0d9824a",
+                                        "titulo": "ACTIVIDAD NÚMERO 24. ESTRATEGIA COMPETITIVA",
+                                        "nivel": 4,
+                                        "chunk_ids": [
+                                            158
+                                        ],
+                                        "hijos": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": "013235f9-fce1-449e-b9c6-476936a32da8",
+                        "titulo": "5. APLICACIONES DE ESCRITORIO",
+                        "nivel": 2,
+                        "chunk_ids": [
+                            159
+                        ],
+                        "hijos": [
+                            {
+                                "id": "61eb88e9-fd8e-4342-9107-45cbb1f71e06",
+                                "titulo": "5.1. MATRIZ DAFO: INGHENIA",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    160
+                                ],
+                                "hijos": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "044f0a5a-7ecb-4890-b299-1f2397cb6225",
+                        "titulo": "6. APLICACIONES MÓVILES",
+                        "nivel": 2,
+                        "chunk_ids": [
+                            161
+                        ],
+                        "hijos": []
+                    }
+                ]
+            },
+            {
+                "id": "6db48ce8-d5d9-4f56-9cd7-91acf92a3ada",
+                "titulo": "MÓDULO 4. PROTOTIPAR",
+                "nivel": 1,
+                "chunk_ids": [],
+                "hijos": [
+                    {
+                        "id": "2c0767a8-578f-4cf7-a884-1226be81c541",
+                        "titulo": "1. INTRODUCCIÓN",
+                        "nivel": 2,
+                        "chunk_ids": [
+                            162
+                        ],
+                        "hijos": []
+                    },
+                    {
+                        "id": "e9bdab06-0dad-4a79-8043-66513ce814bf",
+                        "titulo": "2. LIENZO DE LA PROPUESTA DE VALOR",
+                        "nivel": 2,
+                        "chunk_ids": [
+                            163
+                        ],
+                        "hijos": [
+                            {
+                                "id": "8cd9a2db-d219-4adc-aedb-4436e3ee3cd0",
+                                "titulo": "Paso 1. Define la necesidad del cliente",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    164
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "bfa181f8-de00-4a8f-9afc-463d76336315",
+                                "titulo": "Paso 2. Comprende esa necesidad",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    165
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "e9ea78bd-4860-4c8a-a1c8-aacf4ca16660",
+                                "titulo": "Paso 3. Encuentra la forma de satisfacer esa necesidad",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    166
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "94849231-3fa0-4270-9d5a-f45cf2c702cc",
+                                "titulo": "ACTIVIDAD NÚMERO 25. LIENZO DE LA PROPUESTA DE VALOR",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    167
+                                ],
+                                "hijos": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "782f3fa3-34b1-479d-9bde-dac412823965",
+                        "titulo": "3. BUSINESS MODEL CANVAS",
+                        "nivel": 2,
+                        "chunk_ids": [],
+                        "hijos": [
+                            {
+                                "id": "e8585f08-38b0-49aa-aab1-a04fcdf811d1",
+                                "titulo": "3.1. CONCEPTO",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    168
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "e5d7a099-9875-431e-afad-dfc8baa40fcf",
+                                "titulo": "3.2. BLOQUES DEL LIENZO DE MODELO DE NEGOCIO",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    169
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "5abd1c01-f5e5-487a-8e66-aba85e5e38bb",
+                                "titulo": "3.3. BLOQUES DEL BUSINESS MODEL CANVAS AL DETALLE",
+                                "nivel": 3,
+                                "chunk_ids": [],
+                                "hijos": [
+                                    {
+                                        "id": "f4611133-1c74-4e2f-b1a4-4c6075b313df",
+                                        "titulo": "3.3.1. SEGMENTOS DE MERCADO",
+                                        "nivel": 4,
+                                        "chunk_ids": [
+                                            170
+                                        ],
+                                        "hijos": []
+                                    },
+                                    {
+                                        "id": "675ffd9f-1fd0-41ee-8757-608f646bc15e",
+                                        "titulo": "3.3.2. PROPUESTA DE VALOR",
+                                        "nivel": 4,
+                                        "chunk_ids": [
+                                            171
+                                        ],
+                                        "hijos": []
+                                    },
+                                    {
+                                        "id": "afa64df6-3386-49e1-aebf-3770de94de39",
+                                        "titulo": "3.3.3. CANALES DE DISTRIBUCIÓN",
+                                        "nivel": 4,
+                                        "chunk_ids": [
+                                            172
+                                        ],
+                                        "hijos": []
+                                    },
+                                    {
+                                        "id": "44f01a5e-6716-4767-9f00-48f8872adc01",
+                                        "titulo": "3.3.4. RELACIONES CON CLIENTES",
+                                        "nivel": 4,
+                                        "chunk_ids": [
+                                            173
+                                        ],
+                                        "hijos": [
+                                            {
+                                                "id": "d930eb67-d86d-4a91-b873-bf2acc5fe541",
+                                                "titulo": "Canal físico para captar clientes",
+                                                "nivel": 5,
+                                                "chunk_ids": [
+                                                    174
+                                                ],
+                                                "hijos": []
+                                            },
+                                            {
+                                                "id": "91e8ca5f-cb82-4ecc-9377-ce1013451197",
+                                                "titulo": "Canal web o móvil para captar clientes",
+                                                "nivel": 5,
+                                                "chunk_ids": [
+                                                    175
+                                                ],
+                                                "hijos": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "6f0dc424-5a72-4030-9f7a-1f4bdfe44480",
+                                        "titulo": "3.3.5. FUENTES DE INGRESOS",
+                                        "nivel": 4,
+                                        "chunk_ids": [
+                                            176
+                                        ],
+                                        "hijos": [
+                                            {
+                                                "id": "c18aee83-546e-4709-b74e-33b4eae6a10a",
+                                                "titulo": "Distintas estrategias de ingresos",
+                                                "nivel": 5,
+                                                "chunk_ids": [
+                                                    177
+                                                ],
+                                                "hijos": []
+                                            },
+                                            {
+                                                "id": "e77f0b78-0668-43d5-b615-37684c43aca7",
+                                                "titulo": "Cómo fijar precios",
+                                                "nivel": 5,
+                                                "chunk_ids": [
+                                                    178
+                                                ],
+                                                "hijos": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "a9a32a4f-cb84-4657-a33a-c899db50b04c",
+                                        "titulo": "3.3.6. ACTIVIDADES Y RECURSOS CLAVE",
+                                        "nivel": 4,
+                                        "chunk_ids": [
+                                            179
+                                        ],
+                                        "hijos": [
+                                            {
+                                                "id": "b27af3d4-7c4e-472c-a903-234f8151d16e",
+                                                "titulo": "Recursos físicos",
+                                                "nivel": 5,
+                                                "chunk_ids": [
+                                                    180
+                                                ],
+                                                "hijos": []
+                                            },
+                                            {
+                                                "id": "b905fde6-f5ac-4b01-b7d4-10090b19ed41",
+                                                "titulo": "Recursos económicos",
+                                                "nivel": 5,
+                                                "chunk_ids": [
+                                                    181
+                                                ],
+                                                "hijos": []
+                                            },
+                                            {
+                                                "id": "a6d53bc7-cabb-4cdd-a159-eb3cb46088e9",
+                                                "titulo": "Recursos humanos",
+                                                "nivel": 5,
+                                                "chunk_ids": [
+                                                    182
+                                                ],
+                                                "hijos": []
+                                            },
+                                            {
+                                                "id": "5e1901ad-28ab-432e-88c5-be14c1d2f118",
+                                                "titulo": "Propiedad intelectual",
+                                                "nivel": 5,
+                                                "chunk_ids": [
+                                                    183
+                                                ],
+                                                "hijos": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "d1d81c50-a461-411f-b3a8-f0a4f9aad726",
+                                        "titulo": "3.3.7. SOCIOS CLAVE",
+                                        "nivel": 4,
+                                        "chunk_ids": [
+                                            184
+                                        ],
+                                        "hijos": []
+                                    },
+                                    {
+                                        "id": "9912f1e2-70a2-447b-904c-fc7725ed638d",
+                                        "titulo": "3.3.8. ESTRUCTURA DE COSTES",
+                                        "nivel": 4,
+                                        "chunk_ids": [
+                                            185
+                                        ],
+                                        "hijos": []
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "7796af49-7178-4350-97a6-c84f399d3c80",
+                                "titulo": "ACTIVIDAD NÚMERO 26. LIENZO DEL MODELO DE NEGOCIO",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    186
+                                ],
+                                "hijos": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "e25500d2-1a2f-4e60-8830-1729020d978a",
+                        "titulo": "4. TÉCNICAS DE PROTOTIPADO",
+                        "nivel": 2,
+                        "chunk_ids": [
+                            187
+                        ],
+                        "hijos": [
+                            {
+                                "id": "ffb029d2-5c87-4e82-80bb-442b40fe820e",
+                                "titulo": "ACTIVIDAD NÚMERO 27. PRODUCTO MÍNIMO VIABLE",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    188
+                                ],
+                                "hijos": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "2a3bf34a-5d64-49ee-b5a3-ebbe4bd50b61",
+                        "titulo": "5. APLICACIONES DE ESCRITORIO",
+                        "nivel": 2,
+                        "chunk_ids": [
+                            189
+                        ],
+                        "hijos": [
+                            {
+                                "id": "ed9ee02f-7f30-4ac0-bb9f-6581aeaeb070",
+                                "titulo": "5.1. PÁGINA WEB: WIX",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    190
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "1d0770e1-f550-4434-9fa3-e9aca53956fd",
+                                "titulo": "5.2. APLICACIÓN MÓVIL: MOBINCUBE",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    191
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "38ef9111-6fa8-4136-bd96-621f35d250aa",
+                                "titulo": "5.3 VÍDEO ANIMADO: POW TOON",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    192
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "d148bc65-2d43-4e4c-92b4-3675e4c3143c",
+                                "titulo": "5.4 INFOGRAFÍA: EASELY",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    193
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "e9c566e2-bea4-4677-b7fc-5b899b00c762",
+                                "titulo": "5.5 COMIC: PIXTON",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    194
+                                ],
+                                "hijos": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "86d20ce9-85cd-443b-8b33-1bf5e0da5d88",
+                        "titulo": "6. APLICACIONES MÓVILES",
+                        "nivel": 2,
+                        "chunk_ids": [
+                            195
+                        ],
+                        "hijos": [
+                            {
+                                "id": "5c309a8b-75f9-4a02-ac0d-c9d3828b61dd",
+                                "titulo": "6.1. RETOQUES: SKITCH",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    196
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "1ee67146-3b25-48c4-8270-e417dc816f43",
+                                "titulo": "6.2. PROTOTIPADO: POP",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    197
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "c6589770-2cc2-4306-92a6-3f2f3a6b847d",
+                                "titulo": "6.3. MAPAS MENTALES: MINDMEISTER",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    198
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "3c4d7788-93cf-4803-9b35-b2614d4f3c56",
+                                "titulo": "6.4. CÓDIGOS QR: QR DROID",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    199
+                                ],
+                                "hijos": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "ff90c437-c481-4960-af16-98aceff37d61",
+                "titulo": "MÓDULO 5. VALIDAR",
+                "nivel": 1,
+                "chunk_ids": [],
+                "hijos": [
+                    {
+                        "id": "acd695bd-f32f-4c8c-9f4c-55ad853acb0d",
+                        "titulo": "1. INTRODUCCIÓN",
+                        "nivel": 2,
+                        "chunk_ids": [
+                            200
+                        ],
+                        "hijos": []
+                    },
+                    {
+                        "id": "a676def9-ba85-4601-b7fa-40444cb78dc4",
+                        "titulo": "2. CUSTOMER DEVELOPMENT",
+                        "nivel": 2,
+                        "chunk_ids": [
+                            201
+                        ],
+                        "hijos": []
+                    },
+                    {
+                        "id": "6401bb10-fe2c-4aba-a6f6-0629a1dddd3c",
+                        "titulo": "3. ENTREVISTAS DE PROBLEMA Y DE SOLUCIÓN",
+                        "nivel": 2,
+                        "chunk_ids": [
+                            202
+                        ],
+                        "hijos": [
+                            {
+                                "id": "ba3cf461-2f36-4916-9a3f-a7061cc3c1d9",
+                                "titulo": "Recomendaciones entrevistas de problema y solución",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    203
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "02733a95-032a-4415-8ec6-4383e7d3e029",
+                                "titulo": "Orden entrevistas de problema y solución",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    204
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "2adb449f-6acc-4c0c-9e33-a9f47e02bbcf",
+                                "titulo": "3.1. ENTREVISTA DE PROBLEMA",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    205
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "9ef7eef1-1845-4e43-8305-0a2c125f9c27",
+                                "titulo": "3.2. ENTREVISTA DE SOLUCIÓN",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    206
+                                ],
+                                "hijos": [
+                                    {
+                                        "id": "ce13b5de-58df-49e6-87d7-37a24045ba22",
+                                        "titulo": "ACTIVIDAD NÚMERO 28. ENTREVISTA CLIENTE-PROBLEMA-SOLUCIÓN",
+                                        "nivel": 4,
+                                        "chunk_ids": [
+                                            207
+                                        ],
+                                        "hijos": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": "4ff3b68b-04e8-406f-8652-6266d707687b",
+                        "titulo": "4. TEST A/B",
+                        "nivel": 2,
+                        "chunk_ids": [
+                            208
+                        ],
+                        "hijos": [
+                            {
+                                "id": "48a99dcd-ca4c-40a7-8cb9-42b2cf65fbe4",
+                                "titulo": "ACTIVIDAD NÚMERO 29. TEST A/B",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    209
+                                ],
+                                "hijos": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "695f8a6f-d240-456a-b4ef-2ee5e42fec88",
+                        "titulo": "5. APLICACIONES DE ESCRITORIO",
+                        "nivel": 2,
+                        "chunk_ids": [
+                            210
+                        ],
+                        "hijos": [
+                            {
+                                "id": "7abb879f-56ae-429b-ae46-1c531e0bafc8",
+                                "titulo": "5.1. ANALÍTICAS WEB: GOOGLE ANALYTICS",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    211
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "3ddf9ca1-d12a-47e6-8eca-209b67fffbdc",
+                                "titulo": "5.2. LANDING PAGE: LANDERAPP",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    212
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "7c731aae-4fbd-40e0-b797-f16730555438",
+                                "titulo": "5.3. GRABACIÓN EN VÍDEO CON PANTALLA DE PC: SCREENCAST-O-MATIC",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    213
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "a7b2d6f4-8324-4ca6-8d18-78d2927870d1",
+                                "titulo": "5.4. HISTORIA DIGITAL: STORIFY",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    214
+                                ],
+                                "hijos": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "2dc6adea-ce60-4ef2-86d6-c152630dae95",
+                        "titulo": "6. APLICACIONES MÓVILES",
+                        "nivel": 2,
+                        "chunk_ids": [
+                            215
+                        ],
+                        "hijos": [
+                            {
+                                "id": "10b8ae7b-0375-4fbe-a939-338dd682996b",
+                                "titulo": "6.1. EDICIÓN DE VÍDEO: VIDTRIM",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    216
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "f079300b-5510-4a1e-8229-a0b32c3b2cc3",
+                                "titulo": "6.2. TABLÓN DE NOTAS: LINOIT",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    217
+                                ],
+                                "hijos": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "2f651f72-d648-45df-936c-928e9f085d5d",
+                "titulo": "MÓDULO 6. COMUNICAR",
+                "nivel": 1,
+                "chunk_ids": [],
+                "hijos": [
+                    {
+                        "id": "af04d8c9-516c-4358-a4f6-e9876e9cf958",
+                        "titulo": "1. INTRODUCCIÓN",
+                        "nivel": 2,
+                        "chunk_ids": [
+                            218
+                        ],
+                        "hijos": []
+                    },
+                    {
+                        "id": "8b6a2e47-0e59-4f3a-ba70-5854c696eb27",
+                        "titulo": "2. FORO DE INVERSIÓN",
+                        "nivel": 2,
+                        "chunk_ids": [
+                            219
+                        ],
+                        "hijos": []
+                    },
+                    {
+                        "id": "38820772-ea33-4662-88b0-81eadaa8371a",
+                        "titulo": "3. ELEVATOR PITCH",
+                        "nivel": 2,
+                        "chunk_ids": [
+                            220
+                        ],
+                        "hijos": [
+                            {
+                                "id": "443b4721-c15d-4e20-a3e4-31d053bf5159",
+                                "titulo": "ACTIVIDAD NÚMERO 30. FORO DE INVERSIÓN CREATIVO",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    221
+                                ],
+                                "hijos": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "ce625642-f969-4d02-9ff6-c395d64552c6",
+                        "titulo": "4. APLICACIONES DE ESCRITORIO",
+                        "nivel": 2,
+                        "chunk_ids": [
+                            222
+                        ],
+                        "hijos": [
+                            {
+                                "id": "54788f61-3038-4388-aabd-b727d451a8db",
+                                "titulo": "4.1. CONFERENCIAS: TED",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    223
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "0b923038-77f3-4409-80ab-cb14df7c2c87",
+                                "titulo": "4.2. PRESENTACIONES: EMAZE",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    224
+                                ],
+                                "hijos": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "aae7f1b5-9d46-47a4-9f79-7389f786754e",
+                        "titulo": "5. APLICACIONES MÓVILES",
+                        "nivel": 2,
+                        "chunk_ids": [
+                            225
+                        ],
+                        "hijos": [
+                            {
+                                "id": "05fd8634-b83c-4d01-8687-c38205fca85f",
+                                "titulo": "5.1. TRANSMITIR EN VÍDEO: PERISCOPE",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    226
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "325dae62-3038-47cb-97ce-373f18812c84",
+                                "titulo": "5.2. CRONÓMETRO CUENTA REGRESIVA",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    227
+                                ],
+                                "hijos": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "ff53507d-95eb-43a0-8e43-7fc0735f6e41",
+                "titulo": "ANEXO I: PROGRAMACIÓN DIDÁCTICA",
+                "nivel": 1,
+                "chunk_ids": [],
+                "hijos": [
+                    {
+                        "id": "4a1f0886-8985-4c95-ae06-d74388deeb14",
+                        "titulo": "1. INTRODUCCIÓN",
+                        "nivel": 2,
+                        "chunk_ids": [
+                            228
+                        ],
+                        "hijos": []
+                    },
+                    {
+                        "id": "386ab67d-d1d3-4d7e-af8a-ba48693bf5d5",
+                        "titulo": "2. RESULTADOS DE APRENDIZAJE",
+                        "nivel": 2,
+                        "chunk_ids": [
+                            229
+                        ],
+                        "hijos": []
+                    },
+                    {
+                        "id": "f88084ca-11fb-49e8-af6c-6367269a948e",
+                        "titulo": "3. CONTENIDOS. TEMPORALIZACIÓN",
+                        "nivel": 2,
+                        "chunk_ids": [
+                            230
+                        ],
+                        "hijos": [
+                            {
+                                "id": "9a07e377-87cf-4689-90ac-1bf6b59ddd1e",
+                                "titulo": "Contenidos 1ª evaluación",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    231
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "7a5b2767-6d86-4592-a605-fb9cb78ecab2",
+                                "titulo": "Contenidos 2ª evaluación",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    232
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "4fec1e8f-7349-40f5-98a1-60820a2712fc",
+                                "titulo": "Tabla 1 - Número de sesiones",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    233
+                                ],
+                                "hijos": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "5d9f2c39-7515-47c2-bc19-649aa81eda8c",
+                        "titulo": "4. EVALUACIÓN",
+                        "nivel": 2,
+                        "chunk_ids": [
+                            234
+                        ],
+                        "hijos": [
+                            {
+                                "id": "a6945d22-6116-4362-af05-c436281def17",
+                                "titulo": "4.1. RESULTADOS DE APRENDIZAJE Y CRITERIOS DE EVALUACIÓN. CRITERIOS DE EVALUACIÓN MÍNIMOS. INSTRUMENTOS DE EVALUACIÓN",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    235
+                                ],
+                                "hijos": [
+                                    {
+                                        "id": "afc1f129-c55d-41ce-a342-e73e459d81ea",
+                                        "titulo": "Tabla 2 - Resultado de aprendizaje Nº 1",
+                                        "nivel": 4,
+                                        "chunk_ids": [
+                                            236
+                                        ],
+                                        "hijos": []
+                                    },
+                                    {
+                                        "id": "15d9c9d5-5c16-4c42-819d-c71e671efa19",
+                                        "titulo": "Tabla 3: Resultado de aprendizaje Nº 2",
+                                        "nivel": 4,
+                                        "chunk_ids": [
+                                            237
+                                        ],
+                                        "hijos": []
+                                    },
+                                    {
+                                        "id": "8611525f-2145-40b3-b459-7a63d263b751",
+                                        "titulo": "Tabla 4: Resultado de aprendizaje Nº 3",
+                                        "nivel": 4,
+                                        "chunk_ids": [
+                                            238
+                                        ],
+                                        "hijos": []
+                                    },
+                                    {
+                                        "id": "93366b0c-b720-46a9-bfd4-7e5ce9e6be58",
+                                        "titulo": "Tabla 5: Resultado de aprendizaje Nº 4",
+                                        "nivel": 4,
+                                        "chunk_ids": [
+                                            239
+                                        ],
+                                        "hijos": []
+                                    },
+                                    {
+                                        "id": "dccc797e-2f46-4376-8724-35696c30d861",
+                                        "titulo": "Tabla 6: Resultado de aprendizaje Nº 5",
+                                        "nivel": 4,
+                                        "chunk_ids": [
+                                            240
+                                        ],
+                                        "hijos": []
+                                    },
+                                    {
+                                        "id": "69c31c67-3290-4e2f-af30-ef39c45852db",
+                                        "titulo": "Tabla 7: Resultado de aprendizaje Nº 6",
+                                        "nivel": 4,
+                                        "chunk_ids": [
+                                            241
+                                        ],
+                                        "hijos": []
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "143eaba8-b4e4-4d31-8e39-c227111b1845",
+                                "titulo": "4.2. INSTRUMENTOS DE EVALUACIÓN",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    242
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "6ff9d803-08da-40f0-af3b-da226bd9ac48",
+                                "titulo": "4.3. CRITERIOS DE CALIFICACIÓN",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    243
+                                ],
+                                "hijos": [
+                                    {
+                                        "id": "4805def2-c18a-4801-95af-537fe967cb39",
+                                        "titulo": "Tabla 8: RESULTADOS DE APRENDIZAJE",
+                                        "nivel": 4,
+                                        "chunk_ids": [
+                                            244
+                                        ],
+                                        "hijos": []
+                                    },
+                                    {
+                                        "id": "7cb8f99a-0725-4f31-bd5d-9fcc262007ae",
+                                        "titulo": "Tabla 9: Criterios de calificación aplicados a cada evaluación",
+                                        "nivel": 4,
+                                        "chunk_ids": [
+                                            245
+                                        ],
+                                        "hijos": []
+                                    },
+                                    {
+                                        "id": "7582a2ca-d820-4480-ba3f-6410779ba857",
+                                        "titulo": "Tabla 10: Criterios de calificación de cada resultado de aprendizaje por evaluaciones",
+                                        "nivel": 4,
+                                        "chunk_ids": [
+                                            246
+                                        ],
+                                        "hijos": []
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "2696ffd6-15cb-4596-a99f-d342b05ab9b1",
+                                "titulo": "4.4. PROCEDIMIENTO DE EVALUACIÓN Y CRITERIOS DE RECUPERACIÓN",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    247
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "0e6727b4-fb18-45b3-847f-755cb4258b4b",
+                                "titulo": "4.5. EVALUACIÓN DEL PROCESO DE ENSEÑANZA-APRENDIZAJE",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    248
+                                ],
+                                "hijos": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "f3c9e7a3-cdc1-4e61-8f5f-eb39c6a97d81",
+                        "titulo": "5. METODOLOGÍA Y RECURSOS",
+                        "nivel": 2,
+                        "chunk_ids": [],
+                        "hijos": [
+                            {
+                                "id": "c978af00-1d1d-4e38-b036-188f7d8d6115",
+                                "titulo": "5.1. Principios metodológicos",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    249
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "f0d1bdb4-cb88-410e-b12c-5ec1e0587516",
+                                "titulo": "5.2. Estructura del curso",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    250
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "4bc85b75-7069-49fb-8753-de53e4953865",
+                                "titulo": "5.3. Por qué Lean Startup",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    251
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "cbfc7efd-283e-491a-a74a-66be5ba2f675",
+                                "titulo": "5.4. Metodologías activas asociadas",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    252
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "f7422365-1e68-4a61-9f8e-4b26b361ee4a",
+                                "titulo": "5.5. Mobile learning y realidad aumentada",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    253
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "5014eaac-d0b6-4931-a02e-140cdc7244f7",
+                                "titulo": "5.6. Programas y concursos",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    254
+                                ],
+                                "hijos": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "7f165424-d617-441f-883b-ebe6147395cc",
+                        "titulo": "6. ATENCIÓN A LA DIVERSIDAD",
+                        "nivel": 2,
+                        "chunk_ids": [
+                            255
+                        ],
+                        "hijos": []
+                    },
+                    {
+                        "id": "404ce294-6c95-43c1-b256-73dd0fe8d537",
+                        "titulo": "7. ACTIVIDADES COMPLEMENTARIAS",
+                        "nivel": 2,
+                        "chunk_ids": [
+                            256
+                        ],
+                        "hijos": []
+                    }
+                ]
+            }
+        ]
+    }
+}
