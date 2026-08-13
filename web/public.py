@@ -87,6 +87,7 @@ def chat():
                 rag.responder(
                     pregunta=pregunta,
                     metodologia=metodologia_seleccionada,
+                    modo_guiado=False
                 )
 
             except Exception as error:
@@ -99,13 +100,29 @@ def chat():
                 )
 
         elif modo == "guiado":
-            flash(
-                (
-                    "El modo guiado está preparado "
-                    "para su integración."
-                ),
-                "informacion",
-            )
+            try:
+                rag.responder(
+                    pregunta=pregunta,
+                    metodologia=metodologia_seleccionada,
+                    modo_guiado=True
+                )
+
+            except Exception as error:
+                flash(
+                    (
+                        "No se ha podido generar "
+                        f"el modo guiado: {error}"
+                    ),
+                    "error",
+                )
+
+            # flash(
+            #    (
+            #        "El modo guiado está preparado "
+            #        "para su integración."
+            #    ),
+            #    "informacion",
+            #)
 
 
     conversacion = rag.historial.obtener_historial(rag.id_conversacion)
