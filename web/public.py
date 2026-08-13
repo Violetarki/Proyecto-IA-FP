@@ -1,5 +1,6 @@
 from pathlib import Path
-from flask import Blueprint, render_template, request, flash
+import uuid
+from flask import Blueprint, render_template, request, flash, session
 
 from src.rag.rag_pipeline import RAG
 from src.knowledge.loader import cargar_arbol
@@ -52,6 +53,12 @@ def chat():
 
     metodologias = obtener_metodologias()
 
+    if "id_conversacion" not in session:
+        session["id_conversacion"] = str(uuid.uuid4())
+
+    if "estado_guiado" not in session:
+        session["estado_guiado"] = None
+
     metodologia_seleccionada = request.form.get(
         "metodologia",
         "simulacion_empresarial",
@@ -82,50 +89,40 @@ def chat():
                 ("Debes seleccionar una " "metodología válida."),
                 "error",
             )
+
         elif modo == "normal":
             try:
                 rag.responder(
                     pregunta=pregunta,
                     metodologia=metodologia_seleccionada,
-                    modo_guiado=False
+                    id_conversacion=session["id_conversacion"],
+                    modo_guiado=False,
                 )
 
             except Exception as error:
                 flash(
-                    (
-                        "No se ha podido generar "
-                        f"la respuesta: {error}"
-                    ),
+                    ("No se ha podido generar " f"la respuesta: {error}"),
                     "error",
                 )
 
         elif modo == "guiado":
             try:
-                rag.responder(
+                _, estado_guiado = rag.responder(
                     pregunta=pregunta,
                     metodologia=metodologia_seleccionada,
-                    modo_guiado=True
+                    id_conversacion=session["id_conversacion"],
+                    modo_guiado=True,
+                    estado_guiado=session["estado_guiado"],
                 )
+                session["estado_guiado"] = estado_guiado
 
             except Exception as error:
                 flash(
-                    (
-                        "No se ha podido generar "
-                        f"el modo guiado: {error}"
-                    ),
+                    ("No se ha podido generar " f"el modo guiado: {error}"),
                     "error",
                 )
 
-            # flash(
-            #    (
-            #        "El modo guiado está preparado "
-            #        "para su integración."
-            #    ),
-            #    "informacion",
-            #)
-
-
-    conversacion = rag.historial.obtener_historial(rag.id_conversacion)
+    conversacion = rag.historial.obtener_historial(session["id_conversacion"])
 
     return render_template(
         "chatbot.html",
