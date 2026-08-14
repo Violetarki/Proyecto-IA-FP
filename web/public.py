@@ -19,17 +19,11 @@ RUTA_ARBOL_LEAN = Path( "data/knowledge/lean_startup.json" )
 RUTA_ARBOL_SIMULACION = Path( "data/knowledge/simulacion_empresarial.json" ) 
 RUTA_ARBOL_COMPLEMENTARIO = Path( "data/knowledge/se_material_complementario.json" )
 
-print("ANTES DE CARGAR LEAN", flush=True)
+
 arbol_lean = cargar_arbol(RUTA_ARBOL_LEAN)
-print("LEAN CARGADO", flush=True)
-
-print("ANTES DE CARGAR SIMULACION", flush=True)
 arbol_simulacion = cargar_arbol(RUTA_ARBOL_SIMULACION)
-print("SIMULACION CARGADA", flush=True)
-
-print("ANTES DE CARGAR COMPLEMENTARIO", flush=True)
 arbol_complementario = cargar_arbol(RUTA_ARBOL_COMPLEMENTARIO)
-print("COMPLEMENTARIO CARGADO", flush=True)
+
 
 arboles = {
     "lean_startup": arbol_lean,
@@ -37,11 +31,9 @@ arboles = {
     "se_material_complementario": arbol_complementario,
 }
 
-print("ARBOLES CARGADOS", flush=True)
 
 rag = RAG(arboles)
 
-print("RAG CREADO", flush=True)
 
 public_bp = Blueprint(
     "public",

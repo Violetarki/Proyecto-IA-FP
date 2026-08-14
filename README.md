@@ -18,6 +18,7 @@ El sistema incorpora actualmente las siguientes funcionalidades:
 - Interfaz pública para el alumnado.
 - Panel específico para el profesorado.
 - Gestión de documentos desde la aplicación web.
+- Selección de la metodología activa visible para el alumnado.
 - Conversión automática de documentos PDF a Markdown mediante Docling.
 - Limpieza y normalización del contenido generado.
 - Análisis de la estructura jerárquica de los documentos Markdown.
@@ -149,20 +150,54 @@ GuidedContextBuilder
      Progreso
 ```
 
-`GuidedMode` se encarga de mantener:
+`GuidedMode` no conoce ninguna metodología concreta: la estructura de
+pasos la prepara `guided_steps.py`, y `GuidedMode` solo gestiona el
+progreso del alumno sobre esa lista.
 
-- si existe una sesión guiada activa;
-- los pasos que forman parte de la guía;
-- el paso actual;
-- las respuestas proporcionadas por el alumno;
-- el progreso realizado;
-- la finalización de la sesión.
+Internamente mantiene un estado con:
+
+```text
+activo
+pasos_ids
+completados
+paso_actual
+```
+
+El estado inicial del checklist se crea mediante:
+
+```text
+GuidedMode.estado_inicial(pasos_ids)
+```
+
+Cuando el alumno elige un elemento a trabajar:
+
+```text
+GuidedMode.seleccionar_paso(estado, paso_id)
+```
+
+Para conocer el nodo del árbol correspondiente al paso seleccionado:
+
+```text
+GuidedMode.obtener_paso_actual(estado, arbol)
+```
+
+El progreso se gestiona marcando o desmarcando elementos como completados:
+
+```text
+GuidedMode.marcar_completado(estado, paso_id)
+GuidedMode.desmarcar_completado(estado, paso_id)
+```
+
+Es posible consultar en cualquier momento si un elemento está completado o si el modo guiado sigue activo mediante:
+
+```text
+GuidedMode.esta_completado(estado, paso_id)
+GuidedMode.esta_activo(estado)
+```
 
 Cuando comienza una guía, el sistema obtiene el árbol de conocimiento correspondiente a la metodología seleccionada.
 
 Posteriormente, cada paso se combina con los chunks recuperados mediante RAG y con el progreso acumulado para construir un contexto específico mediante `GuidedContextBuilder`.
-
-Cuando se completan todos los pasos, la sesión guiada finaliza.
 
 ---
 
@@ -651,7 +686,7 @@ El módulo:
 src/rag/historial.py
 ```
 
-gestiona el historial de las conversaciones.
+gestiona el historial de las conversaciones, almacenado en un único archivo JSON.
 
 Cada instancia del sistema RAG genera un identificador de conversación:
 
@@ -670,8 +705,10 @@ Respuesta del asistente
 Los datos relacionados con el historial se encuentran en:
 
 ```text
-data/historial_conversaciones/
+data/historial_conversaciones.json
 ```
+
+El acceso al archivo está protegido mediante un lock (`filelock`) para evitar que dos escrituras simultáneas se sobrescriban entre sí.
 
 Esto permite mantener continuidad entre diferentes mensajes de una misma conversación.
 
@@ -718,59 +755,6 @@ Progreso
 ```
 
 La separación entre ambos flujos permite adaptar las instrucciones enviadas al LLM al tipo de interacción que está realizando el alumno.
-
----
-
-# GuidedMode
-
-El archivo:
-
-```text
-src/rag/guided_mode.py
-```
-
-gestiona el estado de las sesiones de aprendizaje guiado.
-
-Internamente mantiene:
-
-```text
-activo
-pasos
-paso_actual
-progreso
-```
-
-Cuando comienza una sesión:
-
-```text
-GuidedMode.iniciar()
-```
-
-carga los pasos correspondientes al proceso.
-
-Posteriormente:
-
-```text
-GuidedMode.obtener_paso_actual()
-```
-
-permite conocer qué paso debe trabajarse.
-
-Las respuestas del alumno se procesan mediante:
-
-```text
-GuidedMode.procesar_respuesta()
-```
-
-y se almacenan dentro del progreso de la sesión.
-
-Cuando se completan todos los pasos:
-
-```text
-GuidedMode.finalizar()
-```
-
-termina la guía.
 
 ---
 
@@ -892,7 +876,7 @@ Si no existe, se obtiene el árbol correspondiente a la metodología y se inicia
           KnowledgeTree    │
                  │         │
                  ▼         │
-          GuidedMode.iniciar()
+          GuidedMode.estado_inicial()
                  │         │
                  └────┬────┘
                       │
@@ -1030,7 +1014,7 @@ Proyecto-IA-FP/
 │   └── Documentación utilizada por el sistema
 │
 ├── data/
-│   ├── historial_conversaciones/
+│   ├── historial_conversaciones.json
 │   ├── knowledge/
 │   │   ├── lean_startup.json
 │   │   ├── se_material_complementario.json
@@ -1105,20 +1089,21 @@ Proyecto-IA-FP/
 
 # Tecnologías utilizadas
 
-| Tecnología | Uso |
-|---|---|
-| Python | Lenguaje principal del proyecto |
-| Flask | Aplicación e interfaz web |
-| Jinja2 | Renderizado de plantillas HTML |
-| Docling | Conversión de documentos PDF a Markdown |
-| Sentence Transformers | Generación de embeddings |
-| BAAI/bge-m3 | Modelo de embeddings |
-| ChromaDB | Base de datos vectorial |
-| Groq | Cliente para el modelo de lenguaje |
-| Qwen 3.6 27B | Modelo de lenguaje configurado |
-| NumPy | Operaciones numéricas |
-| PyMuPDF | Procesamiento de documentos |
-| python-dotenv | Gestión de variables de entorno |
+| Tecnología            | Uso                                                                             |
+| --------------------- | ------------------------------------------------------------------------------- |
+| Python                | Lenguaje principal del proyecto                                                 |
+| Flask                 | Aplicación e interfaz web                                                       |
+| Jinja2                | Renderizado de plantillas HTML                                                  |
+| Docling               | Conversión de documentos PDF a Markdown                                         |
+| Sentence Transformers | Generación de embeddings                                                        |
+| BAAI/bge-m3           | Modelo de embeddings                                                            |
+| ChromaDB              | Base de datos vectorial                                                         |
+| Groq                  | Cliente para el modelo de lenguaje                                              |
+| Qwen 3.6 27B          | Modelo de lenguaje configurado                                                  |
+| NumPy                 | Operaciones numéricas                                                           |
+| PyMuPDF               | Procesamiento de documentos                                                     |
+| python-dotenv         | Gestión de variables de entorno                                                 |
+| filelock              | Bloqueo de archivos para evitar condiciones de carrera al escribir el historial |
 
 ---
 
