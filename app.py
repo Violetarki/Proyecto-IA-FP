@@ -10,9 +10,17 @@ import logging
 from pathlib import Path
 from flask import Flask
 
+print("ANTES DE IMPORTAR PUBLIC", flush=True)
 from web.public import public_bp
+print("PUBLIC IMPORTADO", flush=True)
+
+print("ANTES DE IMPORTAR AUTH", flush=True)
 from web.auth import auth_bp
+print("AUTH IMPORTADO", flush=True)
+
+print("ANTES DE IMPORTAR PROFESOR", flush=True)
 from web.profesor import profesor_bp
+print("PROFESOR IMPORTADO", flush=True)
 
 Path("data/logs").mkdir(exist_ok=True)
 
@@ -38,9 +46,13 @@ app = Flask(
 
 # Registro de los Blueprints de la aplicación.
 app.register_blueprint(public_bp)
-app.register_blueprint(auth_bp)
-app.register_blueprint(profesor_bp)
+print("REGISTRADO public")
 
+app.register_blueprint(auth_bp)
+print("REGISTRADO auth")
+
+app.register_blueprint(profesor_bp)
+print("REGISTRADO profesor")
 
 # La clave secreta permite que Flask gestione las sesiones.
 #
@@ -53,6 +65,6 @@ app.secret_key = os.getenv(
 
 
 if __name__ == "__main__":
-    app.run(
-        debug=True
-    )
+    port = int(os.environ.get("PORT", 5000))
+    print(f"ARRANCANDO FLASK EN EL PUERTO {port}", flush=True)
+    app.run(host="0.0.0.0", port=port)

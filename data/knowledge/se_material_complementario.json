@@ -1,0 +1,3473 @@
+{
+    "metodologia": "simulacion_empresarial",
+    "raiz": {
+        "id": "92d3617c-bf96-4b72-8d4f-3dc72feb3462",
+        "titulo": null,
+        "nivel": 0,
+        "chunk_ids": [],
+        "hijos": [
+            {
+                "id": "0f0c1f61-910f-4578-ae58-28285513983e",
+                "titulo": "ES MÓDULO 1 - Fundamentos de Emprendimiento y Educación Emprendedora",
+                "nivel": 1,
+                "chunk_ids": [],
+                "hijos": [
+                    {
+                        "id": "7addc581-1d44-4960-8183-b05a780ea55f",
+                        "titulo": "1. Objetivos de aprendizaje",
+                        "nivel": 2,
+                        "chunk_ids": [
+                            0
+                        ],
+                        "hijos": []
+                    },
+                    {
+                        "id": "f845b687-12e5-40ba-bd60-ad8d4d60a0f6",
+                        "titulo": "2. ¿Qué es el emprendimiento?",
+                        "nivel": 2,
+                        "chunk_ids": [
+                            1
+                        ],
+                        "hijos": [
+                            {
+                                "id": "f2354a86-6295-4496-bbf9-d30365bbf1b3",
+                                "titulo": "¿Es esto emprendimiento?",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    2
+                                ],
+                                "hijos": [
+                                    {
+                                        "id": "41325bf4-9749-4d6b-a44c-5b032be69f79",
+                                        "titulo": "FEEDBACK",
+                                        "nivel": 4,
+                                        "chunk_ids": [
+                                            3
+                                        ],
+                                        "hijos": []
+                                    },
+                                    {
+                                        "id": "654dbb85-785d-4222-bee4-d85a9121325e",
+                                        "titulo": "Reflexión",
+                                        "nivel": 4,
+                                        "chunk_ids": [
+                                            4
+                                        ],
+                                        "hijos": []
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "69b6a765-e032-4b3e-8c32-bacc4bc46e18",
+                                "titulo": "¿Quién es el emprendedor?",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    5
+                                ],
+                                "hijos": [
+                                    {
+                                        "id": "2bf6a693-b5a8-45f7-8fb1-e193599255af",
+                                        "titulo": "Ejemplo emprendedor: Steve Jobs (Apple)",
+                                        "nivel": 4,
+                                        "chunk_ids": [
+                                            6
+                                        ],
+                                        "hijos": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": "3e4c6b23-98a1-4d63-88c6-0d0196f3165d",
+                        "titulo": "3. Ventajas y desafíos",
+                        "nivel": 2,
+                        "chunk_ids": [],
+                        "hijos": [
+                            {
+                                "id": "374eefbd-048a-4566-af16-14d96fc5cd96",
+                                "titulo": "Ventajas del emprendimiento",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    7
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "a1bc7fa9-e28e-4911-a12f-094b5d8197fd",
+                                "titulo": "DESAFÍOS Y COSTES DE LA EMPRESA",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    8
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "3be1c923-8a65-444f-ba05-56392ec862a4",
+                                "titulo": "Mitos comunes sobre el espíritu emprendedor",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    9
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "f0ccda27-b52a-48b2-852f-4e09affc6d67",
+                                "titulo": "DESMITIFICANDO: LA REALIDAD",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    10
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "258add90-509e-417e-b2d9-09b9dbeac731",
+                                "titulo": "Enlace",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    11
+                                ],
+                                "hijos": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "789bc588-6b7a-463e-b3b8-72e4992fd51e",
+                        "titulo": "4. Necesidad vs. Oportunidad",
+                        "nivel": 2,
+                        "chunk_ids": [],
+                        "hijos": [
+                            {
+                                "id": "1ad94ddf-11cf-4f70-a0f1-752dce9342e2",
+                                "titulo": "Emprendimiento por necesidad vs. por oportunidad",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    12
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "1e3f9214-a645-4726-adf8-a93e4a548bf6",
+                                "titulo": "PERFILES DE EMPRENDEDORES",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    13
+                                ],
+                                "hijos": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "8c842c75-e8e5-4c2a-95f9-821ddb1dee0d",
+                        "titulo": "5. El proceso emprendedor.",
+                        "nivel": 2,
+                        "chunk_ids": [
+                            14
+                        ],
+                        "hijos": [
+                            {
+                                "id": "1018efb5-5866-4850-8392-d429bec00e17",
+                                "titulo": "5.1. IDENTIFICAR Y EVALUAR LA OPORTUNIDAD",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    15
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "d3ad5c51-ab54-445d-97fb-2a235afc4ff2",
+                                "titulo": "5.2. DETERMINAR Y OBTENER LOS RECURSOS NECESARIOS",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    16
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "b92ad777-cf01-4c5d-971e-0d9849b3d528",
+                                "titulo": "5.3. LANZAR LA EMPRESA Y GESTIONAR EL CRECIMIENTO",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    17
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "e6c05709-d43c-4a5d-9458-0129321ad309",
+                                "titulo": "MENTALIDAD EMPRENDEDORA: ¿CÓMO DESARROLLARLA?",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    18
+                                ],
+                                "hijos": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "f2096ce3-37c1-43da-8c22-e52fa0628d51",
+                        "titulo": "6. Emprendimiento e innovación",
+                        "nivel": 2,
+                        "chunk_ids": [],
+                        "hijos": [
+                            {
+                                "id": "b8977413-a535-449b-92ee-da8073dac8e3",
+                                "titulo": "\"Destrucción creativa\" de Schumpeter",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    19
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "904ff8a7-361e-4e58-bab0-7ab08d14fc36",
+                                "titulo": "CREAR UNA STARTUP",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    20
+                                ],
+                                "hijos": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "64695271-316c-4245-9a79-0585e3d39770",
+                        "titulo": "7. Emprendimiento Social, Tecnológico, Corporativo y de Impacto",
+                        "nivel": 2,
+                        "chunk_ids": [],
+                        "hijos": [
+                            {
+                                "id": "770d58b0-e556-4fd8-9719-b4728134ab36",
+                                "titulo": "Tipos de emprendimiento",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    21
+                                ],
+                                "hijos": [
+                                    {
+                                        "id": "c7e555ae-6e50-45b7-8923-9ca4b00aa177",
+                                        "titulo": "EMPRENDIMIENTO SOCIAL",
+                                        "nivel": 4,
+                                        "chunk_ids": [
+                                            22
+                                        ],
+                                        "hijos": [
+                                            {
+                                                "id": "c41e8a83-dcaf-4de6-812d-75d7ebbe2e10",
+                                                "titulo": "EJEMPLO: ColorADD",
+                                                "nivel": 5,
+                                                "chunk_ids": [
+                                                    23
+                                                ],
+                                                "hijos": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "417f7d17-6b60-4c6d-9193-7f4599e15623",
+                                        "titulo": "EMPRENDIMIENTO TECNOLÓGICO",
+                                        "nivel": 4,
+                                        "chunk_ids": [
+                                            24
+                                        ],
+                                        "hijos": [
+                                            {
+                                                "id": "59715c2e-287b-4508-b662-8a29061de35c",
+                                                "titulo": "EJEMPLO: Farfetch",
+                                                "nivel": 5,
+                                                "chunk_ids": [
+                                                    25
+                                                ],
+                                                "hijos": []
+                                            },
+                                            {
+                                                "id": "56ce0784-ac82-449b-8dc5-17fc2e70c2a1",
+                                                "titulo": "Otros ejemplos de emprendimiento tecnológico portugués:",
+                                                "nivel": 5,
+                                                "chunk_ids": [
+                                                    26
+                                                ],
+                                                "hijos": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "0f7a631c-78f7-4ff6-acc8-edf401672b6d",
+                                        "titulo": "Emprendimiento corporativo",
+                                        "nivel": 4,
+                                        "chunk_ids": [
+                                            27
+                                        ],
+                                        "hijos": [
+                                            {
+                                                "id": "a0951f0f-723d-4d7d-9718-64e29089413a",
+                                                "titulo": "EJEMPLO: 3M",
+                                                "nivel": 5,
+                                                "chunk_ids": [
+                                                    28
+                                                ],
+                                                "hijos": []
+                                            },
+                                            {
+                                                "id": "11700952-73ee-4467-a72f-a3f53811fea5",
+                                                "titulo": "Ejemplo portugués",
+                                                "nivel": 5,
+                                                "chunk_ids": [
+                                                    29
+                                                ],
+                                                "hijos": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "6e08b885-3c65-406b-986c-1d73fcbec3d8",
+                                        "titulo": "EMPRENDIMIENTO DE IMPACTO",
+                                        "nivel": 4,
+                                        "chunk_ids": [
+                                            30
+                                        ],
+                                        "hijos": [
+                                            {
+                                                "id": "faa5a71c-a8cc-40f7-8225-3d3d01db4fca",
+                                                "titulo": "EJEMPLO: Speak",
+                                                "nivel": 5,
+                                                "chunk_ids": [
+                                                    31
+                                                ],
+                                                "hijos": []
+                                            },
+                                            {
+                                                "id": "f845778b-be44-42c5-a238-56eb71030483",
+                                                "titulo": "Ejemplo de la Academia del Código",
+                                                "nivel": 5,
+                                                "chunk_ids": [
+                                                    32
+                                                ],
+                                                "hijos": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "36e88e33-534d-4c57-99bb-b9b0eecd822f",
+                                "titulo": "QUIZ: ¿QUÉ TIPO DE EMPRENDIMIENTO ES?",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    33
+                                ],
+                                "hijos": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "923a8434-8a29-44e2-b398-ee043cf45063",
+                        "titulo": "8. El papel de la persona emprendedora en el desarrollo económico y social",
+                        "nivel": 2,
+                        "chunk_ids": [],
+                        "hijos": [
+                            {
+                                "id": "55a300ff-aaaf-4158-a828-fc39b3bfd433",
+                                "titulo": "Emprendimiento y desarrollo económico",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    34
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "e5785490-56fa-49af-85d3-b26ad2416ae6",
+                                "titulo": "IMPACTOS POSITIVOS",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    35
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "1491c02e-25e3-4f74-acd4-3fc14980de5f",
+                                "titulo": "MÁS IMPACTOS POSITIVOS",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    36
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "892270f0-0fe1-4d04-8a3f-8ef25aa41805",
+                                "titulo": "EMPRENDIMIENTO EN ESPAÑA - ALGUNAS CIFRAS",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    37
+                                ],
+                                "hijos": [
+                                    {
+                                        "id": "2b7a70fc-20a3-42fe-9582-21affa231d21",
+                                        "titulo": "Vídeo \"Casos de éxito | Isabel Caruana, fundadora y CEO de Ailin\"",
+                                        "nivel": 4,
+                                        "chunk_ids": [
+                                            38
+                                        ],
+                                        "hijos": []
+                                    },
+                                    {
+                                        "id": "180ea5f4-3641-4471-a34d-13619bacd927",
+                                        "titulo": "REFLEXIÓN SOBRE EL EMPRENDIMIENTO ESPAÑOL",
+                                        "nivel": 4,
+                                        "chunk_ids": [
+                                            39
+                                        ],
+                                        "hijos": []
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "61f38a53-4a68-4f87-8b53-73a7c4b1d4e1",
+                                "titulo": "Foro",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    40
+                                ],
+                                "hijos": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "d68ce6a3-c0e1-4e88-87a0-5d427aa7b374",
+                        "titulo": "9. Educación Emprendedora",
+                        "nivel": 2,
+                        "chunk_ids": [
+                            41
+                        ],
+                        "hijos": [
+                            {
+                                "id": "88b8e6bc-d9c0-48d9-9da8-a6423360dcf2",
+                                "titulo": "¿POR QUÉ METODOLOGÍAS ACTIVAS?",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    42
+                                ],
+                                "hijos": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "379eeb42-7b1a-44c6-a49f-933746d46c3f",
+                        "titulo": "10. Metodologías Activas de Enseñanza y Aprendizaje",
+                        "nivel": 2,
+                        "chunk_ids": [
+                            43
+                        ],
+                        "hijos": [
+                            {
+                                "id": "d01713f6-a905-44e4-973d-9ca597af151d",
+                                "titulo": "Aprendizaje basado en proyectos (ABP)",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    44
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "1ec6042d-d124-449c-8bdc-ab1fc232b603",
+                                "titulo": "SALA DE AULA INVERTIDA (Flipped Classroom)",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    45
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "7c1a7a77-1fa8-4703-ba06-fea358eb8b84",
+                                "titulo": "CASOS PRÁCTICOS",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    46
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "957edafa-545e-4347-9064-e9d9cdc23b58",
+                                "titulo": "SIMULACIONES",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    47
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "60ce9299-a8c0-4ac6-b862-4223641bdc5f",
+                                "titulo": "JUEGO DE ROLES",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    48
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "ba91eb4f-4c5b-4247-b37d-096e1d83ebf6",
+                                "titulo": "Otros enfoques innovadores",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    49
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "2d03d22a-c85d-466a-bbc8-815def6d20aa",
+                                "titulo": "FORO",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    50
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "607aa0d2-6746-4271-b320-853fff60456f",
+                                "titulo": "Puntos a considerar:",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    51
+                                ],
+                                "hijos": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "6865eae4-0a4a-4c23-9c87-d6a5fc2068a6",
+                        "titulo": "11. Gamificación y Aprendizaje Experiencial",
+                        "nivel": 2,
+                        "chunk_ids": [],
+                        "hijos": [
+                            {
+                                "id": "f962b6f0-526a-40ae-8b6b-131bb99ee18a",
+                                "titulo": "Gamificación: el juego en la educación empresarial",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    52
+                                ],
+                                "hijos": [
+                                    {
+                                        "id": "0a266f13-0271-465b-9694-7659f025ba92",
+                                        "titulo": "GAMIFICACIÓN: BENEFICIOS Y CONSEJOS",
+                                        "nivel": 4,
+                                        "chunk_ids": [
+                                            53
+                                        ],
+                                        "hijos": []
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "4622ee0f-bd69-4036-be03-ca61bfad01d4",
+                                "titulo": "APRENDIZAJE EXPERIENCIAL",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    54
+                                ],
+                                "hijos": [
+                                    {
+                                        "id": "c71a39ba-1a45-48a1-bfae-01766d526d12",
+                                        "titulo": "Ciclo Kolb",
+                                        "nivel": 4,
+                                        "chunk_ids": [
+                                            55
+                                        ],
+                                        "hijos": []
+                                    },
+                                    {
+                                        "id": "035080f5-d8c4-49ec-9343-2d2750256f0c",
+                                        "titulo": "POR QUÉ FUNCIONA EL APRENDIZAJE EXPERIENCIAL",
+                                        "nivel": 4,
+                                        "chunk_ids": [
+                                            56
+                                        ],
+                                        "hijos": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": "ddd09ca5-d409-4149-9b34-dfbafc2c79d3",
+                        "titulo": "12. Resumen y reflexión",
+                        "nivel": 2,
+                        "chunk_ids": [],
+                        "hijos": [
+                            {
+                                "id": "311f8149-00ed-4af3-88be-12f21c3cdd42",
+                                "titulo": "Conceptos clave sobre el espíritu empresarial",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    57
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "3c3d3b3c-420b-4d47-90fb-c892c8640584",
+                                "titulo": "Conceptos clave de la educación emprendedora",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    58
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "e045f6c7-1c7f-4156-aee0-bb61a1cc638a",
+                                "titulo": "RECURSOS Y ENLACES ÚTILES (PORTUGAL)",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    59
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "4c0abc91-41ac-428f-921a-3df005915a85",
+                                "titulo": "FORO",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    60
+                                ],
+                                "hijos": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "abd8907c-dfaf-4613-afe3-510048b5dd55",
+                        "titulo": "13. Quiz",
+                        "nivel": 2,
+                        "chunk_ids": [
+                            61
+                        ],
+                        "hijos": []
+                    }
+                ]
+            },
+            {
+                "id": "dd2954e2-0372-4b0f-bf1e-8e793b6010c6",
+                "titulo": "ES MÓDULO 2 - Psicología en Emprendimiento – Mentalidad y Resiliencia",
+                "nivel": 1,
+                "chunk_ids": [],
+                "hijos": [
+                    {
+                        "id": "763409a1-1ec8-4378-9921-e9a7987d56dc",
+                        "titulo": "1. Objetivos de aprendizaje",
+                        "nivel": 2,
+                        "chunk_ids": [
+                            62
+                        ],
+                        "hijos": []
+                    },
+                    {
+                        "id": "d4a4a361-0bdf-4c7b-b75f-3903a4835c32",
+                        "titulo": "2. ¿Qué es la mentalidad emprendedora?",
+                        "nivel": 2,
+                        "chunk_ids": [
+                            63
+                        ],
+                        "hijos": [
+                            {
+                                "id": "82b22246-a598-42e2-b9e2-f363056dc6f8",
+                                "titulo": "REFLEXIÓN",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    64
+                                ],
+                                "hijos": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "8c1c8b18-1527-452c-93a3-e5e0763607bc",
+                        "titulo": "3. Características",
+                        "nivel": 2,
+                        "chunk_ids": [
+                            65
+                        ],
+                        "hijos": [
+                            {
+                                "id": "b5f01af7-344d-4dbd-8677-a8ebf51ce889",
+                                "titulo": "Foro",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    66
+                                ],
+                                "hijos": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "73c7ad3f-155e-4d52-83bf-b8d8089e26bf",
+                        "titulo": "4. Las creencias limitantes",
+                        "nivel": 2,
+                        "chunk_ids": [
+                            67
+                        ],
+                        "hijos": [
+                            {
+                                "id": "2491012d-74d1-45ba-afaa-ba4ae8d4bee4",
+                                "titulo": "REFLEXIÓN",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    68
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "a493ed8e-f465-431e-8cda-c297ad6daad5",
+                                "titulo": "MITOS Y CONCEPTOS ERRÓNEOS SOBRE EL EMPRENDIMIENTO",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    69
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "aa4eb704-620a-4689-8f04-76036dd9a3f5",
+                                "titulo": "Foro",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    70
+                                ],
+                                "hijos": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "eb318e28-cae5-46ef-bfa3-313b2263bc01",
+                        "titulo": "5. Tipos de mentalidad",
+                        "nivel": 2,
+                        "chunk_ids": [],
+                        "hijos": [
+                            {
+                                "id": "0be45569-99b4-4b25-b10b-a57b7325c580",
+                                "titulo": "5.1 Mindset fija vs mindset de crecimiento",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    71
+                                ],
+                                "hijos": [
+                                    {
+                                        "id": "d6ec49b0-ed7f-4a65-b7e1-bed4cdee7b41",
+                                        "titulo": "TED TALK DE CAROL DWECK",
+                                        "nivel": 4,
+                                        "chunk_ids": [
+                                            72
+                                        ],
+                                        "hijos": []
+                                    },
+                                    {
+                                        "id": "47d4a216-a62c-46a2-909b-4db3814659c8",
+                                        "titulo": "RASGOS DE TIPOS DE MENTALIDAD",
+                                        "nivel": 4,
+                                        "chunk_ids": [
+                                            73
+                                        ],
+                                        "hijos": []
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "ec35cb2d-dee5-41b2-aa54-3bc5eaf336af",
+                                "titulo": "5.2 INCLUSO SI TIENES MIEDO, SIGUE ADELANTE",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    74
+                                ],
+                                "hijos": [
+                                    {
+                                        "id": "39fa10c6-8f8a-4c9e-9b6e-de0abc2a1814",
+                                        "titulo": "Reflexión",
+                                        "nivel": 4,
+                                        "chunk_ids": [
+                                            75
+                                        ],
+                                        "hijos": []
+                                    },
+                                    {
+                                        "id": "a0f6026d-834a-431c-9397-63c5efe3b022",
+                                        "titulo": "EJEMPLO PRÁCTICO - REFORMULAR CREENCIAS",
+                                        "nivel": 4,
+                                        "chunk_ids": [
+                                            76
+                                        ],
+                                        "hijos": []
+                                    },
+                                    {
+                                        "id": "60dd2aa9-e88d-4908-852b-5b2d0c83faec",
+                                        "titulo": "Sesión síncrona",
+                                        "nivel": 4,
+                                        "chunk_ids": [
+                                            77
+                                        ],
+                                        "hijos": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": "7a20612f-7f6a-4d8d-b8b8-2566a036d277",
+                        "titulo": "6. Psicología del riesgo",
+                        "nivel": 2,
+                        "chunk_ids": [
+                            78
+                        ],
+                        "hijos": [
+                            {
+                                "id": "1b7682f4-840b-4a0a-b483-a42016b3254b",
+                                "titulo": "ACTITUD ANTE EL RIESGO",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    79
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "6c50a52c-b5b0-4361-98a2-b85249c8716a",
+                                "titulo": "Reflexión",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    80
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "c5bdc78c-fa39-4f93-aa7c-7e94aec620b8",
+                                "titulo": "AUTOEVALUACIÓN: TOLERANCIA AL RIESGO",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    81
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "a49a1b77-6484-4922-a01c-d8fae1ec1fe1",
+                                "titulo": "Foro",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    82
+                                ],
+                                "hijos": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "c0e8ba83-5550-473c-b184-57f83a83f423",
+                        "titulo": "7. Toma de decisiones",
+                        "nivel": 2,
+                        "chunk_ids": [],
+                        "hijos": [
+                            {
+                                "id": "e3376e36-2b18-4541-a436-cb6d8a3cbed2",
+                                "titulo": "Decidir sobre la incertidumbre",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    83
+                                ],
+                                "hijos": [
+                                    {
+                                        "id": "88b64024-2c4f-40fc-8593-ed514c2778d2",
+                                        "titulo": "EJEMPLO PRÁCTICO: DECISIÓN ARRIESGADA",
+                                        "nivel": 4,
+                                        "chunk_ids": [
+                                            84
+                                        ],
+                                        "hijos": []
+                                    },
+                                    {
+                                        "id": "20ebeaff-770e-4483-a725-5c7957526e60",
+                                        "titulo": "Foro",
+                                        "nivel": 4,
+                                        "chunk_ids": [
+                                            85
+                                        ],
+                                        "hijos": []
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "7e2c3154-bddf-4bce-bb1f-3ee5ce13a11d",
+                                "titulo": "ESTRATEGIAS PARA DECIDIR MEJOR",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    86
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "e75beb7c-68c7-4c5f-b51d-e9021795c14f",
+                                "titulo": "QUIZ: Perfil de riesgo",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    87
+                                ],
+                                "hijos": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "79abde4b-0b8a-45ef-8871-077558a38021",
+                        "titulo": "8. Gestión del fracaso",
+                        "nivel": 2,
+                        "chunk_ids": [],
+                        "hijos": [
+                            {
+                                "id": "f0c5a70b-d55a-4b1a-ad9f-a29e3c54cdcd",
+                                "titulo": "Aprender a fracasar",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    88
+                                ],
+                                "hijos": [
+                                    {
+                                        "id": "977e3c18-f18f-4654-9bbd-53ea1d11fbed",
+                                        "titulo": "Reflexión",
+                                        "nivel": 4,
+                                        "chunk_ids": [
+                                            89
+                                        ],
+                                        "hijos": []
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "3f6ad3b6-a096-4542-9490-a38481817d06",
+                                "titulo": "FRACASO: DEL ESTIGMA AL APRENDIZAJE",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    90
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "3ecb4728-590a-4654-9827-c4a881d3099c",
+                                "titulo": "PERSISTENCIA A PESAR DEL FRACASO",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    91
+                                ],
+                                "hijos": [
+                                    {
+                                        "id": "b9856ab9-9bb7-4bd6-9890-141fb24f677f",
+                                        "titulo": "Reflexión",
+                                        "nivel": 4,
+                                        "chunk_ids": [
+                                            92
+                                        ],
+                                        "hijos": []
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "fb3732ef-f42a-4150-ac48-6e83d18c428a",
+                                "titulo": "ACEPTAR Y APRENDER DE LOS ERRORES",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    93
+                                ],
+                                "hijos": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "6298cb99-7c47-4ed5-b68c-e4bb9b059d58",
+                        "titulo": "9. Desarrollo de la resiliencia",
+                        "nivel": 2,
+                        "chunk_ids": [],
+                        "hijos": [
+                            {
+                                "id": "741006a5-8bf7-4519-b790-9f3b435b2fc4",
+                                "titulo": "Resiliencia: la capacidad de dar la vuelta",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    94
+                                ],
+                                "hijos": [
+                                    {
+                                        "id": "c99dea98-d863-4191-9ccd-d5c462ab525b",
+                                        "titulo": "Reflexión",
+                                        "nivel": 4,
+                                        "chunk_ids": [
+                                            95
+                                        ],
+                                        "hijos": []
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "44e9f7fe-2129-4867-a5a5-fb6e5b711241",
+                                "titulo": "CÓMO FORTALECER LA RESILIENCIA",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    96
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "a67be9ac-204b-4e4f-8be4-dd475f5f0dc5",
+                                "titulo": "Reflexión",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    97
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "806e33c1-0f42-45a6-b87a-8247071c77f6",
+                                "titulo": "Sesión síncrona",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    98
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "08ef7f27-0b09-4f13-8e32-7a9591e9b07a",
+                                "titulo": "VIDEO: LOS TRES SECRETOS DE LAS PERSONAS RESILIENTES",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    99
+                                ],
+                                "hijos": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "d33a4c15-fb76-42e9-a1cb-53ab50959d8a",
+                        "titulo": "10. Inteligencia Emocional",
+                        "nivel": 2,
+                        "chunk_ids": [
+                            100
+                        ],
+                        "hijos": [
+                            {
+                                "id": "d73a3d29-fff1-4afb-8155-7a9d9748b1ed",
+                                "titulo": "BENEFICIOS DE LA INTELIGENCIA EMOCIONAL",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    101
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "9e99fb2b-4589-4ab6-bf07-cc5678a55dc8",
+                                "titulo": "DESARROLLO DE LA INTELIGENCIA EMOCIONAL",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    102
+                                ],
+                                "hijos": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "d8f32482-d3b6-4c20-bc81-1de3d4883d33",
+                        "titulo": "11. Motivación Emprendedora",
+                        "nivel": 2,
+                        "chunk_ids": [],
+                        "hijos": [
+                            {
+                                "id": "dfe6dc66-51e7-48a3-9f05-32d96c9ee3a9",
+                                "titulo": "Motivación del emprendedor: Intrínseca vs. Extrínseca",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    103
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "16a8ba9c-a424-41c3-ae5e-9b0b6a2d6a5c",
+                                "titulo": "MOTIVACIONES COMUNES PARA EMPRENDER",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    104
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "4c69e363-9566-4063-a16e-24da97e479ef",
+                                "titulo": "Foro",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    105
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "71561ffc-58da-4d40-b1cc-c3f51827656c",
+                                "titulo": "MÁS MOTIVACIONES PARA EMPRENDER",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    106
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "53e12909-4f5e-43eb-a585-4ae4fb727bf3",
+                                "titulo": "CÓMO MANTENERSE MOTIVADO EN EL TIEMPO",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    107
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "541804c6-adc3-4242-a8b3-f2fd5472b7fa",
+                                "titulo": "REFLEXIÓN",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    108
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "390e97d3-07fb-4c02-9fc8-53fdfbe94504",
+                                "titulo": "Sesión síncrona",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    109
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "7de1674c-e757-40bf-95a3-b4fabf58f21a",
+                                "titulo": "VÍDEO: START WITH WHY",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    110
+                                ],
+                                "hijos": [
+                                    {
+                                        "id": "cf3e3745-b4b8-4cb9-b39f-d28dc06cf05e",
+                                        "titulo": "Foro",
+                                        "nivel": 4,
+                                        "chunk_ids": [
+                                            111
+                                        ],
+                                        "hijos": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": "6b621739-f628-4795-bb89-43ec8103be77",
+                        "titulo": "12. Técnicas para superar las barreras psicológicas",
+                        "nivel": 2,
+                        "chunk_ids": [],
+                        "hijos": [
+                            {
+                                "id": "91919861-d6bb-429d-b5e2-960bd57a546c",
+                                "titulo": "Barreras psicológicas más comunes",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    112
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "60a556ca-0225-4d4f-a62d-68dec5da04ac",
+                                "titulo": "MIEDO AL FRACASO",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    113
+                                ],
+                                "hijos": [
+                                    {
+                                        "id": "5c9b5eda-f91a-4026-b52e-f4d30e6915ac",
+                                        "titulo": "ESTRATEGIAS PARA SUPERAR EL MIEDO AL FRACASO",
+                                        "nivel": 4,
+                                        "chunk_ids": [
+                                            114
+                                        ],
+                                        "hijos": []
+                                    },
+                                    {
+                                        "id": "ff5708fa-1046-45f3-987d-18b150be8987",
+                                        "titulo": "Foro",
+                                        "nivel": 4,
+                                        "chunk_ids": [
+                                            115
+                                        ],
+                                        "hijos": []
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "1c15e5c2-b026-423a-94f7-2f9c9d9876d4",
+                                "titulo": "PERFECCIONISMO VS EXCELENCIA",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    116
+                                ],
+                                "hijos": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "ab25517d-cebf-444a-8c50-d8745931a523",
+                        "titulo": "13. Síndrome del Impostor",
+                        "nivel": 2,
+                        "chunk_ids": [
+                            117
+                        ],
+                        "hijos": [
+                            {
+                                "id": "db647e1f-e840-4ed4-b130-d62b7dd8d606",
+                                "titulo": "PENSAMIENTOS DEL SÍNDROME DEL IMPOSTOR",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    118
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "98a2e034-f538-4c20-81c0-0934cea3509a",
+                                "titulo": "CONSECUENCIAS DEL IMPOSTOR SOBRE EL EMPRESARIO",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    119
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "7325cdd6-ded9-4e22-9214-ad6aa89e249f",
+                                "titulo": "Sesión síncrona",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    120
+                                ],
+                                "hijos": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "e1a3e47f-82f4-4b0c-a44f-aea6342d67ce",
+                        "titulo": "14. Consejos para superar barreras",
+                        "nivel": 2,
+                        "chunk_ids": [],
+                        "hijos": [
+                            {
+                                "id": "03a9fc12-a7a7-4b68-99c9-549ece3e5479",
+                                "titulo": "Superación de barreras",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    121
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "0bdf0c6d-e59c-455d-9c08-c889af7ee2d8",
+                                "titulo": "FRENAR EL SÍNDROME DEL IMPOSTOR",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    122
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "7fb35400-4696-4c57-9003-3f2847ea0ee6",
+                                "titulo": "PEDIR AYUDA NO ES DEBILIDAD",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    123
+                                ],
+                                "hijos": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "66f4ac63-7d2f-4181-b9ef-350c61d50714",
+                        "titulo": "15. Ejemplos inspiradores",
+                        "nivel": 2,
+                        "chunk_ids": [
+                            124
+                        ],
+                        "hijos": [
+                            {
+                                "id": "bc6e8d7c-e983-4a94-9589-893cea2e65fc",
+                                "titulo": "Foro",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    125
+                                ],
+                                "hijos": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "66c9180e-a01e-48c3-8c5e-c49b8c930771",
+                        "titulo": "16. La cultura del fracaso",
+                        "nivel": 2,
+                        "chunk_ids": [
+                            126
+                        ],
+                        "hijos": [
+                            {
+                                "id": "15806334-9348-4939-b854-9a6c3f6c8712",
+                                "titulo": "Foro",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    127
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "4204d73f-4e76-4217-b870-fdb67d595cef",
+                                "titulo": "HERRAMIENTAS Y RECURSOS ÚTILES",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    128
+                                ],
+                                "hijos": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "4f3af9cb-1b02-4400-b2fd-2671d25e4835",
+                        "titulo": "17. Resumen y reflexión",
+                        "nivel": 2,
+                        "chunk_ids": [],
+                        "hijos": [
+                            {
+                                "id": "17c74691-1995-4c32-b987-debc062d51d0",
+                                "titulo": "Ideas clave sobre la mentalidad emprendedora y la resiliencia",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    129
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "c06660de-0013-42c0-a484-bf3bc80c7af5",
+                                "titulo": "Foro",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    130
+                                ],
+                                "hijos": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "d8f30186-bdc1-4239-8fd1-3fa256022747",
+                        "titulo": "18. Quiz",
+                        "nivel": 2,
+                        "chunk_ids": [
+                            131
+                        ],
+                        "hijos": []
+                    }
+                ]
+            },
+            {
+                "id": "4dd61f87-dbaa-4319-a89e-852fc6c940d6",
+                "titulo": "ES MÓDULO 3 - Innovación abierta",
+                "nivel": 1,
+                "chunk_ids": [],
+                "hijos": [
+                    {
+                        "id": "ae63e1ba-0e42-4db7-820c-4d53b9af26a4",
+                        "titulo": "1. Introducción",
+                        "nivel": 2,
+                        "chunk_ids": [
+                            132
+                        ],
+                        "hijos": [
+                            {
+                                "id": "1992c1cb-36b2-44e0-844e-dcfba98ac50f",
+                                "titulo": "Caso Práctico: Netflix vs. Blockbuster",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    133
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "0c1c07c5-862c-425e-989b-5b7097944033",
+                                "titulo": "Reflexión",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    134
+                                ],
+                                "hijos": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "77674833-3353-46a5-ae88-3eedafef57c6",
+                        "titulo": "2. Lecciones aprendidas del caso",
+                        "nivel": 2,
+                        "chunk_ids": [
+                            135
+                        ],
+                        "hijos": [
+                            {
+                                "id": "06473fd2-5b31-49c0-b157-f26c178a346a",
+                                "titulo": "Reflexión personal",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    136
+                                ],
+                                "hijos": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "2b78f7bc-6fb7-46a4-a000-fd25615ca495",
+                        "titulo": "3. Diferencias entre Innovación Tradicional y Abierta",
+                        "nivel": 2,
+                        "chunk_ids": [
+                            137
+                        ],
+                        "hijos": []
+                    },
+                    {
+                        "id": "bbc0b946-6813-4fa8-9230-9e2d212771a3",
+                        "titulo": "4. Evolución Cultural y Fases de la Innovación Abierta",
+                        "nivel": 2,
+                        "chunk_ids": [],
+                        "hijos": [
+                            {
+                                "id": "fb0a76e4-2fc0-4752-a930-52c074849070",
+                                "titulo": "Evolución Cultural: de la Protección al Intercambio",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    138
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "53ad9778-4bbc-4fd1-999e-6099acd4186e",
+                                "titulo": "Fases de la Innovación Abierta",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    139
+                                ],
+                                "hijos": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "733b451c-8cb8-4641-87c8-45799222d13f",
+                        "titulo": "5. Ecosistema de Innovación en Canarias",
+                        "nivel": 2,
+                        "chunk_ids": [],
+                        "hijos": [
+                            {
+                                "id": "3fa78fa0-a569-4fb2-9550-52f495078f50",
+                                "titulo": "Ecosistema de Innovación y Colaboración",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    140
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "66e3b75e-0219-426e-8d04-04deb19f3f3b",
+                                "titulo": "El Rol de las Universidades: Un Puente Esencial",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    141
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "de804837-3d5b-4e4d-aa56-9020e18591a1",
+                                "titulo": "Reflexión",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    142
+                                ],
+                                "hijos": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "04d29360-f066-4496-988a-088c20c715b5",
+                        "titulo": "6. Modelos de Innovación Abierta",
+                        "nivel": 2,
+                        "chunk_ids": [
+                            143
+                        ],
+                        "hijos": [
+                            {
+                                "id": "edc17c65-b95b-4959-88da-3503d2297c0f",
+                                "titulo": "Reflexión",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    144
+                                ],
+                                "hijos": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "cdb02671-98b4-44b3-94cd-3819e07f9ca2",
+                        "titulo": "7. Innovación Abierta en la Investigación Científica",
+                        "nivel": 2,
+                        "chunk_ids": [
+                            145
+                        ],
+                        "hijos": []
+                    },
+                    {
+                        "id": "951b0777-4eef-49e4-afef-0f1913b53b0e",
+                        "titulo": "8. Propiedad Intelectual en Entornos Abiertos",
+                        "nivel": 2,
+                        "chunk_ids": [],
+                        "hijos": [
+                            {
+                                "id": "e02a845e-d304-4b42-bf1a-2109ccd7b6d4",
+                                "titulo": "Innovación Abierta y Propiedad Intelectual",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    146
+                                ],
+                                "hijos": [
+                                    {
+                                        "id": "7b7c5b93-0707-4604-ba72-2f83d7dcca6c",
+                                        "titulo": "Mecanismos de Protección de la Propiedad Intelectual",
+                                        "nivel": 4,
+                                        "chunk_ids": [
+                                            147
+                                        ],
+                                        "hijos": []
+                                    },
+                                    {
+                                        "id": "21874e00-406e-4c75-8d06-3e7b93d5f1eb",
+                                        "titulo": "Patentes: Tradicionales vs. Abiertas",
+                                        "nivel": 4,
+                                        "chunk_ids": [
+                                            148
+                                        ],
+                                        "hijos": []
+                                    },
+                                    {
+                                        "id": "a376c7b4-7a90-450d-a315-ce9fd87ee315",
+                                        "titulo": "Diferentes Opciones de IP: Cuadro Comparativo",
+                                        "nivel": 4,
+                                        "chunk_ids": [
+                                            149
+                                        ],
+                                        "hijos": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": "ffa26ebf-4fc7-4686-b044-58344bbcbef7",
+                        "titulo": "9. Licencias Abiertas y Opciones de IP",
+                        "nivel": 2,
+                        "chunk_ids": [
+                            150
+                        ],
+                        "hijos": [
+                            {
+                                "id": "e0f6ef33-b16e-40a2-b771-721e63f8532c",
+                                "titulo": "Creative Commons (CC)",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    151
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "89d234f9-b83b-4d60-9b66-832f4df6dc92",
+                                "titulo": "Licencias de Software: MIT y GPL",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    152
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "7d0544fe-aa6f-4f55-a55b-35d06e550995",
+                                "titulo": "¿Qué Licencia Elegir?",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    153
+                                ],
+                                "hijos": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "43be8b50-0314-49f1-99b4-42e08f701bcd",
+                        "titulo": "10. Herramientas y Plataformas",
+                        "nivel": 2,
+                        "chunk_ids": [],
+                        "hijos": [
+                            {
+                                "id": "2a0615c6-8830-4922-84b1-6eef99ec5f36",
+                                "titulo": "Herramientas y Plataformas para la Colaboración Abierta",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    154
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "5d900c18-edfb-4300-a6e2-e5093e36acaa",
+                                "titulo": "Licencias Abiertas y Protección Intelectual",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    155
+                                ],
+                                "hijos": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "ac0cd30f-a162-407f-b1d5-df6f1bb19b57",
+                        "titulo": "11. Métodos Ágiles, Lean y Proyectos Colaborativos",
+                        "nivel": 2,
+                        "chunk_ids": [],
+                        "hijos": [
+                            {
+                                "id": "d785baf8-4668-46cc-b30c-5693eafe6a39",
+                                "titulo": "Métodos Ágiles, Lean y Proyectos Colaborativos de I+D",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    156
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "d5c56f33-2fcc-4838-9fb5-c6d0f8fb0cee",
+                                "titulo": "Documentos Requeridos por Fase del Proyecto",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    157
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "a933cc94-b507-4270-911b-3d52c076cb61",
+                                "titulo": "Proyectos Colaborativos de I+D",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    158
+                                ],
+                                "hijos": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "fb44e0f8-ff0d-4fe4-8d5b-f97f8023f55c",
+                        "titulo": "12. Financiación",
+                        "nivel": 2,
+                        "chunk_ids": [],
+                        "hijos": [
+                            {
+                                "id": "68e4b546-2a84-4f4b-b7c8-3807faa46400",
+                                "titulo": "Financiación: Diferentes Fuentes y Convocatorias",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    159
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "b97be7ef-8070-4a39-aa74-7ac82582c242",
+                                "titulo": "Cómo Maximizar el Acceso a Financiación",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    160
+                                ],
+                                "hijos": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "e3aee23e-baf5-468f-8aa7-e64be8b4cc85",
+                        "titulo": "13. Conclusión del Módulo",
+                        "nivel": 2,
+                        "chunk_ids": [],
+                        "hijos": [
+                            {
+                                "id": "bec9c484-564f-4d46-976b-6ecb15b49691",
+                                "titulo": "MENSAJE CENTRAL DEL MÓDULO",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    161
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "3c3e4d00-36f9-4cb0-a99c-3590e94371d0",
+                                "titulo": "Lo que has aprendido en este módulo",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    162
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "9b63be9d-d9de-4b83-9295-7b14e1726b41",
+                                "titulo": "¿Y ahora qué? Tus próximos pasos",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    163
+                                ],
+                                "hijos": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "91aaab92-6190-4f52-a647-548f2882f2d2",
+                        "titulo": "14. Glosario",
+                        "nivel": 2,
+                        "chunk_ids": [],
+                        "hijos": [
+                            {
+                                "id": "db45ce0b-ab0b-47a2-9359-dec6ca68f14f",
+                                "titulo": "Nivel 1: Conceptos fundamentales. Base conceptual de la Innovación abierta",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    164
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "2d81f3c1-9cc8-4ac8-ae3a-4985bbf60d23",
+                                "titulo": "Nivel 2: Trabajando juntos: Herramientas y dinámicas de colaboración",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    165
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "98452973-2d28-4a46-b9de-ef52bc1425cf",
+                                "titulo": "Nivel 3: Estrategia e Inversión: Conceptos financieros y de alineación estratégica",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    166
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "5f57923d-1e4e-44d6-bb15-6f6aebe43cae",
+                                "titulo": "Nivel 4: Gobernanza, sistema y métricas: Propiedad intelectual, madurez tecnológica e indicadores",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    167
+                                ],
+                                "hijos": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "c54f02bf-9857-4e58-babd-13b98e7b3a1e",
+                        "titulo": "15. Manual actividades de innovación abierta - Build your Open Innovation Roadmap 2026 1/MAC/1/1.3/0029",
+                        "nivel": 2,
+                        "chunk_ids": [],
+                        "hijos": [
+                            {
+                                "id": "1f779e2b-e799-4f69-aafb-0a632189c140",
+                                "titulo": "ACTIVIDAD 1 - ¿Qué es la innovación abierta?",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    168
+                                ],
+                                "hijos": [
+                                    {
+                                        "id": "fb1f502b-b32e-4cbd-be14-d5c4bbec1401",
+                                        "titulo": "Tarea 1 - Mapeo de actores",
+                                        "nivel": 4,
+                                        "chunk_ids": [
+                                            169
+                                        ],
+                                        "hijos": []
+                                    },
+                                    {
+                                        "id": "5608a342-31a4-4f49-beab-55d50747959a",
+                                        "titulo": "Tarea 2 - Modelos de innovación abierta (toolbox overview)",
+                                        "nivel": 4,
+                                        "chunk_ids": [
+                                            170
+                                        ],
+                                        "hijos": [
+                                            {
+                                                "id": "3b136bd7-7750-4c03-97e8-b3715d0e28a5",
+                                                "titulo": "Actividad práctica de mapeo de innovación abierta",
+                                                "nivel": 5,
+                                                "chunk_ids": [
+                                                    171
+                                                ],
+                                                "hijos": []
+                                            },
+                                            {
+                                                "id": "b00adf9c-0449-4abb-a17e-7aea53e5b995",
+                                                "titulo": "Mapear Modelos y Objetivos (Tabla modelo):",
+                                                "nivel": 5,
+                                                "chunk_ids": [
+                                                    172
+                                                ],
+                                                "hijos": []
+                                            },
+                                            {
+                                                "id": "2f2c3681-465a-45e7-8989-21f1f216bf19",
+                                                "titulo": "Mapear Modelos y Objetivos (Tabla ejercicio):",
+                                                "nivel": 5,
+                                                "chunk_ids": [
+                                                    173
+                                                ],
+                                                "hijos": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "2cf11cb3-b0e2-4065-af58-54b1ff744301",
+                                "titulo": "ACTIVIDAD 2 - Evaluación del nivel de madurez en innovación",
+                                "nivel": 3,
+                                "chunk_ids": [],
+                                "hijos": [
+                                    {
+                                        "id": "ac655024-d0bb-48c5-a9d3-48e068c5573c",
+                                        "titulo": "Tarea 1 - Evaluación de madurez para formación y facilitación",
+                                        "nivel": 4,
+                                        "chunk_ids": [
+                                            174
+                                        ],
+                                        "hijos": []
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "588cfeef-60ac-432f-9de4-d6e2b5231837",
+                                "titulo": "ACTIVIDAD 3 - Activar la colaboración en innovación abierta",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    175
+                                ],
+                                "hijos": [
+                                    {
+                                        "id": "dde04dd4-77eb-445c-a18d-806496efc279",
+                                        "titulo": "Paso 1 - Entender a los actores",
+                                        "nivel": 4,
+                                        "chunk_ids": [
+                                            176
+                                        ],
+                                        "hijos": []
+                                    },
+                                    {
+                                        "id": "6b7a04b4-e9f7-4b16-862e-c6cd3fb3a304",
+                                        "titulo": "Paso 2 - Entender el mindset startup",
+                                        "nivel": 4,
+                                        "chunk_ids": [
+                                            177
+                                        ],
+                                        "hijos": []
+                                    },
+                                    {
+                                        "id": "7b3c6ef8-9812-495d-8944-14d62f24d612",
+                                        "titulo": "Paso 3 - Elegir el formato de colaboración",
+                                        "nivel": 4,
+                                        "chunk_ids": [
+                                            178
+                                        ],
+                                        "hijos": []
+                                    },
+                                    {
+                                        "id": "669b129f-25e2-434f-a7ac-9f181dd1ca6c",
+                                        "titulo": "Paso 4 - Coordinar culturas distintas",
+                                        "nivel": 4,
+                                        "chunk_ids": [
+                                            179
+                                        ],
+                                        "hijos": []
+                                    },
+                                    {
+                                        "id": "e89112eb-9ead-406e-bab2-b8c6563e8e2e",
+                                        "titulo": "Reflexión final",
+                                        "nivel": 4,
+                                        "chunk_ids": [
+                                            180
+                                        ],
+                                        "hijos": []
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "eb01e98f-c88e-4b8b-8d4e-13f0fe362e34",
+                                "titulo": "ACTIVIDAD 4 - Storytelling: hacer visible y accionable la colaboración",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    181
+                                ],
+                                "hijos": [
+                                    {
+                                        "id": "6e6de86f-ffbd-4553-808c-bc1b1e8add86",
+                                        "titulo": "Paso 1 - Contar la historia con la estructura de innovación abierta",
+                                        "nivel": 4,
+                                        "chunk_ids": [
+                                            182
+                                        ],
+                                        "hijos": []
+                                    },
+                                    {
+                                        "id": "62b9b26e-6438-4ac0-b14d-13d58e1a0772",
+                                        "titulo": "Paso 2 - De la historia a la continuidad",
+                                        "nivel": 4,
+                                        "chunk_ids": [
+                                            183
+                                        ],
+                                        "hijos": []
+                                    },
+                                    {
+                                        "id": "e6ea1eb2-ad98-40b0-82bc-9188bf758a77",
+                                        "titulo": "Reflexión final",
+                                        "nivel": 4,
+                                        "chunk_ids": [
+                                            184
+                                        ],
+                                        "hijos": []
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "b2194742-424f-45c9-8cbc-a4da5d6ca123",
+                                "titulo": "ACTIVIDAD 5 - Práctica aplicada: aprender de casos reales de innovación abierta",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    185
+                                ],
+                                "hijos": [
+                                    {
+                                        "id": "264ebfdc-d6bd-414c-b291-8dad531de114",
+                                        "titulo": "Éxitos del Sector Corporativo",
+                                        "nivel": 4,
+                                        "chunk_ids": [],
+                                        "hijos": [
+                                            {
+                                                "id": "0da0b1e9-4c48-4b6a-96c2-25d509441aa0",
+                                                "titulo": "Connect + Develop de Procter&Gamble (Asociaciones Abiertas de I+D)",
+                                                "nivel": 5,
+                                                "chunk_ids": [
+                                                    186
+                                                ],
+                                                "hijos": []
+                                            },
+                                            {
+                                                "id": "1d71e200-5871-4102-b271-2224bc56c223",
+                                                "titulo": "Plataforma LEGO Ideas (Crowdsourcing de Innovaciones de Fans)",
+                                                "nivel": 5,
+                                                "chunk_ids": [
+                                                    187
+                                                ],
+                                                "hijos": []
+                                            },
+                                            {
+                                                "id": "631fddf9-681e-4d55-b885-e19383766350",
+                                                "titulo": "Lloyd's Lab (Aceleradora Corporativa-Startup en Seguros)",
+                                                "nivel": 5,
+                                                "chunk_ids": [
+                                                    188
+                                                ],
+                                                "hijos": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "7246a891-156e-466e-be4f-4f1af022d976",
+                                        "titulo": "Iniciativas de Innovación Abierta del Sector Público",
+                                        "nivel": 4,
+                                        "chunk_ids": [],
+                                        "hijos": [
+                                            {
+                                                "id": "76898d9f-5e3a-423c-bb80-7b519ba831f7",
+                                                "titulo": "Hackathon EUvsVirus (Crowdsourcing de Crisis Pan-Europea)",
+                                                "nivel": 5,
+                                                "chunk_ids": [
+                                                    189
+                                                ],
+                                                "hijos": []
+                                            },
+                                            {
+                                                "id": "77c33e13-539e-4d50-88ce-1b9050154e7c",
+                                                "titulo": "Desafíos de Innovación Abierta de la NASA (Concursos con Premios)",
+                                                "nivel": 5,
+                                                "chunk_ids": [
+                                                    190
+                                                ],
+                                                "hijos": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "444f7fff-c248-42a5-aa0a-dac6f26fdf5e",
+                                        "titulo": "Lecciones de Intentos Fallidos de Innovación Abierta",
+                                        "nivel": 4,
+                                        "chunk_ids": [],
+                                        "hijos": [
+                                            {
+                                                "id": "f72f620e-479d-4261-ba4c-75bdb2482f21",
+                                                "titulo": "Quirky - Startup de Diseño de Productos por Crowdsourcing (Fracaso)",
+                                                "nivel": 5,
+                                                "chunk_ids": [
+                                                    191
+                                                ],
+                                                "hijos": []
+                                            },
+                                            {
+                                                "id": "690d5a38-7933-461e-89a6-c026e96edba1",
+                                                "titulo": "Kodak - Fracaso al Adoptar la Innovación Externa (Error Corporativo)",
+                                                "nivel": 5,
+                                                "chunk_ids": [
+                                                    192
+                                                ],
+                                                "hijos": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "19647714-9f64-4322-a111-88ed0b0274ef",
+                                        "titulo": "Take-aways",
+                                        "nivel": 4,
+                                        "chunk_ids": [
+                                            193
+                                        ],
+                                        "hijos": []
+                                    },
+                                    {
+                                        "id": "3c4fe3cb-405e-4861-a19a-03adb2bf09a1",
+                                        "titulo": "Tarea 1 - Identificar Roles Omitidos o Incentivos Desalineados",
+                                        "nivel": 4,
+                                        "chunk_ids": [
+                                            194
+                                        ],
+                                        "hijos": [
+                                            {
+                                                "id": "f4a464d2-345b-40ae-b72c-726304629243",
+                                                "titulo": "Paso 1: Revisión del Caso y Alineación de Conceptos (15 minutos)",
+                                                "nivel": 5,
+                                                "chunk_ids": [
+                                                    195
+                                                ],
+                                                "hijos": []
+                                            },
+                                            {
+                                                "id": "3d88a465-939a-4e4a-8f9f-a1420690305d",
+                                                "titulo": "Paso 2: Mapeo y Análisis de Vínculos Faltantes (20 minutos)",
+                                                "nivel": 5,
+                                                "chunk_ids": [
+                                                    196
+                                                ],
+                                                "hijos": []
+                                            },
+                                            {
+                                                "id": "64b93374-d4de-41ae-8920-70931e2cff77",
+                                                "titulo": "Paso 3: Reflection and Conclusion (10 minutes)",
+                                                "nivel": 5,
+                                                "chunk_ids": [
+                                                    197
+                                                ],
+                                                "hijos": []
+                                            },
+                                            {
+                                                "id": "4b1c6d80-5843-4322-a34b-ac7b85d03171",
+                                                "titulo": "Resultado esperado",
+                                                "nivel": 5,
+                                                "chunk_ids": [
+                                                    198
+                                                ],
+                                                "hijos": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "1016adb8-dc44-4ed8-a1ac-b2788c989da2",
+                                        "titulo": "Tarea 2 - Coincidencia Modelo-Ajuste: Vincular Estudios de Caso con Estudios de Innovación Abierta",
+                                        "nivel": 4,
+                                        "chunk_ids": [
+                                            199
+                                        ],
+                                        "hijos": []
+                                    },
+                                    {
+                                        "id": "085a7ee5-86a7-4a44-88a5-c51c997d2d82",
+                                        "titulo": "Tarea 3 - Plano de Reencuadre Estratégico",
+                                        "nivel": 4,
+                                        "chunk_ids": [
+                                            200
+                                        ],
+                                        "hijos": []
+                                    },
+                                    {
+                                        "id": "6aea12f8-d1e1-4272-9d26-7eeee2ecda55",
+                                        "titulo": "Tarea: Construye su Esquema de Mini-Estrategia",
+                                        "nivel": 4,
+                                        "chunk_ids": [
+                                            201
+                                        ],
+                                        "hijos": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "51cd40b5-9903-4b27-83b6-0da6aefb3cff",
+                "titulo": "ES MÓDULO 4 - Digitalización y estrategias empresariales",
+                "nivel": 1,
+                "chunk_ids": [],
+                "hijos": [
+                    {
+                        "id": "7e8bc863-d827-4cca-94e0-0fb73af4371f",
+                        "titulo": "1. Objetivos de aprendizaje",
+                        "nivel": 2,
+                        "chunk_ids": [
+                            202
+                        ],
+                        "hijos": []
+                    },
+                    {
+                        "id": "7ebe02fe-2ecc-4238-ae5c-acabc22782dc",
+                        "titulo": "2. Introducción a la digitalización",
+                        "nivel": 2,
+                        "chunk_ids": [
+                            203
+                        ],
+                        "hijos": []
+                    },
+                    {
+                        "id": "60dc3df3-ee05-47ab-8239-886484b53d49",
+                        "titulo": "3. Beneficios de la transformación digital",
+                        "nivel": 2,
+                        "chunk_ids": [
+                            204
+                        ],
+                        "hijos": [
+                            {
+                                "id": "66fa0dca-7698-4aea-86b9-32348b86b6dc",
+                                "titulo": "Foro",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    205
+                                ],
+                                "hijos": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "2245d630-8ad4-4da0-b145-bd162d67b246",
+                        "titulo": "4. Descripción general de las herramientas digitales",
+                        "nivel": 2,
+                        "chunk_ids": [
+                            206
+                        ],
+                        "hijos": []
+                    },
+                    {
+                        "id": "e76747bb-542f-4240-9fd1-5fb85f6e72b7",
+                        "titulo": "4. CRM - Gestión de relaciones con los clientes",
+                        "nivel": 2,
+                        "chunk_ids": [
+                            207
+                        ],
+                        "hijos": [
+                            {
+                                "id": "36fedde6-a1fd-40a4-9332-ba7811a68974",
+                                "titulo": "Ejemplos de CRM",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    208
+                                ],
+                                "hijos": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "6b8465b4-8ee0-4519-8d2a-73c747fa0b37",
+                        "titulo": "6. Planificación de los Recursos Institucionales (del inglés Enterprise Resource Planning)",
+                        "nivel": 2,
+                        "chunk_ids": [
+                            209
+                        ],
+                        "hijos": [
+                            {
+                                "id": "ccb21c9d-9108-4fe5-9309-29c0dc3efd14",
+                                "titulo": "Ejemplos de ERP",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    210
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "0d0135a5-3da9-447f-89e4-ae16fe0e5dda",
+                                "titulo": "PARA PRACTICAR",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    211
+                                ],
+                                "hijos": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "115aea25-eeac-4489-9534-1445ad95c7f6",
+                        "titulo": "7. Plataformas colaborativas",
+                        "nivel": 2,
+                        "chunk_ids": [
+                            212
+                        ],
+                        "hijos": [
+                            {
+                                "id": "d84a4d88-4162-497e-b6e9-06afddfbd0ff",
+                                "titulo": "7.1 Gestión de proyectos",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    213
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "5c81c94f-767e-4408-8af8-e6dd0ce77f57",
+                                "titulo": "7.2. COMUNICACIÓN DEL EQUIPO",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    214
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "6d3a3be4-6967-4981-aa05-ecee4c1b112f",
+                                "titulo": "7.3. AGENDAS Y ORGANIZACIÓN",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    215
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "21ab3ba9-ebaa-4cdd-a732-e78ceef99af9",
+                                "titulo": "7.4. COLABORACIÓN EN DOCUMENTOS",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    216
+                                ],
+                                "hijos": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "d4439ef2-cd83-4ee1-a450-3d1f77f15cb9",
+                        "titulo": "8. Otras herramientas digitales",
+                        "nivel": 2,
+                        "chunk_ids": [
+                            217
+                        ],
+                        "hijos": [
+                            {
+                                "id": "5db46a61-2702-43a6-84b3-b24e721a3195",
+                                "titulo": "Herramientas gratuitas y asequibles",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    218
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "0114cea2-3b73-482c-b0fe-c8fad3e75459",
+                                "titulo": "Foro",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    219
+                                ],
+                                "hijos": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "b06fdf32-268b-457e-930b-08054d838d32",
+                        "titulo": "9. Introducción a las estrategias digitales",
+                        "nivel": 2,
+                        "chunk_ids": [
+                            220
+                        ],
+                        "hijos": [
+                            {
+                                "id": "4a6e94bc-7caf-45d0-9f0e-3a0f85cb531c",
+                                "titulo": "Transformación digital en startups y pymes",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    221
+                                ],
+                                "hijos": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "8fe20179-69e5-49a7-a2f5-07f75e524c13",
+                        "titulo": "10. Fases de la implementación de una estrategia digital",
+                        "nivel": 2,
+                        "chunk_ids": [
+                            222
+                        ],
+                        "hijos": [
+                            {
+                                "id": "1e321319-06d0-49b7-bd43-d129f900713e",
+                                "titulo": "Paso 1. Diagnóstico inicial",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    223
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "c4b64397-0d05-4cd4-9f54-126d37b1bb4c",
+                                "titulo": "Paso 2. Participación del equipo",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    224
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "416cdb8c-4384-4c29-b3dc-0b5958d9bbbb",
+                                "titulo": "Paso 3. Selección de las herramientas adecuadas",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    225
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "69dcc943-ac10-486e-8f82-6443b04245f8",
+                                "titulo": "Paso 4. Implementación gradual - Proyectos piloto",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    226
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "1a24486c-32e9-4e64-bd39-d5b3a092bef1",
+                                "titulo": "Paso 5. Incorporación y monitoreo continuo",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    227
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "ee21c417-63b6-4ae6-b366-a53455ab784c",
+                                "titulo": "Ejemplo práctico - Panadería digital",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    228
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "b7c09f23-b5f6-43cc-b457-cd1ed8b5fe68",
+                                "titulo": "Foro",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    229
+                                ],
+                                "hijos": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "6a738895-9ceb-410b-9de2-205137b8c836",
+                        "titulo": "11. Importancia de la presencia online",
+                        "nivel": 2,
+                        "chunk_ids": [
+                            230
+                        ],
+                        "hijos": [
+                            {
+                                "id": "e5a39cfb-4dfa-43f0-9de5-97341e907f79",
+                                "titulo": "Elementos de una fuerte presencia en línea",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    231
+                                ],
+                                "hijos": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "5922475b-32cd-44fc-bc3e-9f4867567262",
+                        "titulo": "12. Marketing digital: principales canales y buenas prácticas",
+                        "nivel": 2,
+                        "chunk_ids": [
+                            232
+                        ],
+                        "hijos": [
+                            {
+                                "id": "fc8cae79-c467-4c93-9bb8-df1274f72eb5",
+                                "titulo": "OTROS RECURSOS",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    233
+                                ],
+                                "hijos": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "f6826e4f-4dd1-4f94-8bb8-9d3c24aa47e1",
+                        "titulo": "13. Estudio de caso: Marketing digital creativo",
+                        "nivel": 2,
+                        "chunk_ids": [],
+                        "hijos": [
+                            {
+                                "id": "50b4282a-fffa-48ad-b3f3-f41ecaa248f4",
+                                "titulo": "Estudio de caso - Licor Beirão",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    234
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "7e99ae85-6553-47e2-9bfe-339c47b06e46",
+                                "titulo": "Foro",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    235
+                                ],
+                                "hijos": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "799af241-dc91-44a0-93e1-62e07d179dec",
+                        "titulo": "14. Introducción al E-Commerce",
+                        "nivel": 2,
+                        "chunk_ids": [
+                            236
+                        ],
+                        "hijos": [
+                            {
+                                "id": "6bdebf1c-7288-4be9-bc47-32e0eb3c74ea",
+                                "titulo": "Opciones de comercio electrónico para pymes",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    237
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "94cd9136-828a-4f31-9151-6ff54e4a5442",
+                                "titulo": "PUNTOS CRÍTICOS",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    238
+                                ],
+                                "hijos": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "2f5a176f-93ea-494a-bc0d-ff02ad3f94b1",
+                        "titulo": "15. Buenas Prácticas",
+                        "nivel": 2,
+                        "chunk_ids": [
+                            239
+                        ],
+                        "hijos": []
+                    },
+                    {
+                        "id": "d574e3c9-a734-4d95-b27c-95748fca0c30",
+                        "titulo": "16. Modelos de monetización digital",
+                        "nivel": 2,
+                        "chunk_ids": [
+                            240
+                        ],
+                        "hijos": [
+                            {
+                                "id": "5e6fbdf1-c64a-4c72-8fed-5ba2bbefa09e",
+                                "titulo": "Consejo estratégico",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    241
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "58275945-64c7-48c0-9173-bd64caa7218b",
+                                "titulo": "Sesión síncrona",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    242
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "217f354a-6ef5-41da-984f-7388024eb5ed",
+                                "titulo": "EJEMPLOS DE INSPIRACIÓN",
+                                "nivel": 3,
+                                "chunk_ids": [],
+                                "hijos": [
+                                    {
+                                        "id": "ca1358d5-9f81-4886-b7a9-abf99363f6fe",
+                                        "titulo": "Ejemplos de monetización innovadora",
+                                        "nivel": 4,
+                                        "chunk_ids": [
+                                            243
+                                        ],
+                                        "hijos": []
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "dd9e3d90-01a6-477f-b627-fdb2bd1f65a6",
+                                "titulo": "REFLEXIÓN",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    244
+                                ],
+                                "hijos": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "81e567c9-ed7d-4531-bca7-b3497aa2bc3d",
+                        "titulo": "17. Conceptos y beneficios",
+                        "nivel": 2,
+                        "chunk_ids": [
+                            245
+                        ],
+                        "hijos": [
+                            {
+                                "id": "8df1976b-d00f-4fe7-8743-78b3d0bab869",
+                                "titulo": "BENEFICIOS",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    246
+                                ],
+                                "hijos": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "7de8ec40-d737-489f-953f-79df1d74bce6",
+                        "titulo": "18. Herramientas de automatización e IA",
+                        "nivel": 2,
+                        "chunk_ids": [
+                            247
+                        ],
+                        "hijos": [
+                            {
+                                "id": "2b8966ba-70c6-4d22-a515-aebc8e0181de",
+                                "titulo": "HERRAMIENTAS DE IA",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    248
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "219ef726-b56d-4ccf-8015-ea210f154f28",
+                                "titulo": "IA INTEGRADA EN LAS HERRAMIENTAS COTIDIANAS",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    249
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "b44dbd76-6cab-4a18-ad0f-f5df05cc7db9",
+                                "titulo": "Herramientas de IA especializadas por sector",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    250
+                                ],
+                                "hijos": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "981e1f49-3536-47a1-86c9-ab16d4ac208e",
+                        "titulo": "19. Ejemplos de IA para pequeñas empresas",
+                        "nivel": 2,
+                        "chunk_ids": [
+                            251
+                        ],
+                        "hijos": [
+                            {
+                                "id": "f63d6fe6-1d38-49cd-8c10-fc89b4f7623d",
+                                "titulo": "Reflexión",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    252
+                                ],
+                                "hijos": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "5fa32d96-ed91-47b1-bb7e-6140a0d68e52",
+                        "titulo": "20. Retos, ética y tendencias futuras",
+                        "nivel": 2,
+                        "chunk_ids": [
+                            253
+                        ],
+                        "hijos": [
+                            {
+                                "id": "9495dc1f-b1e3-47e9-b312-81e107216f1f",
+                                "titulo": "Desafíos clave y formas de superarlos",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    254
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "3e26104f-c89d-463c-98bb-bef9e78845b6",
+                                "titulo": "TENDENCIAS FUTURAS",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    255
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "b2bdec25-ee50-4ec6-866d-92c42c179043",
+                                "titulo": "Foro",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    256
+                                ],
+                                "hijos": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "684ff16a-2ae5-4bd3-b18a-29936e281303",
+                        "titulo": "21. Resumen y reflexión",
+                        "nivel": 2,
+                        "chunk_ids": [
+                            257
+                        ],
+                        "hijos": []
+                    },
+                    {
+                        "id": "99eb96a4-0872-40c1-899b-093e1e5f9824",
+                        "titulo": "22. Quiz",
+                        "nivel": 2,
+                        "chunk_ids": [
+                            258
+                        ],
+                        "hijos": []
+                    }
+                ]
+            },
+            {
+                "id": "854d199b-fc17-47d6-af4b-2aafb7ebe994",
+                "titulo": "ES MÓDULO 5 - Modelos de negocio, diferenciación e innovación",
+                "nivel": 1,
+                "chunk_ids": [],
+                "hijos": [
+                    {
+                        "id": "cd696461-0a59-411d-bc5d-457eb98799cc",
+                        "titulo": "1. Objetivos de aprendizaje",
+                        "nivel": 2,
+                        "chunk_ids": [
+                            259
+                        ],
+                        "hijos": []
+                    },
+                    {
+                        "id": "386fd5fe-1e2e-4761-9c95-738da6a1a7be",
+                        "titulo": "2. Value Proposition Canvas",
+                        "nivel": 2,
+                        "chunk_ids": [
+                            260
+                        ],
+                        "hijos": [
+                            {
+                                "id": "fb4f2a86-d701-4c3e-a81b-27733713c6ad",
+                                "titulo": "ESTRUCTURA",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    261
+                                ],
+                                "hijos": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "8da763a7-c672-4f55-99b0-06facb24ebc3",
+                        "titulo": "3. Business Model Canvas",
+                        "nivel": 2,
+                        "chunk_ids": [],
+                        "hijos": [
+                            {
+                                "id": "479b83db-93e2-4484-9d99-431376ce9d4d",
+                                "titulo": "Los nueve bloques del lienzo del modelo de negocio",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    262
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "f802c159-b3bb-4574-aee8-c6a2e0108d29",
+                                "titulo": "HERRAMIENTA: SEBRAE CANVAS ONLINE",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    263
+                                ],
+                                "hijos": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "0f1fcb71-1856-4602-9c2d-ab68de94600b",
+                        "titulo": "4. Ideas de negocio",
+                        "nivel": 2,
+                        "chunk_ids": [
+                            264
+                        ],
+                        "hijos": []
+                    },
+                    {
+                        "id": "e09d04cc-5a1a-454d-929e-5ee66459e108",
+                        "titulo": "5. Producto mínimo viable (MVP)",
+                        "nivel": 2,
+                        "chunk_ids": [
+                            265
+                        ],
+                        "hijos": [
+                            {
+                                "id": "9946c8b0-35c1-4190-a320-64f697e9363d",
+                                "titulo": "¿CÓMO DEFINIR EL MVP?",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    266
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "f36fcdb6-1017-49da-9a3d-7782265089ee",
+                                "titulo": "Foro",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    267
+                                ],
+                                "hijos": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "a525e097-0c90-4fae-b0ca-c41f28101f26",
+                        "titulo": "6. Lean Startup",
+                        "nivel": 2,
+                        "chunk_ids": [
+                            268
+                        ],
+                        "hijos": [
+                            {
+                                "id": "992544ba-ac42-4627-87e1-e14b75368c08",
+                                "titulo": "LEAN STARTUP EN LA PRÁCTICA",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    269
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "596d2f21-671d-4612-a5b3-e57109228995",
+                                "titulo": "Foro",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    270
+                                ],
+                                "hijos": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "3b80b066-ee4f-44d5-a300-9b034d9313ef",
+                        "titulo": "7. Propuesta de valor única (UVP)",
+                        "nivel": 2,
+                        "chunk_ids": [
+                            271
+                        ],
+                        "hijos": [
+                            {
+                                "id": "3cfc71ef-5f5a-478e-bf1f-7680de725d98",
+                                "titulo": "CARACTERÍSTICAS DE UNA UVP EFECTIVA",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    272
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "3adee0f8-ebdb-422f-9ce0-8ca1dbfd2697",
+                                "titulo": "EJEMPLOS",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    273
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "4888f5be-558b-4802-9b45-b37119357755",
+                                "titulo": "Foro",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    274
+                                ],
+                                "hijos": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "238dfa23-0927-4fab-9a76-8626672a75b1",
+                        "titulo": "8. Diferenciación competitiva",
+                        "nivel": 2,
+                        "chunk_ids": [
+                            275
+                        ],
+                        "hijos": [
+                            {
+                                "id": "8f276f1d-e00d-4460-958d-46a57e08ed24",
+                                "titulo": "POSICIONAMIENTO EN EL MERCADO",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    276
+                                ],
+                                "hijos": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "af35b6c3-9167-4d18-b4f8-2fd6776bbd37",
+                        "titulo": "9. Estrategias de posicionamiento y branding",
+                        "nivel": 2,
+                        "chunk_ids": [
+                            277
+                        ],
+                        "hijos": []
+                    },
+                    {
+                        "id": "87d0bcfd-1f50-408c-8600-45cb62a34dbb",
+                        "titulo": "9. Segmentación del mercado",
+                        "nivel": 2,
+                        "chunk_ids": [
+                            278
+                        ],
+                        "hijos": [
+                            {
+                                "id": "99ac6188-1a64-4c62-a363-9d84970c0308",
+                                "titulo": "BENEFICIOS DE UNA SEGMENTACIÓN EFECTIVA",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    279
+                                ],
+                                "hijos": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "a24c94e8-c6b4-4db7-ad17-1f2fe31c57aa",
+                        "titulo": "11. Nichos de mercado",
+                        "nivel": 2,
+                        "chunk_ids": [
+                            280
+                        ],
+                        "hijos": [
+                            {
+                                "id": "8cbfdaa6-e161-4df0-908d-cb25813eb852",
+                                "titulo": "EJEMPLOS DE ESTRATEGIAS DE NICHO EXITOSAS",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    281
+                                ],
+                                "hijos": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "8d0aba9b-ea69-4e14-8365-dd59ca17011a",
+                        "titulo": "12. Innovación del modelo de negocio",
+                        "nivel": 2,
+                        "chunk_ids": [
+                            282
+                        ],
+                        "hijos": [
+                            {
+                                "id": "991c684e-b505-45b0-98b7-e025ebdea1db",
+                                "titulo": "EJEMPLOS DE INNOVACIÓN EN MODELOS DE NEGOCIO",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    283
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "30fa33db-574a-4ef0-a1ea-760050d4d26e",
+                                "titulo": "COMPONENTES DEL MODELO DE NEGOCIO PARA LA INNOVACIÓN",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    284
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "ffb18da6-0f0d-4b0a-b810-253ef62352d5",
+                                "titulo": "MODELOS DE RECETAS INNOVADORAS",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    285
+                                ],
+                                "hijos": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "668b33e9-ff3c-4d35-8097-a6d44c94c84f",
+                        "titulo": "13. Innovación: definición general",
+                        "nivel": 2,
+                        "chunk_ids": [
+                            286
+                        ],
+                        "hijos": [
+                            {
+                                "id": "18cecd34-bbad-4d19-b683-91ffcb37e067",
+                                "titulo": "CATEGORÍAS PRINCIPALES",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    287
+                                ],
+                                "hijos": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "01de33ac-4a0b-431b-b95d-5c9191dbf030",
+                        "titulo": "14. Innovación de Producto",
+                        "nivel": 2,
+                        "chunk_ids": [
+                            288
+                        ],
+                        "hijos": []
+                    },
+                    {
+                        "id": "f43b1892-bf26-4ddd-a6d7-6078ebbac85a",
+                        "titulo": "15. Innovación de procesos de negocio",
+                        "nivel": 2,
+                        "chunk_ids": [
+                            289
+                        ],
+                        "hijos": [
+                            {
+                                "id": "dab87ba0-139d-4a21-895e-a0256091bb77",
+                                "titulo": "15.1 PRODUCCIÓN Y DESARROLLO",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    290
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "59a24b85-1536-4deb-9aa0-7ccd15d238b6",
+                                "titulo": "15.2 DISTRIBUCIÓN Y LOGÍSTICA",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    291
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "31567d0b-c3c6-4677-8ba8-1baefab7f9df",
+                                "titulo": "15.3 MARKETING Y VENTAS",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    292
+                                ],
+                                "hijos": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "767c141b-2926-4889-9a9f-427edafddcc2",
+                        "titulo": "15.4 SISTEMAS DE INFORMACIÓN Y COMUNICACIÓN",
+                        "nivel": 2,
+                        "chunk_ids": [
+                            293
+                        ],
+                        "hijos": []
+                    },
+                    {
+                        "id": "d0928ff4-2edd-4318-a1ee-d66483fe96ee",
+                        "titulo": "15.5 ADMINISTRACIÓN Y GESTIÓN",
+                        "nivel": 2,
+                        "chunk_ids": [
+                            294
+                        ],
+                        "hijos": []
+                    },
+                    {
+                        "id": "315eed82-6f4c-4327-a3dc-383e1d03fa0b",
+                        "titulo": "16. Combinación de tipos de innovación",
+                        "nivel": 2,
+                        "chunk_ids": [
+                            295
+                        ],
+                        "hijos": [
+                            {
+                                "id": "40bed100-f3bb-4012-83d3-d404b1889006",
+                                "titulo": "Sesión síncrona",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    296
+                                ],
+                                "hijos": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "95c434f4-82eb-4df0-be74-1e5325cbcc88",
+                        "titulo": "17. Casos prácticos",
+                        "nivel": 2,
+                        "chunk_ids": [
+                            297
+                        ],
+                        "hijos": [
+                            {
+                                "id": "627df6e0-2827-4fae-805c-faa9da083c81",
+                                "titulo": "CASO PRÁCTICO: FEEDZAI",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    298
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "ea508021-5a27-4076-b984-2bf63f67dfc3",
+                                "titulo": "REFLEXIÓN",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    299
+                                ],
+                                "hijos": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "eb752716-7fec-4aa9-b4f7-0885f9300e56",
+                        "titulo": "18. Resumen y reflexión",
+                        "nivel": 2,
+                        "chunk_ids": [
+                            300
+                        ],
+                        "hijos": []
+                    },
+                    {
+                        "id": "1852d9c6-64f1-4217-a614-ad12222e30d3",
+                        "titulo": "19. Quiz",
+                        "nivel": 2,
+                        "chunk_ids": [
+                            301
+                        ],
+                        "hijos": []
+                    }
+                ]
+            },
+            {
+                "id": "d3587ffb-cbc8-4c12-8336-e3ea4a9894cc",
+                "titulo": "ES MÓDULO 6 - Bootcamp y Pitch Final",
+                "nivel": 1,
+                "chunk_ids": [],
+                "hijos": [
+                    {
+                        "id": "9d31d781-3386-4bfa-97e3-95a917e4b719",
+                        "titulo": "1. Identificación de problemas y creación de ideas",
+                        "nivel": 2,
+                        "chunk_ids": [
+                            302
+                        ],
+                        "hijos": [
+                            {
+                                "id": "31c6914e-b073-4624-b38e-4ccc660e91c4",
+                                "titulo": "CREACIÓN Y SELECCIÓN DE IDEAS",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    303
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "54cc77db-bd68-446f-b838-270e86af42c9",
+                                "titulo": "ANÁLISIS DE MERCADO Y VALIDACIÓN DE IDEAS",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    304
+                                ],
+                                "hijos": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "1483bc3c-4e43-4486-a220-0ea8a4970b1a",
+                        "titulo": "2. planificación estratégica y establecimiento de objetivos",
+                        "nivel": 2,
+                        "chunk_ids": [
+                            305
+                        ],
+                        "hijos": [
+                            {
+                                "id": "b8fbb437-8be3-402c-a463-7c8babaa84c5",
+                                "titulo": "DESARROLLO DE PRODUCTOS O SERVICIOS",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    306
+                                ],
+                                "hijos": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "1937d8db-4ed3-4fcb-b4ef-4efaae24825e",
+                        "titulo": "3. Plan de Marketing y Estrategia Comercial",
+                        "nivel": 2,
+                        "chunk_ids": [
+                            307
+                        ],
+                        "hijos": [
+                            {
+                                "id": "77321b98-fd7a-4101-8e05-17eda438013f",
+                                "titulo": "ORGANIZACIÓN OPERATIVA Y ESTRUCTURA DEL EQUIPO",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    308
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "d6c4786f-8253-4325-8e3e-199aa156d7e0",
+                                "titulo": "PLANIFICACIÓN FINANCIERA Y RECAUDACIÓN DE FONDOS",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    309
+                                ],
+                                "hijos": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "9c692a08-ad79-4098-9a2f-f435137bd33b",
+                        "titulo": "4. Lanzamiento al mercado y monitoreo continuo",
+                        "nivel": 2,
+                        "chunk_ids": [
+                            310
+                        ],
+                        "hijos": []
+                    },
+                    {
+                        "id": "b0a1b7ca-dfe3-4e8a-97f3-33491e17260d",
+                        "titulo": "5. Ejercicio práctico: de la identificación del problema a la solución",
+                        "nivel": 2,
+                        "chunk_ids": [
+                            311
+                        ],
+                        "hijos": []
+                    },
+                    {
+                        "id": "41e47a0c-3506-498f-9505-59cde39bcd00",
+                        "titulo": "6. Lean Canvas",
+                        "nivel": 2,
+                        "chunk_ids": [
+                            312
+                        ],
+                        "hijos": []
+                    },
+                    {
+                        "id": "71f5420e-6e45-4d56-8d1a-5f136cd3a763",
+                        "titulo": "7. Ejercicio Práctico: Construyendo un Lean Canvas",
+                        "nivel": 2,
+                        "chunk_ids": [
+                            313
+                        ],
+                        "hijos": []
+                    },
+                    {
+                        "id": "ae734aee-cd7c-4f98-beb4-759d29e6660e",
+                        "titulo": "8. ¿Qué es un Pitch?",
+                        "nivel": 2,
+                        "chunk_ids": [
+                            314
+                        ],
+                        "hijos": [
+                            {
+                                "id": "fbb14443-54f6-433e-a2ea-e661fc108ba7",
+                                "titulo": "EL PODER DE LA STORYTELLING DE PITCH",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    315
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "a93a54b5-333b-4918-8ac7-e8aead9b48b3",
+                                "titulo": "Video: Storytelling del Pitch",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    316
+                                ],
+                                "hijos": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "4a6eac74-01bb-4b5c-b6d4-7a3d15e72aff",
+                        "titulo": "9. Modelo PUMA: marco persuasivo para Pitchs",
+                        "nivel": 2,
+                        "chunk_ids": [
+                            317
+                        ],
+                        "hijos": [
+                            {
+                                "id": "f5112b1d-b387-47ec-88e2-fa58e1a777d4",
+                                "titulo": "CONSEJOS PRÁCTICOS PARA ESTRUCTURAR EL PITCH",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    318
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "f9922e7c-2a83-495d-836a-8f7e61211569",
+                                "titulo": "VARIEDAD DE ESCENARIOS PARA EL PITCH",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    319
+                                ],
+                                "hijos": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "9daa8fa3-30f5-4e65-b72c-6b827c5eba92",
+                        "titulo": "10. Diseño visual: principios básicos",
+                        "nivel": 2,
+                        "chunk_ids": [
+                            320
+                        ],
+                        "hijos": []
+                    },
+                    {
+                        "id": "00ffa8ea-738e-4644-b49f-c9fe5d4b6c64",
+                        "titulo": "11. El impacto de los elementos visuales",
+                        "nivel": 2,
+                        "chunk_ids": [
+                            321
+                        ],
+                        "hijos": [
+                            {
+                                "id": "849c6284-786d-4ae4-88e0-a750fb30810d",
+                                "titulo": "TIPOS DE ELEMENTOS VISUALES Y CUÁNDO UTILIZARLOS",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    322
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "5c834015-c8c8-47b6-a40c-2835ee8c8560",
+                                "titulo": "METÁFORAS VISUALES",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    323
+                                ],
+                                "hijos": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "535991b3-8aff-4fe1-86e3-aa6f409a990e",
+                        "titulo": "12. Herramientas prácticas para crear imágenes",
+                        "nivel": 2,
+                        "chunk_ids": [
+                            324
+                        ],
+                        "hijos": [
+                            {
+                                "id": "cc998042-7c74-4f00-b81a-48ceebae0b4a",
+                                "titulo": "RECURSOS VISUALES GRATUITAS",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    325
+                                ],
+                                "hijos": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "23bc3e20-20a2-4b3c-aaf0-9f4b063ee37b",
+                        "titulo": "13. Tipos de comunicación",
+                        "nivel": 2,
+                        "chunk_ids": [
+                            326
+                        ],
+                        "hijos": [
+                            {
+                                "id": "19d4cd9a-bf36-4858-8277-d878350303ea",
+                                "titulo": "COMUNICACIÓN NO VERBAL",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    327
+                                ],
+                                "hijos": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "a51eee0a-fb42-43e9-942f-d12195828d15",
+                        "titulo": "14. Consejos para una comunicación eficaz",
+                        "nivel": 2,
+                        "chunk_ids": [
+                            328
+                        ],
+                        "hijos": [
+                            {
+                                "id": "8ecf6f3a-c012-4931-b430-e233d34f0349",
+                                "titulo": "CÓMO EVITAR ERRORES COMUNES DE COMUNICACIÓN",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    329
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "a7e439e4-8a89-4ba0-ba70-7806fe8b5620",
+                                "titulo": "COMUNICACIÓN ASERTIVA",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    330
+                                ],
+                                "hijos": []
+                            },
+                            {
+                                "id": "74ddec6e-5b8d-468e-9fe3-b603ddc4c19d",
+                                "titulo": "PREPARACIÓN Y ENSAYO: LA BASE DEL ÉXITO",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    331
+                                ],
+                                "hijos": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "8a5369c7-ab05-4dbd-9826-57d1e318feff",
+                        "titulo": "15. Preparación emocional y comunicación",
+                        "nivel": 2,
+                        "chunk_ids": [
+                            332
+                        ],
+                        "hijos": []
+                    },
+                    {
+                        "id": "0cf3c7f6-bb05-48d1-955b-29ac037b17ba",
+                        "titulo": "16. Preparación Técnica para el Pitch",
+                        "nivel": 2,
+                        "chunk_ids": [
+                            333
+                        ],
+                        "hijos": []
+                    },
+                    {
+                        "id": "ec98c582-cb86-431f-a7c6-0e57aa85c2cf",
+                        "titulo": "17. Evaluación de Programas",
+                        "nivel": 2,
+                        "chunk_ids": [
+                            334
+                        ],
+                        "hijos": [
+                            {
+                                "id": "7676a88a-64c0-471e-97c4-47b10765d8fb",
+                                "titulo": "Criterios de evaluación e innovación",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    335
+                                ],
+                                "hijos": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "dc6ac025-76d0-4367-8623-9c7fb3adacd0",
+                        "titulo": "18. Impacto VS Método de Inversión",
+                        "nivel": 2,
+                        "chunk_ids": [
+                            336
+                        ],
+                        "hijos": []
+                    },
+                    {
+                        "id": "13b0145d-9e22-4778-968d-4105eea8a8d6",
+                        "titulo": "19. Evaluación del mercado y del cliente",
+                        "nivel": 2,
+                        "chunk_ids": [
+                            337
+                        ],
+                        "hijos": []
+                    },
+                    {
+                        "id": "5ebdc9c8-a1bd-48ca-825b-ebe1eb350a57",
+                        "titulo": "20. Técnicas de retroalimentación",
+                        "nivel": 2,
+                        "chunk_ids": [
+                            338
+                        ],
+                        "hijos": []
+                    },
+                    {
+                        "id": "10848ba6-76d9-47ac-8c13-027aae9ef382",
+                        "titulo": "21. Revisión por pares: aprendizaje colaborativo",
+                        "nivel": 2,
+                        "chunk_ids": [
+                            339
+                        ],
+                        "hijos": []
+                    },
+                    {
+                        "id": "0180f414-c0e8-481c-a9fc-31df690e0fdb",
+                        "titulo": "22. Hoja de ruta para las sesiones de feedback",
+                        "nivel": 2,
+                        "chunk_ids": [
+                            340
+                        ],
+                        "hijos": [
+                            {
+                                "id": "17e3ca06-41fe-4245-8a7d-e6b489ca6be2",
+                                "titulo": "PANEL DE EVALUACIÓN EXTERNA",
+                                "nivel": 3,
+                                "chunk_ids": [
+                                    341
+                                ],
+                                "hijos": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "850383e5-e1cb-4681-ab1b-e94107009de3",
+                        "titulo": "23. Lista de verificación del Pitch perfecto",
+                        "nivel": 2,
+                        "chunk_ids": [
+                            342
+                        ],
+                        "hijos": []
+                    }
+                ]
+            }
+        ]
+    }
+}

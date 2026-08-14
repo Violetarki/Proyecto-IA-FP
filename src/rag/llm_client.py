@@ -64,7 +64,7 @@ class LLMClient:
             temperature=0,
             reasoning_effort="none",
             reasoning_format="hidden",
-            max_completion_tokens=300,
+            max_completion_tokens=350,
         )
 
 

@@ -1,67 +1,94 @@
 """
-Módulo encargado de gestionar el modo de aprendizaje guiado.
+Gestiona el estado del checklist del modo guiado.
 
-Mantiene el estado de una sesión guiada, controla el paso actual,
-registra las respuestas del alumno y gestiona el avance entre
-los pasos definidos en un proceso.
-"""
-
-
-"""
-GuidedMode → estado/progreso → obtención del paso → construcción del contexto 
-→ interacción con el LLM → procesamiento de la respuesta → avance o permanencia en el paso.
+GuidedMode no conoce ninguna metodología concreta.
+La estructura de pasos la prepara guided_steps.py.
 """
 
 
 class GuidedMode:
-    """Gestiona una sesión de aprendizaje guiada paso a paso."""
+    """Gestiona el progreso del alumno en el modo checklist."""
 
-    def __init__(self):
-        self.activo = False
-        self.pasos = []
-        self.paso_actual = 0
-        self.progreso = []
+    def estado_inicial(self, pasos_ids: list[str]) -> dict:
+        """
+        Crea el estado inicial del checklist.
+        """
 
+        return {
+            "activo": True,
+            "pasos_ids": pasos_ids,
+            "completados": [],
+            "paso_actual": None,
+        }
 
-   
-    def iniciar(self, nodo_proceso):
-        """Inicia una nueva sesión guiada."""
-        self.pasos = nodo_proceso.hijos
-        self.paso_actual = 0
-        self.progreso = []
-        self.activo = True
+    def seleccionar_paso(
+        self,
+        estado: dict,
+        paso_id: str,
+    ) -> dict:
+        """Selecciona el elemento que el alumno quiere trabajar."""
 
-     
-    def obtener_paso_actual(self):
-        """Devuelve el paso que se está trabajando actualmente."""
-        if not self.activo:
+        if not estado.get("activo"):
+            return estado
+
+        if paso_id not in estado.get("pasos_ids", []):
+            return estado
+
+        estado["paso_actual"] = paso_id
+
+        return estado
+
+    def marcar_completado(
+        self,
+        estado: dict,
+        paso_id: str,
+    ) -> dict:
+        """Marca un elemento como completado."""
+
+        if paso_id not in estado.get("pasos_ids", []):
+            return estado
+
+        if paso_id not in estado["completados"]:
+            estado["completados"].append(paso_id)
+
+        return estado
+
+    def desmarcar_completado(
+        self,
+        estado: dict,
+        paso_id: str,
+    ) -> dict:
+        """Permite desmarcar un elemento previamente completado."""
+
+        if paso_id in estado.get("completados", []):
+            estado["completados"].remove(paso_id)
+
+        return estado
+
+    def obtener_paso_actual(
+        self,
+        estado: dict,
+        arbol,
+    ):
+        """Devuelve el nodo actualmente seleccionado."""
+
+        paso_id = estado.get("paso_actual")
+
+        if not paso_id:
             return None
 
-        return self.pasos[self.paso_actual]
+        return arbol.buscar_por_id(paso_id)
 
-    
-    def procesar_respuesta(self, respuesta_alumno):
-        """Procesa la respuesta del alumno y avanza al siguiente paso."""
+    def esta_completado(
+        self,
+        estado: dict,
+        paso_id: str,
+    ) -> bool:
+        """Indica si un elemento está completado."""
 
-        if not self.activo:
-            return
+        return paso_id in estado.get("completados", [])
 
-        self.progreso.append({
-            "paso": self.pasos[self.paso_actual].titulo,
-            "respuesta": respuesta_alumno,
-        })
+    def esta_activo(self, estado: dict) -> bool:
+        """Indica si el modo guiado está activo."""
 
-        self.paso_actual += 1
-
-        if self.paso_actual >= len(self.pasos):
-            self.finalizar()
-
-
-    def esta_activo(self):
-        return self.activo
-
-    def finalizar(self):
-        """Finaliza la sesión guiada."""
-        self.activo = False
-
-
+        return estado.get("activo", False)

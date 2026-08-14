@@ -14,41 +14,34 @@ sin afectar al chatbot ni al retriever.
 
 from src.core.models import Chunk, Mensaje
 import logging
+import textwrap
+
+logger = logging.getLogger(__name__)
+
 
 INSTRUCCIONES = (
     "Eres un profesor de Formación Profesional.\n"
-    "Responde únicamente con la información del contexto.\n"
-    "Si el contexto no contiene la respuesta, indícalo.\n"
-    "No inventes información.\n"
-    "No copies grandes fragmentos del contexto.\n"
-    "Explica la respuesta con tus propias palabras.\n"
-    "Combina la información de varios fragmentos cuando sea necesario.\n"
-    "Limita la respuesta a lo necesario para responder la pregunta."
-    
-    # Posible mejorado prompt:
-    
-    # El contexto proporcionado contiene la información que debes utilizar para responder.
-    # El historial solo sirve para entender posibles referencias a preguntas anteriores.
-    # Prioriza siempre la pregunta actual y el contexto recuperado.
-    # No utilices información del historial para responder si no está respaldada por el contexto actual.
+    "Responde solo con la información del contexto proporcionado; "
+    "si no la contiene, indícalo y no inventes nada.\n"
+    "Explica con tus propias palabras, combinando varios fragmentos "
+    "si es necesario, sin copiar textos largos.\n"
+    "Responde en texto plano: no uses Markdown (nada de **, #, guiones "
+    "de lista, etc.). Para listas, usa numeración simple (1. 2. 3.).\n"
+    "No añadas sangrías al inicio de las líneas.\n"
+    "Sé conciso: entre 80 y 180 palabras, ajustando según la complejidad "
+    "de la pregunta, pero si necesitas un poco más usa máximo 200 palabras."
 )
 
 INSTRUCCIONES_GUIADO = (
-    "Eres un profesor de Formación Profesional y estás guiando al alumno "
-    "paso a paso por un proceso.\n"
-    "Trabaja únicamente con la información proporcionada en el contexto.\n"
-    "Explica el paso actual de forma clara y adecuada al nivel del alumno.\n"
-    "Ten en cuenta el progreso anterior del alumno para mantener la continuidad.\n"
-    "Céntrate únicamente en el paso actual.\n"
-    "Después de explicar el paso, formula una pregunta o actividad breve "
-    "para que el alumno participe.\n"
-    "Si el contexto no contiene información suficiente para explicar el paso, indícalo.\n"
-    "No inventes información.\n"
-    "No copies grandes fragmentos del contexto.\n"
-    "Explica la información con tus propias palabras."
+    "Eres un profesor de Formación Profesional guiando al alumno paso a paso.\n"
+    "Usa solo la información del contexto proporcionado; si no es suficiente, indícalo y no inventes nada.\n"
+    "Explica el paso actual con tus propias palabras, resumido donde puedas y teniendo en cuenta su progreso anterior, sin copiar textos largos.\n"
+    "Céntrate únicamente en el paso actual y termina con una pregunta "
+    "o actividad breve para que el alumno participe.\n"
+    "Responde en texto plano: no uses Markdown (nada de **, #, guiones "
+    "de lista, etc.). Para listas, usa numeración simple (1. 2. 3.).\n"
+    "Sé conciso: entre 100 y 250 palabras, sin rellenar de más pero sin cortar la explicación."
 )
-
-logger = logging.getLogger(__name__)
 
 class ConstructorPrompts:
     """Construye los prompts que se envían al modelo."""
@@ -121,30 +114,20 @@ class ConstructorPrompts:
             )
         
         contexto = self._formatear_contexto(chunks)
-        historial = self._formatear_historial(historial)
+        historial_formateado = self._formatear_historial(historial)
 
-        return f"""
-        {INSTRUCCIONES}
+        return textwrap.dedent(f"""
+            {INSTRUCCIONES}
 
-        Contexto:
-        {contexto}
+            Contexto:
+            {contexto}
 
-        Pregunta:
-        {pregunta}
+            Pregunta:
+            {pregunta}
 
-        Historial:
-        {historial}
-
-        """.strip()
-
-
-    def construir_prompt_guiado(
-        self,
-        historial: list[Mensaje],
-        pregunta: str,
-        contexto: dict,
-    ) -> str:
-        ...
+            Historial:
+            {historial_formateado}
+        """).strip()
 
 
     def construir_prompt_guiado(
@@ -179,30 +162,30 @@ class ConstructorPrompts:
             contexto["progreso"]
         )
 
-        return f"""
-        {INSTRUCCIONES_GUIADO}
+        return textwrap.dedent(f"""
+            {INSTRUCCIONES_GUIADO}
 
-        Paso actual:
-        {contexto["titulo"]}
+            Paso actual:
+            {contexto["titulo"]}
 
-        Ruta del proceso:
-        {" > ".join(contexto["ruta"])}
+            Ruta del proceso:
+            {" > ".join(contexto["ruta"])}
 
-        Paso padre:
-        {contexto["padre"]}
+            Paso padre:
+            {contexto["padre"]}
 
-        Información del paso:
-        {contexto_chunks}
+            Información del paso:
+            {contexto_chunks}
 
-        Progreso anterior del alumno:
-        {progreso_formateado}
+            Progreso anterior del alumno:
+            {progreso_formateado}
 
-        Pregunta del alumno:
-        {pregunta}
+            Pregunta del alumno:
+            {pregunta}
 
-        Historial de la conversación:
-        {historial_formateado}
-        """.strip()
+            Historial de la conversación:
+            {historial_formateado}
+        """).strip()
 
 
     def _formatear_progreso(
@@ -222,14 +205,7 @@ class ConstructorPrompts:
         if not progreso:
             return "(sin progreso previo)"
 
-        lineas: list[str] = []
-
-        for entrada in progreso:
-            lineas.append(
-                f"- Paso: {entrada['paso']}\n"
-                f"  Respuesta del alumno: {entrada['respuesta']}"
-            )
-
+        lineas = [f"- {titulo}" for titulo in progreso]
         return "\n".join(lineas)
 
 

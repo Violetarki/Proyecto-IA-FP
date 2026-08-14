@@ -24,6 +24,7 @@ from src.rag.llm_client import LLMClient
 from src.rag.historial import Historial
 from src.rag.context_expander import ContextExpander
 from src.rag.intent_classifier import IntentClassifier
+from src.rag.guided_steps import obtener_ids_pasos
 from src.rag.guided_mode import GuidedMode
 from src.rag.guided_context_builder import GuidedContextBuilder
 from src.core.models import Mensaje
@@ -67,8 +68,11 @@ class RAG:
         self,
         pregunta: str,
         metodologia: str,
+        id_conversacion: str,
         modo_guiado: bool = False,
-    ) -> str:
+        estado_guiado: dict | None = None,
+        paso_id: str | None = None,
+    ) -> tuple[str, dict | None]:
 
         """
         Genera una respuesta utilizando el flujo completo del sistema RAG.
@@ -83,7 +87,7 @@ class RAG:
 
         logger.info("Recuperando contexto...")
 
-        historial = self.historial.obtener_contexto(self.id_conversacion)
+        historial = self.historial.obtener_contexto(id_conversacion)
 
         intencion = self.intent_classifier.clasificar(pregunta)
 
@@ -94,10 +98,26 @@ class RAG:
             intencion.metodo,
         )
 
+        consulta_retrieval = pregunta
+
+        if modo_guiado and paso_id is not None:
+
+            arbol = self.arboles[metodologia]
+            paso = arbol.buscar_por_id(paso_id)
+
+            if paso is not None:
+                consulta_retrieval = paso.titulo
+
+                logger.info(
+                    "Consulta guiada basada en paso | paso=%s | consulta=%s",
+                    paso_id,
+                    consulta_retrieval,
+                )
+
         candidatos = self.retriever.recuperar_candidatos(
-            pregunta,
+            consulta_retrieval,
             metodologia,
-        )       
+        )      
 
         logger.info(
             "Consulta RAG | metodología=%s | candidatos=%d",
@@ -121,47 +141,104 @@ class RAG:
 
         logger.info("Construyendo prompt...")
 
+        arbol = self.arboles[metodologia]
 
-        # Indica si en esta llamada acabamos de iniciar una guía.
-        guia_iniciada = False
+        # ---------------------------------------------------------
+        # MODO GUIADO
+        # ---------------------------------------------------------
 
-        # Indica si necesitamos consultar al LLM para generar la respuesta.
         generar_con_llm = True
 
-        if modo_guiado and not self.guided_mode.esta_activo():
-            # Inicia la guía con los pasos de la metodología seleccionada.
-            arbol = self.arboles[metodologia]
-            self.guided_mode.iniciar(arbol.raiz)
-            guia_iniciada = True
+        if modo_guiado:
 
+            # Obtener los pasos disponibles para esta metodología.
+            pasos_ids = obtener_ids_pasos(
+                metodologia,
+                arbol,
+            )
 
-        if self.guided_mode.esta_activo():
-            # Si la guía ya estaba activa, la pregunta es la respuesta al paso anterior.
-            if not guia_iniciada:
-                self.guided_mode.procesar_respuesta(pregunta)
+            # Si todavía no existe checklist, lo inicializamos.
+            if estado_guiado is None:
 
-            if not self.guided_mode.esta_activo():
-                # No quedan más pasos: la guía acaba de finalizar.
-                respuesta = "¡Guía acabada, buen trabajo!"
+                estado_guiado = self.guided_mode.estado_inicial(pasos_ids)
+
+            # Comprobamos que el estado pertenece a la estructura
+            # actual de la metodología.
+            estado_guiado["pasos_ids"] = pasos_ids
+
+            # Si desde la interfaz se ha seleccionado un paso,
+            # lo guardamos como paso actual.
+            if paso_id is not None:
+
+                estado_guiado = self.guided_mode.seleccionar_paso(
+                    estado_guiado,
+                    paso_id,
+                )
+
+            # Obtenemos el elemento actualmente seleccionado.
+            paso = self.guided_mode.obtener_paso_actual(
+                estado_guiado,
+                arbol,
+            )            
+
+            if paso is None:
+
+                # Todavía no se ha seleccionado ningún elemento.
+                respuesta = (
+                    "Selecciona un elemento del checklist "
+                    "para comenzar a trabajar en él."
+                )
+
                 generar_con_llm = False
-            else:
-                # Obtiene el paso que toca trabajar ahora.
-                paso = self.guided_mode.obtener_paso_actual()
 
-                # Construye el contexto específico de la guía.
+            else:
+                
+                pregunta_guiada = (
+                    f"Quiero trabajar la actividad '{paso.titulo}'. "
+                    "Ayúdame a realizarla paso a paso utilizando el contexto "
+                    "proporcionado y teniendo en cuenta el progreso realizado."
+                )
+
+                logger.info(
+                    "Modo guiado | paso=%s | id=%s",
+                    paso.titulo,
+                    paso.id,
+                )
+
+                chunks_paso = []
+
+                nodos_contexto = [paso] + paso.hijos
+
+                for nodo in nodos_contexto:
+
+                    chunks_paso.extend(
+                        self.retriever.recuperar_por_nodo(
+                            nodo.id,
+                            metodologia,
+                        )
+                    )
+
+                # Construimos el contexto específico del elemento.
                 contexto_guiado = self.guided_context_builder.construir(
                     paso=paso,
-                    chunks=candidatos_expandidos,
-                    progreso=self.guided_mode.progreso,
+                    chunks=chunks_paso,
+                    progreso=estado_guiado.get("completados", []),
+                    arbol=arbol,
                 )
 
-                # Construye el prompt específico para el modo guiado.
+                # Prompt específico del modo guiado.
                 prompt = self.prompt_builder.construir_prompt_guiado(
                     historial,
-                    pregunta,
+                    pregunta_guiada,
                     contexto_guiado,
                 )
+
+        # ---------------------------------------------------------
+        # MODO PREGUNTAS
+        # ---------------------------------------------------------
+
         else:
+
             prompt = self.prompt_builder.construir_prompt(
                 historial,
                 pregunta,
@@ -169,7 +246,7 @@ class RAG:
             )
 
         if generar_con_llm:
-            
+
             logger.debug("\n========== PROMPT ==========\n")
             logger.debug("%s", prompt)
             logger.debug("\n============================\n")
@@ -180,16 +257,10 @@ class RAG:
             respuesta = self.llm.generar_respuesta(prompt)
 
         # Guardar la pregunta en historial
-        self.historial.agregar_mensaje(
-            self.id_conversacion,
-            Mensaje("user", pregunta)
-        )
+        self.historial.agregar_mensaje(id_conversacion, Mensaje("user", pregunta))
 
         # Guardar la respuesta en historial
-        self.historial.agregar_mensaje(
-            self.id_conversacion,
-            Mensaje("bot", respuesta)
-        )
+        self.historial.agregar_mensaje(id_conversacion, Mensaje("bot", respuesta))
 
         logger.info("Respuesta recibida.")
-        return respuesta
+        return respuesta, estado_guiado

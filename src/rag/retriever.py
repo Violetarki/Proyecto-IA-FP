@@ -103,3 +103,15 @@ class Retriever:
             metodologia,
             k,
         )
+        
+    def recuperar_por_nodo(
+        self,
+        node_id: str,
+        metodologia: str,
+    ) -> list:
+        """
+            Recupera directamente los chunks pertenecientes a un nodo del árbol,
+            sin pasar por búsqueda semántica. Se usa en modo guiado.
+        """
+
+        return self.vector_store.obtener_por_nodo(node_id, metodologia)

@@ -1,4 +1,3 @@
-
 """
     Gestiona el historial de conversaciones guardado en un archivo JSON.
     Permite recuperar los mensajes de una conversación por su identificador
@@ -8,10 +7,11 @@
 
 import logging
 import json
-from src.core.config import CARPETA_HISTORIAL
-
+from filelock import FileLock
 from pathlib import Path
+
 from src.core.models import Mensaje
+from src.core.config import CARPETA_HISTORIAL
 
 logger = logging.getLogger(__name__)
 
@@ -20,6 +20,7 @@ class Historial:
 
     def __init__(self, ruta_historial: str = CARPETA_HISTORIAL):
         self.ruta = Path(ruta_historial)
+        self.lock = FileLock(str(self.ruta) + ".lock")
 
     def obtener_historial(self, id_conversacion: str) -> list[Mensaje]:
         """
@@ -37,14 +38,13 @@ class Historial:
 
         conversaciones = self._cargar_historial()
         mensajes = conversaciones.get(id_conversacion, [])
-        
+
         logger.debug(
             "Se han recuperado %d mensajes para la conversación %s",
             len(mensajes),
             id_conversacion
         )
         return [self._mensaje_desde_dict(mensaje) for mensaje in mensajes]
-
 
     def obtener_contexto(
         self,
@@ -72,7 +72,6 @@ class Historial:
 
         return historial[-max_mensajes:]
 
-
     def agregar_mensaje(
         self,
         id_conversacion: str,
@@ -85,15 +84,14 @@ class Historial:
             id_conversacion: Identificador de la conversación.
             mensaje: Objeto Mensaje a agregar al historial.
         """
+        with self.lock:
+            conversaciones = self._cargar_historial()
 
-        conversaciones = self._cargar_historial()
+            if id_conversacion not in conversaciones:
+                conversaciones[id_conversacion] = []
 
-        if id_conversacion not in conversaciones:
-            conversaciones[id_conversacion] = []
-
-        conversaciones[id_conversacion].append(self._mensaje_a_dict(mensaje))
-        self._guardar_historial(conversaciones)
-
+            conversaciones[id_conversacion].append(self._mensaje_a_dict(mensaje))
+            self._guardar_historial(conversaciones)
 
     def eliminar_conversacion(self, id_conversacion: str) -> None:
         """
@@ -102,13 +100,12 @@ class Historial:
         Args:
             id_conversacion: Identificador de la conversación a borrar.
         """
+        with self.lock:
+            conversaciones = self._cargar_historial()
 
-        conversaciones = self._cargar_historial()
-
-        if id_conversacion in conversaciones:
-            del conversaciones[id_conversacion]
-            self._guardar_historial(conversaciones)
-
+            if id_conversacion in conversaciones:
+                del conversaciones[id_conversacion]
+                self._guardar_historial(conversaciones)
 
     def _cargar_historial(self) -> dict:
         """
@@ -124,7 +121,6 @@ class Historial:
         with self.ruta.open("r", encoding="utf-8") as f:
             return json.load(f)
 
-
     def _guardar_historial(self, conversaciones: dict) -> None:
         """
         Guarda el diccionario de conversaciones en el archivo JSON.
@@ -134,12 +130,10 @@ class Historial:
         with self.ruta.open("w", encoding="utf-8") as f:
             json.dump(conversaciones, f, ensure_ascii=False, indent=4)
 
-
     def _mensaje_desde_dict(self, mensaje: dict) -> Mensaje:
         """Convierte un diccionario JSON en un objeto Mensaje."""
 
         return Mensaje(**mensaje)
-
 
     def _mensaje_a_dict(self, mensaje: Mensaje) -> dict:
         """Convierte un objeto Mensaje en un diccionario JSON."""
@@ -148,4 +142,3 @@ class Historial:
             "rol": mensaje.rol,
             "contenido": mensaje.contenido
         }
-

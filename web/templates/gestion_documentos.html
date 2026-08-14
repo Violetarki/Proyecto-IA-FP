@@ -9,6 +9,12 @@
     >
 
     <title>Gestión de documentos</title>
+    <!-- In head -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700&family=DM+Sans:wght@400;500;700&display=swap"
+        rel="stylesheet">
 
     <link
         rel="stylesheet"
@@ -19,11 +25,42 @@
 <body>
     <main class="contenedor">
 
-        <h1>Gestión de documentos</h1>
+        <div class="cabecera-gestion">
+            <h1>Gestión de documentos</h1>
 
-        <a class="boton boton-principal enlace-boton" href="{{ url_for('auth.logout') }}">
-            Cerrar sesión
-        </a>
+            <a class="boton boton-eliminar enlace-boton" href="{{ url_for('auth.logout') }}">
+                Cerrar sesión
+            </a>
+        </div>
+       
+        <div class="metodologia-activa">
+            <h2>Metodología activa para el alumnado</h2>
+        
+            <p>
+                Actualmente activa:
+                <strong>
+                    {{ mostrar_nombre_metodologia(metodologia_activa) }}
+                </strong>
+            </p>
+        
+            <form method="POST" action="{{ url_for('profesor.cambiar_metodologia_activa') }}">
+                <label for="metodologia-activa">
+                    Seleccionar metodología:
+                </label>
+        
+                <select id="metodologia-activa" name="metodologia">
+                    {% for metodologia in metodologias %}
+                    <option value="{{ metodologia }}" {% if metodologia==metodologia_activa %} selected {% endif %}>
+                        {{ mostrar_nombre_metodologia(metodologia) }}
+                    </option>
+                    {% endfor %}
+                </select>
+        
+                <button type="submit">
+                    Activar metodología
+                </button>
+            </form>
+        </div>
 
         <p class="introduccion">
             Selecciona una metodología para gestionar sus documentos PDF.
