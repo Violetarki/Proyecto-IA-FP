@@ -47,7 +47,7 @@ app.register_blueprint(profesor_bp)
 
 # La clave secreta permite que Flask gestione las sesiones.
 #
-# Primero intenta leerla desde una variable de entorno.
+# Primero intenta leerla desde una variable de entorno de .env
 # Si no existe, utiliza una clave provisional para desarrollo local.
 app.secret_key = os.getenv(
     "FLASK_SECRET_KEY",
