@@ -272,7 +272,7 @@ def seleccionar_paso():
         if estado_guiado.get("paso_actual") != paso_id:
             return {
                 "ok": False,
-                "error": "La actividad seleccionada no es válida.",
+                "error": "La actividad seleccionada no es válida. Error: 'if estado_guiado.get",
             }, 400
 
         session["guias"][metodologia] = estado_guiado
