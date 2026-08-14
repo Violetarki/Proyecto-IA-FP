@@ -103,10 +103,10 @@ class RAG:
         if modo_guiado and paso_id is not None:
 
             arbol = self.arboles[metodologia]
-            paso = arbol.buscar_por_id(paso_id)
+            paso_seleccionado = arbol.buscar_por_id(paso_id)
 
-            if paso is not None:
-                consulta_retrieval = paso.titulo
+            if paso_seleccionado is not None:
+                consulta_retrieval = paso_seleccionado.titulo
 
                 logger.info(
                     "Consulta guiada basada en paso | paso=%s | consulta=%s",
@@ -174,6 +174,19 @@ class RAG:
                     estado_guiado,
                     paso_id,
                 )
+
+                logger.warning(
+                    "GUIADO DESPUÉS SELECCIÓN | paso_id=%s | paso_actual=%s",
+                    paso_id,
+                    estado_guiado.get("paso_actual"),
+                )
+
+            logger.warning(
+                "GUIADO | paso_id=%s | pasos_ids contiene=%s | paso_actual antes=%s",
+                paso_id,
+                paso_id in estado_guiado.get("pasos_ids", []),
+                estado_guiado.get("paso_actual"),
+            )
 
             # Obtenemos el elemento actualmente seleccionado.
             paso = self.guided_mode.obtener_paso_actual(
@@ -258,7 +271,7 @@ class RAG:
 
         # Guardar la pregunta en historial
         pregunta_historial = pregunta
-        
+
         if modo_guiado and paso_id is not None:
             pregunta_historial = paso.titulo
 

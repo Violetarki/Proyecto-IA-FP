@@ -259,6 +259,16 @@ def seleccionar_paso():
     try:
 
         estado_guiado = session["guias"].get(metodologia)
+        
+        if estado_guiado is None:
+            estado_guiado = {
+                "activo": True,
+                "completados": [],
+                "paso_actual": None,
+                "pasos_ids": [],
+            }
+        else:
+            estado_guiado["activo"] = True
 
         respuesta, estado_guiado = rag.responder(
             pregunta="",
