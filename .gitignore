@@ -31,7 +31,6 @@ data/historial_conversaciones
 
 # Pruebas
 data/markdown_raw/lean_startup/manual.md
-iniciar_tunel.bat
 
 # Ignorar todo el contenido de la carpeta logs excepto el archivo que mantiene la carpeta
 data/logs/*
