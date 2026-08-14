@@ -325,7 +325,12 @@ Los documentos utilizados por el sistema se encuentran en:
 documents/
 ```
 
-Estos documentos constituyen la fuente de conocimiento principal del asistente.
+Estos documentos constituyen la fuente de conocimiento principal del asistente.  
+Si bien el profesor/a tiene la opción de eliminarlos o subir nuevos, el sistema indexaría esos nuevos PDFs, y los pasaría por un proceso de OCR y limpieza automática que no es suficiente para dejarlos realmente limpios en formato MD.
+
+Por ello, los cambios de archivos rompería todas la base del sistema.
+
+Recomendamos no hacerlo a menos que se quiera cambiar toda la jerarquía o los manuales son totalmente otros.
 
 ---
 
@@ -508,7 +513,7 @@ Esto permite combinar:
 
 ## Exportación de árboles
 
-Los árboles generados pueden almacenarse en formato JSON mediante:
+Los árboles generados por los distintos niveles de jerarquia de los MD # hasta #####, pueden almacenarse en formato JSON mediante:
 
 ```text
 src/knowledge/exporter.py
@@ -1054,6 +1059,7 @@ Proyecto-IA-FP/
 │       ├── embeddings.py
 │       ├── guided_context_builder.py
 │       ├── guided_mode.py
+        ├── guided_steps
 │       ├── historial.py
 │       ├── intent_classifier.py
 │       ├── llm_client.py
@@ -1101,7 +1107,6 @@ Proyecto-IA-FP/
 | Groq                  | Cliente para el modelo de lenguaje                                              |
 | Qwen 3.6 27B          | Modelo de lenguaje configurado                                                  |
 | NumPy                 | Operaciones numéricas                                                           |
-| PyMuPDF               | Procesamiento de documentos                                                     |
 | python-dotenv         | Gestión de variables de entorno                                                 |
 | filelock              | Bloqueo de archivos para evitar condiciones de carrera al escribir el historial |
 
@@ -1112,7 +1117,7 @@ Proyecto-IA-FP/
 ## 1. Clonar el repositorio
 
 ```bash
-git clone <URL_DEL_REPOSITORIO>
+git clone <github.com/Violetarki>
 cd Proyecto-IA-FP
 ```
 
