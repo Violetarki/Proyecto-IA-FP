@@ -1,7 +1,7 @@
 :root {
     /* Fuentes */
-    --font-ui: "Manrope", "Segoe UI", sans-serif;
-    --font-texto: "Inter", "Segoe UI", sans-serif;
+    --font-ui: "Plus Jakarta Sans", "Inter", sans-serif;
+    --font-texto: "DM Sans", "Inter", sans-serif;
 
 /* Colores */
     --color-bg: #F4F6F6;
@@ -779,7 +779,7 @@ button,
     font-size: 15px;
     line-height: 1.65;
     overflow-wrap: anywhere;
-    white-space: pre-wrap;
+    white-space: pre-line;
 }
 
 .mensaje-bot {

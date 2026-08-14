@@ -14,6 +14,10 @@ sin afectar al chatbot ni al retriever.
 
 from src.core.models import Chunk, Mensaje
 import logging
+import textwrap
+
+logger = logging.getLogger(__name__)
+
 
 INSTRUCCIONES = (
     "Eres un profesor de Formación Profesional.\n"
@@ -38,8 +42,6 @@ INSTRUCCIONES_GUIADO = (
     "de lista, etc.). Para listas, usa numeración simple (1. 2. 3.).\n"
     "Sé conciso: entre 100 y 250 palabras, sin rellenar de más pero sin cortar la explicación."
 )
-
-logger = logging.getLogger(__name__)
 
 class ConstructorPrompts:
     """Construye los prompts que se envían al modelo."""
@@ -114,19 +116,18 @@ class ConstructorPrompts:
         contexto = self._formatear_contexto(chunks)
         historial_formateado = self._formatear_historial(historial)
 
-        return f"""
-        {INSTRUCCIONES}
+        return textwrap.dedent(f"""
+            {INSTRUCCIONES}
 
-        Contexto:
-        {contexto}
+            Contexto:
+            {contexto}
 
-        Pregunta:
-        {pregunta}
+            Pregunta:
+            {pregunta}
 
-        Historial:
-        {historial_formateado}
-
-        """.strip()
+            Historial:
+            {historial_formateado}
+        """).strip()
 
 
     def construir_prompt_guiado(
@@ -161,30 +162,30 @@ class ConstructorPrompts:
             contexto["progreso"]
         )
 
-        return f"""
-        {INSTRUCCIONES_GUIADO}
+        return textwrap.dedent(f"""
+            {INSTRUCCIONES_GUIADO}
 
-        Paso actual:
-        {contexto["titulo"]}
+            Paso actual:
+            {contexto["titulo"]}
 
-        Ruta del proceso:
-        {" > ".join(contexto["ruta"])}
+            Ruta del proceso:
+            {" > ".join(contexto["ruta"])}
 
-        Paso padre:
-        {contexto["padre"]}
+            Paso padre:
+            {contexto["padre"]}
 
-        Información del paso:
-        {contexto_chunks}
+            Información del paso:
+            {contexto_chunks}
 
-        Progreso anterior del alumno:
-        {progreso_formateado}
+            Progreso anterior del alumno:
+            {progreso_formateado}
 
-        Pregunta del alumno:
-        {pregunta}
+            Pregunta del alumno:
+            {pregunta}
 
-        Historial de la conversación:
-        {historial_formateado}
-        """.strip()
+            Historial de la conversación:
+            {historial_formateado}
+        """).strip()
 
 
     def _formatear_progreso(
