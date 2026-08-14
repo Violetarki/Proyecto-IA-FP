@@ -113,12 +113,6 @@ def chat():
         elif modo == "normal":
             try:
 
-                print(
-                    "GUIAS ANTES DE PREGUNTA:",
-                    session.get("guias"),
-                    flush=True,
-                )
-
                 # Guardamos el progreso antes de la pregunta.
                 guias_guardadas = dict(session.get("guias", {}))
 
@@ -132,12 +126,6 @@ def chat():
                 # Restauramos explícitamente el progreso.
                 session["guias"] = guias_guardadas
                 session.modified = True
-
-                print(
-                    "GUIAS DESPUÉS DE PREGUNTA:",
-                    session.get("guias"),
-                    flush=True,
-                )
 
             except Exception as error:
                 flash(

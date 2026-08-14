@@ -75,8 +75,6 @@ def main() -> None:
     arbol = cargar_arbol(ruta)
     assert arbol.raiz.hijos[0].padre is arbol.raiz
 
-    print("Prueba OK")
-
 
 if __name__ == "__main__":
     main()
