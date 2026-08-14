@@ -192,7 +192,7 @@ class RAG:
                 generar_con_llm = False
 
             else:
-                
+
                 pregunta_guiada = (
                     f"Quiero trabajar la actividad '{paso.titulo}'. "
                     "Ayúdame a realizarla paso a paso utilizando el contexto "
@@ -257,7 +257,15 @@ class RAG:
             respuesta = self.llm.generar_respuesta(prompt)
 
         # Guardar la pregunta en historial
-        self.historial.agregar_mensaje(id_conversacion, Mensaje("user", pregunta))
+        pregunta_historial = pregunta
+        
+        if modo_guiado and paso_id is not None:
+            pregunta_historial = paso.titulo
+
+        self.historial.agregar_mensaje(
+            id_conversacion,
+            Mensaje("user", pregunta_historial)
+        )
 
         # Guardar la respuesta en historial
         self.historial.agregar_mensaje(id_conversacion, Mensaje("bot", respuesta))
