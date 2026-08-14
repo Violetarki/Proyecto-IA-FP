@@ -6,6 +6,10 @@ registra los Blueprints y establece la configuración global.
 """
 
 import os
+from dotenv import load_dotenv
+
+load_dotenv()
+
 import logging
 from pathlib import Path
 from flask import Flask
