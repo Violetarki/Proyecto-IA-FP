@@ -1,4 +1,7 @@
 import os
+from dotenv import load_dotenv
+
+load_dotenv()
 from pathlib import Path
 
 RAIZ_PROYECTO = Path(__file__).resolve().parent.parent.parent
