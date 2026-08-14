@@ -88,12 +88,13 @@ class LLMClient:
         try:
             respuesta = self._consultar_modelo(prompt)
 
-            logger.debug("=" * 50)
-            logger.debug("Modelo: %s", self.modelo)
-            logger.debug("Prompt: %d tokens", respuesta.usage.prompt_tokens)
-            logger.debug("Respuesta: %d tokens", respuesta.usage.completion_tokens)
-            logger.debug("Total: %d tokens", respuesta.usage.total_tokens)
-            logger.debug("=" * 50)
+            # Logger debug para ver el gasto aprox de tokens
+            # logger.debug("=" * 50)
+            # logger.debug("Modelo: %s", self.modelo)
+            # logger.debug("Prompt: %d tokens", respuesta.usage.prompt_tokens)
+            # logger.debug("Respuesta: %d tokens", respuesta.usage.completion_tokens)
+            # logger.debug("Total: %d tokens", respuesta.usage.total_tokens)
+            # logger.debug("=" * 50)
 
         except Exception as e:
             logger.exception("Error al comunicarse con el modelo de lenguaje.")
@@ -101,6 +102,9 @@ class LLMClient:
 
         respuesta = respuesta.choices[0].message.content
 
+        if respuesta is None:
+            raise RuntimeError("El modelo no ha devuelto contenido en la respuesta.")
+        
         respuesta = re.sub(
             r"<think>.*?</think>",
             "",

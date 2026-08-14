@@ -91,12 +91,12 @@ class RAG:
 
         intencion = self.intent_classifier.clasificar(pregunta)
 
-        logger.debug(
-            "Intención: %s | Keywords: %s | Método: %s",
-            intencion.intencion,
-            intencion.palabras_clave,
-            intencion.metodo,
-        )
+        # logger.debug(
+        #     "Intención: %s | Keywords: %s | Método: %s",
+        #     intencion.intencion,
+        #     intencion.palabras_clave,
+        #     intencion.metodo,
+        # )
 
         consulta_retrieval = pregunta
 
@@ -119,23 +119,24 @@ class RAG:
             metodologia,
         )      
 
-        logger.info(
-            "Consulta RAG | metodología=%s | candidatos=%d",
-            metodologia,
-            len(candidatos),
-        )
+        # Logger para info de cada chunk que recupera el retriever
+        # logger.info(
+        #     "Consulta RAG | metodología=%s | candidatos=%d",
+        #     metodologia,
+        #     len(candidatos),
+        # )
 
-        for candidato in candidatos:
-            logger.debug(
-                "Chunk recuperado | documento=%s | ruta=%s | "
-                "título=%s | node_id=%s | índice=%d | distancia=%.3f",
-                candidato.chunk.documento.nombre,
-                candidato.chunk.documento.ruta,
-                candidato.chunk.titulo,
-                candidato.chunk.node_id,
-                candidato.chunk.indice,
-                candidato.distancia,
-            )
+        # for candidato in candidatos:
+        #     logger.debug(
+        #         "Chunk recuperado | documento=%s | ruta=%s | "
+        #         "título=%s | node_id=%s | índice=%d | distancia=%.3f",
+        #         candidato.chunk.documento.nombre,
+        #         candidato.chunk.documento.ruta,
+        #         candidato.chunk.titulo,
+        #         candidato.chunk.node_id,
+        #         candidato.chunk.indice,
+        #         candidato.distancia,
+        #     )
 
         candidatos_expandidos = self.context_expander.expandir(candidatos, intencion)
 
@@ -175,19 +176,6 @@ class RAG:
                     paso_id,
                 )
 
-                logger.warning(
-                    "GUIADO DESPUÉS SELECCIÓN | paso_id=%s | paso_actual=%s",
-                    paso_id,
-                    estado_guiado.get("paso_actual"),
-                )
-
-            logger.warning(
-                "GUIADO | paso_id=%s | pasos_ids contiene=%s | paso_actual antes=%s",
-                paso_id,
-                paso_id in estado_guiado.get("pasos_ids", []),
-                estado_guiado.get("paso_actual"),
-            )
-
             # Obtenemos el elemento actualmente seleccionado.
             paso = self.guided_mode.obtener_paso_actual(
                 estado_guiado,
@@ -212,11 +200,11 @@ class RAG:
                     "proporcionado y teniendo en cuenta el progreso realizado."
                 )
 
-                logger.info(
-                    "Modo guiado | paso=%s | id=%s",
-                    paso.titulo,
-                    paso.id,
-                )
+                # logger.info(
+                #     "Modo guiado | paso=%s | id=%s",
+                #     paso.titulo,
+                #     paso.id,
+                # )
 
                 chunks_paso = []
 

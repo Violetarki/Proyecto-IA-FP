@@ -1,5 +1,6 @@
 """
-    Modulo de prueba para la función de indexación de documentos.
+    Modulo (de prueba) para la función de indexación de documentos.
+    
     Para cuando se tenga q volver a indexar la base de datos NO desde el boton del chatbot
     Terminal: python -m pruebas_codigo.prueba_indexador    
 """

@@ -350,4 +350,4 @@ class VectorStore:
 
 
 if __name__ == "__main__":
-    print("Este módulo no está diseñado para ejecutarse directamente.")
+    print("Este módulo de la BD ChromaDB no está diseñado para ejecutarse directamente.")

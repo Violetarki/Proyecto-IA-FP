@@ -1,7 +1,5 @@
 import re
-
 from src.core.models import IntentResult
-
 
 class IntentClassifier:
     """

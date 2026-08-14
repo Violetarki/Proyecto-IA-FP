@@ -50,13 +50,13 @@ class ContextExpander:
         """
         estrategia = self._obtener_estrategia(intencion)
         
-        logger.debug(
-                    "Estrategia de contexto: %s | padres=%s | hermanos=%s | hijos=%s",
-                    intencion.intencion,
-                    estrategia.anadir_padres,
-                    estrategia.anadir_hermanos,
-                    estrategia.anadir_hijos,
-                )
+        # logger.debug(
+        #             "Estrategia de contexto: %s | padres=%s | hermanos=%s | hijos=%s",
+        #             intencion.intencion,
+        #             estrategia.anadir_padres,
+        #             estrategia.anadir_hermanos,
+        #             estrategia.anadir_hijos,
+        #         )
 
         candidatos = self._aplicar_umbrales(resultados, estrategia)
 

@@ -18,7 +18,7 @@ logger = logging.getLogger(__name__)
 
 class Historial:
 
-    def __init__(self, ruta_historial: str = CARPETA_HISTORIAL):
+    def __init__(self, ruta_historial: Path = CARPETA_HISTORIAL):
         self.ruta = Path(ruta_historial)
         self.lock = FileLock(str(self.ruta) + ".lock")
 

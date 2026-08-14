@@ -1,5 +1,7 @@
-Cargando tokenizer...
-Warning: You are sending unauthenticated requests to theHF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+# Documento que muestra los resultados de los chunks de los 3 MD
+
+Contrastados con el modelo de embedding estos son los resultados que justifican el uso de un modelo tan grande como este:
+
 Modelo: BAAI/bge-m3
 Archivos Markdown encontrados: 3
 Documentos cargados: 3
