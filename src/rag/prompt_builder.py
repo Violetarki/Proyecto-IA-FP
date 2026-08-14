@@ -40,7 +40,7 @@ INSTRUCCIONES_GUIADO = (
     "o actividad breve para que el alumno participe.\n"
     "Responde en texto plano: no uses Markdown (nada de **, #, guiones "
     "de lista, etc.). Para listas, usa numeración simple (1. 2. 3.).\n"
-    "Sé conciso: entre 100 y 250 palabras, sin rellenar de más pero sin cortar la explicación."
+    "Sé conciso: entre 100 y 400 palabras, sin rellenar de más pero sin cortar la explicación."
 )
 
 class ConstructorPrompts:
