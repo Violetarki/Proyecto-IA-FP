@@ -62,8 +62,13 @@ def inicio():
 def nueva_conversacion():
     """
     Inicia una nueva conversación sin modificar
-    el progreso del modo guiado.
+    el progreso del modo guiado, pero con nuevo historial.
     """
+    id_anterior = session.get("id_conversacion")
+
+    if id_anterior:
+        rag.historial.eliminar_conversacion(id_anterior)
+        
     session["id_conversacion"] = str(uuid.uuid4())
 
     return redirect(url_for("public.chat"))
