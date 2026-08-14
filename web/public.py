@@ -191,18 +191,6 @@ def chat():
         for paso in pasos:
             actividades_por_paso[paso.id] = obtener_actividades_lean(paso)
 
-    print(
-        "GUIAS EN SESION:",
-        session.get("guias"),
-        flush=True,
-    )
-
-    print(
-        "ESTADO GUIA ACTUAL:",
-        estado_guia,
-        flush=True,
-    )
-
     return render_template(
             "chatbot.html",
             conversacion=conversacion,
