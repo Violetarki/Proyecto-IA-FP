@@ -217,14 +217,7 @@ class ConstructorPrompts:
         if not progreso:
             return "(sin progreso previo)"
 
-        lineas: list[str] = []
-
-        for entrada in progreso:
-            lineas.append(
-                f"- Paso: {entrada['paso']}\n"
-                f"  Respuesta del alumno: {entrada['respuesta']}"
-            )
-
+        lineas = [f"- {titulo}" for titulo in progreso]
         return "\n".join(lineas)
 
 

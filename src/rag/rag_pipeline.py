@@ -222,10 +222,8 @@ class RAG:
                 contexto_guiado = self.guided_context_builder.construir(
                     paso=paso,
                     chunks=chunks_paso,
-                    progreso=estado_guiado.get(
-                        "completados",
-                        [],
-                    ),
+                    progreso=estado_guiado.get("completados", []),
+                    arbol=arbol,
                 )
 
                 # Prompt específico del modo guiado.

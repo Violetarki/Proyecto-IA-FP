@@ -1,13 +1,14 @@
 from pathlib import Path
 import uuid
-from flask import Blueprint, render_template, request, flash, session
+from flask import Blueprint, render_template, request, flash, session, redirect, url_for
 import logging
 
 logger = logging.getLogger(__name__)
 
 from src.rag.rag_pipeline import RAG
 from src.knowledge.loader import cargar_arbol
-from src.rag.guided_steps import obtener_pasos, obtener_actividades_lean, obtener_fases_simulacion
+from src.rag.guided_steps import obtener_pasos, obtener_actividades_lean
+from web.profesor import obtener_metodologia_activa
 from web.services.documentos import (
     obtener_metodologias,
     mostrar_nombre_metodologia,
@@ -57,6 +58,17 @@ def inicio():
     return render_template("inicio.html")
 
 
+@public_bp.route("/chat/nueva")
+def nueva_conversacion():
+    """
+    Inicia una nueva conversación sin modificar
+    el progreso del modo guiado.
+    """
+    session["id_conversacion"] = str(uuid.uuid4())
+
+    return redirect(url_for("public.chat"))
+
+
 @public_bp.route(
     "/chat",
     methods=["GET", "POST"],
@@ -79,10 +91,7 @@ def chat():
     if "guias" not in session:
         session["guias"] = {}
 
-    metodologia_seleccionada = request.values.get(
-        "metodologia",
-        "simulacion_empresarial",
-    )
+    metodologia_seleccionada = obtener_metodologia_activa()
 
     if metodologia_seleccionada not in metodologias:
         metodologia_seleccionada = metodologias[0] if metodologias else ""
@@ -112,11 +121,31 @@ def chat():
 
         elif modo == "normal":
             try:
+
+                print(
+                    "GUIAS ANTES DE PREGUNTA:",
+                    session.get("guias"),
+                    flush=True,
+                )
+
+                # Guardamos el progreso antes de la pregunta.
+                guias_guardadas = dict(session.get("guias", {}))
+
                 rag.responder(
                     pregunta=pregunta,
                     metodologia=metodologia_seleccionada,
                     id_conversacion=session["id_conversacion"],
                     modo_guiado=False,
+                )
+
+                # Restauramos explícitamente el progreso.
+                session["guias"] = guias_guardadas
+                session.modified = True
+
+                print(
+                    "GUIAS DESPUÉS DE PREGUNTA:",
+                    session.get("guias"),
+                    flush=True,
                 )
 
             except Exception as error:
@@ -171,6 +200,18 @@ def chat():
         for paso in pasos:
             actividades_por_paso[paso.id] = obtener_actividades_lean(paso)
 
+    print(
+        "GUIAS EN SESION:",
+        session.get("guias"),
+        flush=True,
+    )
+
+    print(
+        "ESTADO GUIA ACTUAL:",
+        estado_guia,
+        flush=True,
+    )
+
     return render_template(
             "chatbot.html",
             conversacion=conversacion,
@@ -215,9 +256,6 @@ def seleccionar_paso():
             "error": "La metodología seleccionada no es válida.",
         }, 400
 
-    if "id_conversacion" not in session:
-        session["id_conversacion"] = str(uuid.uuid4())
-
     if "guias" not in session:
         session["guias"] = {}
 
@@ -256,3 +294,77 @@ def seleccionar_paso():
             "ok": False,
             "error": "No se ha podido iniciar la actividad.",
         }, 500
+
+
+@public_bp.route(
+    "/chat/marcar-paso",
+    methods=["POST"],
+)
+def marcar_paso():
+    """
+    Guarda el estado de completado de un paso/actividad
+    para la metodología correspondiente.
+    """
+
+    metodologia = request.form.get(
+        "metodologia",
+        "",
+    ).strip()
+
+    paso_id = request.form.get(
+        "paso_id",
+        "",
+    ).strip()
+
+    completado = (
+        request.form.get(
+            "completado",
+            "false",
+        )
+        == "true"
+    )
+
+    if not metodologia or not paso_id:
+        return {
+            "ok": False,
+            "error": "Faltan datos.",
+        }, 400
+
+    if metodologia not in arboles:
+        return {
+            "ok": False,
+            "error": "La metodología no es válida.",
+        }, 400
+
+    if "guias" not in session:
+        session["guias"] = {}
+
+    estado = session["guias"].get(metodologia)
+
+    if estado is None:
+        estado = {
+            "activo": False,
+            "completados": [],
+            "paso_actual": None,
+            "pasos_ids": [],
+        }
+
+    completados = estado.setdefault(
+        "completados",
+        [],
+    )
+
+    if completado:
+        if paso_id not in completados:
+            completados.append(paso_id)
+    else:
+        if paso_id in completados:
+            completados.remove(paso_id)
+
+    session["guias"][metodologia] = estado
+    session.modified = True
+
+    return {
+        "ok": True,
+        "completado": completado,
+    }

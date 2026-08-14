@@ -75,9 +75,7 @@
                     </div>
 
                     <div class="mensaje-chat mensaje-bot">
-                        Hola. Selecciona una metodología y utiliza
-                        uno de los dos modos para trabajar con el
-                        contenido.
+                        Hola. Utiliza uno de los dos modos para trabajar con el contenido.
                     </div>
 
                 </div>
@@ -125,25 +123,14 @@
                 <!-- METODOLOGÍA -->
                 <div class="grupo-metodologia">
 
-                    <label for="metodologia" class="etiqueta-pregunta">
-                        Metodología
-                    </label>
-
-                    <select id="metodologia" name="metodologia" required>
-
-                        {% for metodologia in metodologias %}
-
-                            <option value="{{ metodologia }}" {% if metodologia==metodologia_seleccionada %} selected {%
-                                endif %}>
-                                {{ mostrar_nombre_metodologia(metodologia) }}
-                            </option>
-
-                        {% endfor %}
-
-                    </select>
+                    <div class="metodologia-actual">
+                        Metodología actual:
+                        <strong>
+                            {{ mostrar_nombre_metodologia(metodologia_seleccionada) }}
+                        </strong>
+                    </div>
 
                 </div>
-
 
                 <!-- MODOS -->
                 <div class="selector-modos">
@@ -278,7 +265,8 @@
                                                         type="checkbox" 
                                                         id="paso-{{ fase.id }}" 
                                                         class="checkbox-paso" 
-                                                        data-paso-id="{{ fase.id }}" 
+                                                        data-paso-id="{{ fase.id }}"
+                                                        data-metodologia="{{ metodologia_seleccionada }}"
                                                         {% if estado_guia and fase.id in estado_guia.completados %} 
                                                             checked 
                                                         {% endif %}
@@ -292,6 +280,7 @@
                                                         type="button" 
                                                         class="boton-empezar-paso" 
                                                         data-paso-id="{{ fase.id }}"
+                                                        data-metodologia="{{ metodologia_seleccionada }}"
                                                     >
                                                         Empezar actividad
                                                     </button>
@@ -312,7 +301,8 @@
                                                     type="checkbox" 
                                                     id="paso-{{ actividad.id }}" 
                                                     class="checkbox-paso" 
-                                                    data-paso-id="{{ actividad.id }}" 
+                                                    data-paso-id="{{ actividad.id }}"
+                                                    data-metodologia="{{ metodologia_seleccionada }}"
                                                     {% if estado_guia and actividad.id in estado_guia.completados %} 
                                                         checked 
                                                     {% endif %}
@@ -326,6 +316,7 @@
                                                     type="button" 
                                                     class="boton-empezar-paso" 
                                                     data-paso-id="{{ actividad.id }}"
+                                                    data-metodologia="{{ metodologia_seleccionada }}"
                                                 >
                                                     Empezar actividad
                                                 </button>

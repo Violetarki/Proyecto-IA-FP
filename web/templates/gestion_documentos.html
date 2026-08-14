@@ -25,6 +25,37 @@
             Cerrar sesión
         </a>
 
+        <!-- gestion_documentos.html -->
+        
+        <div class="metodologia-activa">
+            <h2>Metodología activa para el alumnado</h2>
+        
+            <p>
+                Actualmente activa:
+                <strong>
+                    {{ mostrar_nombre_metodologia(metodologia_activa) }}
+                </strong>
+            </p>
+        
+            <form method="POST" action="{{ url_for('profesor.cambiar_metodologia_activa') }}">
+                <label for="metodologia-activa">
+                    Seleccionar metodología:
+                </label>
+        
+                <select id="metodologia-activa" name="metodologia">
+                    {% for metodologia in metodologias %}
+                    <option value="{{ metodologia }}" {% if metodologia==metodologia_activa %} selected {% endif %}>
+                        {{ mostrar_nombre_metodologia(metodologia) }}
+                    </option>
+                    {% endfor %}
+                </select>
+        
+                <button type="submit">
+                    Activar metodología
+                </button>
+            </form>
+        </div>
+
         <p class="introduccion">
             Selecciona una metodología para gestionar sus documentos PDF.
         </p>

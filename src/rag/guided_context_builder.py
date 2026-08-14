@@ -13,6 +13,7 @@ class GuidedContextBuilder:
         paso: KnowledgeNode,
         chunks: list[Chunk],
         progreso: list,
+        arbol: KnowledgeTree,
     ) -> dict:
         """
         Construye el contexto del elemento seleccionado.
@@ -28,6 +29,12 @@ class GuidedContextBuilder:
             }
             for hijo in paso.hijos
         ]
+
+        progreso_titulos = []
+        for id_paso in progreso:
+            nodo = arbol.buscar_por_id(id_paso)
+            if nodo is not None:
+                progreso_titulos.append(nodo.titulo)
 
         return {
             "titulo": paso.titulo,

@@ -4,6 +4,8 @@ Rutas del panel de administración para profesores.
 Permite gestionar los documentos y reconstruir la base de conocimiento.
 """
 from pathlib import Path
+import json
+
 from flask import (
     Blueprint,
     flash,
@@ -33,6 +35,64 @@ profesor_bp = Blueprint(
     url_prefix="/profesor",
 )
 
+RUTA_CONFIGURACION = Path("data/configuracion.json")
+METODOLOGIA_ACTIVA_POR_DEFECTO = "simulacion_empresarial"
+
+
+def obtener_metodologia_activa():
+    """
+    Obtiene la metodología actualmente activa para el alumnado.
+    """
+
+    if not RUTA_CONFIGURACION.exists():
+        return METODOLOGIA_ACTIVA_POR_DEFECTO
+
+    try:
+        with RUTA_CONFIGURACION.open(
+            "r",
+            encoding="utf-8",
+        ) as archivo:
+            configuracion = json.load(archivo)
+
+        metodologia = configuracion.get(
+            "metodologia_activa",
+            METODOLOGIA_ACTIVA_POR_DEFECTO,
+        )
+
+        if metodologia in obtener_metodologias():
+            return metodologia
+
+    except (OSError, json.JSONDecodeError):
+        pass
+
+    return METODOLOGIA_ACTIVA_POR_DEFECTO
+
+
+def guardar_metodologia_activa(metodologia):
+    """
+    Guarda la metodología activa para el alumnado.
+    """
+
+    RUTA_CONFIGURACION.parent.mkdir(
+        parents=True,
+        exist_ok=True,
+    )
+
+    configuracion = {
+        "metodologia_activa": metodologia,
+    }
+
+    with RUTA_CONFIGURACION.open(
+        "w",
+        encoding="utf-8",
+    ) as archivo:
+        json.dump(
+            configuracion,
+            archivo,
+            ensure_ascii=False,
+            indent=4,
+        )
+
 
 @profesor_bp.route("/documentos")
 @login_requerido
@@ -51,12 +111,65 @@ def gestionar_documentos():
     if metodologia_seleccionada in metodologias:
         documentos = obtener_documentos(metodologia_seleccionada)
 
+    metodologia_activa = obtener_metodologia_activa()
+
     return render_template(
         "gestion_documentos.html",
         metodologias=metodologias,
-        metodologia_seleccionada=(metodologia_seleccionada),
+        metodologia_seleccionada=metodologia_seleccionada,
+        metodologia_activa=metodologia_activa,
         documentos=documentos,
-        mostrar_nombre_metodologia=(mostrar_nombre_metodologia),
+        mostrar_nombre_metodologia=mostrar_nombre_metodologia,
+    )
+
+
+@profesor_bp.route(
+    "/metodologia-activa",
+    methods=["POST"],
+)
+@login_requerido
+def cambiar_metodologia_activa():
+    """
+    Cambia la metodología que verá y utilizará el alumnado.
+    """
+
+    metodologia = request.form.get(
+        "metodologia",
+        "",
+    ).strip()
+
+    metodologias = obtener_metodologias()
+
+    if metodologia not in metodologias:
+        flash(
+            "La metodología seleccionada no es válida.",
+            "error",
+        )
+
+        return redirect(url_for("profesor.gestionar_documentos"))
+
+    try:
+        guardar_metodologia_activa(metodologia)
+
+        flash(
+            (
+                "Metodología activa cambiada a "
+                f"{mostrar_nombre_metodologia(metodologia)}."
+            ),
+            "exito",
+        )
+
+    except OSError as error:
+        flash(
+            ("No se ha podido cambiar la metodología activa: " f"{error}"),
+            "error",
+        )
+
+    return redirect(
+        url_for(
+            "profesor.gestionar_documentos",
+            metodologia=metodologia,
+        )
     )
 
 
