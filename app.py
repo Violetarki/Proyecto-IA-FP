@@ -6,14 +6,10 @@ registra los Blueprints y establece la configuración global.
 """
 
 import os
-from dotenv import load_dotenv
-
-load_dotenv()
-
 import logging
 from pathlib import Path
 from flask import Flask
-
+from src.core.config import FLASK_SECRET_KEY
 from web.public import public_bp
 from web.auth import auth_bp
 from web.profesor import profesor_bp
@@ -49,10 +45,7 @@ app.register_blueprint(profesor_bp)
 #
 # Primero intenta leerla desde una variable de entorno de .env
 # Si no existe, utiliza una clave provisional para desarrollo local.
-app.secret_key = os.getenv(
-    "FLASK_SECRET_KEY",
-    "clave-provisional-desarrollo",
-)
+app.secret_key = FLASK_SECRET_KEY
 
 
 if __name__ == "__main__":

@@ -2,6 +2,7 @@ import os
 from dotenv import load_dotenv
 
 load_dotenv()
+
 from pathlib import Path
 
 RAIZ_PROYECTO = Path(__file__).resolve().parent.parent.parent
@@ -47,4 +48,9 @@ USUARIO_PROFESOR = os.getenv(
 CONTRASENA_PROFESOR = os.getenv(
     "CONTRASENA_PROFESOR",
     "profesor123",
+)
+
+FLASK_SECRET_KEY = os.getenv(
+    "FLASK_SECRET_KEY",
+    "clave-provisional-desarrollo",
 )
