@@ -179,13 +179,7 @@ class RAG:
             paso = self.guided_mode.obtener_paso_actual(
                 estado_guiado,
                 arbol,
-            )
-
-            pregunta_guiada = (
-                f"Quiero trabajar la actividad '{paso.titulo}'. "
-                "Ayúdame a realizarla paso a paso utilizando el contexto "
-                "proporcionado y teniendo en cuenta el progreso realizado."
-            )
+            )            
 
             if paso is None:
 
@@ -198,6 +192,12 @@ class RAG:
                 generar_con_llm = False
 
             else:
+                
+                pregunta_guiada = (
+                    f"Quiero trabajar la actividad '{paso.titulo}'. "
+                    "Ayúdame a realizarla paso a paso utilizando el contexto "
+                    "proporcionado y teniendo en cuenta el progreso realizado."
+                )
 
                 logger.info(
                     "Modo guiado | paso=%s | id=%s",
