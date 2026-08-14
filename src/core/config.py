@@ -15,6 +15,16 @@ CARPETA_VECTOR_STORE = CARPETA_DATA / "vector_store"
 CARPETA_HISTORIAL = CARPETA_DATA / "historial_conversaciones.json"
 CARPETA_KNOWLEDGE = CARPETA_DATA / "knowledge"
 
+# Árboles de conocimiento disponibles.
+RUTA_ARBOL_LEAN = CARPETA_KNOWLEDGE / "lean_startup.json"
+RUTA_ARBOL_SIMULACION = CARPETA_KNOWLEDGE / "simulacion_empresarial.json"
+RUTA_ARBOL_COMPLEMENTARIO = CARPETA_KNOWLEDGE / "se_material_complementario.json"
+
+# Ruta config profesor/a de la metodologia activa
+RUTA_CONFIGURACION = CARPETA_DATA / "configuracion.json"
+
+METODOLOGIA_ACTIVA_POR_DEFECTO = "simulacion_empresarial"
+
 MANUALES_CON_KNOWLEDGE = {
     "lean_startup",
     "simulacion_empresarial",

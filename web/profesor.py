@@ -5,7 +5,7 @@ Permite gestionar los documentos y reconstruir la base de conocimiento.
 """
 from pathlib import Path
 import json
-
+from werkzeug.utils import secure_filename
 from flask import (
     Blueprint,
     flash,
@@ -15,12 +15,8 @@ from flask import (
     url_for,
 )
 
-from werkzeug.utils import secure_filename
-
 from src.ingestion.indexador import indexar_documentos
-
 from web.services.auth import login_requerido
-
 from web.services.documentos import (
     es_pdf,
     mostrar_nombre_metodologia,
@@ -35,9 +31,7 @@ profesor_bp = Blueprint(
     url_prefix="/profesor",
 )
 
-RUTA_CONFIGURACION = Path("data/configuracion.json")
-METODOLOGIA_ACTIVA_POR_DEFECTO = "simulacion_empresarial"
-
+from src.core.config import RUTA_CONFIGURACION, METODOLOGIA_ACTIVA_POR_DEFECTO
 
 def obtener_metodologia_activa():
     """

@@ -14,11 +14,7 @@ from web.services.documentos import (
     mostrar_nombre_metodologia,
 )
 
-# Árboles de conocimiento disponibles.
-RUTA_ARBOL_LEAN = Path( "data/knowledge/lean_startup.json" ) 
-RUTA_ARBOL_SIMULACION = Path( "data/knowledge/simulacion_empresarial.json" ) 
-RUTA_ARBOL_COMPLEMENTARIO = Path( "data/knowledge/se_material_complementario.json" )
-
+from src.core.config import RUTA_ARBOL_LEAN, RUTA_ARBOL_SIMULACION, RUTA_ARBOL_COMPLEMENTARIO
 
 arbol_lean = cargar_arbol(RUTA_ARBOL_LEAN)
 arbol_simulacion = cargar_arbol(RUTA_ARBOL_SIMULACION)
@@ -31,9 +27,7 @@ arboles = {
     "se_material_complementario": arbol_complementario,
 }
 
-
 rag = RAG(arboles)
-
 
 public_bp = Blueprint(
     "public",
@@ -282,7 +276,7 @@ def seleccionar_paso():
         if estado_guiado.get("paso_actual") != paso_id:
             return {
                 "ok": False,
-                "error": "La actividad seleccionada no es válida. Error: 'if estado_guiado.get",
+                "error": "La actividad seleccionada no es válida.",
             }, 400
 
         session["guias"][metodologia] = estado_guiado
