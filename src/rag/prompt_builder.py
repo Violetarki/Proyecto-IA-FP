@@ -24,16 +24,16 @@ INSTRUCCIONES = (
     "Explica la respuesta con tus propias palabras.\n"
     "Combina la información de varios fragmentos cuando sea necesario.\n"
     "Limita la respuesta a lo necesario para responder la pregunta."
-    
+    "No añadas sangrías al inicio de las líneas."
+    "Responde en texto plano, sin usar elementos Markdown como **negrita** u otros. Y usa numeración para listas."
     # Posible mejorado prompt:
-    
     # El contexto proporcionado contiene la información que debes utilizar para responder.
     # El historial solo sirve para entender posibles referencias a preguntas anteriores.
     # Prioriza siempre la pregunta actual y el contexto recuperado.
     # No utilices información del historial para responder si no está respaldada por el contexto actual.
     # Modo preguntas: Responde de forma clara y suficiente. La respuesta debe tener aproximadamente entre 80 y 180 palabras,
     # adaptándose a la complejidad de la pregunta. No alargues la respuesta innecesariamente.
-    # Modo guía: Explica únicamente lo necesario para ayudar al alumno con el paso seleccionado. 
+    # Modo guía: Explica únicamente lo necesario para ayudar al alumno con el paso seleccionado.
     # Responde aproximadamente entre 80 y 200 palabras. Si el paso requiere una explicación más breve, no rellenes artificialmente.
 )
 
